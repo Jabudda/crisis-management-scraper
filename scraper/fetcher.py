@@ -9,6 +9,8 @@ import requests
 import feedparser
 from datetime import datetime
 from typing import List, Dict
+from bs4 import BeautifulSoup
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -54,7 +56,7 @@ class NewsFetcher:
             for entry in feed.entries[:20]:  # Limit to 20 most recent
                 event = {
                     'title': entry.get('title', 'No title'),
-                    'description': entry.get('summary', entry.get('description', '')),
+                    'description': self._clean_html(entry.get('summary', entry.get('description', ''))),
                     'url': entry.get('link', ''),
                     'published': self._parse_date(entry.get('published', entry.get('updated', ''))),
                     'source': source_name,
@@ -93,7 +95,7 @@ class NewsFetcher:
             for article in articles[:20]:  # Limit to 20 most recent
                 event = {
                     'title': article.get('title', 'No title'),
-                    'description': article.get('description', article.get('content', '')),
+                    'description': self._clean_html(article.get('description', article.get('content', ''))),
                     'url': article.get('url', article.get('link', '')),
                     'published': article.get('publishedAt', article.get('pubDate', '')),
                     'source': source_name,
@@ -146,6 +148,28 @@ class NewsFetcher:
             time.sleep(1)
         
         return all_events
+    
+    def _clean_html(self, text: str) -> str:
+        """
+        Remove HTML tags and clean text
+        
+        Args:
+            text: Text that may contain HTML
+            
+        Returns:
+            Clean text without HTML tags
+        """
+        if not text:
+            return 'No description available.'
+        
+        # Parse HTML and extract text
+        soup = BeautifulSoup(text, 'html.parser')
+        clean_text = soup.get_text(separator=' ', strip=True)
+        
+        # Remove extra whitespace
+        clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+        
+        return clean_text if clean_text else 'No description available.'
     
     def _parse_date(self, date_str: str) -> str:
         """
