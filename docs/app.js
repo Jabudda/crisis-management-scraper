@@ -4,7 +4,7 @@ class CrisisDashboard {
     constructor() {
         this.events = [];
         this.currentFilter = 'all';
-        this.dataUrl = '../data/events.json';
+        this.dataUrl = 'https://raw.githubusercontent.com/Jabudda/crisis-management-scraper/main/data/events.json';
         this.init();
     }
 
