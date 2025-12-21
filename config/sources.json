@@ -101,6 +101,18 @@
       "type": "rss",
       "url": "https://www.icrc.org/en/rss",
       "enabled": true
+    },
+    {
+      "name": "Fox News US",
+      "type": "rss",
+      "url": "https://moxie.foxnews.com/google-publisher/us.xml",
+      "enabled": true
+    },
+    {
+      "name": "Fox News World",
+      "type": "rss",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "enabled": true
     }
   ]
 }
