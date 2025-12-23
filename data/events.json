@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T22:21:02.538913Z",
+  "last_updated": "2025-12-23T22:44:16.341611Z",
   "event_count": 224,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Pope calls for Christmas Day truce, laments Russia’s rejection",
+      "description": "Pope Leo XIV on Tuesday renewed his call for a worldwide truce on Christmas Day, expressing sadness that Russia had apparently rejected the appeal, as fighting in Ukraine raged on, civilians were killed in Russian air strikes, and diplomatic efforts involving the United States and Europe showed little sign of a breakthrough.",
+      "url": "https://www.france24.com/en/europe/20251223-pope-calls-for-christmas-day-truce-laments-russia-rejection",
+      "published": "Tue, 23 Dec 2025 22:35:59 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -313,6 +323,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Overnight strikes leave death, destruction and power outages in Ukraine",
+      "description": "A new wave of overnight strikes and front-line hostilities in Ukraine have caused further civilian casualties and damage to critical energy infrastructure, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2025/12/1166664",
+      "published": "Tue, 23 Dec 2025 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Myanmar elections marked by fear as UN warns civilians are coerced from all sides",
       "description": "As Myanmar approaches elections scheduled for 28 December, the UN’s top human rights official has said that civilians are being coerced from all sides – forced by the military to vote and threatened by armed opposition groups to boycott – in a climate of fear, violence and mass repression.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166662",
@@ -564,7 +584,7 @@
     },
     {
       "title": "Katie Allen, former federal Liberal MP, dies aged 59",
-      "description": "The family of the specialist doctor and former member for the Victorian seat of Higgins announced her death on Tuesday Follow our Australia news live blog for latest updates Former federal Liberal MP Katie Allen has died aged 59, her family has announced. Allen served as the member for the former seat of Higgins in Victoria from 2019 to 2022. Continue reading...",
+      "description": "The family of the specialist doctor and former member for the Victorian seat of Higgins announced her death on Tuesday Follow our Australia news live blog for latest updates Former federal Liberal MP Katie Allen has died aged 59, her family has announced. Allen served as the member for the former seat of Higgins in Victoria from 2019 to 2022. Tributes to the popular MP poured in from across the political spectrum, led by prime minister Anthony Albanese and opposition leader Sussan Ley, and former colleagues Peter Dutton, Josh Frydenberg and Scott Morrison. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2025/dec/24/katie-allen-former-federal-liberal-mp-dies-aged-59",
       "published": "Tue, 23 Dec 2025 21:12:48 GMT",
       "source": "The Guardian World",
@@ -833,16 +853,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Brown University custodian told security suspicious man was ‘casing’ building weeks before shooting: report",
-      "description": "Derek Lisi told Boston Globe he saw Brown University shooting suspect \"casing\" engineering building about 10 times since early January.",
-      "url": "https://www.foxnews.com/us/brown-university-custodian-told-security-suspicious-man-was-casing-building-weeks-before-shooting-report",
-      "published": "Mon, 22 Dec 2025 15:01:38 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Jet crash carrying Libya’s top general triggers airspace shutdown over NATO capital",
       "description": "Turkey shuts down Ankara airspace after business jet carrying Libya's top military commander crashes. Ali Ahmed Al-Haddad is feared dead.",
       "url": "https://www.foxnews.com/world/jet-crash-carrying-libyas-top-general-triggers-airspace-shutdown-over-nato-capital",
@@ -913,31 +923,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Louvre installs metal bars over infamous gallery window after $102M jewel heist",
-      "description": "The Louvre Museum has installed a large metal grille over the windows of the gallery from which thieves stole jewellery worth an estimated $102 million. The bars are the latest measure put in place in recent month as the security standards at the world's most visited museum are facing intense scrutiny following the October heist.",
-      "url": "https://www.france24.com/en/france/20251223-louvre-installs-metal-bars-over-infamous-gallery-window-after-102m-jewel-heist",
-      "published": "Tue, 23 Dec 2025 14:57:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Car hits people waiting to watch a parade in a Dutch town, injuring 9",
       "description": "Police in the Netherlands say a car has driven into a crowd waiting to watch a parade in an eastern town and injured nine people",
       "url": "https://abcnews.go.com/International/wireStory/car-hits-people-waiting-watch-parade-dutch-town-128629470",
       "published": "Mon, 22 Dec 2025 17:06:06 -0500",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Gaza: Access to food improves but living conditions remain dire",
-      "description": "A pregnant woman in Gaza thought she might lose her child because of malnourishment. Ten days ago, she gave birth and is now in recovery thanks to World Food Programme (WFP) facilities that are back up and running again, the agency’s representative for Palestine said on Thursday.",
-      "url": "https://news.un.org/feed/view/en/story/2025/12/1166632",
-      "published": "Thu, 18 Dec 2025 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1118,6 +1108,16 @@
       "url": "https://abcnews.go.com/International/wireStory/starlink-crosshairs-russia-attack-elon-musks-conquering-space-128612017",
       "published": "Mon, 22 Dec 2025 02:40:37 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Horror video captures repeat offender allegedly attacking 75-year-old woman, gouging her eye with spiked stick",
+      "description": "Newly released video shows a notorious Seattle repeat offender launching a sudden spike-club attack outside the King County Courthouse, leaving a 75-year-old woman blind in one eye.",
+      "url": "https://www.foxnews.com/us/horror-video-captures-repeat-offender-allegedly-attacking-75-year-old-woman-gouging-her-eye-spiked-stick",
+      "published": "Tue, 23 Dec 2025 17:28:31 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
