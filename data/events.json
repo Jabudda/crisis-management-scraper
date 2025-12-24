@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-24T21:20:06.276996Z",
-  "event_count": 225,
+  "last_updated": "2025-12-24T21:40:58.866297Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
@@ -418,6 +418,16 @@
       "url": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Dec 2025 16:28:22 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+      "description": "Israeli forces breach Gaza ceasefire, killing a Palestinian and wounding six, including a child, in multiple attacks.",
+      "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss",
+      "published": "Wed, 24 Dec 2025 20:56:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -1043,6 +1053,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Amad Diallo scores goal as Ivory Coast win against Mozambique at AFCON",
+      "description": "A lone goal by the Manchester United forward is enough for Ivory Coast to successfully begin their AFCON title defence.",
+      "url": "https://www.aljazeera.com/sports/2025/12/24/amad-diallo-scores-goal-as-ivory-coast-win-against-mozambique-at-afcon?traffic_source=rss",
+      "published": "Wed, 24 Dec 2025 20:48:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1228,16 +1248,6 @@
       "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Dec 2025 15:09:56 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Video: India launches ‘heaviest satellite’ into orbit",
-      "description": "India has launched what it says is the heaviest satellite ever lifted from the country, using an Indian-made launcher.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/video-india-launches-heaviest-satellite-into-orbit?traffic_source=rss",
-      "published": "Wed, 24 Dec 2025 12:09:44 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1483,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Stokes concerned for England’s mental wellbeing on Ashes tour of Australia",
-      "description": "The England cricket team have come in for heavy criticism of their performance and conduct on losing Ashes tour.",
-      "url": "https://www.aljazeera.com/sports/2025/12/24/stokes-concerned-for-england-mental-well-being-on-ashes-tour-of-australia?traffic_source=rss",
-      "published": "Wed, 24 Dec 2025 11:57:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1508,6 +1508,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-24T21:40:37.042263Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
