@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T04:56:33.413510Z",
+  "last_updated": "2025-12-25T05:27:44.615133Z",
   "event_count": 226,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Sydney to Hobart yacht race forecast to be cold, wet and bumpy as Australia’s west faces bushfire threat",
+      "description": "Melbourne on track for coldest Christmas since 2006, while Perth is facing several fires warnings as temperatures reach 40C Get our breaking news email , free app or daily news podcast The Sydney to Hobart yacht race is forecast to be cold, wet and bumpy but without a repeat of last year’s fatal conditions, as the rest of the country experiences the full range of weather events over the Christmas period, including cyclone and bushfire danger in the west. In Western Australia, residents at Boddington Goldmine were being warned it was too late to leave on Thursday afternoon as fire had impacted evacuation routes. A heatwave was creating extreme fire danger for much of south-west Western Australia for Christmas, with Perth forecast to reach 40C. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/25/sydney-to-hobart-yacht-race-forecast-to-be-cold-wet-and-bumpy-as-australias-west-faces-cyclone-and-bushfire-threat",
+      "published": "Thu, 25 Dec 2025 04:48:46 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -50,16 +60,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Sydney to Hobart yacht race forecast to be cold, wet and bumpy as Australia’s west faces bushfire threat",
-      "description": "Melbourne on track for coldest Christmas since 2006, while Perth is facing several fires warnings as temperatures reach 40C Get our breaking news email , free app or daily news podcast The Sydney to Hobart yacht race is forecast to be cold, wet and bumpy but without a repeat of last year’s fatal conditions, as the rest of the country experiences the full range of weather events over the Christmas period, including cyclone and bushfire danger in the west. A race briefing from the Bureau of Meteorology (BoM) on Wednesday predicted the 129 starters in this year’s Sydney to Hobart will face strong southerly winds of up to 25 knots after leaving the Sydney Heads on Boxing Day. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/25/sydney-to-hobart-yacht-race-forecast-to-be-cold-wet-and-bumpy-as-australias-west-faces-cyclone-and-bushfire-threat",
-      "published": "Thu, 25 Dec 2025 04:48:46 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -866,7 +866,7 @@
       "title": "M 6.0 - 2025 Taitung, Taiwan Earthquake",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2025-12-24 09:47:06 UTC 2025-12-24 09:47:06 UTC at epicenter Location 22.851°N 121.207°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rkjm",
-      "published": "2025-12-25T04:32:15.708Z",
+      "published": "2025-12-25T05:08:08.111Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 11,
@@ -1496,7 +1496,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2025-12-25T04:56:09.438247Z",
+      "published": "2025-12-25T05:27:22.326056Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
