@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T23:20:56.162940Z",
-  "event_count": 225,
+  "last_updated": "2025-12-25T23:41:30.966025Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
@@ -30,6 +30,16 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump launches Christmas night airstrikes on ISIS 'Terrorist Scum' in Nigeria after killings of Christians",
+      "description": "Trump said the United States launched Christmas night airstrikes in Nigeria targeting ISIS militants he accused of killing Christians in recent attacks.",
+      "url": "https://www.foxnews.com/world/trump-launches-christmas-night-airstrikes-isis-terrorist-scum-nigeria-after-killings-christians",
+      "published": "Thu, 25 Dec 2025 18:16:18 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -563,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Despite Vatican-Israel tensions, Catholics and Jews work to build trust in Haifa",
+      "description": "Religious leaders started getting together after Oct. 7, 2023, in the hope of preventing a repeat of Arab-Jewish violence that erupted after a previous conflict in Gaza two years earlier.",
+      "url": "https://www.npr.org/2025/12/24/g-s1-103018/israel-interfaith-understanding-jews-catholics-christmas",
+      "published": "Wed, 24 Dec 2025 05:03:00 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "South African police continue arrests after mass shooting at pub",
       "description": "Police in South Africa say they have arrested 11 people and are seeking a potential connection to Sunday’s shooting at a pub that killed 10 people",
       "url": "https://abcnews.go.com/International/wireStory/south-african-police-continue-arrests-after-mass-shooting-128681794",
@@ -927,16 +947,6 @@
       "description": "New photos show North Korea's apparent progress in the development of a nuclear-powered submarine as Kim Jong Un condemns South Korea's efforts.",
       "url": "https://www.foxnews.com/world/north-korea-releases-images-development-nuclear-powered-submarine",
       "published": "Thu, 25 Dec 2025 07:46:43 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Bondi Beach suspects filmed antisemitic video manifesto, Australian investigators say",
-      "description": "Father-son duo accused in Bondi Beach shooting allegedly created antisemitic manifesto with Islamic State ideology, Australian investigators reveal.",
-      "url": "https://www.foxnews.com/world/bondi-beach-suspects-filmed-antisemitic-video-manifesto-australian-investigators-say",
-      "published": "Mon, 22 Dec 2025 10:40:05 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
@@ -1423,6 +1433,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-25T23:41:04.900302Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Russia made a 'proposal' regarding jailed French researcher Laurent Vinatier",
       "description": "Moscow has made a \"proposal\" to France concerning the case of researcher Laurent Vinatier, who has been imprisoned in Russia since June 2024, the Kremlin said Thursday. Vinatier was sentenced by a Russian court to three years in prison for allegedly failing to register as a \"foreign agent\" but faces fresh allegations of spying.",
       "url": "https://www.france24.com/en/france/20251225-russia-made-proposal-paris-over-french-researcher-imprisoned-russia-charged-with-espionage",
@@ -1878,16 +1898,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75283016",
       "published": "2025-12-22T17:36:16.470Z",
       "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Smog in Delhi has triggered a ban on a beloved street snack",
-      "description": "As smog shrouds New Delhi, authorities have taken unpopular steps like banning a favorite street snack. Critics say its performative.",
-      "url": "https://www.npr.org/2025/12/25/nx-s1-5647491/smog-in-delhi-has-triggered-a-ban-on-a-beloved-street-snack",
-      "published": "Thu, 25 Dec 2025 17:40:20 -0500",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
