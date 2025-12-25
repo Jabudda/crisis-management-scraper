@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T05:49:07.551946Z",
+  "last_updated": "2025-12-25T06:35:28.136973Z",
   "event_count": 225,
   "events": [
     {
@@ -90,6 +90,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Pope Leo, Donald Trump differ on course of United States",
+      "description": "\"Who is the world's most powerful American?\" That was the question posed by international media when Robert Prevost became Pope Leo XIV. How has his relationship with his compatriot President Donald Trump developed?",
+      "url": "https://www.dw.com/en/pope-leo-donald-trump-differ-on-course-of-united-states/a-75227218?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 25 Dec 2025 06:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -308,6 +318,16 @@
       "url": "https://abcnews.go.com/International/wireStory/kenyans-protest-after-roaming-elephants-kill-people-week-128681797",
       "published": "Wed, 24 Dec 2025 14:01:41 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Industrialisation without destruction: A UN blueprint for the future",
+      "description": "Since the 19th century, industrialisation has had a transformative effect on the world, both positive and negative. It has created jobs and lifted millions out of poverty. But it has also had devastating consequences; destroying ecosystems, polluting the air, and driving the climate crisis that threatens to make large parts of the planet uninhabitable.",
+      "url": "https://news.un.org/feed/view/en/story/2025/12/1166635",
+      "published": "Wed, 24 Dec 2025 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -653,16 +673,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Venezuela passes bill criminalizing oil tanker seizures",
-      "description": "The move comes after the US seized two tankers transporting Venezuelan oil this month. At an emergency UN meeting requested by Caracas, China and Russia accused the US of \"bullying\" the South American country.",
-      "url": "https://www.dw.com/en/venezuela-passes-bill-criminalizing-oil-tanker-seizures/a-75291713?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 24 Dec 2025 06:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Over a million more documents linked to Jeffrey Epstein discovered, DOJ says",
       "description": "The US Department of Justice announced on Wednesday that more than a million additional documents potentially related to convicted sex offender Jeffrey Epstein have been found. Officials said the files are being reviewed and redacted to protect victims, with release expected to take a few more weeks, missing the December 19 deadline set by the Epstein Files Transparency Act.",
       "url": "https://www.france24.com/en/americas/20251224-over-a-million-more-documents-linked-to-jeffrey-epstein-discovered-doj-says",
@@ -677,16 +687,6 @@
       "description": "The United States and Ukraine have reached a consensus on several critical issues to end the nearly four-year conflict with Russia",
       "url": "https://abcnews.go.com/International/wireStory/us-ukraine-reach-consensus-key-issues-territorial-disputes-128672962",
       "published": "Wed, 24 Dec 2025 04:25:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Saudi Arabia awards Pakistan's powerful army chief highest national honor after defense pact",
-      "description": "Pakistan's military says Saudi Arabia has awarded its highest national honor to Pakistan’s powerful army chief, Field Marshal Asim Munir, during his visit to Riyadh, underscoring deepening ties between the two countries, including cooperation on defens...",
-      "url": "https://abcnews.go.com/International/wireStory/saudi-arabia-awards-pakistans-powerful-army-chief-highest-128613025",
-      "published": "Mon, 22 Dec 2025 04:33:52 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -743,11 +743,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+      "description": "Fewer than 50,000 Christians now live in Palestine under threat from Israel’s illegal occupation and attacks.",
+      "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss",
+      "published": "Thu, 25 Dec 2025 05:54:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Two injured after ICE agents fire at Maryland vehicle amid crackdown",
       "description": "An attempted ICE arrest outside Baltimore turned violent after a man allegedly drove into law enforcement vehicles.",
       "url": "https://www.aljazeera.com/news/2025/12/25/two-injured-after-ice-agents-fire-at-maryland-vehicle-amid-crackdown?traffic_source=rss",
       "published": "Thu, 25 Dec 2025 03:49:55 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "From Ukraine to US: Germany's 2026 foreign policy challenges",
+      "description": "Germany enters 2026 facing a world in upheaval. Whether navigating relations with the United States, Ukraine, China or Middle Eastern governments, Germany is struggling to keep pace with rapid geopolitical shifts.",
+      "url": "https://www.dw.com/en/from-ukraine-to-us-germany-s-2026-foreign-policy-challenges/a-75166207?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 25 Dec 2025 06:28:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1303,6 +1323,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump-backed Nasry Asfura declared winner of Honduras presidency",
+      "description": "Conservative businessman Nasry Asfura, backed by Donald Trump, was declared the winner of Honduras' presidential election on Wednesday, three weeks after a vote marked by a very narrow margin and allegations of fraud, signaling a return to conservatism for the country. The US president had given his unequivocal support to Asfura ahead of the election.",
+      "url": "https://www.france24.com/en/live-news/20251224-trump-backed-nasry-asfura-declared-winner-of-honduras-presidency",
+      "published": "Wed, 24 Dec 2025 21:57:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Algerian parliament brands French colonisation a crime, demands apology and reparations",
       "description": "Algeria’s parliament voted unanimously on Wednesday to declare France’s 130-year colonisation of the country a crime, calling for a formal apology and reparations from Paris. The largely symbolic move comes amid a widening diplomatic rift between the two countries and underscores the enduring sensitivity of the North African country's colonial past.",
       "url": "https://www.france24.com/en/africa/20251224-algerian-parliament-brands-french-colonisation-state-crime-demands-apology-reparations",
@@ -1333,16 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Security Council renews DR Congo peacekeeping mission amid renewed M23 offensives in the east",
-      "description": "The UN Security Council on Friday unanimously extended the mandate of the UN peacekeeping mission in the Democratic Republic of the Congo (DRC) for another year, as fighting in the country’s east intensified amid renewed offensives by the M23 rebel group.",
-      "url": "https://news.un.org/feed/view/en/story/2025/12/1166643",
-      "published": "Fri, 19 Dec 2025 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Major university cuts ties with US-sanctioned UN expert on Palestinian issues, watchdog says",
       "description": "Georgetown University reportedly cut ties with U.N. expert Francesca Albanese, who was sanctioned by the Trump administration in July 2025.",
       "url": "https://www.foxnews.com/us/major-university-cuts-ties-us-sanctioned-un-expert-palestinian-issues-watchdog-says",
@@ -1353,31 +1373,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UN experts condemn US naval blockade of Venezuela as illegal aggression",
-      "description": "UN experts criticise US blockade for endangering human rights and call for an investigation into alleged violations.",
-      "url": "https://www.aljazeera.com/news/2025/12/24/un-experts-condemn-us-naval-blockade-of-venezuela-as-illegal-aggression?traffic_source=rss",
-      "published": "Wed, 24 Dec 2025 15:39:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "China hits EU dairy industry with tariffs of up to 42.7%",
       "description": "Move made after first phase of anti-subsidy investigation widely seen as retaliation for bloc’s EV tariffs China will impose provisional duties of up to 42.7% on certain dairy products imported from the EU from Tuesday after concluding the first phase of an anti-subsidy investigation widely seen as retaliation for the bloc’s electric vehicle tariffs . The tariffs will range from 21.9% to 42.7% – although most companies will pay about 30% – and target products such as milk and cheese, including protected origin brands such as French roquefort and Italian gorgonzola. Continue reading...",
       "url": "https://www.theguardian.com/business/2025/dec/22/china-hits-eu-dairy-industry-with-tariffs",
       "published": "Mon, 22 Dec 2025 13:49:32 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Libya's military chief dies in plane crash in Turkey",
-      "description": "Libya's military chief was returning home after attending meetings in Turkey with seven other people on board. Turkish officials say black boxes have been recovered from the crash site.",
-      "url": "https://www.dw.com/en/libya-s-military-chief-dies-in-plane-crash-in-turkey/a-75290406?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 24 Dec 2025 04:38:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1498,16 +1498,6 @@
       "url": "https://www.dw.com/en/ukraine-zelenskyy-unveils-revised-us-backed-peace-plan/live-75294126?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 24 Dec 2025 12:04:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Youth's vote crucial in upcoming Central African Republic general election",
-      "description": "General elections are due to be held in the Central African Republic on December 28. It is the first time in decades that the election includes presidential, parliamentary and municipal elections. With almost 82% of young people unemployed, the youth hope a change in government might boost job opportunities and economic growth. Report by Jospin Bissi, Cyrille Jefferson Yapende and Eunice Masson.",
-      "url": "https://www.france24.com/en/video/20251224-youth-s-vote-crucial-in-upcoming-central-african-republic-general-election",
-      "published": "Wed, 24 Dec 2025 12:14:41 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1953,20 +1943,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelenskyy says he's open to pull back troops if Russia does too",
-      "description": "Ukraine's president says he open to pulling troops back from parts of the east if Russia also pulls back its forces.",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5655853/zelenskyy-says-hes-open-to-pull-back-troops-if-russia-does-too",
-      "published": "Wed, 24 Dec 2025 17:27:25 -0500",
+      "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
+      "description": "Asfura won Honduras' presidential election, electoral authorities said Wednesday afternoon, ending a weeks-long count that has whittled away at the credibility of the nation's electoral system.",
+      "url": "https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote",
+      "published": "Thu, 25 Dec 2025 01:30:46 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Palestinians says Israel is demolishing homes near Jerusalem, displacing hundreds",
-      "description": "Palestinians say Israel has demolished hundreds of homes near Jerusalem, displacing hundreds of Palestinians as new Jewish settlements are greenlit in the West Bank.",
-      "url": "https://www.npr.org/2025/12/23/nx-s1-5651920/palestinians-says-israel-is-demolishing-homes-near-jerusalem-displacing-hundreds",
-      "published": "Tue, 23 Dec 2025 04:44:08 -0500",
+      "title": "Zelenskyy says he's open to pull back troops if Russia does too",
+      "description": "Ukraine's president says he open to pulling troops back from parts of the east if Russia also pulls back its forces.",
+      "url": "https://www.npr.org/2025/12/24/nx-s1-5655853/zelenskyy-says-hes-open-to-pull-back-troops-if-russia-does-too",
+      "published": "Wed, 24 Dec 2025 17:27:25 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2098,6 +2088,16 @@
       "url": "https://news.sky.com/story/families-reunited-with-kidnapped-nigerian-schoolchildren-in-time-for-christmas-13487277",
       "published": "Wed, 24 Dec 2025 15:17:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Saudi Arabia calls on Yemen separatists to leave 2 governorates as coalition strains",
+      "description": "Saudi Arabia has called on separatists in Yemen to withdraw from two governorates they now hold",
+      "url": "https://abcnews.go.com/International/wireStory/saudi-arabia-calls-yemen-separatists-leave-2-governorates-128690170",
+      "published": "Thu, 25 Dec 2025 01:25:10 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
