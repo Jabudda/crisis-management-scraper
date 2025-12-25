@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T07:23:19.564837Z",
+  "last_updated": "2025-12-25T07:42:17.337717Z",
   "event_count": 226,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 42,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Sydney to Hobart yacht race forecast to be cold, wet and bumpy as Australia’s west faces bushfire threat",
-      "description": "Melbourne on track for coldest Christmas since 2006, while Perth is facing several fires warnings as temperatures reach 40C Get our breaking news email , free app or daily news podcast The Sydney to Hobart yacht race is forecast to be cold, wet and bumpy but without a repeat of last year’s fatal conditions, as the rest of the country experiences the full range of weather events over the Christmas period, including cyclone and bushfire danger in the west. In Western Australia, residents at Boddington Goldmine were being warned it was too late to leave on Thursday afternoon as fire had impacted evacuation routes. A heatwave was creating extreme fire danger for much of south-west Western Australia for Christmas, with Perth forecast to reach 40C. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/25/sydney-to-hobart-yacht-race-forecast-to-be-cold-wet-and-bumpy-as-australias-west-faces-cyclone-and-bushfire-threat",
-      "published": "Thu, 25 Dec 2025 04:48:46 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -114,7 +104,7 @@
     },
     {
       "title": "Several killed in blast at mosque in northeast Nigeria",
-      "description": "At least seven people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
+      "description": "At least five people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
       "url": "https://www.france24.com/en/africa/20251224-several-killed-in-blast-at-mosque-in-northeast-nigeria",
       "published": "Wed, 24 Dec 2025 20:07:42 GMT",
       "source": "France24",
@@ -140,6 +130,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Western Australia faces bushfire threat as cold, wet and bumpy Sydney to Hobart yacht race forecast",
+      "description": "WA facing several fire warnings as Perth temperatures exceed 40C while Melbourne on track for coldest Christmas since 2006 Get our breaking news email , free app or daily news podcast Perth exceeded its Christmas Day forecast of 40C as a heatwave created extreme fire danger for much of south-west Western Australia. Residents at Boddington goldmine were being warned it was too late to leave on Thursday afternoon as fire affected evacuation routes. Residents of Cowalla were also warned to leave immediately as fires posed a threat to homes at Bidaminna Place and Millbank Road. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/25/sydney-to-hobart-yacht-race-forecast-to-be-cold-wet-and-bumpy-as-australias-west-faces-cyclone-and-bushfire-threat",
+      "published": "Thu, 25 Dec 2025 07:16:44 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -1476,7 +1476,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2025-12-25T07:22:52.503730Z",
+      "published": "2025-12-25T07:42:01.355509Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
