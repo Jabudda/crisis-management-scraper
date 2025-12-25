@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T15:22:10.383767Z",
-  "event_count": 226,
+  "last_updated": "2025-12-25T15:43:00.570950Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Turkey detains more than 100 suspected IS members over alleged attack plot",
+      "description": "Turkish special police detained more than 100 suspected members of the \"Islamic State\" terrorist group that they said were planning on carrying out attacks during Christmas and New Year celebrations in the country.",
+      "url": "https://www.dw.com/en/turkey-detains-more-than-100-suspected-is-members-over-alleged-attack-plot/a-75304150?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 25 Dec 2025 15:28:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -1478,26 +1488,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2025-12-25T15:21:47.514628Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ukraine: Zelenskyy unveils revised US-backed peace plan",
-      "description": "US and Ukrainian negotiators agree on the new 20-point plan, President Volodymyr Zelenskyy has said, but key issues remain over ceding territory to Russia and Moscow's reaction to the new terms.",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-unveils-revised-us-backed-peace-plan/live-75294126?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 24 Dec 2025 12:04:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
