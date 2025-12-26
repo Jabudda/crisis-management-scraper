@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T07:23:19.532841Z",
-  "event_count": 225,
+  "last_updated": "2025-12-26T07:42:41.142007Z",
+  "event_count": 226,
   "events": [
     {
       "title": "US carries out strikes on Nigeria targeting Islamic State militants, Trump says",
@@ -44,7 +44,7 @@
     },
     {
       "title": "US launches air strikes against Islamic State militants in Nigeria",
-      "description": "President Donald Trump said Thursday that the United States had launched \"precision hits on terrorist targets in Nigeria by air strikes\". The claim came in a Christmas night social media post that offered few details, though US Africa Command later confirmed strikes conducted at the request of Nigerian authorities that it said killed multiple ISIS militants.",
+      "description": "President Donald Trump said Thursday that the US had launched \"precision hits on terrorist targets in Nigeria by air strikes\". The claim came in a Christmas night social media post that offered few details, though US Africa Command later confirmed the strikes were conducted at the request of Nigerian authorities that said it killed multiple Islamic State militants.",
       "url": "https://www.france24.com/en/live-news/20251226-us-launches-strike-against-islamic-state-militants-in-nigeria",
       "published": "Fri, 26 Dec 2025 01:21:38 GMT",
       "source": "France24",
@@ -117,16 +117,6 @@
       "description": "The US said the strike came at the request of the Nigerian authorities. Trump had previously threatened military action to protect Christians in Nigeria from what he described as a \"genocide.\"",
       "url": "https://www.dw.com/en/us-strikes-terrorist-targets-in-nigeria/a-75307055?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 26 Dec 2025 01:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Pope Leo, Donald Trump differ on course of United States",
-      "description": "\"Who is the world's most powerful American?\" That was the question posed by international media when Robert Prevost became Pope Leo XIV. How has his relationship with his compatriot President Donald Trump developed?",
-      "url": "https://www.dw.com/en/pope-leo-donald-trump-differ-on-course-of-united-states/a-75227218?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 25 Dec 2025 06:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 29,
@@ -658,16 +648,6 @@
       "url": "https://www.theguardian.com/world/2025/dec/26/myanmar-junta-prepares-elections-legitimise-power",
       "published": "Fri, 26 Dec 2025 00:01:53 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "U.S. and Ukraine reach consensus on key issues aimed at ending the war",
-      "description": "The United States and Ukraine have reached a consensus on several critical issues, but sensitive issues around territorial control in Ukraine's eastern industrial heartland remain unresolved.",
-      "url": "https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues",
-      "published": "Wed, 24 Dec 2025 05:38:33 -0500",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -1413,6 +1393,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain",
+      "description": "In an \"alternative\" message to the king's annual Christmas speech, Kimmel told British viewers that \"from a fascism perspective, this has been a really great year,\" for the United States.",
+      "url": "https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain",
+      "published": "Fri, 26 Dec 2025 02:21:32 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "US 'Powerball' lottery winner scoops $1.8 billion jackpot",
       "description": "One very lucky lottery player from the US state of Arkansas hit the ultimate jackpot on Christmas Eve. Christmas will never be the same again!",
       "url": "https://www.dw.com/en/us-powerball-lottery-winner-scoops-1-8-billion-jackpot/a-75306554?maca=en-rss-en-all-1573-xml-mrss",
@@ -1468,6 +1458,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-26T07:42:16.713129Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1928,6 +1928,16 @@
       "url": "https://www.npr.org/2025/12/24/nx-s1-5655853/zelenskyy-says-hes-open-to-pull-back-troops-if-russia-does-too",
       "published": "Wed, 24 Dec 2025 17:27:25 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former Malaysian Prime Minister Najib Razak found guilty of new charges for his role in the 1MDB scandal",
+      "description": "Former prime minister Najib Razak has already been convicted for graft and money laundering linked to 1MDB investment fund. The latest verdict, however, is likely to rock Malaysia's ruling coalition to the core.",
+      "url": "https://www.dw.com/en/former-malaysian-prime-minister-najib-razak-found-guilty-of-new-charges-for-his-role-in-the-1mdb-scandal/a-75307547?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 26 Dec 2025 07:38:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
