@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T19:17:54.236612Z",
+  "last_updated": "2025-12-26T19:38:51.986251Z",
   "event_count": 225,
   "events": [
     {
@@ -163,16 +163,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Heavy rain storms in California leave three dead",
-      "description": "A state of emergency is declared in Los Angeles and other southern counties after flash floods and mudslides.",
-      "url": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Dec 2025 22:39:57 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "How C-drama streams from China hooked millions worldwide",
       "description": "The popularity of Chinese dramas is exploding, creating a multibillion-dollar industry. Global viewers find themselves attracted to these \"universal\" stories and appreciate their glimpse at Chinese culture.",
       "url": "https://www.dw.com/en/how-c-drama-streams-from-china-hooked-millions-worldwide/a-75308757?maca=en-rss-en-all-1573-xml-mrss",
@@ -297,6 +287,16 @@
       "description": "The explosion in Homs targeted a predominantly Alawite area, a sect that has faced crackdowns and violence since the fall of former-President Bashar al-Assad.",
       "url": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Dec 2025 15:01:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "California downpours ease but flood and mudslide risks linger",
+      "description": "Even modest additional rainfall could trigger floods and mudslides in saturated areas, forecasters warn.",
+      "url": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Dec 2025 19:18:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 21,
@@ -1163,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pope and new Archbishop of Canterbury make pleas over Gaza and immigration in Christmas sermons",
-      "description": "The incoming Archbishop of Canterbury has warned in her Christmas Day sermon that \"conversations about immigration continue to divide us, when our common humanity should unite us\".",
-      "url": "https://news.sky.com/story/pope-and-new-archbishop-of-canterbury-make-pleas-over-gaza-and-immigration-in-christmas-sermons-13487332",
-      "published": "Thu, 25 Dec 2025 12:30:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Pope Leo XIV delivers his first Christmas Day message",
       "description": "Pope Leo XIV, during his first Christmas Day message, has urged the faithful to shed indifference toward those who are suffering",
       "url": "https://abcnews.go.com/International/wireStory/pope-leo-xiv-urges-faithful-christmas-shed-indifference-128691376",
@@ -1283,6 +1273,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Three women stabbed in Paris metro stations",
+      "description": "Three women have been stabbed in Paris, according to the capital's prosecutor's office.",
+      "url": "https://news.sky.com/story/three-women-stabbed-in-paris-metro-stations-13487619",
+      "published": "Fri, 26 Dec 2025 18:18:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Son of former Bangladesh PM returns after 17 years in exile with a chance to lead",
       "description": "The son of a former Bangladesh prime minister has returned to the country after more than 17 years in exile",
       "url": "https://abcnews.go.com/International/wireStory/son-former-bangladesh-prime-minister-returns-after-17-128690701",
@@ -1318,16 +1318,6 @@
       "url": "https://news.sky.com/story/russia-downs-seven-storm-shadow-missiles-as-zelenskyy-set-for-trump-meeting-on-sunday-13487427",
       "published": "Fri, 26 Dec 2025 13:25:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces",
-      "description": "Separatists in southern Yemen are accusing Saudi Arabia of targeting their forces with airstrikes",
-      "url": "https://abcnews.go.com/International/wireStory/yemen-separatists-accuse-saudi-arabia-launching-airstrikes-forces-128699563",
-      "published": "Fri, 26 Dec 2025 05:29:21 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -2073,6 +2063,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Japan's Cabinet OKs record defense budget that aims to deter China",
+      "description": "Japan’s Cabinet has approved a record defense budget plan exceeding 9 trillion yen for the coming year",
+      "url": "https://abcnews.go.com/International/wireStory/japans-cabinet-oks-record-defense-budget-aims-deter-128697811",
+      "published": "Fri, 26 Dec 2025 03:45:48 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Korean prosecutors seek 10-year sentence for ousted President Yoon in first martial law trial",
       "description": "An independent counsel has demanded a 10-year prison term for South Korea’s ousted President Yoon Suk Yeol",
       "url": "https://abcnews.go.com/International/wireStory/korean-prosecutors-seek-10-year-sentence-ousted-president-128699562",
@@ -2083,10 +2083,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Japan's Cabinet OKs record defense budget that aims to deter China",
-      "description": "Japan’s Cabinet has approved a record defense budget plan exceeding 9 trillion yen for the coming year",
-      "url": "https://abcnews.go.com/International/wireStory/japans-cabinet-oks-record-defense-budget-aims-deter-128697811",
-      "published": "Fri, 26 Dec 2025 03:45:48 -0500",
+      "title": "A Venezuelan family's Christmas: From the American dream to poverty",
+      "description": "Mariela Gómez and thousands of Venezuelan immigrants have faced a challenging Christmas after Donald Trump returned to the White House in January",
+      "url": "https://abcnews.go.com/International/wireStory/venezuelan-familys-christmas-american-dream-poverty-128695851",
+      "published": "Fri, 26 Dec 2025 01:59:24 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
