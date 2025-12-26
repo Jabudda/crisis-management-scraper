@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T19:38:51.986251Z",
-  "event_count": 225,
+  "last_updated": "2025-12-26T20:23:35.025584Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’",
@@ -90,6 +90,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Sudan civil war: Health system ‘on the verge of collapse’",
+      "description": "The war in Sudan has been tearing the country apart for almost 1,000 days, putting the country’s health system under intolerable pressure. The World Health Organization (WHO) is reporting widespread disease outbreaks, severe shortages, malnutrition and rising deaths.",
+      "url": "https://news.un.org/feed/view/en/story/2025/12/1166673",
+      "published": "Fri, 26 Dec 2025 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -493,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Weekend attacks in Ukraine bring more casualties, damage infrastructure",
-      "description": "Hostilities in Ukraine this weekend resulted in more civilian casualties and widespread damage to critical infrastructure, the UN Office for the Coordination of Humanitarian Affairs (OCHA) reported on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2025/12/1166652",
-      "published": "Mon, 22 Dec 2025 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Japan Cabinet approves record defense budget to deter China",
       "description": "Japan is seeking to bolster its defense capabilities in the face of \"the most severe\" security environment since the end of World War II.",
       "url": "https://www.dw.com/en/japan-cabinet-approves-record-defense-budget-to-deter-china/a-75307361?maca=en-rss-en-all-1573-xml-mrss",
@@ -548,6 +548,16 @@
       "url": "https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates",
       "published": "Fri, 26 Dec 2025 17:16:44 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "French police arrest suspect after three women stabbed on Paris metro",
+      "description": "French police on Friday arrested a 25-year-old man suspected of stabbing three women at different stations on a central Paris metro line during the busy end-of-year period. The attacks, which left the victims injured but not in critical condition, triggered a rapid manhunt and heightened security on public transport.",
+      "url": "https://www.france24.com/en/france/20251226-man-arrested-after-three-women-stabbed-on-paris-metro",
+      "published": "Fri, 26 Dec 2025 18:43:15 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1263,16 +1273,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man arrested after three women stabbed on Paris metro",
-      "description": "French police on Friday arrested a man suspected of stabbing three women in the Paris metro as the capital’s end-of-year festivities were under way, prosecutors said. Investigators used CCTV footage and mobile phone tracking to locate the suspect in the Val d'Oise region north of Paris.",
-      "url": "https://www.france24.com/en/france/20251226-man-arrested-after-three-women-stabbed-on-paris-metro",
-      "published": "Fri, 26 Dec 2025 18:43:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Three women stabbed in Paris metro stations",
       "description": "Three women have been stabbed in Paris, according to the capital's prosecutor's office.",
       "url": "https://news.sky.com/story/three-women-stabbed-in-paris-metro-stations-13487619",
@@ -1448,6 +1448,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-26T20:23:09.746448Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
