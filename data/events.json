@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T14:45:27.310012Z",
-  "event_count": 226,
+  "last_updated": "2025-12-26T15:22:42.952128Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Flash floods hit Southern California, State of emergency declared",
@@ -28,6 +28,16 @@
       "url": "https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says",
       "published": "Thu, 25 Dec 2025 23:41:22 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Islamist militant group claims deadly bombing of Alawite mosque in Syria's Homs",
+      "description": "At least eight people were killed and 18 wounded in a blast that struck a mosque in an Alawite neighbourhood of Homs province in Syria on Friday, state media reported. Islamist militant group Saraya Ansar al-Sunna claimed responsibility for the attack. Formed after former president Bashar al-Assad’s ouster, the group in June claimed an attack on a Damascus church.",
+      "url": "https://www.france24.com/en/middle-east/20251226-blast-alawite-mosque-in-syria-homs-province-kills-least-five",
+      "published": "Fri, 26 Dec 2025 11:32:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 40,
       "severity_level": "Critical"
@@ -73,16 +83,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "US launches air strikes against Islamic State militants in Nigeria",
-      "description": "President Donald Trump said Thursday that the US had launched \"precision hits on terrorist targets in Nigeria by air strikes\". The claim came in a Christmas night social media post that offered few details, though US Africa Command later confirmed the strikes were conducted at the request of Nigerian authorities that said it killed multiple Islamic State militants. Washington Bureau Chief of The Guardian, David Smith, explains.",
-      "url": "https://www.france24.com/en/video/20251226-us-launches-air-strikes-against-islamic-state-militants-in-nigeria",
-      "published": "Fri, 26 Dec 2025 09:45:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Trump launches Christmas night airstrikes on ISIS 'Terrorist Scum' in Nigeria after killings of Christians",
       "description": "Trump said the United States launched Christmas night airstrikes in Nigeria targeting ISIS militants he accused of killing Christians in recent attacks.",
       "url": "https://www.foxnews.com/world/trump-launches-christmas-night-airstrikes-isis-terrorist-scum-nigeria-after-killings-christians",
@@ -100,16 +100,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Libya’s army chief dies in plane crash in Turkey",
-      "description": "Libyan PM says Mohammed Ali Ahmed al-Haddad died after aircraft lost radio contact above Ankara The Libyan army’s chief of staff, Mohammed Ali Ahmed al-Haddad, has been killed in a plane crash after leaving Turkey’s capital, Ankara. The prime minister of Libya’s internationally recognised government confirmed on Tuesday evening that Mohammed Ali Ahmed al-Haddad had died and that four others were on the jet with him. Continue reading...",
-      "url": "https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey",
-      "published": "Tue, 23 Dec 2025 23:46:30 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -293,6 +283,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
+      "description": "The explosion in Homs targeted a predominantly Alawite area, a sect that has faced crackdowns and violence since the fall of former-President Bashar al-Assad.",
+      "url": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Dec 2025 15:01:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Sky News correspondents look back at 2025",
       "description": "It has been a turbulent year. Wars have erupted or dragged on, international crises have deepened - but there have been bright spots too.",
       "url": "https://news.sky.com/story/sky-news-correspondents-look-back-at-2025-13484844",
@@ -303,11 +303,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US warns of more Nigeria strikes as Abuja talks of ‘joint ongoing operations’",
+      "description": "Pete Hegseth says ‘more to come’ as Nigerian minister confirms his country provided intelligence for first wave US politics live: latest news updates The US defence secretary, Pete Hegseth, has warned of new strikes against Islamic State targets in north-western Nigeria, hours after the US military took action against militant camps in what Donald Trump has characterised as efforts to stop the killing of Christians. Hegseth wrote on X : “The president was clear last month: the killing of innocent Christians in Nigeria (and elsewhere) must end. The [Pentagon] is always ready, so ISIS found out tonight – on Christmas. More to come … Continue reading...",
+      "url": "https://www.theguardian.com/world/2025/dec/26/us-warns-of-more-nigeria-strikes-as-abuja-talks-of-joint-ongoing-operations",
+      "published": "Fri, 26 Dec 2025 14:41:45 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Industrialisation without destruction: A UN blueprint for the future",
       "description": "Since the 19th century, industrialisation has had a transformative effect on the world, both positive and negative. It has created jobs and lifted millions out of poverty. But it has also had devastating consequences; destroying ecosystems, polluting the air, and driving the climate crisis that threatens to make large parts of the planet uninhabitable.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166635",
       "published": "Wed, 24 Dec 2025 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Repeat offender freed after SWAT standoff tied to three shootings in one month: report",
+      "description": "Texas repeat offender allegedly linked to three separate shootings in one month, including random drive-by attacks and SWAT standoff in Hays County area.",
+      "url": "https://www.foxnews.com/us/repeat-offender-freed-after-swat-standoff-tied-three-shootings-one-month-report",
+      "published": "Fri, 26 Dec 2025 10:10:40 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -463,16 +483,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Colorado mom accused of killing 2 children and fleeing to UK returns stateside to face murder charges",
-      "description": "Colorado mother accused of killing two of her children, injuring another during custody battle extradited from U.K. to face murder charges after lengthy international legal fight.",
-      "url": "https://www.foxnews.com/us/colorado-mom-accused-killing-2-children-fleeing-uk-returns-stateside-face-murder-charges",
-      "published": "Wed, 24 Dec 2025 05:38:46 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Japan Cabinet approves record defense budget to deter China",
       "description": "Japan is seeking to bolster its defense capabilities in the face of \"the most severe\" security environment since the end of World War II.",
       "url": "https://www.dw.com/en/japan-cabinet-approves-record-defense-budget-to-deter-china/a-75307361?maca=en-rss-en-all-1573-xml-mrss",
@@ -516,7 +526,7 @@
       "title": "Nigeria provided US with intelligence for strikes on Islamist militants, says foreign minister – US politics live",
       "description": "Yusuf Tuggar says strikes against group accused by Donald Trump of attacking Christian communities will be an ‘ongoing process’ Explained: Why has Trump ordered strikes in Nigeria? Here are some images of the aftermath of US strikes in Nigeria that have come via the news wires today: Nigerians across Sokoto state told of their shock at Christmas Day strikes by the United States. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates",
-      "published": "Fri, 26 Dec 2025 14:26:19 GMT",
+      "published": "Fri, 26 Dec 2025 15:08:36 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -653,11 +663,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Jews in Morocco: A small community, often overlooked",
-      "description": "Judaism in Morocco has a long history. Most Jews left the country for Israel after 1948. Today the small Jewish community and the Muslim population live side by side, despite the emotional fallout from the war in Gaza.",
-      "url": "https://www.dw.com/en/jews-in-morocco-a-small-community-often-overlooked/a-75115308?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 25 Dec 2025 11:44:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Southern Yemeni separatists accuse Saudi Arabia of air strikes in eastern provinces",
+      "description": "Yemen's Southern Transitional Council (STC) separatists on Friday accused Saudi Arabia of carrying out air strikes on their positions in the east of the country, a claim Riyadh has not acknowledged. While vowing they will not be deterred, the STC said it remains open to coordination with the kingdom, underscoring strains within the Saudi-led coalition.",
+      "url": "https://www.france24.com/en/middle-east/20251226-yemen-separatists-accuse-saudi-arabia-air-strikes-but-leave-door-open-to-coordination",
+      "published": "Fri, 26 Dec 2025 14:44:23 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -678,16 +688,6 @@
       "url": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 25 Dec 2025 10:19:28 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Deadly blast hits Alawite mosque in Syria's Homs province",
-      "description": "At least eight people died and 18 wounded in a blast that struck a mosque in an Alawite neighbourhood of the Homs province in Syria on Friday, according to local officials.",
-      "url": "https://www.france24.com/en/middle-east/20251226-blast-alawite-mosque-in-syria-homs-province-kills-least-five",
-      "published": "Fri, 26 Dec 2025 11:32:46 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -904,7 +904,7 @@
     },
     {
       "title": "Former Malaysia PM Najib sentenced to 15 more years in landmark 1MDB corruption case",
-      "description": "Former Malaysian prime minister Najib Razak, already serving a prison term for an earlier conviction linked to the 1Malaysia Development Berhad (1MDB) sovereign wealth fund, on Friday was sentenced to a further 15 years in prison and ordered to pay 13.5 billion ringgit ($3.3bn) in fines and asset recovery. The High Court found him guilty of abuse of power and money laundering in a case that exposed one of the world’s largest financial scandals.",
+      "description": "Former Malaysian prime minister Najib Razak, already serving a prison term for an earlier conviction linked to the 1Malaysia Development Berhad (1MDB) sovereign wealth fund, on Friday was sentenced to a further 15 years in prison and ordered to pay 13.5 billion ringgit ($3.3 billion) in fines and asset recovery. The High Court found him guilty of abuse of power and money laundering in a case that exposed one of the world’s largest financial scandals.",
       "url": "https://www.france24.com/en/asia-pacific/20251226-former-malaysian-pm-najib-guilty-of-money-laundering-1mdb-corruption-case",
       "published": "Fri, 26 Dec 2025 10:16:53 GMT",
       "source": "France24",
@@ -954,7 +954,7 @@
     },
     {
       "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-      "description": "The Ukrainian leader says he will see the US president in Florida to discuss a US plan aimed at ending Russia's war.",
+      "description": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\".",
       "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Dec 2025 14:21:38 GMT",
       "source": "BBC News",
@@ -1263,7 +1263,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia 'downs seven Storm Shadow missiles' - as Zelenskyy set for Trump meeting on Sunday",
+      "title": "Russia 'downs seven Storm Shadow missiles' - as Zelenskyy set for Trump meeting",
       "description": "Russia said it has downed seven British-supplied Storm Shadow missiles over the past week, as Volodymyr Zelenskyy said he plans to hold a meeting with Donald Trump on Sunday.",
       "url": "https://news.sky.com/story/russia-downs-seven-storm-shadow-missiles-as-zelenskyy-set-for-trump-meeting-on-sunday-13487427",
       "published": "Fri, 26 Dec 2025 13:25:00 +0000",
@@ -1433,16 +1433,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2025-12-26T14:45:00.537754Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ukraine updates: Zelenskyy plans to meet Trump on Sunday",
       "description": "Volodymyr Zelenskyy said he plans to meet with President Donald Trump this Sunday in Florida. Kyiv and Washington recently reached an agreement on key issues for achieving peace in Ukraine. DW has more.",
       "url": "https://www.dw.com/en/ukraine-updates-zelenskyy-plans-to-meet-trump-on-sunday/live-75308039?maca=en-rss-en-all-1573-xml-mrss",
@@ -1577,16 +1567,6 @@
       "description": "His rival Salvador Nasralla says he will not accept the result, but urges his supporters to remain calm.",
       "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 25 Dec 2025 03:32:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump trips, a fake video and 10 possible co-conspirators: Takeaways from new Epstein files",
-      "description": "The largest release of Epstein-related documents yet from the justice department included some notable messages and several mentions of Trump.",
-      "url": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Dec 2025 01:08:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1868,6 +1848,16 @@
       "url": "https://www.npr.org/2025/12/25/nx-s1-5645803/turkey-is-in-the-crosshairs-over-russians-ghost-fleet",
       "published": "Thu, 25 Dec 2025 17:18:25 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel announces Somaliland recognition",
+      "description": "Israel has recognized Somaliland, which proclaimed independence from Somalia in 1991, as a sovereign nation.",
+      "url": "https://www.dw.com/en/israel-announces-somaliland-recognition/a-75311342?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 26 Dec 2025 14:45:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
