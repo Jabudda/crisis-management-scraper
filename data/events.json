@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T20:23:58.925323Z",
+  "last_updated": "2025-12-27T20:43:36.953765Z",
   "event_count": 225,
   "events": [
     {
@@ -98,6 +98,16 @@
       "url": "https://www.theguardian.com/world/2025/dec/27/thailand-and-cambodia-agree-immediate-ceasefire-after-weeks-of-deadly-border-clashes",
       "published": "Sat, 27 Dec 2025 05:08:36 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Mosque bombing in Syria leaves 6 dead and 21 wounded",
+      "description": "A bombing at a mosque in Homs, Syria, during Friday prayers has killed at least eight people and wounded 18 others",
+      "url": "https://abcnews.go.com/International/wireStory/mosque-bombing-syria-leaves-6-dead-21-wounded-128700576",
+      "published": "Fri, 26 Dec 2025 13:20:25 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -1403,16 +1413,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces",
-      "description": "Separatists in southern Yemen are accusing Saudi Arabia of targeting their forces with airstrikes",
-      "url": "https://abcnews.go.com/International/wireStory/yemen-separatists-accuse-saudi-arabia-launching-airstrikes-forces-128699563",
-      "published": "Fri, 26 Dec 2025 05:29:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Trump launches Christmas night airstrikes in Nigeria and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/trump-launches-christmas-night-airstrikes-nigeria-more-top-headlines",
@@ -1566,7 +1566,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2025-12-27T20:23:32.457043Z",
+      "published": "2025-12-27T20:43:09.154869Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
