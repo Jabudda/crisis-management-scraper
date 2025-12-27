@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-27T08:51:13.318418Z",
-  "event_count": 223,
+  "last_updated": "2025-12-27T09:22:07.001545Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’",
@@ -693,6 +693,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Turkiye holds military ceremony for Libyan army chief killed in crash",
+      "description": "Turkish Defence Minister Yasar Guler and military chief Selcuk Bayraktaroglu attend ceremony at an airbase near Ankara.",
+      "url": "https://www.aljazeera.com/news/2025/12/27/turkiye-holds-military-ceremony-for-libyan-army-chief-killed-in-crash?traffic_source=rss",
+      "published": "Sat, 27 Dec 2025 08:57:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Former Malaysian PM Najib Razak jailed for 15 more years in 1MDB graft scandal",
       "description": "New conviction over plunder of state fund substantially increases six-year term in separate case The jailed former Malaysian prime minister Najib Razak has been sentenced to an additional 15 years after he was found guilty of abuse of power, in the biggest trial yet in the multibillion-dollar fraud scandal related to the state fund 1MDB. Najib’s conviction substantially increases the six-year prison term he is already serving for a separate case related to the 1MDB graft scandal, one of the world’s biggest financial frauds in which billions were plundered from the now defunct sovereign wealth fund. Continue reading...",
       "url": "https://www.theguardian.com/world/2025/dec/26/former-malaysian-pm-najib-razak-found-guilty-of-abuse-of-power-in-latest-1mdb-trial",
@@ -1057,16 +1067,6 @@
       "description": "Palestinian death toll since the start of the truce in Gaza rises to 411 amid near daily Israeli violations.",
       "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss",
       "published": "Fri, 26 Dec 2025 23:03:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Zelenskyy to meet Trump in Florida amid diplomatic push to end war",
-      "description": "Ukrainian president highlights 'significant progress' in talks, but Moscow says Kyiv is working to 'torpedo' deal.",
-      "url": "https://www.aljazeera.com/news/2025/12/26/zelenskyy-to-meet-trump-in-florida-amid-diplomatic-push-to-end-war?traffic_source=rss",
-      "published": "Fri, 26 Dec 2025 17:56:56 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1538,6 +1538,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-27T09:21:44.431698Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
