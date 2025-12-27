@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T19:17:13.835388Z",
+  "last_updated": "2025-12-27T19:38:27.624229Z",
   "event_count": 224,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Attack on Kyiv shows 'Russia doesn't want peace', Zelensky says",
+      "description": "The 10-hour missile and drone barrage directed at Ukraine's capital killed two people and left 32 injured, local authorities said.",
+      "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Dec 2025 19:19:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -563,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "A magnitude 6.6 earthquake strikes off the coast of Taiwan",
+      "description": "The U.S. Geological Survey says a magnitude 6.6 earthquake has hit Taiwan just off its northeast coast",
+      "url": "https://abcnews.go.com/International/wireStory/magnitude-66-earthquake-strikes-off-coast-taiwan-128723667",
+      "published": "Sat, 27 Dec 2025 14:36:06 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "At least 15 injured in a knife and chemical attack at a factory in Japan",
       "description": "A man has been arrested after stabbing eight people and injuring seven others with a chemical believed to be bleach at a rubber factory in central Japan",
       "url": "https://abcnews.go.com/International/wireStory/japanese-media-people-injured-after-stabbed-factory-central-128699763",
@@ -650,26 +670,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "'We won't stop': How Gen Z’s anger became a global movement in 2025",
-      "description": "From Kathmandu to Lima, Generation Z took to the streets in 2025 to denounce inequality, corruption and political exclusion. Across the Global South, young people turned scattered local protests into a shared moment of mobilisation. FRANCE 24 looks back on a pivotal year for a generational movement set to remain in the spotlight in 2026.",
-      "url": "https://www.france24.com/en/asia-pacific/20251227-we-won-t-stop-how-gen-z-s-anger-became-a-global-movement-in-2025",
-      "published": "Sat, 27 Dec 2025 09:30:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Thousands without power in Kyiv after massive Russian attack",
-      "description": "Authorities say a third of residents in the Ukrainian capital have been left without heating in freezing weather.",
-      "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Dec 2025 13:01:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -1027,16 +1027,6 @@
       "description": "A U.S. airstrike that targeted an alleged Islamic State camp in Nigeria has caused panic in the village of Jabo",
       "url": "https://abcnews.go.com/International/wireStory/nigerian-villagers-rattled-us-airstrikes-made-homes-shake-128705163",
       "published": "Fri, 26 Dec 2025 11:37:34 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Afghanistan's historic Ariana Cinema torn down to make way for shopping center",
-      "description": "Through the decades, downtown Kabul’s Ariana Cinema had weathered revolution and war, emerging battered and bruised but still standing to entertain Afghans with Bollywood movies and American action flicks",
-      "url": "https://abcnews.go.com/International/wireStory/afghanistans-historic-ariana-cinema-torn-make-shopping-center-128698897",
-      "published": "Fri, 26 Dec 2025 02:07:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1963,6 +1953,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "U.S. President Donald Trump set to hold talks with Zelensky on Sunday",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/video/20251227-u-s-president-donald-trump-set-to-hold-talks-with-zelensky-on-sunday",
+      "published": "Sat, 27 Dec 2025 18:48:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "AFCON 2025: Mane scores for Senegal to see them tie with DR Congo",
       "description": "Sadio Mane ​scored for Senegal as they came ⁠from behind to tie 1-1 with the Democratic Republic of Congo on Saturday, maintaining their position at the top of Group D at the Africa Cup of ​Nations finals in Morocco.",
       "url": "https://www.france24.com/en/sport/20251227-afcon-2025-mane-scores-for-senegal-to-see-them-tie-with-dr-congo",
@@ -2053,20 +2053,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "GLIMPSES: Prepping polling machines ahead of Myanmar's weekend election",
-      "description": "Before the polls comes the preparation",
-      "url": "https://abcnews.go.com/International/wireStory/glimpses-prepping-polling-machines-ahead-myanmars-weekend-election-128717101",
-      "published": "Sat, 27 Dec 2025 04:17:48 -0500",
+      "title": "South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses",
+      "description": "South Korea’s government says it plans to end the waning foreign adoptions of Korean children",
+      "url": "https://abcnews.go.com/International/wireStory/south-korea-vows-end-foreign-adoptions-presses-seoul-128699370",
+      "published": "Fri, 26 Dec 2025 02:57:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "South Korea vows to end foreign adoptions as UN presses Seoul to address past abuses",
-      "description": "South Korea’s government says it plans to end the waning foreign adoptions of Korean children",
-      "url": "https://abcnews.go.com/International/wireStory/south-korea-vows-end-foreign-adoptions-presses-seoul-128699370",
-      "published": "Fri, 26 Dec 2025 02:57:17 -0500",
+      "title": "GLIMPSES: Prepping polling machines ahead of Myanmar's weekend election",
+      "description": "Before the polls comes the preparation",
+      "url": "https://abcnews.go.com/International/wireStory/glimpses-prepping-polling-machines-ahead-myanmars-weekend-election-128717101",
+      "published": "Sat, 27 Dec 2025 04:17:48 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
