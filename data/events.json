@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28T13:49:08.811926Z",
+  "last_updated": "2025-12-28T14:20:50.779164Z",
   "event_count": 225,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The week in pictures: US strikes on Nigerian jihadists, AFCON 2025 and the death of Brigitte Bardot",
+      "description": "Morocco hosted the ongoing Africa Cup of Nations, Russia attacked the Ukrainian capital with more than 650 drones just two days before Christmas, the US carried out strikes against militants linked to the Islamic State group (IS) in Nigeria, and the cinema world paused to remember Brigitte Bardot: FRANCE 24 looks back at the week's most striking images.",
+      "url": "https://www.france24.com/en/culture/20251228-the-week-in-pictures-us-strikes-nigerian-jihadists-afcon-2025-death-brigitte-bardot",
+      "published": "Sun, 28 Dec 2025 14:12:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -353,16 +363,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Niger junta orders 'general mobilisation' in fight against jihadists",
-      "description": "Niger's military junta has declared a general mobilisation and requisition of people and resources to combat jihadist insurgents, a government statement said Saturday. The measure requires citizens to comply with call-up orders to contribute to national defense as the junta faces growing militant attacks since its July 2023 coup.",
-      "url": "https://www.france24.com/en/africa/20251227-niger-junta-orders-general-mobilisation-in-fight-against-jihadists",
-      "published": "Sat, 27 Dec 2025 21:43:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Security Council remains divided over Iran nuclear programme, sanctions stay in place",
       "description": "At a meeting to discuss nuclear non-proliferation on Tuesday, the Security Council’s stance on Iran’s nuclear activities remained divided on the issue, split between those who support the reinstatement of sanctions, and the members who believe the sanctions should be permanently lifted, whilst questioning the legality of the meeting itself.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166660",
@@ -428,6 +428,16 @@
       "url": "https://www.dw.com/en/7-0-magnitude-earthquake-rattles-taiwan/a-75317087?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 27 Dec 2025 15:58:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "'She was a cultural earthquake': Brigitte Bardot dies at 91",
+      "description": "French film legend Brigitte Bardot has died at 91, the Bardot foundation announced on Sunday (December 28). Bardot starred in more than 50 movies during her career before becoming an animal rights activist and embracing far-right views. FRANCE 24's Manon Kerjean tells us more. \"In her later years, Bardot became increasingly controversial due to her outspoken and radical political statements\".",
+      "url": "https://www.france24.com/en/video/20251228-she-was-a-cultural-earthquake-brigitte-bardot-dies-at-91",
+      "published": "Sun, 28 Dec 2025 13:52:08 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -1243,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Syria protests live: Deadly clashes erupt as hundreds demonstrate",
+      "description": "Hundreds of people took to the streets in Tartous and Latakia demanding the release of former soldiers.",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/28/syria-protests-live-deadly-clashes-erupt-as-thousands-demonstrate?traffic_source=rss",
+      "published": "Sun, 28 Dec 2025 13:57:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
       "description": "Trump to host Netanyahu at Mar-a-Lago amid Washington's push for phase two of Gaza ceasefire as strategy gaps grow.",
       "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss",
@@ -1423,7 +1443,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Executions in Iran set to double in 2025, report says",
+      "title": "Executions in Iran estimated to have doubled in 2025, report says",
       "description": "The Iran Human Rights (IHR) group says it has verified at least 1,500 executions up until the start of December.",
       "url": "https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 28 Dec 2025 12:02:13 GMT",
@@ -1466,7 +1486,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2025-12-28T13:48:46.551502Z",
+      "published": "2025-12-28T14:20:27.107096Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1603,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Video: What do Rohingya refugees think about Myanmar’s election?",
+      "description": "Myanmar's election is unlikely to change the reality for more than 1M Rohingya refugees in Bangladesh.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/video-what-do-rohingya-refugees-think-about-myanmars-election?traffic_source=rss",
+      "published": "Sun, 28 Dec 2025 13:32:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "LIVE: Sabalenka vs Kyrgios: ‘Battle of the Sexes’ tennis match",
       "description": "Follow the build-up, analysis and live text commentary of the exhibition mixed singles tennis match in Dubai.",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/12/28/live-sabalenka-vs-kyrgios-battle-of-the-sexes-tennis-match?traffic_source=rss",
@@ -1677,26 +1707,6 @@
       "description": "The Balkan nation votes again as PM Albin Kurti seeks majority to break the stalemate and form a government.",
       "url": "https://www.aljazeera.com/news/2025/12/28/kosovo-votes-in-snap-election-to-end-a-year-of-political-deadlock?traffic_source=rss",
       "published": "Sun, 28 Dec 2025 07:10:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil court orders house arrest for Bolsonaro accomplices",
-      "description": "Move comes after a former police chief convicted in the coup plot was caught in Paraguay trying to flee to El Salvador.",
-      "url": "https://www.aljazeera.com/news/2025/12/28/brazil-court-orders-house-arrest-for-bolsonaro-accomplices?traffic_source=rss",
-      "published": "Sun, 28 Dec 2025 07:08:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The TAZARA turns 50: Riding the railway that bridges Tanzania and Zambia",
-      "description": "Businesspeople, students, tourists among those sharing space on the 1,860km TAZARA railway built by China in the 1970s.",
-      "url": "https://www.aljazeera.com/features/longform/2025/12/28/the-tazara-turns-50-riding-the-railway-that-bridges-tanzania-and-zambia?traffic_source=rss",
-      "published": "Sun, 28 Dec 2025 05:57:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1866,7 +1876,7 @@
       "title": "M 6.2 - 36 km W of Puerto Santa, Peru",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2025-12-28 02:51:50 UTC 2025-12-28 02:51:50 UTC at epicenter Location 8.960°S 78.974°W Depth 66.41 km (41.27 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl57",
-      "published": "2025-12-28T13:47:11.325Z",
+      "published": "2025-12-28T13:55:26.557Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1886,7 @@
       "title": "M 6.6 - 31 km ESE of Yilan, Taiwan",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2025-12-27 15:05:56 UTC 2025-12-27 15:05:56 UTC at epicenter Location 24.657°N 122.041°E Depth 67.53 km (41.96 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl2n",
-      "published": "2025-12-28T13:14:55.811Z",
+      "published": "2025-12-28T14:01:29.566Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2057,16 +2067,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/tv-shows/africa-cup-of-nations/20251227-afcon-big-cat-fight-ends-in-draw-senegal-1-1-dr-congo",
       "published": "Sat, 27 Dec 2025 23:06:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "AFCON Daily Round Up: Super Eagles beat Tunisia 3-2, Big cats Senegal and DRC stay level",
-      "description": "It was another busy day of Afcon, four games being played across Morocco, as teams in groups C and D looked to secure their spot in the knockout stages of the competition. In group D, Benin won their first game ever at an Afcon, beating Botswana 1-0. The battle of the big cats ended in gridlock as the Lions of Teranga drew against The Leopards of DR Congo. In group C, Uganda and Tanzania stayed level, whilst the Super Eagles and the Eagles of Carthage battled it out for the top spot in the standings. Nigeria absolutely dominated the first half, but Tunisia snapped back, to make it 3-2 at the final whistle.",
-      "url": "https://www.france24.com/en/tv-shows/africa-cup-of-nations/20251227-afcon-daily-round-up-super-eagles-beat-tunisia-3-2-big-cats-senegal-and-drc-stay-level",
-      "published": "Sat, 27 Dec 2025 22:50:47 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
