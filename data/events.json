@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-28T19:17:04.835187Z",
-  "event_count": 224,
+  "last_updated": "2025-12-28T19:38:51.445391Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’",
@@ -190,6 +190,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nine people, including five children, stabbed to death in Suriname",
+      "description": "Police detained the male suspect after shooting him in the leg, while two others are seriously injured.",
+      "url": "https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Dec 2025 19:32:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -913,16 +923,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What you need to know about controversial 'Battle of the Sexes' tennis match",
-      "description": "Today's \"Battle of the Sexes\" exhibition match has divided opinion in the tennis world.",
-      "url": "https://news.sky.com/story/what-you-need-to-know-about-battle-of-the-sexes-tennis-match-13487985",
-      "published": "Sun, 28 Dec 2025 09:29:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "First Person: Felipe Paullier, the youngest ever senior UN official, charged with giving a voice to young people around the world",
       "description": "A paediatrician by training, Felipe Paullier has long been an advocate for youth. Formerly Director of the Uruguayan Government's Youth Institute, a role which involved several joint actions with various UN agencies, he was appointed to run the UN Youth Office in 2023, the youngest senior appointment in United Nations history.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166651",
@@ -1293,7 +1293,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Syria protests live: Deadly clashes erupt as hundreds demonstrate",
+      "title": "Syria protests updates: Deadly clashes erupt as hundreds demonstrate",
       "description": "Hundreds of people take to the streets in Tartous and Latakia to demand the release of former soldiers.",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/28/syria-protests-live-deadly-clashes-erupt-as-thousands-demonstrate?traffic_source=rss",
       "published": "Sun, 28 Dec 2025 13:57:53 +0000",
@@ -1358,6 +1358,16 @@
       "url": "https://www.france24.com/en/video/20251228-it-is-quite-concerning-greenlanders-react-to-appointment-of-us-special-envoy-to-greenland",
       "published": "Sun, 28 Dec 2025 13:29:07 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Thailand and Cambodia sign ceasefire agreement after weeks of intense fighting",
+      "description": "Thailand and Cambodia have signed a ceasefire agreement to end weeks of armed combat along their border over competing claims to territory.",
+      "url": "https://news.sky.com/story/thailand-and-cambodia-sign-ceasefire-agreement-after-weeks-of-intense-fighting-13487680",
+      "published": "Sat, 27 Dec 2025 06:52:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1498,6 +1508,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-28T19:38:29.562440Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1647,16 +1667,6 @@
       "description": "Mulatu Astatke has been blending jazz influences from home and abroad for the past six decades.",
       "url": "https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 28 Dec 2025 00:00:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "One general, one mathematician: The men competing for power in two African elections",
-      "description": "The leaders of Guinea and the Central African Republic aim to consolidate power after Sunday's polls.",
-      "url": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Dec 2025 00:57:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
