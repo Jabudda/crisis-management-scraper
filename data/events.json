@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-28T20:24:50.445162Z",
-  "event_count": 224,
+  "last_updated": "2025-12-28T20:44:51.802696Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’",
@@ -1508,6 +1508,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-28T20:44:30.564669Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
