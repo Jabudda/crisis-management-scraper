@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29T12:48:40.951758Z",
+  "last_updated": "2025-12-29T13:38:21.978314Z",
   "event_count": 223,
   "events": [
     {
@@ -150,6 +150,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "More than 100,000 air passengers will face delays over China drills, Taiwan warns",
+      "description": "Taiwan's Civil Aviation Administration said that the delay of roughly 296 international departures, 265 international arrivals and 296 transit flights affected by the live-fire drills that China launched around the island on Monday would snarl travel for more than 100,000 passengers.",
+      "url": "https://www.france24.com/en/asia-pacific/20251229-more-than-100-000-air-passengers-will-face-delays-over-china-drills-taiwan-warns",
+      "published": "Mon, 29 Dec 2025 13:10:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -463,16 +473,6 @@
       "severity_level": "High"
     },
     {
-      "title": "The harsh reality of life in Gaza under US-backed ceasefire",
-      "description": "Warning: This article contains images and descriptions some people may find distressing",
-      "url": "https://news.sky.com/story/airstrikes-shootings-hypothermia-the-harsh-reality-of-life-in-gaza-under-us-backed-ceasefire-13487924",
-      "published": "Sat, 27 Dec 2025 21:11:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Families of Bondi Beach victims demand more federal action",
       "description": "Families of victims of the recent Sydney massacre are urging more federal action to investigate rising antisemitism and security failures",
       "url": "https://abcnews.go.com/International/wireStory/families-bondi-beach-victims-demand-federal-action-antisemitism-128744170",
@@ -493,31 +493,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Sudan's resilience at AFCON rewarded with first win",
-      "description": "With a 1-0 victory over Equatorial Guinea, Sudan get their first AFCON win since 2012, despite having to prepare during the brutal conflict at home.",
-      "url": "https://www.france24.com/en/tv-shows/africa-cup-of-nations/20251228-sudan-s-resilience-at-afcon-rewarded-with-first-win",
-      "published": "Sun, 28 Dec 2025 23:18:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Indonesian rescuers find a body while searching for soccer coach and 3 children",
       "description": "Indonesian rescuers say they have recovered the body of a female victim believed to be part of the family of a Spanish soccer coach and his three children, missing after a tour boat sank Friday",
       "url": "https://abcnews.go.com/International/wireStory/indonesian-rescuers-find-body-searching-spanish-soccer-coach-128744261",
-      "published": "Mon, 29 Dec 2025 07:29:25 -0500",
+      "published": "Mon, 29 Dec 2025 08:09:41 -0500",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Crime lords turn Motor City into car-theft supermarket for Middle East buyers: ‘Somebody's getting paid’",
-      "description": "International organized crime groups are recruiting juveniles to steal vehicles in Detroit before shipping them to the Middle East, alarming law enforcement officials.",
-      "url": "https://www.foxnews.com/us/crime-lords-turn-motor-city-car-theft-supermarket-middle-east-buyers-somebodys-getting-paid",
-      "published": "Sat, 27 Dec 2025 08:00:34 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -588,6 +568,16 @@
       "url": "https://abcnews.go.com/International/wireStory/building-collapse-south-africa-kills-people-including-1-128729932",
       "published": "Sun, 28 Dec 2025 09:37:43 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Manhunts across America in 2025: Five cases that left cities, campuses and towns on edge",
+      "description": "From Louisiana jails to Washington wilderness, police launched massive searches for escaped killers who terrorized local neighborhoods throughout 2025.",
+      "url": "https://www.foxnews.com/us/manhunts-across-america-2025-five-cases-left-cities-campuses-towns-edge",
+      "published": "Mon, 29 Dec 2025 08:00:35 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -683,6 +673,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Anthony Joshua injured in car crash in Nigeria",
+      "description": "Anthony Joshua has been injured in a car crash in Nigeria, police say.",
+      "url": "https://news.sky.com/story/anthony-joshua-injured-in-car-crash-in-nigeria-police-say-13488263",
+      "published": "Mon, 29 Dec 2025 12:28:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Chinese aircraft and navy conduct drills around Taiwan in warning against 'external interference'",
       "description": "China has conducted more military drills around Taiwan in a warning against \"external interference\".",
       "url": "https://news.sky.com/story/chinese-aircraft-and-navy-conduct-drills-around-taiwan-in-warning-against-external-interference-13488185",
@@ -743,16 +743,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Six ISIL fighters, 3 police officers killed in northwest Turkiye raid",
-      "description": "A shootout ensues after police raid a home in northwestern Yalova province, Turkiye's Interior Ministry says.",
-      "url": "https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss",
-      "published": "Mon, 29 Dec 2025 06:25:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -796,7 +786,7 @@
       "title": "Islamic State group militants clash with police in Turkey, wounding 7 officers",
       "description": "Turkey’s interior minister says six Islamic State militants and three police officers were killed in a clash in northwest Turkey",
       "url": "https://abcnews.go.com/International/wireStory/islamic-state-group-militants-clash-police-raid-turkey-128744266",
-      "published": "Mon, 29 Dec 2025 07:29:26 -0500",
+      "published": "Mon, 29 Dec 2025 08:09:40 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1273,20 +1263,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "South Korean President Lee returns to presidential palace avoided by predecessor",
-      "description": "South Korean President Lee Jae Myung on Monday commuted to Cheong Wa Dae, the country’s traditional presidential palace, for the first time since taking office in June, more than three years after his ousted predecessor Yoon Suk Yeol moved the presiden...",
-      "url": "https://abcnews.go.com/International/wireStory/south-korean-president-lee-returns-presidential-palace-avoided-128742176",
-      "published": "Mon, 29 Dec 2025 04:09:39 -0500",
+      "title": "Photos show flour, eggs and firecrackers flying at Spain's Els Enfarinats festival",
+      "description": "Revelers take part in the Els Enfarinats festival, a battle using flour, eggs and firecrackers in the Spanish town of Ibi. This is a photo gallery curated by Associated Press photo editors.",
+      "url": "https://abcnews.go.com/International/wireStory/photos-show-flour-eggs-firecrackers-flying-spains-els-128734615",
+      "published": "Sun, 28 Dec 2025 12:49:50 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Photos show flour, eggs and firecrackers flying at Spain's Els Enfarinats festival",
-      "description": "Revelers take part in the Els Enfarinats festival, a battle using flour, eggs and firecrackers in the Spanish town of Ibi. This is a photo gallery curated by Associated Press photo editors.",
-      "url": "https://abcnews.go.com/International/wireStory/photos-show-flour-eggs-firecrackers-flying-spains-els-128734615",
-      "published": "Sun, 28 Dec 2025 12:49:50 -0500",
+      "title": "South Korean President Lee returns to presidential palace avoided by predecessor",
+      "description": "South Korean President Lee Jae Myung on Monday commuted to Cheong Wa Dae, the country’s traditional presidential palace, for the first time since taking office in June, more than three years after his ousted predecessor Yoon Suk Yeol moved the presiden...",
+      "url": "https://abcnews.go.com/International/wireStory/south-korean-president-lee-returns-presidential-palace-avoided-128742176",
+      "published": "Mon, 29 Dec 2025 04:09:39 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1323,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Thailand-Cambodia ceasefire holds as frontline shows aftermath of fighting",
+      "description": "Thailand and Cambodia have halted fighting after weeks of clashes along their disputed border.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/thailand-cambodia-ceasefire-holds-as-frontline-shows-aftermath-of-fighting?traffic_source=rss",
+      "published": "Mon, 29 Dec 2025 13:04:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "China launches live-fire military exercises around Taiwan",
       "description": "China has begun two days of military exercises around Taiwan, that Beijing says simulate a blockade of key ports.",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/china-launches-live-fire-military-exercises-around-taiwan?traffic_source=rss",
@@ -1353,6 +1353,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "2025 Most Memorable Patriotic Moments: December 29, 2025",
+      "description": "Choose between the Second Inauguration of Donald Trump, the Launch of the America 250 Campaign, or Trump attending the 9/11 Yankees Game.",
+      "url": "https://www.foxnews.com/us/2025-most-memorable-patriotic-moments-december-29-2025",
+      "published": "Mon, 29 Dec 2025 07:41:02 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Deadly helicopter collision in New Jersey kills one, critically injures another",
       "description": "Two helicopters collided mid-air in Hammonton, New Jersey, killing one person and critically injuring another in the crash, authorities said Sunday.",
       "url": "https://www.foxnews.com/us/deadly-helicopter-collision-new-jersey-kills-critically-injures",
@@ -1371,6 +1381,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Recent clashes in coastal Syria “not the fault” of government",
+      "description": "\"This is the state building itself. And state institution building takes time.\"",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/29/recent-clashes-in-coastal-syria-not-the-fault-of-government?traffic_source=rss",
+      "published": "Mon, 29 Dec 2025 12:57:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "S Korea’s ex-first lady accused of taking bribes, meddling in state affairs",
@@ -1454,7 +1474,7 @@
     },
     {
       "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
-      "description": "Both the US president and Zelensky describe talks in Florida as \"great\" and \"terrific\" but the issue of territory remains \"unresolved\".",
+      "description": "The US and Ukrainian presidents both describe talks in Florida as \"great\" and \"terrific\" but the issue of territory remains \"unresolved\".",
       "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 29 Dec 2025 10:59:01 GMT",
       "source": "BBC News",
@@ -1657,16 +1677,6 @@
       "description": "Recognition of Somalia's breakaway region draws widespread condemnation.",
       "url": "https://www.aljazeera.com/video/inside-story/2025/12/29/how-will-israels-recognition-of-somaliand-impact-the-middle-east?traffic_source=rss",
       "published": "Mon, 29 Dec 2025 07:26:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How do you carry a home that keeps breaking?",
-      "description": "An essay about Gaza, about leaving, and about carrying memories.",
-      "url": "https://www.aljazeera.com/features/2025/12/29/how-do-you-carry-a-home-that-keeps-breaking?traffic_source=rss",
-      "published": "Mon, 29 Dec 2025 05:56:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2083,20 +2093,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Photos show Venezuelans celebrating Holy Innocents' Day",
-      "description": "Hundreds of people in northern Venezuela took to the streets for the annual Bandos and Parrandas of the Holy Innocents of Caucagua, a celebration rooted in Afro-descendant cacao-growing communities. Marked on Dec. 28 alongside the Catholic Feast of the Holy Innocents, the festivity dates back more than 200 years, when enslaved people were given the day off and turned it into a moment of satire and resistance. Today, participants preserve that rebellious spirit by wearing costumes inspired by plantation owners and using humor, riddles and parody to poke fun at authority. ___ This gallery was curated by AP photo editors. AP photography: https://apnews.com/photography Instagram: https://www.instagram.com/apnews",
-      "url": "https://abcnews.go.com/International/wireStory/photos-show-venezuelans-celebrating-holy-innocents-day-128738130",
-      "published": "Sun, 28 Dec 2025 17:45:51 -0500",
+      "title": "Thailand's political parties name prime minister candidates for February election",
+      "description": "Political parties in Thailand have registered their candidates to become prime minister after the upcoming general election, marking the unofficial start of campaigning",
+      "url": "https://abcnews.go.com/International/wireStory/thailands-political-parties-prime-minister-candidates-february-election-128729832",
+      "published": "Sun, 28 Dec 2025 08:33:51 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Thailand's political parties name prime minister candidates for February election",
-      "description": "Political parties in Thailand have registered their candidates to become prime minister after the upcoming general election, marking the unofficial start of campaigning",
-      "url": "https://abcnews.go.com/International/wireStory/thailands-political-parties-prime-minister-candidates-february-election-128729832",
-      "published": "Sun, 28 Dec 2025 08:33:51 -0500",
+      "title": "Photos show Venezuelans celebrating Holy Innocents' Day",
+      "description": "Hundreds of people in northern Venezuela took to the streets for the annual Bandos and Parrandas of the Holy Innocents of Caucagua, a celebration rooted in Afro-descendant cacao-growing communities. Marked on Dec. 28 alongside the Catholic Feast of the Holy Innocents, the festivity dates back more than 200 years, when enslaved people were given the day off and turned it into a moment of satire and resistance. Today, participants preserve that rebellious spirit by wearing costumes inspired by plantation owners and using humor, riddles and parody to poke fun at authority. ___ This gallery was curated by AP photo editors. AP photography: https://apnews.com/photography Instagram: https://www.instagram.com/apnews",
+      "url": "https://abcnews.go.com/International/wireStory/photos-show-venezuelans-celebrating-holy-innocents-day-128738130",
+      "published": "Sun, 28 Dec 2025 17:45:51 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2187,16 +2197,6 @@
       "description": "Northern Arizona University Turning Point USA leader Rose Lombardo is standing strong despite backlash from critics for her right-wing activism.",
       "url": "https://www.foxnews.com/us/defiant-tpusa-leader-wont-quit-despite-chapter-facing-harassment-hostility-after-kirk-assassination",
       "published": "Sat, 27 Dec 2025 10:00:43 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Florida man allegedly steals 400 pounds of avocados to buy Christmas presents for children",
-      "description": "A Florida man was arrested after he allegedly trespassed in an avocado grove and stole roughly 400 pounds of the fruit in order to sell them for money to buy Christmas gifts.",
-      "url": "https://www.foxnews.com/us/florida-man-allegedly-steals-400-pounds-avocados-buy-christmas-presents-children",
-      "published": "Sat, 27 Dec 2025 05:15:44 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
