@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-30T21:21:18.248554Z",
-  "event_count": 223,
+  "last_updated": "2025-12-30T21:42:15.581219Z",
+  "event_count": 224,
   "events": [
     {
       "title": "US military kills 2 alleged narco-terrorists in Eastern Pacific strike operation targeting vessel",
@@ -543,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Germany news: Fireworks back on sale, reignite ban debate",
+      "description": "Germany's perennial debate over safety has flared up once again as fireworks sales resume ahead of New Year. Meanwhile, a spate of black ice has caused numerous accidents across the country. Follow our updates.",
+      "url": "https://www.dw.com/en/germany-news-fireworks-back-on-sale-reignite-ban-debate/live-75279871?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 30 Dec 2025 21:26:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Families of Bondi Beach victims demand more federal action",
       "description": "Families of victims of the recent Sydney massacre are urging more federal action to investigate rising antisemitism and security failures",
       "url": "https://abcnews.go.com/International/wireStory/families-bondi-beach-victims-demand-federal-action-antisemitism-128744170",
@@ -748,16 +758,6 @@
       "url": "https://www.aljazeera.com/news/2025/12/30/trump-bombs-venezuelan-land-for-first-time-is-war-imminent?traffic_source=rss",
       "published": "Tue, 30 Dec 2025 15:28:01 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russia opens new Mariupol theater after devastating siege",
-      "description": "The bombing of the Mariupol Drama Theater became a symbol of Russia's three-month siege of the city. Exiled Ukrainian municipal authorities condemned inauguration of the new theater as \"singing and dancing on bones.\"",
-      "url": "https://www.dw.com/en/russia-opens-new-mariupol-theater-after-devastating-siege/a-75337653?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 30 Dec 2025 03:14:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1578,6 +1578,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-30T21:41:47.755621Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
