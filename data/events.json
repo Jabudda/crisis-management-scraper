@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31T20:25:04.468314Z",
+  "last_updated": "2025-12-31T20:44:59.721041Z",
   "event_count": 224,
   "events": [
     {
@@ -298,6 +298,16 @@
       "url": "https://www.france24.com/en/video/20251231-protests-spread-across-iran-as-the-country-faces-unrest-over-economic-struggles",
       "published": "Wed, 31 Dec 2025 17:39:02 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Two trains carrying tourists to Machu Picchu crash - as one person killed",
+      "description": "At least one person has been killed and around 30 passengers have been injured after two trains taking tourists to Machu Picchu in Peru crashed.",
+      "url": "https://news.sky.com/story/two-trains-carrying-tourists-to-machu-picchu-crash-as-one-person-killed-13488953",
+      "published": "Tue, 30 Dec 2025 23:58:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -946,7 +956,7 @@
       "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
       "description": "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences.",
       "url": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 31 Dec 2025 16:06:41 GMT",
+      "published": "Wed, 31 Dec 2025 20:29:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1333,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Anthony Joshua was 'shocked' and 'couldn't talk' after crash, eyewitness says",
-      "description": "Boxer Anthony Joshua was \"shocked\" and \"couldn't talk\" after a car crash in Nigeria, according to an eyewitness.",
-      "url": "https://news.sky.com/story/anthony-joshua-stable-after-nigeria-car-crash-as-tributes-paid-to-inspirational-friend-13488669",
-      "published": "Mon, 29 Dec 2025 20:25:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Dead birds on Florida beaches have experts worried about avian flu",
       "description": "Dead birds along Florida's Space Coast spark fears of a possible avian flu outbreak. Samples were sent for testing as wildlife officials monitor the situation.",
       "url": "https://www.foxnews.com/us/dead-birds-florida-beaches-have-experts-worried-about-avian-flu",
@@ -1466,7 +1466,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2025-12-31T20:24:33.904104Z",
+      "published": "2025-12-31T20:44:39.099836Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1574,7 +1574,7 @@
     },
     {
       "title": "Finnish police seize ship suspected of sabotaging undersea cable",
-      "description": "Police arrested 14 crew members on the ship sailing from the St Petersburg to the Israeli port of Haifa.",
+      "description": "Police arrested 14 crew members on the ship sailing from St Petersburg, Russia, to the Israeli port of Haifa.",
       "url": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 31 Dec 2025 16:48:43 GMT",
       "source": "BBC News",
