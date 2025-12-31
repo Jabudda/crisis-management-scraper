@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-31T21:20:15.513242Z",
-  "event_count": 224,
+  "last_updated": "2025-12-31T21:41:00.175885Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Trump’s shadow war in Venezuela grows, but country’s strongman leader still clings to power",
@@ -224,7 +224,7 @@
     },
     {
       "title": "Suicide bomber kills at least one police officer in Syria’s Aleppo",
-      "description": "Officials say 'terrorist' detonated suicide belt as officers protecting new year's eve festivities tried to detain him.",
+      "description": "Officials say a 'terrorist' detonated suicide belt as police protecting New Year's Eve festivities tried to detain him.",
       "url": "https://www.aljazeera.com/news/2025/12/31/suicide-bomber-kills-at-least-one-police-officer-in-syrias-aleppo?traffic_source=rss",
       "published": "Wed, 31 Dec 2025 20:33:55 +0000",
       "source": "Al Jazeera",
@@ -358,6 +358,16 @@
       "url": "https://www.foxnews.com/us/missing-elderly-person-found-bitter-cold-woods-after-police-deploy-thermal-imaging-drone",
       "published": "Tue, 30 Dec 2025 22:28:54 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Netanyahu warns of ‘eighth front’ ideological battle for American hearts and minds with Christian leaders",
+      "description": "Israeli Prime Minister Benjamin Netanyahu warns of 'eighth front' in ideological battle, telling Christian leaders that faith must confront terrorism in defense of civilization.",
+      "url": "https://www.foxnews.com/world/netanyahu-warns-eighth-front-ideological-battle-american-hearts-minds-christian-leaders",
+      "published": "Wed, 31 Dec 2025 16:23:19 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -1483,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2025-12-31T21:19:53.170297Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "French lawmakers to debate social media ban for children under 15",
       "description": "French lawmakers are set to debate a ban on social media for children under the age of 15 – as well as a prohibition on the use of mobile phones in high schools – that could begin with the next school year in September 2026.",
       "url": "https://www.france24.com/en/france/20251231-france-to-debate-social-media-ban-for-children-under-15",
@@ -1926,7 +1926,7 @@
       "title": "M 4.9 - 15 km NNW of Susanville, CA",
       "description": "PAGER - GREEN ShakeMap - VII DYFI? - VII Time 2025-12-31 05:49:32 UTC 2025-12-31 05:49:32 UTC at epicenter Location 40.544°N 120.692°W Depth 5.32 km (3.31 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75288851",
-      "published": "2025-12-31T21:16:17.229Z",
+      "published": "2025-12-31T21:38:00.353Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1953,20 +1953,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "This new year celebration in Mumbai is just one of many in India",
-      "description": "In Mumbai, some celebrate New Year's Eve with an effigy of the old year. It's just one of many New Years celebrated in India.",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5661510/this-new-year-celebration-in-mumbai-is-just-one-of-many-in-india",
-      "published": "Wed, 31 Dec 2025 16:08:53 -0500",
+      "title": "Out with the mayo: How Ukrainians reclaim holiday food",
+      "description": "For many people from former Soviet countries, New Year's is a big holiday feast time. A Ukrainian restaurant in Washington gives NPR a taste of what's on the menu.",
+      "url": "https://www.npr.org/2025/12/31/nx-s1-5660765/ukrainian-food-holidays",
+      "published": "Wed, 31 Dec 2025 07:00:00 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Out with the mayo: How Ukrainians reclaim holiday food",
-      "description": "For many people from former Soviet countries, New Year's is a big holiday feast time. A Ukrainian restaurant in Washington gives NPR a taste of what's on the menu.",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5660765/ukrainian-food-holidays",
-      "published": "Wed, 31 Dec 2025 07:00:00 -0500",
+      "title": "Israel says it will bar aid groups, including Doctors Without Borders, from Gaza",
+      "description": "Israel accused Doctors Without Borders, one of the largest health organizations operating in Gaza, of failing to clarify the roles of some staff that Israel accused of cooperation with militants.",
+      "url": "https://www.npr.org/2025/12/30/g-s1-103986/israel-gaza-aid-ngos",
+      "published": "Tue, 30 Dec 2025 11:04:32 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2227,16 +2227,6 @@
       "description": "Ukrainian President Volodymyr Zelenskyy indicated that American President Donald Trump said the U.S. will entertain the prospect of providing Ukraine with decades of security guarantees.",
       "url": "https://www.foxnews.com/world/zelenskyy-claims-trump-said-us-consider-giving-ukraine-decades-security-guarantees",
       "published": "Mon, 29 Dec 2025 10:58:00 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK prime minister slammed for welcoming home freed Egyptian prisoner after social media posts resurface",
-      "description": "U.K. Prime Minister Keir Starmer is facing criticism after welcoming human rights activist Alaa Abd el-Fattah home, as the man's past posts sparked political backlash.",
-      "url": "https://www.foxnews.com/world/uk-prime-minister-slammed-welcoming-home-freed-egyptian-prisoner-after-social-media-posts-resurface",
-      "published": "Mon, 29 Dec 2025 03:42:13 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
