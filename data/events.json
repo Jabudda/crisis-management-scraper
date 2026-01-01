@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-01T21:20:41.121903Z",
-  "event_count": 223,
+  "last_updated": "2026-01-01T21:41:43.865593Z",
+  "event_count": 224,
   "events": [
     {
       "title": "US military confirms 5 killed in Dec 31 kinetic strike on reported narco-terror vessels",
@@ -38,6 +38,16 @@
       "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
       "published": "Tue, 30 Dec 2025 00:17:59 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nigeria police detain driver in fatal Joshua car crash",
+      "description": "In tonight's edition, Nigerian police detain the driver of the vehicle involved in the Lagos highway smash in which two people were killed and boxer Anthony Joshua was injured. Also, supporters of Guinea's former junta chief turned president-elect celebrate his win of the weekend's election. And Senegal's leader used his New Year speech to promise that there would be changes in the way that the country tackles violence against women.",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260101-nigeria-police-detain-driver-in-fatal-joshua-car-crash",
+      "published": "Thu, 01 Jan 2026 21:19:41 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 38,
       "severity_level": "Critical"
@@ -154,7 +164,7 @@
     },
     {
       "title": "Business leaders and Catholic bishops join call for royal commission after Bondi attack",
-      "description": "Signatories to open letter include former Reserve Bank of Australia governors Philip Lowe and Glenn Stevens and billionaire James Packer Australian business leaders and public figures have joined forces to call for a Commonwealth royal commission into antisemitism, radicalism and the events leading up to December 14 Bondi beach terrorist attack. At least 120 leaders have signed the open letter, including former Reserve Bank of Australia governors Philip Lowe and Glenn Stevens, billionaire James Packer, former Telstra chief executive David Thodey, as well as sporting figures, politicians, and university chancellors. Continue reading...",
+      "description": "Signatories to open letter include former Reserve Bank of Australia governors Philip Lowe and Glenn Stevens and billionaire James Packer Get our breaking news email , free app or daily news podcast Australian business leaders and public figures have joined forces to call for a commonwealth royal commission into antisemitism, radicalism and the events leading up to the 14 December Bondi beach terrorist attack. At least 120 leaders have signed the open letter, including former Reserve Bank of Australia governors Philip Lowe and Glenn Stevens, billionaire James Packer, former Telstra chief executive David Thodey, as well as sporting figures, politicians and university chancellors. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jan/02/business-leaders-and-catholic-bishops-join-call-for-royal-commission-after-bondi-attack-ntwnfb",
       "published": "Thu, 01 Jan 2026 20:57:50 GMT",
       "source": "The Guardian World",
@@ -1153,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Bangladesh mourns death of first female Prime Minister Khaleda Zia",
-      "description": "Bangladesh is mourning the death of its first female Prime Minister, Khaleda Zia, who died Tuesday.",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5661552/bangladesh-mourns-death-of-first-female-prime-minister-khaleda-zia",
-      "published": "Wed, 31 Dec 2025 04:47:05 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Amsterdam church destroyed by New Year's blaze",
       "description": "The beloved 154-year-old Vondel Church in Amsterdam was devastated by a massive fire that erupted shortly after midnight on New Year's Day.",
       "url": "https://www.dw.com/en/amsterdam-church-destroyed-by-new-year-s-blaze/a-75362443?maca=en-rss-en-all-1573-xml-mrss",
@@ -1416,7 +1416,7 @@
       "title": "What we know about the Switzerland ski resort fire",
       "description": "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana.",
       "url": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Jan 2026 16:45:09 GMT",
+      "published": "Thu, 01 Jan 2026 21:30:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1467,16 +1467,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/live-news/20260101-deadly-fire-ravages-new-year-celebration-in-bar-at-luxury-swiss-ski-resort",
       "published": "Thu, 01 Jan 2026 09:49:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Major fire breaks out in historic church in Amsterdam",
-      "description": "In Amsterdam, during New Years celebrations a large fire broke out in a historic church. Much like the Notre Dame cathedral in Paris, the Dutch church had a wooden structure, making fighting the fire that much more difficult. Solange Mougin has more.",
-      "url": "https://www.france24.com/en/video/20260101-major-fire-breaks-out-in-historic-church-in-amsterdam",
-      "published": "Thu, 01 Jan 2026 09:42:29 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
@@ -1588,6 +1578,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-01T21:41:20.994411Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1988,6 +1988,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rl2n",
       "published": "2025-12-30T03:24:14.885Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel bans Doctors Without Borders in Gaza. This clinic offers life-saving care",
+      "description": "NPR visits a Doctors Without Borders clinic at risk of closure after Israel bans dozens of aid groups in Gaza.",
+      "url": "https://www.npr.org/2026/01/01/nx-s1-5662578/israel-bans-doctors-without-borders-in-gaza-this-clinic-offers-life-saving-care",
+      "published": "Thu, 01 Jan 2026 16:22:19 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
