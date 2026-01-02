@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-02T06:36:04.619409Z",
-  "event_count": 223,
+  "last_updated": "2026-01-02T07:25:25.666290Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Australia’s 2025 road toll: NSW records highest number of deaths in eight years as fatalities rise nationwide",
@@ -153,7 +153,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'Horror movie' ski resort fire leaves dozens dead - as footage shows partygoer trying to tackle flames",
+      "title": "Partygoer seen trying to tackle flames in 'horror movie' ski resort fire that killed dozens",
       "description": "About 40 people were killed and 115 injured in a blaze in at a New Year's Eve Party at an upmarket Swiss ski resort, with the disaster likened to scenes from a horror film.",
       "url": "https://news.sky.com/story/like-a-horror-movie-around-40-dead-and-115-injured-in-swiss-ski-resort-bar-fire-13489518",
       "published": "Thu, 01 Jan 2026 20:40:00 +0000",
@@ -178,6 +178,16 @@
       "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
       "published": "Mon, 29 Dec 2025 18:48:34 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Friends and family search for the missing after deadly Swiss fire",
+      "description": "With Swiss police estimating that some 40 people were killed and roughly 115 injured after a fire ravaged a bar in the luxury resort town of Crans-Montana during a New Year's celebration, relatives and friends remain desperate for news of their loved ones.",
+      "url": "https://www.france24.com/en/live-news/20260102-are-they-ok-desparate-search-for-the-missing-after-swiss-fire",
+      "published": "Fri, 02 Jan 2026 05:57:23 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -343,6 +353,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia",
+      "description": "It is the latest accident on one of the world’s most dangerous routes used by West Africans trying to reach Spain.",
+      "url": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Jan 2026 06:50:57 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
       "description": "Russian officials say that a Ukrainian attack killed 24 people in a Russian-occupied village in Ukraine’s Kherson region, as tensions between the two nations continue to spike despite diplomats hailing productive peace talks",
       "url": "https://abcnews.go.com/International/wireStory/russia-ukrainian-drone-strike-kills-24-occupied-ukraine-128826934",
@@ -361,16 +381,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "Netherlands police face 'unprecedented' New Year's  violence",
-      "description": "Reports of fireworks and other explosives being thrown are widespread across the country.",
-      "url": "https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Jan 2026 13:30:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "Australian among the injured in New Year’s Eve fire that killed 40 at Swiss ski resort",
@@ -394,20 +404,10 @@
     },
     {
       "title": "Switzerland: Dozens killed in bar fire in Alps resort",
-      "description": "At least 40 people died and over 100 others were injured, police say, after a fire tore through a bar during New Year's celebrations. Switzerland's president has said most of the victims were young. DW has more.",
+      "description": "At least 40 people died and over 100 others were injured, police say, after a fire tore through a bar during New Year's celebrations. Switzerland's president has said most of the victims were young.",
       "url": "https://www.dw.com/en/switzerland-dozens-killed-in-bar-fire-in-alps-resort/live-75359447?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 1 Jan 2026 10:41:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "French firefighters launch nationwide calendar competition to support Injured crews",
-      "description": "Every winter in France, firefighters sell calendars to raise funds for a nonprofit organization that supports injured firefighters and the families of those who have died in the line of duty, and this year the tradition includes the fourth edition of a nationwide calendar competition, with 128 fire stations inviting the public to vote for the best design, as our colleagues at France Télévisions, Alexis Fischer, Mathieu Dreujou, and Claire Combaluzier, along with France 24’s Florent Marchais, report.",
-      "url": "https://www.france24.com/en/video/20260101-french-firefighters-launch-nationwide-calendar-competition-to-support-injured-crews",
-      "published": "Thu, 01 Jan 2026 11:58:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -783,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Swiss bar fire: Officials begin task of identifying victims",
+      "description": "Swiss officials say identifying the burned bodies of those killed in a fire in a bar in Crans-Montana could take days, as families anxiously await news of their loved ones. Follow the latest.",
+      "url": "https://www.dw.com/en/swiss-bar-fire-officials-begin-task-of-identifying-victims/live-75363055?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 2 Jan 2026 07:13:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Anthony Joshua discharged from hospital after Nigeria crash",
       "description": "The British heavyweight sustained injuries in a car crash that killed two of his friends.",
       "url": "https://www.dw.com/en/anthony-joshua-discharged-from-hospital-after-nigeria-crash/a-75359296?maca=en-rss-en-all-1573-xml-mrss",
@@ -1143,16 +1153,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Women get drunk faster than men due to biology not tolerance",
-      "description": "At the same table, with the same drinks, women often get drunk faster than men — and alcohol can affect women's brains differently, making its effects stronger, sometimes more rewarding. But also more addictive.",
-      "url": "https://www.dw.com/en/women-get-drunk-faster-than-men-due-to-biology-not-tolerance/a-75223854?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 31 Dec 2025 17:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Maduro suggests Venezuela is open to talks with US despite military attacks",
       "description": "Tensions between Caracas and Washington flared this week after US President Donald Trump claimed American forces destroyed a Venezuelan dock used by alleged drug traffickers. President Nicolas Maduro did not confirm, but suggested Venezuela remained willing to engage with the US despite weeks of escalating military pressure in the region.",
       "url": "https://www.france24.com/en/americas/20260102-maduro-suggests-venezuela-is-open-to-talks-with-us-despite-military-attacks",
@@ -1254,7 +1254,7 @@
     },
     {
       "title": "Mamdani vows bold left-wing agenda as he takes office as New York mayor",
-      "description": "Zohran Mamdani pledged to prove that left-wing politics can deliver for ordinary people as he was sworn in as New York mayor on Thursday, beginning a term likely to bring confrontation with US President Donald Trump and scrutiny of his ambitious plans for the country’s largest city.",
+      "description": "Zohran Mamdani pledged to prove that left-wing politics can deliver for ordinary people as he was sworn in as New York City mayor on Thursday, beginning a term likely to bring confrontation with US President Donald Trump and scrutiny of his ambitious plans for the country’s largest city.",
       "url": "https://www.france24.com/en/americas/20260101-mamdani-vows-bold-left-wing-agenda-new-york-mayor",
       "published": "Thu, 01 Jan 2026 22:56:21 GMT",
       "source": "France24",
@@ -1383,16 +1383,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Mali and Burkina Faso impose retaliatory travel ban on US nationals",
-      "description": "Mali and Burkina Faso have banned U.S. citizens from entering their countries",
-      "url": "https://abcnews.go.com/International/wireStory/mali-burkina-faso-impose-retaliatory-travel-ban-us-128795911",
-      "published": "Tue, 30 Dec 2025 22:15:42 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Venezuela arrests more Americans as Trump ramps up pressure on Maduro: report",
       "description": "Secretary of State Marco Rubio confirmed 10 Americans were freed from Venezuela in a July prisoner swap. President Donald Trump sent an envoy to Caracas.",
       "url": "https://www.foxnews.com/world/venezuela-arrests-more-americans-trump-ramps-pressure-maduro-report",
@@ -1483,6 +1473,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi",
+      "description": "Analysts say summit signals Beijing's desire to strengthen ties amid shifting regional alliances.",
+      "url": "https://www.aljazeera.com/news/2026/1/2/south-korean-president-lee-to-visit-beijing-for-pivotal-2nd-summit-with-xi?traffic_source=rss",
+      "published": "Fri, 02 Jan 2026 06:08:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1553,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Turkish police detain 357 suspects in raids against the Islamic State group",
+      "description": "Turkish police have conducted large-scale operations against the Islamic State group across Turkey, detaining 357 suspects",
+      "url": "https://abcnews.go.com/International/wireStory/turkish-police-detain-357-suspects-raids-islamic-state-128773939",
+      "published": "Tue, 30 Dec 2025 04:09:41 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Results expected 5 January after landmark elections in Central African Republic",
       "description": "Voting proceeded largely as planned in the Central African Republic’s first-ever combined presidential, legislative, regional and municipal elections, and ballot counting is now complete, the UN peacekeeping mission (MINUSCA) said on Wednesday, with results expected to be announced on 5 January.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166688",
@@ -1598,6 +1608,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-02T07:24:56.987741Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1653,26 +1673,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
-      "description": "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station.",
-      "url": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Jan 2026 06:37:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zohran Mamdani inaugurated as mayor of New York City",
-      "description": "At a ceremony on the steps of City Hall, Zohran Mamdani has been inaugurated as mayor of New York.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/zohran-mamdani-inaugurated-as-mayor-of-new-york-city?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 20:28:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1714,7 +1714,7 @@
     },
     {
       "title": "Japan PM joins fight for more female toilets in parliament",
-      "description": "Japan's parliament building was built in 1936, a decade before women was given the right to vote.",
+      "description": "Japan's parliament building was built in 1936, a decade before women were given the right to vote.",
       "url": "https://www.bbc.com/news/articles/c8e5lxd2gwgo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Jan 2026 03:10:12 GMT",
       "source": "BBC News",
@@ -1773,6 +1773,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
+      "description": "The incident took place during a live recreation of a scene from the film of Indiana Jones",
+      "url": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Jan 2026 07:10:11 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South African activist uses history to highlight ongoing injustice",
+      "description": "An activist-turned-historian takes tourists through South Africa's painful colonial history, which still echoes today.",
+      "url": "https://www.aljazeera.com/features/2026/1/2/south-african-activist-uses-history-to-highlight-ongoing-injustice?traffic_source=rss",
+      "published": "Fri, 02 Jan 2026 06:27:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Flights from Aden airport in Yemen halted amid latest tensions",
       "description": "STC separatists accuse Saudi Arabia of requiring flights to UAE to land in Jeddah; Saudi source rejects claim.",
       "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss",
@@ -1807,16 +1827,6 @@
       "description": "US recently approved $11bn arms package for Taiwan, which condemned 'provocative' Chinese military drills.",
       "url": "https://www.aljazeera.com/news/2026/1/1/us-says-chinese-military-drills-around-taiwan-cause-unnecessary-tensions?traffic_source=rss",
       "published": "Thu, 01 Jan 2026 22:48:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘My health is perfect’: Trump dismisses scrutiny of his age and fitness",
-      "description": "By the end of his second term, Trump will be the oldest sitting president in US history, though he denies slowing down.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/my-health-is-perfect-trump-dismisses-scrutiny-of-his-age-and-fitness?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 20:28:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
