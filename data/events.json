@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-03T10:45:26.967879Z",
-  "event_count": 224,
+  "last_updated": "2026-01-03T11:18:37.943307Z",
+  "event_count": 225,
   "events": [
     {
       "title": "US launches military strikes on Venezuela after Trump's threats against Maduro",
@@ -190,16 +190,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Trump says Venezuela’s Maduro captured after huge US military strikes",
-      "description": "President Nicolas Maduro had earlier declared a national state of emergency following the US attack on Caracas.",
-      "url": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 06:30:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -416,7 +406,7 @@
       "title": "Venezuelan president Maduro captured and flown out of country following ‘large scale’ US attack, Trump says – live",
       "description": "US president says ‘the United States of America has successfully carried out a large scale strike against Venezuela’ Full report: Trump confirms attack on Venezuela and says Maduro captured The Reuters news agency says it has been told by a US official, speaking on the condition of anonymity, that the US carried out strikes inside Venezuela on Saturday . The unnamed official did not provide details. As mentioned earlier, the White House and Pentagon did not immediately respond to request for comment on Saturday morning. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live",
-      "published": "Sat, 03 Jan 2026 10:29:35 GMT",
+      "published": "Sat, 03 Jan 2026 11:03:47 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 22,
@@ -673,6 +663,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Severe weather in Gaza hits vulnerable and wounded most in Israel’s war",
+      "description": "As harsh weather conditions hit the Strip once again, people wounded in the war suffer the most.",
+      "url": "https://www.aljazeera.com/news/2026/1/3/severe-weather-in-gaza-hits-vulnerable-and-wounded-most-in-israels-war?traffic_source=rss",
+      "published": "Sat, 03 Jan 2026 10:37:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Venezuelan journalist describes moment of ‘targeted airstrikes’",
       "description": "A journalist in Venezuela described explosions during what she says were ‘targeted airstrikes’ on Caracas.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/venezuelan-journalist-describes-moment-of-targeted-airstrikes?traffic_source=rss",
@@ -740,6 +740,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says Venezuela’s Maduro ‘captured’ after huge US military strikes",
+      "description": "Venezuelan Vice President Delcy Rodriguez calls on the US to issue \"proof of life\" of Venezuelan leader after US attack.",
+      "url": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
+      "published": "Sat, 03 Jan 2026 06:30:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -948,6 +958,16 @@
       "url": "https://www.dw.com/en/swiss-fire-safety-under-scrutiny-after-crans-montana-blaze/a-75369716?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 2 Jan 2026 16:59:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "What we know about US strikes on Venezuela as Maduro 'captured'",
+      "description": "The US has carried out a \"large-scale strike\" against Venezuela, and its leader, Nicolas Maduro, has been flown out of the country with his wife.",
+      "url": "https://news.sky.com/story/what-we-know-about-us-strikes-on-venezuela-as-maduro-captured-13489880",
+      "published": "Sat, 03 Jan 2026 09:57:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1163,9 +1183,19 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Why does Trump want Venezuela's Maduro out?",
+      "title": "Ukraine: European advisers discuss further steps in Kyiv",
+      "description": "European security advisers arrive in Kyiv to \"work on framework agreements\" as a 20-point proposal to halt the war in Ukraine struggles to make it over the finish line. US also set to join talks by video link.",
+      "url": "https://www.dw.com/en/ukraine-european-advisers-discuss-further-steps-in-kyiv/live-75373512?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 3 Jan 2026 11:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "What is behind Trump's ouster of Venezuela's Maduro?",
       "description": "The latest attacks on Caracas suggest regime change is top of the White House agenda when it comes to Venezuela. But the ultimate purpose may not be purely to restore democracy.",
-      "url": "https://www.dw.com/en/why-does-trump-want-venezuela-s-maduro-out/a-75232235?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/what-is-behind-trump-s-ouster-of-venezuela-s-maduro/a-75232235?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 3 Jan 2026 08:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1350,6 +1380,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Police identify first four victims of Swiss ski resort fire",
+      "description": "Bodies of two Swiss women aged 21 and 16, and two Swiss men aged 18 and 16 have been returned to their families.",
+      "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Jan 2026 11:13:25 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1613,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-03T11:18:06.801418Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany: Third bank robbery reported in NRW in days",
       "description": "Another day, another report of a robbery at a Sparkasse bank in western Germany. This time, four safe-deposit boxes were emptied in broad daylight.",
       "url": "https://www.dw.com/en/germany-third-bank-robbery-reported-in-nrw-in-days/a-75372907?maca=en-rss-en-all-1573-xml-mrss",
@@ -1753,16 +1803,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Saudi Arabia calls for Yemeni factions to attend 'dialogue' in Riyadh",
-      "description": "It comes after clashes and an independence bid in southern Yemen bring Saudi and UAE-backed forces into confrontation.",
-      "url": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Jan 2026 04:16:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A New Year for Gaza: Will life return?",
       "description": "Al Jazeera’s Maram Humaid reflects on a year of famine in Gaza, marked by hunger, loss, and relentless suffering.",
       "url": "https://www.aljazeera.com/features/2026/1/3/a-new-year-for-gaza-will-life-return?traffic_source=rss",
@@ -1777,16 +1817,6 @@
       "description": "Saudi Arabia's Foreign Ministry invites Yemen's southern factions to attend a 'dialogue' in Riyadh.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss",
       "published": "Sat, 03 Jan 2026 05:56:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How fragile is the US healthcare system?",
-      "description": "Millions of Americans face a sharp increase in their insurance premiums.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/1/2/how-fragile-is-the-us-healthcare-system?traffic_source=rss",
-      "published": "Fri, 02 Jan 2026 22:15:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2053,31 +2083,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Kim Jong Un's daughter visits mausoleum, fueling heir rumors",
-      "description": "In North Korea, where political events are meticulously choreographed, the visit to the Kim dynasty’s resting place comes as Pyongyang prepares for its first ruling party congress in five years.",
-      "url": "https://www.dw.com/en/kim-jong-un-s-daughter-visits-mausoleum-fueling-heir-rumors/a-75364469?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 2 Jan 2026 09:43:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "🔴 Follow live: Trump says Maduro 'captured and flown out' of Venezuela",
       "description": "No description available.",
       "url": "https://www.france24.com/en/americas/20260103-live-venezuela-declares-state-of-emergency-after-reported-us-military-aggression",
       "published": "Sat, 03 Jan 2026 09:27:53 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "'We saw terrible things - it could have happened to me'",
-      "description": "In Crans-Montana, there's growing grief, anger, and uncertainty.",
-      "url": "https://news.sky.com/story/swiss-bar-fire-we-saw-terrible-things-it-could-have-happened-to-me-13489801",
-      "published": "Fri, 02 Jan 2026 21:33:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
