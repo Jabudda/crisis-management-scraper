@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-04T07:22:52.352006Z",
-  "event_count": 223,
+  "last_updated": "2026-01-04T07:42:11.002667Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Venezuela: US ready ‘to run’ the country, ‘Maduro captured’",
@@ -253,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Pope opens 2026 with plea for peace in countries bloodied by war, families wounded by violence",
-      "description": "Pope Leo XIV has opened 2026 with a plea for peace",
-      "url": "https://abcnews.go.com/International/wireStory/pope-opens-2026-plea-peace-countries-bloodied-war-128827322",
-      "published": "Thu, 01 Jan 2026 07:30:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "US: FBI arrests man over alleged NYE attack plot",
       "description": "The man had pledged loyalty to the Islamic State group and was allegedly planning a knife-and-hammer attack in North Carolina. Undercover agents foiled the terror plot, the FBI said.",
       "url": "https://www.dw.com/en/us-fbi-arrests-man-over-alleged-nye-attack-plot/a-75373274?maca=en-rss-en-all-1573-xml-mrss",
@@ -323,10 +313,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
-      "description": "Russian officials say that a Ukrainian attack killed 24 people in a Russian-occupied village in Ukraine’s Kherson region, as tensions between the two nations continue to spike despite diplomats hailing productive peace talks",
-      "url": "https://abcnews.go.com/International/wireStory/russia-ukrainian-drone-strike-kills-24-occupied-ukraine-128826934",
-      "published": "Thu, 01 Jan 2026 07:13:50 -0500",
+      "title": "What to know about the protests now shaking Iran as tensions remain high over its nuclear program",
+      "description": "Protests in Iran are intensifying due to the country's struggling economy, putting pressure on its theocracy",
+      "url": "https://abcnews.go.com/International/wireStory/protests-now-shaking-iran-tensions-remain-high-nuclear-128883993",
+      "published": "Sun, 04 Jan 2026 02:09:51 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
@@ -488,6 +478,16 @@
       "url": "https://www.dw.com/en/venezuela-s-maduro-arrives-in-new-york-after-capture-by-us/live-75373644?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 3 Jan 2026 17:45:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Indonesian rescuers find a second body as search for Spanish soccer coach and 2 children extended",
+      "description": "Indonesian rescuers have recovered a second body in the ongoing search for a Spanish soccer coach and two of his children who went missing after a tour boat sank during their Christmas holiday",
+      "url": "https://abcnews.go.com/International/wireStory/indonesian-rescuers-find-body-search-spanish-soccer-coach-128884413",
+      "published": "Sun, 04 Jan 2026 02:17:58 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -803,7 +803,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump has started with Venezuela - but he may well not stop there",
+      "title": "Trump has started with Venezuela - but he may not stop there",
       "description": "The seizure of Nicolas Maduro takes the world into new territory.",
       "url": "https://news.sky.com/story/venezuela-crisis-after-maduros-capture-geopolitics-is-about-to-become-weirder-and-potentially-a-lot-more-dangerous-13490177",
       "published": "Sun, 04 Jan 2026 02:29:00 +0000",
@@ -833,10 +833,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Joint UK-French air strike targets IS arms cache in Syria",
-      "description": "RAF Typhoon jets joined French aircraft in a strike on an underground Islamic State arms cache in Syria, UK officials say.",
+      "title": "UK and France bomb underground IS arms bunker in Syria",
+      "description": "RAF Typhoon jets joined French aircraft in a strike on an Islamic State group arms store in Syria, UK officials say.",
       "url": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Jan 2026 00:50:02 GMT",
+      "published": "Sun, 04 Jan 2026 07:22:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -858,6 +858,26 @@
       "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Jan 2026 18:06:23 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war",
+      "description": "Gaza's economy has plummeted by 87 percent in two years, deepening poverty and leaving thousands without resources.",
+      "url": "https://www.aljazeera.com/news/2026/1/4/poverty-unemployment-skyrocket-in-the-gaza-strip-after-israels-war?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 07:10:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,410",
+      "description": "These are the key developments from day 1,410 of Russia’s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/1/4/russia-ukraine-war-list-of-key-events-day-1410?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 06:55:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1053,20 +1073,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Fact-checking Trump following US ‘capture’ of Venezuela’s Maduro",
-      "description": "Republican US president says Washington will 'run' Venezuela after US troops seize the country's leader.",
-      "url": "https://www.aljazeera.com/news/2026/1/4/fact-checking-trump-following-us-capture-of-venezuelas-maduro?traffic_source=rss",
-      "published": "Sun, 04 Jan 2026 03:09:11 +0000",
+      "title": "Trump says opposition leader Maria Corina Machado unfit to run Venezuela",
+      "description": "US President Donald Trump says Venezuela’s opposition leader Maria Corina Machado lacks the respect to run the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/trump-says-opposition-leader-maria-corina-machado-unfit-to-run-venezuela?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 07:06:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Trump says US will ‘run’ Venezuela after Nicolas Maduro seized",
-      "description": "Trump says the US will 'run the country until such time as we can do a safe, proper and judicious transition'.",
-      "url": "https://www.aljazeera.com/news/2026/1/3/trump-says-us-will-run-venezuela-after-nicolas-maduro-seized?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 16:57:15 +0000",
+      "title": "Fact-checking Trump following US ‘capture’ of Venezuela’s Maduro",
+      "description": "Republican US president says Washington will 'run' Venezuela after US troops seize the country's leader.",
+      "url": "https://www.aljazeera.com/news/2026/1/4/fact-checking-trump-following-us-capture-of-venezuelas-maduro?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 03:09:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1176,7 +1196,7 @@
       "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
       "description": "The US launched strikes on Venezuela on Saturday in which Maduro and his wife were captured by US forces.",
       "url": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Jan 2026 07:19:09 GMT",
+      "published": "Sun, 04 Jan 2026 07:36:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1208,16 +1228,6 @@
       "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
       "published": "Thu, 01 Jan 2026 13:00:40 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What to know about the U.S. strikes in Venezuela — and the fallout",
-      "description": "President Trump said the U.S. would \"run\" Venezuela, following the capture of President Nicolás Maduro on Saturday. But many questions remain about what's next.",
-      "url": "https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro",
-      "published": "Sat, 03 Jan 2026 17:31:50 -0500",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1443,16 +1453,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-04T07:22:22.433245Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Six questions about the capture of Maduro",
       "description": "On a day when most reporters are chasing facts, NPR's Morning Edition host Steve Inskeep has a few questions.",
       "url": "https://www.npr.org/2026/01/03/nx-s1-5665756/six-questions-about-the-capture-of-maduro",
@@ -1508,6 +1508,16 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "In a frozen northeastern Chinese city, an annual ode to ice rises",
+      "description": "Each January, a strange and beautiful thing happens in the frigid northern Chinese city of Harbin",
+      "url": "https://abcnews.go.com/International/wireStory/frozen-northeastern-chinese-city-annual-ode-ice-rises-128884459",
+      "published": "Sun, 04 Jan 2026 02:25:32 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1583,6 +1593,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Syria’s challenges to rebuild its armed forces",
+      "description": "Syria's new interim government has started the process to rebuild the armed forces, but challenges lie ahead.",
+      "url": "https://www.aljazeera.com/news/2026/1/4/syrias-challenges-to-rebuild-its-armed-forces?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 07:18:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Video shows Venezuela’s President Maduro in US custody",
+      "description": "Video shows Venezuelan President Nicolas Maduro arriving at the Drug Enforcement Agency detention centre in New York.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/video-shows-venezuelas-president-maduro-in-us-custody?traffic_source=rss",
+      "published": "Sun, 04 Jan 2026 07:17:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump says US will take Venezuela’s oil",
       "description": "Trump says the US will ‘take back’ Venezuela’s oil, arguing it should be used to reimburse Washington for past spending.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/trump-says-us-will-take-venezuelas-oil?traffic_source=rss",
@@ -1647,46 +1677,6 @@
       "description": "Senegal come from behind to ease past Sudan 3-1 ⁠and book their ‍place in the Africa Cup of Nations quarterfinals.",
       "url": "https://www.aljazeera.com/sports/2026/1/3/senegal-beat-sudan-to-reach-afcon-quarterfinals-as-pape-gueye-grabs-brace?traffic_source=rss",
       "published": "Sat, 03 Jan 2026 18:33:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Team’ from US to run Venezuela after ‘capture’ of Maduro",
-      "description": "US President Donald Trump says a ‘team’ from the US will be running Venezuela.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/team-from-us-to-run-venezuela-after-capture-of-maduro?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 18:08:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "South Africa manager to show ‘no mercy’ to Cameroon at AFCON 2025",
-      "description": "Hugo Broos lead Cameroon to the 2017 AFCON title but will have be no room for sentimentality with his South Africa side.",
-      "url": "https://www.aljazeera.com/sports/2026/1/3/south-africa-manager-to-show-no-mercy-to-cameroon-at-afcon-2025?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 18:00:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump: US ‘captures’ Maduro in ‘dead of night’",
-      "description": "US President Donald Trump said the US will run Venezuela until there is a “safe and judicious” transition of power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/trump-us-captures-maduro-in-dead-of?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 17:17:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Real Madrid to ‘push deadline’ for Mbappe to make Atletico Super Cup return",
-      "description": "Real Madrid's Kylian Mbappe out of Sunday's Real Betis clash in La Liga, and now in race for Atletico Super Cup derby.",
-      "url": "https://www.aljazeera.com/sports/2026/1/3/real-madrid-to-push-deadline-for-mbappe-to-make-atletico-super-cup-return?traffic_source=rss",
-      "published": "Sat, 03 Jan 2026 17:14:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1883,20 +1873,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "K-Pop band BTS set to make comeback in March",
-      "description": "The reunion marks the end of a nearly four-year hiatus. All seven members of the South Korean pop boy band BTS have now completed their mandatory military service.",
-      "url": "https://www.dw.com/en/k-pop-band-bts-set-to-make-comeback-in-march/a-75372972?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 3 Jan 2026 01:09:00 GMT",
+      "title": "Maduro arrives in New York. What to know about the U.S. operation in Venezuela",
+      "description": "President Trump said the U.S. would \"run\" Venezuela, following the capture of President Nicolás Maduro on Saturday. But many questions remain about what's next.",
+      "url": "https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro",
+      "published": "Sat, 03 Jan 2026 17:31:50 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Myanmar to free thousands of prisoners in annual amnesty",
+      "description": "The amnesty comes while Myanmar marks 78 years of indenpendence from Britain and as the junta stages its first election since the 2021 coup.",
+      "url": "https://www.dw.com/en/myanmar-to-free-thousands-of-prisoners-in-annual-amnesty/a-75382196?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 4 Jan 2026 07:31:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Why plastic bans aren't working and what needs to change",
-      "description": "Four years after Germany phased out light plastic bags, how has the EU addressed plastic waste? And why do single-use items still pile up in takeaway restaurants, shops and the environment?",
-      "url": "https://www.dw.com/en/why-plastic-bans-aren-t-working-and-what-needs-to-change/a-74980708?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 2 Jan 2026 17:05:00 GMT",
+      "title": "K-Pop band BTS set to make comeback in March",
+      "description": "The reunion marks the end of a nearly four-year hiatus. All seven members of the South Korean pop boy band BTS have now completed their mandatory military service.",
+      "url": "https://www.dw.com/en/k-pop-band-bts-set-to-make-comeback-in-march/a-75372972?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 3 Jan 2026 01:09:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2057,16 +2057,6 @@
       "description": "Syria has begun circulating new currency bills, a year after Bashar Assad's government fell",
       "url": "https://abcnews.go.com/International/wireStory/syria-begins-circulating-new-post-assad-currency-bills-128864479",
       "published": "Sat, 03 Jan 2026 08:41:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australia's Northern Territory considers passing assisted dying laws for second time in 31 years",
-      "description": "The Northern Territory government in Australia plans to legislate for doctor-assisted dying for a second time",
-      "url": "https://abcnews.go.com/International/wireStory/australias-northern-territory-considers-passing-assisted-dying-laws-128841021",
-      "published": "Fri, 02 Jan 2026 02:18:27 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
