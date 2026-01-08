@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T15:27:58.310135Z",
+  "last_updated": "2026-01-08T15:52:11.839730Z",
   "event_count": 222,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 39,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "ICE officer kills a woman: US immigration crackdown by the Trump administration",
-      "description": "A US Immigration and Customs Enforcement (ICE) officer shot and killed a woman during a traffic stop in Minneapolis, triggering protests and a furious backlash from city and state leaders who condemned the federal immigration crackdown as reckless and destabilising. France24 International Affairs editor Andrew Hilliar explains further.",
-      "url": "https://www.france24.com/en/ice-officer-kills-a-woman-us-immigration-crackdown-by-the-trump-administration",
-      "published": "Thu, 08 Jan 2026 10:42:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -156,7 +146,7 @@
       "title": "Who was Renee Nicole Good, the woman killed by ICE?",
       "description": "A mother of three and award-winning poet, Good's sudden death sparks protests across the US.",
       "url": "https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 11:28:23 GMT",
+      "published": "Thu, 08 Jan 2026 15:48:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 26,
@@ -453,6 +443,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian winter strike leaves nearly 800K homes without power and heat in Ukraine’s Dnipro region",
+      "description": "Russia's overnight attack on Ukraine's energy infrastructure leaves nearly 800,000 homes without power amid freezing winter temperatures across the country.",
+      "url": "https://www.foxnews.com/world/russian-winter-strike-leaves-nearly-800k-homes-without-power-heat-ukraines-dnipro-region",
+      "published": "Thu, 08 Jan 2026 10:28:44 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Footage shows violent clashes as Iran protests spread to more areas",
       "description": "Semi-official Iranian media say two police were killed in a western town, as videos show security forces firing guns and tear gas at crowds elsewhere.",
       "url": "https://www.bbc.com/news/articles/cgm4y0ewe93o?at_medium=RSS&at_campaign=rss",
@@ -474,10 +474,20 @@
     },
     {
       "title": "Mercosur deal: French farmers roll tractors into Paris",
-      "description": "Scores of tractors were driven into Paris in protest over a EU deal that would create the world's largest free-trade area. Some farmers fear they will be undercut with cheaper goods from South America.",
+      "description": "Scores of tractors were driven into Paris in protest over an EU deal that would create the world's largest free-trade area. Some farmers fear they will be undercut with cheaper goods from South America.",
       "url": "https://www.dw.com/en/mercosur-deal-french-farmers-roll-tractors-into-paris/a-75429997?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 8 Jan 2026 12:30:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Somalia denies US allegation that it destroyed food aid warehouse",
+      "description": "Somalia’s government is denying an allegation by the U.S. government that authorities in Mogadishu destroyed an American-funded warehouse belonging to the World Food Program",
+      "url": "https://abcnews.go.com/International/wireStory/somalia-denies-us-allegation-destroyed-food-aid-warehouse-129020133",
+      "published": "Thu, 08 Jan 2026 10:34:20 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -613,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Why Germany struggles to fight financial crime",
+      "description": "Germany lacks thousands of state prosecutors to effectively fight financial crime, the German Association of Judges has warned. But others say the judicial system's problems run much deeper than that.",
+      "url": "https://www.dw.com/en/why-germany-struggles-to-fight-financial-crime/a-75423810?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 8 Jan 2026 15:27:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Berlin mayor criticized for playing tennis during blackout",
       "description": "Mayor Kai Wegner is facing pressure over taking a tennis break during the first hours of what turned out to be the longest blackout in the German capital's postwar history.",
       "url": "https://www.dw.com/en/berlin-mayor-criticized-for-playing-tennis-during-blackout/a-75433578?maca=en-rss-en-all-1573-xml-mrss",
@@ -743,16 +763,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Why are people protesting in Iran? Everything you need to know",
-      "description": "Protests sparked by a widening economic crisis have swept across Iran for more than a week.",
-      "url": "https://news.sky.com/story/why-are-people-protesting-in-iran-everything-you-need-to-know-13490639",
-      "published": "Tue, 06 Jan 2026 17:17:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Syria urges civilians to evacuate Aleppo neighborhoods as clashes with Kurds continue",
       "description": "Syrian authorities have warned civilians to leave a contested area in Aleppo as clashes continue between government and Kurdish forces",
       "url": "https://abcnews.go.com/International/wireStory/syrian-authorities-urge-civilians-evacuate-aleppo-neighborhoods-clashes-129010384",
@@ -823,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Mexico becomes crucial fuel supplier to Cuba but pledges no extra shipments after Maduro toppled",
-      "description": "Mexico has emerged as a key fuel supplier to Havana as the United States prepares to seize control of Venezuelan oil and the administration of U.S. President Donald Trump hardens its stance toward Cuba",
-      "url": "https://abcnews.go.com/International/wireStory/mexico-crucial-fuel-supplier-cuba-pledges-extra-shipments-128991485",
-      "published": "Wed, 07 Jan 2026 15:13:55 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Denmark is telling President Trump to stop threatening to seize Greenland",
       "description": "Politicians in Denmark are dealing with widespread fears over U.S. officials' statements about taking over the Danish territory of Greenland. President Trump said it's crucial for security interests.",
       "url": "https://www.npr.org/2026/01/07/nx-s1-5667086/denmark-is-telling-president-trump-to-stop-threatening-to-seize-greenland",
@@ -867,16 +867,6 @@
       "description": "Chen Zhi is charged with turning his business into a front for fraud hubs that stole from people around the world.",
       "url": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Jan 2026 09:29:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Inside the sub-zero lair of the world's most powerful computer",
-      "description": "Faisal Islam gets rare access to Willow - Google's quantum computer.",
-      "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 08:03:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -923,7 +913,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Alleged scam kingpin Chen Zhi arrives in China after extradition from Colombia",
+      "title": "Alleged scam kingpin Chen Zhi arrives in China after extradition from Cambodia",
       "description": "Chen founded multinational conglomerate Prince Group that US says is front for multibillion-dollar fraud operation Chinese television has shown footage of the US-indicted tycoon Chen Zhi being escorted by armed police after his extradition to China from Cambodia, where authorities on Thursday ordered the liquidation of a bank he founded linked to a massive “scam centre” network. Chen, who chairs a conglomerate the US says is a front for a multibillion-dollar online fraud operation, was shown in handcuffs and hooded as he was led off a plane at a Beijing airport by black-clad Swat officers, with the state broadcaster CCTV describing him as the “leader of a major transnational gambling and fraud crime syndicate”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest",
       "published": "Thu, 08 Jan 2026 14:28:06 GMT",
@@ -950,16 +940,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Children in Gaza return to school after years without formal education",
-      "description": "Most of the schools in the territory have been damaged or destroyed during the war, Unicef says.",
-      "url": "https://www.bbc.com/news/articles/c62vmn30j3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 06:11:11 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1023,6 +1003,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Russia frees French researcher Vinatier convicted under country's 'foreign agents' law",
+      "description": "Russia has freed Laurent Vinatier, a French researcher serving ​a ‍three-year ​prison sentence for flouting laws requiring \"foreign agents\" to register with authorities. Vinatier will be exchanged for detained basketball player Daniil Kasatkin, accused by the US of hacking. Russian media reported that Vinatier had ​been pardoned by President Vladimir Putin. Eliza Herbert and Laurent Berstecher report.",
+      "url": "https://www.france24.com/en/russia-frees-french-researcher-vinatier-convicted-under-country-s-foreign-agents-law",
+      "published": "Thu, 08 Jan 2026 15:33:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tens of thousands flee fighting in Aleppo, Syria,  after evacuation order",
+      "description": "Thousands have been forced from their homes in Aleppo after people were ordered to evacuate amid fighting between the Syrian army and Kurdish forces.",
+      "url": "https://news.sky.com/story/tens-of-thousands-flee-fighting-in-aleppo-syria-after-evacuation-order-13492043",
+      "published": "Thu, 08 Jan 2026 14:10:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UK braced for heavy snow as cold weather snap in Europe persists",
       "description": "Britain, already in the midst of one of its coldest and longest cold snaps in years, is set to endure heavy snowfall and strong winds that weather authorities have warned could bring a risk to life",
       "url": "https://abcnews.go.com/International/wireStory/uk-braced-heavy-snow-cold-weather-snap-europe-129011978",
@@ -1037,16 +1037,6 @@
       "description": "Venezuela’s military held a funeral Wednesday for some of the soldiers killed during the U.S. operation that captured then-President Nicolás Maduro. ___ This is a photo gallery curated by AP photo editors.",
       "url": "https://abcnews.go.com/International/wireStory/photos-show-military-funeral-venezuelan-soldiers-killed-us-129001851",
       "published": "Wed, 07 Jan 2026 22:09:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "EU pushes forward long-discussed free trade deal with South America",
-      "description": "The European Union is renewing negotiations for a free trade agreement with five South American nations neighboring Venezuela",
-      "url": "https://abcnews.go.com/International/wireStory/eu-pushes-forward-long-discussed-free-trade-deal-128990511",
-      "published": "Wed, 07 Jan 2026 14:09:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1120,6 +1110,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lebanese army says it has taken over security in Hezbollah-dominated south",
+      "description": "The army says it has met its goal of clearing the area of non-state weapons but Israel calls the move \"insufficient\".",
+      "url": "https://www.bbc.com/news/articles/cj4ln977w0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Jan 2026 15:29:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1253,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Russian drone strikes cause major blackouts in two regions of Ukraine",
+      "description": "Russian drone strikes have knocked out power in Ukraine's Zaporizhzhia region and left over 600,000 households in Dnipropetrovsk without electricity",
+      "url": "https://abcnews.go.com/International/wireStory/russian-drone-strikes-cause-major-blackouts-regions-ukraine-129019945",
+      "published": "Thu, 08 Jan 2026 10:34:02 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bishops and Spanish government agree on a plan to compensate sexual abuse victims",
       "description": "Spain’s government and the country’s Catholic bishops have agreed to a joint plan to compensate victims of sexual abuse by clergy members who have died or whose possible crimes have been proscribed",
       "url": "https://abcnews.go.com/International/wireStory/bishops-spanish-government-agree-plan-compensate-sexual-abuse-129012216",
@@ -1353,6 +1363,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Protesters in South Africa condemn US intervention in Venezuela, call for Maduro's release",
+      "description": "Protesters have gathered outside the U.S. Embassy in South Africa to oppose U.S. intervention in Venezuela and the capture of former president Nicolas Maduro",
+      "url": "https://abcnews.go.com/International/wireStory/protesters-south-africa-condemn-us-intervention-venezuela-call-129018136",
+      "published": "Thu, 08 Jan 2026 09:53:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Winter storms upended thousands in Gaza",
       "description": "Some 65,000 households in the Gaza Strip were affected by the severe winter storms that whipped through the enclave last month, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166711",
@@ -1413,26 +1433,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Prime Minister Mark Carney to visit China next week as Canada pivots away from the US",
-      "description": "Canadian Prime Minister Mark Carney will visit China next week where he will meet with Chinese President Xi Jinping as Canada looks to reduce its over reliance on the United States",
-      "url": "https://abcnews.go.com/International/wireStory/prime-minister-mark-carney-visit-china-week-canada-128997345",
-      "published": "Wed, 07 Jan 2026 16:57:56 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Venezuela's military buries soldiers slain in US operation to capture Maduro",
-      "description": "Venezuela’s military held a mass funeral in Caracas as it began to bury dozens of soldiers slain during the United States' weekend operation to capture former President Nicolás Maduro",
-      "url": "https://abcnews.go.com/International/wireStory/venezuelas-military-buries-soldiers-slain-us-operation-capture-128992517",
-      "published": "Wed, 07 Jan 2026 16:01:48 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "US actions in Venezuela ‘constitute a dangerous precedent’: Guterres",
       "description": "The UN Secretary-General António Guterres has said he is “deeply alarmed” over the standoff between the United States and Venezuela in recent months, which culminated on Saturday morning in the capture of President Nicolás Maduro by US special forces.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166698",
@@ -1463,20 +1463,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Latin America fractures over Trump’s Maduro capture as regional allies shift right",
-      "description": "Latin American nations split over Venezuela's Maduro capture as regional summit fails to reach consensus, exposing a new shift to the right across the Western Hemisphere.",
-      "url": "https://www.foxnews.com/world/latin-america-fractures-over-trumps-maduro-capture-regional-allies-shift-right",
-      "published": "Tue, 06 Jan 2026 06:37:35 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Influential China church reports arrests as crackdown on Christians intensifies",
       "description": "Leaders of Early Rain Covenant Church have been arrested and Yayang Church is being torn down, groups say.",
       "url": "https://www.bbc.com/news/articles/ckgl8jgdxypo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Jan 2026 11:01:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Spain's Catholic Church signs deal on sexual abuse compensation",
+      "description": "The accord follows complaints that religious leaders had failed to tackle the issue adequately.",
+      "url": "https://www.bbc.com/news/articles/c78e99pzr25o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Jan 2026 15:28:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1534,6 +1534,16 @@
     },
     {
       "title": "Russia frees imprisoned French researcher Laurent Vinatier",
+      "description": "Russia has freed Laurent Vinatier, a French researcher serving ​a ‍three-year ​prison sentence for flouting laws requiring \"foreign agents\" to register with authorities. Vinatier will be exchanged for detained basketball player Daniil Kasatkin, accused by the US of hacking. Russian media reported that Vinatier had ​been pardoned by President Vladimir Putin. France24 Angela Diffley explains further.",
+      "url": "https://www.france24.com/en/russia-frees-imprisoned-french-researcher-laurent-vinatier-1",
+      "published": "Thu, 08 Jan 2026 15:37:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russia frees imprisoned French researcher Laurent Vinatier",
       "description": "Russia will free Laurent Vinatier, a French researcher serving ​a ‍three-year ​prison sentence for flouting laws requiring \"foreign agents\" to register with authorities. Vinatier will be exchanged for detained basketball player Daniil Kasatkin, accused by the US of hacking. Russian media reported that Vinatier had ​been pardoned by President Vladimir Putin.",
       "url": "https://www.france24.com/en/russia-frees-imprisoned-french-researcher-laurent-vinatier",
       "published": "Thu, 08 Jan 2026 14:50:09 GMT",
@@ -1557,16 +1567,6 @@
       "description": "Between traffic, excessive use of car horns, building sites and religious celebrations, the ears of residents in Indian megacities like New Delhi and Mumbai rarely get a moment of respite. Authorities remain silent on possible solutions to combat this health scourge. Our correspondents Lisa Gamonet and Alban Alvarez report.",
       "url": "https://www.france24.com/en/tv-shows/focus/20260108-indians-suffer-from-health-scourge-of-noise-pollution",
       "published": "Thu, 08 Jan 2026 12:36:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How do shadow fleets work? US seizes two sentenced oil tankers",
-      "description": "The phrase “shadow fleet” refers to ageing oil tankers that operate under false flags to bypass Western sanctions on Russian, Iranian, and Venezuelan crude, a practice Russia has reportedly invested billions of euros in since 2022 to maintain its oil exports. But how these shadow, or so-called “ghost,” fleets function in practice is less widely understood, August Hakansson investigates.",
-      "url": "https://www.france24.com/en/how-do-shadow-fleets-work-us-seizes-two-sencented-oil-tankers",
-      "published": "Thu, 08 Jan 2026 10:45:28 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 3,
@@ -1643,20 +1643,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen",
-      "description": "Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, fled to Somaliland by boat before flying to Abu Dhabi, according to the coalition.",
-      "url": "https://www.bbc.com/news/articles/c5y2mvp3r2do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 13:33:44 GMT",
+      "title": "US halts assistance to Somalia over claims food aid was illegally seized",
+      "description": "Donald Trump's administration has a zero-tolerance policy for waste, a US official tweeted.",
+      "url": "https://www.bbc.com/news/articles/ckgn1lpq52ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Jan 2026 15:50:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "US halts assistance to Somalia over claims food aid was illegally seized",
-      "description": "Donald Trump's administration has a zero-tolerance policy for waste, a US official tweeted.",
-      "url": "https://www.bbc.com/news/articles/ckgn1lpq52ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 15:19:44 GMT",
+      "title": "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen",
+      "description": "Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, fled to Somaliland by boat before flying to Abu Dhabi, according to the coalition.",
+      "url": "https://www.bbc.com/news/articles/c5y2mvp3r2do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Jan 2026 13:33:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1993,16 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump 'actively' mulling buying Greenland — White House",
-      "description": "The White House said Donald Trump has \"actively discussed\" buying the Danish-owned Arctic territory and has not ruled out using military force.",
-      "url": "https://www.dw.com/en/trump-actively-mulling-buying-greenland-white-house/a-75426423?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 7 Jan 2026 19:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A long-held desire: Why does the US want Greenland?",
       "description": "The Trump administration is signalling no retreat in its goal of acquiring Greenland, a semi-autonomous Danish territory, after the White House said the president wasn't ruling out the use of military force. Speaking to FRANCE 24, Mikaa Blugeon-Mered, an expert on hydrogen geopolitics and Greenland, says the US president's rhetoric is \"decredibilising\" the NATO alliance. What's more, he adds, \"out of all the NATO allies, Denmark is the best of all.\"",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260108-a-long-held-desire-why-does-the-us-want-greenland",
@@ -2093,6 +2083,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Lebanese pop star turned militant Fadel Shaker tells court he is innocent",
+      "description": "A Lebanese pop star turned Islamic militant has claimed innocence in a military court",
+      "url": "https://abcnews.go.com/International/wireStory/lebanese-pop-star-turned-militant-fadel-shaker-tells-129019851",
+      "published": "Thu, 08 Jan 2026 10:33:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russia frees French political scholar in a prisoner swap for a basketball player",
+      "description": "A Russian security agency says French political scholar Laurent Vinatier who was serving a three-year sentence in Russia and facing new charges of espionage has been freed in a prisoner swap with France",
+      "url": "https://abcnews.go.com/International/wireStory/russia-frees-french-political-scholar-prisoner-swap-basketball-129017604",
+      "published": "Thu, 08 Jan 2026 10:09:40 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Denmark sees talks with US as a chance for 'dialogue that is needed' over Greenland",
       "description": "Denmark has welcomed a meeting with the U.S. next week to discuss the Trump administration's renewed interest in acquiring Greenland",
       "url": "https://abcnews.go.com/International/wireStory/denmark-sees-talks-us-chance-dialogue-needed-greenland-129012305",
@@ -2107,16 +2117,6 @@
       "description": "They’re at it again",
       "url": "https://abcnews.go.com/International/wireStory/china-japan-uneasy-neighbors-east-asia-odds-129010182",
       "published": "Thu, 08 Jan 2026 08:28:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bolsonaro briefly leaves Brazilian prison for medical tests after a fall from his bed",
-      "description": "Brazilian President Jair Bolsonaro has briefly left a prison in Brasilia for medical examinations after hitting his head",
-      "url": "https://abcnews.go.com/International/wireStory/bolsonaro-briefly-leaves-brazilian-prison-medical-tests-after-128991602",
-      "published": "Wed, 07 Jan 2026 16:25:50 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
