@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T12:48:43.416653Z",
+  "last_updated": "2026-01-09T13:38:51.781686Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 47,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "'Iranians seek downfall of regime and a new system that respects dignity, freedom, and human rights'",
+      "description": "Iran’s supreme leader signaled that security forces would crack down on protesters, directly challenging U.S. President Donald Trump’s pledge to support those peacefully demonstrating. Supreme Leader Ayatollah Ali Khamenei dismissed Trump as having hands “stained with the blood of Iranians” while State media referred to demonstrators as “terrorists,” setting the stage for a violent crackdown. Human Rights Lawyer and Amnesty International Iran Researcher Raha Bahreini offers an unflinching view into the latest wave of civil unrest in Iran: Economic grievances and a widespread demand for systemic change, all under the violent shadow of a brutally oppressive regime.",
+      "url": "https://www.france24.com/en/iranians-seek-downfall-of-regime-and-a-new-system-that-respects-dignity-freedom-and-human-rights",
+      "published": "Fri, 09 Jan 2026 13:20:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 45,
       "severity_level": "Critical"
     },
     {
@@ -43,16 +53,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: Ukraine says it is treating Russia’s Oreshnik hypersonic missile strike as a war crime",
-      "description": "Ukraine's ​domestic security service on Friday ⁠said it was treating ​Russia's ‍overnight strike with an ​Oreshnik hypersonic missile as a war crime. The new Russian missile, used for only the second known time, struck a site in the western Lviv region while a massive attack on Kyiv killed four people and left half of the capital's buildings without heating. Follow our liveblog for all the latest updates.",
-      "url": "https://www.france24.com/en/europe/20260109-live-russia-pounds-kyiv-in-massive-attack-after-rejecting-peacekeeping-plan",
-      "published": "Fri, 09 Jan 2026 06:28:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Iran on the brink as protesters move to take two cities, appeal to Trump",
       "description": "Iranian security forces attack hospital in Ilam province and fire tear gas at wounded protesters as nationwide demonstrations escalate across multiple cities.",
       "url": "https://www.foxnews.com/world/iran-brink-protesters-move-take-two-cities-appeal-trump",
@@ -74,9 +74,9 @@
     },
     {
       "title": "Victorian premier warns of ‘most dangerous’ moment as three people remain missing in bushfires",
-      "description": "A man, woman and child remain unaccounted for, authorities say, but forecasters say conditions eased across the state on Friday night Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian premier has warned that the few hours into Friday night will be the “most dangerous and difficult” as a wind change impacts bushfires across the state, with three people still unaccounted for and properties destroyed. On Friday evening, Jacinta Allan called on Victorians to follow emergency advice as “fires continue to unfold, right across the state”. Continue reading...",
+      "description": "A man, woman and child remain unaccounted for, authorities say, but forecasters say conditions eased across the state on Friday night Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian premier warned that the state faced “dangerous and difficult” hours as a wind change impacted bushfires across the state, with three people still unaccounted for and properties destroyed. On Friday evening, Jacinta Allan called on Victorians to follow emergency advice as “fires continue to unfold, right across the state”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
-      "published": "Fri, 09 Jan 2026 08:57:43 GMT",
+      "published": "Fri, 09 Jan 2026 12:43:19 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 29,
@@ -203,6 +203,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Iranian supreme leader says protesters 'ruining their own streets' to please Trump",
+      "description": "Iran reportedly cuts nationwide internet as protests intensified and President Donald Trump threatens intervention if peaceful demonstrators face violence.",
+      "url": "https://www.foxnews.com/world/iranian-supreme-leader-says-protesters-ruining-own-streets-please-trump",
+      "published": "Fri, 09 Jan 2026 07:37:08 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Iranian military leader threatens preemptive attack after Trump comments",
       "description": "Iran army chief threatens preemptive military action after President Donald Trump warned the U.S. is \"locked and loaded\" if the regime kills protesters.",
       "url": "https://www.foxnews.com/world/iranian-military-leader-threatens-preemptive-attack-after-trump-comments",
@@ -277,16 +287,6 @@
       "description": "Deadly fighting between Kurdish forces and Syria's national army in Aleppo has led to new widespread displacement. As thousands flee amid shelling, can international mediators stop a full-scale war?",
       "url": "https://www.dw.com/en/syria-fighting-between-kurds-and-damascus-raise-fears-of-wider-war/a-75436146?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Jan 2026 09:25:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Storm Goretti set to unleash snowy winter havoc on UK",
-      "description": "The storm will bring intense winds and heavy snowfall to the UK, with weather warnings in place nationwide. It comes after the same system canceled flights and suspended bus services in France and the Netherlands.",
-      "url": "https://www.dw.com/en/storm-goretti-set-to-unleash-snowy-winter-havoc-on-uk/a-75435992?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Jan 2026 16:13:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
@@ -371,6 +371,26 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Uganda's debt crisis deepens ahead of elections",
+      "description": "With debt at record highs and new loans approved, Uganda faces growing pressure. Economists warn the strategy may backfire on future growth.",
+      "url": "https://www.dw.com/en/uganda-s-debt-crisis-deepens-ahead-of-elections/a-75399953?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Jan 2026 12:58:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "US military in Germany: What you need to know",
+      "description": "Germany has been a vital part of the United States' defense strategy in Europe ever since the end of World War II. The US military still maintains a major presence in Germany.",
+      "url": "https://www.dw.com/en/us-military-in-germany-what-you-need-to-know/a-49998340?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Jan 2026 12:50:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Russia fires new ballistic missile at Ukraine, killing at least four",
@@ -504,7 +524,7 @@
     },
     {
       "title": "Russia fires Oreshnik hypersonic missile at Ukraine",
-      "description": "Russia said it deployed one of its most advanced ballistic missiles during massive overnight strikes on Ukraine. In Kyiv, 4 people were killed by drones. DW has more.",
+      "description": "Russia said it deployed one of its most advanced ballistic missiles during widespread overnight strikes on Ukraine. In Kyiv, 4 people were killed by drones. Follow DW for more.",
       "url": "https://www.dw.com/en/russia-fires-oreshnik-hypersonic-missile-at-ukraine/live-75442708?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Jan 2026 04:05:00 GMT",
       "source": "Deutsche Welle",
@@ -643,31 +663,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Street protests grow in Iran as the country faces an internet blackout",
-      "description": "Protests across Iran are growing as thousands of people voice anger at the dire state of the country’s economy.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/street-protests-grow-in-iran-as-the-country-faces-an-internet-blackout?traffic_source=rss",
-      "published": "Fri, 09 Jan 2026 07:18:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "What does the US raid in Venezuela mean for China’s designs on Taiwan?",
       "description": "Perception that Chinese-made weapons could not stop a ‘decapitation strike’ may give Beijing pause for thought The sight of a hostile regional superpower launching an overnight raid to depose the leader of a smaller neighbouring country could easily have sent pulses in Taiwan racing. The US on Saturday revealed the details of a surprise raid to capture Venezuela’s leader, Nicolás Maduro , who was whisked away to the US, where he was frogmarched into a court in New York on Monday . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
       "published": "Tue, 06 Jan 2026 01:00:22 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Trump cancels ‘second wave of attacks’ against Venezuela after prisoner release",
-      "description": "President Donald Trump on Friday said he ‍cancelled a previously ​expected second wave of attacks ​on Venezuela after the country's transitional authorities cooperated with the US following the capture over the weekend of Nicolas Maduro and released large numbers of political prisoners.",
-      "url": "https://www.france24.com/en/americas/20260109-venezuela-releases-political-prisoners-in-move-trump-says-us-requested",
-      "published": "Fri, 09 Jan 2026 06:43:50 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -688,6 +688,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166718",
       "published": "Wed, 07 Jan 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Renee Nicole Good part of 'ICE Watch' group, DHS sources say",
+      "description": "Minneapolis immigration activist and 'ICE Watch' member allegedly shot by federal agent after swerving car toward officer during enforcement operation.",
+      "url": "https://www.foxnews.com/us/renee-nicole-good-part-ice-watch-group-dhs-sources-say",
+      "published": "Fri, 09 Jan 2026 07:55:39 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -853,6 +863,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high",
+      "description": "Chinese, Russian and Iranian warships are in South African waters for a week of naval drills as geopolitical tensions run high over the United States’ intervention in Venezuela",
+      "url": "https://abcnews.go.com/International/wireStory/chinese-russian-iranian-warships-arrive-south-africa-naval-129052438",
+      "published": "Fri, 09 Jan 2026 08:09:40 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Greenland: Vance warns Europe to take Trump 'seriously'",
       "description": "Europe should take Donald Trump \"seriously\" on the issue of Greenland, warned US Vice President JD Vance, as Trump's advisers met with envoys from Denmark and Greenland.",
       "url": "https://www.dw.com/en/greenland-vance-warns-europe-to-take-trump-seriously/a-75442457?maca=en-rss-en-all-1573-xml-mrss",
@@ -1007,16 +1027,6 @@
       "description": "Critics view Israel's moves in the Horn of Africa as part of Netanyahu's expansive conflict and influence agenda.",
       "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss",
       "published": "Fri, 09 Jan 2026 07:51:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Jazz close out Mavericks to end 5-game losing streak; Pacers beat Hornets",
-      "description": "Anthony Edwards becomes third-youngest player in NBA to reach 10,000 career points as Wolves hold off Cavs.",
-      "url": "https://www.aljazeera.com/sports/2026/1/9/jazz-close-out-mavericks-to-end-5-game-losing-streak-pacers-beat-hornets?traffic_source=rss",
-      "published": "Fri, 09 Jan 2026 07:20:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1183,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "ICE confirms arrest of Somali illegal immigrant sex offender in Minneapolis",
-      "description": "ICE agents arrest Somali illegal immigrant convicted sex offender Mahad Abdulkadir Yusuf, who has an active warrant, in a targeted Minneapolis operation.",
-      "url": "https://www.foxnews.com/us/ice-confirms-arrest-somali-illegal-immigrant-sex-offender-minneapolis",
-      "published": "Thu, 08 Jan 2026 12:55:57 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russia warns Western forces in Ukraine would be considered 'legitimate combat targets'",
       "description": "Russia warns Western forces deployed to Ukraine under postwar security deal would be \"legitimate combat targets\" as diplomatic tensions escalate.",
       "url": "https://www.foxnews.com/world/russia-warns-western-forces-ukraine-would-considered-legitimate-combat-targets",
@@ -1343,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russian drone strikes cause major blackouts in two regions of Ukraine",
-      "description": "Russian drone strikes have knocked out power in Ukraine's Zaporizhzhia region and left over 600,000 households in Dnipropetrovsk without electricity",
-      "url": "https://abcnews.go.com/International/wireStory/russian-drone-strikes-cause-major-blackouts-regions-ukraine-129019945",
-      "published": "Thu, 08 Jan 2026 10:34:02 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Venezuela’s people must be heard, insists UN human rights chief",
       "description": "Responding to the seizure of Venezuela President Nicolás Maduro by the United States, UN human rights chief Volker Türk on Tuesday reiterated deep concerns that the military operation undermined fundamental protections for sovereign countries.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166707",
@@ -1373,16 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports",
-      "description": "Russia formally asked the United States to halt pursuit of Venezuelan oil tanker Marinera after the vessel escaped U.S. Coast Guard interception in the Caribbean.",
-      "url": "https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic",
-      "published": "Tue, 06 Jan 2026 19:46:35 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russia hits Ukraine with rarely used Oreshnik missile in fresh strikes",
       "description": "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November.",
       "url": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
@@ -1398,6 +1378,16 @@
       "url": "https://www.bbc.com/news/articles/c931qx3lepro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Jan 2026 01:20:32 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran cuts internet as protesters plan more rallies",
+      "description": "Iranian authorities are enforcing an internet blackout after protests escalated in Tehran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/iran-cuts-internet-as-protesters-plan-more-rallies?traffic_source=rss",
+      "published": "Fri, 09 Jan 2026 12:57:23 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1458,6 +1448,16 @@
       "url": "https://www.dw.com/en/brazil-s-lula-vetoes-bill-to-reduce-bolsonaro-s-jail-term/a-75442512?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Jan 2026 00:00:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "🔴 Live: Macron joins Swiss, Italian leaders at memorial for victims of Crans-Montana bar fire",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20260109-live-switzerland-holds-memorial-ceremony-victims-crans-montana-fire-tragedy",
+      "published": "Fri, 09 Jan 2026 12:45:40 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1563,6 +1563,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "EU states’ nod on Mercosur trade deal ends 25-year wait",
+      "description": "Deal, which comes as Brussels seeks new markets to offset US tariffs, will open free trade with South American group.",
+      "url": "https://www.aljazeera.com/news/2026/1/9/eu-states-nod-on-mercosur-trade-deal-ends-25-year-wait?traffic_source=rss",
+      "published": "Fri, 09 Jan 2026 12:31:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "It’s not the oil. It’s Florida",
       "description": "Nicolas Maduro’s kidnapping is about the US state's politics, not Venezuela’s oil.",
       "url": "https://www.aljazeera.com/opinions/2026/1/9/its-not-the-oil-its-florida?traffic_source=rss",
@@ -1584,7 +1594,7 @@
     },
     {
       "title": "Germany: Trust in the United States is eroding",
-      "description": "In the monthly ARD Deutschlandtrend poll, German voters polled express little confidence that 2026 will be a peaceful and prosperous year. The reputation of the US is at an all-time low.nato",
+      "description": "In the monthly ARD Deutschlandtrend poll, Germans polled expressed little confidence that 2026 will be a peaceful and prosperous year. The reputation of the US is at an all-time low.",
       "url": "https://www.dw.com/en/germany-trust-in-the-united-states-is-eroding/a-75449308?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Jan 2026 11:02:00 GMT",
       "source": "Deutsche Welle",
@@ -1630,6 +1640,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "India pushes back at Trump aide's claim about US trade deal breakdown",
+      "description": "India said the US commerce secretary's claims surrounding discussions with Trump were \"not accurate\".",
+      "url": "https://www.bbc.com/news/articles/c4gvp5gyd7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Jan 2026 12:48:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1693,16 +1713,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Florida man accused of killing woman, dumping body on popular tourist destination: report",
-      "description": "Florida man allegedly kills woman, leaves body on Hollywood Beach day after Christmas. Brandon McCray, 28, faces multiple charges including sexual battery.",
-      "url": "https://www.foxnews.com/us/florida-man-accused-killing-woman-dumping-body-popular-tourist-destination-report",
-      "published": "Thu, 08 Jan 2026 12:51:00 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "European allies working on plan if US acts on acquiring Greenland: report",
       "description": "Countries in Europe reportedly are working on a plan if the Trump administration makes a move on acquiring Greenland, which is a a Danish territory.",
       "url": "https://www.foxnews.com/world/european-allies-working-plan-us-acts-acquiring-greenland-report",
@@ -1726,7 +1736,7 @@
       "title": "Limiting Grok AI image edits to paid users 'insulting' to victims, says No 10",
       "description": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.",
       "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Jan 2026 12:41:53 GMT",
+      "published": "Fri, 09 Jan 2026 13:06:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1783,21 +1793,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Tennis Kenya admits it shouldn't have let amateur compete after viral defeat",
-      "description": "The organisers of a professional women's tournament which has gone viral because of a wildcard player's poor performance acknowledge she should not have been allowed to play.",
-      "url": "https://www.bbc.com/sport/tennis/articles/cx2gr00ndmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Jan 2026 16:28:22 GMT",
+      "title": "The secret mission to fly a president's body back home - pilot speaks to the BBC",
+      "description": "An ex-air force pilot explains how he carried out an undercover mission to fly Siad Barre's body home for burial.",
+      "url": "https://www.bbc.com/news/articles/c5y2v2p3nl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Jan 2026 00:17:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "The secret mission to fly a president's body back home - pilot speaks to the BBC",
-      "description": "An ex-air force pilot explains how he carried out an undercover mission to fly Siad Barre's body home for burial.",
-      "url": "https://www.bbc.com/news/articles/c5y2v2p3nl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Jan 2026 00:17:11 GMT",
-      "source": "BBC News",
+      "title": "Yemen’s southern separatists disband amid Riyadh talks",
+      "description": "Yemen’s main southern separatist group, the Southern Transitional Council has announced it is to disband.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/yemens-southern-separatists-disband-amid-riyadh-talks?traffic_source=rss",
+      "published": "Fri, 09 Jan 2026 12:50:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1827,16 +1837,6 @@
       "description": "Former Venezuelan opposition candidate Enrique Marquez is among 'large number' of prisoners released.",
       "url": "https://www.aljazeera.com/news/2026/1/9/venezuela-releases-imprisoned-political-figures-in-trump-approved-move?traffic_source=rss",
       "published": "Fri, 09 Jan 2026 07:32:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Europe should prepare for Greenland’s annexation and end of NATO: Experts",
-      "description": "US and Russian ideologies would be in alignment, leaving Europe as an island of liberalism, according to analysts.",
-      "url": "https://www.aljazeera.com/news/2026/1/9/europe-should-prepare-for-greenlands-annexation-and-end-of-nato-experts?traffic_source=rss",
-      "published": "Fri, 09 Jan 2026 07:32:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1983,7 +1983,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela releases imprisoned opposition figures, which Trump says US requested",
+      "title": "Venezuela releases imprisoned opposition figures, which Trump says U.S. requested",
       "description": "Venezuela released a number of imprisoned high-profile opposition figures, activists and journalists, in what the government described as a gesture to \"seek peace\".",
       "url": "https://www.npr.org/2026/01/09/nx-s1-5672325/venezuela-releases-imprisoned-opposition-figures-trump-says-us-requested",
       "published": "Fri, 09 Jan 2026 07:22:42 -0500",
@@ -2047,16 +2047,6 @@
       "description": "The brother of Venezuela's interim leader, Delcy Rodriguez, didn't say how many political prisoners would be released. Meanwhile, the US Senate has voted to curb further military operations in Venezuela by Donald Trump.",
       "url": "https://www.dw.com/en/venezuela-says-it-will-free-important-number-of-prisoners/a-75441663?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 8 Jan 2026 20:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Baa-rgain hunters: 50 sheep barge into German supermarket",
-      "description": "German discount chain Penny said the sheep paid a surprise visit to one of their Bavarian outlets after apparently becoming separated from the rest of the flock.",
-      "url": "https://www.dw.com/en/baa-rgain-hunters-50-sheep-barge-into-german-supermarket/a-75438987?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Jan 2026 16:22:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2158,6 +2148,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166728",
       "published": "Thu, 08 Jan 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ohio dentist murders: Alley video, no forced entry fuel insider fears, experts say",
+      "description": "Surveillance video shows person of interest near Ohio dentist Spencer Tepe and wife Monique's home before double murder. Columbus police seek public help.",
+      "url": "https://www.foxnews.com/us/ohio-dentist-murders-alley-video-no-forced-entry-fuel-insider-fears-experts-say",
+      "published": "Fri, 09 Jan 2026 08:00:23 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
