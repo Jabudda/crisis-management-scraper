@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-10T08:28:57.055124Z",
-  "event_count": 221,
+  "last_updated": "2026-01-10T08:52:05.747340Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Iranian regime's 'iron fist': Internet blackout as protests swell to hundreds of thousands",
@@ -753,6 +753,16 @@
       "severity_level": "High"
     },
     {
+      "title": "New video on Minnesota ICE shooting emerges as public anger grows across US",
+      "description": "The 47-second video shows the shooting from the perspective of ICE officer Jonathan Ross, who fired the shots.",
+      "url": "https://www.aljazeera.com/news/2026/1/10/new-video-on-minnesota-ice-shooting-emerges-as-public-anger-grows-across-us?traffic_source=rss",
+      "published": "Sat, 10 Jan 2026 08:22:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump threatens to take Greenland ‘the hard way’, citing Arctic strategy",
       "description": "Danish PM warns US armed action in Greenland could destabilise NATO and threaten Arctic security cooperation.",
       "url": "https://www.aljazeera.com/news/2026/1/9/greenland-should-take-the-lead-in-talks-with-us-foreign-minister-says?traffic_source=rss",
@@ -840,16 +850,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
-      "description": "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces.",
-      "url": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Jan 2026 00:51:43 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -1223,16 +1223,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran leader says protesters are vandals trying to please Trump",
-      "description": "The largest demonstrations in years have left at least 48 protesters dead, human rights groups say. Trump told reporters on Friday that Iran was in \"big trouble'.",
-      "url": "https://www.bbc.com/news/articles/c4g49djqqjgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Jan 2026 01:32:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
       "description": "Oil executives expressed caution, with one executive saying Venezuela had seized their assets twice.",
       "url": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
@@ -1300,6 +1290,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran medics describe overwhelmed hospitals as protests enter second week",
+      "description": "There were signs authorities were intensifying their crackdown as protests entered their second week.",
+      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Jan 2026 08:25:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1386,7 +1386,7 @@
       "title": "Syrian army renews strikes on Kurdish forces in Aleppo",
       "description": "The military launched strikes after Kurdish forces rejected what they called demands to \"surrender.\" The Syrian government has been struggling to unite disparate groups since taking power a year ago.",
       "url": "https://www.dw.com/en/syrian-army-renews-strikes-on-kurdish-forces-in-aleppo/a-75457783?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Jan 2026 23:28:00 GMT",
+      "published": "Sat, 10 Jan 2026 08:32:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1643,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-10T08:51:43.208882Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Many Americans say the U.S. is not a moral leader but want it to be: NPR/Ipsos poll",
       "description": "Commissioned by NPR in partnership with Ipsos, the poll also highlights sharp partisan divides on key foreign policy issues.",
       "url": "https://www.npr.org/2026/01/09/nx-s1-5671094/npr-ipsos-us-opinion-poll-foreign-affairs",
@@ -1713,10 +1723,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "X could face UK ban over deepfakes, minister says",
-      "description": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Jan 2026 21:41:19 GMT",
+      "title": "Musk says X outcry is 'excuse for censorship'",
+      "description": "The government is urging Ofcom to use all its powers – up to and including an effective ban – against X.",
+      "url": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Jan 2026 01:28:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1727,6 +1737,16 @@
       "description": "The pair join other US celebrities reconnecting with their African heritage and taking up citizenship.",
       "url": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Jan 2026 18:36:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "X could face UK ban over deepfakes, minister says",
+      "description": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Jan 2026 21:41:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1758,6 +1778,16 @@
       "url": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Jan 2026 14:39:15 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Aleppo’s residents caught between hope and fear amid Syria fighting",
+      "description": "Al Jazeera's Resul Serdar Atas recounts scenes from Aleppo amid escalating clashes between the Syrian army and the SDF.",
+      "url": "https://www.aljazeera.com/features/2026/1/10/aleppos-residents-caught-between-hope-and-fear-amid-syria-fighting?traffic_source=rss",
+      "published": "Sat, 10 Jan 2026 08:38:05 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1807,26 +1837,6 @@
       "description": "Senegal beat Mali 1-0 to reach AFCON 2025 semifinal where defending champions Ivory Coast or record winners Egypt await.",
       "url": "https://www.aljazeera.com/sports/2026/1/9/senegal-beat-mali-to-book-first-afcon-2025-semifinal-spot?traffic_source=rss",
       "published": "Fri, 09 Jan 2026 18:56:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
-      "description": "Many of the smaller firms have connections to Denver, Colorado, the home turf of Energy Secretary Chris Wright.",
-      "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss",
-      "published": "Fri, 09 Jan 2026 18:39:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US intercepts fifth sanctioned oil tanker",
-      "description": "The US seized a fifth oil tanker in the Caribbean as Washington ramps up seizing on sanctioned Venezuelan oil shipments.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss",
-      "published": "Fri, 09 Jan 2026 18:23:14 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
