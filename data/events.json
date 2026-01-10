@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-10T07:20:52.896468Z",
-  "event_count": 221,
+  "last_updated": "2026-01-10T07:40:32.281345Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Iranian regime's 'iron fist': Internet blackout as protests swell to hundreds of thousands",
@@ -148,6 +148,16 @@
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/10/trump-territorial-ambition-imperialism",
       "published": "Sat, 10 Jan 2026 06:00:51 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia: State of disaster declared amid Victoria fires",
+      "description": "Thousands of firefighters are working to douse several bushfires are still raging in Australia's southeast. The fires erupted as a massive heat wave gripped much of the country.",
+      "url": "https://www.dw.com/en/australia-state-of-disaster-declared-amid-victoria-fires/a-75458348?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Jan 2026 07:21:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -1393,16 +1403,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: Winter storm halts train service in north",
-      "description": "Germany's train operator has halted long-distance train service around Hanover as a winter storm delivers a blast of snow and wind. Follow DW.",
-      "url": "https://www.dw.com/en/germany-news-winter-storm-halts-train-service-in-north/live-75446137?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Jan 2026 10:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Capturing Maduro, A Grab for Greenland, Iran Unrest",
       "description": "In a week that saw the capture of Nicolas Maduro, Operation Absolute Resolve played out in just two hours and 28 minutes. The combined military precision and tactical deception by U.S. land, sea, and air forces led to Maduro and his wife, Cecilia Flores, being snatched from a fortress-like compound in Caracas.",
       "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260109-capturing-maduro-a-grab-for-greenland-iran-unrest",
@@ -1628,6 +1628,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-10T07:40:14.301105Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
