@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-10T21:19:53.730198Z",
-  "event_count": 223,
+  "last_updated": "2026-01-10T21:40:23.298896Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Brown University shooting videos show awareness and planning, experts say",
@@ -303,14 +303,14 @@
       "severity_level": "Critical"
     },
     {
-      "title": "New video filmed by ICE agent emerges of Minnesota woman’s killing",
-      "description": "A conservative US news site on Friday published a video filmed by the Immigration and Customs Enforcement (ICE) agent who fatally shot a woman in Minneapolis, showing her final moments. Amid mass protests, Trump administration officials say the agent fired in self-defence, but policing experts say the clip demonstrates that the officers did not perceive the woman to be a threat.",
-      "url": "https://www.france24.com/en/americas/20260110-new-video-filmed-by-ice-agent-emerges-of-minnesota-woman-s-killing",
-      "published": "Sat, 10 Jan 2026 06:47:02 GMT",
-      "source": "France24",
+      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+      "description": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 bodies brought to one hospital.",
+      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Jan 2026 21:12:03 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Swiss search souls and question government after ski resort fire",
@@ -633,7 +633,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Police arrest ex-husband of Ohio woman slain alongside dentist husband in double murder, records show",
+      "title": "Police arrest surgeon ex-husband of Ohio woman slain alongside dentist husband in double murder, records show",
       "description": "Ex-husband arrested in double murder of Ohio dentist and wife in Columbus home. Michael McKee charged in shooting deaths of Spencer and Monique Tepe.",
       "url": "https://www.foxnews.com/us/police-arrest-ex-husband-ohio-woman-slain-alongside-dentist-husband-double-murder-records-show",
       "published": "Sat, 10 Jan 2026 14:09:49 -0500",
@@ -650,16 +650,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-      "description": "Health workers in Tehran report being overwhelmed by injured on Friday night as security forces and demonstrators clash.",
-      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Jan 2026 21:12:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -863,6 +853,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Maduro supporters rally as Trump signs order protecting US-held revenue from Venezuelan oil",
+      "description": "Supporters of Venezuela's ousted leader Nicolas Maduro protested in Caracas on Saturday one week after his shock capture by US forces. Meanwhile US President Donald Trump signed an emergency executive order to protect US-held revenues derived from sales of Venezuelan oil, preventing them from being seized by courts or creditors, the White House said.",
+      "url": "https://www.france24.com/en/americas/20260110-maduro-supporters-rally-as-trump-signs-order-protecting-us-held-revenue-from-venezuelan-oil",
+      "published": "Sat, 10 Jan 2026 21:19:29 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "‘We don’t want to be Americans’: Greenland’s parties respond to new Trump threat",
       "description": "In a response to US President Donald Trump's latest threat to seize control of Greenland, the leaders of the Danish autonomous region's five main political parties issued a joint statement late Friday declaring the future of the island should be decided by Greenlanders.",
       "url": "https://www.france24.com/en/europe/20260110-we-don-t-want-to-be-americans-greenland-s-parties-respond-to-new-trump-threat",
@@ -1014,7 +1014,7 @@
     },
     {
       "title": "ICE officer who shot Minnesota woman was dragged by car of illegal alien sex offender months earlier",
-      "description": "ICE officer who fatally shot Renee Nicole Good was allegedly dragged 50 yards by illegal immigrant's car months earlier, reports indicate.",
+      "description": "The ICE officer who fatally shot Renee Nicole Good was allegedly dragged 50 yards by illegal immigrant's car months earlier, reports indicate.",
       "url": "https://www.foxnews.com/us/ice-officer-who-shot-minnesota-woman-dragged-car-illegal-alien-sex-offender-months-earlier",
       "published": "Sat, 10 Jan 2026 11:58:32 -0500",
       "source": "Fox News US",
@@ -1183,7 +1183,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US military carries out large-scale strikes against ISIS across Syria",
+      "title": "US military carries out large-scale strikes against ISIS targets across Syria",
       "description": "The US military has ​carried out multiple strikes ​in ​Syria targeting the Islamic State militant group.",
       "url": "https://news.sky.com/story/us-military-carries-out-large-scale-strikes-against-isis-across-syria-13491264",
       "published": "Tue, 06 Jan 2026 18:28:00 +0000",
@@ -1668,16 +1668,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/jan/11/call-centre-operator-centrelink-paid-no-tax-two-years",
       "published": "Sat, 10 Jan 2026 19:00:05 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-10T21:19:32.617238Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
