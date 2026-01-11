@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T11:18:57.806782Z",
-  "event_count": 222,
+  "last_updated": "2026-01-11T11:40:06.693252Z",
+  "event_count": 223,
   "events": [
     {
       "title": "One person dead as PM visits bushfire-ravaged towns with 300 structures destroyed and 350,000 hectares burned",
@@ -50,6 +50,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US woman killed by ICE agent called ‘domestic terrorist’: What it means",
+      "description": "Experts say US homeland security secretary misused the 'domestic terrorist' label to justify shooting Renee Good.",
+      "url": "https://www.aljazeera.com/news/2026/1/11/us-woman-killed-by-ice-agent-called-domestic-terrorist-what-it-means?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 11:24:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -436,18 +446,8 @@
       "title": "Iran protesters defy crackdown as videos show violent clashes",
       "description": "Hundreds of protesters are believed to have been killed or injured, and many more detained.",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Jan 2026 09:29:19 GMT",
+      "published": "Sun, 11 Jan 2026 11:34:16 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "US launches new attacks against ISIL in Syria over deadly ambush",
-      "description": "US military says the strikes are in response to an ISIL ambush that killed three American personnel in Palmyra.",
-      "url": "https://www.aljazeera.com/news/2026/1/10/us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush?traffic_source=rss",
-      "published": "Sat, 10 Jan 2026 23:54:23 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -688,16 +688,6 @@
       "url": "https://www.npr.org/2026/01/10/nx-s1-5673346/us-syria-isis-retaliatory-strikes",
       "published": "Sat, 10 Jan 2026 17:03:25 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "A German entrepreneur sees opportunity in Venezuela's crisis",
-      "description": "Thilo Schmitz has spent three decades in Caracas, living through Venezuela's volatile recent history. Following the US attack, the entrepreneur is seeking to find a new opportunity in the resulting power shift.",
-      "url": "https://www.dw.com/en/a-german-entrepreneur-sees-opportunity-in-venezuela-s-crisis/a-75453304?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 10 Jan 2026 09:26:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1118,16 +1108,6 @@
       "url": "https://www.npr.org/2026/01/10/nx-s1-5673211/oil-depot-strike-russia-ukraine",
       "published": "Sat, 10 Jan 2026 11:30:15 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russia's use of hypersonic missile brings fresh threat to Europe and NATO",
-      "description": "Russia's inclusion of the Oreshnik intermediate-range ballistic missile (IRBM) in its latest missile and drone strikes on Ukraine has drawn attention well beyond the immediate battlefield - raising urgent questions about the wider security implications for Europe and NATO alike.",
-      "url": "https://news.sky.com/story/russias-use-of-hypersonic-missile-brings-fresh-threat-to-europe-and-nato-13492571",
-      "published": "Sat, 10 Jan 2026 00:01:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1663,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-11T11:39:39.057119Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "There's a daily game of cat and mouse to catch illegal migrants in Germany - and it may soon become UK's problem",
       "description": "In Germany's fight against people smugglers, Chief Inspector Igor Weber's Pasewalk force is on the frontline.",
       "url": "https://news.sky.com/story/theres-a-daily-game-of-cat-and-mouse-to-catch-illegal-migrants-in-germany-and-it-may-soon-become-uks-problem-13492375",
@@ -1963,6 +1953,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Jack London: A life of adventure",
+      "description": "The Klondike gold rush, wolves in the Alaskan snow, adventures on the high seas — Jack London, creator of \"The Call of the Wild\" and \"The Sea Wolf,\" was born 150 years ago. A look at his life.",
+      "url": "https://www.dw.com/en/jack-london-a-life-of-adventure/a-75434544?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 11 Jan 2026 11:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "How AI can detect health risks — just from the way you sleep",
       "description": "A new artificial intelligence model in the US, SleepFM, has found that patterns in human sleep can be used to predict a person's risk for around 130 diseases, including dementia and certain cancers.",
       "url": "https://www.dw.com/en/how-ai-can-detect-health-risks-just-from-the-way-you-sleep/a-75461969?maca=en-rss-en-all-1573-xml-mrss",
@@ -2078,6 +2078,16 @@
       "url": "https://www.france24.com/en/europe/20260110-crans-montana-bar-owner-says-service-door-was-locked-during-deadly-new-year-blaze",
       "published": "Sat, 10 Jan 2026 20:10:23 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former Premier League star apologises for Holocaust remark",
+      "description": "Former Premier League footballer Shay Given has apologised for describing sacked Celtic manager Wilfried Nancy's time at the club as an \"absolute Holocaust\".",
+      "url": "https://news.sky.com/story/former-newcastle-goalkeeper-shay-given-apologises-after-making-holocaust-remark-13493022",
+      "published": "Sun, 11 Jan 2026 10:05:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
