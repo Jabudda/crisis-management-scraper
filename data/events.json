@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T23:21:12.025584Z",
-  "event_count": 222,
+  "last_updated": "2026-01-11T23:41:42.860140Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Sudan: After 1,000 days of war, millions of civilians still bearing brunt",
@@ -108,6 +108,16 @@
       "url": "https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests",
       "published": "Sun, 11 Jan 2026 02:46:38 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Denmark warns of ‘decisive moment’ as Trump renews threat of force over Greenland",
+      "description": "Denmark’s Prime Minister Mette Frederiksen said on Sunday her country faced a “decisive moment” in its diplomatic dispute with the United States over Greenland, after Donald Trump again suggested using force to seize the Arctic territory. Speaking ahead of meetings in Washington on raw materials, Frederiksen said “there is a conflict over Greenland.”",
+      "url": "https://www.france24.com/en/europe/20260111-denmark-trump-greenland",
+      "published": "Sun, 11 Jan 2026 23:32:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -230,16 +240,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Fresh protests hit Iran amid intensifying crackdown",
-      "description": "Iranians took to the streets in new protests against the clerical authorities overnight despite an internet shutdown, as rights groups warned on Sunday that authorities were committing a \"massacre\" to quell the demonstrations. The protests, initially sparked by anger over the rising cost of living, have now become a movement against the theocratic government that has ruled Iran since the 1979 revolution and have already lasted two weeks.",
-      "url": "https://www.france24.com/en/fresh-protests-hit-iran-amid-intensifying-crackdown",
-      "published": "Sun, 11 Jan 2026 10:30:50 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -386,7 +386,7 @@
       "title": "Australia news live: new NSW powers to shut down hate preachers; man arrested after allegedly wearing duct-taped vest at Bondi Junction",
       "description": "Chris Minns said councils will have the power to cut off utilities if operators ignore planning laws and cease-use notices. Follow the latest updates live Get our breaking news email , free app or daily news podcast Victoria premier returns to Bendigo home after evacuating during fires The Victorian premier, Jacinta Allan , has posted a video on social media returning to her home in Bendigo, after she was among thousands forced to evacuate on Friday evening due to bushfires. You can see here that the fire is still in the landscape across Mount Alexander, and just on the other side of that ridge line is the beautiful community of Harcourt. It’s where the kids went to kinder. A lot of homes that have been lost, there’s going to be a big rebuild ahead. It’s heartbreaking. Like, I’m standing here in my back yard, right? Fire’s really close. My home’s still standing and my family is safe. To get a warning to be told that it is too dangerous to stay in your own home, that you must leave, and you must leave now, it’s gut-wrenching. It’s sickening. Every time I think of this, I also think of the woman I met at the relief centre in Seymour, where she showed me on her phone the photo of her house that has been destroyed in the fires around Longwood. My heart breaks for her and everyone else who’s lost their homes. There are plenty of tough, strong people out there, not just on the fire ground, but their backup crews at the staging area, in the incident control centres, in the relief centres. We got the best of Victoria on display, the stories I’ve heard, the generosity, the support, the friendship, that is really the best of us. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/12/victoria-bushfires-adelaide-festival-writers-week-board-chair-resigns-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "published": "Sun, 11 Jan 2026 23:04:19 GMT",
+      "published": "Sun, 11 Jan 2026 23:19:06 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
@@ -1638,6 +1638,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-11T23:41:21.957886Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
