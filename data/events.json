@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T10:22:58.509090Z",
-  "event_count": 223,
+  "last_updated": "2026-01-11T10:45:47.286368Z",
+  "event_count": 222,
   "events": [
     {
       "title": "One person dead as PM visits bushfire-ravaged towns with 300 structures destroyed and 350,000 hectares burned",
@@ -20,6 +20,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran says dozens of officers killed as protesters defy government crackdown",
+      "description": "Parliament speaker warns US against any attack after Trump threatens military strikes amid nationwide protests.",
+      "url": "https://www.aljazeera.com/news/2026/1/11/iran-says-dozens-of-officers-killed-as-protesters-defy-government-crackdown?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 10:03:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -448,16 +458,6 @@
       "url": "https://www.france24.com/en/middle-east/20260111-syria-s-kurdish-fighters-agree-to-leave-aleppo-after-days-of-deadly-clashes",
       "published": "Sun, 11 Jan 2026 06:33:54 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian oil depot fire after Ukrainian drone strike - as UN to meet over hypersonic missile attack",
-      "description": "A drone strike by Ukraine has caused a fire at an oil depot in Russia's southern Volgograd region, according to regional authorities.",
-      "url": "https://news.sky.com/story/russian-oil-depot-fire-after-ukrainian-drone-strike-as-un-to-meet-over-hypersonic-missile-attack-13492804",
-      "published": "Sat, 10 Jan 2026 16:03:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -1013,6 +1013,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Human remains found as Australia continues to battle bushfires",
+      "description": "Human remains have been found in Australia as bushfires continue to rage on in the country.",
+      "url": "https://news.sky.com/story/human-remains-found-as-australia-continues-to-battle-bushfires-13492983",
+      "published": "Sun, 11 Jan 2026 10:16:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "ICE officer who shot Minnesota woman was dragged by car of illegal alien sex offender months earlier",
       "description": "The ICE officer who fatally shot Renee Nicole Good was allegedly dragged 50 yards by illegal immigrant's car months earlier, reports indicate.",
       "url": "https://www.foxnews.com/us/ice-officer-who-shot-minnesota-woman-dragged-car-illegal-alien-sex-offender-months-earlier",
@@ -1453,16 +1463,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "‘Abolish ICE’: Tens of thousands in Minneapolis, across US, protest killing",
-      "description": "Protesters demand justice for Renee Nicole Good, a mother of three shot dead by an ICE agent in Minneapolis.",
-      "url": "https://www.aljazeera.com/news/2026/1/10/we-have-to-stand-up-ice-killing-in-minneapolis-sparks-protests-across-us?traffic_source=rss",
-      "published": "Sat, 10 Jan 2026 19:04:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
       "description": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN but could be the “nail in the coffin” in changing to a shrunken, less flexible aid system dominated by Washington’s political priorities, aid experts fear. After a year of deep cuts in aid budgets by the US and European countries, the announcement of new money for the humanitarian system is a source of some relief, but experts are deeply concerned about demands that the US has imposed on how the money should be managed and where it can go. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
@@ -1643,16 +1643,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-11T10:22:37.258121Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "There's a daily game of cat and mouse to catch illegal migrants in Germany - and it may soon become UK's problem",
       "description": "In Germany's fight against people smugglers, Chief Inspector Igor Weber's Pasewalk force is on the frontline.",
       "url": "https://news.sky.com/story/theres-a-daily-game-of-cat-and-mouse-to-catch-illegal-migrants-in-germany-and-it-may-soon-become-uks-problem-13492375",
@@ -1753,6 +1743,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Israel’s ban on NGOs operating in Gaza will be devastating",
+      "description": "But it will not extinguish its people’s drive to survive, rebuild and prosper.",
+      "url": "https://www.aljazeera.com/opinions/2026/1/11/israels-ban-on-ngos-operating-in-gaza-will-be-devastating?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 10:00:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "The Ancient Egyptian stone that Britain refuses to return",
       "description": "The Rosetta Stone held the secrets to Ancient Egypt. Britain refuses to give it back",
       "url": "https://www.aljazeera.com/video/pinch-point/2026/1/11/aje-onl-pp-egypts-stolen-history-110126?traffic_source=rss",
@@ -1817,16 +1817,6 @@
       "description": "Saudi Arabia says it will soon host a dialogue between Yemen's main players.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/1/10/what-are-saudi-arabias-plans-in-southern-yemen?traffic_source=rss",
       "published": "Sat, 10 Jan 2026 19:33:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Impressive Nigeria beat Algeria 2-0 to set up AFCON semifinal with Morocco",
-      "description": "Victor Osimhen scores one and sets up another to send Nigeria into the last four of the Africa Cup of Nations.",
-      "url": "https://www.aljazeera.com/sports/2026/1/10/impressive-nigeria-beat-algeria-2-0-to-set-up-afcon-semifinal-with-morocco?traffic_source=rss",
-      "published": "Sat, 10 Jan 2026 18:27:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
