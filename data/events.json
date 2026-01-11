@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T16:26:40.744866Z",
+  "last_updated": "2026-01-11T16:49:09.035550Z",
   "event_count": 222,
   "events": [
     {
@@ -158,6 +158,16 @@
       "url": "https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests",
       "published": "Sun, 11 Jan 2026 02:46:38 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Hundreds killed in protests in Iran, rights group says",
+      "description": "Hundreds of protesters have been killed in demonstrations over the past two weeks, according to rights groups and local sources in Iran, FRANCE 24 Observers journalist Ershad Alijani reported, noting that it remains difficult to gauge the exact number of victims because of the information blackout in the country. In an attempt to thwart the protests, Iranian authorities have shut down the internet and cut off phone lines.",
+      "url": "https://www.france24.com/en/hundreds-killed-in-protests-in-iran-rights-group-says",
+      "published": "Sun, 11 Jan 2026 16:30:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -398,16 +408,6 @@
       "url": "https://www.aljazeera.com/news/2026/1/11/irans-pezeshkian-pledges-economic-overhaul-amid-spiralling-protests?traffic_source=rss",
       "published": "Sun, 11 Jan 2026 13:09:50 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "‘ICE, Out for Good’ protests over fatal shooting erupt in Minneapolis, other US cities",
-      "description": "Tens of thousands of people marched through Minneapolis and other US cities on Saturday to decry the fatal shooting of Renee Good, a 37-year-old mother, by an Immigration and Customs Enforcement (ICE) agent. More rallies under the slogan, \"ICE, Out for Good\" are planned this weekend in other cities and towns to protest against the Trump administration's mass deportations.",
-      "url": "https://www.france24.com/en/americas/20260111-ice-out-for-good-protests-over-fatal-shooting-erupt-in-minneapolis-other-us-cities",
-      "published": "Sun, 11 Jan 2026 06:14:19 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -833,10 +833,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Myanmar’s junta holds second phase of widely slammed elections",
-      "description": "Myanmar on Sunday held the second phase of a vote organised by a junta-appointed election commission, with the ballot missing Aung San Suu Kyi's National League for Democracy (NLD) party, the landslide winner of the last two general elections, which was banned after the 2021 coup.",
-      "url": "https://www.france24.com/en/asia-pacific/20260111-myanmar-s-junta-holds-second-phase-of-widely-slammed-elections",
-      "published": "Sun, 11 Jan 2026 02:09:15 GMT",
+      "title": "Friedrich Merz pledged stability, but as chancellor he has struggled to confront a world in upheaval",
+      "description": "With foreign policy turbulence, a blackout in Berlin and a high-profile personnel rejig in the Chancellery, 2026 is off to a stormy start for Friedrich Merz.",
+      "url": "https://www.dw.com/en/friedrich-merz-pledged-stability-but-as-chancellor-he-has-struggled-to-confront-a-world-in-upheaval/a-75452671?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Jan 2026 19:16:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Sudan PM announces govt's return to Khartoum from wartime capital Port Sudan",
+      "description": "The Sudanese government which had been driven out by war has returned to Khartoum and promises “better services” for the capital's residents, Prime Minister Kamil Idris announced on Sunday. The army-aligned government had been operating out of its wartime capital of Port Sudan for nearly three years after it had been driven out of Khartoum by the paramilitary Rapid Support Forces.",
+      "url": "https://www.france24.com/en/africa/20260111-sudan-pm-announces-govt-s-return-to-khartoum-from-wartime-capital-port-sudan",
+      "published": "Sun, 11 Jan 2026 16:36:25 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
@@ -917,16 +927,6 @@
       "description": "Protests over the killing of Renee Good are taking place across the US. The Trump administration says the gay mom was a dangerous far-left radical; protesters say ICE agents are trigger-happy goons. DW has the latest.",
       "url": "https://www.dw.com/en/us-hundreds-of-rallies-held-over-ice-shootings/live-75462489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 10 Jan 2026 23:11:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Venezuela, Greenland, Ukraine: Germany's Merz in crisis mode",
-      "description": "With foreign policy turbulence, a blackout in Berlin and a high-profile personnel rejig in the Chancellery, 2026 is off to a stormy start for Friedrich Merz.",
-      "url": "https://www.dw.com/en/venezuela-greenland-ukraine-germany-s-merz-in-crisis-mode/a-75452671?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 10 Jan 2026 19:16:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -1736,7 +1736,7 @@
       "title": "Trump tells Cuba to 'make a deal, before it is too late'",
       "description": "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro.",
       "url": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Jan 2026 14:16:30 GMT",
+      "published": "Sun, 11 Jan 2026 16:33:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
