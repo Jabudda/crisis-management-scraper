@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-13T14:27:31.150912Z",
-  "event_count": 223,
+  "last_updated": "2026-01-13T14:55:02.225367Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: Attacks against Ukrainian civilians unacceptable, unjustifiable and must stop, says UN",
@@ -14,12 +14,22 @@
     },
     {
       "title": "At least 5 die in Gaza collapsed buildings, more deaths from extreme cold",
-      "description": "Civil Defence warns of catastrophic repercussions from the storm for Palestinians, who lack adequate shelter.",
+      "description": "Civil defence warns of catastrophic repercussions from the storm for Palestinians, who lack adequate shelter.",
       "url": "https://www.aljazeera.com/news/2026/1/13/eight-dead-in-gaza-as-storm-brings-extreme-cold-collapses-buildings?traffic_source=rss",
       "published": "Tue, 13 Jan 2026 11:08:53 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
+      "description": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid pandemic, the World Bank has found. The Washington-based organisation said a large group of low-income countries, many in sub-Saharan Africa, had suffered a negative shock in the six years to the end of last year. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
+      "published": "Tue, 13 Jan 2026 14:30:04 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -70,16 +80,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tensions flare in Minnesota as protesters, federal agents square off",
-      "description": "US state sues Trump over ICE raids after fatal shooting of mother of three sparks nationwide protests.",
-      "url": "https://www.aljazeera.com/gallery/2026/1/13/tensions-flare-in-minnesota-as-protesters-federal-agents-square-off?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 10:33:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -170,16 +170,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "World reacts to Iran protests, US military threats against Tehran",
-      "description": "Global leaders have been divided on the protests, with the US and its allies backing the protesters.",
-      "url": "https://www.aljazeera.com/news/2026/1/13/world-reacts-to-iran-protests-us-military-threats-against-tehran?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 10:21:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -333,6 +323,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US labels Muslim Brotherhood orgs in Egypt, Lebanon, Jordan as ‘terrorists’",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/1/13/us-labels-muslim-brotherhood-orgs-in-egypt-lebanon-jordan-as-terrorist?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 14:31:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
       "description": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilation at the country’s supreme court. The court case, due to resume this month, comes after two babies bled to death after undergoing FGM in the Gambia last year. Almameh Gibba, an MP and one of the plaintiffs, tabled a bill to decriminalise FGM that was rejected by the country’s parliament in 2024. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
@@ -383,16 +383,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Secret Service aware of UMass Lowell-funded radio DJ’s directive to ‘kill JD Vance’",
-      "description": "Radio host resigns after allegedly posting death threat against VP JD Vance on Bluesky. FBI, Secret Service investigate UMass volunteer's rhetoric.",
-      "url": "https://www.foxnews.com/us/secret-service-aware-umass-lowell-funded-radio-djs-directive-kill-jd-vance",
-      "published": "Mon, 12 Jan 2026 11:31:32 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran’s ‘distinctive’ drone deployment sees death toll soar amid violent protests",
       "description": "Iran allegedly deploys drones amid nationwide protests as Human Rights Activists News Agency reports at least 544 confirmed deaths and over 10,000 arrests.",
       "url": "https://www.foxnews.com/world/irans-distinctive-drone-deployment-sees-death-toll-soar-amid-violent-protests",
@@ -433,6 +423,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Paris's annual agriculture show will be cow-free for first time ever due to lumpy skin disease",
+      "description": "Cows will be conspicuously absent from this year's International Agriculture Show in Paris following an outbreak of lumpy skin disease, organisers said Tuesday. Europe's largest agricultural fair usually boasts between 500 to 600 cattle.",
+      "url": "https://www.france24.com/en/france/20260113-paris-annual-agriculture-show-cow-free-for-first-time-ever-du-lumpy-skin-disease",
+      "published": "Tue, 13 Jan 2026 14:41:13 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Four people killed in Gaza after walls collapse on tents during strong winds - health officials",
+      "description": "Four people have been killed in Gaza after walls collapsed on to tents during strong winds and rainfall, hospital authorities have said.",
+      "url": "https://news.sky.com/story/four-people-killed-in-gaza-after-walls-collapse-on-tents-during-strong-winds-hospital-authorities-say-13493740",
+      "published": "Tue, 13 Jan 2026 13:25:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump risks China trade war truce through Iran tariffs",
       "description": "On the face of it, an announcement of 25% tariffs against any nation trading with Iran amounts to a major escalation of Donald Trump's global trade war.",
       "url": "https://news.sky.com/story/trump-risks-end-of-china-trade-war-truce-through-iran-tariffs-13493636",
@@ -468,6 +478,16 @@
       "url": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Jan 2026 19:54:32 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "🔴 Live: Death toll from nationwide protests in Iran spikes to at least 2,000, activists say",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/middle-east/20260113-live-vance-urges-diplomacy-as-trump-weighs-possible-strikes-on-iran",
+      "published": "Tue, 13 Jan 2026 14:24:15 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -517,16 +537,6 @@
       "description": "French farmers steered some 350 tractors on January 11 toward French Parliament to protest low incomes and an EU trade deal with South America that they fear threatens their livelihoods. They say their earnings are squeezed by rising costs of fuel, fertilizer and animal feed as well as heavier environmental rules and price pressure from retailers - the last straw being the recently signed Mercosur deal. FRANCE 24's Ellen Gainsford spoke to several of them in Paris.",
       "url": "https://www.france24.com/en/protesters-say-unliveable-to-be-a-farmer-in-france-today-as-they-condemn-mercosur-deal",
       "published": "Tue, 13 Jan 2026 11:53:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Minnesota sues over increased deployment of ICE officers in new crackdown",
-      "description": "Last week an Immigration and Customs Enforcement Agent shot and killed Renee Good, a Minneapolis mother who was observing a law enforcement action carried out by the agency. On January 12, the State of Minnesota and its capital twin cities have filed a lawsuit against the Department of Homeland Security to prevent surge deployment of more ICE officers to the democrat-led State, which been a target of US President Donald Trump's crackdown on Immigration.",
-      "url": "https://www.france24.com/en/minnesota-sues-over-increased-deployment-of-ice-officers-in-new-crackdown",
-      "published": "Tue, 13 Jan 2026 10:34:42 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 16,
@@ -598,16 +608,6 @@
       "url": "https://www.theguardian.com/world/2026/jan/11/underground-church-early-rain-leaders-detained-china-crackdown",
       "published": "Sun, 11 Jan 2026 13:00:27 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "As Trump threatens US takeover, NATO downplays risk to the alliance's survival",
-      "description": "NATO Secretary General Mark Rutte said on January 12 that the alliance was taking steps to ensure the security of the arctic region including Greenland. But Rutte refused to accept the idea that the alliance is in a moment of crisis due to Trump’s repeated threats to take the autonomous island, which is part of the kingdom of Denmark. US Secretary of state Marco Rubio is set to meet with diplomats from Denmark and Greenland on January 14.",
-      "url": "https://www.france24.com/en/as-trump-threatens-us-takeover-nato-downplays-risk-to-the-alliance-s-survival",
-      "published": "Tue, 13 Jan 2026 10:37:45 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -696,7 +696,7 @@
       "title": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
       "description": "Eleven central banks have backed Jerome Powell after the US launched a criminal investigation into the US Fed.",
       "url": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Jan 2026 13:31:13 GMT",
+      "published": "Tue, 13 Jan 2026 14:30:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 13,
@@ -913,11 +913,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Iranian leaders mobilise supporters as US weighs options for intervention",
-      "description": "As US President Donald Trump weighs a response to Iran's deadly crackdown on nationwide protests, Iranian leaders say they are still keeping communications open with the Americans. But on January 12, large pro-government rallies took place across Iran, and the US was clearly framed as the enemy and instigator of the protests.",
-      "url": "https://www.france24.com/en/video/20260113-iranian-leaders-mobilise-supporters-as-us-weighs-options-for-intervention",
-      "published": "Tue, 13 Jan 2026 10:27:56 GMT",
-      "source": "France24",
+      "title": "Federal agents deploy tear gas, rubber bullets on protesters outside Minneapolis federal building",
+      "description": "Federal agents deployed tear gas and rubber bullets against Minneapolis protesters after snowballs were allegedly thrown at vehicles, authorities said.",
+      "url": "https://www.foxnews.com/us/federal-agents-deploy-tear-gas-rubber-bullets-protesters-outside-minneapolis-federal-building",
+      "published": "Tue, 13 Jan 2026 09:22:21 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -948,16 +948,6 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
-      "description": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity of ancient hunter-gatherer communities. Researchers say the pyre, discovered in a rock shelter at the foot of Mount Hora in northern Malawi, is thought to be the oldest in the world to contain adult remains, the oldest confirmed intentional cremation in Africa, and the first pyre to be associated with African hunter-gatherers. Continue reading...",
-      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
-      "published": "Thu, 01 Jan 2026 19:00:47 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1038,6 +1028,16 @@
       "url": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Jan 2026 20:51:10 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Video: Hundreds of thousands in northern Kenya face catastrophic drought",
+      "description": "Three consecutive seasons of drought have left people in Northern Kenya facing an emergency.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/video-hundreds-of-thousands-in-northern-kenya-face-catastrophic-drought?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 14:19:19 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1124,9 +1124,9 @@
     },
     {
       "title": "Counsel seeks death sentence for ex-S. Korean leader Yoon over martial law imposition",
-      "description": "A court in South Korea confirms that an independent counsel has demanded a death sentence for former President Yoon Suk Yeol on rebellion charges in connection with his martial law imposition in December 2024",
+      "description": "A Seoul court says an independent counsel has demanded a death sentence for former South Korean President Yoon Suk Yeol",
       "url": "https://abcnews.go.com/International/wireStory/independent-counsel-seeks-death-sentence-south-korean-leader-129160208",
-      "published": "Tue, 13 Jan 2026 08:01:08 -0500",
+      "published": "Tue, 13 Jan 2026 09:32:47 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1243,30 +1243,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ex-Corsican nationalist leader Alain Orsoni shot dead at mother's funeral",
+      "description": "Former Corsican nationalist leader Alain Orsoni, who also served as the president of soccer club AC Ajaccio, was shot dead in Corsica on January 11 during his mother’s funeral. He was 71. Alain Orsoni was one of the leaders of the Corsican National Liberation Front (FLNC) in the 1980s. He later founded and led the Movement for Self-Determination (MPA). He left Corsica in 1996 during infighting within the nationalist movement and lived for several years in exile before returning to the island.",
+      "url": "https://www.france24.com/en/ex-corsican-nationalist-leader-alain-orsoni-shot-dead-at-mother-s-funeral",
+      "published": "Tue, 13 Jan 2026 14:00:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Marine Le Pen's appeal in EU fund embezzlement case opens in Paris",
       "description": "Far-right leader Marine Le Pen, who needs to have a graft conviction overturned to seize her best chance at the French presidency, risks seeing her life's work upended if she loses her appeal. It comes after a French court last year barred her from running for office for five years over a European Parliament fake-jobs scam involving her and other officials from her National Rally party. FRANCE 24's Olivia Bizot looks at the political implications of this case straight from the court in Paris.",
       "url": "https://www.france24.com/en/marine-le-pen-s-appeal-in-eu-fund-embezzlement-case-opens-in-paris",
       "published": "Tue, 13 Jan 2026 11:50:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "New 'controversial' US food guidelines include 'focus on animal protein and full-fat dairy'",
-      "description": "RFK Jr. has just released new U.S. dietary guidelines, as part of the Trump administration’s “Make America Healthy Again” campaign. The national food pyramid has once again been reshaped, urging Americans to change their eating habits. But with shifting advice and political overtones, how effective are these guidelines? For expert insight, Eve Irvine welcomes Charlotte DEBEUGNY, a registered nutritionist based in Paris.",
-      "url": "https://www.france24.com/en/new-controversial-us-food-guidelines-include-focus-on-animal-protein-and-full-fat-dairy",
-      "published": "Tue, 13 Jan 2026 10:49:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Marine Le Pen plays last card for presidential candidacy as appeal starts",
-      "description": "French far-right leader Marine Le Pen begins a crucial appeal in Paris on January 13 that will determine whether she can run in the 2027 presidential election, after being barred from public office over a conviction for misusing EU funds. The National Rally's number 2 Jordan Bardella said a court ruling against Le Pen “would be deeply worrying for democracy”, but Le Pen's protégé also stands to gain from that happening -- as he would run in her place.",
-      "url": "https://www.france24.com/en/marine-le-pen-plays-last-card-for-presidential-candidacy-as-appeal-starts",
-      "published": "Tue, 13 Jan 2026 10:41:20 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 6,
@@ -1344,7 +1334,7 @@
     },
     {
       "title": "Why Iran's communication blackout could become permanent",
-      "description": "Iran's communication blackout is \"more serious\" than ever before and restrictions may last beyond the current protests, according to one expert.",
+      "description": "Iran's communication blackout is \"more serious\" than ever before. Restrictions may last beyond the current protests, according to one expert.",
       "url": "https://www.dw.com/en/why-iran-s-communication-blackout-could-become-permanent/a-75487555?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Jan 2026 14:06:00 GMT",
       "source": "Deutsche Welle",
@@ -1368,6 +1358,16 @@
       "url": "https://www.dw.com/en/germany-and-iran-merz-calls-tehran-leadership-weak/a-75477000?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 12 Jan 2026 15:50:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Meet the French expats living off the grid",
+      "description": "Some 3 million French citizens live abroad, scattered across the globe. From the snowy uplands of Quebec to a remote, desert island in Guinea-Bissau or the depths of the Ivorian forests, our France 2 colleagues went to meet some of their French compatriots who have started whole new lives. Thousands of kilometres from French shores, they are living out childhood dreams of closeness to nature and joining new communities and cultures.",
+      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260113-meet-the-french-expats-living-off-the-grid",
+      "published": "Tue, 13 Jan 2026 14:53:27 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1533,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-13T14:27:05.534545Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump announces 25% tariff on Iran's trading partners",
       "description": "US President Donald Trump announced a tariff of 25% on goods from countries doing business with Iran. The tariff announcement stands to impact China, Brazil, Turkey and Russia among others.",
       "url": "https://www.dw.com/en/trump-announces-25-tariff-on-iran-s-trading-partners/a-75481137?maca=en-rss-en-all-1573-xml-mrss",
@@ -1598,16 +1588,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Escaped monkeys run wild in city as AI hinders efforts to catch them",
-      "description": "A troop of monkeys have spent days running wild in a US city and artificial intelligence is complicating efforts to catch them.",
-      "url": "https://news.sky.com/story/escaped-monkeys-run-wild-in-st-louis-as-ai-hinders-efforts-to-catch-them-13493505",
-      "published": "Mon, 12 Jan 2026 18:42:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1733,6 +1713,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Why Iran is not repeating 1979",
+      "description": "The nature of power in Tehran today is very different from what it was in the 1970s.",
+      "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 14:28:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Why was Alonso sacked by Real Madrid, and who’s their new manager Arbeloa?",
+      "description": "A Supercopa final loss to Barcelona proves final nail in the coffin and ends the Xabi Alonso era at Real Madrid.",
+      "url": "https://www.aljazeera.com/sports/2026/1/13/why-was-alonso-sacked-by-real-madrid-and-whos-their-new-manager-arbeloa?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 14:15:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Michael Carrick signs deal with Man United to be interim head coach",
       "description": "Former United player Michael Carrick will take charge of the famous English football club after agreeing to terms.",
       "url": "https://www.aljazeera.com/sports/2026/1/13/michael-carrick-signs-deal-with-man-united-to-be-interim-head-coach?traffic_source=rss",
@@ -1767,26 +1767,6 @@
       "description": "Does the main opposition candidate looking to unseat long-serving President Yoweri Museveni have any hope of winning?",
       "url": "https://www.aljazeera.com/news/2026/1/13/protect-the-vote-bobi-wine-opposition-brace-for-tense-uganda-election?traffic_source=rss",
       "published": "Tue, 13 Jan 2026 11:09:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Which countries made the biggest deals with Israel in 2025?",
-      "description": "Israel signed several record multibillion-dollar gas, technology and military deals with its trading partners last year.",
-      "url": "https://www.aljazeera.com/news/2026/1/13/which-countries-made-the-biggest-deals-with-israel-in-2025?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 10:42:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Gaza’s forcibly disappeared must not be forgotten",
-      "description": "My brother is one of many Palestinians Israel continues to illegally detain. Their release must be part of talks.",
-      "url": "https://www.aljazeera.com/opinions/2026/1/13/gazas-forcibly-disappeared-must-not-be-forgotten?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 09:58:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1953,6 +1933,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Will Trump risk a clash with China over Iran tariff?",
+      "description": "Donald Trump’s sudden 25% tariff on nations trading with Iran puts Beijing squarely in the spotlight. China knows how to evade sanctions and has the muscle to retaliate. DW explores what this showdown could mean.",
+      "url": "https://www.dw.com/en/will-trump-risk-a-clash-with-china-over-iran-tariff/a-75483264?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Jan 2026 14:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "France: Le Pen in court to appeal 2027 election ban",
       "description": "Marine Le Pen, the far-right heavyweight of French politics is seeking to overturn a court ruling that blocked her presidential bid.",
       "url": "https://www.dw.com/en/france-le-pen-in-court-to-appeal-2027-election-ban/a-75483470?maca=en-rss-en-all-1573-xml-mrss",
@@ -2013,20 +2003,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Croatia reintroduces conscription after almost two decades",
-      "description": "Croatia is bringing back compulsory military service for young men for the first time since 2008. What’s behind the shift — and could it signal a wider return of conscription in the Balkans?",
-      "url": "https://www.dw.com/en/croatia-reintroduces-conscription-after-almost-two-decades/a-75472193?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Jan 2026 12:23:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Hearing in Marine Le Pen appeal trial expected summer 2026",
+      "description": "Marine Le Pen's presidential ambitions hang in the balance as the French far-right leader goes to court to appeal against an embezzlement conviction, which barred her from running for office for five years. She has always maintained her innocence and is appealing along with twelve others of the accused. The ruling with could in the summer of 2026.",
+      "url": "https://www.france24.com/en/hearing-in-marine-le-pen-appeal-trial-expected-summer-2026",
+      "published": "Tue, 13 Jan 2026 14:37:10 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "What powers do ICE officers actually have?",
-      "description": "Popular discontent with Donald Trump's heavy-handed approach to immigration enforcement has increased further since the killing by an ICE officer of a motorist on January 7, a killing that Trump's Justice department says it will not investigate. The main focus of criticism: excessive force, opaque dealings and lack of oversight. But what powers does ICE actually have?",
-      "url": "https://www.france24.com/en/what-powers-do-ice-officers-actually-have",
-      "published": "Tue, 13 Jan 2026 10:43:42 GMT",
+      "title": "Marine Le Pen to switch legal strategy in appeal as case opens in Paris",
+      "description": "France’s far-right leader Marine Le Pen returned to court Tuesday to appeal an embezzlement conviction, with her 2027 presidential ambitions hanging on the outcome of the case. If she is ultimately prevented from running in 2027, Bardella is widely expected to be her successor. His popularity has surged, particularly among younger voters, though some within the party have questioned his leadership. FRANCE 24's Olivia Bizot tells us more from the Paris courthouse.",
+      "url": "https://www.france24.com/en/marine-le-pen-to-switch-legal-strategy-in-appeal-as-case-opens-in-paris",
+      "published": "Tue, 13 Jan 2026 13:58:00 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
