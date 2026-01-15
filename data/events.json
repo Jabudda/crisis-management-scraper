@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T04:41:54.472365Z",
+  "last_updated": "2026-01-15T05:27:59.440974Z",
   "event_count": 221,
   "events": [
     {
@@ -80,16 +80,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
-      "description": "Very little information has been shared about strikes in Sokoto state Two weeks after the US carried out Christmas Day airstrikes in north-west Nigeria on what it described as Islamic State fighters, questions remain over the specific group that was targeted and the operation’s impact. In the aftermath of the strikes, Donald Trump said in a post on his Truth Social platform that “ISIS Terrorist Scum in Northwest Nigeria , who have been targeting and viciously killing, primarily, innocent Christians” were hit with “numerous perfect strikes”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
-      "published": "Thu, 08 Jan 2026 05:00:03 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -208,6 +198,16 @@
       "url": "https://www.npr.org/2026/01/14/nx-s1-5669671/acre-israel-knights-fortress",
       "published": "Wed, 14 Jan 2026 09:35:35 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Minneapolis: Officer shoots person in leg during arrest",
+      "description": "An officer was allegedly attacked with a shovel and broom handle while trying to arrest the person, DHS said. The shooting took place a few kilometers from where an immigration agent fatally shot Renee Good.",
+      "url": "https://www.dw.com/en/minneapolis-officer-shoots-person-in-leg-during-arrest/a-75511317?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 04:49:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -348,6 +348,16 @@
       "url": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Jan 2026 13:30:31 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ugandans to vote in election expected to extend Museveni’s four-decade rule",
+      "description": "Campaign beset by violence with supporters of rival candidate Bobi Wine teargassed and detained Ugandans are preparing to vote in an election that is expected to result in Yoweri Museveni extending his nearly four-decade grip on power in the east African country, after a campaign beset by violence. Security forces have frequently clamped down on supporters of Museveni’s main opponent, Bobi Wine, by teargassing and shooting bullets at events and detaining people. Authorities have also arrested civil society members and suspended rights groups. On Tuesday, they shut down internet access and limited mobile phone services countrywide. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+      "published": "Thu, 15 Jan 2026 05:00:51 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -633,16 +643,6 @@
       "severity_level": "High"
     },
     {
-      "title": "DW exclusive: Post-election violence in Tanzania's Mwanza",
-      "description": "What happened in Tanzania during the unrest that followed the October election remains unclear. New evidence points to killings and grave human rights abuses by security forces in the second largest city, Mwanza.",
-      "url": "https://www.dw.com/en/dw-exclusive-post-election-violence-in-tanzania-s-mwanza/a-75473767?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 10:34:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Taxpayer-funded Minnesota charter school shuts down in-person learning amid ICE raids",
       "description": "Minnesota charter school moves classes online citing safety concerns as community warns of reported ICE activity affecting local families and students.",
       "url": "https://www.foxnews.com/us/taxpayer-funded-minnesota-charter-school-shuts-down-person-learning-ice-raids",
@@ -818,6 +818,16 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
       "published": "Mon, 12 Jan 2026 11:00:03 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Musk's xAI curbs sexually explicit image generation in Grok",
+      "description": "xAI has announced measures to rein in Grok's 'Spicy Mode' after global backlash over AI-edited images undressing women and children.",
+      "url": "https://www.dw.com/en/musk-s-xai-curbs-sexually-explicit-image-generation-in-grok/a-75511331?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 05:02:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1086,7 +1096,7 @@
       "title": "Australia news live: Labor’s hate speech bill on path to defeat after Greens say they will not back it in current form",
       "description": "Follow updates live Stunned Albanese says Coalition ‘playing politics’ as Ley calls hate speech reforms ‘pretty unsalvageable’ Get our breaking news email , free app or daily news podcast Iranian Australians left distraught with no confirmation their family is safe Almost a week into Iran’s communication blackout, Iranian Australian activist Mohammad Hashemi received a call from his home country. When I heard the stories, what happened to people, I was crying about the situation and what’s going on in our country. We continue to advise do not travel to Iran. If you choose to remain in Iran, you’re responsible for your own safety. Be prepared to shelter in place for an extended period. Make sure you have supplies of water, food and medication. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
-      "published": "Thu, 15 Jan 2026 04:26:41 GMT",
+      "published": "Thu, 15 Jan 2026 05:06:03 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1183,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump says Iran has 'no plan' to execute protesters",
+      "description": "The US president does not rule out military action in Iran, as Tehran temporarily shuts its airspace to nearly all flights.",
+      "url": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Jan 2026 04:57:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Swiss regions ban pyrotechnics after ski bar fire",
       "description": "The blaze is believed to have started when sparklers attached to champagne bottles set foam padding on the ceiling alight.",
       "url": "https://www.bbc.com/news/articles/cgezqvwr54no?at_medium=RSS&at_campaign=rss",
@@ -1276,7 +1296,7 @@
       "title": "Adelaide festival apologises to Randa Abdel-Fattah and invites her to participate in 2027 writers’ week",
       "description": "Apology comes as former Adelaide festival board member accuses Louise Adler of hypocrisy after she resigned citing free speech concerns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The new Adelaide festival board has issued a public apology to Palestinian Australian academic Randa Abdel-Fattah, and has promised she will be invited to Adelaide writers’ week in 2027. Abdel-Fattah immediately accepted the apology, posting on Instagram that it was a vindication “of our collective solidarity and mobilisation against anti-Palestinian racism, bullying and censorship”. Continue reading...",
       "url": "https://www.theguardian.com/culture/2026/jan/15/adelaide-festival-apologises-randa-abdel-fattah-2027-invite-ntwnfb",
-      "published": "Thu, 15 Jan 2026 02:04:47 GMT",
+      "published": "Thu, 15 Jan 2026 04:50:08 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
@@ -1457,16 +1477,6 @@
       "description": "Danish and Greenlandic officials said they still have a “fundamental disagreement” with President Donald Trump over Greenland after meeting in Washington with Vice President JD Vance and Secretary of State Marco Rubio.",
       "url": "https://www.dw.com/en/fundamental-disagreement-with-us-over-greenland-remains/live-75504607?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 14 Jan 2026 19:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany: Unjustly jailed man gets €1.3 million compensation",
-      "description": "The Bavarian state is to give over €1 million to a man who spent 13 years in jail on murder charges that were overturned. Prosecutors had previously called for him to pay for board and lodgings in jail after his release.",
-      "url": "https://www.dw.com/en/germany-unjustly-jailed-man-gets-€1-3-million-compensation/a-75503038?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 12:20:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
@@ -1670,16 +1680,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US and UK pulling some personnel from Qatar military base",
-      "description": "US officials say it is a \"precautionary measure\" and comes as Donald Trump weighs up whether to take action against Iran.",
-      "url": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 01:31:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
       "severity_level": "Low"
     },
     {
