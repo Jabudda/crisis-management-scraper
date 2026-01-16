@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T12:48:46.516673Z",
+  "last_updated": "2026-01-16T13:38:56.291878Z",
   "event_count": 221,
   "events": [
     {
@@ -143,6 +143,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Sudan food aid at risk of running dry, UN warns",
+      "description": "WFP says $700m needed to prevent the world's worst hunger and displacement crisis from worsening.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/sudan-food-aid-at-risk-of-running-dry-un-warns?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 12:51:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Iran's protests appear increasingly smothered after a deadly crackdown",
       "description": "The nationwide protests challenging Iran's theocracy appear increasingly smothered a week after authorities shut the country off from the world and escalated a bloody crackdown.",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5678539/iran-protests-trump",
@@ -170,16 +180,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Killings in Gaza despite ceasefire phase 2 announcement",
-      "description": "At least 10 Palestinians have been killed in Israeli attacks in Gaza after the US announced the start of phase 2.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/killings-in-gaza-despite-ceasefire-phase-2-announcement?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 09:17:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -253,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Blankets, batteries, fires: How Kyiv is surviving an icy winter as Russia attacks its energy grid",
-      "description": "Russia has deliberately attacked Ukraine's energy grid, as sub-zero temperatures take hold. Many are without power, heating or water so locals in Kyiv have been sharing their solutions for staying warm.",
-      "url": "https://www.dw.com/en/blankets-batteries-fires-how-kyiv-is-surviving-an-icy-winter-as-russia-attacks-its-energy-grid/a-75525775?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 15 Jan 2026 18:26:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘I saw 12 people collapsed in a pool of blood’: Eyewitness describes Iran’s deadly crackdown",
       "description": "A Tehran resident who took part in the protests that have roiled Iran before fleeing the country has described a deadly crackdown – with security forces firing indiscriminately at protesters with machine guns and assault rifles – in an exclusive interview with FRANCE 24.",
       "url": "https://www.france24.com/en/asia-pacific/20260116-eyewitness-describes-iran-deadly-crackdown-tehran-trump",
@@ -291,6 +281,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Iran's regime crushing protests in bloody crackdown",
+      "description": "Protesters are putting their lives on the line in Iran as the state mounts a coordinated and brutal response to the unrest. As the death toll grows, hopes of outside help seem faint.",
+      "url": "https://www.dw.com/en/iran-s-regime-crushing-protests-in-bloody-crackdown/a-75524677?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 20:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Pope consoles families of young Italian victims of New Year's Swiss Alps bar fire",
@@ -583,10 +583,20 @@
       "severity_level": "High"
     },
     {
-      "title": "UN treaty to protect ‘extraordinary’ marine life due to come into force",
-      "description": "World-first pact aims to protect 10 million species from threats like climate change, overfishing and deep-sea mining.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/un-treaty-to-protect-extraordinary-marine-life-due-to-come-into-force?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 09:18:34 +0000",
+      "title": "Ukraine scrambling for energy as Russian strikes hit infrastructure",
+      "description": "Authorities order emergency imports of electricity as people struggle in subzero temperatures.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/ukraine-scrambling-for-energy-as-russian-strikes-hit-infrastructure?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 13:10:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Lithuania charges multinational gang of Russian-directed sabotage attacks",
+      "description": "Russia behind attempted 2024 arson attack on plant supplying radio wave scanners to Ukrainian military, Lithuania says.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/lithuania-charges-multinational-gang-of-russian-directed-sabotage-attacks?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 12:45:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -630,6 +640,26 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+      "description": "The BBC speaks to Iranians at the border with Iraq, as authorities continue to block the flow of information with an internet blackout.",
+      "url": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 12:02:09 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
+      "description": "Donald Trump has boxed himself in by promising to 'help' Iran's protesters. But he has few good options.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 13:04:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -714,7 +744,7 @@
     },
     {
       "title": "India: Security, terrorism laws used to silence dissent",
-      "description": "Under UAPA, India's controversial anti-terror law, a suspect can spend years in jail without trial if the accusations against them seem true at first glance. Meanwhile, courts are expanding the definition of terrorism.",
+      "description": "Under India's controversial anti-terror law, UAPA, a suspect can spend years in jail without trial if the accusations against them seem true. Meanwhile Indian courts are also expanding the definition of terrorism.",
       "url": "https://www.dw.com/en/india-security-terrorism-laws-used-to-silence-dissent/a-75534044?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 11:30:00 GMT",
       "source": "Deutsche Welle",
@@ -863,16 +893,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Does Moldovan President Maia Sandu really want unification with Romania?",
-      "description": "Moldova's president Maia Sandu recently stated in a podcast that she would vote in favor of her country joining Romania in the event of a referendum. Her comments have caused outrage.",
-      "url": "https://www.dw.com/en/does-moldovan-president-maia-sandu-really-want-unification-with-romania/a-75523793?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 15 Jan 2026 19:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "'It's like a road closure' - Uganda's president on shutting down the internet as his country votes",
       "description": "A church service at Nakasero State House marks the end of a frenetic election cycle.",
       "url": "https://news.sky.com/story/its-like-a-road-closure-ugandas-president-on-shutting-down-the-internet-as-his-country-votes-in-election-13494517",
@@ -913,10 +933,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
-      "description": "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements.",
-      "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 02:49:01 GMT",
+      "title": "Opposition supporters killed in overnight clashes as Uganda president takes election lead",
+      "description": "President Museveni has about 75% of the vote with results in from more than half of all polling stations.",
+      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 13:22:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Man accused of murdering woman and toddler in Munich car attack goes on trial",
+      "description": "The Afghan suspect is accused of killing a 37-year-old woman and her two-year-old daughter.",
+      "url": "https://www.bbc.com/news/articles/cx2xpz559neo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 11:27:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -933,10 +963,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What happens in space during a medical emergency?",
-      "description": "BBC science correspondent Pallab Ghosh explains what happens if an astronaut gets ill in space.",
-      "url": "https://www.bbc.com/news/videos/c99kmgzp1jro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 20:10:58 GMT",
+      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
+      "description": "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements.",
+      "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 02:49:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -947,16 +977,6 @@
       "description": "Unsettled forward Mohamed Salah is set to return to Liverpool on Sunday, once his AFCON duty with Egypt comes to an end.",
       "url": "https://www.aljazeera.com/sports/2026/1/16/slot-happy-to-welcome-salah-back-at-liverpool-after-afcon?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 11:01:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Olympic hopes double as act of defiance in war-ravaged Ukraine",
-      "description": "At a war-ravaged sports centre in Ukraine, the hope for Olympic glory persists as athletes defy danger while training.",
-      "url": "https://www.aljazeera.com/sports/2026/1/16/olympic-hopes-double-as-act-of-defiance-in-war-ravaged-ukraine?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 10:13:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -983,6 +1003,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Brazil’s Bolsonaro finds novel way to reduce 27-year sentence: reading books",
+      "description": "Former president convicted for coup plot to take advantage of law that knocks four days off jail term for each book read Jair Bolsonaro’s lawyers appear to have been reading up on the country’s penal code and have found a way to help their client reduce the 27-year prison sentence he received last year for plotting a coup: reading books. There is only one problem: the former far-right Brazilian president has never been known as a bibliophile. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/16/brazil-jair-bolsonaro-reduce-sentence-reading-books",
+      "published": "Fri, 16 Jan 2026 13:19:39 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "South Korea sentences ex-president to five years in first martial law verdict",
       "description": "Yoon Suk Yeol’s conviction for obstructing own arrest separate from main trial that could lead to death penalty A South Korean court has sentenced former president Yoon Suk Yeol to five years in prison for mobilising presidential security forces to block his own arrest and abusing his powers. It is the first judicial ruling linked to the events surrounding his failed martial law declaration in December 2024. The ruling is separate from Yoon’s main insurrection trial, where prosecutors earlier this week sought the death penalty and a verdict is due next month. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/16/south-korea-sentences-ex-president-yoon-suk-yeol-five-years-first-martial-law-verdict",
@@ -1003,6 +1033,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Can South Korea turn the page with Yoon Suk Yeol in prison?",
+      "description": "Former South Korean President Yoon Suk Yeol has been sentenced to five years in the first criminal case linked to his shock declaration of martial law. Many Koreans seem eager to put the crisis behind them.",
+      "url": "https://www.dw.com/en/can-south-korea-turn-the-page-with-yoon-suk-yeol-in-prison/a-75537944?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 16 Jan 2026 13:14:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "How European cinema is stealing Hollywood's spotlight",
       "description": "As Hollywood doubles down on sequels, the contenders for the European Film Awards feature bold, political works that are challenging audiences and creating buzz far beyond the continent.",
       "url": "https://www.dw.com/en/how-european-cinema-is-stealing-hollywood-s-spotlight/a-75486301?maca=en-rss-en-all-1573-xml-mrss",
@@ -1018,6 +1058,16 @@
       "url": "https://www.dw.com/en/livestream-4-award-winning-filmmakers-discuss-risk-taking-cinema/a-75518344?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 07:20:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US claims Iran halts executions of protesters amid crackdown on dissent",
+      "description": "The United States on Thursday said Iran halted 800 executions of protesters under pressure from President Donald Trump, after Gulf allies appeared to pull him back from military action over Tehran's deadly crackdown on demonstrations. Iran was shaken over the last week by some of the biggest anti-government protests in the history of the Islamic republic, although the demonstrations appear to have diminished over the last few days in the face of repression and a week-long internet blackout.",
+      "url": "https://www.france24.com/en/us-claims-iran-halts-executions-of-protesters-amid-crackdown-on-dissent",
+      "published": "Fri, 16 Jan 2026 13:00:39 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1155,6 +1205,16 @@
     {
       "title": "Venezuela's opposition leader Machado presents Trump with her Nobel Peace Prize",
       "description": "Less than two weeks after the US operation that led to Venezuelan President Nicolas Maduro's capture, the country's opposition leader Maria Corina Machado presented Donald Trump with her Nobel Peace Prize. The move comes as the US president has repeatedly said he does not think she is fit to lead Venezuela. #venezuela #trump #nobel",
+      "url": "https://www.france24.com/en/video/20260116-venezuela-s-opposition-leader-machado-presents-trump-with-her-nobel-peace-prize-1",
+      "published": "Fri, 16 Jan 2026 13:24:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Venezuela's opposition leader Machado presents Trump with her Nobel Peace Prize",
+      "description": "Less than two weeks after the US operation that led to Venezuelan President Nicolas Maduro's capture, the country's opposition leader Maria Corina Machado presented Donald Trump with her Nobel Peace Prize. The move comes as the US president has repeatedly said he does not think she is fit to lead Venezuela. #venezuela #trump #nobel",
       "url": "https://www.france24.com/en/video/20260116-venezuela-s-opposition-leader-machado-presents-trump-with-her-nobel-peace-prize",
       "published": "Fri, 16 Jan 2026 11:58:59 GMT",
       "source": "France24",
@@ -1193,16 +1253,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
-      "description": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money.",
-      "url": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 20:19:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Bulgaria set for another snap election after protests oust government",
       "description": "President Radev expected to appoint caretaker cabinet, set a date for vote.",
       "url": "https://www.aljazeera.com/news/2026/1/16/bulgaria-set-for-another-snap-election-after-protests-oust-government?traffic_source=rss",
@@ -1227,16 +1277,6 @@
       "description": "Israel’s recognition of Somaliland has backfired and reinforced Somalia’s territorial integrity.",
       "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 11:10:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Prison rights, Elbit’s loss: How the Palestine Action hunger strike ‘won’",
-      "description": "As critically ill activists begin re-feeding in prison, campaigners and an MP believe the government made 'concessions'.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/prison-rights-elbits-loss-how-the-palestine-action-hunger-strike-won?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 10:19:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1373,16 +1413,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "ICE deputy director resigns from agency to run for Congress",
-      "description": "Madison Sheahan, the deputy director of U.S. Immigration and Customs Enforcement, has resigned to run for Congress in Ohio's 9th Congressional District.",
-      "url": "https://www.foxnews.com/us/ice-deputy-director-resigns-agency-run-congress",
-      "published": "Thu, 15 Jan 2026 10:00:31 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump's pick for Iceland ambassador apologizes for joking about Arctic nation becoming 52nd state",
       "description": "Former Rep. Billy Long, who was nominated by President Donald Trump to be ambassador to Iceland, apologized after privately joking that the island would become the \"52nd state.\"",
       "url": "https://www.foxnews.com/world/trumps-pick-iceland-ambassador-apologizes-joking-about-arctic-nation-becoming-52nd-state",
@@ -1424,7 +1454,7 @@
     },
     {
       "title": "Ohio dentist murders gun match a ‘big problem’ for surgeon ex: Defense attorney",
-      "description": "Evidence allegedly links gun from accused surgeon Michael McKee's property to Ohio dentist double murder, creating \"big problem\" for defense.",
+      "description": "Evidence allegedly links gun from accused surgeon Michael McKee's property to Ohio dentist double murder, creating a \"big problem\" for defense.",
       "url": "https://www.foxnews.com/us/ohio-dentist-murders-gun-match-big-problem-surgeon-ex-defense-attorney",
       "published": "Fri, 16 Jan 2026 07:00:05 -0500",
       "source": "Fox News US",
@@ -1463,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump to discuss Venezuela’s future with Machado after Maduro’s capture",
-      "description": "Venezuelan opposition leader and Nobel prize winner had been sidelined by White House after US seized Maduro Donald Trump will host María Corina Machado , the Venezuelan opposition leader and 2025 Nobel peace prize winner, at the White House on Thursday for high-stakes talks on the oil-rich nation’s future following the US capture of Nicolás Maduro . Many in Venezuela and abroad had expected Machado to take charge after an elite US military team seized Maduro in a pre-dawn raid on 3 January and transported him to a New York City jail . Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
-      "published": "Thu, 15 Jan 2026 11:07:26 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Massachusetts town faces lawsuit for allowing criminal immigrant, sex offender to renew business license",
       "description": "A teen worker allegedly assaulted at Hillers Pizza sues town officials, claiming they ignored offender's criminal history when renewing a business license.",
       "url": "https://www.foxnews.com/us/massachusetts-town-faces-lawsuit-allowing-criminal-immigrant-sex-offender-renew-business-license",
@@ -1486,17 +1506,17 @@
       "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
       "description": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties.",
       "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 12:34:34 GMT",
+      "published": "Fri, 16 Jan 2026 13:11:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-      "description": "Trump thanked Venezuelan opposition leader María Corina Machado, calling it \"a wonderful gesture of mutual respect\".",
-      "url": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 08:14:18 GMT",
+      "title": "US Congress members visit Denmark as Trump's pressure on Greenland rises",
+      "description": "The visit comes after high-level talks in Washington failed to dissuade Trump from his plan to annex the semi-autonomous Danish territory.",
+      "url": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 12:37:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1507,6 +1527,16 @@
       "description": "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024.",
       "url": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 06:14:25 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+      "description": "The pair discussed economic opportunities and preventing Venezuela becoming a place for \"America's adversaries\", a US official said.",
+      "url": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 13:28:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1533,20 +1563,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Museveni takes strong lead in early results of Uganda presidential race",
-      "description": "President Museveni has about 76% of the vote with results in from nearly half of all polling stations.",
-      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 11:07:27 GMT",
+      "title": "'Baby, don't move': Australian woman wakes to find massive python on her chest",
+      "description": "Rachel Bloor had assumed the heavy weight on her chest was her dog.",
+      "url": "https://www.bbc.com/news/articles/cdex34930r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 02:32:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "'Baby, don't move': Australian woman wakes to find massive python on her chest",
-      "description": "Rachel Bloor had assumed the heavy weight on her chest was her dog.",
-      "url": "https://www.bbc.com/news/articles/cdex34930r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 02:32:14 GMT",
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "description": "Trump thanked Venezuelan opposition leader María Corina Machado, calling it \"a wonderful gesture of mutual respect\".",
+      "url": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Jan 2026 08:14:18 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1563,21 +1593,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "How realistic is India's quest for magnets made of rare earths",
-      "description": "India has a $800m plan to make rare earth magnets, aiming to reduce dependence on Chinese imports - but can it work?",
-      "url": "https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 01:08:55 GMT",
-      "source": "BBC News",
+      "title": "The Unknown: A Filmmaker’s Search for Lost Connections",
+      "description": "For documentary filmmakers, human connection is everything, but what happens when nobody will talk to you?",
+      "url": "https://www.aljazeera.com/video/digidocs/2026/1/16/aje-onl-digidocs_theunknown-150126?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 13:00:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Troops and vessels from European Nato allies arrive in Greenland",
-      "description": "The limited deployment involves Germany, France, Sweden, Norway, Finland, the Netherlands and the UK.",
-      "url": "https://www.bbc.com/news/videos/c0q4lplxzzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 21:41:48 GMT",
-      "source": "BBC News",
+      "title": "Machado gives her Nobel Peace Prize to Trump",
+      "description": "The White House has released a photograph of Venezuela's Machado presenting Trump with the Nobel Peace Prize.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/machado-gives-her-nobel-peace-prize-to-trump?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 12:31:55 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1617,26 +1647,6 @@
       "description": "The economic model championed by figures like Musk makes raising children economically irrational for most households.",
       "url": "https://www.aljazeera.com/opinions/2026/1/16/billionaires-demand-more-babies-but-make-parenthood-unaffordable?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 10:59:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Regained momentum sets Yemen government’s eyes on Houthis in the north",
-      "description": "The STC's collapse leads to Yemeni government strides in the south, but Houthis remain defiant in the north.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 09:27:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Alcaraz-Sinner tennis rivalry is all the hype before Australian Open 2026",
-      "description": "Alcaraz and Sinner give a glimpse of their relationship and enthrall fans in South Korea before the Grand Slam season.",
-      "url": "https://www.aljazeera.com/sports/2026/1/16/alcaraz-sinner-tennis-rivalry-is-all-the-hype-before-australian-open-2026?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 09:09:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1983,26 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ligue 1 clubs PSG and Lille look to bounce back after French Cup defeats",
-      "description": "Following their disappointing exits from the Coupe de France in round 16, both Paris Saint-Germain and Lille are eager to bounce back in the Ligue 1. When asked about any doubts he might have about his team, PSG coach Luis Enrique insisted he has complete confidence in his players.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260116-football-ligue-1-clubs-psg-and-lille-look-to-bounce-back-after-french-cup-defeats",
-      "published": "Fri, 16 Jan 2026 06:58:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada agrees to cut tariffs on Chinese EVs in a break with US",
-      "description": "Canada agreed to slash its tariffs on Chinese electric cars in return for Beijing lowering tariffs on Canadian farm products, Prime Minister Mark Carney announced Friday during a visit to China. Following a period of testy relations, the two countries have sought to rebuild ties after US President Donald Trump aggressively raised tariffs on Canadian products.",
-      "url": "https://www.france24.com/en/asia-pacific/20260116-canada-mark-carney-china-xi-jinping-beijing-talks",
-      "published": "Fri, 16 Jan 2026 04:15:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize",
       "description": "The Nobel Peace Prize means a lot to Maria Corina Machado but, clearly, giving it away means even more.",
       "url": "https://news.sky.com/story/venezuelas-machado-gave-trump-her-gold-medal-in-pursuit-of-a-greater-prize-13494861",
@@ -2148,6 +2138,16 @@
       "url": "https://abcnews.go.com/International/wireStory/european-troops-arrive-greenland-talks-us-highlight-disagreement-129233667",
       "published": "Thu, 15 Jan 2026 07:36:23 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Photos reveal Virginia nanny took slain wife’s place in master bedroom weeks after love triangle murders",
+      "description": "Investigators testify in Brendan Banfield murder trial as ex-IRS agent accused of killing wife Christine and Joseph Ryan in Virginia. Prosecutors say he moved mistress into bedroom.",
+      "url": "https://www.foxnews.com/us/photos-reveal-virginia-nanny-took-slain-wifes-place-master-bedroom-weeks-after-love-triangle-murders",
+      "published": "Fri, 16 Jan 2026 08:00:12 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
