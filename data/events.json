@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T22:46:47.742778Z",
+  "last_updated": "2026-01-16T23:21:41.727524Z",
   "event_count": 222,
   "events": [
     {
@@ -290,16 +290,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran holds more funerals after deadly unrest",
-      "description": "Footage shows Iranians at funerals in Isfahan and Hamadan for those killed in protests authorities have called “riots.\"",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 15:38:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -898,6 +888,16 @@
       "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 02:49:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
+      "description": "Nothing changes on ground for Palestinians needing ‘food, shelter, safety’, who see Trump’s plan as ‘distant, abstract'.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 22:17:55 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1613,6 +1613,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump to pardon former Puerto Rico Governor Wanda Vazquez after plea deal",
+      "description": "Vazquez accepted a plea deal in 2025 after she was accused of participating in a bribery scheme while in office.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/trump-to-pardon-former-puerto-rico-governor-wanda-vazquez-after-plea-deal?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 22:43:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’",
+      "description": "Former UK prime minister's role on Trump-led Gaza oversight committee expected to spur widespread condemnation.",
+      "url": "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss",
+      "published": "Fri, 16 Jan 2026 22:21:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "‘Profoundly pro-American’: Machado outlines a vision for Venezuela’s future",
       "description": "Machado said the interim government of Delcy Rodriguez would do the 'dirty work' of assuring a democratic transition.",
       "url": "https://www.aljazeera.com/news/2026/1/16/profoundly-pro-american-machado-outlines-a-vision-for-venezuelas-future?traffic_source=rss",
@@ -1667,26 +1687,6 @@
       "description": "Canada will cut its 100% tariff on Chinese electric vehicles in exchange for lower Chinese duties on Canadian farm expor",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 17:33:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
-      "description": "After seizures, sanctions and collapse, can Venezuela ever win back Big Oil’s trust?",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 15:27:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Five pro-Palestinian activists plead not guilty over UK airbase break-in",
-      "description": "The activists ⁠pleaded not guilty to damaging property for a purpose prejudicial to the interests or safety of the UK.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/five-pro-palestinian-activists-plead-not-guilty-over-uk-air-base-break-in?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 15:18:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1973,9 +1973,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Greenland: Trump signals tariffs on nations that oppose goal",
+      "title": "Trump signals tariffs on nations that oppose Greenland goal",
       "description": "Donald Trump said he may put a tariff on countries that \"don't go along with Greenland\" as he reiterated his demand for US control of the Danish territory. DW has the latest.",
-      "url": "https://www.dw.com/en/greenland-trump-signals-tariffs-on-nations-that-oppose-goal/live-75533548?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/trump-signals-tariffs-on-nations-that-oppose-greenland-goal/live-75533548?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 10:31:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
