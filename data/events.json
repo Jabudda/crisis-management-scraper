@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T04:53:00.770977Z",
+  "last_updated": "2026-01-17T05:21:48.509475Z",
   "event_count": 223,
   "events": [
     {
@@ -308,6 +308,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/jan/17/filipino-migrant-workers-death-in-nsw-referred-to-federal-police",
       "published": "Sat, 17 Jan 2026 04:26:13 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Federal judge restricts ICE agents amid ongoing Minneapolis area protests",
+      "description": "Minnesota judge Kate Menendez bars ICE and Border Patrol from using tear gas against peaceful protesters during Operation Metro Surge in Minneapolis following deadly shooting of Renee Good.",
+      "url": "https://www.foxnews.com/us/federal-judge-restricts-ice-agents-amid-ongoing-minneapolis-area-protests-over-fatal-shooting",
+      "published": "Sat, 17 Jan 2026 00:00:42 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -1516,7 +1526,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-17T04:52:36.274587Z",
+      "published": "2026-01-17T05:21:27.522001Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1558,16 +1568,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Massachusetts town faces lawsuit for allowing criminal immigrant, sex offender to renew business license",
-      "description": "A teen worker allegedly assaulted at Hillers Pizza sues town officials, claiming they ignored offender's criminal history when renewing a business license.",
-      "url": "https://www.foxnews.com/us/massachusetts-town-faces-lawsuit-allowing-criminal-immigrant-sex-offender-renew-business-license",
-      "published": "Thu, 15 Jan 2026 19:28:12 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1643,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Myanmar military-backed party leads after second round of election voting",
+      "description": "Critics, including human rights and opposition groups, say election is neither free nor fair.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/myanmar-military-backed-party-leads-after-second-round-of-election-voting?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 05:03:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump to pardon former Puerto Rico Governor Wanda Vazquez after plea deal",
       "description": "Vazquez accepted a plea deal in 2025 after she was accused of participating in a bribery scheme while in office.",
       "url": "https://www.aljazeera.com/news/2026/1/16/trump-to-pardon-former-puerto-rico-governor-wanda-vazquez-after-plea-deal?traffic_source=rss",
@@ -1707,16 +1717,6 @@
       "description": "The EU and the Mercosur trading bloc of five Latin American nations seal a sweeping trade pact.",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/16/eu-latin-america-trade-deal-who-wins-2?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 17:41:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada breaks with US on China tariffs",
-      "description": "Canada will cut its 100% tariff on Chinese electric vehicles in exchange for lower Chinese duties on Canadian farm expor",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 17:33:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1876,7 @@
       "title": "M 6.0 - 295 km W of Bandon, Oregon",
       "description": "PAGER - GREEN ShakeMap - I DYFI? - IV Time 2026-01-16 03:25:52 UTC 2026-01-16 03:25:52 UTC at epicenter Location 43.543°N 128.009°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rq0d",
-      "published": "2026-01-17T03:51:58.501Z",
+      "published": "2026-01-17T05:18:52.953Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
