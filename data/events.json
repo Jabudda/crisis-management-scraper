@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-17T09:22:02.414108Z",
-  "event_count": 222,
+  "last_updated": "2026-01-17T09:42:14.210832Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -220,16 +220,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Predators under threat: Brazil's jaguars find shelter in nature reserve",
-      "description": "In Brazil, where cattle ranching is a major industry, jaguars are seen as a threat and are hunted to prevent attacks on livestock. Along with habitat loss, the illegal killing of jaguars has pushed the species to the brink of extinction. According to the World Wild Fund (WWF), there are only about 173,000 jaguars left in the wild. But one Brazilian nature reserve is giving these big cats a place to recover and thrive. Our France 2 colleagues report.",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260116-predators-under-threat-brazil-s-jaguars-find-shelter-in-nature-reserve",
-      "published": "Fri, 16 Jan 2026 16:02:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -813,26 +803,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Syria live news: Army takes control of Deir Hafer as SDF pulls out",
-      "description": "Army says its forces are working to clear the city of mines and other war remnants.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran says 3,000 people arrested as antigovernment protests subside",
-      "description": "Internet access remains cut off as the streets of Tehran, other Iranian cities are largely calm after widescale unrest.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 21:28:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -903,6 +873,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out",
+      "description": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russia-Ukraine war: List of key events, day 1,423",
       "description": "These are the key developments from day 1,423 of Russia’s war on Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/1/17/russia-ukraine-war-list-of-key-events-day-1423?traffic_source=rss",
@@ -948,6 +928,16 @@
       "url": "https://www.theguardian.com/world/2026/jan/16/south-korea-sentences-ex-president-yoon-suk-yeol-five-years-first-martial-law-verdict",
       "published": "Fri, 16 Jan 2026 09:51:58 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "How European cinema is stealing Hollywood's spotlight",
+      "description": "As Hollywood doubles down on sequels, the contenders for the European Film Awards feature bold, political works that are challenging audiences and creating buzz far beyond the continent.",
+      "url": "https://www.dw.com/en/how-european-cinema-is-stealing-hollywood-s-spotlight/a-75486301?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 09:08:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1513,6 +1503,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-17T09:41:50.235548Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Denmark and U.S. to form working group to talk about U.S. security concerns",
       "description": "After meeting with President Trump's top aides, Danish officials say they will form a working group to talk through U.S. security concerns about control of Greenland.",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5677517/denmark-and-u-s-to-form-working-group-to-talk-about-u-s-security-concerns",
@@ -1543,10 +1543,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Syrian army announces full control of Deir Hafer after SDF withdrawal",
-      "description": "Government forces enter city in Aleppo governorate after SDF fighters pull out.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/syrian-army-warns-of-strikes-against-kurdish-led-sdf-east-of-aleppo?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 21:19:01 +0000",
+      "title": "Photos: Syrian army enters Deir Hafer after SDF withdrawal",
+      "description": "Government troops enter the city earlier controlled by the SDF, marking a shift in territorial control in Aleppo region.",
+      "url": "https://www.aljazeera.com/gallery/2026/1/17/photos-syrian-army-enters-deir-hafer-after-sdf-withdrawal?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:08:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "LIVE: Manchester United vs Manchester City – Premier League",
+      "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the derby at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1558,6 +1568,16 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Syrian forces enter Deir Hafer near Aleppo after Kurdish fighters agree to withdraw",
+      "description": "Syrian government forces on Saturday entered Deir Hafer, east of Aleppo, after Kurdish-led fighters agreed to evacuate the town in a move to avoid further confrontation. Last week, the Syrian army drove Kurdish forces out of Aleppo following deadly clashes.",
+      "url": "https://www.france24.com/en/middle-east/20260117-syria-forces-enter-deir-hafer-near-aleppo-after-kurdish-fighters-agree-withdraw",
+      "published": "Sat, 17 Jan 2026 09:24:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1957,16 +1977,6 @@
       "description": "Ugandan President Yoweri Museveni holds a strong lead in early results, while his challenger Bobi Wine says security forces have effectively confined him to his home.",
       "url": "https://www.dw.com/en/uganda-election-museveni-takes-early-lead/a-75540240?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 14:16:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Torture, false arrests: Ukrainian women in Russian prisons",
-      "description": "Some 20,000 Ukrainian civilians are in Russian prisons and rights activists say more than 2,000 are female. Some of the women who have managed to get out jail are now speaking out about what they experienced there.",
-      "url": "https://www.dw.com/en/torture-false-arrests-ukrainian-women-in-russian-prisons/a-75510365?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Jan 2026 12:19:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
