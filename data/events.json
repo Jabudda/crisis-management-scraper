@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T15:21:17.507853Z",
+  "last_updated": "2026-01-17T15:42:10.046793Z",
   "event_count": 222,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Will AI kickstart a new age of nuclear power?",
+      "description": "The rapidly expanding use of artificial intelligence worldwide is putting electrical grids under huge pressure and many believe that, to meet that need without contributing to the climate crisis, a full-scale expansion of nuclear energy is essential.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166768",
+      "published": "Sat, 17 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -217,16 +227,6 @@
       "description": "As nationwide protests in Iran appear to ease after nearly three weeks of unrest and bloodshed, a senior UN official called on Thursday for action to prevent further escalation.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166773",
       "published": "Thu, 15 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "World News in Brief: Escalating fighting in Sudan, displacement in Syria’s Aleppo, $1.5 billion appeal for South Sudan",
-      "description": "More civilians in Sudan continue to be killed and displaced as fighting escalates in multiple parts of the country, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166756",
-      "published": "Tue, 13 Jan 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 21,
@@ -523,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Does the US need to ‘own’ Greenland to build Trump's Golden Dome missile shield?",
-      "description": "US President Donald Trump has described ownership of Greenland as “vital” to his planned missile defence shield, doubling down on the claim that the sprawling Danish territory is critical to US national security. But experts say Trump's costly Golden Dome can be built without seizing the world’s largest island.",
-      "url": "https://www.france24.com/en/americas/20260117-does-trump-need-own-greenland-to-build-his-golden-dome-missile-shield",
-      "published": "Sat, 17 Jan 2026 06:06:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "East Jerusalem: Forced shutdown of UN clinic signals escalating disregard for international law",
       "description": "The temporary closure of a UN-run health centre in East Jerusalem is the latest phase in “a pattern of deliberate disregard” for international law, the head of the UN agency that assists Palestine refugees, UNRWA, said on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166760",
@@ -710,16 +700,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Syria live news: Army enters east Aleppo towns as clashes with SDF reported",
-      "description": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -903,6 +883,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Senegal hope Morocco final will not be Mane’s AFCON farewell",
+      "description": "Former Liverpool forward Sadio Mane announced after the semifinal that he would not appear at another AFCON for Senegal.",
+      "url": "https://www.aljazeera.com/sports/2026/1/17/senegal-hope-morocco-final-will-not-be-manes-afcon-farewall?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 15:16:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -933,6 +923,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Uganda's longtime leader declared winner in disputed vote",
+      "description": "Museveni claims victory in Uganda's contested election as opposition leader Bobi Wine goes into hiding amid chaos, violence and accusations of fraud.",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5680817/uganda-museveni-wine-election-disputed-election",
+      "published": "Sat, 17 Jan 2026 10:18:38 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "How European cinema is stealing Hollywood's spotlight",
       "description": "As Hollywood doubles down on sequels, the contenders for the European Film Awards feature bold, political works that are challenging audiences and creating buzz far beyond the continent.",
       "url": "https://www.dw.com/en/how-european-cinema-is-stealing-hollywood-s-spotlight/a-75486301?maca=en-rss-en-all-1573-xml-mrss",
@@ -958,6 +958,16 @@
       "url": "https://www.dw.com/en/wef-donald-trump-set-to-dominate-davos-2026/a-75509182?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 16:49:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump's erratic trade policies are pushing US partners towards China",
+      "description": "Key US trade partners are responding to President Donald Trump’s often belligerent and unpredictable policies by looking to take their business elsewhere. Canada's decision on Friday to cut tariffs on Chinese electric vehicles is the latest example of how Trump's erratic trade policies are pushing allies into the arms of America's greatest economic rival.",
+      "url": "https://www.france24.com/en/americas/20260117-trump-erratic-trade-policies-pushing-us-partners-towards-china",
+      "published": "Sat, 17 Jan 2026 15:22:31 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1183,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘Board of Peace’",
+      "description": "The board will supervise the temporary governance of Gaza, which has been under a fragile ceasefire since October.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/trump-asks-turkiyes-erdogan-egypts-el-sisi-to-join-gaza-board-of?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 15:08:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iran restores SMS as phased rollback of internet blackout begins",
       "description": "Officials promise a gradual return of internet connectivity after weeks of deadly protests.",
       "url": "https://www.aljazeera.com/news/2026/1/17/iran-restores-sms-as-phased-rollback-of-internet-blackout-begins?traffic_source=rss",
@@ -1233,31 +1253,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "X outages reported by thousands of users primarily in US",
-      "description": "X was back up and running after about an hour after users began reporting connectivity issues. The site was also down briefly earlier this week.",
-      "url": "https://www.dw.com/en/x-outages-reported-by-thousands-of-users-primarily-in-us/a-75542533?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Jan 2026 16:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Ugandan opposition denounces army raid on party leader Bobi Wine",
       "description": "The party of Uganda's main opposition leader Bobi Wine denounced a raid by security forces on his home on Friday amid reports Wine has been cut off from all communication. The raid comes just before the announcement of the results of the presidential election expected on Saturday.",
       "url": "https://www.france24.com/en/africa/20260117-ugandan-army-denies-seizing-opposition-leader-bobi-wine-amid-vote-count",
       "published": "Sat, 17 Jan 2026 07:21:57 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'People power' opposition supporters shout as voting count in Uganda election turns violent",
-      "description": "Heavily-armed military officers yell at us to kneel on the ground in front of the shuttered shop fronts facing Kibuye roundabout in central Kampala as the jolting sounds of gunfire and stun grenades ring out.",
-      "url": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174",
-      "published": "Fri, 16 Jan 2026 20:35:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1433,16 +1433,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Minneapolis mayor says reported DOJ probe ‘intimidation’ amid ICE raids",
-      "description": "Reports of Trump administration investigating top Democrats in Minnesota as violent ICE crackdown continues.",
-      "url": "https://www.aljazeera.com/news/2026/1/17/minneapolis-mayor-says-reported-doj-probe-intimidation-amid-ice-raids?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 07:40:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1466,7 +1456,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-17T15:20:56.267125Z",
+      "published": "2026-01-17T15:41:47.354505Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1493,6 +1483,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Carrick off to perfect start as United beat City 2-0 in Manchester derby",
+      "description": "United kick off interim manager ‍Michael Carrick's ‍second stint in charge with an impressive 2-0 derby victory.",
+      "url": "https://www.aljazeera.com/sports/2026/1/17/carrick-off-to-perfect-start-as-united-beat-city-2-0-in-manchester-derby?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 14:53:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Photos: Syrian army enters Deir Hafer after SDF withdrawal",
       "description": "Government troops enter the city earlier controlled by the SDF, marking a shift in territorial control in Aleppo region.",
       "url": "https://www.aljazeera.com/gallery/2026/1/17/photos-syrian-army-enters-deir-hafer-after-sdf-withdrawal?traffic_source=rss",
@@ -1503,8 +1503,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Manchester United vs Manchester City 3-0: Premier League",
-      "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the derby at Old Trafford.",
+      "title": "Manchester United vs Manchester City 2-0: Premier League – as it happened",
+      "description": "All the updates as Bryan Mbeumo and Patrick Dorgu secure a morale-boosting home derby victory for Man United.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss",
       "published": "Sat, 17 Jan 2026 09:00:00 +0000",
       "source": "Al Jazeera",
@@ -1713,16 +1713,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "AFCON, Colonialism and Lumumba",
-      "description": "A Congolese fan stood for 90 minutes to honour Patrice Lumumba, a man who stood for independence and paid for it",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/1/17/afcon-colonialism-and-lumumba?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 07:55:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1923,11 +1913,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland",
-      "description": "Presidents James Monroe and Theodore Roosevelt helped shape a policy that rationalizes U.S. intervention in Latin America and elsewhere. But Trump has brought that idea to a whole new level.",
-      "url": "https://www.npr.org/2026/01/15/nx-s1-5675874/trump-monroe-doctrine-roosevelt-latin-america-intervention",
-      "published": "Thu, 15 Jan 2026 05:00:00 -0500",
-      "source": "NPR World News",
+      "title": "Five graphics that show Greenland’s importance to Trump",
+      "description": "Its entire population would fit in a large sports stadium but Greenland’s current presence on the geopolitical stage is huge. DW takes a look at the reasons it's so coveted — from natural resources to climate change.",
+      "url": "https://www.dw.com/en/five-graphics-that-show-greenland-s-importance-to-trump/a-75547831?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 15:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2047,6 +2037,16 @@
       "description": "Even though it's high summer in the Antarctic, the ocean around the Rothera research station is -1 Celsius.",
       "url": "https://news.sky.com/story/antarctica-the-tiny-change-that-could-tip-the-balance-at-the-end-of-the-world-13494858",
       "published": "Fri, 16 Jan 2026 01:01:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Machado gave Trump her Nobel Peace Prize medal in pursuit of a greater prize",
+      "description": "The Nobel Peace Prize means a lot to Maria Corina Machado but, clearly, giving it away means even more.",
+      "url": "https://news.sky.com/story/venezuelas-machado-gave-trump-her-gold-medal-in-pursuit-of-a-greater-prize-13494861",
+      "published": "Fri, 16 Jan 2026 03:44:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
