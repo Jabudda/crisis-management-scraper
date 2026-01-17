@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-17T07:20:38.395255Z",
-  "event_count": 222,
+  "last_updated": "2026-01-17T07:40:15.993694Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -806,7 +806,7 @@
       "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
       "description": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
       "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 06:59:28 GMT",
+      "published": "Sat, 17 Jan 2026 07:22:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -848,16 +848,6 @@
       "url": "https://www.dw.com/en/not-just-trade-the-eu-mercosur-megadeal/a-75507665?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 17 Jan 2026 06:21:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "New seasons, new obsessions: January's must-watch TV series",
-      "description": "A new year, new seasons and no shortage of must-see television: January's TV series show on arts24 dives into the biggest returns and boldest new chapters on the small screen, guided by arts24 TV critic Dheepthika Laurent and presented by Eve Jackson. We kick off in Paris with the world premiere of \"Bridgerton\" season four. This new chapter centres on Benedict Bridgerton, the family's free-spirited second son, played by Luke Thompson, whose Cinderella-inspired romance with Sophie – portrayed by Australian actress Yerin Ha – opens up the \"downstairs\" world for the first time.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260116-new-seasons-new-obsessions-january-s-must-watch-tv-series",
-      "published": "Fri, 16 Jan 2026 15:16:00 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1513,6 +1503,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-17T07:39:54.583140Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Denmark and U.S. to form working group to talk about U.S. security concerns",
       "description": "After meeting with President Trump's top aides, Danish officials say they will form a working group to talk through U.S. security concerns about control of Greenland.",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5677517/denmark-and-u-s-to-form-working-group-to-talk-about-u-s-security-concerns",
@@ -1978,6 +1978,16 @@
       "url": "https://www.dw.com/en/torture-false-arrests-ukrainian-women-in-russian-prisons/a-75510365?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 12:19:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ugandan army denies seizing opposition leader Bobi Wine amid vote count",
+      "description": "The Ugandan army on Saturday rejected claims that it had seized opposition leader Bobi Wine as the final stretch of the presidential vote count was under way. On Friday, Wine said he had been placed under house arrest, with his party later saying that he had been “forcibly taken” from his home by an army helicopter.",
+      "url": "https://www.france24.com/en/africa/20260117-ugandan-army-denies-seizing-opposition-leader-bobi-wine-amid-vote-count",
+      "published": "Sat, 17 Jan 2026 07:21:57 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
