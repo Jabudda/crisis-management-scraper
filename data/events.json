@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-17T03:23:59.827098Z",
-  "event_count": 222,
+  "last_updated": "2026-01-17T04:07:39.580406Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -290,6 +290,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US air authority warns of ‘military activities’ over Mexico, South America",
+      "description": "Warnings come as Mexico's Sheinbaum says 'compelling results' in tackling drug cartels, following Trump strike threats.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/us-air-authority-warns-of-military-activities-over-mexico-south-america?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 03:37:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -786,7 +796,7 @@
       "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
       "description": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
       "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 01:44:20 GMT",
+      "published": "Sat, 17 Jan 2026 03:37:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -797,16 +807,6 @@
       "description": "Internet access remains cut off as the streets of Tehran, other Iranian cities are largely calm after widescale unrest.",
       "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 21:28:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "X to block Grok AI’s undressing feature",
-      "description": "Al Jazeera's Linh Nguyen explains the global outrage of Elon Musk's AI chatbot Grok.",
-      "url": "https://www.aljazeera.com/video/digital-dilemma/2026/1/16/x-to-block-grok-ais-undressing-feature?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 16:59:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1503,6 +1503,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-17T04:07:16.483536Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Denmark and U.S. to form working group to talk about U.S. security concerns",
       "description": "After meeting with President Trump's top aides, Danish officials say they will form a working group to talk through U.S. security concerns about control of Greenland.",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5677517/denmark-and-u-s-to-form-working-group-to-talk-about-u-s-security-concerns",
@@ -1856,7 +1866,7 @@
       "title": "M 6.0 - 295 km W of Bandon, Oregon",
       "description": "PAGER - GREEN ShakeMap - I DYFI? - IV Time 2026-01-16 03:25:52 UTC 2026-01-16 03:25:52 UTC at epicenter Location 43.543°N 128.009°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rq0d",
-      "published": "2026-01-17T02:09:55.554Z",
+      "published": "2026-01-17T03:51:58.501Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
