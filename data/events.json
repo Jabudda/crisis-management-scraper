@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-17T14:20:06.272633Z",
-  "event_count": 222,
+  "last_updated": "2026-01-17T14:43:13.550240Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -368,16 +368,6 @@
       "url": "https://www.npr.org/2026/01/16/g-s1-106345/iran-protests-cleric-ayatollah-ahmad-khatami-trump-threat",
       "published": "Fri, 16 Jan 2026 19:44:18 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "'Hands off Greenland': Thousands protest in Denmark against Trump's land grab",
-      "description": "Thousands are expected to demonstrate across Denmark and Greenland on Saturday against US President Donald Trump’s plans to take over the Arctic island. The demonstrations, organised by Greenlandic groups, follow Trump's warning Friday that he \"may put a tariff\" on countries that oppose his plans to acquire the autonomous territory of Denmark.",
-      "url": "https://www.france24.com/en/europe/20260117-large-crowds-expected-for-hands-off-greenland-protests",
-      "published": "Sat, 17 Jan 2026 05:51:10 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -953,6 +943,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "‘Playing straight into Russia’s hands’: Expert warns Trump’s Greenland push strains NATO",
+      "description": "President Donald Trump’s pursuit of Greenland is creating a rift between the US and other NATO allies, fracturing the alliance and “playing straight into Russia’s hands,” said Jean-François Bélanger, assistant professor at the Institute for Military Operations at the Royal Danish Defence College.",
+      "url": "https://www.france24.com/en/playing-straight-into-russia-s-hands-expert-warns-trump-s-greenland-push-strains-nato",
+      "published": "Sat, 17 Jan 2026 14:23:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump taps former UK PM Tony Blair for Gaza 'board of peace'",
       "description": "US President Donald Trump on Friday gave a key role in post-war Gaza to former British prime minister Tony Blair and appointed a US officer to lead a nascent security force. Trump named members of a board to help supervise Gaza that was dominated by Americans, as he promotes a controversial vision of economic development in a territory that lies in rubble after two-plus years of relentless Israeli bombardment.",
       "url": "https://www.france24.com/en/trump-taps-former-uk-pm-tony-blair-for-gaza-board-of-peace",
@@ -1183,9 +1183,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "'Hands off Greenland' protests to draw thousands",
-      "description": "Organizers have called on Danish and Greenlandic residents to join marches and rallies \"against the US illegal plans.\"",
-      "url": "https://www.dw.com/en/hands-off-greenland-protests-to-draw-thousands/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "'Hands off Greenland' protests draws thousands in Denmark",
+      "description": "Organizers have called on Danish and Greenlandic residents to join marches and rallies against US President Donald Trump's push to acquire Greenland.",
+      "url": "https://www.dw.com/en/hands-off-greenland-protests-draws-thousands-in-denmark/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 17 Jan 2026 11:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1453,6 +1453,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-17T14:42:52.025638Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Uganda's election ends with another term for Museveni",
       "description": "Yoweri Museveni has been declared the winner of the presidential election, extending his rule beyond four decades. Meanwhile, the opposition candidate has reportedly gone into hiding.",
       "url": "https://www.dw.com/en/uganda-s-election-ends-with-another-term-for-museveni/a-75547823?maca=en-rss-en-all-1573-xml-mrss",
@@ -1523,10 +1533,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ugandan leader to extend 40-year rule after being declared winner of contested poll",
+      "title": "Ugandan leader extends 40-year rule after winning contested poll",
       "description": "President Yoweri Museveni wins a seventh term, as his main rival Bobi Wine decries \"fake results\".",
       "url": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 13:44:28 GMT",
+      "published": "Sat, 17 Jan 2026 14:28:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1553,10 +1563,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "title": "From camouflage to tracksuits - Guinea's junta leader becomes civilian president",
       "description": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
       "url": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 00:43:58 GMT",
+      "published": "Sat, 17 Jan 2026 14:41:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1993,7 +2003,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Board of Peace is best option for Gazans in desperate need of stability",
+      "title": "Gaza's four layers of governance - and where Sir Tony Blair fits in",
       "description": "Like so much of the politics in the Middle East, the new governance structure for Gaza is complicated and contentious.",
       "url": "https://news.sky.com/story/board-of-peace-is-best-option-for-gazans-in-desperate-need-of-stability-13495291",
       "published": "Sat, 17 Jan 2026 11:51:00 +0000",
