@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T18:30:11.736465Z",
-  "event_count": 221,
+  "last_updated": "2026-01-18T18:52:40.606760Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -413,6 +413,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces",
+      "description": "Syria's new leaders, since toppling Bashar Assad in December 2024, have struggled to assert their full authority over the war-torn country.",
+      "url": "https://www.npr.org/2026/01/18/nx-s1-5681406/syrian-government-ceasefire-kurdish-syrian-democratic-forces",
+      "published": "Sun, 18 Jan 2026 13:39:48 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "A Saudi-UAE rift is turning two close allies into regional rivals",
       "description": "The key question now is whether the Saudi-UAE rift settles back into business as usual or accelerates into a wider realignment, says Marc Lynch, professor of political science and international affairs at George Washington University.",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5677289/a-saudi-uae-rift-is-turning-two-close-allies-into-regional-rivals",
@@ -643,16 +653,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
-      "description": "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale.",
-      "url": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 00:14:00 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Sudan’s people endure ‘horror and hell’ in war, says UN rights chief",
       "description": "United Nations rights chief Volker Turk visits Sudan and says people in country are going through 'hell'.",
       "url": "https://www.aljazeera.com/news/2026/1/18/sudans-people-endure-horror-and-hell-in-war-says-un-rights-chief?traffic_source=rss",
@@ -708,16 +708,6 @@
       "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 17:05:05 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran's supreme leader acknowledges thousands killed as pressure builds on clerical rule",
-      "description": "Iran's Supreme Leader Ayatollah Ali Khamenei acknowledged that \"thousands\" have been killed in protests that began in late December. But he put the blame on President Trump.",
-      "url": "https://www.npr.org/2026/01/16/g-s1-106345/iran-protests-cleric-ayatollah-ahmad-khatami-trump-threat",
-      "published": "Fri, 16 Jan 2026 19:44:18 -0500",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1263,16 +1253,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Machado vows to lead Venezuela 'when right time comes'",
-      "description": "The opposition leader says she has a mandate to lead the country after the US seized its president.",
-      "url": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 19:01:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Peace boards and technocrats won’t stem out Palestinian resistance",
       "description": "Any governance structure that does not take into account the Palestinian national aspirations is doomed to failure.",
       "url": "https://www.aljazeera.com/opinions/2026/1/18/peace-boards-and-technocrats-wont-stem-out-palestinian-resistance?traffic_source=rss",
@@ -1370,6 +1350,36 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "description": "The US president threatens to impose tariffs on countries that oppose his plans to take over the territory.",
+      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 18:44:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
+      "description": "The US president's latest threats will baffle the leaders of allied nations, writes the BBC's economics editor.",
+      "url": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 06:38:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
+      "description": "The first year of Donald Trump's second term has had a profound effect on Canada, from its politics and economy to the way Canadians shop and travel.",
+      "url": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 00:07:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1553,6 +1563,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-18T18:52:15.210731Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Syrian army extends control in north, seizes gas, oil fields",
       "description": "The Syrian army continues to push against the Kurdish-led Syrian Democratic Forces (SDF), reportedly capturing major oil and gas fields in eastern Syria.",
       "url": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
@@ -1643,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+      "description": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical.",
+      "url": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 17:30:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Avalanches kill eight skiers in Austrian Alps",
       "description": "A number of people have died in the Alps over the past week, as heavy snowfall has hit the region.",
       "url": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
@@ -1693,30 +1723,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "From camouflage to tracksuits - Guinea's junta leader becomes civilian president",
-      "description": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
-      "url": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 14:41:20 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
-      "description": "The pair discussed economic opportunities and preventing Venezuela becoming a place for \"America's adversaries\", a US official said.",
-      "url": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 13:28:40 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
-      "description": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties.",
-      "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 13:11:24 GMT",
+      "title": "'Young 40s': Gen Z has found a new way to mock millennials for their style in South Korea",
+      "description": "Even the iPhone, long considered the preserve of the youth, has been recast as a tacky trademark of Young 40s.",
+      "url": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 23:08:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
