@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T11:18:22.901638Z",
+  "last_updated": "2026-01-18T11:39:08.186223Z",
   "event_count": 221,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The week in pictures: ICE In Minnesota, tractors in Paris and Trump gets a second-hand Nobel",
+      "description": "Iran's protests go international amid a deadly crackdown, ICE agents terrorise US citizens in Minnesota, far-right leader Marine Le Pen appeals her embezzlement conviction, French farmers protest with tractors in Paris and US President Donald Trump gets his long-coveted Nobel Prize – albeit second-hand. FRANCE 24 looks back at the week's most striking images.",
+      "url": "https://www.france24.com/en/culture/20260118-the-week-in-pictures-ice-minnesota-tractors-paris-trump-second-hand-nobel",
+      "published": "Sun, 18 Jan 2026 11:24:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -878,16 +888,6 @@
       "url": "https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 17 Jan 2026 18:07:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Syrian troops clash with Kurdish forces as both sides trade blame for breaking withdrawal deal",
-      "description": "At least four Syrian soldiers and an unknown number of Kurdish-led troops have been killed in clashes that broke out during the agreed withdrawal of Kurdish fighters across the Euphrates River. The Syrian army says it has now entered the city of Taqba on the river's west bank, which the Kurdish-led Syrian Democratic Forces say they had not agreed to leave.",
-      "url": "https://www.france24.com/en/middle-east/20260117-syrian-troops-clash-kurdish-forces-as-sides-trade-blame-breaking-withdrawal-deal",
-      "published": "Sat, 17 Jan 2026 16:35:41 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
