@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T18:52:40.606760Z",
+  "last_updated": "2026-01-18T19:17:08.502553Z",
   "event_count": 222,
   "events": [
     {
@@ -588,6 +588,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166761",
       "published": "Wed, 14 Jan 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "‘Long Island Lolita’ survivor Mary Jo Buttafuoco says bullet in her head ‘will get me eventually’",
+      "description": "From near-fatal shooting to addiction recovery, Mary Jo Buttafuoco's journey of survival and healing is told in a new biopic, \"I Am Mary Jo Buttafuoco.\"",
+      "url": "https://www.foxnews.com/us/long-island-lolita-survivor-mary-jo-buttafuoco-bullet-head-will-get-me-eventually",
+      "published": "Sun, 18 Jan 2026 14:00:50 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1183,20 +1193,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Argentina's bungled hunt for Hitler's right-hand man Martin Bormann revealed in declassified files",
-      "description": "Files show Argentina's bungled hunt for Hitler's henchman Martin Bormann, marked by mistaken arrests and bureaucratic incompetence in the post-war era.",
-      "url": "https://www.foxnews.com/world/argentinas-bungled-hunt-hitlers-right-hand-man-martin-bormann-revealed-declassified-files",
-      "published": "Sun, 18 Jan 2026 06:00:18 -0500",
+      "title": "Ukrainian drone strikes leave hundreds of thousands without power across Russian-controlled area",
+      "description": "Ukrainian drone strikes against Russian energy infrastructure left over 200,000 without power as both sides continue targeting electrical grids.",
+      "url": "https://www.foxnews.com/world/ukrainian-drone-strikes-leave-hundreds-thousands-without-power-across-russian-controlled-area",
+      "published": "Sun, 18 Jan 2026 14:07:16 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Trump launches phase 2 of Gaza peace plan — but Hamas disarmament remains the real test",
-      "description": "Trump launches phase two of Gaza plan focusing on demilitarization Hamas and reconstruction, but experts warn disarming Hamas remains decisive challenge.",
-      "url": "https://www.foxnews.com/world/trump-launches-phase-2-gaza-peace-plan-hamas-disarmament-remains-real-test",
-      "published": "Fri, 16 Jan 2026 10:12:17 -0500",
+      "title": "Argentina's bungled hunt for Hitler's right-hand man Martin Bormann revealed in declassified files",
+      "description": "Files show Argentina's bungled hunt for Hitler's henchman Martin Bormann, marked by mistaken arrests and bureaucratic incompetence in the post-war era.",
+      "url": "https://www.foxnews.com/world/argentinas-bungled-hunt-hitlers-right-hand-man-martin-bormann-revealed-declassified-files",
+      "published": "Sun, 18 Jan 2026 06:00:18 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
@@ -1343,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Illegal alien with 24 convictions among ‘worst of the worst’ arrested in Minnesota ICE operation: DHS",
-      "description": "Federal agents arrested criminal illegal aliens as the DHS blasted Minnesota Gov. Tim Walz for allegedly protecting dangerous offenders through sanctuary policies.",
-      "url": "https://www.foxnews.com/us/illegal-alien-24-convictions-among-worst-of-worst-arrested-minnesota-ice-operation-dhs",
-      "published": "Fri, 16 Jan 2026 20:37:13 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
       "description": "The US president threatens to impose tariffs on countries that oppose his plans to take over the territory.",
       "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
@@ -1448,16 +1448,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166774",
       "published": "Fri, 16 Jan 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Cat caught on camera starting dangerous kitchen fire after jumping on stove and turning on burner",
-      "description": "Surveillance video captured the moment a cat turned on a stove burner in Garland, Texas, igniting items and causing extensive kitchen damage to the home.",
-      "url": "https://www.foxnews.com/us/cat-caught-camera-starting-dangerous-kitchen-fire-jumping-stove-turning-burner",
-      "published": "Fri, 16 Jan 2026 19:05:23 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1566,7 +1556,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-18T18:52:15.210731Z",
+      "published": "2026-01-18T19:16:44.682325Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1986,7 +1976,7 @@
       "title": "M 6.0 - 295 km W of Bandon, Oregon",
       "description": "PAGER - GREEN ShakeMap - I DYFI? - IV Time 2026-01-16 03:25:52 UTC 2026-01-16 03:25:52 UTC at epicenter Location 43.543°N 128.009°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rq0d",
-      "published": "2026-01-18T12:34:06.123Z",
+      "published": "2026-01-18T18:54:07.826Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2188,6 +2178,16 @@
       "url": "https://abcnews.go.com/International/wireStory/horses-leap-flames-pets-church-spanish-animal-rituals-129305751",
       "published": "Sat, 17 Jan 2026 20:27:59 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Florida woman arrested in murder-for-hire plot after sharing plan with undercover detective, sheriff says",
+      "description": "Florida woman, 81, allegedly tried to hire hitman to commit murder but met undercover officer instead. Elouise Leland was charged with solicitation to commit first-degree murder.",
+      "url": "https://www.foxnews.com/us/florida-woman-arrested-murder-for-hire-plot-after-sharing-plan-undercover-detective-sheriff-says",
+      "published": "Sun, 18 Jan 2026 13:55:29 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
