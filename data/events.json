@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T16:48:51.668696Z",
-  "event_count": 222,
+  "last_updated": "2026-01-18T17:19:02.950620Z",
+  "event_count": 221,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -103,6 +103,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
+      "description": "At least 16 people are confirmed dead and 20,000 are evacuated as fires rage in two southern regions.",
+      "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 16:39:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
       "title": "The week in pictures: ICE In Minnesota, tractors in Paris and Trump gets a second-hand Nobel",
       "description": "Iran's protests go international amid a deadly crackdown, ICE agents terrorise US citizens in Minnesota, far-right leader Marine Le Pen appeals her embezzlement conviction, French farmers protest with tractors in Paris and US President Donald Trump gets his long-coveted Nobel Prize – albeit second-hand. FRANCE 24 looks back at the week's most striking images.",
       "url": "https://www.france24.com/en/culture/20260118-the-week-in-pictures-ice-minnesota-tractors-paris-trump-second-hand-nobel",
@@ -158,16 +168,6 @@
       "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/18/jagan-chapagain-is-the-global-humanitarian-system-breaking-down?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 14:27:52 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Pentagon readies 1,500 troops as Minnesota anti-ICE protests grow",
-      "description": "The Pentagon has ordered 1,500 soldiers to prepare for a possible deployment to Minnesota after protests erupted following the fatal shooting of Renee Good by an ICE agent, with President Trump threatening to invoke the Insurrection Act.",
-      "url": "https://www.france24.com/en/americas/20260118-pentagon-readies-1-500-troops-as-minnesota-protests-grow",
-      "published": "Sun, 18 Jan 2026 07:06:47 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -503,6 +503,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Syria strikes new ceasefire deal with SDF — state media",
+      "description": "The deal follows advances by the Syrian military into northern and eastern areas previously under the control of Syrian Democratic Forces, or SDF. DW has the latest.",
+      "url": "https://www.dw.com/en/syria-strikes-new-ceasefire-deal-with-sdf-state-media/live-75553804?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Jan 2026 17:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump also has 'a lot to lose' from threatened tariffs over Greenland, French minister says",
       "description": "French Agriculture Minister Annie Genevard warned Sunday that US President Trump's proposed tariffs on European countries opposing his plans to purchase Greenland would be \"deadly for the United States\". Trump on Saturday threatened a 10-percent tariff from February 1 on all goods sent to the US from eight European countries, including France.",
       "url": "https://www.france24.com/en/europe/20260118-trump-has-lot-to-lose-threatened-tariffs-greenland-french-minister-says",
@@ -693,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
+      "description": "The European Union is having an emergency meeting to devise a response to Trump's tariff threats over Greenland.",
+      "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 17:05:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran's supreme leader acknowledges thousands killed as pressure builds on clerical rule",
       "description": "Iran's Supreme Leader Ayatollah Ali Khamenei acknowledged that \"thousands\" have been killed in protests that began in late December. But he put the blame on President Trump.",
       "url": "https://www.npr.org/2026/01/16/g-s1-106345/iran-protests-cleric-ayatollah-ahmad-khatami-trump-threat",
@@ -803,6 +823,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Syrian government says it has struck ceasefire deal with Kurdish-led forces",
+      "description": "Damascus on Sunday announced a ceasefire deal with the Kurdish-led Syrian Democratic Forces (SDF) as Syrian troops continued a deadly advance through Kurdish-held territories in the country's northeast. The deal would see SDF forces merged into the government's defence and interior ministries.",
+      "url": "https://www.france24.com/en/middle-east/20260118-syrian-government-says-it-has-struck-ceasefire-deal-with-kurdish-led-forces",
+      "published": "Sun, 18 Jan 2026 17:12:28 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Minneapolis posts anti-ICE video promoting 'peaceful protest' and unity",
+      "description": "Minneapolis releases anti-ICE video promoting \"peaceful protest\" as tensions escalate. Federal agents face harassment while troops prepare for deployment.",
+      "url": "https://www.foxnews.com/us/minneapolis-posts-anti-ice-video-promoting-peaceful-protest-unity",
+      "published": "Sun, 18 Jan 2026 11:48:09 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Minnesota National Guard placed on standby to support law enforcement as protests turn violent",
       "description": "Minnesota National Guard members will wear yellow reflective vests to distinguish themselves from other law enforcement if activated during anti-ICE protests.",
       "url": "https://www.foxnews.com/us/minnesota-national-guard-placed-standby-support-law-enforcement-protests-turn-violent",
@@ -893,6 +933,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump’s tariff policies: Pressuring rivals and alienating allies",
+      "description": "During his second term, President Donald Trump used tariffs not only to rebalance trade but to pressure both allies and rivals into aligning with his policies. While this approach has raised tensions, critics argue it’s damaging US relations and global standing.",
+      "url": "https://www.france24.com/en/trump-s-tariff-policies-pressuring-rivals-and-alienating-allies",
+      "published": "Sun, 18 Jan 2026 16:36:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Mum's dash across the world pays off as Briton wins on Australian Open debut",
       "description": "British tennis player Arthur Fery is through to the second round of the Australian Open after beating the 20th seed Flavio Cobolli.",
       "url": "https://news.sky.com/story/arthur-fery-mums-dash-across-the-world-pays-off-as-briton-wins-on-australian-open-debut-13495764",
@@ -908,6 +958,16 @@
       "url": "https://www.foxnews.com/us/surgeon-ex-ohio-dentist-murders-job-hopped-across-country-dodged-lawsuits-after-divorce",
       "published": "Sun, 18 Jan 2026 10:00:42 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "World Economic Forum invites Iranian foreign minister to Davos after regime slaughter of Iranian civilians",
+      "description": "World Economic Forum is facing calls to exclude Iranian officials from Davos after the regime slaughtered thousands of its civilians, rights groups say.",
+      "url": "https://www.foxnews.com/world/world-economic-forum-invites-iranian-foreign-minister-davos-after-regime-slaughter-iranian-civilians",
+      "published": "Sun, 18 Jan 2026 12:04:15 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1043,11 +1103,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: Industry lobby slams Trump's Greenland demand",
-      "description": "Germany's trade and industry lobby say Trump's Greenland demand is \"blackmail\" and \"unacceptable\" and warn that giving in will only lead to further \"ludicrous\" demands. Follow DW.",
-      "url": "https://www.dw.com/en/germany-news-industry-lobby-slams-trump-s-greenland-demand/live-75545809?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Jan 2026 16:17:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Ceasefire declared between Syrian government and Kurdish-led forces",
+      "description": "A ceasefire has been declared between Syrian government troops and US-backed Kurdish-led forces, according to state media.",
+      "url": "https://news.sky.com/story/syrian-army-seizes-oil-and-gas-fields-after-fighting-kurdish-led-forces-13495795",
+      "published": "Sun, 18 Jan 2026 10:19:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1243,16 +1303,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Syrian army seizes oil and gas fields after fighting Kurdish-led forces",
-      "description": "Syrian troops have seized the country's largest oil field as well as a gas field after fighting US-backed Kurdish-led forces.",
-      "url": "https://news.sky.com/story/syrian-army-seizes-oil-and-gas-fields-after-fighting-kurdish-led-forces-13495795",
-      "published": "Sun, 18 Jan 2026 10:19:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Illegal migrant workers caught on camera leaping across rooftops to escape Border Patrol in California raid",
       "description": "Dramatic video captured alleged illegal immigrants fleeing across California rooftops as federal agents conducted an enforcement raid at a construction site.",
       "url": "https://www.foxnews.com/us/illegal-migrant-workers-caught-camera-leaping-across-rooftops-escape-border-patrol-california-raid",
@@ -1277,16 +1327,6 @@
       "description": "Federal agents arrested criminal illegal aliens as the DHS blasted Minnesota Gov. Tim Walz for allegedly protecting dangerous offenders through sanctuary policies.",
       "url": "https://www.foxnews.com/us/illegal-alien-24-convictions-among-worst-of-worst-arrested-minnesota-ice-operation-dhs",
       "published": "Fri, 16 Jan 2026 20:37:13 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The border in your backyard: Mexican cartels fuel record fentanyl, meth busts in Rocky Mountain states",
-      "description": "The DEA reported record drug seizures in mountain states after 8.7 million fentanyl pills and 3,100 pounds of methamphetamine were confiscated during 2025 operations.",
-      "url": "https://www.foxnews.com/us/border-your-backyard-mexican-cartels-fuel-record-fentanyl-meth-busts-rocky-mountain-states",
-      "published": "Fri, 16 Jan 2026 18:40:52 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
@@ -1393,16 +1433,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran's ethnic minorities could hold key to regime's fate as protests continue",
-      "description": "Iran's ethnic minorities, comprising nearly 50% of the population, could prove decisive in ongoing anti-regime protests as Kurdish groups lead resistance.",
-      "url": "https://www.foxnews.com/world/irans-ethnic-minorities-could-hold-key-regimes-fate-protests-continue",
-      "published": "Fri, 16 Jan 2026 06:50:03 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1493,16 +1523,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-18T16:48:27.773361Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Syrian army extends control in north, seizes gas, oil fields",
       "description": "The Syrian army continues to push against the Kurdish-led Syrian Democratic Forces (SDF), reportedly capturing major oil and gas fields in eastern Syria.",
       "url": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
@@ -1550,16 +1570,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Syrian government forces seize strategic town in Raqqa as SDF retreats",
-      "description": "The Syrian army captures Tabqa, intensifying their push against Kurdish-led forces east of the Euphrates River.",
-      "url": "https://www.aljazeera.com/gallery/2026/1/18/syrian-government-forces-seize-strategic-town-in-raqqa-as-sdf-retreats?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 11:12:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1613,20 +1623,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ugandan leader extends 40-year rule after winning contested poll",
-      "description": "President Yoweri Museveni wins a seventh term, as his main rival Bobi Wine decries \"fake results\".",
-      "url": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 17:43:37 GMT",
+      "title": "Avalanches kill eight skiers in Austrian Alps",
+      "description": "A number of people have died in the Alps over the past week, as heavy snowfall has hit the region.",
+      "url": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Jan 2026 14:31:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Avalanches kill eight skiers in Austrian Alps",
-      "description": "A number of people have died in the Alps over the past week, as heavy snowfall has hit the region.",
-      "url": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Jan 2026 14:31:57 GMT",
+      "title": "Ugandan leader extends 40-year rule after winning contested poll",
+      "description": "President Yoweri Museveni wins a seventh term, as his main rival Bobi Wine decries \"fake results\".",
+      "url": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 17:43:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1683,11 +1693,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Myanmar begins defence in landmark genocide case at UN court",
-      "description": "Myanmar says The Gambia has failed to provide enough evidence of genocide against the Muslim-minority people.",
-      "url": "https://www.bbc.com/news/articles/c1wz8vyq54xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 16:25:50 GMT",
-      "source": "BBC News",
+      "title": "Who is part of Trump’s ‘Board of Peace’ for Gaza?",
+      "description": "Trump unveils a complex three-tier governing structure for Gaza that places Trump and pro-Israel officials at the top.",
+      "url": "https://www.aljazeera.com/news/2026/1/18/who-is-part-of-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 17:02:22 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1777,16 +1787,6 @@
       "description": "Among the frontrunners is Andre Ventura, whose far-right party is the second-largest in parliament.",
       "url": "https://www.aljazeera.com/news/2026/1/18/voters-in-portugal-electing-new-president-could-be-far-right-winner?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 12:18:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Just like Venezuela, Iran, too, is expendable for Russia",
-      "description": "Moscow is focused on winning in Ukraine; all else is a means to that end.",
-      "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 10:51:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2077,16 +2077,6 @@
       "description": "It’s a clash of Lions this Sunday in the AFCON final. The Lions of Teranga face off against the Atlas Lions in Rabat, with history on the line: a first continental crown in 50 years for hosts Morocco, or a second title in four years for reigning champions Senegal.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260118-afcon-2025-senegal-vs-morocco-a-dream-final-between-the-tournament-favorites",
       "published": "Sun, 18 Jan 2026 10:18:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Portugal faces historic presidential vote with far-right figure in lead",
-      "description": "Portuguese voters head to the polls on Sunday in a presidential election in which far-right Chega leader André Ventura could make it to a run-off ballot for the first time. While polls put him ahead in the first round, experts predict he would lose in February regardless of his opponent, making this election a crucial test of the far right’s growing influence in Portugal.",
-      "url": "https://www.france24.com/en/europe/20260118-portugal-faces-historic-presidential-vote-with-far-right-figure-in-lead",
-      "published": "Sun, 18 Jan 2026 02:01:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
