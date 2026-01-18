@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T19:17:08.502553Z",
-  "event_count": 222,
+  "last_updated": "2026-01-18T19:38:25.345581Z",
+  "event_count": 221,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -56,7 +56,7 @@
       "title": "US-based activist agency says it has verified 3,766 deaths from Iran protests",
       "description": "A U.S.-based activist agency reports at least 3,766 deaths during recent protests in Iran",
       "url": "https://abcnews.go.com/International/wireStory/us-based-activist-agency-verified-3766-deaths-iran-129330736",
-      "published": "Sun, 18 Jan 2026 12:41:44 -0500",
+      "published": "Sun, 18 Jan 2026 14:17:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 34,
@@ -218,16 +218,6 @@
       "url": "https://www.foxnews.com/us/federal-judge-restricts-ice-agents-amid-ongoing-minneapolis-area-protests-over-fatal-shooting",
       "published": "Sat, 17 Jan 2026 00:00:42 -0500",
       "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Top Iran prayer leader who dubbed protesters 'Trump's soldiers' calls for executions amid ongoing unrest",
-      "description": "Iranian cleric reportedly calls for death penalty against protesters as regime claims widespread damage to mosques and hospitals during nationwide unrest.",
-      "url": "https://www.foxnews.com/world/top-iran-prayer-leader-who-dubbed-protesters-trumps-soldiers-calls-executions-amid-ongoing-unrest",
-      "published": "Fri, 16 Jan 2026 10:19:14 -0500",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -633,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "California man kills wife, teen daughter in murder-suicide: authorities",
+      "description": "Los Angeles County shooting leaves three dead in apparent murder-suicide as 19-year-old daughter escapes gunfire unharmed, sheriff's deputies report.",
+      "url": "https://www.foxnews.com/us/california-man-kills-wife-teen-daughter-murder-suicide-authorities",
+      "published": "Sun, 18 Jan 2026 14:30:58 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Khamenei calls Trump a ‘criminal,’ blames him for deadly protests sweeping Iran",
       "description": "Iran's supreme leader accused President Donald Trump of orchestrating protests as tensions escalate. State radio broadcasts threats as thousands reported dead.",
       "url": "https://www.foxnews.com/world/khamenei-calls-trump-criminal-blames-him-deadly-protests-sweeping-iran",
@@ -873,16 +873,6 @@
       "severity_level": "High"
     },
     {
-      "title": "911 transcripts, documents detail chaotic scene after ICE agent fatally shot Renee Good",
-      "description": "Renee Nicole Good suffered four gunshot wounds, according to newly released reports. Witnesses described the chaotic scene and said she was shot at 'point-blank' range.",
-      "url": "https://www.foxnews.com/us/911-transcripts-documents-detail-chaotic-scene-after-ice-agent-fatally-shot-renee-good",
-      "published": "Fri, 16 Jan 2026 22:02:44 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Trump announces escalating tariffs on Denmark and other European nations to force Greenland purchase deal",
       "description": "President Donald Trump threatens steep tariffs on European nations unless Denmark sells Greenland to the U.S., citing national defense and security.",
       "url": "https://www.foxnews.com/world/trump-announces-escalating-tariffs-denmark-other-european-nations-force-greenland-purchase-deal",
@@ -978,6 +968,16 @@
       "url": "https://www.foxnews.com/us/surgeon-ex-ohio-dentist-murders-job-hopped-across-country-dodged-lawsuits-after-divorce",
       "published": "Sun, 18 Jan 2026 10:00:42 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Six countries confirm US invitations to Gaza peace board",
+      "description": "Trump invites multiple countries including Jordan, Greece, and India to join his \"Board of Peace\" for Gaza reconstruction and governance oversight.",
+      "url": "https://www.foxnews.com/world/six-countries-confirm-us-invitations-gaza-peace-board",
+      "published": "Sun, 18 Jan 2026 14:21:27 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1313,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany news: Syrian president puts planned visit on hold",
+      "description": "President Ahmad al-Sharaa has postponed his visit to Berlin, for talks with Chancellor Friedrich Merz, due to the political situation in his country. The repatriation of Syrian refugees was high on the agenda.",
+      "url": "https://www.dw.com/en/germany-news-syrian-president-puts-planned-visit-on-hold/live-75545809?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Jan 2026 19:22:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Hong Kong: Life sentence looms for media tycoon Jimmy Lai",
       "description": "With the last stage of Jimmy Lai's national security trial drawing to a close, Hong Kong's High Court is set to decide on the sentence for the pro-democracy tycoon. Will Lai get life in prison?",
       "url": "https://www.dw.com/en/hong-kong-life-sentence-looms-for-media-tycoon-jimmy-lai/a-75516554?maca=en-rss-en-all-1573-xml-mrss",
@@ -1548,16 +1558,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/jan/18/peter-malinauskas-adelaide-writers-week-letter-randa-abdel-fattah-ntwnfb",
       "published": "Sun, 18 Jan 2026 07:24:05 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-18T19:16:44.682325Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -2043,18 +2043,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump to impose tariffs on European nations over Greenland",
-      "description": "Germany, Denmark, Norway, Sweden, France, the UK, the Netherlands and Finland to face a 10% tariff beginning February 1. Trump said tariffs will be in place until \"a deal is reached\" on Greenland.",
-      "url": "https://www.dw.com/en/trump-to-impose-tariffs-on-european-nations-over-greenland/a-75549367?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Jan 2026 16:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Watch live: AFCON 2025 comes to climactic close as hosts Morocco square off against Senegal",
-      "description": "Morocco's Atlas Lions will face off against Senegal's Lions of Teranga in Rabat on Sunday night, where the host nation hopes to win its first Africa Cup of Nations title in half a century. Watch our special coverage live on FRANCE 24.",
+      "title": "AFCON 2025 comes to climactic close as hosts Morocco square off against Senegal",
+      "description": "Morocco's Atlas Lions will face off against Senegal's Lions of Teranga in Rabat on Sunday night, where the host nation hopes to win its first Africa Cup of Nations title in half a century.",
       "url": "https://www.france24.com/en/africa/20260118-afcon-2025-comes-to-climactic-close-hosts-morocco-square-off-against-senegal-final",
       "published": "Sun, 18 Jan 2026 15:13:51 GMT",
       "source": "France24",
@@ -2183,7 +2173,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Florida woman arrested in murder-for-hire plot after sharing plan with undercover detective, sheriff says",
+      "title": "Florida woman, 81, arrested in murder-for-hire plot after sharing plan with undercover detective, sheriff says",
       "description": "Florida woman, 81, allegedly tried to hire hitman to commit murder but met undercover officer instead. Elouise Leland was charged with solicitation to commit first-degree murder.",
       "url": "https://www.foxnews.com/us/florida-woman-arrested-murder-for-hire-plot-after-sharing-plan-undercover-detective-sheriff-says",
       "published": "Sun, 18 Jan 2026 13:55:29 -0500",
