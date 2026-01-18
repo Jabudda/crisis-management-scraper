@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T13:29:38.285698Z",
-  "event_count": 221,
+  "last_updated": "2026-01-18T13:48:30.994293Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -10,6 +10,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 65,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Kurdish forces risk turning to 'guerrilla' warfare as Syrian army advances",
+      "description": "Kurdish-led forces withdrew from Syria's largest oil field on Sunday, according to a conflict monitor, as government troops expanded their control over vast areas in the country's north and east. As the Syrian army continues to advance into Kurdish-held territories, the Kurdish forces may resort to guerrilla warfare, potentially destabilizing the country, said Henri Barkey, Professor of International Relations at Lehigh University.",
+      "url": "https://www.france24.com/en/kurdish-forces-risk-turning-to-guerrilla-warfare-as-syrian-army-advances",
+      "published": "Sun, 18 Jan 2026 13:10:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +203,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Families of Israeli soldiers killed in Gaza are retreiving sperm from their bodies",
-      "description": "About a quarter of the Israeli soldiers killed in the war in Gaza had their sperm retrieved after death.",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5658287/families-of-israeli-soldiers-killed-in-gaza-are-retreiving-sperm-from-their-bodies",
-      "published": "Sun, 18 Jan 2026 08:08:35 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Myanmar begins defence in landmark genocide case at UN World Court",
       "description": "Myanmar on Friday rejected allegations of genocide against the Rohingya minority, telling the International Court of Justice (ICJ) that the Gambia’s case rests on “unsubstantiated allegations,” as public hearings continued in a landmark case on the application of the Genocide Convention.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166782",
@@ -348,16 +348,6 @@
       "url": "https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported",
       "published": "Fri, 16 Jan 2026 21:33:41 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "EU and Mercosur bloc sign landmark free trade deal after 25 years of negotiations",
-      "description": "The European Union and the Mercosur bloc of South American countries signed on Saturday a free trade deal that follows a quarter-century of careful negotiations. France still remains opposed to the trade agreement, with the country's powerful agricultural lobby warning it could damage local farmers' livelihoods.",
-      "url": "https://www.france24.com/en/europe/20260117-eu-and-mercosur-sign-landmark-free-trade-deal-after-25-years-of-negotiations",
-      "published": "Sat, 17 Jan 2026 17:47:42 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -653,11 +643,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
-      "description": "Iran’s supreme leader has accused US President Donald Trump of being behind the deaths of ‘several thousand’ protesters.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 07:56:08 +0000",
-      "source": "Al Jazeera",
+      "title": "Iran's supreme leader acknowledges thousands killed as pressure builds on clerical rule",
+      "description": "Iran's Supreme Leader Ayatollah Ali Khamenei acknowledged that \"thousands\" have been killed in protests that began in late December. But he put the blame on President Trump.",
+      "url": "https://www.npr.org/2026/01/16/g-s1-106345/iran-protests-cleric-ayatollah-ahmad-khatami-trump-threat",
+      "published": "Fri, 16 Jan 2026 19:44:18 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -773,10 +763,20 @@
       "severity_level": "High"
     },
     {
-      "title": "French President Emmanuel Macron discusses Greenland and Iran during emergency defense council meeting",
-      "description": "French President Emmanuel Macron held an emergency defense council meeting at the Élysée Palace on Thursday to discuss Greenland and Iran - among other issues. He then visited a military base in the south of France. In his speech to the troops, Macron highlighted the tense geopolitical situation and announced an increase to the French army budget.",
-      "url": "https://www.france24.com/en/french-president-emmanuel-macron-discusses-greenland-and-iran-during-emergency-defense-council-meeting",
-      "published": "Sat, 17 Jan 2026 16:53:14 GMT",
+      "title": "A protester from Iran shares her experience",
+      "description": "NPR's Scott Simon speaks with A., an Iranian who recently left the country after participating in several days of protests.",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5677587/a-protester-from-iran-shares-her-experience",
+      "published": "Sat, 17 Jan 2026 07:43:01 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: European nations targeted by Trump 'stand united' over Greenland tariffs threat",
+      "description": "The eight nations targeted by rising tariffs if they oppose US President Donald Trump's bid to \"purchase\" Greenland released a joint statement Sunday saying they stood united in the face of threats. The Arctic island of 57,000 people is currently an autonomous territory of Denmark. Follow our liveblog for all the latest developments.",
+      "url": "https://www.france24.com/en/europe/20260118-live-european-nations-greenland-trump-tariffs-threat",
+      "published": "Sun, 18 Jan 2026 13:47:02 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 10,
@@ -918,6 +918,16 @@
       "url": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Jan 2026 00:08:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
+      "description": "US President Donald Trump has named high-level members of his ‘Board of Peace’ to oversee Gaza’s post-war transition.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 13:27:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1153,10 +1163,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India's voter verification drive is drawing criticism — from its own election workers",
-      "description": "Ahead of India's state elections in March, officials responsible for voter verification report long hours and tight deadlines.",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5677728/indias-voter-verification-drive-is-drawing-criticism-from-its-own-election-workers",
-      "published": "Sun, 18 Jan 2026 08:09:07 -0500",
+      "title": "The latest on what's happening in Ukraine",
+      "description": "Many residents in Kyiv are suffering through freezing temperatures with no heat or electricity after Russian strikes on energy infrastructure.",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5678596/the-latest-on-whats-happening-in-ukraine",
+      "published": "Sat, 17 Jan 2026 07:43:07 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
@@ -1273,21 +1283,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Anti-ICE protesters chase anti-Islam ‘influencer’ Jake Lang in Minneapolis",
-      "description": "Anti-ICE protesters clashed with counter demonstrators in Minneapolis during a pro-ICE rally organised by Jake Lang.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/anti-ice-protesters-chase-anti-islam-influencer-jake-lang-in-minneapolis?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 08:10:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "'Not for sale': massive protest in Copenhagen against Trump's desire to acquire Greenland",
       "description": "Thousands of people rallied in Copenhagen to push back on President Trump's rhetoric that the U.S. should acquire Greenland.",
       "url": "https://www.npr.org/2026/01/17/g-s1-106401/not-for-sale-massive-protest-in-copenhagen-against-trumps-desire-to-acquire-greenland",
       "published": "Sat, 17 Jan 2026 12:00:35 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Greenland row: German military ends short deployment",
+      "description": "Germany is pulling its troops out of Greenland after a very brief assessment mission. The withdrawal comes amid President Donald Trump’s tariff threats and his claim that Greenland should belong to the US.",
+      "url": "https://www.dw.com/en/greenland-row-german-military-ends-short-deployment/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Jan 2026 13:39:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1403,16 +1413,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "How Iran's Revolutionary Guard is woven into the state's power structure",
-      "description": "NPR's Ayesha Rascoe speaks to Arash Azizi of Yale University about the role of the Revolutionary Guard in Iran.",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5677186/how-irans-revolutionary-guard-is-woven-into-the-states-power-structure",
-      "published": "Sun, 18 Jan 2026 08:08:43 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump says 8 EU countries to be charged 10% tariff for opposing US control of Greenland",
       "description": "In a post on social media, Trump said a 10% tariff will take effect on Feb. 1, and will climb to 25% on June 1 if a deal is not in place for the United States to purchase Greenland.",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5680839/trump-eu-greenland-tariffs",
@@ -1483,6 +1483,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-18T13:48:05.967225Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Syrian army extends control in north, seizes gas, oil fields",
       "description": "The Syrian army continues to push against the Kurdish-led Syrian Democratic Forces (SDF), reportedly capturing major oil and gas fields in eastern Syria.",
       "url": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
@@ -1547,16 +1557,6 @@
       "description": "People in the Syrian town of Deir Hafer have been celebrating after the Syrian army pushed out the SDF.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/video-residents-in-deir-hafer-celebrate-after-syrian-army-pushes-out-sdf?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 10:06:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Anti-ICE rally chases off US far-right influencer Jake Lang in Minneapolis",
-      "description": "About 10 people had gathered for Lang's anti-Islam, anti-Somali and pro-ICE demonstration at City Hall.",
-      "url": "https://www.aljazeera.com/news/2026/1/18/anti-ice-rally-chases-off-us-far-right-influencer-jake-lang-in-minneapolis?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 08:21:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1678,6 +1678,26 @@
       "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 13:11:24 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Syrian army advances on SDF stronghold of Raqqa: What’s the latest?",
+      "description": "Military takes control of Tabqa in Raqqa governorate, and President al-Sharaa signs a decree recognising Kurdish rights.",
+      "url": "https://www.aljazeera.com/news/2026/1/18/syrian-army-advances-on-sdf-stronghold-of-raqqa-whats-the-latest?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 13:15:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Syria’s al-Sharaa restores citizenship and language rights to Syrian Kurds",
+      "description": "Syria's Ahmed al-Sharaa has signed a decree formally restoring citizenship and language rights to Syrian Kurds.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/syrias-al-sharaa-restores-citizenship-and-language-rights-to-syrian-kurds?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 13:12:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1913,20 +1933,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "U.S. Senators wrap up Denmark trip as Trump steps up his Greenland pressure campaign",
-      "description": "U.S. senators are in Denmark this weekend to meet with officials, as President Trump announces tariffs against NATO members to pressure them over his designs on Greenland.",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5678527/u-s-senators-wrap-up-denmark-trip-as-trump-steps-up-his-greenland-pressure-campaign",
-      "published": "Sun, 18 Jan 2026 08:08:59 -0500",
+      "title": "Venezuela: Maduro's enforcer Cabello still central to power",
+      "description": "The ousting of Venezuela's president raised hopes of change — but the politician now controlling the streets shows how little has really shifted.",
+      "url": "https://www.npr.org/2026/01/18/nx-s1-5678974/venezuela-maduro-enforcer-cabello",
+      "published": "Sun, 18 Jan 2026 06:00:00 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela: Maduro's enforcer Cabello still central to power",
-      "description": "The ousting of Venezuela's president raised hopes of change — but the politician now controlling the streets shows how little has really shifted.",
-      "url": "https://www.npr.org/2026/01/18/nx-s1-5678974/venezuela-maduro-enforcer-cabello",
-      "published": "Sun, 18 Jan 2026 06:00:00 -0500",
+      "title": "What a visit to a French clown school reveals about clowning",
+      "description": "A visit to the Gaulier clown school - home to alumni including Sacha Baron Cohen and Emma Thompson - reveals that clowning is all about the art of failure.",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5640672/what-a-visit-to-a-french-clown-school-reveals-about-clowning",
+      "published": "Sat, 17 Jan 2026 07:42:48 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -1947,16 +1967,6 @@
       "description": "Japan's first female leader is popular with voters. She has now called for early elections to leverage their approval. The move could bolster her position, but it carries risks.",
       "url": "https://www.dw.com/en/japan-popular-prime-minister-takaichi-calls-early-election/a-75550678?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 17 Jan 2026 20:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Greenland row: EU weighing response to Trump tariff plan",
-      "description": "European Council President Antonio Costa said the EU was weighing a joint response to a 10% tariff plan announced by President Donald Trump on European nations that oppose his push to acquire Greenland.",
-      "url": "https://www.dw.com/en/greenland-row-eu-weighing-response-to-trump-tariff-plan/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Jan 2026 19:44:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
