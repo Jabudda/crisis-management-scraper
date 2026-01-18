@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T17:19:02.950620Z",
-  "event_count": 221,
+  "last_updated": "2026-01-18T17:43:00.005550Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -108,6 +108,16 @@
       "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Jan 2026 16:39:49 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+      "description": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sunday that the opposition were “terrorists” who had tried to use violence to overturn the election results. Official results showed Museveni winning a landslide with 72% of the vote , but the poll was criticised by African election observers and rights groups due to the heavy repression of the opposition and an internet blackout. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+      "published": "Sun, 18 Jan 2026 17:17:19 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -1004,7 +1014,7 @@
     },
     {
       "title": "Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting",
-      "description": "Agreement will see government takeover of SDF controlled areas, and SDF integration into Syrian military.",
+      "description": "Agreement will see government takeover of SDF-controlled areas, and SDF integration into Syrian military.",
       "url": "https://www.aljazeera.com/news/2026/1/18/syria-announces-ceasefire-agreement-with-kurd-led-sdf-after-heavy-fighting?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 16:01:29 +0000",
       "source": "Al Jazeera",
@@ -1523,6 +1533,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-18T17:42:37.887782Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Syrian army extends control in north, seizes gas, oil fields",
       "description": "The Syrian army continues to push against the Kurdish-led Syrian Democratic Forces (SDF), reportedly capturing major oil and gas fields in eastern Syria.",
       "url": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
@@ -1907,16 +1927,6 @@
       "description": "Atlas Lions face Senegal in final of Africa Cup of Nations on Sunday and Moroccan diaspora scents victory London’s Little Morocco is brimming with pride and anticipation. The Moroccan diaspora in North Kensington is in no doubt that on Sunday the Atlas Lions will triumph against Senegal in the final of the Africa Cup of Nations. “There’s not just an excitement, it has completely taken over everything else,” said Souad Talsi, who runs the Al-Hasaniya Moroccan women’s centre at the base of 31-storey Trellick Tower, at the north end of Golborne Road. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high",
       "published": "Sat, 17 Jan 2026 13:00:28 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Controversial US study on hepatitis B vaccines in Africa is cancelled",
-      "description": "$1.6m project drew outrage over ethical questions about withholding vaccines proven to prevent disease The controversial US-funded study on hepatitis B vaccines among newborns in Guinea-Bissau has been halted, according to Yap Boum, a senior official at the Africa Centres for Disease Control and Prevention (CDC). “The study has been cancelled,” Boum told journalists at a press conference on Thursday morning. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel",
-      "published": "Fri, 16 Jan 2026 15:03:57 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
