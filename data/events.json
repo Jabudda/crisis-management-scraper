@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T16:26:52.343524Z",
+  "last_updated": "2026-01-18T16:48:51.668696Z",
   "event_count": 222,
   "events": [
     {
@@ -430,16 +430,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Al Jazeera reports from Greenland’s capital as thousands protest US threats",
-      "description": "Thousands of Greenlanders have protested US President Donald Trump’s repeated threats to seize control of their homeland",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/al-jazeera-reports-from-greenlands-capital-as-thousands-protest-us-threats?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 10:51:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -953,6 +943,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting",
+      "description": "Agreement will see government takeover of SDF controlled areas, and SDF integration into Syrian military.",
+      "url": "https://www.aljazeera.com/news/2026/1/18/syria-announces-ceasefire-agreement-with-kurd-led-sdf-after-heavy-fighting?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 16:01:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
       "description": "US President Donald Trump has named high-level members of his ‘Board of Peace’ to oversee Gaza’s post-war transition.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss",
@@ -1173,6 +1173,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Peace boards and technocrats won’t stem out Palestinian resistance",
+      "description": "Any governance structure that does not take into account the Palestinian national aspirations is doomed to failure.",
+      "url": "https://www.aljazeera.com/opinions/2026/1/18/peace-boards-and-technocrats-wont-stem-out-palestinian-resistance?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 16:19:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1280,16 +1290,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting",
-      "description": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/1/18/syria-announces-ceasefire-agreement-with-kurd-led-sdf-after-heavy-fighting?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 16:01:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1496,7 +1496,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-18T16:26:31.069641Z",
+      "published": "2026-01-18T16:48:27.773361Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1543,20 +1543,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Venezuela’s acting leader was once a DEA 'priority target': report",
+      "description": "Venezuela's interim president Delcy Rodríguez was reportedly labeled a DEA \"priority target\" in 2022, appearing in intelligence files since at least 2018.",
+      "url": "https://www.foxnews.com/world/venezuelas-acting-leader-once-dea-priority-target-report",
+      "published": "Sun, 18 Jan 2026 11:33:16 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Syrian government forces seize strategic town in Raqqa as SDF retreats",
       "description": "The Syrian army captures Tabqa, intensifying their push against Kurdish-led forces east of the Euphrates River.",
       "url": "https://www.aljazeera.com/gallery/2026/1/18/syrian-government-forces-seize-strategic-town-in-raqqa-as-sdf-retreats?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 11:12:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Video: Residents in Deir Hafer celebrate after Syrian army pushes out SDF",
-      "description": "People in the Syrian town of Deir Hafer have been celebrating after the Syrian army pushed out the SDF.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/video-residents-in-deir-hafer-celebrate-after-syrian-army-pushes-out-sdf?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 10:06:13 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1688,6 +1688,16 @@
       "url": "https://www.bbc.com/news/articles/c1wz8vyq54xo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 16:25:50 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Benin’s opposition loses all parliamentary seats, provisional results show",
+      "description": "Electoral commission says two parties aligned with President Patrice Talon win all 109 seats in the assembly.",
+      "url": "https://www.aljazeera.com/news/2026/1/18/benin-opposition-loses-all-parliamentary-seats-provisional-results-show?traffic_source=rss",
+      "published": "Sun, 18 Jan 2026 16:25:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2207,16 +2217,6 @@
       "description": "U.S. NATO ambassador Matthew Whitaker defends American focus on Greenland amid European backlash, calling Arctic security crucial for continental defense.",
       "url": "https://www.foxnews.com/world/nato-ambassador-says-europe-has-tendency-overreact-over-trumps-greenland-dispute",
       "published": "Sat, 17 Jan 2026 06:00:54 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australia removes 4.7M kids from social media platforms in first month of historic ban",
-      "description": "Australia says millions of underage social media accounts were shut down in the first month after a sweeping new ban on users under 16 took effect.",
-      "url": "https://www.foxnews.com/world/australia-removes-4-7m-kids-from-social-media-platforms-first-month-historic-ban",
-      "published": "Fri, 16 Jan 2026 03:22:43 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
