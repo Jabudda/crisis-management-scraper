@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-20T23:24:51.381772Z",
-  "event_count": 223,
+  "last_updated": "2026-01-20T23:45:26.975153Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Catholic cardinals warn US foreign policy under Trump risks global suffering",
@@ -244,9 +244,9 @@
     },
     {
       "title": "Driver killed and several injured after train derails near Barcelona, local media report",
-      "description": "At least 14 people are known to have been injured after a commuter train crashed between Gelida and Sant Sadurní.",
+      "description": "At least 37 people have been injured, four seriously, after a commuter train crashed between Gelida and Sant Sadurní.",
       "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Jan 2026 22:53:35 GMT",
+      "published": "Tue, 20 Jan 2026 23:43:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
@@ -476,7 +476,7 @@
       "title": "Australia news live: anger at Nationals who split over hate speech vote; PM says he has prioritised local issues over Trump’s ‘board of peace’ invite",
       "description": "Follow updates live Get our breaking news email , free app or daily news podcast CEO of energy company behind Eraring coal power plant says extra two years will help with ‘smooth transition’ Frank Calabria , the CEO of Origin energy, spoke with RN this morning after an announcement Australia’s largest coal-fired power plant, Eraring in New South Wales, would stay open for an additional two years until 2029. A lot of good progress has been made on the transition, a lot of new infrastructure, a lot of new energy assets behind the meter. This will just enable it [to be a] smoother transition. … We’ve made lots of investments, as you would imagine, in large batteries. We’ve got large wind farms underway, so do many other players in the sector. So we’re all aligned about making progress here. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "published": "Tue, 20 Jan 2026 23:11:13 GMT",
+      "published": "Tue, 20 Jan 2026 23:29:13 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -1443,6 +1443,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Minnesota pastor condemns anti-ICE agitators who interrupted service: ‘Shameful and unlawful’",
+      "description": "Anti-ICE protesters allegedly disrupted Minneapolis church service, shouting at parishioners in viral video. Pastor condemns 'shameful' intimidation.",
+      "url": "https://www.foxnews.com/us/minnesota-pastor-condemns-anti-ice-agitators-interrupted-service-shameful-unlawful",
+      "published": "Tue, 20 Jan 2026 18:15:55 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US Marshals nab fugitive hiding under child's bed: officials",
       "description": "Fugitive found hiding under child's bed during dramatic U.S. Marshals arrest operation in Spokane. Authorities said suspect was wanted on firearm charges.",
       "url": "https://www.foxnews.com/us/us-marshals-nab-fugitive-hiding-under-childs-bed-officials",
@@ -1548,6 +1558,16 @@
       "url": "https://www.theguardian.com/world/2026/jan/19/china-population-falls-again-birthrate-record-low",
       "published": "Mon, 19 Jan 2026 12:12:38 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-20T23:45:01.020288Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1886,7 +1906,7 @@
       "title": "M 3.8 - 4 km NW of Ohlman, Illinois",
       "description": "ShakeMap - IV DYFI? - V Time 2026-01-20 07:27:40 UTC 2026-01-20 07:27:40 UTC at epicenter Location 39.375°N 89.247°W Depth 8.80 km (5.47 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60617031",
-      "published": "2026-01-20T23:22:21.834Z",
+      "published": "2026-01-20T23:40:21.617Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1896,7 +1916,7 @@
       "title": "M 4.9 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-01-20 01:56:14 UTC 2026-01-20 01:56:14 UTC at epicenter Location 33.894°N 116.169°W Depth 3.09 km (1.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41162719",
-      "published": "2026-01-20T23:19:02.979Z",
+      "published": "2026-01-20T23:43:37.420Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2187,16 +2207,6 @@
       "description": "Ohio dentist double murder case takes turn as accused ex-husband allegedly used fake address and phone number to \"disguise\" himself before killings.",
       "url": "https://www.foxnews.com/us/ex-husband-charged-ohio-dentist-murders-allegedly-tried-disguise-himself-fake-information-expert",
       "published": "Tue, 20 Jan 2026 08:00:38 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man stabbed, officer assaulted as fight breaks out after MLK Day parade in Los Angeles",
-      "description": "Los Angeles Police respond to an alleged stabbing, and an officer was assaulted following the Martin Luther King Jr. parade as multiple fights broke out.",
-      "url": "https://www.foxnews.com/us/man-stabbed-officer-assaulted-fight-breaks-out-after-mlk-day-parade-los-angeles",
-      "published": "Tue, 20 Jan 2026 06:06:50 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
