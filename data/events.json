@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T05:30:25.677482Z",
+  "last_updated": "2026-01-21T05:55:04.534954Z",
   "event_count": 224,
   "events": [
     {
@@ -88,6 +88,16 @@
       "url": "https://www.npr.org/2026/01/20/nx-s1-5681391/australia-toughens-its-gun-laws-following-bondi-beach-terrorist-attack",
       "published": "Tue, 20 Jan 2026 16:50:34 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran's top diplomat issues most direct threat yet to US",
+      "description": "Iran's foreign minister has issued a direct threat against the United States, warning of retaliation if attacked",
+      "url": "https://abcnews.go.com/International/wireStory/irans-top-diplomat-issues-direct-threat-us-crackdown-129409485",
+      "published": "Wed, 21 Jan 2026 00:37:05 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -347,16 +357,6 @@
       "description": "Ivory Coast, the world's top cocoa producer, plans to buy unsold cocoa stocks to support farmers as global prices have plunged",
       "url": "https://abcnews.go.com/International/wireStory/ivory-coast-buy-unsold-cocoa-stocks-prices-plunge-129383835",
       "published": "Tue, 20 Jan 2026 10:41:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Spain begins 3 days of mourning for deadly train wreck while death toll ticks up to 41",
-      "description": "Spain has woken to flags at half staff on Tuesday as the nation began three days of mourning for the victims of the deadly train accident in the country’s south",
-      "url": "https://abcnews.go.com/International/wireStory/spain-begins-3-days-mourning-deadly-train-wreck-129372449",
-      "published": "Tue, 20 Jan 2026 06:41:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -676,7 +676,7 @@
       "title": "Australia news live: three Nationals frontbenchers resign from shadow cabinet after breaking ranks to oppose hate speech laws",
       "description": "Follow updates live Three Nationals senators resign from frontbench after crossing the floor to oppose Labor’s hate speech bill Get our breaking news email , free app or daily news podcast CEO of energy company behind Eraring coal power plant says extra two years will help with ‘smooth transition’ Frank Calabria , the CEO of Origin energy, spoke with RN this morning after an announcement Australia’s largest coal-fired power plant, Eraring in New South Wales, would stay open for an additional two years until 2029. A lot of good progress has been made on the transition, a lot of new infrastructure, a lot of new energy assets behind the meter. This will just enable it [to be a] smoother transition. … We’ve made lots of investments, as you would imagine, in large batteries. We’ve got large wind farms underway, so do many other players in the sector. So we’re all aligned about making progress here. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "published": "Wed, 21 Jan 2026 05:02:58 GMT",
+      "published": "Wed, 21 Jan 2026 05:41:39 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -1253,7 +1253,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kurds vs Syrian government troops: What you need to know",
+      "title": "Kurds vs. Syrian government troops: What you need to know",
       "description": "Syria's government is trying to forcefully absorb a Syrian Kurdish paramilitary group that once controlled much of the country's northeast. The fight ultimately comes down to a clash about Syria's future governance.",
       "url": "https://www.dw.com/en/kurds-vs-syrian-government-troops-what-you-need-to-know/a-75580975?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 20 Jan 2026 19:26:00 GMT",
@@ -1364,7 +1364,7 @@
     },
     {
       "title": "Germany sees thousands join pro-Kurdish protests",
-      "description": "German cities saw large pro-Kurdish demonstrations on Tuesday as government troops in Syria clash with Kurdish forces.",
+      "description": "German cities saw large pro-Kurdish demonstrations on Tuesday as Syrian government troops clash with Kurdish forces in northeastern Syria.",
       "url": "https://www.dw.com/en/germany-sees-thousands-join-pro-kurdish-protests/a-75586115?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Jan 2026 02:46:00 GMT",
       "source": "Deutsche Welle",
@@ -1407,16 +1407,6 @@
       "description": "A 6-year-old girl has survived Sunday's deadly train crash in southern Spain",
       "url": "https://abcnews.go.com/International/wireStory/miracle-6-year-girl-sole-survivor-family-perished-129378631",
       "published": "Tue, 20 Jan 2026 08:52:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Top EU official questions Trump’s trustworthiness over Greenland tariff threat",
-      "description": "The European Union’s top official has described U_S_ President Donald Trump’s planned new tariffs over Greenland as “a mistake especially between long-standing allies.\"",
-      "url": "https://abcnews.go.com/International/wireStory/top-eu-official-questions-trumps-trustworthiness-greenland-tariff-129372454",
-      "published": "Tue, 20 Jan 2026 08:09:34 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1546,7 +1536,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-21T05:30:01.090525Z",
+      "published": "2026-01-21T05:54:43.781744Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1883,10 +1873,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Teenage girl wearing jersey with Palestinian flag refused entry to Sydney A-League game",
-      "description": "Exclusive: Girl had to agree to remove Club Deportivo Palestino shirt before being let into Allianz Stadium on Sunday night Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A teenager wearing a football jersey containing the Palestinian flag was refused entry to an A-League match at Sydney’s Allianz Stadium, with a video showing security asking her to remove it if she wanted to go inside. The 15-year-old girl was wearing the jersey of Club Deportivo Palestino – a Chilean football club founded by Palestinian migrants – which says “Palestine” on the front. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jan/21/teenage-girl-palestinian-flag-jersey-refused-entry-sydney-a-league-game-ntwnfb",
-      "published": "Wed, 21 Jan 2026 03:46:12 GMT",
+      "title": "Tight spot: cheapest spray takes first place in Choice stain remover test",
+      "description": "Aldi triumphed in the consumer watchdog’s showdown, while some name brands failed to come out in the wash Get our weekend culture and lifestyle email The cheapest stain removal spray from a major Australian supermarket is also one of the best-performing products in the field, according to a product test by consumer advocacy group Choice. Choice tested 23 stain remover powders and 20 pre-treater sprays on common garment stains caused by sweat, grass and mud, and cooking oil, as well as stubborn stains from chocolate ice-cream, tomato, baby food, blood and makeup. Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning Continue reading...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jan/21/tight-spot-cheapest-spray-takes-first-place-in-choice-stain-remover-test",
+      "published": "Wed, 21 Jan 2026 05:41:53 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1896,7 +1886,7 @@
       "title": "M 3.8 - 4 km NW of Ohlman, Illinois",
       "description": "ShakeMap - IV DYFI? - V Time 2026-01-20 07:27:40 UTC 2026-01-20 07:27:40 UTC at epicenter Location 39.375°N 89.247°W Depth 8.80 km (5.47 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60617031",
-      "published": "2026-01-21T05:19:24.016Z",
+      "published": "2026-01-21T05:46:35.796Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1906,7 +1896,7 @@
       "title": "M 4.9 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-01-20 01:56:14 UTC 2026-01-20 01:56:14 UTC at epicenter Location 33.894°N 116.169°W Depth 3.09 km (1.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41162719",
-      "published": "2026-01-21T05:15:50.087Z",
+      "published": "2026-01-21T05:53:09.070Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2108,6 +2098,16 @@
       "url": "https://news.sky.com/story/what-is-in-the-chagos-islands-deal-and-why-is-it-controversial-13496512",
       "published": "Tue, 20 Jan 2026 08:38:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Man who assassinated former Japanese prime minister gets life in prison",
+      "description": "A Japanese court sentenced a man who admitted assassinating former Japanese Prime Minister Shinzo Abe to life imprisonment, according to NHK public television",
+      "url": "https://abcnews.go.com/International/wireStory/man-assassinated-former-japanese-prime-minister-gets-life-129408247",
+      "published": "Wed, 21 Jan 2026 00:09:26 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
