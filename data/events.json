@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-24T20:23:42.378505Z",
-  "event_count": 225,
+  "last_updated": "2026-01-24T20:43:42.733073Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Indonesia takes action against mining firms after floods devastate population of world’s rarest ape",
@@ -338,6 +338,16 @@
       "url": "https://www.aljazeera.com/news/2026/1/24/suicide-bombing-at-wedding-in-northwest-pakistan-kills-seven?traffic_source=rss",
       "published": "Sat, 24 Jan 2026 10:41:09 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Protests in Iran: Official casualty figures in doubt",
+      "description": "The number of people killed in the brutal suppression of protests in Iran remains unclear, with reports that the injured are avoiding medical assistance out of fear.",
+      "url": "https://www.dw.com/en/protests-in-iran-official-casualty-figures-in-doubt/a-75642949?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 24 Jan 2026 20:29:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -723,8 +733,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Man shot dead by US federal agents in Minneapolis amid immigration crackdown",
-      "description": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O’Hara described an “incredibly volatile scene” and urged residents to avoid the area amid protests against the Trump administration’s immigration crackdown.",
+      "title": "Man shot dead by US federal agents in Minneapolis amid immigration crackdown",
+      "description": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O’Hara described an \"incredibly volatile scene\" and urged residents to avoid the area amid protests against the Trump administration’s immigration crackdown.",
       "url": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
       "published": "Sat, 24 Jan 2026 16:46:23 GMT",
       "source": "France24",
@@ -1183,7 +1193,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "'Barbaric' attack during Ukraine peace talks as Zelenskyy says negotiations could resume next week",
+      "title": "'Barbaric' attack during Ukraine peace talks - but 'unexpected chemistry' raises hopes",
       "description": "Fresh talks between the US, Russia and Ukraine could take place \"as early as next week\", President Zelenskyy has said.",
       "url": "https://news.sky.com/story/barbaric-attack-on-ukraines-largest-cities-during-peace-talks-further-negotiations-expected-as-early-as-next-week-13498413",
       "published": "Sat, 24 Jan 2026 14:43:00 +0000",
@@ -1423,6 +1433,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ceasefire between Syrian army and Kurdish-led forces extended for 15 days",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss",
+      "published": "Sat, 24 Jan 2026 20:25:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump threatens 100 percent tariff on Canada over China deal",
       "description": "Donald Trump's threat comes after Canada reached deal with China last week on trade of agriproducts, electric vehicles.",
       "url": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss",
@@ -1593,16 +1613,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-24T20:23:18.560047Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Germany news: Berlin vows aggressive cybersecurity stance",
       "description": "Berlin promises to take down bad cyber actors and a new report prompts questions of whether police should carry Tasers to keep them from having to use guns in self-defense. Follow DW here for the latest.",
       "url": "https://www.dw.com/en/germany-news-berlin-vows-aggressive-cybersecurity-stance/live-75639462?maca=en-rss-en-all-1573-xml-mrss",
@@ -1747,16 +1757,6 @@
       "description": "A new Pentagon strategy document softens tone on traditional foes, China and Russia.",
       "url": "https://www.aljazeera.com/news/2026/1/24/us-army-says-homeland-curbing-china-priorities-limited-support-for-allies?traffic_source=rss",
       "published": "Sat, 24 Jan 2026 07:06:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil’s Lula says Trump is attempting to ‘create a new UN’",
-      "description": "Lula's comments come as Trump invites Netanyahu to join 'Board of Peace', with no mention of Gaza in charter.",
-      "url": "https://www.aljazeera.com/news/2026/1/24/brazils-lula-says-trump-is-attempting-to-create-a-new-un?traffic_source=rss",
-      "published": "Sat, 24 Jan 2026 04:38:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1977,16 +1977,6 @@
       "description": "From cheap exports to cutting-edge tech: A Chinese battery giant's secretive factory in Germany shows how \"Made in China\" and \"Made in Germany\" are colliding — and where they can benefit from each other.",
       "url": "https://www.dw.com/en/germany-weighs-boon-and-bane-of-china-s-industrial-expansion/a-75583089?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 24 Jan 2026 09:43:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Merz says Germany won't join Trump's 'Board of Peace'",
-      "description": "German Chancellor Merz said the current form of US President Trump's \"Board of Peace\" prevented Germany from joining for \"constitutional reasons.\" But Merz said he was open to \"new formats\" of cooperation with the US.",
-      "url": "https://www.dw.com/en/merz-says-germany-won-t-join-trump-s-board-of-peace/a-75633920?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 23 Jan 2026 18:22:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
