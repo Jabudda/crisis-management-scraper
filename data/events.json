@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T08:29:55.596819Z",
+  "last_updated": "2026-01-25T08:53:05.151135Z",
   "event_count": 224,
   "events": [
     {
@@ -180,16 +180,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Minneapolis unrest: Man shot dead was ICU nurse",
-      "description": "DHS said the shot person was armed and the officer \"fired defensive shots.\" Minnesota Governor Tim Walz stressed the state, rather than federal authorities, must handle the probe into the shooting. DW has the latest.",
-      "url": "https://www.dw.com/en/minneapolis-unrest-man-shot-dead-was-icu-nurse/live-75641710?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 25 Jan 2026 08:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -793,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Minneapolis: ICE agents shoot dead nurse Alex Pretti",
+      "description": "Democrats are threatening a government shutdown after ICE agents killed Alex Pretti in Minneapolis. Pretti was a 37-year-old US citizen and intensive care nurse. DW has the latest.",
+      "url": "https://www.dw.com/en/minneapolis-ice-agents-shoot-dead-nurse-alex-pretti/live-75641710?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Jan 2026 08:39:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "US winter storm: 13,000 flights canceled as temperatures dip",
       "description": "Millions of people hunkered down as a major winter storm pummeled much of central and eastern half of the country. Thousands of flights were canceled, and thousands reported power outages in dangerously cold conditions.",
       "url": "https://www.dw.com/en/us-winter-storm-13-000-flights-canceled-as-temperatures-dip/a-75645912?maca=en-rss-en-all-1573-xml-mrss",
@@ -981,16 +981,6 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
-    },
-    {
-      "title": "Climber delays rope-free skyscraper challenge over rain",
-      "description": "Alex Honnold is attempting to scale one of the world's tallest buildings, Taipei 101 in Taiwan.",
-      "url": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Jan 2026 15:39:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
     },
     {
       "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
@@ -1653,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
+      "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Jan 2026 08:06:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "TikTok US venture to collect precise user location data",
       "description": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app.",
       "url": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
@@ -1668,6 +1668,16 @@
       "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Jan 2026 13:56:13 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Gaethje batters Pimblett to win interim lightweight title at UFC 324",
+      "description": "Rising MMA star Paddy Pimblett's nine-fight winning streak ends in a bloodied bout against the UFC's American icon.",
+      "url": "https://www.aljazeera.com/sports/2026/1/25/gaethje-batters-pimblett-to-win-interim-lightweight-title-at-ufc-324?traffic_source=rss",
+      "published": "Sun, 25 Jan 2026 08:19:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1707,16 +1717,6 @@
       "description": "Al-Maliki remains potent force despite longstanding claims he fuelled sectarianism and failed to stop ISIL expansion.",
       "url": "https://www.aljazeera.com/news/2026/1/24/iraq-shia-alliance-nominates-former-pm-nouri-al-maliki-as-its-candidate?traffic_source=rss",
       "published": "Sat, 24 Jan 2026 21:44:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Villarreal vs Real Madrid 0-2: La Liga – as it happened",
-      "description": "All our updates, with post-match reaction and interviews, following our text commentary stream of the La Liga match.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss",
-      "published": "Sat, 24 Jan 2026 17:01:07 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
