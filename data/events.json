@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-25T19:39:19.594402Z",
-  "event_count": 224,
+  "last_updated": "2026-01-25T20:26:15.065256Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Indonesia takes action against mining firms after floods devastate population of world’s rarest ape",
@@ -60,16 +60,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ceasefire extended with Kurdish force",
-      "description": "The Iranian regime’s recent crackdown on protests in Tehran and the country’s central region featured the use of military weapons, such as automatic or semi-automatic machine guns, that were previously only deployed in the remote northwestern Kurdish areas, according to Amnesty International. For Iran’s overlooked Kurdish minority, it could mean there’s worse to come. Charlotte Hughes reports.",
-      "url": "https://www.france24.com/en/ceasefire-extended-with-kurdish-force",
-      "published": "Sun, 25 Jan 2026 10:06:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -443,6 +433,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Thousands protest in Paris over death of immigrant worker in police custody",
+      "description": "Thousands of people marched in Paris on Sunday in protest at the death in police custody of 35-year-old El Hacen Diarra, whose violent arrest on January 14 was caught on camera. Paris police have launched an internal investigation into what happened, but Interior Minister Laurent Nunez has rejected calls for the officers concerned to be suspended.",
+      "url": "https://www.france24.com/en/france/20260125-thousands-protest-paris-over-death-migrant-worker-in-police-custody-hacen-diarra",
+      "published": "Sun, 25 Jan 2026 19:41:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran's Revolutionary Guard commander warns the US, says his force has its 'finger on the trigger'",
       "description": "The commander of Iran’s paramilitary Revolutionary Guard, a force which was key in putting down recent nationwide protests in a crackdown that left thousands dead, says the force is “more ready than ever, finger on the trigger.”",
       "url": "https://abcnews.go.com/International/wireStory/irans-revolutionary-guard-commander-warns-us-force-finger-129515790",
@@ -473,7 +473,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Storm causes widespread US power outages, thousands of flights cancelled",
+      "title": "Winter storm leaves over a million customers without power across US",
       "description": "From Texas to New England, the monster storm brings hazardous conditions, prompting warnings to stay off roads.",
       "url": "https://www.aljazeera.com/news/2026/1/25/us-storm-causes-widespread-power-outages-thousands-of-flights-cancelled?traffic_source=rss",
       "published": "Sun, 25 Jan 2026 16:31:36 +0000",
@@ -1553,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-25T20:25:47.906032Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Blood supplies running low in Germany",
       "description": "A shortage of blood donations in Germany could have dramatic consequences. The situation was critical in mid-January. DW's Marcel Fürstenau answered a call to donate blood and reported on his experience.",
       "url": "https://www.dw.com/en/blood-supplies-running-low-in-germany/a-75633112?maca=en-rss-en-all-1573-xml-mrss",
@@ -1664,7 +1674,7 @@
     },
     {
       "title": "Bangladesh slams India over fugitive ex-PM Hasina’s first public address",
-      "description": "Dhaka says it is 'shocked' the ousted leader was allowed to speak at a news conference, her first since the 2024 ouster.",
+      "description": "Dhaka says it is 'shocked' the ousted leader was allowed to speak at news conference, her first since the 2024 uprising.",
       "url": "https://www.aljazeera.com/news/2026/1/25/bangladesh-slams-india-over-fugitive-ex-pm-hasinas-first-public-address?traffic_source=rss",
       "published": "Sun, 25 Jan 2026 15:59:17 +0000",
       "source": "Al Jazeera",
@@ -1674,7 +1684,7 @@
     },
     {
       "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened",
-      "description": "All the updates as United shock Arsenal with stunning second half goals from Patrick Dorgu and ⁠Matheus Cunha.",
+      "description": "All the updates as United shock Arsenal with stunning second-half goals from Patrick Dorgu and ⁠Matheus Cunha.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss",
       "published": "Sun, 25 Jan 2026 13:30:00 +0000",
       "source": "Al Jazeera",
@@ -1826,7 +1836,7 @@
       "title": "M 3.8 - 4 km NW of Ohlman, Illinois",
       "description": "ShakeMap - IV DYFI? - V Time 2026-01-20 07:27:40 UTC 2026-01-20 07:27:40 UTC at epicenter Location 39.375°N 89.246°W Depth 8.76 km (5.44 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60617031",
-      "published": "2026-01-23T21:11:10.851Z",
+      "published": "2026-01-25T19:42:07.295Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
