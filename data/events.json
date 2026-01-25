@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T09:23:44.351368Z",
+  "last_updated": "2026-01-25T09:44:15.935819Z",
   "event_count": 224,
   "events": [
     {
@@ -180,6 +180,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Germany news: Majority see Trump as threat to nation",
+      "description": "A new poll finds more than 60% of Germans see the US president as a major threat. The news came as the nation vows to aggressively \"strike down\" cyber attacks from other parts of the world. Follow DW here for the latest.",
+      "url": "https://www.dw.com/en/germany-news-majority-see-trump-as-threat-to-nation/live-75639462?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 24 Jan 2026 13:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -380,6 +390,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "description": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
+      "url": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Jan 2026 04:19:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -700,16 +720,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "US federal agents shoot and kill US citizen in Minneapolis",
-      "description": "US federal agents have shot and killed a 37-year-old US citizen in Minneapolis amid an immigration crackdown.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss",
-      "published": "Sat, 24 Jan 2026 20:54:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -1053,6 +1063,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Climber Alex Honnold scales Taipei 101 skyscraper without ropes",
+      "description": "American climber Alex Honnold ascended one of the world's tallest buildings on Sunday without a rope or protective equipment.",
+      "url": "https://news.sky.com/story/climber-alex-honnold-scales-taipei-101-skyscraper-without-ropes-13498734",
+      "published": "Sun, 25 Jan 2026 08:27:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Young people must be ‘truly involved’ in transforming education",
       "description": "With young people under 30 making up more than half of the global population and over 272 million children and youth still out of school, their participation in shaping education is becoming increasingly vital.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166820",
@@ -1108,6 +1128,16 @@
       "url": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Jan 2026 03:20:10 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "‘Not optimistic’: In Ukraine, scepticism surrounds Russia war peace talks",
+      "description": "Ukrainians have little hope after a US-brokered meeting as they endure bombardments and blackouts.",
+      "url": "https://www.aljazeera.com/news/2026/1/25/not-optimistic-in-ukraine-scepticism-surrounds-russia-war-peace-talks?traffic_source=rss",
+      "published": "Sun, 25 Jan 2026 09:35:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1187,16 +1217,6 @@
       "description": "An Australian boy attacked by a shark in Sydney Harbour has died in hospital, his family has announced.",
       "url": "https://news.sky.com/story/boy-12-dies-after-shark-attack-in-sydney-harbour-13498258",
       "published": "Sat, 24 Jan 2026 07:10:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'Blood-curdling accounts' of killings and sexual violence: What we know about landmark genocide case",
-      "description": "When Dr Ronan Lee spoke to members of the Rohingya community, he heard \"blood-curdling accounts\" of killings and sexual violence allegedly carried out by Myanmar's security forces.",
-      "url": "https://news.sky.com/story/blood-curdling-accounts-of-killings-and-sexual-violence-what-we-know-about-landmark-rohingya-genocide-case-13497127",
-      "published": "Sat, 24 Jan 2026 00:01:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
@@ -1283,16 +1303,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory",
-      "description": "Canada has been boosting its forces in the Arctic in the face of new threats - and US concerns.",
-      "url": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Jan 2026 00:05:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Pentagon to reduce its role in deterrence of North Korea",
       "description": "US policy document suggests South Korea take primary responsibility, as Pentagon prioritises defending US homeland The Pentagon foresees a “more limited” role in deterring North Korea, with South Korea taking primary responsibility for the task, a Pentagon policy document released on Friday said, in a move likely to raise concern in Seoul. South Korea hosts about 28,500 US troops in combined defence against North Korea’s military threat and Seoul has raised its defence budget by 7.5% for this year. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/24/north-korea-pentagon-to-reduce-role-deterrence",
@@ -1328,6 +1338,16 @@
       "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Jan 2026 07:57:00 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Who was Alex Pretti, the nurse shot dead by federal agents in Minneapolis?",
+      "description": "Two witnesses said in court filings that the victim did not brandish a gun, refuting claims by the Trump administration.",
+      "url": "https://www.aljazeera.com/news/2026/1/25/who-was-alex-pretti-the-nurse-shot-dead-by-federal-agents-in-minneapolis?traffic_source=rss",
+      "published": "Sun, 25 Jan 2026 09:21:07 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1593,16 +1613,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany news: Berlin vows aggressive cybersecurity stance",
-      "description": "Berlin promises to take down bad cyber actors and a new report prompts questions of whether police should carry Tasers to keep them from having to use guns in self-defense. Follow DW here for the latest.",
-      "url": "https://www.dw.com/en/germany-news-berlin-vows-aggressive-cybersecurity-stance/live-75639462?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 24 Jan 2026 13:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Limited access restored to Syria’s Al Hol camp amid security concerns",
       "description": "United Nations agencies have regained limited access to Syria’s Al Hol camp and resumed the delivery of essential supplies after days of disruption caused by a volatile security situation, the UN Deputy Spokesperson said on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166824",
@@ -1664,7 +1674,7 @@
     },
     {
       "title": "Gaethje batters Pimblett to win interim lightweight title at UFC 324",
-      "description": "Rising MMA star Paddy Pimblett's nine-fight winning streak ends in a bloodied bout against the UFC's American icon.",
+      "description": "Rising MMA star Paddy Pimblett's nine-fight winning streak ends in a bloody bout against the UFC's American icon.",
       "url": "https://www.aljazeera.com/sports/2026/1/25/gaethje-batters-pimblett-to-win-interim-lightweight-title-at-ufc-324?traffic_source=rss",
       "published": "Sun, 25 Jan 2026 08:19:04 +0000",
       "source": "Al Jazeera",
@@ -1697,16 +1707,6 @@
       "description": "Arsenal will attempt to extend lead at top of Premier League to seven points, but a new-look Manchester United await.",
       "url": "https://www.aljazeera.com/sports/2026/1/24/arsenal-vs-manchester-united-premier-league-teams-start-lineups?traffic_source=rss",
       "published": "Sat, 24 Jan 2026 22:22:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iraq Shia alliance nominates former PM Nouri al-Maliki as its candidate",
-      "description": "Al-Maliki remains potent force despite longstanding claims he fuelled sectarianism and failed to stop ISIL expansion.",
-      "url": "https://www.aljazeera.com/news/2026/1/24/iraq-shia-alliance-nominates-former-pm-nouri-al-maliki-as-its-candidate?traffic_source=rss",
-      "published": "Sat, 24 Jan 2026 21:44:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
