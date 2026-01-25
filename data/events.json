@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T14:44:50.389992Z",
+  "last_updated": "2026-01-25T15:22:12.399186Z",
   "event_count": 225,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 44,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "US forces strike vessel allegedly tied to narco-terror group killing 2 as crews search for lone survivor",
-      "description": "U.S. forces killed two suspected narco-terrorists in an Eastern Pacific strike on an alleged terrorist vessel. One survivor prompted a search and rescue operation.",
-      "url": "https://www.foxnews.com/us/us-forces-strike-vessel-allegedly-tied-narco-terror-group-killing-2-crews-search-lone-survivor",
-      "published": "Fri, 23 Jan 2026 17:43:28 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -253,6 +243,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
+      "description": "Deadly Israeli air strikes target areas across south Lebanon and the Bekaa Valley amid simmering regional tensions.",
+      "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss",
+      "published": "Sun, 25 Jan 2026 15:03:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "New Zealand landslide: rescue efforts called off for six people buried in disaster",
       "description": "Rescue efforts at Mount Maunganui site switch to recovery operation that police say could take several days Efforts to rescue six people buried by a landslide at a New Zealand holiday park ended on Saturday, with police shifting into a recovery operation. Police Supt Tim Anderson said human remains had been uncovered on Friday night beneath the mountains of dirt and debris that crashed into a campsite in Mount Maunganui on Thursday, adding that it could take several days to locate all of the victims due to the unstable ground. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/24/new-zealand-landslide-rescue-efforts-called-off-for-at-least-six-people-buried-in-disaster",
@@ -320,16 +320,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Indonesia resumes search for about 80 missing after landslide kills 10",
-      "description": "The death toll from Saturday’s landslide in a residential area of West Java province has risen to 10.",
-      "url": "https://www.aljazeera.com/news/2026/1/25/indonesia-resumes-search-for-about-80-missing-after-landslide-kills-10?traffic_source=rss",
-      "published": "Sun, 25 Jan 2026 07:49:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -563,6 +553,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Minnesota school board member Chauntyll Allen ripped by state lawmaker after anti-ICE church invasion arrest",
+      "description": "Saint Paul school board member storms church with protesters, which sparked DOJ investigation after targeting pastor allegedly working as ICE agent.",
+      "url": "https://www.foxnews.com/us/minnesota-school-board-member-chauntyll-allen-ripped-by-state-lawmaker-after-anti-ice-church-invasion-arrest",
+      "published": "Sun, 25 Jan 2026 10:00:09 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
       "description": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict.",
       "url": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
@@ -583,8 +583,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Dozens still missing after Indonesia landslide kills at least 11 people",
-      "description": "Dozens of people are still missing following a landslide on Indonesia's Java island on Saturday that killed at least 11 people.",
+      "title": "Dozens still missing after Indonesia landslide kills at least 25 people",
+      "description": "Dozens of people are still missing following a landslide on Indonesia's Java island on Saturday that killed at least 25 people.",
       "url": "https://news.sky.com/story/dozens-still-missing-after-landslide-on-indonesias-java-island-kills-at-least-11-people-13498297",
       "published": "Sat, 24 Jan 2026 10:08:00 +0000",
       "source": "Sky News World",
@@ -838,6 +838,16 @@
       "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Jan 2026 23:37:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Pentagon downplays China threat: What it means for US allies",
+      "description": "US National Defense Strategy says Chinese threat is not a priority as Washington pivots to the Western Hemisphere.",
+      "url": "https://www.aljazeera.com/news/2026/1/25/pentagon-downplays-china-threat-what-it-means-for-us-allies?traffic_source=rss",
+      "published": "Sun, 25 Jan 2026 14:36:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1586,7 +1596,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-25T14:44:26.047794Z",
+      "published": "2026-01-25T15:21:49.344818Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1656,7 +1666,7 @@
       "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
       "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
       "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Jan 2026 09:46:03 GMT",
+      "published": "Sun, 25 Jan 2026 14:56:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1717,16 +1727,6 @@
       "description": "Ambassador Carlos de Cespedes says US pressure 'will not subjugate' Cuba as Venezuelan oil exports to island dry out.",
       "url": "https://www.aljazeera.com/news/2026/1/25/cuban-official-accuses-us-of-piracy-against-sanctioned-caribbean-island?traffic_source=rss",
       "published": "Sun, 25 Jan 2026 09:41:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Gaethje batters Pimblett to win interim lightweight title at UFC 324",
-      "description": "Rising MMA star Paddy Pimblett's nine-fight winning streak ends in a bloody bout against the UFC's American icon.",
-      "url": "https://www.aljazeera.com/sports/2026/1/25/gaethje-batters-pimblett-to-win-interim-lightweight-title-at-ufc-324?traffic_source=rss",
-      "published": "Sun, 25 Jan 2026 08:19:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1846,7 +1846,7 @@
       "title": "M 4.7 - 40 km S of Evanston, Wyoming",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-01-22 14:49:20 UTC 2026-01-22 14:49:20 UTC at epicenter Location 40.911°N 110.875°W Depth 14.72 km (9.15 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80127891",
-      "published": "2026-01-25T14:01:14.189Z",
+      "published": "2026-01-25T14:59:25.677Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
