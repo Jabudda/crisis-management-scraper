@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-26T07:29:24.005314Z",
-  "event_count": 226,
+  "last_updated": "2026-01-26T07:50:40.804356Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Minneapolis: Victim's family calls for \"truth\"",
@@ -103,6 +103,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Minneapolis protesters march against ICE as governor demands Trump remove agents",
+      "description": "Tim Walz says the city's second fatal shooting this month is an \"inflection point\" as protests spread over the death of Alex Pretti.",
+      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Jan 2026 07:31:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
       "title": "South Sudan crisis heightens 'risk of mass violence' against civilians, UN experts say",
       "description": "Independent UN experts warned on Sunday that escalating violence in South Sudan was raising the risk of mass atrocities against civilians, citing fresh clashes and inflammatory rhetoric. The UN Commission on Human Rights said it was gravely alarmed by fighting in Jonglei state, where witnesses reported civilians fleeing into nearby swamps.",
       "url": "https://www.france24.com/en/africa/20260126-sudan-civilian-mass-violence-risk-un-experts-report",
@@ -130,16 +140,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Historic winter storm kills at least 10 across US",
-      "description": "A monster storm barreling across swathes of the United States has killed at least 10 people and prompted warnings to stay off the roads, mass flight cancelations and power outages, as freezing conditions persisted into Monday.",
-      "url": "https://www.france24.com/en/live-news/20260126-historic-winter-storm-kills-at-least-10-across-us",
-      "published": "Mon, 26 Jan 2026 06:29:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -233,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Hotel fire in Pakistan's eastern city of Lahore leaves 3 dead, 8 others injured",
-      "description": "A fire in the basement of a hotel in Pakistan’s eastern city of Lahore has killed three people and injured eight others, officials said",
-      "url": "https://abcnews.go.com/International/wireStory/hotel-fire-pakistans-eastern-city-lahore-leaves-3-129520752",
-      "published": "Sat, 24 Jan 2026 11:29:38 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Minnesota Gov Walz demands Trump remove border agents after nurse killed",
       "description": "US president faces intensifying pressure over immigration crackdown following a second fatal shooting in Minneapolis.",
       "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss",
@@ -258,6 +248,16 @@
       "url": "https://www.theguardian.com/world/2026/jan/24/new-zealand-landslide-rescue-efforts-called-off-for-at-least-six-people-buried-in-disaster",
       "published": "Sat, 24 Jan 2026 02:23:29 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Historic winter storm kills several, causes mass travel disruption across US",
+      "description": "A colossal winter storm over the weekend and on Monday brought snow, sleet and freezing rain to the US, killing at least 10 people, causing mass travel disruption and downing power lines. The US National Weather Service warned of \"long-duration power outages, extensive tree damage, and extremely dangerous or impassable travel conditions\" across the country.",
+      "url": "https://www.france24.com/en/americas/20260126-historic-winter-storm-kills-several-causes-mass-travel-disruption-across-us",
+      "published": "Mon, 26 Jan 2026 06:29:12 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -290,6 +290,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Victorians urged to evacuate Otways as massive fire threatens to spread east towards more than 1,000 homes",
+      "description": "Fire in Otways has burned about 9,400 hectares and could spread as far as Lorne amid onset of heatwave in Victoria Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Residents of more than 1,000 homes in Victoria have been urged to leave before sunset in anticipation of a massive fire spreading and the onset of a severe heatwave . Six fires were burning across the state on Monday afternoon, and authorities were concerned that Tuesday’s heatwave conditions and forecast northerly winds could cause the fire in the Otways to spread as far as Lorne. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/26/victoria-evacuate-otways-fire-spread-east-lorne-heatwave",
+      "published": "Mon, 26 Jan 2026 07:36:00 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -401,16 +411,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
-      "description": "Second fatal shooting an 'inflection point' says Tim Walz as protests spread over Saturday's shooting of intensive care nurse Alex Pretti in Minneapolis.",
-      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Jan 2026 05:57:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "At least seven dead and 800,000 without power as major winter storm hits US",
@@ -553,7 +553,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Ferry carrying more than 350 people sinks in southern Philippines, leaving scores missing or dead",
+      "title": "Ferry carrying more than 350 people sinks in the Philippines, leaving scores missing or dead",
       "description": "A ferry carrying more than 350 people capsized off the southern Philippine province of Basilan, killing at least 18, officials said on Monday. The accident occurred after midnight as the passenger vessel MV Trisha Kerstin 3 was en route to Jolo Island in Sulu province after departing the port city of Zamboanga.",
       "url": "https://www.france24.com/en/asia-pacific/20260126-ferry-350-people-sinks-philippines-killing",
       "published": "Mon, 26 Jan 2026 04:14:10 GMT",
@@ -953,8 +953,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israel to allow 'limited reopening' of Rafah crossing once last hostage is recovered",
-      "description": "Israel said on Monday it was ready to allow the \"limited reopening\" of the Rafah border crossing between Gaza and Egypt once an operation to recover the remains of a final hostage was complete. The crossing will initially be open to pedestrian traffic despite calls from world leaders and aid agencies to allow more humanitarian convoys to be able to access Gaza.",
+      "title": "Israel to allow 'limited reopening' of Gaza's Rafah crossing",
+      "description": "Israel said on Monday it was ready to allow the \"limited reopening\" of the Rafah border crossing between Gaza and Egypt once an operation to recover the remains of a final hostage is completed. The crossing will initially be open to pedestrian traffic despite calls from world leaders and aid agencies to allow more humanitarian convoys to be able to access Gaza.",
       "url": "https://www.france24.com/en/middle-east/20260126-israel-to-allow-limited-reopening-of-rafah-crossing-once-last-hostage-is-recovered",
       "published": "Mon, 26 Jan 2026 00:49:13 GMT",
       "source": "France24",
@@ -1068,16 +1068,6 @@
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Outsourced call centre staff at NDIS have to pretend to work for government, workers say",
-      "description": "Serco employees also say they are given email addresses identical to public servants, making them indistinguishable Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Outsourced call centre staff on the national disability insurance scheme (NDIS) phone lines must pretend to be public servants, according to workers, and are responsible for deciding which funding requests are prioritised despite having no specialised welfare training. Workers at Serco, a major outsource provider, have also been issued government agency email addresses, making it impossible for the public to tell them apart from direct employees despite vast differences in their pay, conditions, training and support. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jan/25/ndis-outsourced-call-centre-pretend-government-workers",
-      "published": "Sun, 25 Jan 2026 14:00:11 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1423,16 +1413,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ceasefire with Kurdish-led force extended for another 15 days, Syrian army says",
-      "description": "Hours after the expiration of a four-day truce between the Syrian government and Kurdish-led fighters Saturday, Syria’s defense ministry announced the ceasefire had been extended by another 15 days",
-      "url": "https://abcnews.go.com/International/wireStory/ceasefire-kurdish-led-force-extended-15-days-syrian-129525411",
-      "published": "Sat, 24 Jan 2026 21:19:57 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘Dangerous nostalgia’ is a threat to multilateralism, UN deputy chief tells Danish MPs",
       "description": "United Nations Deputy Secretary-General Amina Mohammed urged countries to protect the UN Charter in a powerful speech to the Danish Parliament on Thursday, urging countries to “stand up for a rules-based order” – or pay the price.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166812",
@@ -1503,6 +1483,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Cuba's Santeros offer gifts and ask deities for peace as tensions rise with US",
+      "description": "Priests and priestesses of the Afro-Cuban religion known as Santería have offered gifts to deities and asked for peace as tensions rise between the United States and Cuba and the island braces for more economic difficulties",
+      "url": "https://abcnews.go.com/International/wireStory/cubas-santeros-offer-gifts-deities-peace-tensions-rise-129551607",
+      "published": "Sun, 25 Jan 2026 20:41:37 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Baghdad says it will prosecute Islamic State militants being moved from Syria to Iraq",
       "description": "Baghdad says it will prosecute and try militants from the Islamic State group who are being transferred from prisons and detention camps in neighboring Syria to Iraq under a U.S.-brokered deal",
       "url": "https://abcnews.go.com/International/wireStory/baghdad-prosecute-islamic-state-militants-moved-syria-iraq-129537760",
@@ -1528,16 +1518,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-26T07:29:07.371264Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -2063,10 +2043,40 @@
       "severity_level": "Low"
     },
     {
+      "title": "Mark Tully, BBC correspondent known as the 'voice of India,' dies at 90",
+      "description": "Mark Tully, a longtime BBC correspondent known as the “voice of India,” has died at 90",
+      "url": "https://abcnews.go.com/International/wireStory/mark-tully-bbc-correspondent-voice-india-dies-90-129555430",
+      "published": "Mon, 26 Jan 2026 01:53:41 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel launches 'large-scale operation' to locate last hostage in Gaza",
+      "description": "Israel says its military is conducting a large-scale operation to locate the last hostage in Gaza",
+      "url": "https://abcnews.go.com/International/wireStory/israel-launches-large-scale-operation-locate-hostage-gaza-129547976",
+      "published": "Sun, 25 Jan 2026 17:53:55 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil takes over Mexico's embassy in Peru following diplomatic rift",
+      "description": "Brazil’s foreign ministry says it has taken over Mexico’s diplomatic interests in Peru following a diplomatic rift over a Peruvian politician who was granted asylum by Mexican President Claudia Sheinbaum",
+      "url": "https://abcnews.go.com/International/wireStory/brazil-takes-mexicos-embassy-peru-diplomatic-rift-129546946",
+      "published": "Sun, 25 Jan 2026 14:09:37 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US security agreement for Ukraine is '100% ready' to be signed, Zelenskyy says",
       "description": "Zelenskyy said Ukraine is waiting for its partners to set a signing date.",
       "url": "https://abcnews.go.com/International/wireStory/us-security-agreement-ukraine-100-ready-signed-zelenskyy-129545485",
-      "published": "Sun, 25 Jan 2026 13:23:44 -0500",
+      "published": "Sun, 25 Jan 2026 23:21:50 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2096,7 +2106,7 @@
       "title": "Getting to 'no': Europe's leaders find a way to speak with one voice against Trump",
       "description": "European leaders are finding a way to speak with one voice against President Donald Trump and they're increasingly willing to say “no” to his demands",
       "url": "https://abcnews.go.com/International/wireStory/europes-leaders-find-speak-voice-trump-129537885",
-      "published": "Sun, 25 Jan 2026 07:43:26 -0500",
+      "published": "Sun, 25 Jan 2026 10:49:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2137,26 +2147,6 @@
       "description": "With Paris Fashion Week menswear heading into its final weekend, Hermès marked a transition as Véronique Nichanian presented her final men’s collection after 37 years leading the house’s menswear",
       "url": "https://abcnews.go.com/International/wireStory/herms-menswear-designer-nichanian-takes-final-bow-after-129531747",
       "published": "Sat, 24 Jan 2026 17:53:33 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The last two pandas in Japan are leaving for China as ties are strained",
-      "description": "Japanese panda fans have seen their beloved pandas return to China over the past decades, but bidding farewell to beloved twins Xiao Xiao and Lei Lei is especially emotional",
-      "url": "https://abcnews.go.com/International/wireStory/pandas-japan-leaving-china-ties-strained-129531037",
-      "published": "Sun, 25 Jan 2026 22:25:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iraq’s dominant political bloc nominates former prime minister al-Maliki as its candidate",
-      "description": "Iraq’s dominant political bloc has nominated former prime minister Nouri al-Maliki as its candidate for prime minister",
-      "url": "https://abcnews.go.com/International/wireStory/iraqs-dominant-political-bloc-nominates-former-prime-minister-129527146",
-      "published": "Sat, 24 Jan 2026 14:49:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
