@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T22:49:51.790887Z",
+  "last_updated": "2026-01-31T23:24:37.800419Z",
   "event_count": 222,
   "events": [
     {
@@ -198,6 +198,16 @@
       "url": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Jan 2026 22:03:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Myanmar crisis deepens five years after coup, as military ballot entrenches repression",
+      "description": "Five years after Myanmar’s military seized power and jailed the country’s elected leaders, the United Nations says the country’s crisis has only deepened, marked by escalating violence, mass displacement and a military-controlled election that UN officials warn has further entrenched repression rather than restored civilian rule.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166866",
+      "published": "Fri, 30 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -563,16 +573,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Satellite photos show activity at Iran nuclear sites as tensions rise over protest crackdown",
-      "description": "Satellite images reveal activity at two Iranian nuclear sites, suggesting that Tehran may be obscuring its efforts to salvage any materials remaining there",
-      "url": "https://abcnews.go.com/International/wireStory/satellite-photos-show-activity-iran-nuclear-sites-tensions-129714845",
-      "published": "Fri, 30 Jan 2026 14:09:41 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Madison Square Garden warns brawlers of life bans before Lopez vs Stevenson",
       "description": "New York venue Madison Square Gardens issues warning before Teofimo Lopez vs Shakur Stevenson and Knicks vs Lakers bill.",
       "url": "https://www.aljazeera.com/sports/2026/1/31/madison-square-garden-to-life-ban-brawlers-ahead-of-lopez-vs-stevenson?traffic_source=rss",
@@ -598,16 +598,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166865",
       "published": "Fri, 30 Jan 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Nevada judge frees convicted MS-13 killer despite government warnings about public safety",
-      "description": "A Nevada judge released a convicted MS-13 murderer despite Justice Department warnings, sparking public safety concerns and legal controversy.",
-      "url": "https://www.foxnews.com/us/nevada-judge-frees-convicted-ms-13-killer-despite-government-warnings-about-public-safety",
-      "published": "Fri, 30 Jan 2026 17:27:55 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -744,20 +734,10 @@
     },
     {
       "title": "News live: Australia declines to join statement condemning Israel for Unrwa HQ demolition; Liberal party can win elections without Nationals, Ruston says",
-      "description": "Foreign ministers of 11 nations including UK, Canada and France strongly condemned demolition of the site in East Jerusalem in January. Follow live updates Get our breaking news email , free app or daily news podcast Returning to the future of the Coalition and the Liberal Party, O’Brien is asked what direction the party should go in. I believe that the Liberal Party is we are united, we are values led, we are future focused, and we are economically driven. And there’s nothing more important than economy. Not because the economy is the end game, it is the means by which we can serve the Australian people better. It’s the means which a strong economy is how you can help those mums and dads who are struggling to pay the mortgage. You can help those mums and dads who are struggling to pay the school fees. Well, it doesn’t surprise me the Prime Minister hasn’t made a David. It’s all about politics for him. Let’s not forget that this Prime Minister cut the resources, cut the staffing of the opposition at the beginning of this term. This is the sort of internal game playing of Anthony Albanese. What I’m saying is there’s one thing we can be sure of - Anthony Albanese will politics like he always does. Continue reading...",
+      "description": "Foreign ministers of 11 nations including UK, Canada and France strongly condemned demolition of the site in East Jerusalem in January. Follow live updates Get our breaking news email , free app or daily news podcast Matt Canavan rules out Nationals leadership tilt Nationals Senator Matt Canavan says he is not harbouring any plans to run against party leader David Littleproud, with a vote on his leadership expected to take place on Monday, saying “I don’t care about all this stuff”. Maybe I’m a different kind of species, Andrew?” I go to Canberra to take action. I’ve got five beautiful kids; I’ve got a beautiful wife. I’d prefer to be staying home this week, but I’m going down to try and improve things for the Australian people. And I really don’t care what position in the zoo I am. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/feb/01/news-live-australia-statement-israel-unrwa-ruston-liberal-party-nationals-sussan-ley-anthony-albanese-heatwave-weather-ntwnfb",
-      "published": "Sat, 31 Jan 2026 22:42:01 GMT",
+      "published": "Sat, 31 Jan 2026 23:13:11 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "World News in Brief: Deadly shipwrecks in the Mediterranean, Duterte trial update, final hostage remains recovered in Gaza, FAO boosts farming in Haiti",
-      "description": "The UN migration agency, IOM, expressed deep concern on Monday over multiple deadly shipwrecks that are believed to have taken place over the past ten days across the Central Mediterranean.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166834",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -884,7 +864,7 @@
     },
     {
       "title": "NSW to remove ‘good character’ from being considered at sentencing hearings in nationwide first",
-      "description": "Survivors of sexual abuse welcome the ‘monumental shift’ in how courts approach sentencing, while others say it could limit defendants’ rights Get our breaking news email , free app or daily news podcast Offenders convicted of any crime will no longer be able to rely on glowing character references during sentencing under changes being introduced in New South Wales, in a move supported by survivors of sexual abuse but which others say could limit defendants’ rights. On Wednesday, the state government will become the first nationwide to introduce legislation to remove “good character” from being considered at sentencing hearings, when judges hear about someone’s prior record, general reputation and any positive contributions to society as mitigating factors. Continue reading...",
+      "description": "Survivors of sexual abuse welcome the ‘monumental shift’ in how courts approach sentencing, while others say it could limit defendants’ rights Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Offenders convicted of any crime will no longer be able to rely on glowing character references during sentencing under changes being introduced in New South Wales, in a move supported by survivors of sexual abuse but which others say could limit defendants’ rights. On Wednesday, the state government will become the first nationwide to introduce legislation to remove “good character” from being considered at sentencing hearings, when judges hear about someone’s prior record, general reputation and any positive contributions to society as mitigating factors. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jan/31/nsw-to-remove-good-character-from-being-considered-at-sentencing-hearings-in-nationwide-first",
       "published": "Sat, 31 Jan 2026 19:00:08 GMT",
       "source": "The Guardian World",
@@ -968,6 +948,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166850",
       "published": "Wed, 28 Jan 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Louisiana authorities, federal agents nab all 8 inmates who escaped in jailbreak after massive manhunt",
+      "description": "All eight violent offenders who escaped Louisiana's Riverbend Detention Center have been captured after massive manhunt involving state police and federal agencies.",
+      "url": "https://www.foxnews.com/us/louisiana-authorities-federal-agents-nab-all-8-inmates-escaped-jailbreak-massive-manhunt",
+      "published": "Sat, 31 Jan 2026 18:08:12 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1163,7 +1153,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Martha Moxley Case: Kennedy cousin points to ‘bold-faced lies,’ missing evidence in murder probe",
+      "title": "Martha Moxley case: Kennedy cousin points to ‘bold-faced lies,’ missing evidence in murder probe",
       "description": "Kennedy cousin Michael Skakel, cleared in Martha Moxley's 1975 murder after 11 years in prison, discusses the decades-old Connecticut case that remains unsolved.",
       "url": "https://www.foxnews.com/us/martha-moxley-case-kennedy-cousin-points-bold-faced-lies-missing-evidence-murder-probe",
       "published": "Sat, 31 Jan 2026 14:00:52 -0500",
@@ -1384,7 +1374,7 @@
     },
     {
       "title": "NSW Greens to move bill to let councils better regulate berry industry as it continues rapid expansion",
-      "description": "Residents and local authorities are worried about environmental hazards and land devaluation as minister says excess regulations may hinder modern farming practices Get our breaking news email , free app or daily news podcast Cate Faehrmann, a Greens member of the New South Wales legislative council, will move a private member’s bill next week to give councils more power to regulate blueberry and other berry farms which are expanding throughout the mid-north coast, leading to serious frictions with other landholders. Separately, the state Labor government is considering an inquiry into alleged worker abuse in the region. Most states regulate labour hire companies, which serve as intermediaries between farmers and seasonal workers, but NSW does not. Continue reading...",
+      "description": "Residents and local authorities are worried about environmental hazards and land devaluation as minister says excess regulations may hinder modern farming practices Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Cate Faehrmann, a Greens member of the New South Wales legislative council, will move a private member’s bill next week to give councils more power to regulate blueberry and other berry farms which are expanding throughout the mid-north coast, leading to serious frictions with other landholders. Separately, the state Labor government is considering an inquiry into alleged worker abuse in the region. Most states regulate labour hire companies, which serve as intermediaries between farmers and seasonal workers, but NSW does not. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jan/31/australia-berry-industry-bill-nsw-greens",
       "published": "Sat, 31 Jan 2026 19:00:07 GMT",
       "source": "The Guardian World",
@@ -1443,10 +1433,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Gaza ceasefire improves aid access, but children still face deadly conditions",
-      "description": "The fragile ceasefire in the Gaza Strip is making a difference to the lives of over a million children, and improving overall access to food - but more aid still needs to enter.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166835",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
+      "title": "Can workers compete with machines and stay relevant in the AI era?",
+      "description": "AI looks set to be transformative for us all, but it also brings a real risk of job losses and widening social and economic divides. UN experts are focusing on how to manage that transition, to ensure the benefits of the technology outweigh the threats.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166847",
+      "published": "Sat, 31 Jan 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 5,
@@ -1636,7 +1626,7 @@
       "title": "Takeaways from the millions of newly released Epstein files",
       "description": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
       "url": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Jan 2026 17:48:01 GMT",
+      "published": "Sat, 31 Jan 2026 23:14:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2068,6 +2058,16 @@
       "url": "https://news.sky.com/story/everything-to-know-about-artemis-ii-the-nasa-mission-to-send-astronauts-around-the-moon-13497536",
       "published": "Sat, 31 Jan 2026 00:01:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US ambassador arrives in Venezuela to reopen diplomatic mission after 7 years",
+      "description": "U.S. Ambassador Laura Dogu has arrived in Caracas.",
+      "url": "https://abcnews.go.com/International/wireStory/us-ambassador-arrives-venezuela-reopen-diplomatic-mission-after-129741505",
+      "published": "Sat, 31 Jan 2026 18:03:52 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
