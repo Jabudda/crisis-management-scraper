@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T08:35:54.530545Z",
-  "event_count": 222,
+  "last_updated": "2026-02-01T09:33:15.444147Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Islamic State claims attack on international airport and airbase in Niger",
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 53,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: Iran's ‍Khamenei ​warns ⁠if ​US ‍starts ​a ​war it could spark ‍regional ‌conflict",
+      "description": "Iran's ​Supreme ⁠Leader Ayatollah Ali Khamenei ​said ‍in Sunday that ​if the ​US attacked Iran it could become a ‍regional ​conflict, the semi-official Tasnim ‌news agency reported. Earlier Iran’s parliament said it considers all EU militaries to be terrorist groups in a retaliatory move following an EU agreement last week to class Iran's Revolutionary Guard as a terrorist group. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/asia-pacific/20260201-live-qatar-s-top-diplomat-holds-talks-in-iran-aiming-to-reduce-tensions",
+      "published": "Sun, 01 Feb 2026 06:00:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 47,
       "severity_level": "Critical"
     },
     {
@@ -213,16 +223,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Separatists launch 'coordinated' attacks in southwest Pakistan",
-      "description": "Ethnic Baloch separatists launched \"coordinated\" attacks across Pakistan's Balochistan province on Saturday, killing at least ten policemen, officials said, the latest violence in insurgency-hit southwest region. FRANCE 24's correspondent Shahzaib Wahlah reports that the situation in the provincial capital of Quetta remains tense.",
-      "url": "https://www.france24.com/en/video/20260131-separatists-launch-coordinated-attacks-in-southwest-pakistan",
-      "published": "Sat, 31 Jan 2026 11:39:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Salman Rushdie refuses to be 'diverted' by terrorism after surviving near-fatal stabbing attack",
       "description": "Salman Rushdie premieres documentary about his 2022 stabbing attack at Sundance Film Festival, sharing his powerful story of survival and resilience.",
       "url": "https://www.foxnews.com/us/salman-rushdie-refuses-diverted-terrorism-after-surviving-near-fatal-stabbing-attack",
@@ -293,11 +293,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "UN risks 'imminent financial collapse', secretary general warns",
-      "description": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
-      "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Jan 2026 16:24:18 GMT",
-      "source": "BBC News",
+      "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
+      "description": "Move comes after a European Union decision to label the Islamic Revolutionary Guard Corps a 'terrorist organisation'.",
+      "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 08:47:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran updates: Iran classes EU armies as terrorist groups",
+      "description": "In a tit-for-tat move, Iran has said it now considers EU militaries to be terrorist organizations. The Iranian president has called for tensions with Washington to be resolved diplomatically. DW has more.",
+      "url": "https://www.dw.com/en/iran-updates-iran-classes-eu-armies-as-terrorist-groups/live-75746046?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 1 Feb 2026 08:48:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -317,16 +327,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/asia-pacific/20260201-live-qatar-s-top-diplomat-holds-talks-in-iran-aiming-to-reduce-tensions",
       "published": "Sun, 01 Feb 2026 06:51:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Live: Iran says it now considers all EU armies to be 'terrorist groups'",
-      "description": "Iran said on Sunday it now considers all European militaries to be terrorist groups in a retaliatory move following an EU agreement last week to class Iran's Revolutionary Guard as a terrorist group. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/asia-pacific/20260201-live-qatar-s-top-diplomat-holds-talks-in-iran-aiming-to-reduce-tensions",
-      "published": "Sun, 01 Feb 2026 06:00:26 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 21,
@@ -398,16 +398,6 @@
       "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Feb 2026 00:57:25 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Pakistan: Dozens killed in 'coordinated' Balochistan attacks",
-      "description": "Officials have said at least 15 security personnel and 92 militants were killed in southwestern Balochistan province. Pakistan has been battling a separatist insurgency in the region for decades.",
-      "url": "https://www.dw.com/en/pakistan-dozens-killed-in-coordinated-balochistan-attacks/a-75737955?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 31 Jan 2026 09:55:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -573,6 +563,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
+      "description": "With the global spotlight shifting from Gaza, the campaign to isolate Israel has never been more urgent, experts say.",
+      "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 08:24:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "‘Deeply insecure’: Why Bangladeshi minorities are scared ahead of elections",
       "description": "A spate of recent attacks has amplified fears among the country's religious minorities ahead of the February 12 vote.",
       "url": "https://www.aljazeera.com/features/2026/2/1/deeply-insecure-why-bangladeshi-minorities-are-scared-ahead-of-elections?traffic_source=rss",
@@ -660,6 +660,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran in 'serious discussions' with US, Trump says, as military threat looms",
+      "description": "Iran is expected to begin a live-fire naval exercise in the Strait of Hormuz, a key shipping route.",
+      "url": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Feb 2026 09:24:55 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -853,16 +863,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kari Lake promotes Trump on Voice of America. Does that break the law?",
-      "description": "Critics say U.S. Agency for Global Media's Kari Lake risks making Voice of America sound like a propaganda outlet in her remarks on the air praising President Trump.",
-      "url": "https://www.npr.org/2026/01/30/nx-s1-5683246/kari-lake-trump-voa-pnn-iran-firewall-propaganda",
-      "published": "Fri, 30 Jan 2026 05:01:00 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Goma under rebel control: Life in the shadow of violence",
       "description": "One year after M23 rebels captured Goma, residents of the city in the Democratic Republic of Congo are looking for ways to cope with the trauma.",
       "url": "https://www.dw.com/en/goma-under-rebel-control-life-in-the-shadow-of-violence/a-75743471?maca=en-rss-en-all-1573-xml-mrss",
@@ -1023,8 +1023,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kendrick Lamar, Lady Gaga, Bad Bunny vie for Grammy's album of the year",
-      "description": "Music superstars are set to attend the Grammy Awards in California on Sunday with top acts Kendrick Lamar, Bad Bunny and Lady Gaga all in the running for the coveted album of the year award.",
+      "title": "Kendrick Lamar, Lady Gaga, Bad Bunny vie for Grammy's Album of the Year",
+      "description": "Music superstars are set to attend the Grammy Awards in California on Sunday with top acts Kendrick Lamar, Bad Bunny and Lady Gaga all in the running for the coveted \"Album of the Year\" award.",
       "url": "https://www.france24.com/en/culture/20260201-kendrick-lamar-lady-gaga-bad-bunny-vie-for-grammy-s-album-of-the-year",
       "published": "Sun, 01 Feb 2026 02:01:22 GMT",
       "source": "France24",
@@ -1043,10 +1043,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nigeria's Fela Kuti is first African musician honoured with Grammys Lifetime Achievement award",
-      "description": "Nigeria’s Afrobeat legend Fela Kuti will be posthumously honored this weekend with a Grammys Lifetime Achievement Award, becoming the first African artist to receive the prestigious distinction.",
-      "url": "https://www.france24.com/en/culture/20260131-fela-kuti-first-african-honored-grammys-lifetime-achievement-award-afrobeat",
-      "published": "Sat, 31 Jan 2026 11:33:36 GMT",
+      "title": "Snowstorm disrupts travel in southern US as blast of icy weather widens",
+      "description": "Travel misery was set to continue Sunday as a powerful snowstorm blasted southern US states, bringing subzero temperatures to regions not accustomed to the deadly winter conditions.",
+      "url": "https://www.france24.com/en/live-news/20260131-snow-storm-barrels-into-southern-us-as-blast-of-icy-weather-widens",
+      "published": "Sat, 31 Jan 2026 16:19:09 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1193,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Slovakia PM's national security adviser resigns over Epstein links",
+      "description": "Miroslav Lajčák steps down after newly released exchanges showed him discussing girls and diplomacy with the late sex offender.",
+      "url": "https://www.bbc.com/news/articles/cnvgljj1dygo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Feb 2026 08:37:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Judge orders release of five-year-old detained by ICE in Minneapolis",
       "description": "The detention of pre-schooler Liam Conejo Ramos, pictured wearing a blue bunny-shaped hat and a Spider-Man backpack, sparked national outcry.",
       "url": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss",
@@ -1323,20 +1333,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iraq Shia bloc reiterates support for al-Maliki despite Trump’s threats",
-      "description": "The Coordination Framework said that selecting a PM is an internal constitutional matter.",
-      "url": "https://www.aljazeera.com/news/2026/1/31/iraq-shia-bloc-reiterates-support-for-al-maliki-despite-trumps-threats?traffic_source=rss",
-      "published": "Sat, 31 Jan 2026 20:57:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US judge declines to halt immigration surge in Minnesota amid protests",
-      "description": "Minneapolis mayor criticises judge's ruling, calling the Trump administration's immigration crackdown 'an invasion'.",
-      "url": "https://www.aljazeera.com/news/2026/1/31/us-judge-declines-to-halt-immigration-surge-in-minnesota-amid-protests?traffic_source=rss",
-      "published": "Sat, 31 Jan 2026 20:18:12 +0000",
+      "title": "‘No ICE in Italy’: Hundreds protest Winter Olympic deployment",
+      "description": "Hundreds of protesters in Italy have denounced plans to bring ICE agents from the US to the Winter Olympics in Milan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/no-ice-in-italy-hundreds-protest-winter-olympic-deployment?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 09:18:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1348,6 +1348,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/jan/31/australia-berry-industry-bill-nsw-greens",
       "published": "Sat, 31 Jan 2026 19:00:07 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Gaza border crossing buzzes with activity after years of near-complete closure",
+      "description": "Reopening the border crossing is a key step as the Israel-Hamas ceasefire moves ahead.",
+      "url": "https://www.npr.org/2026/02/01/nx-s1-5695694/gaza-border-rafah-closure",
+      "published": "Sun, 01 Feb 2026 04:22:04 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1368,6 +1378,16 @@
       "url": "https://www.dw.com/en/israeli-strikes-kill-more-than-30-palestinians-in-gaza/a-75742841?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 31 Jan 2026 17:47:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "French IT group Capgemini to sell US subsidiary linked to ICE",
+      "description": "The French IT giant Capgemini announced on Sunday that it will sell its US subsidiary following controversy sparked by a contract it held with US Immigration and Customs Enforcement (ICE) amid weeks of protests against US President Donald Trump's immigration crackdown.",
+      "url": "https://www.france24.com/en/france/20260201-french-it-group-capgemini-to-sell-us-subsidiary-linked-to-ice",
+      "published": "Sun, 01 Feb 2026 08:18:09 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1543,6 +1563,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-01T09:32:52.675221Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Coast Guard suspends search for survivors after fishing boat sinks off Massachusetts; 1 body recovered",
       "description": "The Coast Guard suspended its search Saturday after the fishing vessel Lily Jean reportedly sank off Cape Ann with seven aboard, including an NOAA observer.",
       "url": "https://www.foxnews.com/us/coast-guard-searching-survivors-after-commercial-fishing-boat-sinks-off-massachusetts-1-body-recovered",
@@ -1550,16 +1580,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "After ICE raids... a once bustling Chicago neighbourhood has changed",
-      "description": "Businesses in Little Village - known as the \"Mexico of the Midwest\" - are suffering after weeks of immigration raids.",
-      "url": "https://www.bbc.com/news/articles/cql4e439g4no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Feb 2026 00:01:01 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1673,6 +1693,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Yamal scores as Barcelona win at Elche to extend La Liga lead",
+      "description": "Teenage star Lamine Yamal opens the scoring after six minutes to set the foundation for a convincing Barcelona victory.",
+      "url": "https://www.aljazeera.com/sports/2026/2/1/yamal-scores-as-barcelona-win-at-elche-to-extend-la-liga-lead?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 08:49:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Volkanovski wins featherweight title defence against Lopes at UFC 325",
       "description": "Alexander Volkanovski retains his UFC featherweight title with a unanimous decision over Diego Lopes in Australia.",
       "url": "https://www.aljazeera.com/sports/2026/2/1/volkanovski-wins-featherweight-title-defence-against-lopes-at-ufc-325?traffic_source=rss",
@@ -1737,26 +1767,6 @@
       "description": "Caracas says it is opening up the sector to private players.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/1/31/how-much-control-will-the-us-have-over-venezuelas-oil?traffic_source=rss",
       "published": "Sat, 31 Jan 2026 22:43:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Peter Kornbluh: Is Trump pushing a new imperialism in Latin America?",
-      "description": "Peter Kornbluh speaks to Marc Lamont Hill on Trump’s abduction of Venezuela’s president and fallout for Latin America.",
-      "url": "https://www.aljazeera.com/video/upfront/2026/1/31/peter-kornbluh-is-trump-pushing-a-new-imperialism-in-latin-america?traffic_source=rss",
-      "published": "Sat, 31 Jan 2026 19:30:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Tributes pour in for beloved actress Catherine O’Hara",
-      "description": "Actors and politicians honour O'Hara, who died this week at age 71, for her comedic 'brilliance' and generosity.",
-      "url": "https://www.aljazeera.com/news/2026/1/31/tributes-pour-in-for-beloved-actress-catherine-ohara?traffic_source=rss",
-      "published": "Sat, 31 Jan 2026 18:50:21 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2043,10 +2053,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "French IT group Capgemini to sell subsidiary linked to ICE",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/live-news/20260201-french-it-group-capgemini-to-sell-subsidiary-linked-to-ice",
-      "published": "Sun, 01 Feb 2026 08:18:09 GMT",
+      "title": "Elena Rybakina stuns Aryna Sabalenka to claim first Australian Open title",
+      "description": "Elena Rybakina won her first Grand Slam in nearly four years by beating the top seed in Melbourne (6-4, 4-6, 6-4). Sabalenka, who was leading 3-0 in the final set, has now lost three of her last four major finals.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260201-elena-rybakina-stuns-aryna-sabalenka-to-claim-first-australian-open-title",
+      "published": "Sun, 01 Feb 2026 09:28:42 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
