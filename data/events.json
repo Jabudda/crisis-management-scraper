@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T15:50:08.455857Z",
-  "event_count": 222,
+  "last_updated": "2026-02-01T16:32:03.314894Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Iran brands European armies 'terrorists' and warns of 'regional war'",
@@ -213,6 +213,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Swiss Alpine bar fire claims 41st victim, an 18-year-old Swiss national",
+      "description": "Swiss prosecutors have opened a criminal investigation into the owners of Le Constellation bar in the ski resort of Crans-Montana, where a fire in the early hours of Jan. 1 killed dozens.",
+      "url": "https://www.npr.org/2026/02/01/nx-s1-5695756/swiss-alpine-bar-fire-claims-41st-victim",
+      "published": "Sun, 01 Feb 2026 10:53:59 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
       "title": "State Department issues security alert amid 'heavy gunfire' near US Embassy in Haiti",
       "description": "The U.S. Embassy in Haiti issued an urgent security alert as heavy gunfire erupted in Port-au-Prince. American citizens were warned to avoid areas near the embassy.",
       "url": "https://www.foxnews.com/world/state-department-issues-security-alert-amid-heavy-gunfire-near-us-embassy-haiti",
@@ -266,7 +276,7 @@
       "title": "Twelve killed by Russian strike near bus in Ukraine, official says",
       "description": "Seven others were reported injured in the strike on Sunday, according to preliminary information.",
       "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Feb 2026 15:38:56 GMT",
+      "published": "Sun, 01 Feb 2026 16:11:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 21,
@@ -388,6 +398,16 @@
       "url": "https://www.theguardian.com/world/2026/feb/01/costa-rica-polls-fears-authoritarian-turn-laura-fernandez",
       "published": "Sun, 01 Feb 2026 10:00:24 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian drone strike on bus in Ukraine kills 15",
+      "description": "A Russian drone strike on a bus in Ukraine has killed at least 15 people, emergency services have said.",
+      "url": "https://news.sky.com/story/russian-drone-strike-on-bus-in-ukraine-kills-15-13499502",
+      "published": "Tue, 27 Jan 2026 07:40:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -563,16 +583,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel split over plans to bring back death penalty for deadly attacks",
-      "description": "In a highly controversial move, some Israeli MPs are trying to introduce the death penalty for Palestinian attackers.",
-      "url": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Jan 2026 06:09:39 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "How Western officials, media coverage pushed to discredit Gaza death toll",
       "description": "Rights advocates say casting doubt over Gaza death toll dehumanised Palestinians as Israel acknowledges 70,000 killed.",
       "url": "https://www.aljazeera.com/news/2026/2/1/how-western-officials-media-coverage-pushed-to-discredit-gaza-death-toll?traffic_source=rss",
@@ -583,7 +593,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Family of seven-year-old girl missing in Morocco describe 'unbearable pain'",
+      "title": "Family of seven-year-old British girl missing in Morocco describe 'unbearable pain'",
       "description": "The family of a seven-year-old girl who was swept out to sea in Morocco have described their \"unbearable pain\" as search and rescue operations have been \"hampered by severe weather\".",
       "url": "https://news.sky.com/story/family-of-seven-year-old-girl-missing-in-morocco-describe-unbearable-pain-as-search-hampered-by-severe-weather-13501862",
       "published": "Sun, 01 Feb 2026 13:08:00 +0000",
@@ -638,16 +648,6 @@
       "url": "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss",
       "published": "Sun, 01 Feb 2026 10:23:16 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian drone strike on Ukraine bus kills 12",
-      "description": "A Russian drone strike on a bus in Ukraine has killed 12 people, a local official has said.",
-      "url": "https://news.sky.com/story/russian-drone-strike-on-ukraine-bus-kills-12-13499502",
-      "published": "Tue, 27 Jan 2026 07:40:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -874,7 +874,7 @@
     },
     {
       "title": "Pakistan to boycott T20 World Cup match against India on February 15",
-      "description": "This is a breaking news story, more details to follow.",
+      "description": "Pakistan will forfeit two points if they don't take the field for the game in Colombo.",
       "url": "https://www.aljazeera.com/sports/2026/2/1/pakistan-to-boycott-t20-world-cup-match-against-india-on-february-15?traffic_source=rss",
       "published": "Sun, 01 Feb 2026 14:57:45 +0000",
       "source": "Al Jazeera",
@@ -1553,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-01T16:31:38.448539Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Coast Guard suspends search for survivors after fishing boat sinks off Massachusetts; 1 body recovered",
       "description": "The Coast Guard suspended its search Saturday after the fishing vessel Lily Jean reportedly sank off Cape Ann with seven aboard, including an NOAA observer.",
       "url": "https://www.foxnews.com/us/coast-guard-searching-survivors-after-commercial-fishing-boat-sinks-off-massachusetts-1-body-recovered",
@@ -1560,6 +1570,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Mbappe’s late penalty gives edgy Real Madrid 2-1 win over Rayo Vallecano",
+      "description": "Real Madrid earn ⁠a hard-fought victory over their local ​rivals and move within one point of league leaders Barcelona.",
+      "url": "https://www.aljazeera.com/sports/2026/2/1/mbappes-late-penalty-gives-edgy-real-madrid-2-1-win-over-rayo-vallecano?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 15:37:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1607,6 +1627,16 @@
       "description": "Medical charity Medicine Sans Frontières said it would not share the list as it had not been able to ensure staff would remain safe.",
       "url": "https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Feb 2026 13:20:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Aspiring Nigerian singer dies after being bitten by a snake",
+      "description": "Ifunanya Nwangene, a former contestant in The Voice Nigeria, died after not getting the antivenom she needed.",
+      "url": "https://www.bbc.com/news/articles/c77k0nlvx3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Feb 2026 16:10:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1717,16 +1747,6 @@
       "description": "Starmer says Andrew Mountbatten-Windsor should testify before US Congress about past dealings with late sex offender.",
       "url": "https://www.aljazeera.com/news/2026/2/1/uk-pm-starmer-urges-ex-prince-andrew-to-cooperate-in-epstein-files-probe?traffic_source=rss",
       "published": "Sun, 01 Feb 2026 10:09:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "LIVE: Real Madrid beat Rayo Vallecano 2-1 in La Liga",
-      "description": "Follow the build-up, analysis, and live text commentary of the game as Real host Rayo for a Madrid derby.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/2/1/live-real-madrid-vs-rayo-vallecano-la-liga?traffic_source=rss",
-      "published": "Sun, 01 Feb 2026 10:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1856,7 +1876,7 @@
       "title": "M 4.2 - 8 km NE of Black Eagle, Montana",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-01-29 19:41:09 UTC 2026-01-29 19:41:09 UTC at epicenter Location 47.585°N 111.202°W Depth 22.47 km (13.96 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5ba",
-      "published": "2026-02-01T04:36:09.684Z",
+      "published": "2026-02-01T16:10:47.472Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1897,16 +1917,6 @@
       "description": "Losing democracy once can make it harder to restore it, even after a democratic government returns to power. University of Birmingham professor Nic Cheeseman analyzed three decades of data.",
       "url": "https://www.npr.org/2026/01/31/nx-s1-5684187/after-backsliding-democracy-often-comes-back-weaker-and-more-fragile",
       "published": "Sat, 31 Jan 2026 16:50:18 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "With decades-long restrictions lifted, a Pakistani brewery has started exporting beer",
-      "description": "Drinking is illegal for Pakistan's Muslim majority, but Murree Brewery's beer has long been available to non-Muslims and foreigners there. Now it's being exported to the U.K., Japan and Portugal. Is the U.S. next?",
-      "url": "https://www.npr.org/2026/01/31/g-s1-105888/pakistan-beer-exports-murree-brewery-alcohol",
-      "published": "Sat, 31 Jan 2026 05:03:00 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2003,7 +2013,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuelan human rights activist Javier Tarazona freed in prisoner release",
+      "title": "Venezuela frees prominent human rights activist Javier Tarazona",
       "description": "Prominent Venezuelan human rights activist Javier Tarazona was released after more than four years in jail, a legal rights group said Sunday. Tarazona was arrested in July 2021, and is the latest in a spate of high-profile political prisoner releases by Venezuela's interim authorities since the January 3 ouster of former leader Nicolas Maduro.",
       "url": "https://www.france24.com/en/americas/20260201-venezuelan-human-rights-activist-javier-tarazona-freed-prisoner-release",
       "published": "Sun, 01 Feb 2026 14:47:14 GMT",
