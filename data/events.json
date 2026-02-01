@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T11:23:03.202943Z",
-  "event_count": 222,
+  "last_updated": "2026-02-01T11:44:45.443155Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Islamic State claims attack on international airport and airbase in Niger",
@@ -270,6 +270,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran's supreme leader warns of regional war if US attacks",
+      "description": "Trump earlier said Iran - which is due to begin a live-fire naval exercise in a key shipping route - was in \"serious discussions\".",
+      "url": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Feb 2026 09:50:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -710,16 +720,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran in 'serious discussions' with US, Trump says, as military threat looms",
-      "description": "Iran is expected to begin a live-fire naval exercise in the Strait of Hormuz, a key shipping route.",
-      "url": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Feb 2026 09:50:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -1578,6 +1578,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-01T11:44:23.489270Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
