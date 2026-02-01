@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T17:50:58.451728Z",
+  "last_updated": "2026-02-01T18:37:15.482241Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump 'hopeful' of Iran deal after regional conflict warning",
+      "description": "Donald Trump has said the US will \"hopefully\" make a deal with Iran after the country's leader warned of a regional conflict if Washington attacked.",
+      "url": "https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758",
+      "published": "Sun, 01 Feb 2026 05:46:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -163,16 +173,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran warns of regional war if US attacks",
-      "description": "Iran's Supreme Leader has warned Donald Trump that the entire region will be engulfed in conflict if the US starts a war.",
-      "url": "https://news.sky.com/story/iran-has-fingers-on-the-trigger-as-trump-sends-very-big-powerful-ships-to-region-13501758",
-      "published": "Sun, 01 Feb 2026 05:46:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Salman Rushdie refuses to be 'diverted' by terrorism after surviving near-fatal stabbing attack",
       "description": "Salman Rushdie premieres documentary about his 2022 stabbing attack at Sundance Film Festival, sharing his powerful story of survival and resilience.",
       "url": "https://www.foxnews.com/us/salman-rushdie-refuses-diverted-terrorism-after-surviving-near-fatal-stabbing-attack",
@@ -273,21 +273,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Fifteen miners killed by Russian strike in Ukraine, energy company says",
+      "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
       "description": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
       "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Feb 2026 17:38:44 GMT",
+      "published": "Sun, 01 Feb 2026 18:01:53 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran designates European armies ‘terrorist groups’ in retaliatory move",
-      "description": "Iran has announced that it now considers all European Union militaries to be 'terrorist groups'.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss",
-      "published": "Sun, 01 Feb 2026 10:29:49 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -373,16 +363,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'Deepening crisis' in Myanmar, UK foreign secretary warns",
-      "description": "Foreign Secretary Yvette Cooper has said the people of Myanmar \"face a deepening crisis\", five years after the country's democratically-elected government was overthrown by the military.",
-      "url": "https://news.sky.com/story/five-years-on-from-military-coup-that-deposed-aung-san-suu160kyi-myanmar-faces-deepening-crisis-yvette-cooper-says-13501717",
-      "published": "Sun, 01 Feb 2026 00:01:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Sudan's war-torn capital sees second commercial flight land since conflict began",
       "description": "A commercial flight has landed in Sudan's capital for the second time since a devastating war began nearly three years ago",
       "url": "https://abcnews.go.com/International/wireStory/sudans-war-torn-capital-sees-commercial-flight-land-129749973",
@@ -423,9 +403,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Russian drone strike on bus in Ukraine kills 15",
-      "description": "A Russian drone strike on a bus in Ukraine has killed at least 15 people, emergency services have said.",
-      "url": "https://news.sky.com/story/russian-drone-strike-on-bus-in-ukraine-kills-15-13499502",
+      "title": "Russian drone strike on bus in Ukraine kills 12",
+      "description": "A Russian drone strike on a bus in Ukraine has killed at least 12 people, emergency services have said.",
+      "url": "https://news.sky.com/story/russian-drone-strike-on-bus-in-ukraine-kills-12-13499502",
       "published": "Tue, 27 Jan 2026 15:20:00 +0000",
       "source": "Sky News World",
       "type": "rss",
@@ -603,6 +583,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iranian protester Erfan Soltani released after death sentence threat",
+      "description": "An Iranian protester whose family were told he faced the death penalty has been released, a relative has confirmed.",
+      "url": "https://news.sky.com/story/iranian-protester-erfan-soltani-released-after-death-sentence-threat-13501980",
+      "published": "Sun, 01 Feb 2026 16:32:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "How Western officials, media coverage pushed to discredit Gaza death toll",
       "description": "Rights advocates say casting doubt over Gaza death toll dehumanised Palestinians as Israel acknowledges 70,000 killed.",
       "url": "https://www.aljazeera.com/news/2026/2/1/how-western-officials-media-coverage-pushed-to-discredit-gaza-death-toll?traffic_source=rss",
@@ -673,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Week in pictures: From Israel’s Gaza killings to Russian strikes in Ukraine",
-      "description": "A global roundup of some of last week’s events.",
-      "url": "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss",
-      "published": "Sun, 01 Feb 2026 10:23:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Mexico moves to combat pollution following Guardian investigations",
       "description": "After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tactics The Mexican government has announced it will pursue a sweeping array of tactics to combat industrial pollution, from $4.8m in fines against a plant processing US hazardous waste to the rollout of a new industrial air-monitoring system, following investigations by the Guardian and Quinto Elemento Lab, a Mexican investigative unit. Those stories revealed high levels of heavy-metal contamination in the neighborhood around the factory, Zinc Nacional, in the Monterrey metropolitan area, and showed the broader extent of industrial pollution in the region, linked to Monterrey’s role in manufacturing and recycling goods for the US market. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations",
@@ -708,6 +688,16 @@
       "url": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Jan 2026 12:52:08 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian drone attack on bus in Ukraine kills at least 12",
+      "description": "Russian drone strike kills 12 mine workers in Ukraine's Dnipropetrovsk region, injuring seven others.",
+      "url": "https://www.aljazeera.com/news/2026/2/1/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 18:01:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -914,7 +904,7 @@
     },
     {
       "title": "Pakistan to boycott T20 World Cup match against India on February 15",
-      "description": "Pakistan will forfeit two points if they don't take the field for the game in Colombo.",
+      "description": "Pakistan will forfeit two points if they don't take the field for the cricket game in Colombo.",
       "url": "https://www.aljazeera.com/sports/2026/2/1/pakistan-to-boycott-t20-world-cup-match-against-india-on-february-15?traffic_source=rss",
       "published": "Sun, 01 Feb 2026 14:57:45 +0000",
       "source": "Al Jazeera",
@@ -1003,6 +993,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israel orders eviction of Bedouins as settlers target West Bank schools",
+      "description": "Israeli forces order the expulsion of 40 Bedouins near Ramallah as settlers attack schools and homes in other locations.",
+      "url": "https://www.aljazeera.com/news/2026/2/1/israel-orders-eviction-of-bedouins-as-settlers-target-west-bank-schools?traffic_source=rss",
+      "published": "Sun, 01 Feb 2026 17:52:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Fela Kuti becomes first African to get Grammy Lifetime Achievement Award",
       "description": "Afrobeat pioneer Fela Kuti has become the first African artist to receive a Grammy Lifetime Achievement Award.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/fela-kuti-becomes-first-african-to-get-grammy-lifetime-achievement-award?traffic_source=rss",
@@ -1058,6 +1058,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/feb/02/real-estate-agents-in-australia-using-apps-that-leave-millions-of-lease-documents-at-risk-digital-researcher-says",
       "published": "Sun, 01 Feb 2026 14:00:32 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "India sets record budget for infrastructure, defense",
+      "description": "India's defense boost was expected following the four-day conflict with Pakistan last May. The budget also highlights plans for seven high-speed rail corridors and rare earth corridors.",
+      "url": "https://www.dw.com/en/india-sets-record-budget-for-infrastructure-defense/a-75753459?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 1 Feb 2026 18:21:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1626,7 +1636,7 @@
       "title": "Boy, 5, and father detained by ICE return to Minnesota after release",
       "description": "A congressman confirmed that Liam Conejo Ramos had been released and was at home with his hat and backpack.",
       "url": "https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Feb 2026 17:46:52 GMT",
+      "published": "Sun, 01 Feb 2026 18:13:49 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1643,7 +1653,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela release rights activist Javier Tarazona",
+      "title": "Venezuela releases rights activist Javier Tarazona",
       "description": "It is latest in a series of prisoner releases announced by the government amid US pressure for reforms.",
       "url": "https://www.bbc.com/news/articles/cgqedv5elzpo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Feb 2026 17:29:48 GMT",
@@ -1733,7 +1743,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Alcaraz beats Djokovic to win Australian Open; completes career Slam",
+      "title": "Alcaraz beats Djokovic to win Australian Open, completes career Slam",
       "description": "Alcaraz becomes youngest man to complete tennis career Grand Slam and win seven Slams with a 2-6, 6-2, 6-3, 7-5 triumph.",
       "url": "https://www.aljazeera.com/sports/2026/2/1/alcaraz-beats-djokovic-to-win-australian-open-completes-career-slam?traffic_source=rss",
       "published": "Sun, 01 Feb 2026 13:16:52 +0000",
@@ -1997,16 +2007,6 @@
       "description": "As the horror movie \"Sinners\" stands poised to sweep the Oscars, we take a look at how and why the vampire genre has long captivated audiences — from folklore to film. Is this trend truly immortal?",
       "url": "https://www.dw.com/en/an-undying-trend-how-vampires-like-those-in-sinners-hold-a-mirror-to-society/a-75681267?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 31 Jan 2026 17:35:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Italy church restoration probed after Meloni angel lookalike",
-      "description": "Many have noted a striking resemblance between the face of an angel in a restored church in Rome and that of Italy's prime minister. \"No, decidedly I do not resemble an angel,\" Giorgia Meloni has said.",
-      "url": "https://www.dw.com/en/italy-church-restoration-probed-after-meloni-angel-lookalike/a-75744123?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 31 Jan 2026 17:17:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
