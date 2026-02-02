@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-02T10:46:37.558503Z",
-  "event_count": 222,
+  "last_updated": "2026-02-02T11:36:34.976151Z",
+  "event_count": 221,
   "events": [
     {
       "title": "International law meant to limit effects of war at breaking point, study finds",
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 68,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US-Iran tensions rise as Trump signals hope for nuclear deal",
+      "description": "Tensions between the United States and Iran are escalating amid mutual threats and fears of a wider conflict. Despite deploying a powerful naval force near Iran, US President Donald Trump expressed optimism that a nuclear agreement could be reached soon. Iran’s leadership warned that any war would spread across the region. Relations between Iran and Europe have also deteriorated after the EU designated Iran’s Revolutionary Guard a terrorist group, prompting strong backlash from Tehran, which accused Europe of acting under US influence and blamed Western powers for recent protests.",
+      "url": "https://www.france24.com/en/us-iran-tensions-rise-as-trump-signals-hope-for-nuclear-deal",
+      "published": "Mon, 02 Feb 2026 10:49:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 56,
       "severity_level": "Critical"
     },
     {
@@ -70,16 +80,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 39,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran declares European armies 'terrorist groups' in retaliation for IRGC designation",
-      "description": "Iran on Sunday designated the armies of European countries as \"terrorist groups\" following the EU decision last week to list the Islamic Revolutionary Guard Corps (IRGC) on the bloc's list of terrorist organisations. The announcement came as the US and Iran traded warnings and threats of potential US military action and Iranian retaliation.",
-      "url": "https://www.france24.com/en/middle-east/20260201-iran-declares-european-armies-terrorist-groups-in-retaliation-for-irgc-designation",
-      "published": "Sun, 01 Feb 2026 21:20:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -253,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian drone strike on bus transporting Ukrainian energy sector workers kills 15",
-      "description": "A Russian drone attack on a bus carrying miners in Ukraine's southeastern Dnipropetrovsk region on Sunday killed 15 employees returning from their shift, the company that owned the bus said. Ukrainian Energy Minister Denys Shmyhal called it a \"cynical and targeted attack\" on the country's energy sector as the country copes with one of the harshest winters in recent memory.",
-      "url": "https://www.france24.com/en/europe/20260201-russian-drone-strike-bus-transporting-ukrainian-energy-sector-workers-kills-15",
-      "published": "Sun, 01 Feb 2026 16:57:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "State Department issues security alert amid 'heavy gunfire' near US Embassy in Haiti",
       "description": "The U.S. Embassy in Haiti issued an urgent security alert as heavy gunfire erupted in Port-au-Prince. American citizens were warned to avoid areas near the embassy.",
       "url": "https://www.foxnews.com/world/state-department-issues-security-alert-amid-heavy-gunfire-near-us-embassy-haiti",
@@ -270,16 +260,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russia strikes a maternity hospital and a miner's bus in Ukraine, killing at least 21",
-      "description": "Fifteen people were killed ​and seven wounded after a Russian drone struck a ‍bus carrying miners in Ukraine's southeastern Dnipropetrovsk region, energy firm DTEK and government officials said ​on Sunday. Earlier on Sunday, regional officials said at least nine had been wounded in Russian strikes on a maternity hospital and a residential building in the southeastern city of Zaporizhzhia. Details by FRANCE 24 correspondent in Kharkiv, Emmanuelle Chaze.",
-      "url": "https://www.france24.com/en/russia-strikes-a-maternity-hospital-and-a-miner-s-bus-in-ukraine-killing-at-least-21",
-      "published": "Sun, 01 Feb 2026 16:45:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -298,16 +278,6 @@
       "url": "https://www.dw.com/en/iran-updates-iran-classes-eu-armies-as-terrorist-groups/live-75746046?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 2 Feb 2026 03:57:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ban on MSF in Gaza: Israel accused of weaponising aid to ‘make Gaza uninhabitable’",
-      "description": "In the wake of Israel’s decision to halt Doctors Without Borders (MSF) operations in Gaza, concern is mounting over the escalating humanitarian crisis. Dr. Ghassan Abu-Sittah, a British-Palestinian surgeon who has worked with MSF extensively in the region, called the decision “absolutely devastating” for civilians. In a stark warning, he said the termination of MSF’s work would further cripple Gaza’s collapsing health system, accusing Israel of “destroying the health system inside Gaza as a way of making Gaza uninhabitable.”",
-      "url": "https://www.france24.com/en/israel-to-stop-msf-work-in-gaza-destroying-health-system-as-a-way-of-making-gaza-uninhabitable",
-      "published": "Sun, 01 Feb 2026 18:49:50 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -354,9 +324,9 @@
     },
     {
       "title": "Russian drone strike kills 15 in Dnipro as Zelenskyy says more talks next week",
-      "description": "A Russian drone strike on the Ukrainian city of Dnipro has killed 15 people, according to Ukrainian emergency services",
+      "description": "A Russian drone strike on the Ukrainian city of Dnipro has killed at least 12 people, according to Ukrainian emergency services",
       "url": "https://abcnews.go.com/International/wireStory/russia-ukraine-talks-scheduled-week-zelenskyy-129749243",
-      "published": "Sun, 01 Feb 2026 11:59:52 -0500",
+      "published": "Sun, 01 Feb 2026 19:45:32 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
@@ -494,7 +464,7 @@
     },
     {
       "title": "US withdrawal from WHO threatens Africa's health gains",
-      "description": "Reduced funding, weakened disease surveillance, and disruptions to health programs are likely consequences of the United States' exit from the World Health Organization.",
+      "description": "Reduced funding, weakened disease surveillance and disruptions to health programs are likely consequences of the United States' exit from the World Health Organization.",
       "url": "https://www.dw.com/en/us-withdrawal-from-who-threatens-africa-s-health-gains/a-75678305?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 2 Feb 2026 09:08:00 GMT",
       "source": "Deutsche Welle",
@@ -543,6 +513,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Bad Bunny makes Grammy Awards history with album of the year and bold political statement",
+      "description": "Bad Bunny made Grammy history, winning Album of the Year for Debi Tirar Mas Fotos, the first Spanish-language album to do so. Kendrick Lamar, Billie Eilish, Finneas, Olivia Dean, and Lady Gaga also took top awards. Known for his outspoken political views, Bad Bunny delivered a powerful speech criticizing US immigration raids and will bring his bold activism to the Super Bowl halftime show. FRANCE 24's Wassim Cornet reports from Los Angeles.",
+      "url": "https://www.france24.com/en/video/20260202-bad-bunny-makes-grammy-awards-history-with-album-of-the-year-and-bold-political-statement-1",
+      "published": "Mon, 02 Feb 2026 11:08:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Family of seven-year-old British girl missing in Morocco describe 'unbearable pain'",
       "description": "The family of a seven-year-old girl who was swept out to sea in Morocco have described their \"unbearable pain\" as search and rescue operations have been \"hampered by severe weather\".",
       "url": "https://news.sky.com/story/family-of-seven-year-old-girl-missing-in-morocco-describe-unbearable-pain-as-search-hampered-by-severe-weather-13501862",
@@ -556,7 +536,7 @@
       "title": "Iran summons ambassadors to protest Revolutionary Guard being listed as terror group",
       "description": "Iran says it has had summoned all of the European Union ambassadors in the Islamic Republic to protest the bloc’s listing of the paramilitary Revolutionary Guard as a terror group",
       "url": "https://abcnews.go.com/International/wireStory/iran-summons-eu-ambassadors-protest-revolutionary-guard-listed-129774076",
-      "published": "Mon, 02 Feb 2026 04:25:54 -0500",
+      "published": "Mon, 02 Feb 2026 06:25:56 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -863,6 +843,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Japan deep-sea hunt finds rare earths as it seeks to cut reliance on China",
+      "description": "Tokyo proclaims Pacific Ocean mission world’s first attempt to tap rare earths at such a depth.",
+      "url": "https://www.aljazeera.com/news/2026/2/2/japan-deep-sea-hunt-finds-rare-earths-as-it-seeks-to-cut-reliance-on-china?traffic_source=rss",
+      "published": "Mon, 02 Feb 2026 11:09:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -883,20 +873,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Japan taps rare earth-rich mud from deep-sea floor to cut reliance on China",
-      "description": "Japan retrieved sediment containing rare earth minerals from a depth of 6,000 metres during a test mission aimed at reducing reliance on China, the government said on Monday. Officials said the world-first operation would be analysed to determine mineral content, calling it a significant step for economic security and maritime development.",
-      "url": "https://www.france24.com/en/asia-pacific/20260202-japan-rare-earth-found-sediment-deep-sea-mission",
-      "published": "Mon, 02 Feb 2026 04:59:27 GMT",
+      "title": "Snapchat blocks 415,000 underage accounts in Australia under social media ban",
+      "description": "Social media and instant messaging platform Snapchat has blocked almost half a million accounts believed to belong to people under 16 as tech companies try to comply with Australia's age-based social media ban, the company said Monday. Governments across the world are watching the ban's implementation closely, with France already moving to implement similar measures.",
+      "url": "https://www.france24.com/en/asia-pacific/20260202-snapchat-blocks-415-000-underage-accounts-in-australia-under-social-media-ban",
+      "published": "Mon, 02 Feb 2026 06:05:19 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Five-year-old Liam Conejo Ramos and father return to Minnesota after ICE detention",
-      "description": "A five-year-old boy whose detention in the Trump administration's aggressive immigration raids in Minneapolis shocked the world returned to Minnesota, a lawmaker said Sunday. Liam Conejo Ramos and his father, Adrian Conejo Arias, were detained in a Minneapolis suburb on January 20 and held at an ICE facility in Texas before their release.",
-      "url": "https://www.france24.com/en/americas/20260201-five-year-old-and-father-return-to-minnesota-after-ice-detention",
-      "published": "Sun, 01 Feb 2026 21:38:15 GMT",
+      "title": "Japan taps rare earth-rich mud from deep-sea floor to cut reliance on China",
+      "description": "Japan retrieved sediment containing rare earth minerals from a depth of 6,000 metres during a test mission aimed at reducing reliance on China, the government said on Monday. Officials said the world-first operation would be analysed to determine mineral content, calling it a significant step for economic security and maritime development.",
+      "url": "https://www.france24.com/en/asia-pacific/20260202-japan-rare-earth-found-sediment-deep-sea-mission",
+      "published": "Mon, 02 Feb 2026 04:59:27 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1078,6 +1068,16 @@
       "url": "https://www.dw.com/en/turkey-s-textile-industry-in-crisis/a-75684427?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 1 Feb 2026 17:27:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Gaza's Rafah crossing makes limited reopening after two-year war",
+      "description": "Gaza’s Rafah border crossing has partially reopened, allowing limited movement of Palestinians after months of closure. Israeli officials confirmed the reopening, while Egyptian media said only 50 people per direction will be permitted initially. The move follows Israel’s seizure of the crossing in May 2024 and comes after pressure from aid groups, with operations resuming in a tightly restricted pilot phase. FRANCE 24's Noga Tarnopolsky has the details from Jerusalem.",
+      "url": "https://www.france24.com/en/video/20260202-gaza-s-rafah-crossing-makes-limited-reopening-after-two-year-war",
+      "published": "Mon, 02 Feb 2026 10:51:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1363,9 +1363,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Gaza's Rafah border crossing with Egypt reopens",
-      "description": "Israel reopened Gaza's Rafah border crossing with Egypt Monday, a key step in the Israel-Hamas ceasefire agreement",
-      "url": "https://www.npr.org/2026/02/02/nx-s1-5695774/gazas-rafah-border-crossing-with-egypt-reopens",
+      "title": "Gaza's Rafah border crossing with Egypt slated to reopen",
+      "description": "Israel will reopen Gaza's Rafah border crossing with Egypt Monday, a key step in the Israel-Hamas ceasefire agreement",
+      "url": "https://www.npr.org/2026/02/02/nx-s1-5695774/gazas-rafah-border-crossing-with-egypt-slated-to-reopen",
       "published": "Mon, 02 Feb 2026 04:55:39 -0500",
       "source": "NPR World News",
       "type": "rss",
@@ -1404,9 +1404,9 @@
     },
     {
       "title": "Gaza’s Rafah border crossing with Egypt reopens for limited traffic",
-      "description": "Egyptian and Israeli security officials say Gaza’s Rafah border crossing with Egypt has reopened for limited traffic, a key step as the ceasefire moves ahead",
+      "description": "Egyptian and Israeli security officials say Gaza’s Rafah border crossing with Egypt has reopened for limited traffic, a key step as the Israel-Hamas ceasefire",
       "url": "https://abcnews.go.com/International/wireStory/gazas-rafah-border-crossing-egypt-reopens-limited-traffic-129774075",
-      "published": "Mon, 02 Feb 2026 04:25:47 -0500",
+      "published": "Mon, 02 Feb 2026 06:25:48 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1573,16 +1573,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-02-02T10:46:15.761523Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "China: Four more people executed in Myanmar scam crackdown",
       "description": "Beijing has continued to clamp down on Myanmar-based telecom scams with another set of executions. The fraud operations reportedly involve cryptocurrency investments and also have links to drug smuggling.",
       "url": "https://www.dw.com/en/china-four-more-people-executed-in-myanmar-scam-crackdown/a-75762361?maca=en-rss-en-all-1573-xml-mrss",
@@ -1603,20 +1593,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "ICE halts ‘all movement’ due to measles at Texas detention center that held 5-year-old, dad",
-      "description": "ICE halts all movement at Texas detention facility after two detainees were diagnosed with measles, sparking quarantine measures and health concerns.",
-      "url": "https://www.foxnews.com/us/ice-halts-all-movement-due-measles-texas-detention-center-held-5-year-old-dad",
-      "published": "Sun, 01 Feb 2026 22:26:07 -0500",
+      "title": "What Tyler Robinson's defense wants hidden and why prosecutors and media say no in court",
+      "description": "Utah prosecutors and media groups challenge defense efforts to seal court filings in the Charlie Kirk assassination case, sparking transparency debate.",
+      "url": "https://www.foxnews.com/us/what-tyler-robinsons-defense-wants-hidden-why-prosecutors-media-say-no-court",
+      "published": "Mon, 02 Feb 2026 06:00:34 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
     },
     {
-      "title": "What Tyler Robinson's defense wants hidden and why prosecutors and media say no in court",
-      "description": "Utah prosecutors and media groups challenge defense efforts to seal court filings in the Charlie Kirk assassination case, sparking transparency debate.",
-      "url": "https://www.foxnews.com/us/what-tyler-robinsons-defense-wants-hidden-why-prosecutors-media-say-no-court",
-      "published": "Sun, 01 Feb 2026 13:32:34 -0500",
+      "title": "ICE halts ‘all movement’ due to measles at Texas detention center that held 5-year-old, dad",
+      "description": "ICE halts all movement at Texas detention facility after two detainees were diagnosed with measles, sparking quarantine measures and health concerns.",
+      "url": "https://www.foxnews.com/us/ice-halts-all-movement-due-measles-texas-detention-center-held-5-year-old-dad",
+      "published": "Sun, 01 Feb 2026 22:26:07 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -1628,6 +1618,16 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Daily Mail: Epstein's 'sex empire' was 'honeytrap' directed by the KGB",
+      "description": "PRESS REVIEW – Monday, February 2: We take a look at the oddest stories following the release of the latest batch of Epstein files. Moving to Serbia, the Chinese workforce is accused of harming nature and the local collective memory. Next: Japan's lack of trash cans continues to surprise tourists. Finally, we take a look at the Grammys fashion.",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260202-daily-mail-epstein-s-sex-empire-was-honeytrap-directed-by-the-kgb",
+      "published": "Mon, 02 Feb 2026 10:56:22 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1706,7 +1706,7 @@
       "title": "Israel reopens Gaza's key Rafah border crossing with Egypt",
       "description": "Only dozens of Palestinians and no goods will be able to cross in both directions each day.",
       "url": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Feb 2026 10:02:17 GMT",
+      "published": "Mon, 02 Feb 2026 10:51:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1837,16 +1837,6 @@
       "description": "US president says the arts complex will close for two years for reconstruction starting in July.",
       "url": "https://www.aljazeera.com/news/2026/2/2/trump-to-close-kennedy-center-for-renovations-amid-backlash-from-performers?traffic_source=rss",
       "published": "Mon, 02 Feb 2026 03:15:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Five-year-old boy and father detained by ICE return home to Minnesota",
-      "description": "Liam Conejo Ramos and his father, Adrian, were accompanied home by Texas Democratic Representative Joaquin Castro.",
-      "url": "https://www.aljazeera.com/news/2026/2/1/five-year-old-boy-and-father-detained-by-ice-return-home-to-minnesota?traffic_source=rss",
-      "published": "Sun, 01 Feb 2026 22:55:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2033,6 +2023,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Bad Bunny, Grammy champion and vocal opponent of ICE",
+      "description": "Bad Bunny, a Grammy-winning Puerto Rican star and Billboard’s 2025 Artist of the Year, rose to fame after his 2017 hit Soy Peor. A vocal critic of US immigration enforcement, he has avoided US tour dates, making his upcoming Super Bowl halftime show a high-profile and divisive choice.",
+      "url": "https://www.france24.com/en/bad-bunny-grammy-champion-and-vocal-opponent-of-ice",
+      "published": "Mon, 02 Feb 2026 11:15:45 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Liam Conejo Ramos returns to Minnesota after release from ICE custody",
       "description": "After nearly two weeks in an ICE family detention center in Texas, a judge ordered the release of five-year-old Liam Conejo Ramos and his father.",
       "url": "https://www.france24.com/en/video/20260202-liam-conejo-ramos-returns-to-minnesota-after-release-from-ice-custody-1",
@@ -2077,16 +2077,6 @@
       "description": "Former British ambassador to Washington Peter Mandelson quit the Labour Party on Sunday after newly released US documents revived scrutiny of his links to late sex offender Jeffrey Epstein. Mandelson said he wanted to avoid causing “further embarrassment” and denied wrongdoing.",
       "url": "https://www.france24.com/en/europe/20260202-uk-ex-ambassador-quits-labour-epstein-links",
       "published": "Mon, 02 Feb 2026 00:21:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel to halt MSF work in Gaza, NGO slams ‘pretext to obstruct’ aid",
-      "description": "Israel on Sunday announced that it was terminating Doctors Without Borders or Médecins Sans Frontières (MSF) operations in Gaza over its failure to provide a list of Palestinian staff. MSF called the decision a \"pretext to obstruct humanitarian assistance\" to Gaza and said it did not hand over staff names because Israeli authorities failed to provide assurances to guarantee their safety.",
-      "url": "https://www.france24.com/en/middle-east/20260201-israel-to-halt-msf-work-in-gaza-ngo-slams-pretext-to-obstruct-aid",
-      "published": "Sun, 01 Feb 2026 17:22:43 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
