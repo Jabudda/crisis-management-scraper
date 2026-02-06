@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T04:27:13.740368Z",
+  "last_updated": "2026-02-06T05:37:34.059523Z",
   "event_count": 222,
   "events": [
     {
@@ -208,6 +208,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166889",
       "published": "Wed, 04 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US forces kill two suspected narco-terrorists in Eastern Pacific lethal strike operation",
+      "description": "U.S. forces kill two suspected narco-terrorists in Eastern Pacific strike on vessel allegedly operated by designated terrorist organization in latest operation.",
+      "url": "https://www.foxnews.com/us/us-forces-kill-two-suspected-narco-terrorists-eastern-pacific-lethal-strike-operation",
+      "published": "Thu, 05 Feb 2026 23:46:06 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -623,16 +633,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Pennsylvania hospital blaze forces patients to be evacuated",
-      "description": "A major fire erupted at Lehigh Valley Hospital in Pennsylvania on Wednesday night, forcing the evacuation of 77 patients, with no major injuries reported.",
-      "url": "https://www.foxnews.com/us/pennsylvania-hospital-blaze-forces-patients-evacuated",
-      "published": "Thu, 05 Feb 2026 09:42:11 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Rubio confirms Iran demanded venue change for nuclear talks",
       "description": "Iran requested to move talks from Turkey, Secretary of State Rubio confirms. Rubio laid out what topics needed to be discussed for a \"meaningful\" result.",
       "url": "https://www.foxnews.com/world/rubio-confirms-iran-demanded-venue-change-nuclear-talks",
@@ -647,6 +647,16 @@
       "description": "FBI and Venezuela’s intelligence agency also reportedly arrest billionaire media mogul Raúl Gorrín at same address A close and powerful associate of the deposed Venezuelan president Nicolás Maduro has reportedly been detained during a joint operation by Venezuela’s intelligence agency and the FBI. Alex Saab, a wealthy Colombian-Venezuelan businessman long considered Maduro’s frontman, was removed from his position in Venezuela’s government a fortnight after US forces captured his ally on 3 January . In the early hours of Wednesday, the 54-year-old was reportedly detained by members of the Bolivarian national intelligence service (Sebin) at a luxury home in Venezuela’s capital, Caracas. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
       "published": "Thu, 05 Feb 2026 10:30:34 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: Gus Lamont’s grandmothers ‘devastated’ after police update; five-day search for Dezi Freeman ends without a trace",
+      "description": "Lawyers confirm they are acting for two grandmothers of missing four-year-old. Follow the latest updates live Get our breaking news email , free app or daily news podcast Rideshare driver in court over allegations of sexual assaulting passenger A rideshare driver will face court after allegedly sexually assaulting a woman during a short early morning trip, AAP reports. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/06/anthony-albanese-indonesia-security-pact-sussan-ley-coalition-liberals-nationals-leadership-rba-interest-rates-inflation-ntwnfb",
+      "published": "Fri, 06 Feb 2026 05:13:14 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
@@ -753,6 +763,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US destroys alleged drug boat in eastern Pacific",
+      "description": "The US military has said two alleged drug traffickers were killed in a strike in the eastern Pacific. It is the second such strike since the US captured the then-Venezuelan leader Nicolas Maduro.",
+      "url": "https://www.dw.com/en/us-destroys-alleged-drug-boat-in-eastern-pacific/a-75832540?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Feb 2026 05:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Regional health organization issues alert as measles cases surge across the Americas",
       "description": "The Pan American Health Organization has issued an alert due to a surge in measles cases across the Americas, with Mexico reporting the highest numbers",
       "url": "https://abcnews.go.com/International/wireStory/regional-health-organization-issues-alert-measles-cases-surge-129865049",
@@ -793,13 +813,13 @@
       "severity_level": "High"
     },
     {
-      "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
-      "description": "Friedrich Merz said concerns about a further escalation with Iran have dominated his trip to the Gulf region.",
-      "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 18:51:39 +0000",
-      "source": "Al Jazeera",
+      "title": "Gus Lamont’s ‘devastated’ grandmothers hire lawyers after police declare disappearance a major crime",
+      "description": "The four-year-old, from South Australia, was last seen playing outside home on family sheep station in the outback in September Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Missing four-year-old Gus Lamont’s “devastated” grandmothers have engaged lawyers a day after police declared his disappearance a major crime. Gus went missing from his family’s 60,000 hectare sheep station in September last year, and was initially thought to have wandered off . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/06/gus-lamonts-south-australia-devastated-grandmothers-hire-lawyers-after-police-declare-disappearance-a-major-ntwnfb",
+      "published": "Fri, 06 Feb 2026 03:59:33 GMT",
+      "source": "The Guardian World",
       "type": "rss",
-      "severity_score": 10,
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -878,6 +898,16 @@
       "url": "https://www.bbc.com/news/articles/c4gv1lyvvedo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Feb 2026 23:01:13 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Norway police investigate former PM Jagland over Epstein ties",
+      "description": "World Economic Forum says it is reviewing the dealings of its CEO, Borge Brende, with the late sex offender.",
+      "url": "https://www.aljazeera.com/economy/2026/2/6/norway-police-probes-former-pm-jagland-over-epstein-ties?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 05:07:48 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -993,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
+      "description": "US and Iranian officials are holding talks in Muscat amid escalating tensions and a US military buildup in the Gulf.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 04:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russia-Ukraine war: List of key events, day 1,443",
       "description": "These are the key developments from day 1,443 of Russia’s war on Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/2/6/russia-ukraine-war-list-of-key-events-day-1443?traffic_source=rss",
@@ -1017,26 +1057,6 @@
       "description": "More than 300 prisoners of war are finally heading home on Thursday after Ukraine and Russia reached a deal for a swap.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/sorry-for-being-away-ukraine-russia-swap-prisoners-of-war?traffic_source=rss",
       "published": "Thu, 05 Feb 2026 20:38:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
-      "description": "Activists announced at a briefing in South Africa plans to launch the largest civilian-led flotilla to Gaza in March.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 19:27:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How the US left Ukraine exposed to Russia’s winter war",
-      "description": "As Ukrainians face the coldest winter in a decade, trilateral talks take place in Abu Dhabi.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/2/5/aje-onl-ukr_winterenergy_av_v2-050226?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 17:57:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1143,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Renewed calls for two-State solution amid ‘perilously fragile’ conditions for Palestinians",
-      "description": "The UN committee mandated to promote Palestinian rights opened its 2026 session on Tuesday with renewed calls for a two-State solution, amid a shaky ceasefire in Gaza and continued settler expansion in the West Bank.",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1166879",
-      "published": "Tue, 03 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "California man arrested for sending texts to Guthrie family asking for bitcoin during missing mother case",
       "description": "California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.",
       "url": "https://www.foxnews.com/us/california-man-arrested-sending-texts-guthrie-family-asking-bitcoin-during-missing-mother-case",
@@ -1223,16 +1233,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
-      "description": "Scott Bessent used a Senate appearance to defend President Donald Trump's campaign to slash interest and raise tariffs.",
-      "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 19:10:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1257,16 +1257,6 @@
       "description": "The country’s first female PM is the object of a personality cult revolving around everything from her outfits and snacks to her favourite pink pen Just eight months ago, Japan’s ruling party appeared to have reached the edge of the electoral abyss. It had lost a parliamentary majority for the second time in 15 months; its MPs were implicated in a long-running slush fund scandal ; the then prime minister, Shigeru Ishiba, was the target of factional plotting. But as voters prepare to brave freezing temperatures in this Sunday’s lower house elections, the Liberal Democratic party (LDP) is expected to pull off a momentous victory. And the party’s recovery from the disappointment of last year is largely down to one woman. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/06/sana-mania-grips-japan-as-ultra-conservative-takaichi-expected-to-secure-election-landslide",
       "published": "Fri, 06 Feb 2026 02:19:57 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Australia news live: Gus Lamont’s grandmothers ‘devastated’ after police update; five-day search for Dezi Freeman ends without a trace",
-      "description": "Meanwhile Australian shares opened sharply lower this morning, erasing over $40bn in value from the market. Follow the latest updates live Get our breaking news email , free app or daily news podcast Rideshare driver in court over allegations of sexual assaulting passenger A rideshare driver will face court after allegedly sexually assaulting a woman during a short early morning trip, AAP reports. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/06/anthony-albanese-indonesia-security-pact-sussan-ley-coalition-liberals-nationals-leadership-rba-interest-rates-inflation-ntwnfb",
-      "published": "Fri, 06 Feb 2026 04:08:13 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1353,20 +1343,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Venezuela passes amnesty bill for political prisoners in first of two votes",
-      "description": "The bill would provide clemency for opposition members and protesters who have been charged with crimes under Maduro.",
-      "url": "https://www.aljazeera.com/news/2026/2/5/venezuelas-national-assembly-approves-amnesty-bill-in-first-of-two-votes?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 23:15:02 +0000",
+      "title": "Thailand election 2026: What are the main parties? What do polls suggest?",
+      "description": "Sunday's vote is seen as a test of whether Thailand's cycle of coups, protests and court interventions can be broken.",
+      "url": "https://www.aljazeera.com/news/2026/2/6/thailand-election-2026-what-are-the-main-parties-what-do-polls-suggest?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 05:13:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "What the US and Iran are about to negotiate over isn’t clear",
-      "description": "After weeks of military threats and arguments over a venue, the US and Iran are about to hold talks in Oman.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss",
-      "published": "Thu, 05 Feb 2026 19:48:07 +0000",
+      "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
+      "description": "Analysts say Trump's unclear strategy risks derailing US-Iran talks amid military posturing and protests across Iran.",
+      "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 04:55:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Venezuela passes amnesty bill for political prisoners in first of two votes",
+      "description": "The bill would provide clemency for opposition members and protesters who have been charged with crimes under Maduro.",
+      "url": "https://www.aljazeera.com/news/2026/2/5/venezuelas-national-assembly-approves-amnesty-bill-in-first-of-two-votes?traffic_source=rss",
+      "published": "Thu, 05 Feb 2026 23:15:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1543,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australian banks passed interest rate hikes on to mortgage holders – so why haven’t they done so for savings accounts?",
-      "description": "There’s an obvious reason for the delay. But the banks still need to compete on savings rates to finance their operations Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Shortly after the Reserve Bank lifted the official cash rate by a quarter of a percentage point , major lenders announced interest rates on mortgages would rise by the same amount. Yet the interest rates that can grow their customer’s savings accounts are still “under review” – or the increases are being applied selectively – days after Tuesday’s announcement. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/06/australian-banks-have-passed-interest-rate-hikes-on-to-mortgage-holders-so-why-havent-they-done-so-for-savings-accounts",
-      "published": "Fri, 06 Feb 2026 01:28:17 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Albania's judicial reform 10 years on: Hope without justice",
       "description": "In 2016, Albania launched a reform program aimed at strengthening its judiciary and making it a pillar in the fight against corruption. The murder of a judge last October has reignited the debate about this reform.",
       "url": "https://www.dw.com/en/albania-s-judicial-reform-10-years-on-hope-without-justice/a-75824685?maca=en-rss-en-all-1573-xml-mrss",
@@ -1718,6 +1708,16 @@
       "url": "https://www.bbc.com/news/articles/cy4gj71z0m0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Feb 2026 03:27:44 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Elderly Palestinians determined to stay in Gaza despite terrible conditions",
+      "description": "Chronic displacement and trauma burden Gaza's elderly, but they cling to their homeland as an act of defiance.",
+      "url": "https://www.aljazeera.com/features/2026/2/6/elderly-palestinians-determined-stay-gaza-despite-terrible-conditions?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 05:03:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1943,9 +1943,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Norway: Former PM Jagland under probe over Epstein's links",
+      "title": "Epstein files show Norwegian ex-PM Jagland's ties to sex offender",
       "description": "Police have requested the revocation of Thorbjorn Jagland's immunity linked to his past position as a senior diplomat. He is among many high-profile figures facing scrutiny after the latest Epstein files release.",
-      "url": "https://www.dw.com/en/norway-former-pm-jagland-under-probe-over-epstein-s-links/a-75832200?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/epstein-files-show-norwegian-ex-pm-jagland-s-ties-to-sex-offender/a-75832200?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 6 Feb 2026 03:53:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1977,16 +1977,6 @@
       "description": "As Uganda drops the first case brought under its Anti-Homosexuality Act, the fallout shows a justice system strained by political pressure, public fear and inconsistent enforcement.",
       "url": "https://www.dw.com/en/uganda-s-anti-lgbtq-law-exposes-systemic-failures/a-75804736?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 5 Feb 2026 13:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Moltbook explained: Where AI bots meet to 'discuss' humans",
-      "description": "What does a new social media platform created for AI agents to exchange their ideas, workflows and even their thoughts on the end of humanity mean for us?",
-      "url": "https://www.dw.com/en/moltbook-explained-where-ai-bots-meet-to-discuss-humans/a-75779970?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Feb 2026 11:34:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2073,20 +2063,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Don't boo the Americans, Olympics boss tells spectators",
-      "description": "Even without coming to the Winter Olympics in Italy, Donald Trump and his polarising policies and provocations are dominating, even distracting.",
-      "url": "https://news.sky.com/story/winter-olympics-show-respect-rather-than-jeer-the-americans-says-ioc-boss-13503461",
-      "published": "Thu, 05 Feb 2026 01:31:00 +0000",
+      "title": "Historic crown crushed during Louvre heist pictured",
+      "description": "The crown of French Empress Eugenie recovered after last year's Louvre heist was left damaged - but remains largely intact and will be restored, the museum has said.",
+      "url": "https://news.sky.com/story/louvre-releases-photos-of-crown-damaged-in-heist-but-insists-it-will-be-restored-13503909",
+      "published": "Fri, 06 Feb 2026 02:58:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Historic crown crushed during Louvre heist pictured",
-      "description": "The crown of French Empress Eugenie recovered after last year's Louvre heist was left damaged - but remains largely intact and will be restored, the museum has said.",
-      "url": "https://news.sky.com/story/louvre-releases-photos-of-crown-damaged-in-heist-but-insists-it-will-be-restored-13503909",
-      "published": "Fri, 06 Feb 2026 02:58:00 +0000",
+      "title": "Don't boo the Americans, Olympics boss tells spectators",
+      "description": "Even without coming to the Winter Olympics in Italy, Donald Trump and his polarising policies and provocations are dominating, even distracting.",
+      "url": "https://news.sky.com/story/winter-olympics-show-respect-rather-than-jeer-the-americans-says-ioc-boss-13503461",
+      "published": "Thu, 05 Feb 2026 01:31:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2158,6 +2148,16 @@
       "url": "https://abcnews.go.com/International/wireStory/malaysia-bans-waste-imports-vows-end-illegal-dumping-129871661",
       "published": "Thu, 05 Feb 2026 06:33:27 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fatwas, faith and fallacies: Myth-busting female genital mutilation in Africa",
+      "description": "Olivia Albert, 19, was subjected to female genital (FGM) mutilation when she was 14. She told the UN sexual and reproductive health agency (UNFPA) that she hid her pain because everyone around her said it was normal.",
+      "url": "https://news.un.org/feed/view/en/story/2026/02/1166902",
+      "published": "Thu, 05 Feb 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
