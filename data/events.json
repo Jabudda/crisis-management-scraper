@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T09:44:11.449495Z",
+  "last_updated": "2026-02-06T10:41:23.260240Z",
   "event_count": 222,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 54,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Cuts in global aid could result in 22.6 million excess deaths by 2030",
-      "description": "Speaking with FRANCE 24's Mark Owen, Davide Rasella, ICREA Research Professor at ISGlobal, explains that cuts in overseas aid by the US and other western countries could have dramatic effects on the handling and prevention of new pandemics. Professor Rasella coordinated a study revealing that cuts in global aid could lead to 22.6 million additional deaths by 2030 across 93 low- and middle-income countries. https://www.rockefellerfoundation.org/news/93-countries-worldwide-at-risk-of-losing-nearly-23-million-more-people-by-2030/",
-      "url": "https://www.france24.com/en/cuts-in-global-aid-could-result-in-22-6-million-excess-deaths-by-2023",
-      "published": "Thu, 05 Feb 2026 20:57:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 50,
       "severity_level": "Critical"
     },
     {
@@ -253,11 +243,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Operation Savannah Shield launched as US troops confirmed in Nigeria",
-      "description": "In tonight's edition: A new military operation is launched in Nigeria to stand between communities and extremist attacks after 162 people from a Muslim village were killed in an armed raid. Also, at the funeral of a Kenyan man killed in Russia's invasion of Ukraine, those left behind rail against the diplomatic silence and inertia. Plus Cameroon is hoping that people living in the capital Yaoundé will help tackle the city's enormous waste problem by sweeping their own streets with donated cleaning kits.",
-      "url": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
-      "published": "Thu, 05 Feb 2026 21:17:27 GMT",
-      "source": "France24",
+      "title": "What are Iranians saying about the threat of war?",
+      "description": "Al Jazeera asked people in Iran’s capital about the threat of a US attack and how hopeful they are about talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/what-are-iranians-saying-about-the-threat-of-war?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 10:22:46 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -268,6 +258,16 @@
       "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
       "published": "Wed, 04 Feb 2026 00:01:28 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Pakistan: Blast hits Islamabad Shiite mosque — police",
+      "description": "At least 12 people were killed after an explosion ripped through a Shiite place of worship in Terlai on the outskirts of the Pakistani capital.",
+      "url": "https://www.dw.com/en/pakistan-blast-hits-islamabad-shiite-mosque-police/a-75837291?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Feb 2026 10:00:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -290,6 +290,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 15 killed, dozens hurt in blast at mosque in Pakistan’s Islamabad",
+      "description": "Rescue teams reach the site after blast reported at a mosque in Tarlai Kalan during Friday prayers.",
+      "url": "https://www.aljazeera.com/news/2026/2/6/explosion-rocks-mosque-in-pakistans-islamabad?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 09:29:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -463,6 +473,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Former National Security adviser on the nuclear talks between the US and Iran",
+      "description": "NPR's Steve Inskeep talks to former National Security Adviser Jake Sullivan about the negotiations between the U.S. and Iran ahead of Friday's talks in Oman.",
+      "url": "https://www.npr.org/2026/02/06/nx-s1-5702449/former-national-security-adviser-on-the-nuclear-talks-between-the-us-and-iran",
+      "published": "Fri, 06 Feb 2026 04:48:01 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Famine spreading in Sudan's North Darfur, UN says",
       "description": "A brutal civil war between Sudan's army and paramilitary forces is causing one of the world's worst humanitarian crises, the UN has said.",
       "url": "https://www.dw.com/en/famine-spreading-in-sudan-s-north-darfur-un-says/a-75830392?maca=en-rss-en-all-1573-xml-mrss",
@@ -493,10 +513,20 @@
       "severity_level": "High"
     },
     {
-      "title": "More than 160 people killed by suspected Islamist militants in Nigeria",
-      "description": "As Nigeria battles multiple security crises, a single attack in the west left more than 160 people dead and raises new questions about who's really in control.",
-      "url": "https://www.npr.org/2026/02/05/nx-s1-5701384/more-than-160-people-killed-by-suspected-islamist-militants-in-nigeria",
-      "published": "Thu, 05 Feb 2026 06:45:12 -0500",
+      "title": "Iran and US to hold talks in Oman about Iran's nuclear program",
+      "description": "The stakes are high as the U.S. and Iran begin negotiations Friday on Iran's nuclear program. If they can't reach a deal, President Trump could order a military strike.",
+      "url": "https://www.npr.org/2026/02/06/nx-s1-5702735/iran-and-us-to-hold-talks-in-oman-about-irans-nuclear-program",
+      "published": "Fri, 06 Feb 2026 04:48:08 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iranians face intense crackdown by security forces ahead of US-Iran nuclear talks",
+      "description": "As the U.S. and Iran prepare to hold nuclear talks in Oman Friday, people in Iran are facing an intense crackdown as security forces track down anyone who was involved in the anti-government protests",
+      "url": "https://www.npr.org/2026/02/06/nx-s1-5701466/iranians-face-intense-crackdown-by-security-forces-ahead-of-us-iran-nuclear-talks",
+      "published": "Fri, 06 Feb 2026 04:47:57 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 15,
@@ -673,16 +703,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US-Iran nuclear talks: How far will Tehran go for a deal?",
-      "description": "Iran is preparing for fresh talks with US officials over its contentious nuclear program. This time, a series of steps proposed by the Kremlin is reported to be at the heart of the diplomatic push.",
-      "url": "https://www.dw.com/en/us-iran-nuclear-talks-how-far-will-tehran-go-for-a-deal/a-75821687?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Feb 2026 14:52:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Royals, politicians, magnates, intellectuals: Epstein files spark storm in global elite circles",
       "description": "The US Justice Department's latest release of nearly 3 million documents related to convicted sex offender Jeffrey Epstein has revealed a staggering network of connections linking elites wielding power and influence across the globe. While the mere mention of a name does not necessarily imply wrongdoing or grounds for prosecution, the files have triggered a landslide of repercussions.",
       "url": "https://www.france24.com/en/americas/20260205-royals-politicians-magnates-intellectuals-epstein-files-spark-storm-in-global-elite-circles",
@@ -803,16 +823,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Explosion rocks mosque in Pakistan’s Islamabad",
-      "description": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/2/6/explosion-rocks-mosque-in-pakistans-islamabad?traffic_source=rss",
-      "published": "Fri, 06 Feb 2026 09:29:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -877,26 +887,6 @@
       "description": "Russia's gains on the battlefield have forced Natalia to rebury her husband.",
       "url": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Feb 2026 21:59:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How penis injections became a Winter Olympic talking point",
-      "description": "The World Anti-Doping Agency could investigate if evidence emerges that male ski jumpers are injecting their penises in a bid to improve sporting performance.",
-      "url": "https://www.bbc.com/sport/articles/czej70jyg4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Feb 2026 18:44:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A global craze for Korean culture is making its humblest snacks unaffordable",
-      "description": "Black, crispy, often flat and square, dried seaweed is growing in popularity - but also in price.",
-      "url": "https://www.bbc.com/news/articles/c4gv1lyvvedo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 23:01:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1023,16 +1013,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US-Iran talks live: Key negotiations begin in Oman in push to prevent war",
-      "description": "US and Iranian officials are holding talks in Muscat amid escalating tensions and a US military buildup in the Gulf.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss",
-      "published": "Fri, 06 Feb 2026 04:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1053,9 +1033,19 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Family of US news anchor's missing mother renews plea to kidnappers",
-      "description": "The family of the kidnapped mother of a top US TV news anchor made a new plea for information from her captors on Thursday, after investigators said they believed the 84-year-old was still alive.",
-      "url": "https://www.france24.com/en/live-news/20260206-family-of-us-news-anchor-s-missing-mother-renews-plea-to-kidnappers",
+      "title": "Germany: Rising concern over social inequality",
+      "description": "Chancellor Friedrich Merz and his conservatives have seen a dip in the polls. This follows weeks of debates over the latest controversial proposals to restructure the welfare state.",
+      "url": "https://www.dw.com/en/germany-rising-concern-over-social-inequality/a-75836870?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Feb 2026 09:54:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Family pleas for information on news anchor's missing mother in case gripping US",
+      "description": "The US continues to hold its breath for news of the missing mother of NBC News \"Today\" co-host Savannah Guthrie, who is believed to have been kidnapped from her home in Tucson, Arizona during the evening between Saturday and Sunday.",
+      "url": "https://www.france24.com/en/americas/20260206-family-of-us-news-anchor-s-missing-mother-pleas-with-kidnappers-to-contact-them",
       "published": "Fri, 06 Feb 2026 06:19:11 GMT",
       "source": "France24",
       "type": "rss",
@@ -1233,6 +1223,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'La cosa': In Cuba, this single phrase carries coded truths",
+      "description": "In Cuba, \"la cosa\" speaks louder than words. That single phrase carries the weight of daily struggle, coded truths and the country's unspoken realities.",
+      "url": "https://www.npr.org/2026/02/06/nx-s1-5692737/la-cosa-in-cuba-this-single-phrase-carries-coded-truths",
+      "published": "Fri, 06 Feb 2026 04:48:19 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Venezuela: Interim president hails amnesty bill's first vote",
       "description": "Venezuela's National Assembly has approved an amnesty bill in its first vote that could lead to the mass release of political prisoners. The bill marks a milestone in the post-Maduro transition.",
       "url": "https://www.dw.com/en/venezuela-interim-president-hails-amnesty-bill-s-first-vote/a-75832074?maca=en-rss-en-all-1573-xml-mrss",
@@ -1353,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
-      "description": "Analysts say Trump's unclear strategy risks derailing US-Iran talks amid military posturing and protests across Iran.",
-      "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss",
-      "published": "Fri, 06 Feb 2026 04:55:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "UK's Keir Starmer struggles with Epstein Mandelson fallout",
       "description": "The British prime minister apologized to Epstein victims in a speech, and accused his former US ambassador, Peter Mandelson, of telling \"lies\" to secure a spot in his government. Mandelson faces a police investigation.",
       "url": "https://www.dw.com/en/uk-s-keir-starmer-struggles-with-epstein-mandelson-fallout/a-75824229?maca=en-rss-en-all-1573-xml-mrss",
@@ -1378,6 +1368,16 @@
       "url": "https://www.dw.com/en/how-an-assad-era-law-is-threatening-civil-society-groups-in-syria/a-75824075?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 5 Feb 2026 17:26:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Who from France's political and cultural elite are named in the Epstein files?",
+      "description": "A slew of documents related to the US Justice Department investigation into late convicted sex offender Jeffrey Epstein released last week name high-profile French figures including a film director, a presidential adviser and a former culture minister. While being mentioned in the documents does not impy wrongdoing, the fallout for some has been swift.",
+      "url": "https://www.france24.com/en/france/20260206-who-from-france-political-cultural-elite-named-epstein-files",
+      "published": "Fri, 06 Feb 2026 10:04:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1468,16 +1468,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bangladesh voters torn between desire for stability and need for reform, analyst says",
-      "description": "In the 18 months since the collapse of Sheikh Hasina's government, Bangladesh has endured political turmoil but also biting economic pain -- with many hoping for a rebound under new leadership after elections on February 12. FRANCE 24's Mark Owen speaks with Asif Bin Ali, Geopolitical Analyst and Doctoral Fellow at Georgia State University, who says that the electorate is mainly motivated by the desire for stability and the need for reform.",
-      "url": "https://www.france24.com/en/bangladesh-voters-torn-between-desire-for-stability-and-need-for-reform-analyst-says",
-      "published": "Thu, 05 Feb 2026 20:49:59 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1583,16 +1573,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "South Korea stunned by Trump's latest tariff hike",
-      "description": "Resentment is growing in Seoul as South Korean politicians scramble to protect US trade following yet another tariff announcement by US President Donald Trump.",
-      "url": "https://www.dw.com/en/south-korea-stunned-by-trump-s-latest-tariff-hike/a-75823025?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Feb 2026 14:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ukraine says Starlink terminals used by Russia deactivated in blow to Moscow",
       "description": "Starlink internet terminals used by Russian troops in Ukraine have been deactivated, Kyiv said on Thursday, dealing what one official said was a big battlefield setback for Moscow that had disrupted assault operations. Russian forces ​have made unauthorised use of thousands of satellite-based Starlink internet connections for secure communications after the invasion of Ukraine in ‍2022, Kyiv says. FRANCE 24's Monte Francis reports.",
       "url": "https://www.france24.com/en/ukraine-says-starlink-terminals-used-by-russia-deactivated-in-blow-to-moscow",
@@ -1603,7 +1583,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Harvey Levin gives explosive update on purported Nancy Levin ransom note on ‘Hannity’",
+      "title": "Harvey Levin gives explosive update on purported Nancy Guthrie ransom note on ‘Hannity’",
       "description": "TMZ founder Harvey Levin says a purported ransom note in the disappearance of Savannah Guthrie’s mother contains detailed, non-random information, raising concerns the person behind it may be nearby as authorities race to track its origin.",
       "url": "https://www.foxnews.com/us/harvey-levin-gives-explosive-update-purported-nancy-levin-ransom-note-hannity",
       "published": "Thu, 05 Feb 2026 22:40:52 -0500",
@@ -1673,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Russian general shot several times in Moscow",
+      "description": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff.",
+      "url": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Feb 2026 10:30:45 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
       "description": "A couple who stayed in Shenzhen discovered their intimate moments were filmed as spy-cam porn.",
       "url": "https://www.bbc.com/news/articles/c62rexy9y3no?at_medium=RSS&at_campaign=rss",
@@ -1683,20 +1673,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canada dispatches senior officials to open Greenland consulate",
-      "description": "It was planned before Trump said he wanted the Arctic island but Canada says the move is a show of solidarity with Greenlanders.",
+      "title": "Canada and France to open Greenland consulates after Trump demands",
+      "description": "The moves were planned before Trump said he wanted the Arctic island but they are being seen as a show of solidarity with Greenlanders.",
       "url": "https://www.bbc.com/news/articles/c0r4lrly44xo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Feb 2026 07:50:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US healthcare needs fixing, but there's no agreement on how to do it",
-      "description": "Is there the political will to fix it the US' health horror stories?",
-      "url": "https://www.bbc.com/news/articles/cn0k6d6z7j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Feb 2026 02:01:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1707,6 +1687,26 @@
       "description": "It is rare for US presidents to publicly back candidates in foreign elections.",
       "url": "https://www.bbc.com/news/articles/c5yd14r2mgno?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Feb 2026 03:25:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pandora to switch from silver to platinum over price surge",
+      "description": "The jeweller says it wants to reduce its exposure after the cost of the precious metal has risen.",
+      "url": "https://www.bbc.com/news/articles/cly3ygj7189o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Feb 2026 10:10:34 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Amazon shares fall as it joins Big Tech AI spending spree",
+      "description": "Major firms collectively announce $650bn worth of investment in AI this week, rattling investors.",
+      "url": "https://www.bbc.com/news/articles/c150e144we3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Feb 2026 08:37:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1743,11 +1743,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Gen Z toppled an autocrat - but old guard tipped to win Bangladesh vote",
-      "description": "A student uprising promised a new dawn in Bangladesh but old parties are tipped to win a landmark election.",
-      "url": "https://www.bbc.com/news/articles/c1m7444nr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Feb 2026 00:35:15 GMT",
+      "title": "US healthcare needs fixing, but there's no agreement on how to do it",
+      "description": "Is there the political will to fix the US health horror stories?",
+      "url": "https://www.bbc.com/news/articles/cn0k6d6z7j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Feb 2026 02:01:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Just how ‘excellent’ was Trump and Xi Jinping’s phone call, really?",
+      "description": "US president raved about his 'extremely good' personal relationship with the Chinese leader, but Xi was more muted.",
+      "url": "https://www.aljazeera.com/news/2026/2/6/just-how-excellent-was-trump-and-xi-jinpings-phone-call-really?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 10:30:16 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1943,36 +1953,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "'More relevant every day' in the U.S.: A filmmaker documented Russia's journalists",
-      "description": "Julia Loktev's documentary My Undesirable Friends follows young independent journalists covering Putin's invasion of Ukraine.",
-      "url": "https://www.npr.org/2026/02/05/nx-s1-5699392/my-undesirable-friends-russia-julia-loktev",
-      "published": "Thu, 05 Feb 2026 09:41:12 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The Winter Olympics get 8 new events, including the first new sport in decades",
-      "description": "Ski mountaineering will make its Olympic debut this year, the first winter sport to do so since 2002. Skeleton, luge, ski jumping and moguls are also getting new events.",
-      "url": "https://www.npr.org/2026/02/05/nx-s1-5637261/winter-olympics-new-sports-ski-mountaineering",
-      "published": "Thu, 05 Feb 2026 07:05:17 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "As Trump reshapes foreign policy, China moves to limit risks, reap gains",
-      "description": "President Trump's focus overseas may spare China for now, but Beijing still worries that his \"America First\" rhetoric hasn't softened what it calls U.S. \"military adventurism.\"",
-      "url": "https://www.npr.org/2026/02/05/g-s1-108686/with-trump-reshaping-foreign-policy-china-moves-to-limit-risks-and-reap-gains",
-      "published": "Thu, 05 Feb 2026 06:13:00 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Russian general hospitalized after 'several shots' in Moscow",
       "description": "Russian officials said the deputy chief of military intelligence, Vladimir Alekseyev, was targeted by \"an unidentified individual.\"",
       "url": "https://www.dw.com/en/russian-general-hospitalized-after-several-shots-in-moscow/a-75833448?maca=en-rss-en-all-1573-xml-mrss",
@@ -2013,6 +1993,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "France's former culture minister Jack Lang summoned over Epstein links",
+      "description": "France's former culture minister Jack Lang was summoned to the foreign ministry this Sunday to discuss his ties to late US financier and convicted sex offender Jeffrey Epstein, officials said on Friday. Lang has denied any knowledge of or involvement in Epstein's crimes.",
+      "url": "https://www.france24.com/en/france/20260206-france-former-culture-minister-jack-lang-summoned-over-epstein-links",
+      "published": "Fri, 06 Feb 2026 10:32:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Milano-Cortina: Venues delivered at the 'final breath'",
+      "description": "The 2026 Milano-Cortina Winter Olympics open tomorrow following a frantic race to complete venues like the Cortina sliding centre and Milan ice hockey arena just in time. While the total cost has climbed to $6.7 billion—exceeding original estimates—it remains significantly lower than the record-breaking budgets of Sochi and Beijing. Despite these financial pressures, organizers view the Games as a vital infrastructure investment expected to draw two million spectators and boost tourism in Northern Italy by 160%.",
+      "url": "https://www.france24.com/en/milano-cortina-venues-delivered-at-the-final-breath",
+      "published": "Fri, 06 Feb 2026 10:10:48 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former French minister Lang summoned by foreign ministry over Epstein links",
+      "description": "Pressure is mounting on Jack Lang, ex-French minister, following the release of US Department of Justice files detailing his ties to Jeffrey Epstein. While Lang claims Epstein was merely a casual acquaintance met through Woody Allen, the documents suggest a more consistent correspondence between the two from 2012 until 2019. Consequently, the 86-year-old former minister was summoned by the French foreign ministry to address these discrepancies.",
+      "url": "https://www.france24.com/en/former-french-minister-lang-summoned-by-foreign-ministry-over-epstein-links",
+      "published": "Fri, 06 Feb 2026 10:01:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump administration launches TrumpRx to lower prescription drug costs",
       "description": "The Trump administration unveiled TrumpRx on Thursday, a website aimed at helping Americans access discounted prescription drugs directly from manufacturers. The initiative, part of broader efforts to tackle rising health care costs, includes weight-loss and fertility medications.",
       "url": "https://www.france24.com/en/technology/20260206-trump-administration-launches-trumprx-to-lower-prescription-drug-costs",
@@ -2044,19 +2054,9 @@
     },
     {
       "title": "Italy's tourism industry welcomes Olympic visitors",
-      "description": "Businesses across Italy could see a windfall of some $6 billion, as spectators head to the Alps for the Winter Olympics. The Milano-Cortina 2026 Games have run over-budget, although by a smaller amount than previous competitions. Giulia Wedam, Co-Founder & CEO of the tourism agency Cortina IN, says she's expecting a boost in business that will outlast the Games themselves.",
+      "description": "Businesses across Italy could see a windfall of some $6 billion, as spectators head to the Alps for the Winter Olympics. The Milano-Cortina 2026 Games have run over budget, although by a smaller amount than previous competitions. Giulia Wedam, co-Founder & CEO of the tourism agency Cortina IN, says she's expecting a boost in business that will outlast the Games themselves.",
       "url": "https://www.france24.com/en/italy-s-tourism-industry-welcomes-olympic-visitors",
       "published": "Thu, 05 Feb 2026 21:38:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Doctored emails online claim Epstein invented Bitcoin",
-      "description": "Social media users have falsely claimed that emails from the latest Epstein file dump prove that the disgraced sex offender was in fact Satoshi Nakamoto, the creator of Bitcoin, whose real identity remains a mystery to this day. Nakamoto is indeed mentioned in the documents, but this particular viral email is doctored. Vedika Bahl explains in Truth or Fake.",
-      "url": "https://www.france24.com/en/doctored-emails-online-claim-jeffrey-epstein-invented-bitcoin",
-      "published": "Thu, 05 Feb 2026 20:32:15 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
