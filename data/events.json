@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T22:51:06.096314Z",
+  "last_updated": "2026-02-06T23:27:35.703726Z",
   "event_count": 223,
   "events": [
     {
@@ -873,6 +873,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Nigeria court orders UK to pay &#163;420m",
+      "description": "A Nigerian court has reportedly ordered the UK to pay £420m to the families of 21 striking miners killed by security forces during British colonial rule.",
+      "url": "https://news.sky.com/story/nigerian-court-orders-uk-to-pay-163420m-over-coal-mine-deaths-in-1949-13504264",
+      "published": "Fri, 06 Feb 2026 20:38:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Son of former Libyan dictator Muammar al-Qaddafi killed by masked men, reps say",
       "description": "Seif al-Islam Qaddafi, son of former Libyan dictator Muammar al-Qaddafi, was reportedly killed by \"masked men\" in an \"assassination,\" his team says.",
       "url": "https://www.foxnews.com/world/son-former-libyan-dictator-muammar-al-qaddafi-killed-masked-men-reps-say",
@@ -881,6 +891,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "For cricket-mad Bangladesh, T20 World Cup expulsion means heartbreak",
+      "description": "As Bangladesh watch the T20 World Cup from afar, the mood in Dhaka is sombre and the players are left disappointed.",
+      "url": "https://www.aljazeera.com/sports/2026/2/6/what-t20-world-cup-expulsion-means-for-bangladesh-and-regional-relations?traffic_source=rss",
+      "published": "Fri, 06 Feb 2026 22:52:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Is globalisation killing craftsmanship?",
@@ -1013,31 +1033,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US attorney general says ‘key participant’ in 2012 Benghazi attack arrested",
-      "description": "​Zubayr ‌al-Bakoush facing charges related to killing of US ambassador Christopher Stevens and three other US citizens.",
-      "url": "https://www.aljazeera.com/news/2026/2/6/us-attorney-general-says-key-participant-in-2012-benghazi-attack-arrested?traffic_source=rss",
-      "published": "Fri, 06 Feb 2026 15:38:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Defending Denmark against foes — and fickle friends",
-      "description": "Donald Trump's Greenland obsession has added pressure on the Danish military. Expanded conscription will boost its ranks as disappointment grows over the US attitude toward allies.",
-      "url": "https://www.dw.com/en/defending-denmark-against-foes-and-fickle-friends/a-75807186?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 6 Feb 2026 12:48:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1087,16 +1087,6 @@
       "description": "California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.",
       "url": "https://www.foxnews.com/us/california-man-arrested-sending-texts-guthrie-family-asking-bitcoin-during-missing-mother-case",
       "published": "Thu, 05 Feb 2026 18:15:29 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What to know about Nancy Guthrie's family as sheriff says 'everybody's still a suspect'",
-      "description": "Sheriff says there are suspects in the Nancy Guthrie case as the search continues for the missing 84-year-old Tucson woman and mother of \"Today\" host Savannah Guthrie.",
-      "url": "https://www.foxnews.com/us/what-know-about-nancy-guthries-family-sheriff-says-everybodys-still-suspect",
-      "published": "Thu, 05 Feb 2026 17:00:06 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1243,6 +1233,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "North Carolina man charged with three counts of statutory rape held on ICE detainer",
+      "description": "A multi-agency investigation led to statutory rape charges against a 29-year-old man in North Carolina. The victims were allegedly contacted through Snapchat.",
+      "url": "https://www.foxnews.com/us/north-carolina-man-charged-three-counts-statutory-rape-held-ice-detainer",
+      "published": "Fri, 06 Feb 2026 18:06:55 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump signals willingness to defend Diego Garcia military base if future deal threatens US access",
       "description": "President Donald Trump signaled a willingness to move past tensions with British Prime Minister Keir Starmer over a controversial U.K.-Mauritius deal involving Diego Garcia.",
       "url": "https://www.foxnews.com/world/trump-threatens-military-force-over-diego-garcia-following-uk-mauritius-sovereignty-deal",
@@ -1336,7 +1336,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-06T22:50:50.043839Z",
+      "published": "2026-02-06T23:27:11.317033Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1513,10 +1513,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Savannah Guthrie's brother renews plea for proof mother is alive",
+      "title": "Police probe new message in search for mother of Savannah Guthrie",
       "description": "Nancy Guthrie, the 84-year-old mother of an NBC News presenter, is believed to have been abducted from her home in Tucson, Arizona.",
       "url": "https://www.bbc.com/news/articles/c2e1e7nlegko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Feb 2026 13:31:43 GMT",
+      "published": "Fri, 06 Feb 2026 23:20:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1823,6 +1823,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump removes racist video of Obamas after backlash",
+      "description": "The White House initially defended the video, calling the bipartisan backlash \"fake outrage,\" before deleting it hours later in a rare backtrack. Criticism of the post came from Republicans and Democrats alike.",
+      "url": "https://www.dw.com/en/trump-removes-racist-video-of-obamas-after-backlash/a-75852149?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Feb 2026 23:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "TrumpRx promises cheap drugs for the US ― but how cheap?",
       "description": "Donald Trump's latest pitch to voters ahead of critical midterm elections is that he's bringing drug prices down. But amid cost-of-living challenges, many Americans may only see modest savings.",
       "url": "https://www.dw.com/en/trumprx-promises-cheap-drugs-for-the-us-―-but-how-cheap/a-75848640?maca=en-rss-en-all-1573-xml-mrss",
@@ -1987,16 +1997,6 @@
       "description": "From the Skripal poisonings to the invasion of Ukraine to subverting American elections, it is hard to think of a Russian outrage Lieutenant General Vladimir Alekseyev has not been involved in.",
       "url": "https://news.sky.com/story/this-russian-general-fought-and-meddled-for-vladimir-putin-around-the-world-now-hes-fighting-for-his-own-life-13504073",
       "published": "Fri, 06 Feb 2026 13:10:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "<a href=\"https://www.skysports.com/live-blog/15234/13502613/winter-olympics-2026-live-milan-cortina-news-schedule-updates-latest-results-todays-events-as-team-gb-aim-for-record-breaking-medal-haul\">Winter Olympics under way with spectacular opening ceremony</a>",
-      "description": "No description available.",
-      "url": "https://news.sky.com/story/winter-olympics-2026-live-13504220",
-      "published": "Fri, 06 Feb 2026 19:08:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
