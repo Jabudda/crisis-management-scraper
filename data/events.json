@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T10:28:31.445838Z",
-  "event_count": 222,
+  "last_updated": "2026-02-07T10:55:13.327953Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: UN condemns attack on civilians in Nigeria, updates from Gaza and West Bank, relief flights to resume in Yemen",
@@ -390,6 +390,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
+      "description": "Israel's war on Gaza and actions beyond are reshaping global politics and threatening global stability, forum hears.",
+      "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss",
+      "published": "Sat, 07 Feb 2026 10:22:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -1353,16 +1363,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Japan snap election: Who’s standing and what’s at stake?",
-      "description": "Japanese are voting on issues ranging from cost of living to constitutional reform.",
-      "url": "https://www.aljazeera.com/news/2026/2/7/japan-snap-election-whos-standing-and-whats-at-stake?traffic_source=rss",
-      "published": "Sat, 07 Feb 2026 04:17:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1388,6 +1388,16 @@
       "url": "https://www.theguardian.com/us-news/2026/feb/06/trump-proclamation-us-imports-argentine-beef",
       "published": "Fri, 06 Feb 2026 23:27:38 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-07T10:54:52.600048Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1993,6 +2003,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Neil Young cancels tour of UK and other Europe dates",
+      "description": "Neil Young has cancelled his upcoming UK tour and other dates in Europe with rock band The Chrome Hearts.",
+      "url": "https://news.sky.com/story/singer-neil-young-cancels-tour-of-uk-and-other-europe-dates-13504354",
+      "published": "Sat, 07 Feb 2026 09:36:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump administration wants to deport five-year-old detained by ICE in Minnesota",
       "description": "The Trump administration is moving to deport a five-year-old boy who was detained by Immigration and Customs Enforcement (ICE) agents in Minnesota last month.",
       "url": "https://news.sky.com/story/trump-administration-wants-to-deport-five-year-old-detained-by-ice-in-minnesota-13504253",
@@ -2007,16 +2027,6 @@
       "description": "Norway's crown princess Mette-Marit has apologised for her friendship with Jeffrey Epstein after the latest release of files about the late convicted sex offender.",
       "url": "https://news.sky.com/story/norways-crown-princess-mette-marit-apologises-over-epstein-links-13504085",
       "published": "Fri, 06 Feb 2026 13:37:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "North Korea 'executes schoolchildren for watching Squid Game'",
-      "description": "People in North Korea, including schoolchildren, are being executed for watching Squid Game and other foreign media, according to new testimony.",
-      "url": "https://news.sky.com/story/north-korea-executes-schoolchildren-for-watching-squid-game-13504047",
-      "published": "Fri, 06 Feb 2026 12:14:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
