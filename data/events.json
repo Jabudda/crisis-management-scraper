@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T10:29:08.775792Z",
+  "last_updated": "2026-02-08T10:56:45.529053Z",
   "event_count": 223,
   "events": [
     {
@@ -503,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-      "description": "Iran’s Foreign Minister Abbas Araghchi says discussions will remain focused on nuclear issue, not missile programme.",
-      "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss",
-      "published": "Sat, 07 Feb 2026 21:07:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Families call for truth on Kosovo War's missing people",
       "description": "Some 1,600 people are still missing from the Kosovo War, though it ended nearly three decades ago. Serbia has blocked efforts to shed light on their fates. But now, Kosovo and Serbia's joint commission has finally met.",
       "url": "https://www.dw.com/en/families-call-for-truth-on-kosovo-war-s-missing-people/a-75855214?maca=en-rss-en-all-1573-xml-mrss",
@@ -823,7 +813,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Polls open in second round of Portugal presidential election",
+      "title": "Polls open in Portugal for first presidential run-off in 40 years",
       "description": "The far right's score will be watched closely, with the vote being held as heavy storms continue to lash the country.",
       "url": "https://www.aljazeera.com/news/2026/2/8/polls-open-in-second-round-of-portugal-presidential-election?traffic_source=rss",
       "published": "Sun, 08 Feb 2026 09:10:40 +0000",
@@ -1486,7 +1476,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-08T10:28:47.918607Z",
+      "published": "2026-02-08T10:56:25.607088Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1698,6 +1688,16 @@
       "url": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Feb 2026 23:05:00 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Head of Hamas abroad says ‘resistance is a right’ for occupied people",
+      "description": "Khaled Meshaal, the head of Hamas abroad, has spoken at the Al Jazeera Forum on the rights of Palestinians to resist.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/head-of-hamas-abroad-says-resistance-is-a-right-for-occupied-people?traffic_source=rss",
+      "published": "Sun, 08 Feb 2026 10:26:19 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1923,10 +1923,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Thailand election pits reformists against conservative PM",
-      "description": "Vote counting is underway following parliamentary elections and a referendum on replacing the current military-backed constitution.",
-      "url": "https://www.dw.com/en/thailand-election-pits-reformists-against-conservative-pm/a-75858485?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 8 Feb 2026 08:25:00 GMT",
+      "title": "Thailand election: Vote counting underway in 3-way race",
+      "description": "Polls have closed in Thailand's parliamentary elections and referendum on replacing the current military-backed constitution.",
+      "url": "https://www.dw.com/en/thailand-election-vote-counting-underway-in-3-way-race/a-75858485?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 8 Feb 2026 10:49:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany news: SPD urges reset in US ties amid Trump era",
+      "description": "Germany’s Social Democrats want a rethink on US relations, arguing that Donald Trump's approach raises doubts about the reliability of the transatlantic alliance. Meanwhile, phone scammers are taking a hit. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-spd-urges-reset-in-us-ties-amid-trump-era/live-75860227?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 8 Feb 2026 10:43:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -1977,16 +1987,6 @@
       "description": "Three incidents of damage to rail infrastructure around Bologna in northern Italy are being investigated. Authorities said journeys to day one of the Winter Olympic Games have been disrupted.",
       "url": "https://www.dw.com/en/italian-police-probe-sabotage-on-rail-lines-to-olympics/a-75855549?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Feb 2026 17:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pingtok: Teenagers taking drugs on TikTok",
-      "description": "Under the hashtag #Pingtok, teenagers film themselves getting high, connect with dealers and reach millions on TikTok. How dangerous is the social media trend?",
-      "url": "https://www.dw.com/en/pingtok-teenagers-taking-drugs-on-tiktok/a-75807703?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 7 Feb 2026 13:19:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
