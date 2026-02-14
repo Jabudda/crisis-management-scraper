@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T22:26:00.520373Z",
+  "last_updated": "2026-02-14T22:51:55.805923Z",
   "event_count": 223,
   "events": [
     {
@@ -70,6 +70,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: Hume says Liberals would oppose any increase to capital gains tax; Taylor refuses to be drawn on new frontbench",
+      "description": "New deputy leader says ‘energy abundance’ will bring prices down. Follow the latest updates live The conversation returns again to energy policy and climate change. Asked, directly, about whether the Coalition needs some sort of policy on climate change, Hume counters by talking about nuclear power: If people were open minded to the idea of the moratorium on nuclear energy which is a bill I brought a backbencher so we can have a zero emissions technology introduced into our country, as every developed nation has either done or in the process of doing, that would add to the energy abundance. David, I’m not announcing policy 48 hours arhaving been elected -- after having been elected deputy leader. It is absolutely crazy to ideological approach towards energy because it’s energy that drives our economy. We want to see our economy flourish and thrive so that all Australians can see better days ahead. There is no doubt that caring for our environment, looking after our oceans, looking after our soil, looking after our profoundly important. And reducing emissions is not the only thing that’s important to Australians. What’s important to Australians is an they can see to get ahead. That can see to look after themselves, to look after their families, to restore that optimism to what that they do every single day. We want to make sure we have a system that not only makes sure families that want to return to the workplace and have their children cared for have that opportunity to do so, but they should also have a choice as to how they go about doing that. Because we want all Australians, particularly women, to have that opportunity to participate fully in the economy, participate fully in society. And we also want to make sure we have quality childcare that makes sure our children have the best start in life, but that doesn’t necessarily mean there’s a one size fits all approach that’s the way to deal with that. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/15/federal-politics-liberal-party-angus-taylor-jane-hume-coalition-labor-anthony-albanese-ntwnfb",
+      "published": "Sat, 14 Feb 2026 22:32:16 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -177,16 +187,6 @@
       "description": "Discipline committee decides to terminate Miles Kwan from studies because of ‘multiple acts of misconduct’ A Hong Kong university student who had called for accountability over a deadly fire at an apartment complex in the city has been expelled by the school for disciplinary offences. Miles Kwan, a politics student, was detained for two nights by the city’s national security police last year for “seditious intent” after handing out flyers calling for an independent investigation into a fire that killed 168 people in November. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/13/university-expels-student-who-called-for-accountability-over-hong-kong-fire-miles-kwan",
       "published": "Fri, 13 Feb 2026 17:58:12 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Australia news live: Angus Taylor refuses to be drawn on makeup of new opposition frontbench",
-      "description": "Meanwhile in Sydney, Mardi Gras events to kick off with Fair Day. Follow the latest updates live Asked about recent protests in Sydney, Taylor did say that he believed “people have the right to play” but refused to criticise police over their handling of the situation, including the decision to move on a group of Muslim men engaged in prayer. He attacked Albanese for, he said, refusing to “condemn” use of the phrase “globalise the intifada”. Asked about Grace Tame and her use of the phrase, he suggested the issue begins with the PM. I think what should happen is the prime minister should condemn it. I acknowledge her extraordinary service to the Liberal party. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/15/federal-politics-liberal-party-angus-taylor-jane-hume-coalition-labor-anthony-albanese-ntwnfb",
-      "published": "Sat, 14 Feb 2026 22:09:16 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 22,
@@ -753,6 +753,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Rubio's words reassure Europe, but tensions remain",
+      "description": "U.S. Secretary of State Marco Rubio delivers a keynote speech at the annual Munich Security Conference; European stakeholders are reassured but still wary.",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5714465/rubios-words-reassure-europe-but-tensions-remain",
+      "published": "Sat, 14 Feb 2026 17:24:41 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Secretary of State Marco Rubio pulls out of a high-level meeting on Ukraine",
       "description": "NPR's Scott Simon speaks to Fiona Hill, senior fellow at the Brookings Institution's Center on the United States and Europe, about the Trump administration's strategy to end Russia's war with Ukraine.",
       "url": "https://www.npr.org/2026/02/14/nx-s1-5708835/secretary-of-state-marco-rubio-pulls-out-of-a-high-level-meeting-on-ukraine",
@@ -888,16 +898,6 @@
       "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
       "published": "Mon, 09 Feb 2026 13:44:54 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "World leaders to discuss the future of Europe's security in Munich",
-      "description": "World leaders will meet at the Munich Security Conference Friday to discuss the future of Europe's security.",
-      "url": "https://www.npr.org/2026/02/13/nx-s1-5711635/world-leaders-to-discuss-the-future-of-europes-security-in-munich",
-      "published": "Fri, 13 Feb 2026 04:47:38 -0500",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1293,21 +1293,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Palestinian protester Leqaa Kordia calls ICE custody ‘dehumanising’",
-      "description": "Palestinian Columbia protester Leqaa Kordia says she was chained to a hospital bed after a seizure in ICE custody.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/14/palestinian-protester-leqaa-kordia-calls-ice-custody?traffic_source=rss",
-      "published": "Sat, 14 Feb 2026 18:45:40 +0000",
+      "title": "Real Madrid thrash Real Sociedad 4-1 to move top of La Liga",
+      "description": "Vinicius Jr strikes twice ⁠from penalty spot as Madrid move provisionally above Barcelona, who play Girona on Monday.",
+      "url": "https://www.aljazeera.com/sports/2026/2/14/real-madrid-thrash-real-sociedad-4-1-to-move-top-of-la-liga?traffic_source=rss",
+      "published": "Sat, 14 Feb 2026 22:33:30 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Who will police Gaza, and how?",
-      "description": "Under President Trump's Gaza ceasefire plan, Arab countries and the European Union are supposed to train a new police force in the Gaza Strip. But U.S. plans have run into serious challenges.",
-      "url": "https://www.npr.org/2026/02/13/g-s1-109343/gaza-israel-police",
-      "published": "Fri, 13 Feb 2026 05:01:00 -0500",
-      "source": "NPR World News",
+      "title": "Palestinian protester Leqaa Kordia calls ICE custody ‘dehumanising’",
+      "description": "Palestinian Columbia protester Leqaa Kordia says she was chained to a hospital bed after a seizure in ICE custody.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/14/palestinian-protester-leqaa-kordia-calls-ice-custody?traffic_source=rss",
+      "published": "Sat, 14 Feb 2026 18:45:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1480,16 +1480,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Six possible effects of Trump's climate policy change",
-      "description": "The announcement on Thursday removes the legal bedrock for much of US environmental legislation.",
-      "url": "https://www.bbc.com/news/articles/cd03ee39945o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Feb 2026 19:08:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1673,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Obama addresses racist video shared by Trump depicting him as an ape",
+      "description": "The former US president didn't name Trump, but lamented the lack of \"shame\" and \"decorum\" among public officials.",
+      "url": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Feb 2026 22:24:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
       "description": "Palestinians say an Israeli power grab shuts them out of decisions on planning and development in West Bank.",
       "url": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
@@ -1733,8 +1733,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Real Madrid thrash Real Sociedad 4-1: La Liga",
-      "description": "Follow the build-up, analysis and live text commentary of the game as Madrid have a chance to go top of La Liga.",
+      "title": "Real Madrid vs Real Sociedad 4-1: La Liga – as it happened",
+      "description": "All the updates as Madrid go provisionally top of La Liga after a comfortable victory over Sociedad at the Bernabeu.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/2/14/live-real-madrid-vs-real-sociedad-la-liga?traffic_source=rss",
       "published": "Sat, 14 Feb 2026 17:20:00 +0000",
       "source": "Al Jazeera",
@@ -1767,16 +1767,6 @@
       "description": "Two of curling's best men's teams, Sweden and Canada, involved in fiery and controversial match at Winter Olympics.",
       "url": "https://www.aljazeera.com/sports/2026/2/14/curse-words-fly-as-cheating-allegations-made-in-curling-at-winter-olympics?traffic_source=rss",
       "published": "Sat, 14 Feb 2026 12:40:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Winter Olympics hit by another suspected sabotage of rail services",
-      "description": "Italy's Transport Minister Matteo Salvini says 'lives at risk' as services between Milano Cortina Games hit.",
-      "url": "https://www.aljazeera.com/sports/2026/2/14/winter-olympics-hit-by-latest-suspected-sabotage-in-italy?traffic_source=rss",
-      "published": "Sat, 14 Feb 2026 11:38:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1933,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "A London beat framed by colonial history",
+      "description": "NPR's Lauren Frayer arrived in London after years in India, and she's been covering Britain with the legacy of empire in view.",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5696542/a-london-beat-framed-by-colonial-history",
+      "published": "Sat, 14 Feb 2026 17:39:27 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Will the transatlantic alliance survive?",
       "description": "U.S. Senators Jeanne Shaheen, D-N.H., and Thom Tillis, R-N.C., co-chairs of the bipartisan Senate NATO Observer Group, sit down with NPR's Mary Louise Kelly at the Munich Security Conference.",
       "url": "https://www.npr.org/2026/02/13/nx-s1-5698254/will-the-transatlantic-alliance-survive",
@@ -2023,20 +2023,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Team GB win first gold at 2026 Winter Olympics",
-      "description": "Matt Weston has won gold in the men's singles skeleton competition, Team GB's first medal at the Winter Olympics in Italy.",
-      "url": "https://news.sky.com/story/team-gb-secure-first-gold-at-2026-winter-olympics-as-matt-weston-wins-mens-singles-skeleton-13507283",
-      "published": "Fri, 13 Feb 2026 19:03:00 +0000",
+      "title": "Valentine's Day gift for Winter Olympics athletes - more condoms",
+      "description": "Winter Olympics athletes are getting a Valentine's Day gift from organisers - a promise of a renewed supply of free condoms.",
+      "url": "https://news.sky.com/story/valentines-day-gift-for-winter-olympics-athletes-more-condoms-13507752",
+      "published": "Sat, 14 Feb 2026 22:28:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "An interview with The Secret Agent's star and filmmaker - right after a call from Brazil's president",
-      "description": "Wagner Moura and Kleber Mendonca Filho, star and director of political thriller The Secret Agent, have been delayed, slightly, I'm told.",
-      "url": "https://news.sky.com/story/wagner-moura-and-kleber-mendonca-filho-discuss-the-secret-agent-right-after-a-call-from-brazils-president-13503803",
-      "published": "Sat, 14 Feb 2026 00:01:00 +0000",
+      "title": "Team GB win first gold at 2026 Winter Olympics",
+      "description": "Matt Weston has won gold in the men's singles skeleton competition, Team GB's first medal at the Winter Olympics in Italy.",
+      "url": "https://news.sky.com/story/team-gb-secure-first-gold-at-2026-winter-olympics-as-matt-weston-wins-mens-singles-skeleton-13507283",
+      "published": "Fri, 13 Feb 2026 19:03:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
