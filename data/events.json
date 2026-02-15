@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T22:26:41.883687Z",
+  "last_updated": "2026-02-15T22:53:30.699424Z",
   "event_count": 224,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 45,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "African Union Summit confronts worsening conflicts",
-      "description": "Sudan’s civil war has emerged as the most pressing issue at the African Union summit. After nearly three years of fighting, tens of thousands of people have been killed and more than 11 million forced from their homes, prompting the United Nations to describe the situation as the world’s worst humanitarian crisis. Despite this, a clear path to resolution remains elusive, and diplomats warn that the rivalry between Saudi Arabia and the United Arab Emirates continues to overshadow the conflict while also fuelling wider regional tensions, including in Libya and between Eritrea and Ethiopia, the host nation where the summit opened on Saturday, as Nick Rushworth reports.",
-      "url": "https://www.france24.com/en/african-union-summit-confronts-worsening-conflicts",
-      "published": "Sun, 15 Feb 2026 09:56:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 44,
       "severity_level": "Critical"
     },
     {
@@ -743,6 +733,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli strike in eastern Lebanon kills four, targets Islamic Jihad",
+      "description": "Lebanon said an Israeli strike near the Syrian border on Sunday killed four people, while Israel said it targeted operatives from the Palestinian militant group Islamic Jihad. Despite a November 2024 truce intended to end over a year of Israel-Hezbollah hostilities, Israel has continued carrying out regular strikes in Lebanon.",
+      "url": "https://www.france24.com/en/middle-east/20260215-lebanon-dead-strike-israel-palestinian-group",
+      "published": "Sun, 15 Feb 2026 22:31:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Drone strikes kill 2 in Ukraine and Russia ahead of US-brokered peace talks in Geneva",
       "description": "Drone strikes killed one person in Ukraine and another in Russia on Saturday ahead of fresh U.S.-brokered peace talks",
       "url": "https://abcnews.go.com/International/wireStory/drone-strikes-kill-2-ukraine-russia-ahead-us-130164619",
@@ -954,7 +954,7 @@
     },
     {
       "title": "Mandating health star ratings is a win. But food lobbies still have too much power over our health",
-      "description": "Our food environment has been built to put profit over health — Australians can’t overcome that without stronger regulation and accountability Get our breaking news email , free app or daily news podcast Almost 13 years ago – and after a decade-long battle between health experts and the food industry – state and federal ministers voted to introduce a health star rating system to help consumers make healthier food choices. It was voluntary, thanks to the food industry being at the bargaining table and the decision-makers being largely food, trade and agriculture ministers (rather than health). Continue reading...",
+      "description": "Our food environment has been built to put profit over health – Australians can’t overcome that without stronger regulation and accountability Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Almost 13 years ago – and after a decade-long battle between health experts and the food industry – state and federal ministers voted to introduce a health star rating system to help consumers make healthier food choices. It was voluntary, thanks to the food industry being at the bargaining table and the decision-makers being largely food, trade and agriculture ministers (rather than health). Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/feb/16/mandating-health-star-ratings-is-a-win-but-food-lobbies-still-have-too-much-power-over-our-health",
       "published": "Sun, 15 Feb 2026 14:00:27 GMT",
       "source": "The Guardian World",
@@ -1164,7 +1164,7 @@
     },
     {
       "title": "Treasury considering changes to Australia’s contentious tobacco excise, as calls grow for a freeze",
-      "description": "The tax has climbed by 60% since 2020 and accounts for three-quarters of the legal cost of a packet of cigarettes Get our breaking news email , free app or daily news podcast Experts say a freeze on the federal government’s contentious tobacco excise should be considered, after the Treasury revealed it was modelling the impacts of cigarette prices on demand amid a booming black market. Lachlan Vass, a research manager at the e61 Institute, said the Treasury’s examination of “price elasticity” and demand for tobacco would be a necessary step to costing potential reforms to the excise. Continue reading...",
+      "description": "The tax has climbed by 60% since 2020 and accounts for three-quarters of the legal cost of a packet of cigarettes Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Experts say a freeze on the federal government’s contentious tobacco excise should be considered, after the Treasury revealed it was modelling the impacts of cigarette prices on demand amid a booming black market. Lachlan Vass, a research manager at the e61 Institute, said the Treasury’s examination of “price elasticity” and demand for tobacco would be a necessary step to costing potential reforms to the excise. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/feb/16/treasury-considering-changes-to-australias-contentious-tobacco-excise-as-calls-grow-for-a-freeze",
       "published": "Sun, 15 Feb 2026 14:00:25 GMT",
       "source": "The Guardian World",
@@ -1364,9 +1364,9 @@
     },
     {
       "title": "News live: Australia steering ‘soft landing’ on economy, IMF says; court battle begins over Coles’ ‘discounts’",
-      "description": "Retailers face penalties if they profited from promotions that breached consumer law. Follow today’s news live NSW detail more charges against men accused of elderly driver scam NSW police will lay more charges against two men accused of scamming elderly drivers in carparks across the state over multiple days in January. Continue reading...",
+      "description": "Retailers face penalties if they profited from promotions that breached consumer law. Follow today’s news live In case you missed it, NSW is getting an extra holiday this year People in Australia’s most populous state have been granted an Anzac Day long weekend for the next two years, and could be in line for more public holidays. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb",
-      "published": "Sun, 15 Feb 2026 22:12:22 GMT",
+      "published": "Sun, 15 Feb 2026 22:33:59 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
@@ -1476,7 +1476,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-15T22:26:16.041490Z",
+      "published": "2026-02-15T22:53:06.634826Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
