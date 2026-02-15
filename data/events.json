@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T06:58:49.562828Z",
+  "last_updated": "2026-02-15T07:42:41.135885Z",
   "event_count": 224,
   "events": [
     {
@@ -108,6 +108,16 @@
       "url": "https://www.dw.com/en/nigeria-dozens-killed-in-attacks-on-3-villages/a-75975947?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 15 Feb 2026 04:44:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: Russia says Ukrainian drones struck Black Sea port, Rubio to visit eastern Europe",
+      "description": "A Ukrainian drone attack damaged Russia's Taman port, sparking a fire at the strategic Black Sea hub, local officials said Sunday. The reported attack comes as US Secretary of State Marco Rubio begins a two-day trip to Slovakia and Hungary, whose conservative leaders have warm ties with President Donald Trump – but have resisted pressure to quit Russian oil. Follow our blog for the latest developments.",
+      "url": "https://www.france24.com/en/europe/20260215-live-russia-says-ukrainian-drones-struck-black-sea-port-rubio-visits-hungary-slovakia",
+      "published": "Sun, 15 Feb 2026 07:26:57 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -261,16 +271,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "'All records broken' as Storm Nils leaves swaths of southwest France under water",
-      "description": "France's flood alert agency has been working round the clock over the past month amid relentless rain and a series of winter storms, the agency's chief said Saturday, as large swaths of the southwest remained under water following the passage of Storm Nils.",
-      "url": "https://www.france24.com/en/france/20260214-all-records-broken-storm-nils-leaves-swathes-southwest-france-under-water-floods",
-      "published": "Sat, 14 Feb 2026 12:30:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "Fire in Budapest suburb kills at least 3 and injures 22, authorities say",
@@ -993,6 +993,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Zelenskyy says US ‘too often’ pushes Ukraine, not Russia, for concessions",
+      "description": "Ukraine's president calls his Russian counterpart a 'slave to war' and accuses Moscow of stalling talks.",
+      "url": "https://www.aljazeera.com/news/2026/2/15/zelenskyy-says-us-too-often-pushes-ukraine-not-russia-for-concessions?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 07:08:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Gunmen kill at least 32 people in northern Nigeria, residents say",
       "description": "Witnesses say the motorcycle riding gunmen attacked three communities in northern Nigeria, killing and abducting dozens.",
       "url": "https://www.aljazeera.com/news/2026/2/15/gunmen-kill-at-least-32-people-in-northern-nigeria-residents-say?traffic_source=rss",
@@ -1363,16 +1373,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Rubio at Munich Security Conference: US wants Europe to be ‘strong’",
-      "description": "US Secretary of State of Marco Rubio recalled the history between the US and Europe at the Munich Security Conference.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/14/rubio-at-munich-security-conference-us-wants-europe-to-be-strong?traffic_source=rss",
-      "published": "Sat, 14 Feb 2026 15:53:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1516,7 +1516,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-15T06:58:25.403247Z",
+      "published": "2026-02-15T07:42:09.485300Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1734,7 +1734,7 @@
     },
     {
       "title": "The spectacular multimillion-euro heist nobody noticed",
-      "description": "The theft has left Germans with a strong sense that trust in institutions and the system has been shaken.",
+      "description": "How did the thieves know exactly where the vault was and why did no-one hear the drill? Was it an inside job?",
       "url": "https://www.bbc.com/news/articles/cm2y2538lz8o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Feb 2026 00:01:17 GMT",
       "source": "BBC News",
@@ -1926,7 +1926,7 @@
       "title": "M 4.6 - 8 km NNW of Meadow Lakes, Alaska",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-02-10 20:42:22 UTC 2026-02-10 20:42:22 UTC at epicenter Location 61.697°N 149.633°W Depth 30.00 km (18.64 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak2026cxafty",
-      "published": "2026-02-14T20:01:45.155Z",
+      "published": "2026-02-15T07:41:32.819Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
