@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T10:28:45.950642Z",
+  "last_updated": "2026-02-15T10:56:23.346237Z",
   "event_count": 223,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 45,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "African Union Summit confronts worsening conflicts",
+      "description": "Sudan’s civil war has emerged as the most pressing issue at the African Union summit. After nearly three years of fighting, tens of thousands of people have been killed and more than 11 million forced from their homes, prompting the United Nations to describe the situation as the world’s worst humanitarian crisis. Despite this, a clear path to resolution remains elusive, and diplomats warn that the rivalry between Saudi Arabia and the United Arab Emirates continues to overshadow the conflict while also fuelling wider regional tensions, including in Libya and between Eritrea and Ethiopia, the host nation where the summit opened on Saturday, as Nick Rushworth reports.",
+      "url": "https://www.france24.com/en/african-union-summit-confronts-worsening-conflicts",
+      "published": "Sun, 15 Feb 2026 09:56:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 44,
       "severity_level": "Critical"
     },
     {
@@ -113,23 +123,13 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: Russia says Ukrainian drones struck Black Sea port, Rubio to visit eastern Europe",
+      "title": "Live: Russia says Ukrainian drones struck Black Sea port, Rubio visits eastern Europe",
       "description": "A Ukrainian drone attack damaged Russia's Taman port, sparking a fire at the strategic Black Sea hub, local officials said Sunday. The reported attack comes as US Secretary of State Marco Rubio begins a two-day trip to Slovakia and Hungary, whose conservative leaders have warm ties with President Donald Trump – but have resisted pressure to quit Russian oil. Follow our blog for the latest developments.",
       "url": "https://www.france24.com/en/europe/20260215-live-russia-says-ukrainian-drones-struck-black-sea-port-rubio-visits-hungary-slovakia",
       "published": "Sun, 15 Feb 2026 07:26:57 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Paris police shoot knife attacker",
-      "description": "France’s counterterrorism authorities have launched a new investigation after a knife-wielding assailant was shot dead by police Friday evening near the Arc de Triomphe. The attacker reportedly attempted to assault gendarmes who were preparing for the relighting of the Tomb of the Unknown Soldier. President Emmanuel Macron condemned the incident and lauded the rapid response of security forces. Yinka Oyetade reports.",
-      "url": "https://www.france24.com/en/paris-police-shoot-knife-attacker",
-      "published": "Sat, 14 Feb 2026 13:26:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -303,6 +303,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli airstrikes kill 11 Palestinians",
+      "description": "Gaza’s civil defence says Israeli airstrikes killed at least 11 people on Sunday, including strikes on a tent camp for displaced families in the north and another in Khan Younis in the south. Israel and Hamas have repeatedly accused each other of violating a US-brokered ceasefire reached in October. France24 correspondent Noga Tarnopolsky reports from Jerusalem.",
+      "url": "https://www.france24.com/en/israeli-airstrikes-kill-11-palestinians",
+      "published": "Sun, 15 Feb 2026 10:24:51 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "NASA's crew-12 docks at International Space Station",
+      "description": "Four astronauts docked at the International Space Station on Saturday for a research mission set to last several months. Among the crew is Sophie Adenot, who joins two American astronauts and one Russian, becoming only the second French woman to travel into space. The new team is replacing a previous crew that was forced to return to Earth early because of a medical issue, as Morgan Ayre reports.",
+      "url": "https://www.france24.com/en/nasa-s-crew-12-docks-at-international-space-station",
+      "published": "Sun, 15 Feb 2026 10:00:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "‘Like a scene out of a horror movie’: UN report warns of war crimes in Sudan’s El Fasher",
       "description": "Paramilitary forces in Sudan unleashed “a wave of intense violence…shocking in its scale and brutality” during their final offensive to capture the besieged city of El Fasher last October, committing atrocities that amount to war crimes and possible crimes against humanity, according to a report released on Friday by the UN human rights office, OHCHR.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166960",
@@ -373,16 +393,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Russia fatally 'poisoned' Putin critic Navalny with rare toxin, UK says",
-      "description": "Five European countries accused Russia of \"poisoning\" opposition leader Alexei Navalny using a rare toxin found in South American dart frogs, according to a joint statement issued Saturday. A leading critic of Russian President Vladimir Putin, Navalny died in an Arctic penal colony in February 2024. France24 correspondent Benedicte Paviot reports the latest from London.",
-      "url": "https://www.france24.com/en/russia-fatally-poisoned-putin-critic-navalny-with-rare-toxin-uk-says",
-      "published": "Sat, 14 Feb 2026 16:42:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Prime Minister Carney and Canada's main opposition leader hold hands during school shooting vigil",
       "description": "Canadian Prime Minister Mark Carney and the country’s opposition leaders paid tribute to the victims of one of the worst mass shootings in the country’s history at a vigil in the devastated northern British Columbia town",
       "url": "https://abcnews.go.com/International/wireStory/prime-minister-carney-canadas-main-opposition-leader-hold-130162207",
@@ -398,6 +408,16 @@
       "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
       "published": "Sun, 15 Feb 2026 06:00:15 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Epstein files unveil new global tensions",
+      "description": "French authorities are investigating the extent of their nationals’ involvement in the Jeffrey Epstein affair, with lead magistrates now reviewing some three million US documents to identify any French citizens connected to him. France 2 and Caitlin Brown report.",
+      "url": "https://www.france24.com/en/epstein-files-unveil-new-global-tensions",
+      "published": "Sun, 15 Feb 2026 10:34:05 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -463,10 +483,10 @@
       "severity_level": "High"
     },
     {
-      "title": "European states accuse Russia of Navanlny poisoning",
-      "description": "Five European countries, including Britain, France and Germany, accused Russia on Saturday of having poisoned jailed opposition figure Alexei Navalny with a rare and lethal toxin in 2024, speaking on the margins of the Munich Security Conference, as the United Kingdom, Sweden, France, Germany and Netherlands said in a joint statement that analyses of samples from Navalny’s body left them confident he had been poisoned, following the death of the outspoken critic of Russian President Vladimir Putin in an Arctic prison in February 2024 while he was serving a 19-year sentence. France24 correspondent Nick Holdsworth reports from Munich.",
-      "url": "https://www.france24.com/en/european-states-accuse-russia-of-navanlny-poisoning",
-      "published": "Sat, 14 Feb 2026 16:37:26 GMT",
+      "title": "Hungary PM Orbán gives inflammatory speech before April elections",
+      "description": "Following his appearance in Munich, US Secretary of State Marco Rubio is travelling to Budapest, a visit that comes just two months ahead of elections in Hungary that could see longtime leader and Trump ally Viktor Orbán lose power after 16 years, after Orbán used his annual state of the nation address on Saturday to argue that the country’s main threat is not Russia but the European Union, while opposition leader Péter Magyar is set to deliver a rival address on Sunday, as Charlotte Lam reports.",
+      "url": "https://www.france24.com/en/video/20260215-hungary-pm-orb%C3%A1n-gives-inflammatory-speech-before-april-elections",
+      "published": "Sun, 15 Feb 2026 09:48:47 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
@@ -583,20 +603,20 @@
       "severity_level": "High"
     },
     {
-      "title": "23-year-old student attacked by antifascist militants, now in coma",
-      "description": "A 23-year-old man is in a coma and fighting for his life after taking part in a protest with the far-right collective Nemesis on Thursday in the French city of Lyon, with other activists present claiming they have identified his attackers as members of an antifascist collective linked to the radical left movement La France Insoumise. Antonia Kerrigan tells us more.",
-      "url": "https://www.france24.com/en/23-year-old-student-attacked-by-antifascist-militants-now-in-coma",
-      "published": "Sat, 14 Feb 2026 16:46:35 GMT",
+      "title": "European leaders discuss role at Munich Summit",
+      "description": "It is the third and final day of the Munich Security Conference, the annual gathering of political leaders, military officials and security experts, after the first two days largely focused outward on Europe’s relationships, notably the European Union’s ties with the United States and Russia’s war against Ukraine, while Sunday’s agenda turns inward to examine the bloc’s own role and influence, as our correspondent Nick Holdsworth reports from the conference.",
+      "url": "https://www.france24.com/en/european-leaders-discuss-role-at-munich-summit",
+      "published": "Sun, 15 Feb 2026 09:50:29 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
     },
     {
-      "title": "Powerful storm hits France and Spain",
-      "description": "A powerful storm has hit France and Spain, causing three fatalities in weather-related incidents and leaving hundreds of thousands of homes without electricity. Gabrielle Nadler has more.",
-      "url": "https://www.france24.com/en/powerful-storm-hits-france-and-spain",
-      "published": "Sat, 14 Feb 2026 13:29:17 GMT",
+      "title": "23-year-old student attacked by antifascist militants, now in coma",
+      "description": "A 23-year-old man is in a coma and fighting for his life after taking part in a protest with the far-right collective Nemesis on Thursday in the French city of Lyon, with other activists present claiming they have identified his attackers as members of an antifascist collective linked to the radical left movement La France Insoumise. Antonia Kerrigan tells us more.",
+      "url": "https://www.france24.com/en/23-year-old-student-attacked-by-antifascist-militants-now-in-coma",
+      "published": "Sat, 14 Feb 2026 16:46:35 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
@@ -863,30 +883,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "French President Macron urges restraint after right-wing youth fatally beaten",
+      "description": "French President Emmanuel Macron on Saturday urged calm and restraint after a far-right aligned 23-year-old man identified only as Quentin was fatally beaten on the sidelines of a conference by a hard-left lawmaker in the southeastern city of Lyon. The incident has intensified tensions between France's far right and hard left.",
+      "url": "https://www.france24.com/en/video/20260215-french-president-macron-urges-restraint-after-right-wing-youth-fatally-beaten",
+      "published": "Sun, 15 Feb 2026 08:04:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "France's Macron urges restraint after right-wing youth fatally beaten",
       "description": "French President Emmanuel Macron on Saturday urged calm and restraint after a far-right aligned 23-year-old man identified only as Quentin was fatally beaten on the sidelines of a conference by a hard-left lawmaker in the southeastern city of Lyon. The incident has intensified tensions between France's far right and hard left.",
       "url": "https://www.france24.com/en/france/20260214-french-president-macron-urges-restraint-after-right-wing-youth-fatally-beaten",
       "published": "Sat, 14 Feb 2026 21:38:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Yet more embarassment for the Louvre amid ticket fraud revelations and leaky pipes",
-      "description": "The world's most visited museum has revealed that French police have dismantled what they called a 'large-scale' ticket fraud network. Two museum employees have been arrested in conjunction with the alleged conspiracy. The embarrassment comes just months after a daylight heist saw robbers make off with tens of millions of euros worth of priceless Crown Jewels. We speak to Didier Rykner, art historian and Editor in Chief of 'La Tribune de l’Art'.",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260214-2026-02-14-13-14-a-week-in-france-1402",
-      "published": "Sat, 14 Feb 2026 15:44:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "\"NATO has been woken up by President Trump, and it’s stronger because of it\" says Mark Rutte",
-      "description": "In an exclusive interview with FRANCE 24, NATO Secretary General Mark Rutte discussed the evolving role of Europe in global security, emphasising that the alliance is stronger today than it was a year ago. Reflecting on NATO's transformation, Rutte highlighted how the leadership of U.S. President Donald Trump, particularly his push for higher defence spending, played a crucial role in reshaping the alliance's priorities.",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260214-nato-has-been-woken-up-by-president-trump-and-it-s-stronger-because-of-it-says-mark-rutte",
-      "published": "Sat, 14 Feb 2026 13:35:51 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -898,6 +908,16 @@
       "url": "https://news.sky.com/story/pakistan-captain-says-its-up-to-india-to-decide-whether-to-shake-hands-in-cricket-clash-13507782",
       "published": "Sun, 15 Feb 2026 07:34:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "A look at Ramadan and how Muslims around the world observe the holy month",
+      "description": "Observant Muslims will soon be united in a ritual of daily fasting from dawn to sunset as the Islamic holy month of Ramadan starts",
+      "url": "https://abcnews.go.com/International/wireStory/ramadan-muslims-observe-holy-month-130183759",
+      "published": "Sun, 15 Feb 2026 05:32:43 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1053,10 +1073,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Victoires de la Musique 2026: Cardin named best female artist, women dominate nominations",
-      "description": "Just outside Paris, France’s top musical talents were honored at the 41st edition of the Victoires de la Musique awards, with Morgan Ayre providing a full roundup of the event.",
-      "url": "https://www.france24.com/en/victoires-de-la-musique-2026-cardin-named-best-female-artist-women-dominate-nominations",
-      "published": "Sat, 14 Feb 2026 13:30:49 GMT",
+      "title": "Munich: 250,000 rally for change in Iran",
+      "description": "At the Munich Security Conference on Saturday, a large street rally called for regime change in Iran, where the crowd was addressed by Reza Pahlavi, the exiled son of the country’s former Shah, who also spoke on the sidelines of the summit urging Donald Trump to help bring about the overthrow of the Islamic Republic. Nicholas Rushworth reports.",
+      "url": "https://www.france24.com/en/munich-250-000-rally-for-change-in-iran",
+      "published": "Sun, 15 Feb 2026 09:42:40 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1283,16 +1303,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Munich Security talks: Rubio says US wants to \"revitalise\" transatlantic alliance",
-      "description": "Marco Rubio’s address at the Munich Security Conference marked a more conciliatory stance for the U.S., following Vice President JD Vance’s harsh critique of Europe last year for ignoring an internal “threat,” shirking its defense responsibilities, and allowing left-wing influence in cultural matters. Although Rubio still encouraged European allies to consider policies akin to Donald Trump’s America, his speech clearly aimed to ease tensions and mend transatlantic relations. Senior Fellow at Scowcroft Center for Strategy and Security, Elisabeth Brown, tells us more.",
-      "url": "https://www.france24.com/en/munich-security-talks-rubio-says-us-wants-to-revitalise-transatlantic-alliance",
-      "published": "Sat, 14 Feb 2026 13:24:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Rio Carnival street party dogs parade as humans protest against pet killers",
       "description": "Dozens of dogs dressed as alligators, fairies and superheroes have gathered at a Rio de Janeiro Carnival street party as their owners protested cruelty against pets",
       "url": "https://abcnews.go.com/International/wireStory/rio-carnival-street-party-dogs-parade-humans-protest-130173589",
@@ -1403,10 +1413,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Rubio says US and Europe \"belong together\"",
-      "description": "US Secretary of State Marco Rubio sought to assuage European leaders' worries about fraying ties with Washington as he addressed the Munich Security Conference on Saturday, telling the annual gathering that Europe and the US \"belong together\" and that Washington wants to \"revitalise\" the transatlantic alliance. France24 journalist Andrew Hilliar explains.",
-      "url": "https://www.france24.com/en/rubio-says-us-and-europe-belong-together",
-      "published": "Sat, 14 Feb 2026 16:38:46 GMT",
+      "title": "Greenlandic prime minister Jens-Frederik Nielsen: \"Greenland is not for sale\"",
+      "description": "The third and final day of the Munich Security Conference is set to focus on Europe, with speakers including European Central Bank President Christine Lagarde and the EU’s foreign policy chief Kaja Kallas, after European allies expressed some relief on Saturday when US Secretary of State Marco Rubio said Washington was not seeking to undermine the transatlantic alliance, despite reiterating criticism of EU immigration and climate policies, while tensions persisted as Denmark’s prime minister said she believed Donald Trump’s ambition to seize Greenland remained unchanged; meanwhile, our FRANCE 24 correspondent Nick Holdsworth spoke with Greenlandic Prime Minister Jens-Frederik Nielsen, who reiterated that Greenland “is not for sale.”",
+      "url": "https://www.france24.com/en/greenlandic-prime-minister-jens-frederik-nielsen-greenland-is-not-for-sale",
+      "published": "Sun, 15 Feb 2026 09:45:33 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -1993,6 +2003,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "The week in pictures: an Olympics helmet ban, Bondi's testimony and the start of Carnival",
+      "description": "From the helmet that got a Ukrainian athlete banned from the Olympics to the start of Carnival to US Attorney General Pam Bondi's disastrous Epstein testimony, FRANCE 24 looks back at the week's most striking images.",
+      "url": "https://www.france24.com/en/culture/20260215-the-week-in-pictures-an-olympics-helmet-ban-bondi-testimony-start-carnival",
+      "published": "Sun, 15 Feb 2026 10:32:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "High-flying Lens reclaim top spot in Ligue 1 with hammering of Paris FC",
       "description": "Lens leapgfrogged Paris Saint-Germain into first place in Ligue 1 after thrashing Paris FC (5-0) on Saturday evening.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260215-high-flying-lens-reclaim-top-spot-in-ligue-1-with-hammering-of-paris-fc",
@@ -2007,16 +2027,6 @@
       "description": "Paris mayoral hopeful Rachida Dati is running her campaign almost entirely on social media, posting videos with everyday Parisians to drive home her campaign promises. The strategy echoes that of socialist newcomer turned New York Mayor Zohran Mamdani – but can right-wing veteran Dati achieve the same success?",
       "url": "https://www.france24.com/en/france/20260215-paris-mayoral-hopeful-dati-takes-campaign-inspiration-from-new-york-mamdani",
       "published": "Sun, 15 Feb 2026 08:30:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Rennes stun Ligue 1 leaders Paris Saint-Germain to end winless run",
-      "description": "Rennes returned to winning ways in emphatic fashion on Friday, claiming a 3-1 win over Paris Saint-Germain and handing Lens the chance to reclaim top spot.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260214-rennes-stun-ligue-1-leaders-paris-saint-germain-to-end-winless-run",
-      "published": "Sat, 14 Feb 2026 14:28:57 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2063,16 +2073,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "A look at Ramadan and how Muslims observe the holy month",
-      "description": "Observant Muslims will soon be united in a ritual of daily fasting from dawn to sunset as the Islamic holy month of Ramadan starts",
-      "url": "https://abcnews.go.com/International/wireStory/ramadan-muslims-observe-holy-month-130183759",
-      "published": "Sun, 15 Feb 2026 04:04:37 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "'First feline' Larry marks 15 years as Britain's political top cat",
       "description": "Larry the cat is marking 15 years as Britain’s Chief Mouser at 10 Downing Street, a symbol of stability in turbulent political times",
       "url": "https://abcnews.go.com/International/wireStory/feline-larry-marks-15-years-britains-political-top-130183270",
@@ -2098,6 +2098,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166962",
       "published": "Fri, 13 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "DNA breakthrough closes 30-year-old cold case in brutal 1993 rape and murder",
+      "description": "DNA evidence solves 30-year Indianapolis cold case, sending Dana Shepherd to prison for 45 years after he admitted to the murder of Carmen Van Huss.",
+      "url": "https://www.foxnews.com/us/dna-breakthrough-closes-30-year-old-cold-case-brutal-1993-rape-murder",
+      "published": "Sun, 15 Feb 2026 05:39:32 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2157,16 +2167,6 @@
       "description": "DNA testing company Othram slams Pima County Sheriff for sending Nancy Guthrie case evidence to Florida lab instead of FBI, calling decision \"devastating.\"",
       "url": "https://www.foxnews.com/us/genealogy-company-exec-slams-pima-sheriffs-devastating-move-ship-nancy-guthrie-evidence-florida-lab",
       "published": "Fri, 13 Feb 2026 14:26:07 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Walmart sales records become critical evidence as FBI investigates Nancy Guthrie's disappearance",
-      "description": "Walmart surveillance has become key evidence in Nancy Guthrie's disappearance as investigators use retail data to narrow suspects, expert Jason Pack says.",
-      "url": "https://www.foxnews.com/us/walmart-sales-records-become-critical-evidence-fbi-investigates-nancy-guthries-disappearance",
-      "published": "Fri, 13 Feb 2026 14:24:30 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
