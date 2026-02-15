@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T15:29:23.880704Z",
-  "event_count": 223,
+  "last_updated": "2026-02-15T15:51:10.115780Z",
+  "event_count": 224,
   "events": [
     {
       "title": "New Zealand officials warn more flooding could hit north island as man killed after heavy rain",
@@ -113,16 +113,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: Ukrainian drones strike key oil terminal in Russia's Krasnodar region",
-      "description": "The Ukrainian military claimed responsibility on Sunday for a drone attack on a key oil storage facility in Russia's southern Krasnodar region, which caused a major fire, according to a Russian official. The attack came as US Secretary of State Marco Rubio began a two-day trip to Slovakia and Hungary, whose conservative leaders have warm ties with President Donald Trump – but have resisted pressure to quit Russian oil. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/europe/20260215-live-russia-says-ukrainian-drones-struck-black-sea-port-rubio-visits-hungary-slovakia",
-      "published": "Sun, 15 Feb 2026 07:26:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Nigeria: Dozens killed in attacks on 3 villages",
       "description": "A group of gunmen attacked three villages in Nigeria in a dawn raid. At least 30 people have died and several are reportedly missing.",
       "url": "https://www.dw.com/en/nigeria-dozens-killed-in-attacks-on-3-villages/a-75975947?maca=en-rss-en-all-1573-xml-mrss",
@@ -210,6 +200,16 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Thousands of Western nationals fought Israel’s war on Gaza: What to know",
+      "description": "Thousands of Western citizens joined the Israeli military in its war on Gaza that killed over 72,000 Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 15:36:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -833,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Motorbike raids on villages kill dozens in Nigeria",
-      "description": "Assailants shot dead or cut the throats of their victims, lit homes on fire and abducted multiple people in Niger state, Nigeria.",
-      "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Feb 2026 01:23:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
       "description": "North Korea and Myanmar are other two countries on global financial blacklist as Tehran promises countermeasures.",
       "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss",
@@ -1074,7 +1064,7 @@
     },
     {
       "title": "MSC: With Iran in crisis, is Europe just a spectator?",
-      "description": "At this year's Munich Security Conference, Iran's exiled Crown Prince Reza Pahlavi has urged European leaders to help Iranians topple the Islamist regime. But does Europe have any leverage to deliver on this?",
+      "description": "At this year's Munich Security Conference, Iran's exiled Crown Prince Reza Pahlavi has urged European leaders to help Iranians topple the Iranian regime. But does Europe have any leverage to deliver on this?",
       "url": "https://www.dw.com/en/msc-with-iran-in-crisis-is-europe-just-a-spectator/a-75981413?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 15 Feb 2026 15:01:00 GMT",
       "source": "Deutsche Welle",
@@ -1190,6 +1180,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Motorbike raids on villages kill dozens in Nigeria",
+      "description": "Armed men shot locals dead, set homes alight and abducted an \"undetermined\" number of people in Niger State.",
+      "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Feb 2026 15:29:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1463,11 +1463,31 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-15T15:50:54.184911Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Why is Egypt bolstering ties with Somalia now?",
       "description": "As Egypt deploys troops to Mogadishu, analysts say Cairo is focusing on strategic access to the Red Sea and Somalia is concentrating on internal stability. But both countries share concerns about Ethiopian expansionism.",
       "url": "https://www.dw.com/en/why-is-egypt-bolstering-ties-with-somalia-now/a-75958140?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 14 Feb 2026 13:29:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Anthropic’s Claude helped Pentagon raid Caracas and seize Maduro: US media",
+      "description": "The Wall Street Journal has reported that the Pentagon used Anthropic’s AI model, Claude, as part of its operation to capture Venezuelan President Nicolás Maduro.",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260215-anthropic-s-claude-helped-pentagon-raid-caracas-and-seize-maduro-us-media",
+      "published": "Sun, 15 Feb 2026 15:19:33 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1528,16 +1548,6 @@
       "url": "https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Feb 2026 01:23:34 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Nigeria’s Argungu fishing contest returns after years of pause",
-      "description": "Traditional fishing methods shine at Argungu's iconic festival, preserving heritage and boosting local economy.",
-      "url": "https://www.aljazeera.com/gallery/2026/2/15/nigerias-argungu-fishing-contest-marks-return-after-years-of-pause?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 08:40:16 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1656,7 +1666,7 @@
       "title": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
       "description": "Opposition politicians flocked to a summit in Munich to offer an alternative to America First - and stake a claim as future party leaders.",
       "url": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Feb 2026 00:16:47 GMT",
+      "published": "Sun, 15 Feb 2026 15:32:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1924,7 +1934,7 @@
     },
     {
       "title": "MSC: EU eyeing new security strategy, says Kaja Kallas",
-      "description": "EU foreign policy chief, Kaja Kallas, says the new strategy will address \"all dimensions of European security\" amid a more hostile geopolitical era. DW has more.",
+      "description": "EU foreign policy chief, Kaja Kallas, says the new strategy will address \"all dimensions of European security\" amid a more hostile geopolitical era.",
       "url": "https://www.dw.com/en/msc-eu-eyeing-new-security-strategy-says-kaja-kallas/live-75938790?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 15 Feb 2026 10:24:00 GMT",
       "source": "Deutsche Welle",
