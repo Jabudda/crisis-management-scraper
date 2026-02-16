@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T21:55:19.496319Z",
+  "last_updated": "2026-02-16T22:30:42.046954Z",
   "event_count": 223,
   "events": [
     {
@@ -103,16 +103,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Australia news live: Sarah Henderson says Liberals’ immigration policy will focus on ‘national interest’",
-      "description": "‘We are not in the business of bringing people who hate this country into Australia,’ Liberal senator says. Follow today’s news live Get our breaking news email , free app or daily news podcast Total fire ban across much of Victoria today A total fire ban has been declared across a large stretch of southern Victoria today. The ban applies to the central, north central, south west, west and south Gippsland and Wimmera fire districts amid forecasted hot, dry temperatures. We’re seeing very dry fuels across large parts of the state, and when that’s paired with low humidity, fires can start easily and spread quickly. Any spark under these conditions has the potential to turn into something serious, particularly ahead of gusty winds or thunderstorms. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/17/racism-systemic-universities-angus-taylor-leaked-migration-policy-coalition-anthony-albanese-labor-accc-coles-ntwnfb",
-      "published": "Mon, 16 Feb 2026 21:37:34 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Rubio meets with pro-Trump allies Orban and Fico on Europe trip",
       "description": "US Secretary of State Marco Rubio met with Hungary’s Viktor Orban and Slovakia’s Prime Minister Robert Fico during his whirlwind trip to Europe. Orban and Fico are widely seen as two of the most Eurosceptic and pro-Trump leaders within the European Union. “Donald Trump has been endorsing like-minded, conservative nationalist leaders around the world,” FRANCE 24 International Affairs Editor Kethevane Gorjestani said in an analysis, noting that this departs from precedent, as US presidents usually avoid taking sides in other countries’ domestic politics.",
       "url": "https://www.france24.com/en/rubio-meets-with-pro-trump-allies-orban-and-fico-on-europe-trip",
@@ -210,6 +200,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: Albanese predicts One Nation surge may be shortlived amid ‘mess’ of mutual hatred on political right",
+      "description": "Meanwhile Sarah Henderson says Liberals’ immigration policy will focus on ‘national interest’. Follow today’s news live Get our breaking news email , free app or daily news podcast Total fire ban across much of Victoria today A total fire ban has been declared across a large stretch of southern Victoria today. The ban applies to the central, north central, south west, west and south Gippsland and Wimmera fire districts amid forecasted hot, dry temperatures. We’re seeing very dry fuels across large parts of the state, and when that’s paired with low humidity, fires can start easily and spread quickly. Any spark under these conditions has the potential to turn into something serious, particularly ahead of gusty winds or thunderstorms. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/17/racism-systemic-universities-angus-taylor-leaked-migration-policy-coalition-anthony-albanese-labor-accc-coles-ntwnfb",
+      "published": "Mon, 16 Feb 2026 22:22:14 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -603,11 +603,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Drone attack on busy market in Sudan kills at least 28",
+      "description": "Drone-fired missiles hit when market packed with people, 'exacerbating the humanitarian tragedy', rights group says.",
+      "url": "https://www.aljazeera.com/news/2026/2/16/drone-strike-on-busy-market-in-sudan-kills-at-least-28?traffic_source=rss",
+      "published": "Mon, 16 Feb 2026 21:38:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’",
       "description": "Luis Muñoz Pinto, 27, who was sent to notoriously brutal prison in El Salvador, would like to clear his name after US judge’s ruling A US federal judge’s order that some of the Venezuelan men sent by the Trump administration to a notorious prison in El Salvador must be allowed to return to the United States to fight their cases has been greeted with hope and a sense of vindication – but also fear – by one of the deportees. US district judge James Boasberg ruled on Thursday in Washington DC that the Trump administration should facilitate the return of deportees who are currently in countries outside Venezuela , saying they must be given the opportunity to seek the due process they were denied after being illegally expelled from the US last March. Boasberg added that the US government should cover the travel costs of those who wish to come to the US to argue their immigration cases. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/feb/14/venezuelan-illegally-deported-return-fears",
       "published": "Sat, 14 Feb 2026 17:34:47 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "US troops arrive in Nigeria on training mission",
+      "description": "Nigeria's government is seeking US help with training, technical support and intelligence-sharing, to combat violence from extremist groups threatening its territory.",
+      "url": "https://www.dw.com/en/us-troops-arrive-in-nigeria-on-training-mission/a-75997231?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 16 Feb 2026 21:56:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -767,16 +787,6 @@
       "description": "Nissanka's unbeaten century batters former champions Australia, who now need other results to go their way to survive.",
       "url": "https://www.aljazeera.com/sports/2026/2/16/australia-lose-to-sri-lanka-by-8-wickets-stare-at-t20-world-cup-exit?traffic_source=rss",
       "published": "Mon, 16 Feb 2026 18:01:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How shipping company MSC facilitates trade from Israeli settlements through",
-      "description": "The world’s largest shipping company MSC has been moving goods to and from illegal Israeli settlements.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/how-shipping-company-msc-facilitates-trade-from-israeli-settlements-through?traffic_source=rss",
-      "published": "Mon, 16 Feb 2026 14:02:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -947,6 +957,16 @@
       "description": "BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries",
       "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Feb 2026 18:17:18 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
+      "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Feb 2026 22:02:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1238,16 +1258,6 @@
       "url": "https://www.theguardian.com/environment/2026/feb/16/scientists-to-track-10000-moths-across-australia-using-little-more-than-eyelash-glue-and-confetti-like-tags",
       "published": "Mon, 16 Feb 2026 14:00:28 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "France: Macron's pro-business agenda hit by budget chaos",
-      "description": "France's 2026 budget finally passed the country's parliament, putting an end to months of deadlock. But for some, the bill marks the end of President Macron's pro-business policies.",
-      "url": "https://www.dw.com/en/france-macron-s-pro-business-agenda-hit-by-budget-chaos/a-75895518?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 16 Feb 2026 09:52:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1617,16 +1627,6 @@
       "description": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
       "url": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Feb 2026 08:05:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-      "description": "The US president wants American energy firms to start extracting the crude but they are reluctant.",
-      "url": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Feb 2026 09:50:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2073,6 +2073,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Two illegal aliens arrested in violent suburban home invasion involving sexual assault, kidnapping: police",
+      "description": "Two men, identified as illegal immigrants, were arrested on charges including forcible sexual offense and kidnapping following a violent home invasion in North Carolina.",
+      "url": "https://www.foxnews.com/us/two-illegal-aliens-arrested-violent-suburban-home-invasion-involving-sexual-assault-kidnapping-police",
+      "published": "Mon, 16 Feb 2026 17:01:06 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Nancy Guthrie's family members cleared as suspects in disappearance",
       "description": "Pima County Sheriff Chris Nanos clears Nancy Guthrie's family as suspects in her disappearance case, calling them \"victims\" who have been cooperative.",
       "url": "https://www.foxnews.com/us/nancy-guthries-family-members-cleared-suspects-disappearance",
@@ -2157,16 +2167,6 @@
       "description": "Georgia authorities are searching for a woman accused of stealing a school bus and driving it 40 miles before abandoning it in another county.",
       "url": "https://www.foxnews.com/us/woman-allegedly-steals-bus-from-elementary-school-parking-lot-goes-late-night-ride",
       "published": "Sun, 15 Feb 2026 13:27:17 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Columbia pulls promotion for DHS career expo after faculty claims university is aiding 'authoritarianism'",
-      "description": "Columbia University withdrew promotion of a DHS-affiliated CBP virtual career expo after faculty criticized the listing as aiding \"authoritarianism.\"",
-      "url": "https://www.foxnews.com/us/columbia-pulls-promotion-dhs-career-expo-after-faculty-claims-university-aiding-authoritarianism",
-      "published": "Sun, 15 Feb 2026 09:25:07 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
