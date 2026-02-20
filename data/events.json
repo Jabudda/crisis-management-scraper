@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T07:52:25.540999Z",
+  "last_updated": "2026-02-20T08:42:00.587223Z",
   "event_count": 221,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "One killed, 11 injured in Yemen after security forces disperse STC storming",
+      "description": "Protest erupts after the internationally recognised gov't holds its first session in the southern city of Aden.",
+      "url": "https://www.aljazeera.com/news/2026/2/20/one-killed-11-injured-in-yemen-after-security-forces-disperse-stc-storming?traffic_source=rss",
+      "published": "Fri, 20 Feb 2026 07:45:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -94,20 +104,10 @@
     },
     {
       "title": "Trump sets Iran nuclear deal deadline, Tehran threatens retaliation against US bases",
-      "description": "US President Donald Trump warned on Thursday that Iran must reach a deal on its nuclear programme within 10 to 15 days or face “really bad things”. Tehran has threatened to retaliate against US bases if attacked amid a large US military buildup in the Middle East that has fueled fears of a wider war.",
+      "description": "US President Donald Trump warned on Thursday that Iran must reach a deal on its nuclear programme within 10 to 15 days or face “really bad things”. Tehran has threatened to retaliate against US bases if attacked, amid a large US military buildup in the Middle East that has fueled fears of a wider war.",
       "url": "https://www.france24.com/en/middle-east/20260219-trump-iran-nuclear-deal-deadline-tehran-threatens-retaliation-us-bases",
       "published": "Thu, 19 Feb 2026 23:41:23 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Gas explosion kills 16 after apartment building partially collapsed in Pakistan",
-      "description": "Police and rescue officials say a gas explosion has ripped through an apartment building in Pakistan’s largest port city of Karachi, killing at least 16 people, after part of the structure collapsed on the first day of Ramadan",
-      "url": "https://abcnews.com/International/wireStory/gas-explosion-kills-16-after-apartment-building-partially-130291348",
-      "published": "Thu, 19 Feb 2026 03:40:59 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -453,16 +453,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran and the US lean into gunboat diplomacy as nuclear talks hang in balance",
-      "description": "Iran and the United States are both applying naval pressure to the talks over Tehran's nuclear program",
-      "url": "https://abcnews.com/International/wireStory/iran-us-lean-gunboat-diplomacy-nuclear-talks-hang-130291650",
-      "published": "Thu, 19 Feb 2026 04:01:42 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Fears of ethnic cleansing in Gaza and the West Bank: UN rights report",
       "description": "Increased Israeli attacks and the forced transfer of Palestinians have sparked concern over ethnic cleansing in the Gaza Strip and the West Bank, the UN human rights office, OHCHR, said in a report issued on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166998",
@@ -653,7 +643,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Argentina's striking workers clash with police over Milei labor reforms",
+      "title": "Argentina's striking workers clash with police over Milei labour reforms",
       "description": "Shops and supermarkets shut, flights were canceled and garbage piled high across Argentina on Thursday as unions staged a 24-hour general strike against President Javier Milei’s contentious labour reforms. Transport was largely halted and protesters blocked key roads into Buenos Aires, with some clashes reported.",
       "url": "https://www.france24.com/en/americas/20260220-argentina-striking-workers-police-milei-labor-reforms",
       "published": "Fri, 20 Feb 2026 00:33:23 GMT",
@@ -788,6 +778,16 @@
       "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
       "published": "Thu, 19 Feb 2026 17:59:17 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hodgkinson smashes women's indoor 800m world record in Liévin",
+      "description": "Keely Hodgkinson has broken the long-standing women's indoor 800m world record, set by Slovenia's Jolanda Ceplak on the day the Briton was born almost 24 years ago.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260220-hodgkinson-smashes-women-s-indoor-800m-world-record-in-li%C3%A9vin",
+      "published": "Fri, 20 Feb 2026 08:08:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -984,10 +984,20 @@
     },
     {
       "title": "'Grey's Anatomy' star Eric Dane dies at 53 after ALS battle",
-      "description": "Eric Dane, an actor known for roles in ‘Grey’s Anatomy’ and ‘Euphoria’, died on Thursday at 53 from amyotrophic lateral sclerosis, his representatives said. Dane, who disclosed his diagnosis less than a year ago, spent his final days with family and became an advocate for ALS awareness in recent months.",
+      "description": "Eric Dane, an actor known for roles in \"Grey’s Anatomy\" and \"Euphoria\", died on Thursday at 53 from amyotrophic lateral sclerosis, his representatives said. Dane, who disclosed his diagnosis less than a year ago, spent his final days with family and became an advocate for ALS awareness in recent months.",
       "url": "https://www.france24.com/en/culture/20260220-eric-dane-grey-s-anatomy-star-dies-at-53-after-als-battle",
       "published": "Fri, 20 Feb 2026 02:50:28 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Cuban families receive 'Made in Mexico' essentials as crisis worsens",
+      "description": "Mexico is sending major food aid to Cuba as the island struggles with fuel shortages and widespread blackouts",
+      "url": "https://abcnews.com/International/wireStory/cuban-families-receive-made-mexico-essentials-crisis-worsens-130317620",
+      "published": "Thu, 19 Feb 2026 18:42:59 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1273,6 +1283,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US jets escort Russian military aircraft out of Alaska’s air defence zone",
+      "description": "NORAD says aircraft did not enter sovereign airspace and were not considered a threat.",
+      "url": "https://www.aljazeera.com/news/2026/2/20/us-jets-escort-russian-military-aircraft-out-of-alaskas-air-defence-zone?traffic_source=rss",
+      "published": "Fri, 20 Feb 2026 08:10:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Why was former Prince Andrew arrested by UK police?",
       "description": "Mountbatten-Windsor, the former UK prince, has not been charged with a crime and was released under investigation.",
       "url": "https://www.aljazeera.com/news/2026/2/19/why-was-former-prince-andrew-arrested-by-uk-police?traffic_source=rss",
@@ -1333,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "As Board of Peace meets, 'every day is worse than the one before' for Gazans",
-      "description": "As the newly formed Board of Peace gathered for its first meeting in Washington to discuss the next stage of the ceasefire, everyday Gazans await their fate, as thousands continue to live in dire conditions. Emily Boyle takes a look at the situation on the ground.",
-      "url": "https://www.france24.com/en/video/20260219-as-board-of-peace-meets-every-day-is-worse-than-the-one-before-for-gazans",
-      "published": "Thu, 19 Feb 2026 17:39:41 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "UK hasn't given US permission to use its bases for Iran strikes",
       "description": "The UK has not agreed to allow the US to launch air strikes against Iran from a British base on Diego Garcia and another in Gloucestershire, it is understood.",
       "url": "https://news.sky.com/story/uk-has-not-agreed-to-let-us-strike-iran-from-british-bases-sky-news-understands-13509668",
@@ -1363,16 +1373,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Viral bodycam video shows dozens of college students blindfolded in basement over alleged hazing incident",
-      "description": "Video shows police discovering 56 blindfolded pledges covered in substances inside the Alpha Delta Phi fraternity house during a 2024 fire alarm response at the University of Iowa.",
-      "url": "https://www.foxnews.com/us/viral-bodycam-video-shows-dozens-college-students-blindfolded-basement-over-alleged-hazing-incident",
-      "published": "Thu, 19 Feb 2026 13:10:22 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "UN Security Council moves up session on Gaza, West Bank ahead of Trump’s inaugural Board of Peace meeting",
       "description": "The U.N. Security Council will hold a meeting on Gaza’s fragile ceasefire and expanding Israeli operations in the West Bank earlier to avoid clashing with President Trump’s meeting.",
       "url": "https://www.foxnews.com/world/un-security-council-move-session-gaza-west-bank-ahead-trumps-inaugural-board-peace-meeting",
@@ -1381,6 +1381,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Is southern Yemen’s next phase being decided on the ground?",
+      "description": "Security fragmentation and regional rivalries are reshaping power in southern Yemen.",
+      "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss",
+      "published": "Fri, 20 Feb 2026 08:10:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1403,8 +1413,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Former prince Andrew’s arrest sparks calls for justice in US over Epstein case",
-      "description": "Several members of Congress have called for accountability in the Jeffrey Epstein case in the US following the arrest of former prince Andrew. The response in the UK and other European countries has underscored the contrast in the US, where only one arrest, of Ghislaine Maxwell, has been made over links to the convicted child sex offender. \"Now we need justice in the United States,\" said one lawmaker.",
+      "title": "Heads roll in Europe over Epstein files while US justice declines to act",
+      "description": "The arrest of Britain’s former prince Andrew underscored the stark contrast between Europe's response to the Epstein files and that of the United States, where only Ghislaine Maxwell is facing justice for her links to the convicted sex offender. Members of Congress from both parties have called for more accountability. \"Now we need justice in the United States,\" said one lawmaker.",
       "url": "https://www.france24.com/en/americas/20260220-former-prince-andrew-s-arrest-sparks-calls-for-justice-in-epstein-case-in-us",
       "published": "Fri, 20 Feb 2026 02:19:16 GMT",
       "source": "France24",
@@ -1626,7 +1636,7 @@
       "title": "Trump directs US government to prepare release of files on aliens and UFOs",
       "description": "Trump says he will seek release of files on extraterrestrials, \"based on the tremendous interest shown\".",
       "url": "https://www.bbc.com/news/articles/c4g57gqqln1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 01:36:37 GMT",
+      "published": "Fri, 20 Feb 2026 08:07:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1717,36 +1727,6 @@
       "description": "Kim focuses on improving economic activity in opening speech at Ninth Congress of the Workers' Party of Korea.",
       "url": "https://www.aljazeera.com/news/2026/2/20/north-koreas-kim-jong-un-launches-key-party-congress-held-every-5-years?traffic_source=rss",
       "published": "Fri, 20 Feb 2026 02:22:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Is social media addictive?",
-      "description": "Meta is accused of harming young users with its addictive features.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/2/19/is-social-media-addictive?traffic_source=rss",
-      "published": "Thu, 19 Feb 2026 22:12:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US trade deficit swells in December as imports surge",
-      "description": "The US trade deficit deteriorated even though President Trump unleashed a barrage of tariffs to close trade imbalances.",
-      "url": "https://www.aljazeera.com/economy/2026/2/19/us-trade-deficit-swells-in-december-as-imports-surge?traffic_source=rss",
-      "published": "Thu, 19 Feb 2026 21:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Qatar pledges $1bn for Gaza peace mission",
-      "description": "Qatar has pledged $1 billion to support the Board of Peace’s mission in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/qatar-pledges-1bn-for-gaza-peace-mission?traffic_source=rss",
-      "published": "Thu, 19 Feb 2026 20:28:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1883,7 +1863,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela approves amnesty that may release of hundreds detained for political reasons",
+      "title": "Venezuela approves amnesty that could release hundreds detained for political reasons",
       "description": "Venezuela's acting president has signed into law an amnesty bill that could lead to the release of politicians, activists, lawyers and many others. The approval marks a stark turn for the nation.",
       "url": "https://www.npr.org/2026/02/19/nx-s1-5720220/venezuela-approves-amnesty-that-may-release-of-hundreds-detained-for-political-reasons",
       "published": "Thu, 19 Feb 2026 22:33:04 -0500",
@@ -2023,6 +2003,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Undercover police go dancing in lion costume to catch serial burglar",
+      "description": "Thai police went undercover in a traditional lion costume in order to get close enough to a serial burglar to pounce on them and arrest them.",
+      "url": "https://news.sky.com/story/undercover-thai-police-go-dancing-in-lion-costume-to-catch-serial-burglar-13509831",
+      "published": "Fri, 20 Feb 2026 06:42:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Mourinho has 'failed us' over racism row, says ex-Man Utd star",
       "description": "Former Manchester United player Mikael Silvestre has claimed Jose Mourinho has \"failed us\" over his response to Vinicius Junior's allegations of racist abuse.",
       "url": "https://news.sky.com/story/mikael-silvestre-has-strong-words-for-jose-mourinho-over-vinicius-juniors-racist-abuse-claim-13509253",
@@ -2037,16 +2027,6 @@
       "description": "A billionaire mogul says paedophile financier Jeffrey Epstein stole vast sums from his family.",
       "url": "https://news.sky.com/story/ex-victorias-secret-mogul-says-jeffrey-epstein-stole-vast-sums-from-our-family-13509269",
       "published": "Wed, 18 Feb 2026 21:21:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Andrew 'clearly has knowledge' on Epstein, US politician claims",
-      "description": "Anytime, any place, anywhere.",
-      "url": "https://news.sky.com/story/the-us-politician-who-wants-to-meet-andrew-and-make-sure-he-tells-the-truth-13509695",
-      "published": "Thu, 19 Feb 2026 18:36:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2077,6 +2057,16 @@
       "description": "Thai police say they've caught an elusive serial burglar by going undercover as lion dancers at a temple fair",
       "url": "https://abcnews.com/International/wireStory/thai-police-undercover-lion-dancers-nab-serial-burglar-130326258",
       "published": "Fri, 20 Feb 2026 01:03:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Venezuela’s legislature approves amnesty bill, paving the way for the release of hundreds detained for political reasons",
+      "description": "Venezuela’s legislature approves amnesty bill, paving the way for the release of hundreds detained for political reasons",
+      "url": "https://abcnews.com/International/wireStory/venezuelas-legislature-approves-amnesty-bill-paving-release-hundreds-130320901",
+      "published": "Thu, 19 Feb 2026 19:37:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2128,6 +2118,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166992",
       "published": "Wed, 18 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "6 mothers who 'cherished time together' among victims in avalanche near Lake Tahoe",
+      "description": "Six of the eight victims in an avalanche in Sierra Nevada near Lake Tahoe have been identified as outdoor-loving mothers and seasoned skiers who regularly traveled together.",
+      "url": "https://www.foxnews.com/us/6-mothers-cherished-time-together-victims-avalanche-near-lake-tahoe",
+      "published": "Fri, 20 Feb 2026 02:52:31 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
