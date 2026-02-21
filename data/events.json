@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T07:07:18.306629Z",
-  "event_count": 220,
+  "last_updated": "2026-02-21T07:52:17.323248Z",
+  "event_count": 221,
   "events": [
     {
       "title": "US says 11 people killed in latest strikes on alleged drug boats",
@@ -460,6 +460,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Protesters shoot fireworks at Albania prime minister’s office",
+      "description": "Police confronted protesters in Albania’s capital Tirana after demonstrators shot fireworks and threw petrol bombs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/protesters-shoot-fireworks-at-albania-prime-ministers-office?traffic_source=rss",
+      "published": "Sat, 21 Feb 2026 07:21:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -933,6 +943,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
+      "description": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified.",
+      "url": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 07:30:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
       "description": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
       "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss",
@@ -1353,6 +1373,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-21T07:51:57.275996Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "New report details abuse Palestinian journalists face in Israeli prisons",
       "description": "NPR's Leila Fadel speaks with Sara Qudah of the Committee to Protect Journalists about a new report on the abusive treatment that Palestinian journalists endure in Israeli prisons.",
       "url": "https://www.npr.org/2026/02/20/nx-s1-5718272/new-report-details-abuse-palestinian-journalists-face-in-israeli-prisons",
@@ -1493,20 +1523,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nasa targets early March to send humans back around the Moon",
-      "description": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission.",
-      "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 17:00:26 GMT",
+      "title": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
+      "description": "The author, journalist and philanthropist died at home in Florida, according to Rupert Murdoch's news outlets.",
+      "url": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 03:02:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Anna Murdoch-Mann, mother of News Corp heir, dies aged 81",
-      "description": "The author, journalist and philanthropist died at home in Florida, according to Rupert Murdoch's news outlets.",
-      "url": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 03:02:20 GMT",
+      "title": "Nasa targets early March to send humans back around the Moon",
+      "description": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission.",
+      "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Feb 2026 17:00:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1553,11 +1583,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Iran's motorcycling midwife and rights campaigner is star of Oscar-tipped film",
-      "description": "In a room of 1,500 men, Sara Shahverdi becomes the only female leader in her region of Iran - a new film joins her as she pushes for change.",
-      "url": "https://www.bbc.com/news/articles/cn0ewenyg22o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 00:44:24 GMT",
-      "source": "BBC News",
+      "title": "Trump to make three-day visit to China next month, White House says",
+      "description": "Three-day trip, at Beijing's invitation, comes more than eight years after Trump's first visit to China.",
+      "url": "https://www.aljazeera.com/news/2026/2/21/trump-to-make-three-day-visit-to-china-next-month-white-house-says?traffic_source=rss",
+      "published": "Sat, 21 Feb 2026 07:18:23 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1607,26 +1637,6 @@
       "description": "Foreign Minister ​Peter Szijjarto says Hungary 'will not give in to this blackmail' after oil flows from Ukraine halted.",
       "url": "https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss",
       "published": "Fri, 20 Feb 2026 20:44:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The truth behind wildlife tourism",
-      "description": "Can wildlife tourism balance conservation, land rights and profit?",
-      "url": "https://www.aljazeera.com/video/the-stream/2026/2/20/the-truth-behind-wildlife-tourism?traffic_source=rss",
-      "published": "Fri, 20 Feb 2026 19:30:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump suggests he won’t refund tariffs after Supreme Court ruling",
-      "description": "President Donald Trump suggested he doesn’t plan to refund tariff fees already collected by the US government.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-suggests-he-wont-refund-tariffs-after-supreme-court-ruling?traffic_source=rss",
-      "published": "Fri, 20 Feb 2026 19:27:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
