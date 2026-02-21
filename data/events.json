@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T18:37:01.094410Z",
-  "event_count": 220,
+  "last_updated": "2026-02-21T19:25:25.414799Z",
+  "event_count": 221,
   "events": [
     {
       "title": "US says 11 people killed in latest strikes on alleged drug boats",
@@ -234,7 +234,7 @@
     },
     {
       "title": "US trade war: Trump raises global tariffs to 15% from 10%",
-      "description": "Donald Trump said he's raising the global 10% tariff to 15%, a day after the Supreme Court blocked much of the US president's emergency tariffs.",
+      "description": "Donald Trump said he's raising the global 10% tariff to 15%, a day after the Supreme Court blocked much of the US president's emergency tariffs. DW has the latest.",
       "url": "https://www.dw.com/en/us-trade-war-trump-raises-global-tariffs-to-15-from-10/live-76073567?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 21 Feb 2026 16:29:00 GMT",
       "source": "Deutsche Welle",
@@ -623,16 +623,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Illegal immigrant allegedly ambushed woman on Florida beach in random attempted drowning attack: police",
-      "description": "Said Alexander Hernandez Gonzalez, a 26-year-old Venezuelan national charged with attempted murder after allegedly trying to drown woman at Florida beach.",
-      "url": "https://www.foxnews.com/us/illegal-immigrant-allegedly-ambushed-woman-florida-beach-random-attempted-drowning-attack-police",
-      "published": "Fri, 20 Feb 2026 12:24:37 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran rebuilding nuclear program despite Trump talks, opposition figure claims",
       "description": "Iran is reportedly working to rebuild nuclear sites damaged during June 22 \"Midnight Hammer\" operation as the regime participates in Geneva talks.",
       "url": "https://www.foxnews.com/world/iran-rebuilding-nuclear-program-despite-trump-talks-opposition-figure-claims",
@@ -758,6 +748,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167006",
       "published": "Thu, 19 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Colombian nationals allegedly ran fake law firm, impersonated federal judges to defraud migrants out of $100K",
+      "description": "Four Colombian nationals arrested allegedly posed as immigration judges and officials in scheme targeting vulnerable migrants with fake proceedings.",
+      "url": "https://www.foxnews.com/us/colombian-nationals-allegedly-ran-fake-law-firm-impersonated-federal-judges-defraud-migrants-100k",
+      "published": "Sat, 21 Feb 2026 14:13:24 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1413,6 +1413,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-21T19:25:07.099637Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "UN report exposes torture, rape in Southeast Asia’s multi-billion-dollar scam centres",
       "description": "A sprawling online scam industry worth an estimated tens of billions of dollars a year is being powered by trafficked workers subjected to torture, sexual abuse and forced labour inside heavily guarded compounds in Southeast Asia, a new UN human rights report has found.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167012",
@@ -1563,6 +1573,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
+      "description": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island.",
+      "url": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 18:32:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
       "description": "The author, journalist and philanthropist died at home in Florida, according to Rupert Murdoch's news outlets.",
       "url": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss",
@@ -1617,16 +1637,6 @@
       "description": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
       "url": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Feb 2026 14:19:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Asos co-founder dies after Thailand apartment block fall",
-      "description": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-      "url": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 14:35:49 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2033,6 +2043,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ex-UK Prime Minister Johnson calls on allies to send noncombat troops to Ukraine",
+      "description": "Former British Prime Minister Boris Johnson says the U.K. and its European allies should immediately deploy noncombat troops to Ukraine to show Russian President Vladimir Putin that Western nations are truly committed to the nation’s freedom and indepe...",
+      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-johnson-calls-allies-send-noncombat-130368543",
+      "published": "Sat, 21 Feb 2026 13:39:00 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Hungary says it will block a key EU loan to Ukraine until Russian oil shipments resume",
       "description": "Hungary says it is blocking a major EU loan for Ukraine until Russian oil starts flowing again through the Druzhba pipeline",
       "url": "https://abcnews.com/International/wireStory/hungary-block-key-eu-loan-ukraine-russian-oil-130360695",
@@ -2087,16 +2107,6 @@
       "description": "Poland has officially left the Ottawa Convention, which bans the use of antipersonnel mines",
       "url": "https://abcnews.com/International/wireStory/poland-withdraws-treaty-banning-antipersonnel-mines-defend-russia-130328249",
       "published": "Fri, 20 Feb 2026 04:28:14 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-South Korean president remains defiant following life sentence for rebellion",
-      "description": "Ousted South Korean President Yoon Suk Yeol on Friday remained defiant in his first reaction to a life sentence imposed by a Seoul court for his short-lived declaration of martial law but didn’t clearly say whether he would appeal",
-      "url": "https://abcnews.com/International/wireStory/south-korean-president-remains-defiant-life-sentence-rebellion-130327763",
-      "published": "Fri, 20 Feb 2026 04:06:51 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
