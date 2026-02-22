@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T17:27:00.033659Z",
+  "last_updated": "2026-02-22T17:52:28.052680Z",
   "event_count": 221,
   "events": [
     {
@@ -403,16 +403,6 @@
       "severity_level": "High"
     },
     {
-      "title": "French rally for slain far-right activist Quentin Deranque",
-      "description": "Thousands have marched in Lyon to honor Quentin Deranque, a far-right activist who was fatally beaten by a group of attackers during a protest against the hard-left France Unbowed (LFI) party.",
-      "url": "https://www.dw.com/en/french-rally-for-slain-far-right-activist-quentin-deranque/a-76070002?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Feb 2026 11:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "California woman hospitalized with chemical burns after portable charger explodes while sleeping",
       "description": "Los Angeles woman warns against portable chargers after hers caught fire in bed, forcing her to scream for neighbors to call 911 for emergency help.",
       "url": "https://www.foxnews.com/us/california-woman-hospitalized-chemical-burns-after-portable-charger-explodes-while-sleeping",
@@ -528,6 +518,16 @@
       "url": "https://www.france24.com/en/russia-targets-ukraine-s-energy-infrastructure-in-drone-strikes",
       "published": "Sun, 22 Feb 2026 09:57:09 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran's regime may be ready to strike a deal with Trump",
+      "description": "Student-led protests have taken place in Iran this weekend, coinciding with the start of the new university term and the 40th day of mourning for many of the thousands of people killed by security forces in early January.",
+      "url": "https://news.sky.com/story/as-protests-resume-in-tehran-irans-regime-may-be-ready-to-strike-a-deal-with-trump-13510831",
+      "published": "Sun, 22 Feb 2026 16:22:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -873,8 +873,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "LIVE: India vs South Africa – T20 World Cup",
-      "description": "Follow our live score and full text and photo stream from today's Super Eight match between India and South Africa.",
+      "title": "LIVE: South Africa beat Inida by 76 runs – T20 World Cup",
+      "description": "All our updates as the hosts lose their first match of the Super Eight stage in Ahmedabad on Sunday.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-india-vs-south-africa-t20-world-cup?traffic_source=rss",
       "published": "Sun, 22 Feb 2026 10:32:10 +0000",
       "source": "Al Jazeera",
@@ -1253,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump’s Push for Greenland",
+      "description": "As Donald Trump threatens Greenland with a takeover, Al Jazeera speaks to people there about their concerns.",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/2/22/trumps-push-for-greenland?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 17:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Ukraine strikes a key industrial site deep inside Russia",
       "description": "Ukrainian drones have hit an industrial facility deep inside Russia, which a Russian news report identified as a major missile factory",
       "url": "https://abcnews.com/International/wireStory/ukraine-strikes-key-industrial-site-deep-inside-russia-130360431",
@@ -1317,16 +1327,6 @@
       "description": "Germany is hoping to boost integration by making it possible for asylum-seekers to start working after just three months in the country. Meanwhile, a social media ban for children is gaining momentum. Follow DW.",
       "url": "https://www.dw.com/en/germany-news-new-rules-aim-to-give-asylum-seekers-job-access/live-76076823?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 22 Feb 2026 10:10:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Germany news: Merz rallies base at Stuttgart CDU conference",
-      "description": "The second day of the conference saw the party vote on dozens of proposals. Federal members came out strong against sugar taxes, call-in sick days, Muslim facial coverings, relaxed debt limits and much more. Follow DW.",
-      "url": "https://www.dw.com/en/germany-news-merz-rallies-base-at-stuttgart-cdu-conference/live-76069356?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Feb 2026 10:06:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
@@ -1470,26 +1470,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Italian toddler dies after transplant with heart 'burned by frostbite'",
-      "description": "The heart given to two-year-old Domenico was reportedly severely damaged during its transfer to hospital.",
-      "url": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 16:01:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Elderly men beaten up ‘for being Muslim’ in India",
-      "description": "Three elderly men were slapped and chased by a passerby in India after he reportedly targeted them for being Muslim.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/22/elderly-men-beaten-up-for-being-muslim-in-india?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 10:22:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1647,6 +1627,16 @@
       "description": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds.",
       "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Feb 2026 11:23:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Greenland says 'no thanks' to Trump US hospital boat",
+      "description": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
+      "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 17:27:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1886,7 +1876,7 @@
       "title": "M 7.1 - 55 km NNW of Kota Belud, Malaysia",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - III Time 2026-02-22 16:57:46 UTC 2026-02-22 16:57:46 UTC at epicenter Location 6.829°N 116.264°E Depth 619.85 km (385.16 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasz",
-      "published": "2026-02-22T17:23:56.752Z",
+      "published": "2026-02-22T17:46:45.497Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1918,6 +1908,26 @@
       "url": "https://www.npr.org/2026/02/20/g-s1-110915/uk-former-prince-andrew-epstein-investigation",
       "published": "Fri, 20 Feb 2026 11:51:35 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ghana takes transatlantic slavery case to UN",
+      "description": "Ghana's President Mahama has received the African Union's backing in pushing the United Nations to recognize transatlantic slavery as the 'gravest crime against humanity.' But will the motion pass?",
+      "url": "https://www.dw.com/en/ghana-takes-transatlantic-slavery-case-to-un/a-76042626?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Feb 2026 17:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Has Donald Trump lost his most powerful tariff weapon?",
+      "description": "The US Supreme Court decision on tariffs has upended the central plank of President Donald Trump's economic and foreign policy. Will this lead to a change of course, or will Trump double down?",
+      "url": "https://www.dw.com/en/has-donald-trump-lost-his-most-powerful-tariff-weapon/a-76077670?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Feb 2026 17:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2067,16 +2077,6 @@
       "description": "Multiple Arab nations have condemned the US ambassador to Israel after he said \"it would be fine\" if Tel Aviv took control of almost all of the Middle East.",
       "url": "https://news.sky.com/story/us-ambassador-mike-huckabee-sparks-backlash-from-arab-nations-with-israel-remarks-13510686",
       "published": "Sun, 22 Feb 2026 09:30:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Vitali Klitschko tells Sky News his message to Donald Trump",
-      "description": "Vitali Klitschko has urged Donald Trump \"to be on the side of Ukraine\" during peace talks with Russia - but the mayor of Kyiv admitted to Sky News he sometimes finds the president's messaging hard to understand.",
-      "url": "https://news.sky.com/story/us-support-is-critically-important-for-ukraines-war-effort-says-kyiv-mayor-vitali-klitschko-13510284",
-      "published": "Sat, 21 Feb 2026 13:45:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
