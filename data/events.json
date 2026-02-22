@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T07:36:51.806048Z",
-  "event_count": 220,
+  "last_updated": "2026-02-22T08:34:47.885524Z",
+  "event_count": 221,
   "events": [
     {
       "title": "US says 11 people killed in latest strikes on alleged drug boats",
@@ -130,6 +130,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Pakistan launches strikes on Afghanistan, with Taliban saying dozens killed",
+      "description": "Pakistan says the strikes were retaliation for recent suicide bombings in the country.",
+      "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 08:07:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -438,6 +448,16 @@
       "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Feb 2026 17:26:04 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran’s president says his country will not bow to US pressure",
+      "description": "Iranian President Masoud Pezeshkian says Tehran will not bow to US pressure over nuclear talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/22/irans-president-says-his-country-will-not-bow-to-us-pressure?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 07:11:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -883,16 +903,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India vs South Africa: T20 World Cup Super Eights – teams, start, lineups",
-      "description": "Defending champions and co-hosts India face debut-title chasing South Africa in rematch of last T20 World Cup final.",
-      "url": "https://www.aljazeera.com/sports/2026/2/21/india-vs-south-africa-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss",
-      "published": "Sat, 21 Feb 2026 12:53:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1055,7 +1065,7 @@
     {
       "title": "Attacked in India, Kashmiri shawl sellers choose between safety, livelihood",
       "description": "A surge in attacks has forced many Kashmiris to return home. Others are devising survival strategies.",
-      "url": "https://www.aljazeera.com/features/2026/2/22/attacked-in-india-kashmiri-shawl-sellers-choose-between-safety-livelihood?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/2/22/attacked-in-india-kashmiri-shawl-sellers-choose-between-safety-livelihood?traffic_source=rss",
       "published": "Sun, 22 Feb 2026 07:07:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
@@ -1077,16 +1087,6 @@
       "description": "These are the key developments from day 1,459 of Russia’s war on Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/2/22/russia-ukraine-war-list-of-key-events-day-1459?traffic_source=rss",
       "published": "Sun, 22 Feb 2026 03:33:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Two soldiers killed during military operation in Pakistan’s northwest: Army",
-      "description": "An explosive-laden motorcycle rammed vehicle in security forces convoy, military says.",
-      "url": "https://www.aljazeera.com/news/2026/2/21/2-soldiers-dead-5-militants-killed-in-pakistans-bannu?traffic_source=rss",
-      "published": "Sat, 21 Feb 2026 12:40:52 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1260,16 +1260,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Once mocked for being tacky, this Korean music genre is making a comeback",
-      "description": "The traditional South Korean popular music genre is making headlines in the country once again.",
-      "url": "https://www.bbc.com/news/articles/c5y4xqlg639o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 23:06:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1473,6 +1463,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-22T08:34:28.292050Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Europe reacts to new tariffs announcement and more uncertainty",
       "description": "President Trump announced a 15% increase on tariffs across the board. Europeans have been celebrating yesterday's SCOTUS decision, but have been doing so quietly.",
       "url": "https://www.npr.org/2026/02/21/nx-s1-5721239/europe-reacts-to-new-tariffs-announcement-and-more-uncertainty",
@@ -1538,6 +1538,16 @@
       "url": "https://www.bbc.com/news/articles/cpv8r34mn0po?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Feb 2026 00:30:41 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Rondale Moore, Vikings NFL receiver, dies at 25",
+      "description": "Police say the ex-Purdue college star died of a suspected self-inflicted gunshot wound in his Indiana hometown.",
+      "url": "https://www.aljazeera.com/sports/2026/2/22/rondale-moore-vikings-nfl-receiver-dies-at-25?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 07:56:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
