@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T09:28:07.009343Z",
+  "last_updated": "2026-02-24T10:27:30.801941Z",
   "event_count": 221,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 55,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump’s new global tariffs kick in at 10% – business live",
+      "description": "Rolling coverage of the latest economic and financial news While many exporters around the world cheered when the Supreme Court ruled against Trump’s “reciprocal” tariffs last week, the unintended consequence could be that the trade war escalates further, says Neil Wilson at the broker Saxo Markets . Trump warned countries not to ‘play games’ and threatened ‘a much higher tariff’ than they had agreed to...the unintended consequence of the Supreme Court ruling could be an escalatory trade war that markets hadn’t anticipated. Or as Trump put it the Supreme Court had ‘unwittingly’ handed him ‘far more powers and strength’ to levy fresh tariffs than before the ruling. …The White House insists it’s working on a 15% levy at a later date, which gives the president a degree of optionality, but this is evolving into a far messier situation than we had a week ago. We can all agree that the US is not facing a ⁠balance of payments crisis, which is when countries experience an exorbitant increase in international borrowing costs and lose access to financial markets. Continue reading...",
+      "url": "https://www.theguardian.com/business/live/2026/feb/24/trump-new-global-tariffs-trade-latest-business-news",
+      "published": "Tue, 24 Feb 2026 10:14:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 48,
       "severity_level": "Critical"
     },
     {
@@ -83,20 +93,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: Zelensky praises Ukraine’s resistance, four years into Russian invasion",
-      "description": "Ukrainian President Volodymyr Zelensky on Tuesday praised his country’s resistance four years into Moscow's full-scale invasion of Ukraine – Europe’s bloodiest conflict since World War II. Tens of thousands of lives have been lost, cities and infrastructure remain devastated, and Kyiv faces the monumental task of post-war reconstruction while the frontline impasse continues. Follow our liveblog for the latest updates.",
+      "title": "Live: Russia says it has ‘not fully achieved’ goals in Ukraine, four years into invasion",
+      "description": "Russia has not “fully achieved” all its war aims in Ukraine in the four years since it launched a full-scale invasion of the country and kickstarted Europe’s bloodiest conflict since World War II, the Kremlin said on Tuesday. Tens of thousands of lives have been lost, cities and infrastructure remain devastated, and Kyiv faces the monumental task of post-war reconstruction while the frontline impasse continues. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/europe/20260224-live-ukraine-marks-four-years-of-war-with-russia-amid-reconstruction-challenges",
       "published": "Tue, 24 Feb 2026 03:47:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Loss of 25 National Guard troops 'will be devastating for Mexico'",
-      "description": "FRANCE 24's Mexico City correspondent Ioan Grillo says that the loss of 25 National Guard troops will be devastating for Mexico. News of the death of Nemesio \"El Mencho\" Oseguera, leader of the Jalisco New Generation Cartel, triggered spasms of violence, with cartel members blocking roads in 20 states and torching vehicles and businesses. At least 25 National Guard members were killed in subsequent clashes.",
-      "url": "https://www.france24.com/en/loss-of-25-national-guard-troops-will-be-devastating-for-mexico",
-      "published": "Mon, 23 Feb 2026 19:34:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 31,
@@ -113,31 +113,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Death of Mexican cartel leader sparks widespread violence across Mexico",
-      "description": "One of the world's most wanted drug traffickers -- a Mexican cartel boss known as \"El Mencho\" -- was killed by Mexican security forces. After his death, widespread violence erupted across Mexico.",
-      "url": "https://www.npr.org/2026/02/23/nx-s1-5722898/death-of-mexican-cartel-leader-sparks-widespread-violence-across-mexico",
-      "published": "Mon, 23 Feb 2026 04:45:28 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Heavy rains, deadly floods hit southern Peru; thousands seek shelter",
       "description": "Torrential downpours cause deadly mudslides, while more than 700 districts across country declare states of emergency.",
       "url": "https://www.aljazeera.com/news/2026/2/24/heavy-rains-deadly-floods-hit-southern-peru-thousands-seek-shelter?traffic_source=rss",
       "published": "Tue, 24 Feb 2026 02:46:54 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tourists and residents urged to stay indoors amid Mexico cartel violence",
-      "description": "Mexico was on high alert Monday with schools closed and travelers stranded, as members of a powerful cartel launched violent rampages after the death of the country's most-wanted drug lord. In some towns tourists and residents were urged to stay indoors. Airlines, including Air Canada, United Airlines and Aeromexico, cancelled flights to Puerto Vallarta, a beachside resort ​town where stunned tourists ‌filmed plumes of smoke rising into the sky from fires.",
-      "url": "https://www.france24.com/en/tourists-and-residents-urged-to-stay-indoors-amid-mexico-cartel-violence",
-      "published": "Mon, 23 Feb 2026 19:54:25 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -313,6 +293,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "What's next for Mexico after death of powerful cartel leader?",
+      "description": "What's next for Mexico after the military's killing of a powerful cartel leader sparked violence across parts of the country?",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5724208/whats-next-for-mexico-after-death-of-powerful-cartel-leader",
+      "published": "Tue, 24 Feb 2026 04:42:04 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Middle East: Using AI to stop dissent before it even starts",
       "description": "Conflict forecasting, using AI and vast amounts of data, is evolving fast. The Middle East's authoritarian regimes could well be among the first in the world to use it to stop protests — before they even begin.",
       "url": "https://www.dw.com/en/middle-east-using-ai-to-stop-dissent-before-it-even-starts/a-76095344?maca=en-rss-en-all-1573-xml-mrss",
@@ -463,26 +453,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump hits out at reports that top general flagged risks of attacking Iran",
-      "description": "US president slams reports that General Dan Caine warned him of risks of war with Iran as '100 percent incorrect'.",
-      "url": "https://www.aljazeera.com/news/2026/2/24/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran?traffic_source=rss",
-      "published": "Tue, 24 Feb 2026 01:41:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "UK police arrest former ambassador to US Peter Mandelson in Epstein case",
-      "description": "London police on Monday arrested former ambassador to the United States Peter Mandelson in a probe into allegations over his ties to Jeffrey Epstein, only days after ex-prince Andrew was detained. Mandelson was arrested on suspicion of misconduct in public office following allegations arising from the latest set of documents linked to Epstein, released by the US government last month. FRANCE 24's International Affairs Editor Angela Diffley explains.",
-      "url": "https://www.france24.com/en/uk-police-arrest-former-ambassador-to-us-peter-mandelson-in-epstein-case",
-      "published": "Mon, 23 Feb 2026 20:02:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Secret tapes sink shooter's defense in Scott Spivey road rage killing",
       "description": "South Carolina judge denies Stand Your Ground immunity for Charles Boyd in 2023 shooting death, citing credibility issues and inconsistent testimony.",
       "url": "https://www.foxnews.com/us/secret-tapes-sink-shooters-defense-scott-spivey-road-rage-killing",
@@ -513,6 +483,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Former DEA official on Mexico's drug-fighting future after cartel leader's death",
+      "description": "NPR's Leila Fadel asks former Drug Enforcement Administration official Mike Vigil what the killing of one of the world's most powerful drug lords signals about Mexico's drug-fighting future.",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5723895/former-dea-official-on-mexicos-drug-fighting-future-after-cartel-leaders-death",
+      "published": "Tue, 24 Feb 2026 04:41:48 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "EU hits pause on trade deal with US, Trump warns countries not to 'play games' after Supreme Court ruling",
       "description": "After the US Supreme Court struck down his 'liberation day' tariffs as unlawful, Donald Trump doubled down on his trade policy and warned countries around the world not to \"play games\" with the court ruling and stick to recently-agreed trade deals. The EU meanwhile has decided to hold off on ratifying its agreement with the US while waiting for clarity.",
       "url": "https://www.france24.com/en/tv-shows/business/20260223-eu-hits-pause-on-trade-deal-with-us-trump-warns-countries-not-to-play-games-after-supreme-court-ruling",
@@ -538,6 +518,16 @@
       "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Feb 2026 21:12:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "What do four years of war in Ukraine add up to?",
+      "description": "It's year five of the war in Ukraine. Close to two million casualties, and Russia holds less territory than in 2022.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/24/what-do-four-years-of-war-in-ukraine-add-up-to?traffic_source=rss",
+      "published": "Tue, 24 Feb 2026 09:17:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -713,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Zelensky addresses the European Parliament: What are the main takeaways?",
+      "description": "Ukrainian President Volodymyr Zelensky on Tuesday (February 24) -- the fourth anniversary of Russia's invasion -- addressed the European Union Parliament. FRANCE 24 International affairs editor, Kethevane Gorjestani, tells us more.",
+      "url": "https://www.france24.com/en/zelensky-addresses-the-european-parliament-what-are-the-main-takeaways",
+      "published": "Tue, 24 Feb 2026 10:09:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Kim Jon-Un's sister promoted in rare North Korea party congress",
       "description": "North Korean leader Kim Jong Un’s sister, Kim Yo Jong, has been promoted within the ruling Workers’ Party, state media said on Tuesday, as a rare party congress in Pyongyang offers a closely watched window into the regime’s leadership dynamics and future nuclear policy.",
       "url": "https://www.france24.com/en/asia-pacific/20260224-kim-jon-un-sister-promoted-north-korea-party-congress",
@@ -873,21 +873,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump to raise global tariffs. And, most say the state of the union is weak, poll says",
-      "description": "President Trump says he is raising global tariffs to 15%. And ahead of the president's address tomorrow, most Americans say the state of the union is not strong, according to an NPR poll.",
-      "url": "https://www.npr.org/2026/02/23/g-s1-111152/up-first-newsletter-trump-tariffs-china-state-of-the-union-winter-games-fcc",
-      "published": "Mon, 23 Feb 2026 07:30:48 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "India: Seven killed in air ambulance plane crash",
       "description": "The flight had requested a deviation due to bad weather before losing contact with air traffic control. All seven people on board were declared dead on site.",
       "url": "https://www.dw.com/en/india-seven-killed-in-air-ambulance-plane-crash/a-76098031?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 24 Feb 2026 04:51:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "'They look like a toy': Ukrainian civilians under threat from ‘petal mines’",
+      "description": "PFM-1 anti-personnel mines have become a weapon of choice in the war in Ukraine. Also known as \"petal mines\", these mines are used by both sides, and can be scattered by rockets, bombs, and, increasingly, drones. Designed to cause injury rather than kill outright, they are, however, particularly dangerous for civilians because they are hard to identify – and to defuse. We spoke to demining experts, who explained the challenges posed by these mines.",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260224-they-look-like-a-toy-ukrainian-civilians-under-threat-from-petal-mines",
+      "published": "Tue, 24 Feb 2026 10:02:00 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -913,8 +913,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran-US tensions soars",
-      "description": "The US evacuates part of its embassy staff in Lebanon, this as Iran warns of the risk of escalation should Washington strike. A second US aircraft carrier dropping anchor in Crete as both sides prepare for a new round of talks in Geneva on Thursday.François Picard speaks to Captain Tim Hawkins spokesperson for the U-S Military's Central Command that covers the Middle East and Central Asia.",
+      "title": "Iran-US tensions soar as second US aircraft carrier approaches region",
+      "description": "The US has evacuated part of its embassy staff in Lebanon, this as Iran warns of the risk of escalation should Washington strike. A second US aircraft carrier is dropping anchor in Crete as both sides prepare for a new round of talks in Geneva on Thursday. François Picard speaks to Captain Tim Hawkins, spokesperson for the US Military's Central Command, which covers the Middle East and Central Asia.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260224-iran-us-tensions-soars",
       "published": "Tue, 24 Feb 2026 00:31:53 GMT",
       "source": "France24",
@@ -993,19 +993,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump’s new global tariffs kick in at 10% – business live",
-      "description": "Rolling coverage of the latest economic and financial news Trump’s new tariffs are at 10% now, but multiple reports suggest that officials in the White House are plotting a path to increase the rate to 15%. Such an increase would hit the UK particularly hard, as the government had negotiated a rate of 10% on many goods last summer. Continue reading...",
-      "url": "https://www.theguardian.com/business/live/2026/feb/24/trump-new-global-tariffs-trade-latest-business-news",
-      "published": "Tue, 24 Feb 2026 08:51:53 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Analysts: Media neglects hunger crises",
-      "description": "Not enough media or political attention is given to grave hunger crises in the Global South, according to analysts. Reports also say far more is spent on weapons than food relief.",
-      "url": "https://www.dw.com/en/analysts-media-neglects-hunger-crises/a-76090606?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Media ignores global hunger crises, say experts",
+      "description": "Not enough media or political attention is given to grave hunger crises in the Global South, according to analysts. Reports also say far more is spent on weapons than on food relief.",
+      "url": "https://www.dw.com/en/media-ignores-global-hunger-crises-say-experts/a-76090606?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Feb 2026 16:15:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1020,6 +1010,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran's deputy foreign minister on the country's plan if the US strikes",
+      "description": "Iran's Deputy Foreign Minister Majid Takht-Ravanchi talks about the status of U.S.-Iran negotiations and what Iran is prepared to do in the event of a U.S. strike.",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5723904/irans-deputy-foreign-minister-on-the-countrys-plan-if-the-us-strikes",
+      "published": "Tue, 24 Feb 2026 04:41:31 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1183,20 +1183,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Devastation and frozen frontlines: Ukraine marks four years of Russia’s war",
-      "description": "Ukrainians are repelled by the prospect of capitulating to Moscow as the war barrels into another year.",
-      "url": "https://www.aljazeera.com/news/2026/2/24/devastation-and-frozen-frontlines-ukraine-marks-four-years-of-russias-war?traffic_source=rss",
-      "published": "Tue, 24 Feb 2026 06:13:27 +0000",
+      "title": "Iran army helicopter crashes into market, killing 2 pilots and 2 merchants",
+      "description": "The incident in Isfahan province follows crash of fighter jet in Hamadan province less than a week ago.",
+      "url": "https://www.aljazeera.com/news/2026/2/24/army-helicopter-crashes-into-iran-market-killing-2-pilots-and-2-merchants?traffic_source=rss",
+      "published": "Tue, 24 Feb 2026 09:24:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Russia-Ukraine war: List of key events, day 1,461",
-      "description": "These are the key developments from day 1,461 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/2/24/russia-ukraine-war-list-of-key-events-day-1461?traffic_source=rss",
-      "published": "Tue, 24 Feb 2026 02:10:14 +0000",
+      "title": "Devastation and frozen frontlines: Ukraine marks four years of Russia’s war",
+      "description": "Ukrainians are repelled by the prospect of capitulating to Moscow as the war barrels into another year.",
+      "url": "https://www.aljazeera.com/news/2026/2/24/devastation-and-frozen-frontlines-ukraine-marks-four-years-of-russias-war?traffic_source=rss",
+      "published": "Tue, 24 Feb 2026 06:13:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1218,6 +1218,26 @@
       "url": "https://www.theguardian.com/australia-news/2026/feb/24/gus-lamonts-parents-appeal-to-public-for-information-and-say-every-moment-without-him-is-unbearable-ntwnfb",
       "published": "Tue, 24 Feb 2026 06:18:36 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "The war in Ukraine began 4 years ago today. A look at the trauma and grief of war",
+      "description": "Tuesday marks four years since Russia launched its invasion of Ukraine. A look at the effects of the war and where the situation stands today.",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5723953/the-war-in-ukraine-began-4-years-ago-today-a-look-at-the-trauma-and-grief-of-war",
+      "published": "Tue, 24 Feb 2026 04:41:11 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nobel laureate reflects on the anniversary of Russia's invasion of Ukraine",
+      "description": "Nobel Peace Prize laureate Oleksandra Matviichuk reflects on Russia's full-scale invasion of Ukraine and whether the U.S. can do more to end the war.",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5719481/nobel-laureate-reflects-on-the-anniversary-of-russias-invasion-of-ukraine",
+      "published": "Tue, 24 Feb 2026 04:41:04 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1247,16 +1267,6 @@
       "description": "As governments across Southeast Asia respond to public anger over corruption, experts warn that crackdowns could serve as an excuse for those in power to punish their rivals and protect vested interests.",
       "url": "https://www.dw.com/en/why-authoritarianism-won-t-fix-corruption-in-southeast-asia/a-76090899?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Feb 2026 16:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "ICC opens hearing for Philippines ex-president Duterte",
-      "description": "Rodrigo Duterte is accused of crimes against humanity for allegedly authorizing dozens of murders during his so-called war on drugs.",
-      "url": "https://www.dw.com/en/icc-opens-hearing-for-philippines-ex-president-duterte/a-76090295?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 23 Feb 2026 12:10:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1378,6 +1388,16 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Industrial AI: Germany's best chance to take on US, China?",
+      "description": "Germany is already harnessing AI for smarter production — with virtual factories, robot fleets and its newly launched Industrial AI Cloud. Can this edge overcome stagnation and let the country truly take on its rivals?",
+      "url": "https://www.dw.com/en/industrial-ai-germany-s-best-chance-to-take-on-us-china/a-75871997?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 24 Feb 2026 09:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1517,16 +1537,6 @@
       "description": "Olympics gold medal-winning team has politely turned down a request from President Donald Trump to attend his address.",
       "url": "https://www.aljazeera.com/sports/2026/2/24/us-womens-gold-medal-ice-hockey-team-declines-trumps-state-of-the-union?traffic_source=rss",
       "published": "Tue, 24 Feb 2026 08:13:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump set to deliver second term’s first State of the Union: What to expect",
-      "description": "The US president's polarising policies risk voter backlash in the November midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/2/24/trump-set-to-deliver-second-terms-first-state-of-the-union-what-to-expect?traffic_source=rss",
-      "published": "Tue, 24 Feb 2026 01:54:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
@@ -1693,6 +1703,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Robert Carradine, Lizzie Mcguire and Revenge of the Nerds star, dies aged 71",
+      "description": "His family says the actor took his own life after living with bipolar disorder for nearly two decades.",
+      "url": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Feb 2026 09:34:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
       "description": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from.",
       "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
@@ -1763,11 +1783,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Greenland says 'no thanks' to Trump US hospital boat",
-      "description": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
-      "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Feb 2026 17:27:16 GMT",
-      "source": "BBC News",
+      "title": "Floyd Mayweather and Manny Pacquiao agree to fight rematch in September",
+      "description": "Rematch of 2015 bout to be streamed on Netflix and will be the first boxing event to be held at the Sphere in Las Vegas.",
+      "url": "https://www.aljazeera.com/sports/2026/2/24/floyd-mayweather-and-manny-pacquiao-agree-to-fight-rematch-in-september?traffic_source=rss",
+      "published": "Tue, 24 Feb 2026 09:31:16 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1983,31 +2003,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "In the shadow of the Olympics, migrants search for a welcome in Milan",
-      "description": "As Italy cracks down on migration, Milan takes a different path — offering shelter and integration to asylum seekers even as the central government tightens borders and funds deterrence abroad.",
-      "url": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
-      "published": "Mon, 23 Feb 2026 08:25:36 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brits question whether age of deference is over after ex-Prince Andrew's arrest",
-      "description": "After the arrest of the former Prince Andrew, British institutions from the media to Parliament are asking whether they should have scrutinized the royals more. Is an age of deference now over?",
-      "url": "https://www.npr.org/2026/02/23/nx-s1-5720889/brits-question-whether-age-of-deference-is-over-after-ex-prince-andrews-arrest",
-      "published": "Mon, 23 Feb 2026 04:45:23 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China urges White House to lift tariffs after Supreme Court ruling",
-      "description": "China says it is making a \"full assessment\" of the U.S. Supreme Court's tariff ruling and urged Washington to lift \"relevant unilateral tariff measures\" on its trading partners.",
-      "url": "https://www.npr.org/2026/02/23/nx-s1-5720852/china-urges-white-house-to-lift-tariffs-after-supreme-court-ruling",
-      "published": "Mon, 23 Feb 2026 04:44:53 -0500",
-      "source": "NPR World News",
+      "title": "China shock: Will Merz take on Germany's top rival?",
+      "description": "Chancellor Friedrich Merz is scrambling to defend German industry from the economic upheaval caused by intense rivalry from China. Momentum is building to impose new trade barriers to stop unfair trade practices.",
+      "url": "https://www.dw.com/en/china-shock-will-merz-take-on-germany-s-top-rival/a-75925263?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 24 Feb 2026 09:40:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2063,18 +2063,18 @@
       "severity_level": "Low"
     },
     {
-      "title": "Rob Jetten sworn in as youngest-ever Dutch prime minister",
-      "description": "The 38-year-old centrist is also the Netherlands' first openly gay prime minister. His minority coalition is set to be put to the test in an already fractured political landscape.",
-      "url": "https://www.dw.com/en/rob-jetten-sworn-in-as-youngest-ever-dutch-prime-minister/a-76088361?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 23 Feb 2026 11:39:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Replay: Zelensky addresses European Parliament as Ukraine marks four years since Russian invasion",
+      "description": "Ukrainian President Volodymyr Zelensky on Tuesday (February 24) addressed MEPs at an extraordinary plenary session.",
+      "url": "https://www.france24.com/en/replay-zelensky-addresses-european-parliament-as-ukraine-marks-four-years-since-russian-invasion",
+      "published": "Tue, 24 Feb 2026 10:06:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
       "title": "Premier League: Manchester United keep unbeaten streak alive with win over Everton",
-      "description": "Manchester United defeated Everton (1-0) away. Benjamin Sesko scored again.",
+      "description": "Manchester United defeated Everton (1-0) in their Premier League match in Liverpool. Benjamin Sesko scored again.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260224-premier-league-manchester-united-keep-unbeaten-streak-alive-with-win-over-everton",
       "published": "Tue, 24 Feb 2026 06:12:10 GMT",
       "source": "France24",
