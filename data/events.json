@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:18:06.150831Z",
+  "last_updated": "2026-02-27T09:47:24.651670Z",
   "event_count": 221,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 44,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Manifesto planning ‘mass casualties’ allegedly found at home of WA man charged with preparing terror attack",
+      "description": "Prime minister says reports 20-year-old was allegedly going to target mosques, WA police and parliament are ‘distressing’ Get our breaking news email , free app or daily news podcast Police in Western Australia have charged a 20-year-old man with preparing a terrorist attack, with Anthony Albanese describing the allegation as “deeply shocking”. The man was charged with acting in preparation for a terrorist act, possessing a prohibited weapon, two firearms offences and using a carriage service to menace or harass. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/27/manifesto-planning-mass-casualties-allegedly-found-at-home-of-wa-man-charged-with-planning-terror-attack-ntwnfb",
+      "published": "Fri, 27 Feb 2026 09:16:18 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -120,16 +130,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Burgertory founder’s chant about Zionists at pro-Palestine rally incited hatred against Jews, tribunal rules",
-      "description": "Hash Tayeh flags appeal to Victorian civil and administrative tribunal finding over phrase used at Melbourne rally last year Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A prominent pro-Palestine protester racially and religiously vilified Jewish people when he chanted “All Zionists are terrorists” at a Melbourne rally, a Victorian tribunal has ruled. Hash Tayeh, who has flagged an appeal to Thursday’s ruling, was found to have breached the state’s Racial and Religious Tolerance Act with his comments in March last year. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/27/burgertory-founder-zionist-chant-pro-palestine-rally-ntwnfb",
-      "published": "Fri, 27 Feb 2026 06:31:23 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -331,16 +331,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
-      "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
-      "url": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Feb 2026 06:00:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
@@ -663,6 +653,26 @@
       "severity_level": "High"
     },
     {
+      "title": "ICE releases Columbia student from custody after Trump-Mamdani talks",
+      "description": "US President Donald Trump agreed to release a Columbia University student detained by immigration agents on Thursday after a direct appeal from New York Mayor Zohran Mamdani at the White House. Elmina Aghayeva was arrested earlier that same day after federal agents entered one of the university's residential buildings without a warrant and under false pretences.",
+      "url": "https://www.france24.com/en/americas/20260227-ice-releases-columbia-student-custody-after-trump-mamdani-talks",
+      "published": "Fri, 27 Feb 2026 09:23:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Kenya administers HIV prevention drug",
+      "description": "In tonight's programme: Kenya begins administering its first doses of Lenacapavir – a groundbreaking, long-acting HIV prevention drug. But first: DR Congo forces launch drone strikes on M23 rebels near Rubaya, a key coltan mine, as militias capture the village of Kazinga. And the tastes of Africa are on full display at the Paris Agriculture Fair – including Sudan, which is showcasing its unique flavours despite the devastation of war.",
+      "url": "https://www.france24.com/en/kenya-administers-hiv-prevention-drug-1",
+      "published": "Thu, 26 Feb 2026 21:54:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Myriad fragments, one tragedy: How four years of war changed Ukraine",
       "description": "Although fighting had been raging in the east of Ukraine since Russia's invasion of Crimea in 2014, most in the country did not believe all-out war would occur. With the full-scale invasion now reaching the four-year mark, many Ukrainians cannot believe it has gone on for so long, with no end in sight.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167019",
@@ -670,6 +680,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "FBI raid involving LA schools superintendent possibly tied to failed $6M AI deal, potential conflict",
+      "description": "Federal agents raided the home and office of LAUSD superintendent Alberto Carvalho potentially in connection with a failed $6 million AI contract with AllHere.",
+      "url": "https://www.foxnews.com/us/fbi-raid-involving-la-schools-superintendent-possibly-tied-failed-6m-ai-deal-potential-conflict",
+      "published": "Fri, 27 Feb 2026 04:15:36 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
+      "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
+      "url": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Feb 2026 06:00:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -698,16 +728,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/feb/27/deadly-fungal-outbreak-sydney-hospital",
       "published": "Fri, 27 Feb 2026 07:12:41 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Kenya administers HIV prevention drug",
-      "description": "In tonight's programme, DR Congo forces launched drone strikes on M23 rebels near Rubaya, a key coltan mine, as militias capture Kazinga. Also, Kenya begins administering its first doses of LENACAPAVIR, a groundbreaking, long-acting HIV prevention drug. And, the tastes of Africa are on full display at the Paris Agricultural Fair - including Sudan, showcasing its unique flavours despite the devastation of war.",
-      "url": "https://www.france24.com/en/kenya-administers-hiv-prevention-drug-1",
-      "published": "Thu, 26 Feb 2026 21:54:15 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -808,16 +828,6 @@
       "url": "https://news.sky.com/story/iran-and-us-compromise-over-nuclear-stockpile-but-trumps-window-for-action-grows-smaller-by-the-day-13512828",
       "published": "Fri, 27 Feb 2026 06:35:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Bangladesh court orders authorities to request Interpol red notice for arrest of British MP",
-      "description": "A court in Bangladesh’s capital has ordered authorities to request that Interpol issue a red notice for the arrest of a British lawmaker on charges of corruption in a private real estate project",
-      "url": "https://abcnews.com/International/wireStory/bangladesh-court-orders-authorities-request-interpol-red-notice-130518969",
-      "published": "Thu, 26 Feb 2026 06:33:53 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -993,16 +1003,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: 'Ludicrous' Mamdani boots Israel-linked drone firm",
-      "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-ludicrous-mamdani-boots-israel-linked-drone-firm",
-      "published": "Thu, 26 Feb 2026 12:02:41 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "World Economic Forum president and CEO steps down after facing scrutiny over Epstein links",
       "description": "Børge Brende is leaving his role as World Economic Forum president and CEO after coming under scrutiny for connections with Jeffrey Epstein.",
       "url": "https://www.foxnews.com/world/world-economic-forum-president-ceo-steps-down-after-facing-scrutiny-over-epstein-links",
@@ -1028,6 +1028,16 @@
       "url": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Feb 2026 19:10:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pakistan bombs Kabul: Why are Afghanistan and Pakistan fighting?",
+      "description": "Pakistani defence minister says Pakistan is waging 'open war' against Afghanistan.",
+      "url": "https://www.aljazeera.com/news/2026/2/27/pakistan-bombs-kabul-why-are-afghanistan-and-pakistan-fighting?traffic_source=rss",
+      "published": "Fri, 27 Feb 2026 09:22:06 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1143,6 +1153,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'I'm not the best father,' admits &#8203;Zelenskyy as Ukraine hit by 'harshest winter for decades'",
+      "description": "Ukraine's president has spoken of personal challenges, after several years of conflict with Ukraine, admitting \"I'm not the best father\" in a Sky News interview.",
+      "url": "https://news.sky.com/story/im-not-the-best-father-admits-volodymyr-8203zelenskyy-as-president-says-ukraine-hit-by-harshest-winter-for-decades-13512689",
+      "published": "Thu, 26 Feb 2026 20:26:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Zelenskyy tells Sky News the US has the power to end the war",
       "description": "In a wide-ranging interview, President Volodymyr Zelenskyy told Sky News he is ready to meet Vladimir Putin for talks and will do anything to bring about peace.",
       "url": "https://news.sky.com/story/ukraines-volodymyr-zelenskyy-tells-sky-news-hes-ready-to-meet-putin-for-peace-talks-but-wont-give-up-territory-13512799",
@@ -1157,16 +1177,6 @@
       "description": "NASA has revealed details of an incident aboard the ISS that prompted the first medical evacuation in the space station's 25-year history.",
       "url": "https://news.sky.com/story/nasa-reveals-details-of-medical-incident-that-led-to-historic-evacuation-from-iss-13512419",
       "published": "Thu, 26 Feb 2026 11:16:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'I'm not the best father,' admits &#8203;Zelenskyy as Ukraine hit by 'harshest winter for decades'",
-      "description": "Ukraine's president has spoken of personal challenges, after several years of conflict with Ukraine, admitting \"I'm not the best father\" in a Sky News interview.",
-      "url": "https://news.sky.com/story/im-not-the-best-father-admits-volodymyr-8203zelenskyy-as-president-says-ukraine-hit-by-harshest-winter-for-decades-13512689",
-      "published": "Thu, 26 Feb 2026 20:26:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
@@ -1383,6 +1393,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Sweden intercepts suspected Russian drone during visit by French aircraft carrier",
+      "description": "The Swedish military has intercepted a suspected Russian drone off the south of the country as a French aircraft carrier was docked in the port of Malmö, officials say",
+      "url": "https://abcnews.com/International/wireStory/sweden-intercepts-suspected-russian-drone-visit-french-aircraft-130556950",
+      "published": "Fri, 27 Feb 2026 04:27:45 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "South Korea allows Google to export map data after years of frustration",
       "description": "South Korea’s government says it will allow Google to export detailed mapping data of the country to overseas servers under certain security requirements",
       "url": "https://abcnews.com/International/wireStory/south-korea-allows-google-export-map-data-after-130555808",
@@ -1568,16 +1588,6 @@
       "url": "https://www.dw.com/en/us-detained-student-released-after-mamdani-meets-trump/a-76143762?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Feb 2026 05:33:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Hillary Clinton testifies in Epstein files probe",
-      "description": "The Republican head of the US Ovesight Committee making the journey with the rest of his panel from Washington to the sleepy Hudson Valley suburb of Chappaqua, New York, home of former US president Bill Clinton who will testify Friday over relations with Jeffrey Epstein. First, his wife - former Secretary of State Hillary Clinton - who's behind closed doors with the lawmakers as we speak. Democratic political consultant Christian Hanley joins us from Washington.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260226-hillary-clinton-testifies-in-epstein-files-probe",
-      "published": "Thu, 26 Feb 2026 18:40:06 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1797,16 +1807,6 @@
       "description": "Carney's trip comes at a time when he's looking for new markets for Canadian exports to diversify from the US.",
       "url": "https://www.aljazeera.com/economy/2026/2/27/canadian-pm-carney-heads-to-india-on-significant-trip-to-consolidate-ties?traffic_source=rss",
       "published": "Fri, 27 Feb 2026 05:08:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why are many Western leaders visiting China?",
-      "description": "German Chancellor Friedrich Merz is in Beijing, saying he wants to reset ties.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss",
-      "published": "Thu, 26 Feb 2026 22:35:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
