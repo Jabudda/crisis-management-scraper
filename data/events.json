@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T18:47:45.277614Z",
+  "last_updated": "2026-02-27T19:16:36.392501Z",
   "event_count": 222,
   "events": [
     {
@@ -38,6 +38,16 @@
       "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Feb 2026 23:59:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Forgotten conflict in South Sudan at ‘a dangerous point’, Türk warns",
+      "description": "South Sudan was the focus of debate in the UN Human Rights Council on Friday as escalating violence and political tensions – alongside a massive humanitarian emergency and war in neighbouring Sudan – threaten efforts to achieve lasting peace.",
+      "url": "https://news.un.org/feed/view/en/story/2026/02/1167051",
+      "published": "Fri, 27 Feb 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 35,
       "severity_level": "Critical"
@@ -163,16 +173,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "ICC judges assess case against Duterte over Philippines ‘war on drugs’ killings",
-      "description": "Judges at the UN-backed International Criminal Court (ICC) on Monday opened a confirmation of charges hearing for former Philippine President Rodrigo Duterte, to determine whether there is sufficient evidence to send him to trial on alleged crimes against humanity linked to killings during the country’s so-called “war on drugs”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1167021",
-      "published": "Mon, 23 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Over a billion fear losing land and homes within five years",
       "description": "Despite global progress in strengthening land tenure and governance, more than a billion people worldwide – nearly one in four adults – fear they could lose the rights to some or all of their land and housing within the next five years.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167037",
@@ -234,7 +234,7 @@
     },
     {
       "title": "US allows staff to leave Israel as Trump attack on Iran looms",
-      "description": "US Preident Trump has threatened to attack Iran if it doesn't agree to a new deal on its nuclear program by early March. Meanwhile, the UN's nuclear watchdog has urged Tehran to allow inspections at its nuclear sites.",
+      "description": "US President Trump has threatened to attack Iran if it doesn't agree to a new deal on its nuclear program by early March. Meanwhile, the UN's nuclear watchdog has urged Tehran to allow inspections at its nuclear sites.",
       "url": "https://www.dw.com/en/us-allows-staff-to-leave-israel-as-trump-attack-on-iran-looms/a-76157922?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Feb 2026 18:17:00 GMT",
       "source": "Deutsche Welle",
@@ -573,16 +573,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Family claims casino staff mistook veteran’s illness for intoxication, delaying care before his death",
-      "description": "An Army veteran died after Caesars Palace staff mistook a medical emergency for intoxication, and called a rideshare instead of an ambulance, wrongful death lawsuit claims.",
-      "url": "https://www.foxnews.com/us/family-claims-casino-staff-mistook-veterans-illness-intoxication-delaying-care-before-his-death",
-      "published": "Thu, 26 Feb 2026 15:31:00 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Kim Jong Un calls South Korea ‘most hostile enemy,’ says North could ‘completely destroy’ it",
       "description": "Kim Jong Un threatens to \"completely destroy\" South Korea, calling it the \"most hostile enemy\" while expanding North Korea's nuclear arsenal and military capabilities.",
       "url": "https://www.foxnews.com/world/kim-jong-un-calls-south-korea-most-hostile-enemy-says-north-could-completely-destroy",
@@ -653,10 +643,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Tram derails in Milan, leaving one dead and dozens injured",
+      "title": "Tram derails in Milan, leaving two dead and dozens injured",
       "description": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building.",
       "url": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Feb 2026 17:30:00 GMT",
+      "published": "Fri, 27 Feb 2026 19:03:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -698,16 +688,6 @@
       "url": "https://www.dw.com/en/pakistan-says-at-open-war-with-afghanistan-after-strikes/live-76144088?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Feb 2026 07:44:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Trump says 'not happy' with Iran negotiations but no 'final decision' yet on possible US strike",
-      "description": "US President Donald Trump said on Friday he was \"not happy\" with the way Iran was negotiating in talks with the US, but had not yet made a \"final decision\" on whether the US would launch military action against Tehran. His comments came as the US advised its non-emergency embassy staff to leave Israel \"due to safety risks\".",
-      "url": "https://www.france24.com/en/middle-east/20260227-rubio-to-hold-talks-in-israel-next-week-as-us-iran-tensions-remain-high",
-      "published": "Fri, 27 Feb 2026 17:23:01 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -973,6 +953,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Netflix stock surges as it walks away from Warner Bros deal",
+      "description": "Netflix declined to raise its proposal to match a higher one from Paramount for Warner Bros.",
+      "url": "https://www.aljazeera.com/economy/2026/2/27/netflix-stock-surges-as-it-walks-away-from-warner-bros-deal?traffic_source=rss",
+      "published": "Fri, 27 Feb 2026 18:35:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Israeli settlers violently attack foreign ‘solidarity activists’",
       "description": "Israeli settlers attacked a 71-year-old foreign woman and 51-year-old foreign man in the occupied West Bank.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/israeli-settlers-violently-attack-foreign-solidarity?traffic_source=rss",
@@ -1068,6 +1058,16 @@
       "url": "https://www.dw.com/en/netflix-bows-out-of-warner-bros-bid-paramount-set-to-win/a-76143761?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Feb 2026 04:25:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump says 'not happy' with Iran talks, but undecided on possible military action",
+      "description": "US President Donald Trump said on Friday he was \"not happy\" with the way Iran was negotiating in talks with the US, but had not yet made a \"final decision\" on whether the US would launch military action against Tehran. His comments came as the US advised its non-emergency embassy staff to leave Israel \"due to safety risks\".",
+      "url": "https://www.france24.com/en/middle-east/20260227-rubio-to-hold-talks-in-israel-next-week-as-us-iran-tensions-remain-high",
+      "published": "Fri, 27 Feb 2026 17:23:01 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1173,7 +1173,17 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Savannah Guthrie’s $1M reward mirrors past kidnapping cases solved by cash",
+      "title": "Man arrested on misdemeanor DUI charges outside Nancy Guthrie's home after sobriety test",
+      "description": "A man was detained near the Tucson home where Nancy Guthrie was allegedly abducted. Video shows a field sobriety test as the search continues for missing 84-year-old.",
+      "url": "https://www.foxnews.com/us/man-arrested-misdemeanor-dui-charges-outside-nancy-guthrie-home-sobriety-test",
+      "published": "Fri, 27 Feb 2026 13:53:37 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Savannah Guthrie drops $1M reward for mother's return, echoing high-profile kidnappings cracked by cash",
       "description": "High-profile kidnapping cases solved through hefty rewards explored, as Savannah Guthrie offers $1 million for her mother's recovery in new development.",
       "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
       "published": "Fri, 27 Feb 2026 06:00:13 -0500",
@@ -1573,16 +1583,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Champions League last 16 draw: Man City play Real Madrid, PSG face Chelsea",
-      "description": "Elsewhere, Barcelona will face Newcastle, Tottenham will play Atletico Madrid and Arsenal will take on Bayer Leverkusen.",
-      "url": "https://www.aljazeera.com/sports/2026/2/27/man-city-play-real-madrid-psg-face-chelsea-in-champions-league-last-16?traffic_source=rss",
-      "published": "Fri, 27 Feb 2026 12:15:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1703,6 +1703,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
+      "description": "The Supreme Court ruling comes after Israel said it would ban 37 aid groups from Gaza for failing to follow new rules.",
+      "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss",
+      "published": "Fri, 27 Feb 2026 18:49:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Nomadic art haven opens in Qatar’s desert",
+      "description": "A new art exhibition in a tent in the middle of the Qatari desert offers visitors a new way to experience creativity.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/nomadic-art-haven-opens-in-qatars-desert?traffic_source=rss",
+      "published": "Fri, 27 Feb 2026 18:35:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Has Trump’s trade strategy lost leverage?",
       "description": "A Supreme Court setback on tariffs challenges Trump's protectionist trade strategy.",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/2/27/has-trumps-trade-strategy-lost-leverage?traffic_source=rss",
@@ -1777,26 +1797,6 @@
       "description": "Pakistan has accused Afghanistan of becoming 'a colony of India' but India's relations with Kabul predate the Taliban.",
       "url": "https://www.aljazeera.com/news/2026/2/27/has-indias-influence-in-afghanistan-grown-under-the-taliban?traffic_source=rss",
       "published": "Fri, 27 Feb 2026 13:15:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Deadly journeys: Refugees, migrants risk everything to reach Europe",
-      "description": "Crossing to Europe offers hope but exposes refugees to peril, as militia abuse persists in unsafe Libya.",
-      "url": "https://www.aljazeera.com/news/2026/2/27/deadly-journeys-refugees-migrants-risk-everything-to-reach-europe?traffic_source=rss",
-      "published": "Fri, 27 Feb 2026 12:24:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US citizens’ support for Israel at historic low over Gaza genocide: Poll",
-      "description": "Backing for Israel hits historic nadir, with 41% now sympathizing more with Palestinians, Gallup poll reveals.",
-      "url": "https://www.aljazeera.com/news/2026/2/27/us-citizens-support-for-israel-at-historic-low-over-gaza-genocide-poll?traffic_source=rss",
-      "published": "Fri, 27 Feb 2026 12:09:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1944,9 +1944,9 @@
     },
     {
       "title": "M 5.3 - 26 km SE of Tāki, India",
-      "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VI Time 2026-02-27 07:52:24 UTC 2026-02-27 07:52:24 UTC at epicenter Location 22.451°N 89.139°E Depth 9.75 km (6.06 mi)",
+      "description": "PAGER - YELLOW ShakeMap - VII DYFI? - V Time 2026-02-27 07:52:24 UTC 2026-02-27 07:52:24 UTC at epicenter Location 22.451°N 89.139°E Depth 9.75 km (6.06 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0pc",
-      "published": "2026-02-27T18:29:30.040Z",
+      "published": "2026-02-27T19:11:35.407Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
