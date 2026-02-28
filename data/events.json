@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T17:06:37.872115Z",
+  "last_updated": "2026-02-28T17:38:20.941745Z",
   "event_count": 222,
   "events": [
     {
@@ -48,6 +48,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/feb/28/premier-pleads-for-end-to-language-of-division-in-politics-after-wa-police-foil-alleged-mass-terror-attack",
       "published": "Sat, 28 Feb 2026 07:20:20 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran's terror proxies from Iraq-to-Lebanon say ready to respond to US-Israel attacks",
+      "description": "Hezbollah terrorist organization has rebuilt capabilities despite Lebanon ceasefire as Iran's proxy network prepares response to U.S.-Israel military operations.",
+      "url": "https://www.foxnews.com/world/irans-terror-proxies-from-iraq-to-lebanon-say-ready-respond-us-israel-attacks",
+      "published": "Sat, 28 Feb 2026 12:18:01 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical"
@@ -133,31 +143,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-      "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Feb 2026 15:49:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Israel says launched 'preemptive' strike against Iran",
       "description": "Israel's attack comes amid soaring tensions between Iran and the United States over Tehran's nuclear and missile programs.",
       "url": "https://www.dw.com/en/israel-says-launched-preemptive-strike-against-iran/a-76160973?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 28 Feb 2026 06:36:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "🔴 Live: Macron warns that US-Israeli strikes on Iran could spark regional 'catastrophe'",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/asia-pacific/20260228-live-israel-says-launched-preventive-strike-against-iran-declares-state-of-emergency",
-      "published": "Sat, 28 Feb 2026 12:14:59 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -230,6 +220,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+      "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Feb 2026 17:32:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -547,16 +547,6 @@
       "description": "Noga Tarnopolsky has more.",
       "url": "https://www.france24.com/en/us-israeli-military-attack-on-iran-first-casualties-in-israel",
       "published": "Sat, 28 Feb 2026 16:25:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Netanyahu says Iranians must “take their fate into their own hands”",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said in a recorded message released Saturday morning that the attacks will let Iranians “take their fate into their own hands” and that Israel plans the current operation to be “much more powerful” than the bruising 12-day war Israel launched against Iran in June.",
-      "url": "https://www.france24.com/en/netanyahu-says-iranians-must-take-their-fate-into-their-own-hands",
-      "published": "Sat, 28 Feb 2026 12:23:35 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
@@ -1173,6 +1163,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iran retaliates after being targeted by Israeli-US strikes",
+      "description": "The United States and Israel launched what the latter called a \"decisive and unprecedented\" campaign against Iran, which retaliated with a barrage of missiles that sent residents running for cover on Saturday in cities across the Middle East.",
+      "url": "https://www.france24.com/en/video/20260228-iran-retaliates-after-being-targeted-by-israeli-us-strikes-1",
+      "published": "Sat, 28 Feb 2026 17:04:47 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Toll from southern Iran school strike rises to 51: State TV says",
       "description": "Reza Sayah is live from Tehran.",
       "url": "https://www.france24.com/en/toll-from-southern-iran-school-strike-rises-to-51-state-tv-says",
@@ -1293,16 +1293,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Alleged Tren de Aragua criminal gang members charged in ATM robberies across New England",
-      "description": "Two alleged Tren de Aragua gang members were charged in an ATM jackpotting conspiracy across New England, accused of stealing cash using malware to target machines.",
-      "url": "https://www.foxnews.com/us/alleged-tren-de-aragua-criminal-gang-members-charged-atm-robberies-across-new-england",
-      "published": "Thu, 26 Feb 2026 21:31:57 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US joins Israel in preemptive strike on Iran as Trump confirms ‘major combat operations’",
       "description": "The United States joined Israel in launching preemptive strikes against Iran, escalating tensions in the Middle East as President Donald Trump confirmed “major combat operations\" were underway.",
       "url": "https://www.foxnews.com/world/israel-launches-preemptive-strike-against-iran-defense-minister-says",
@@ -1338,16 +1328,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167040",
       "published": "Thu, 26 Feb 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US military aircraft involved in 'incident' during training in Philippines, service members sent for treatment",
-      "description": "A U.S. military aircraft reportedly crashed into a barrier during takeoff in the Philippines, injuring all five American personnel aboard.",
-      "url": "https://www.foxnews.com/world/us-military-aircraft-involved-incident-during-training-philippines-service-members-sent-treatment",
-      "published": "Thu, 26 Feb 2026 06:56:03 -0500",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium"
@@ -1518,6 +1498,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167033",
       "published": "Wed, 25 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Anti-US protesters funded by pro-China tycoon mobilize as first bombs fall on Iran",
+      "description": "Nonprofits funded by a tech tycoon aligned with the Chinese Communist Party organize coordinated anti-US protests and propaganda supporting the regime in Iran",
+      "url": "https://www.foxnews.com/us/nonprofits-funded-by-pro-ccp-tycoon-mobilize-pro-regime-protests-10-minutes-before-trump-even-reveals-he-launc",
+      "published": "Sat, 28 Feb 2026 12:27:12 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1988,6 +1978,16 @@
       "url": "https://www.dw.com/en/bill-clinton-tells-lawmakers-he-did-nothing-wrong-with-epstein/a-76159288?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Feb 2026 19:48:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "🔴 Live: Israel's 'largest ever' air raids struck 500 targets in Iran, army says",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/asia-pacific/20260228-live-israel-says-launched-preventive-strike-against-iran-declares-state-of-emergency",
+      "published": "Sat, 28 Feb 2026 17:22:08 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
