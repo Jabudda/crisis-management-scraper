@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T13:44:10.740783Z",
+  "last_updated": "2026-02-28T14:06:47.369191Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "World reacts to US, Israel attack on Iran, Tehran retaliation",
+      "description": "EU urges 'maximum restraint'; mediator Oman warns US 'not to get sucked in' further into conflict.",
+      "url": "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation?traffic_source=rss",
+      "published": "Sat, 28 Feb 2026 13:52:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -443,7 +453,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump announces 'major combat operations' in Iran",
+      "title": "U.S. and Israel strike Iran in operation 'Epic Fury.' Trump calls for regime overthrow",
       "description": "Israel and the U.S. have launched strikes against Iran, with explosions reported in Tehran and air raid sirens sounding across Israel.",
       "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
       "published": "Sat, 28 Feb 2026 02:16:26 -0500",
@@ -653,20 +663,10 @@
       "severity_level": "High"
     },
     {
-      "title": "US and Israel attack Iran: What we know so far",
+      "title": "Why are the US and Israel attacking Iran? What we know so far",
       "description": "The US and Israel bomb multiple Iranian cities, including capital Tehran. Iran hits back, launching missiles at Israel.",
       "url": "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far?traffic_source=rss",
       "published": "Sat, 28 Feb 2026 09:24:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "How Serbia’s President Aleksandar Vucic sees the world",
-      "description": "As antigovernment protests in Serbia continue into their second year, who is the man maintaining a grip on power?",
-      "url": "https://www.aljazeera.com/features/2026/2/28/how-serbias-president-aleksandar-vucic-sees-the-world?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 08:46:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -748,6 +748,16 @@
       "url": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Feb 2026 12:46:26 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iranian deputy minister of foreign Affairs condemns US-Israeli attacks",
+      "description": "Iran’s deputy minister of foreign affairs condemned the US-Israeli strikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/iranian-deputy-minister-of-foreign-affairs-condemns-us-israeli-attacks?traffic_source=rss",
+      "published": "Sat, 28 Feb 2026 13:35:03 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1623,6 +1633,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Arsenal vs Chelsea: Premier League – preview, team news, start, lineups",
+      "description": "League leaders Arsenal desperate for a win over Chelsea to keep resurgent Manchester City at bay.",
+      "url": "https://www.aljazeera.com/sports/2026/2/28/arsenal-vs-chelsea-premier-league-preview-team-news-start-lineups?traffic_source=rss",
+      "published": "Sat, 28 Feb 2026 13:44:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1723,6 +1743,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Debris from intercepted Iranian missile lands in Hebron",
+      "description": "Video shows debris from an intercepted Iranian missile that landed in Hebron in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/debris-from-intercepted-iranian-missile-lands-in-hebron?traffic_source=rss",
+      "published": "Sat, 28 Feb 2026 13:30:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "LIVE: Barcelona vs Villarreal – La Liga",
       "description": "Follow the build-up, analysis and live text commentary of the game as league leaders Barca host third-placed Villarreal.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-barcelona-vs-villarreal-la-liga?traffic_source=rss",
@@ -1737,36 +1767,6 @@
       "description": "101 East joins doctors on board a medical train delivering vital healthcare to Kazakhstan’s most remote communities.",
       "url": "https://www.aljazeera.com/video/101-east/2026/2/28/kazakhstans-train-hospital-brings-healthcare-to-remote-regions?traffic_source=rss",
       "published": "Sat, 28 Feb 2026 11:30:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Who is Iran’s Supreme Leader Khamenei and why is he a possible target?",
-      "description": "Trump, who has previously said Khamenei should be 'very worried', is urging Iranians to overthrow their government.",
-      "url": "https://www.aljazeera.com/news/2026/2/28/who-is-irans-supreme-leader-khamenei-and-why-is-he-a-possible-target?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 09:06:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Sweden confirms Russian drone intercepted near French aircraft carrier",
-      "description": "Swedish forces disrupt a drone launched from a Russian ship near a visiting French aircraft carrier in Swedish waters.",
-      "url": "https://www.aljazeera.com/news/2026/2/28/sweden-confirms-russian-drone-intercepted-near-french-aircraft-carrier?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 08:47:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump says ‘major combat operations’ in Iran have begun",
-      "description": "US President Donald Trump says American forces have begun “major combat operations” in Iran alongside Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/trump-says-major-combat-operations-in-iran-have-begun?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 08:14:13 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
