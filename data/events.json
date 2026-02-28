@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T20:40:35.710315Z",
-  "event_count": 222,
+  "last_updated": "2026-02-28T21:06:38.986871Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -10,6 +10,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 50,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "MIDDLE EAST LIVE: UN Security Council meeting in emergency session over Iran",
+      "description": "The UN Security Council is due to meet top of the hour in emergency session in the aftermath of major airstrikes across Iran by the United States and Israel. In retaliation, Tehran has launched its own attacks throughout the Middle East, with reports of strikes in Dubai, Doha, Bahrain and Kuwait – threatening to plunge the region into a broader conflict. US President Donald Trump has urged Iranians to “take over” the Government. UN chief António Guterres condemned the escalation, saying it undermines international peace and security. He’ll be briefing ambassadors in New York. Follow our live coverage below. UN News app users can follow here and full meetings coverage can be found daily, here.",
+      "url": "https://news.un.org/feed/view/en/story/2026/02/1167060",
+      "published": "Sat, 28 Feb 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 48,
       "severity_level": "Critical"
     },
     {
@@ -50,6 +60,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iranian supreme leader killed in Israeli airstrike, source says",
+      "description": "Neither the U.S. nor Iran have confirmed the death of Supreme Leader Ayatollah Ali Khamenei. The wave of airstrikes began after sunrise in Iran, with huge explosions ringing out in the capital Tehran.",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
+      "published": "Sat, 28 Feb 2026 02:16:26 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -143,7 +163,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran attacks and retaliatory strikes ‘undermine international peace and security’",
+      "title": "Attacks on Iran and retaliatory strikes ‘undermine international peace and security’",
       "description": "UN Secretary-General António Guterres and the heads of UN agencies have condemned Saturday’s joint Israeli and US attacks on Iran and the Iranian retaliatory strikes on Israel and the Gulf Regions.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167059",
       "published": "Sat, 28 Feb 2026 12:00:00 +0000",
@@ -263,16 +283,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israel strikes two schools in Iran, killing more than 80 people",
-      "description": "State media says Israeli attack on girls' school in the city of Minab in the south of the country kills dozens.",
-      "url": "https://www.aljazeera.com/news/2026/2/28/israel-strikes-two-schools-in-iran-killing-more-than-50-people?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 13:06:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "US advises embassy staff in Israel to leave now if they want, as risk of war hangs over Middle East",
       "description": "The U.S. Embassy in Israel has told its staff that it can leave the country and urged anyone considering departure to do so immediately as the threat of an American strike on Iran looms",
       "url": "https://abcnews.com/International/wireStory/us-advises-embassy-staff-israel-leave-now-risk-130558302",
@@ -363,16 +373,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iranian supreme leader killed in airstrike, source says, amid U.S. and Israel attack on Iran",
-      "description": "Israel and the U.S. launched strikes against Iran, and Iran retaliated with attacks on Israel and several Gulf countries.",
-      "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
-      "published": "Sat, 28 Feb 2026 02:16:26 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Lebanon on edge as US and Israel launch attack on Iran",
       "description": "While Lebanon's government opposes getting involved, Hezbollah has said it would view an attack on Iran's leader as a \"red line.\" Israel has previously warned Beirut of heavy strikes.",
       "url": "https://www.dw.com/en/lebanon-on-edge-as-us-and-israel-launch-attack-on-iran/a-76121309?maca=en-rss-en-all-1573-xml-mrss",
@@ -450,6 +450,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
+      "description": "This is a developing news story.",
+      "url": "https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss",
+      "published": "Sat, 28 Feb 2026 20:29:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -793,7 +803,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Why is the U.S. attacking Iran? Six things to know",
+      "title": "What to know about the U.S. and Israeli attacks on Iran",
       "description": "The U.S. and Israel launched military strikes in Iran, targeting Khamenei and the Iranian president. \"Operation Epic Fury\" will be \"massive and ongoing,\" President Trump said Saturday morning.",
       "url": "https://www.npr.org/2026/02/28/g-s1-112026/why-is-the-u-s-attacking-iran",
       "published": "Sat, 28 Feb 2026 09:36:22 -0500",
@@ -1493,16 +1503,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Organized crime and poor regulation to blame for toxic pollution threat",
-      "description": "The lucrative, illegal trade and trafficking of waste products including many that are toxic could be set to surge across continents, thanks to patchy regulation, savvy criminal groups and corruption, UN experts said on Wednesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1167033",
-      "published": "Wed, 25 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Anti-US protesters funded by pro-China tycoon mobilize as first bombs fall on Iran",
       "description": "Nonprofits funded by a tech tycoon aligned with the Chinese Communist Party organize coordinated anti-US protests and propaganda supporting the regime in Iran",
       "url": "https://www.foxnews.com/us/nonprofits-funded-by-pro-ccp-tycoon-mobilize-pro-regime-protests-10-minutes-before-trump-even-reveals-he-launc",
@@ -1544,7 +1544,7 @@
     },
     {
       "title": "Israel's largest ever military flyover hammers Iranian military targets",
-      "description": "Israeli airstrikes hit 500 Iranian targets including missile launchers and defense systems, severely degrading Iran's offensive military capabilities.",
+      "description": "Israeli airstrikes hit 500 Iranian targets, including missile launchers and defense systems, severely degrading Iran's offensive military capabilities.",
       "url": "https://www.foxnews.com/world/israels-largest-ever-military-flyover-hammers-iranian-military-targets",
       "published": "Sat, 28 Feb 2026 13:14:51 -0500",
       "source": "Fox News World",
@@ -1588,6 +1588,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-02-28T21:06:23.225985Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
