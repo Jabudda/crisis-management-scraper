@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T21:06:38.986871Z",
-  "event_count": 223,
+  "last_updated": "2026-02-28T21:37:32.568723Z",
+  "event_count": 222,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -344,7 +344,7 @@
     },
     {
       "title": "FBI raises counterterror teams to high alert amid Iran tensions",
-      "description": "FBI places counterterrorism and counterintelligence teams on elevated alert status nationwide as U.S. military operations against Iran continue to unfold.",
+      "description": "The FBI placed counterterrorism and counterintelligence teams on elevated alert status nationwide as U.S. military operations against Iran continue to unfold.",
       "url": "https://www.foxnews.com/us/fbi-elevates-counterterror-teams-high-alert-amid-iran-tensions",
       "published": "Sat, 28 Feb 2026 13:43:34 -0500",
       "source": "Fox News US",
@@ -454,7 +454,7 @@
     },
     {
       "title": "Iran’s Supreme Leader Ali Khamenei killed in US-Israeli attacks: Reports",
-      "description": "This is a developing news story.",
+      "description": "Iran's Tasnim and Mehr news agencies report that Khamenei remains 'steadfast and firm in commanding the field'.",
       "url": "https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports?traffic_source=rss",
       "published": "Sat, 28 Feb 2026 20:29:04 +0000",
       "source": "Al Jazeera",
@@ -558,6 +558,16 @@
       "url": "https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes?traffic_source=rss",
       "published": "Sat, 28 Feb 2026 16:20:50 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: cabinet’s national security committee to meet as US and Israel strike Iran",
+      "description": "Penny Wong due to speak from Adelaide after government declared its support for US action. Follow the latest updates live Get our breaking news email , free app or daily news podcast Good morning. Welcome to our live news blog this Sunday. The federal government is moving quickly to respond to events in Iran. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/01/australia-news-live-sunday-iran-illegal-war-reaction-labor-coalition",
+      "published": "Sat, 28 Feb 2026 21:28:47 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1363,16 +1373,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Colander-wearing Pastafarian strains the rules with Queensland driver’s licence photo",
-      "description": "Syaban Shadikillah told to get new driver’s licence after being issued one using photo of him with colander on his head Get our breaking news email , free app or daily news podcast A “Pastafarian” in rural Queensland has vowed to fight to keep his driver’s licence featuring a photo of him wearing a colander on his head, arguing it’s a matter of freedom of religion. But the state government has told him he must hand it in and get a new one, as it was issued “in error”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/28/colander-wearing-pastafarian-strains-the-rules-with-queensland-drivers-licence-photo",
-      "published": "Sat, 28 Feb 2026 05:23:54 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Central African Republic enters ‘decisive’ phase after landmark elections",
       "description": "Fresh from holding the most extensive elections in its history, the Central African Republic (CAR) is entering what the UN’s top envoy in the country describes as a “decisive period” in consolidating fragile peace gains, even as security challenges persist and disarmament efforts continue.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167036",
@@ -1533,8 +1533,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Did they get him? Khamenei's fate remains unknown after Israel strike levels his compound",
-      "description": "Uncertainty surrounds Iran's supreme leader Ayatollah Ali Khamenei following an Israeli-U.S. strike on Tehran that left his fortified compound heavily damaged.",
+      "title": "Did they get him? Khamenei's fate remains unknown after Israeli strike levels his compound",
+      "description": "Uncertainty surrounds Iran's Ayatollah Ali Khamenei after an Israeli-U.S. strike on Tehran that left his fortified compound heavily damaged.",
       "url": "https://www.foxnews.com/world/did-get-him-khameneis-fate-remains-unknown-after-israel-us-strike-levels-his-compound",
       "published": "Sat, 28 Feb 2026 13:41:38 -0500",
       "source": "Fox News World",
@@ -1588,16 +1588,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-02-28T21:06:23.225985Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
