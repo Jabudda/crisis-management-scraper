@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T18:10:11.704803Z",
+  "last_updated": "2026-03-01T18:46:25.020674Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Deadly Austin shooting that killed 3 may be 'act of terrorism,' FBI says",
+      "description": "FBI investigates Austin shooting that killed 3, wounded 14 in downtown entertainment district as potentially an act of terrorism after Sunday rampage.",
+      "url": "https://www.foxnews.com/us/deadly-shooting-in-austin-that-killed-3-may-be-act-of-terrorism-fbi-says",
+      "published": "Sun, 01 Mar 2026 13:32:24 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -413,16 +423,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "How US-Israel attacks on Iran threaten the Strait of Hormuz, oil markets",
-      "description": "About 20-30 percent of global oil and gas supplies are shipped through the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets?traffic_source=rss",
-      "published": "Sun, 01 Mar 2026 11:56:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘Adventurism has had its day’: speedboat shootout leaves Miami’s exiled Cubans bewildered",
       "description": "Few clues as to how 10 heavily armed men intercepted on stolen speedboat came together from across Florida or what they hoped to achieve Foot traffic was slow outside the Bay of Pigs Museum on Calle Ocho in Miami’s Little Havana neighbourhood. A few tourists in T-shirts and shorts bypassed the gallery dedicated to one of the most fateful days in Cuba’s history and headed instead to nearby Máximo Gómez Park to take photographs of Cuban exiles playing dominoes. This is the street at the heart of the Cuban expat community of more than 1 million people where tens of thousands partied through the night in November 2016 to celebrate the death of Fidel Castro, and where they gathered in sorrow almost exactly 30 years ago to mourn four Cuban-Americans shot down by the communist country’s air force as they conducted a mission for the humanitarian exile group Brothers to the Rescue. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/28/miami-exiled-cubans-speedboat-shootout",
@@ -434,7 +434,7 @@
     },
     {
       "title": "‘Less lethal’ deaths: courts examine role of controversial police weapons before three Australians died",
-      "description": "Exclusive: Police forces argue bean-bag and foam baton rounds are less harmful than firearms, but the projectiles have been linked to deaths around the world Get our breaking news email , free app or daily news podcast At least three people died within four months of one another after being shot with “less lethal” projectiles and stun guns at their homes, sparking a series of inquests and civil cases that could overhaul how police officers use force. Police forces have argued the projectiles – such as bean-bag and foam baton rounds fired from weapons similar to shotguns and other launchers – provide officers with a less harmful alternative to firearms. Continue reading...",
+      "description": "Exclusive : Police forces argue bean-bag and foam baton rounds are less harmful than firearms, but the projectiles have been linked to deaths around the world Get our breaking news email , free app or daily news podcast At least three people died within four months of one another after being shot with “less lethal” projectiles and stun guns at their homes, sparking a series of inquests and civil cases that could overhaul how police officers use force. Police forces have argued the projectiles – such as bean-bag and foam baton rounds fired from weapons similar to shotguns and other launchers – provide officers with a less harmful alternative to firearms. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/02/australian-police-guns-less-lethal-weapons-ntwnfb",
       "published": "Sun, 01 Mar 2026 14:00:45 GMT",
       "source": "The Guardian World",
@@ -853,6 +853,16 @@
       "severity_level": "High"
     },
     {
+      "title": "9 people injured in mass shooting at Riverfront Live in Cincinnati",
+      "description": "Nine people were injured in a mass shooting at Riverfront Live in Cincinnati's East End early Sunday during a birthday celebration as police investigate.",
+      "url": "https://www.foxnews.com/us/people-injured-mass-shooting-riverfront-live-cincinnati",
+      "published": "Sun, 01 Mar 2026 13:05:44 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran's Supreme Leader Ali Khamenei dead after IDF strike hits Tehran compound, Israeli source confirms",
       "description": "Ayatollah Ali Khamenei, Iran's longest-serving autocrat known for brutal crackdowns on dissent and backing terror groups like Hamas and Hezbollah, has died in Tehran.",
       "url": "https://www.foxnews.com/world/irans-supreme-leader-ali-khamenei-dead-after-idf-strike-hits-tehran-compound-israeli-source-confirms",
@@ -1083,16 +1093,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Khamenei killed: Trump talks regime change in Iran after strikes",
-      "description": "Ellie Geranmayeh, senior policy fellow and deputy head of the Middle East and North Africa programme at the European Council on Foreign Relations, is our guest.",
-      "url": "https://www.france24.com/en/khamenei-killed-trump-talks-regime-change-in-iran-after-strikes",
-      "published": "Sun, 01 Mar 2026 12:12:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Rocket attacks close Middle East airports, with more than 34,000 flights cancelled",
       "description": "Travellers face continued disruption after joint US-Israeli strikes against Iran sparked a retaliatory barrage of missiles across the Middle East.",
       "url": "https://news.sky.com/story/thousands-stranded-as-iranian-strikes-force-airports-to-close-including-dubai-and-doha-13513797",
@@ -1231,6 +1231,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "India beat West Indies by five wickets to enter T20 World Cup semifinals",
+      "description": "Samson hits 97 not out, West Indian bowling falters in Kolkata as India set up World Cup semifinal against England.",
+      "url": "https://www.aljazeera.com/sports/2026/3/1/india-beat-west-indies-by-five-wickets-to-enter-t20-world-cup-semifinals?traffic_source=rss",
+      "published": "Sun, 01 Mar 2026 18:02:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "T20 World Cup: South Africa beat Zimbabwe, set up New Zealand semifinal",
@@ -1553,6 +1563,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iran strikes send VIP Dubai influencers 'back to reality'",
+      "description": "They moved to the UAE expecting a non-stop VIP experience, but instead Dubai's influencers found themselves under a barrage of Iranian missiles and drones.",
+      "url": "https://www.france24.com/en/live-news/20260301-iran-strikes-send-vip-dubai-influencers-back-to-reality",
+      "published": "Sun, 01 Mar 2026 16:25:13 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russian Foreign Ministry condemns US-Israel strikes on Iran",
       "description": "Russia has condemned U.S.-Israeli strikes on Iran and urged an immediate stop to the campaign and a return to diplomacy",
       "url": "https://abcnews.com/International/wireStory/russian-foreign-ministry-condemns-us-israel-strikes-iran-130598225",
@@ -1577,16 +1597,6 @@
       "description": "Registered sex offender Shelby Lang Smith was arrested for allegedly vandalizing the Oklahoma Capitol with anti-ICE graffiti and threats and faces 10 charges.",
       "url": "https://www.foxnews.com/us/man-accused-spraying-anti-ice-graffiti-oklahoma-capitol-registered-child-sex-offender-charges-filed",
       "published": "Fri, 27 Feb 2026 20:34:01 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Feds make 25 more arrests in anti-ICE Minnesota church invasion",
-      "description": "The FBI has arrested more individuals under the FACE Act following the viral January 18 storming of Cities Church in Minnesota by anti-ICE agitators.",
-      "url": "https://www.foxnews.com/us/feds-make-25-more-arrests-anti-ice-minnesota-church-invasion",
-      "published": "Fri, 27 Feb 2026 13:38:47 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
@@ -1697,16 +1707,6 @@
       "description": "Nancy Guthrie's kidnapping from her Arizona home highlights growing safety concerns for seniors in affluent retirement communities across the nation.",
       "url": "https://www.foxnews.com/us/nancy-guthrie-abduction-sparks-fears-over-senior-safety-affluent-communities-expert",
       "published": "Sun, 01 Mar 2026 10:00:47 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "High school basketball coach charged with raping foster daughter, serving victim tequila shots: report",
-      "description": "Massachusetts basketball coach Scott Marino allegedly raped his foster teen after giving her alcohol. The 54-year-old Malden High coach faces multiple charges.",
-      "url": "https://www.foxnews.com/us/high-school-basketball-coach-charged-raping-foster-daughter-serving-victim-tequila-shots-report",
-      "published": "Fri, 27 Feb 2026 12:55:37 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
