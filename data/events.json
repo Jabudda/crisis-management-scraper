@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T14:08:09.708884Z",
-  "event_count": 224,
+  "last_updated": "2026-03-01T14:41:26.198148Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -160,6 +160,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least nine killed after Iranian strike on Israel’s Beit Shemesh",
+      "description": "The Magen David Adom (MDA) emergency service says that 20 others were injured by the impact.",
+      "url": "https://www.aljazeera.com/news/2026/3/1/at-least-nine-killed-after-iranian-strike-on-israels-beit-shemesh?traffic_source=rss",
+      "published": "Sun, 01 Mar 2026 13:45:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -363,6 +373,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "‘Less lethal’ deaths: courts examine role of controversial police weapons before three Australians died",
+      "description": "Exclusive: Police forces argue bean-bag and foam baton rounds are less harmful than firearms, but the projectiles have been linked to deaths around the world Get our breaking news email , free app or daily news podcast At least three people died within four months of one another after being shot with “less lethal” projectiles and stun guns at their homes, sparking a series of inquests and civil cases that could overhaul how police officers use force. Police forces have argued the projectiles – such as bean-bag and foam baton rounds fired from weapons similar to shotguns and other launchers – provide officers with a less harmful alternative to firearms. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/02/australian-police-guns-less-lethal-weapons-ntwnfb",
+      "published": "Sun, 01 Mar 2026 14:00:45 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Here's how world leaders are reacting to the US-Israel strikes on Iran",
       "description": "Several leaders voiced support for the operation – but most, including those who stopped short of condemning it, called for restraint moving forward.",
       "url": "https://www.npr.org/2026/02/28/nx-s1-5730352/world-leaders-reaction-operation-epic-fury",
@@ -443,16 +463,6 @@
       "severity_level": "High"
     },
     {
-      "title": "At least 9 killed in pro-Iran protest at US consulate in Pakistan’s Karachi",
-      "description": "The protest erupted following assassination of Iran's Supreme Leader Ayatollah Ali Khamenei in joint US-Israeli strikes.",
-      "url": "https://www.aljazeera.com/news/2026/3/1/at-least-9-killed-in-pro-iran-protest-at-us-consulate-in-pakistans-karachi?traffic_source=rss",
-      "published": "Sun, 01 Mar 2026 08:32:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
       "description": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign minister has said after a visit to Kyiv in which officials raised the issue of Russian recruitment of African people. Reports of African men being attracted to Russia by promises of jobs and ending up on Ukraine’s frontlines have become more frequent in recent months, creating tensions between Moscow and some of the countries involved. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
@@ -508,6 +518,16 @@
       "url": "https://www.france24.com/en/video/20260301-at-least-9-killed-as-protesters-storm-us-consulate-in-pakistan",
       "published": "Sun, 01 Mar 2026 12:15:35 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Pope warns escalating Iran conflict could tip Middle East into ‘irreparable abyss’",
+      "description": "Pope Leo XIV warned Sunday that U.S.-Israel airstrikes on Iran risk plunging the Middle East into an \"irreparable abyss,\" urging leaders to choose dialogue.",
+      "url": "https://www.foxnews.com/world/pope-warns-escalating-iran-conflict-could-tip-middle-east-into-irreparable-abyss",
+      "published": "Sun, 01 Mar 2026 09:37:36 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -663,6 +683,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Who was Iran’s supreme leader, Ayatollah Ali Khamenei?",
+      "description": "Iranian state media confirmed that Ayatollah Ali Khamenei, Iran’s supreme leader was killed in a joint US-Israeli strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/who-was-irans-supreme-leader-ayatollah-ali-khamenei?traffic_source=rss",
+      "published": "Sun, 01 Mar 2026 13:50:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Israel closes Gaza’s Rafah crossing amid attacks on Iran",
       "description": "The crossing with Egypt is considered vital for delivery of humanitarian aid and evacuation of critically ill patients.",
       "url": "https://www.aljazeera.com/news/2026/3/1/israel-closes-gazas-rafah-crossing-amid-attacks-on-iran?traffic_source=rss",
@@ -677,26 +707,6 @@
       "description": "Iran carries out retaliatory attacks as supreme leader is killed in US-Israeli attacks pushing the region to the edge.",
       "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-day-2-khamenei-is-killed-iran-retaliates?traffic_source=rss",
       "published": "Sun, 01 Mar 2026 09:10:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "More blasts rock Dubai, Doha and Manama as Iran targets US assets in Gulf",
-      "description": "Iran's retaliatory attacks on US assets in the region continue for a second day as fears of a wider conflict rise.",
-      "url": "https://www.aljazeera.com/news/2026/3/1/more-blasts-rock-dubai-doha-and-manama-as-iran-targets-us-assets-in-gulf?traffic_source=rss",
-      "published": "Sun, 01 Mar 2026 08:44:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran begins 40-day mourning after Khamenei killed in US-Israeli attack",
-      "description": "President Masoud Pezeshkian condemns killing of Iran's supreme leader as 'a great crime', according to his office.",
-      "url": "https://www.aljazeera.com/news/2026/3/1/iran-begins-40-day-mourning-after-khamenei-killed-in-us-israeli-attack?traffic_source=rss",
-      "published": "Sun, 01 Mar 2026 08:33:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -903,16 +913,6 @@
       "severity_level": "High"
     },
     {
-      "title": "‘People have lost all sense of shame’: three threats against federal politicians reported to police every day",
-      "description": "At least 21 charges have been laid against individuals since October, Australian federal police say, following 951 reports to June Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Nearly three violent or menacing threats against federal politicians are being reported to police daily, according to Australian federal police data, with rates almost doubling in two years. The soaring danger for elected officials and their staff reached new heights this week when Anthony Albanese was evacuated from The Lodge in Canberra over a bomb threat. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/01/violent-and-menacing-threats-to-australias-politicians-double-in-two-years-according-to-police-data-ntwnfb",
-      "published": "Sat, 28 Feb 2026 19:00:19 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year iron rule",
       "description": "Khamenei, the Islamic Republic's second supreme leader, has been killed. He had held power since 1989, guiding Iran through difficult times — and overseeing the violent suppression of dissent.",
       "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
@@ -1093,8 +1093,8 @@
       "severity_level": "High"
     },
     {
-      "title": "T20 World Cup: South Africa beat Zimbabwe; set up New Zealand semifinal",
-      "description": "South Africa win by five wickets despite Sikandar Raza's all-round heroics; will play the first semi in Kolkata.",
+      "title": "T20 World Cup: South Africa beat Zimbabwe, set up New Zealand semifinal",
+      "description": "South Africa win by five wickets despite Sikandar Raza's all-round heroics; will play the first semifinal in Kolkata.",
       "url": "https://www.aljazeera.com/sports/2026/3/1/t20-world-cup-south-africa-beat-zimbabwe-set-up-new-zealand-semifinal?traffic_source=rss",
       "published": "Sun, 01 Mar 2026 13:34:28 +0000",
       "source": "Al Jazeera",
@@ -1138,6 +1138,16 @@
       "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Feb 2026 21:46:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Has Trump misunderstood Iran’s IRGC and the Basij forces?",
+      "description": "US president called for IRGC members to lay down their arms or face 'certain death'. Here's how he misunderstands IRGC.",
+      "url": "https://www.aljazeera.com/features/2026/3/1/has-trump-misunderstood-irans-irgc-and-the-basij-forces?traffic_source=rss",
+      "published": "Sun, 01 Mar 2026 13:43:44 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1257,16 +1267,6 @@
       "description": "Ayatollah Ali Khamenei ruled Iran for decades, fuelled by paranoia, absolute power and a belief in his own divine destiny.",
       "url": "https://news.sky.com/story/paranoia-and-absolute-power-ali-khamenei-led-iran-with-supreme-self-confidence-13497943",
       "published": "Sun, 01 Mar 2026 00:01:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump launches war against Iran",
-      "description": "👉 Follow Trump100 on your podcast app 👈",
-      "url": "https://news.sky.com/story/trump-launches-war-against-iran-13513310",
-      "published": "Sat, 28 Feb 2026 13:53:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
@@ -1503,6 +1503,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Thousands stranded as Iranian strikes force airports to close including Dubai and Doha",
+      "description": "Travellers face continued disruption after joint US-Israeli strikes against Iran sparked a retaliatory barrage of missiles across the Middle East.",
+      "url": "https://news.sky.com/story/thousands-stranded-as-iranian-strikes-force-airports-to-close-including-dubai-and-doha-13513797",
+      "published": "Sun, 01 Mar 2026 10:48:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Where has been hit? Iran retaliates across Middle East after US-Israel strikes",
       "description": "Multiple locations in Iran have been targeted by joint US-Israel strikes, and Tehran has launched retaliatory missiles across the region.",
       "url": "https://news.sky.com/story/where-has-been-hit-iran-retaliates-across-middle-east-after-us-israel-strikes-13513268",
@@ -1643,16 +1653,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-01T14:07:45.028516Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Belgium seizes suspected Russian shadow fleet tanker",
       "description": "Belgium's Defense Ministry said its forces boarded an oil tanker believed to be part of Russia's illicit shadow fleet on Sunday. The ship, reportedly sailing under false flag, has been diverted to a Belgian port.",
       "url": "https://www.dw.com/en/belgium-seizes-suspected-russian-shadow-fleet-tanker/a-76174050?maca=en-rss-en-all-1573-xml-mrss",
@@ -1678,16 +1678,6 @@
       "url": "https://www.foxnews.com/us/high-school-basketball-coach-charged-raping-foster-daughter-serving-victim-tequila-shots-report",
       "published": "Fri, 27 Feb 2026 12:55:37 -0500",
       "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US positions F-22 stealth fighters in Israel, puts 'almost any target in Iran at risk'",
-      "description": "Eleven U.S. F-22 Raptor stealth fighters have reportedly been deployed to Israel's Ovda Air Base, marking America's first operational combat aircraft deployment.",
-      "url": "https://www.foxnews.com/world/us-positions-f-22-stealth-fighters-israel-puts-almost-any-target-iran-risk",
-      "published": "Fri, 27 Feb 2026 14:55:57 -0500",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
