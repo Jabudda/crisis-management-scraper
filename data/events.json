@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T11:17:49.341685Z",
-  "event_count": 222,
+  "last_updated": "2026-03-02T11:43:00.140695Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -30,16 +30,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 38,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "More than 100 killed in strike on girls' school, Iran says",
-      "description": "Iran said a girls' school in the southern town of Minab was hit by strikes on Saturday, killing more than 100, while Israel and the United States said they were not aware of any attack. Humanitarian groups are investigating amid airspace and access restrictions.",
-      "url": "https://www.france24.com/en/middle-east/20260302-iran-school-strike-claims-over-100-dead",
-      "published": "Mon, 02 Mar 2026 00:08:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -116,7 +106,7 @@
       "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
       "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
       "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Mar 2026 23:17:32 GMT",
+      "published": "Mon, 02 Mar 2026 11:24:48 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 32,
@@ -218,6 +208,16 @@
       "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Mar 2026 15:32:26 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran death toll reaches 555 as US, Israel escalate attacks",
+      "description": "Civilian deaths are growing as more attacks are reported in the capital and other parts of the country.",
+      "url": "https://www.aljazeera.com/news/2026/3/2/iran-death-toll-reaches-555-as-us-israel-escalate-attacks?traffic_source=rss",
+      "published": "Mon, 02 Mar 2026 11:17:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -333,16 +333,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: French FM Barrot calls for ‘Lebanon to be spared from this regional escalation’",
-      "description": "French Foreign Minister Jean-Noël Barrot on Monday called for \"Lebanon to be spared from this regional escalation\" at a press conference on the Middle East conflict in the wake of US and Israeli strikes on Iran last weekend. Earlier today, the Israeli military began striking Iran‑backed militant group Hezbollah across Lebanon, leading to mass evacuations. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah",
-      "published": "Mon, 02 Mar 2026 05:50:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Key military sites targeted inside Iran as part of coordinated US-Israeli strikes",
       "description": "The U.S. and Israel targeted military and nuclear sites in airstrikes. Israeli strikes also killed more than 40 Iranian leaders, including Supreme Leader Ayatollah Ali Khamenei.",
       "url": "https://www.foxnews.com/world/key-military-sites-targeted-inside-iran-part-coordinated-us-israeli-strikes",
@@ -428,6 +418,16 @@
       "url": "https://www.dw.com/en/strait-of-hormuz-halts-after-us‑israel-attack-on-iran/a-72952336?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 1 Mar 2026 09:05:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Unlikely Iran will \"sign unconditional terms of surrender\" Trump wants",
+      "description": "The head of the UN's nuclear watchdog said on March 2nd his agency has \"no indication\" that any nuclear installations have been damaged or hit in Iran following US and Israeli strikes on the country. These nuclear bases have been a focus point for the past few months now. \"If the US wanted to act on the Iranian nuclear programme, it should have acted in 2001\", Sina Azodi, Director of the Middle East studies program at George Washington University, tells FRANCE 24.",
+      "url": "https://www.france24.com/en/unlikely-iran-will-sign-unconditional-terms-of-surrender-trump-wants",
+      "published": "Mon, 02 Mar 2026 11:25:34 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -527,6 +527,16 @@
       "description": "The death of Iran's Supreme Leader Ayatollah Khamenei sets in motion a formal succession process that could have significant implications for the country's political stability, its sanctions and already strained economy. State television reported that President Massoud Pezeshkian and two other top officials would lead Iran in the transitional period, including the head of Iran's judiciary, Gholamhossein Mohseni Ejei and a lawyer from the Guardian Council of the Constitution.",
       "url": "https://www.france24.com/en/who-will-lead-iran-following-the-death-of-ayatollah-ali-khamenei",
       "published": "Mon, 02 Mar 2026 10:44:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: Lebanon's govt bans Hezbollah's military activities, demands group hand over weapon",
+      "description": "Lebanese ⁠Prime ​Minister ​Nawaf Salam on Monday said Lebanon will ban ​Hezbollah's ‌military ⁠activities ‌after Israel said it ⁠struck Hezbollah-linked sites in ​response ‌to the group's missile and ‌drone attacks ​following the killing of Iran's ​Supreme ​Leader Ali ​Khamenei. The news came after French Foreign Minister Jean-Noël Barrot called for \"Lebanon to be spared from this regional escalation\" at a press conference on the Middle East conflict. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah",
+      "published": "Mon, 02 Mar 2026 05:50:19 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 18,
@@ -638,6 +648,16 @@
       "url": "https://news.sky.com/story/ayatollah-khamenei-killed-what-next-for-the-middle-east-qa-with-richard-engel-13514038",
       "published": "Sun, 01 Mar 2026 21:18:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Macron to update France’s nuclear deterrence doctrine, watched by European allies",
+      "description": "Allies are watching as President Emmanuel Macron prepares to update the country’s nuclear doctrine and spell out how French nuclear weapons fit into Europe’s security",
+      "url": "https://abcnews.com/International/wireStory/macron-update-frances-nuclear-deterrence-doctrine-speech-closely-130670132",
+      "published": "Mon, 02 Mar 2026 06:19:42 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -953,16 +973,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war: US military aircraft crash in Kuwait",
-      "description": "Kuwait's defense ministry says the crews are safe. Meanwhile, the US has urged people to stay away from its embassy in Kuwait as smoke was seen rising from the vicinity. Follow our live updates.",
-      "url": "https://www.dw.com/en/iran-war-us-military-aircraft-crash-in-kuwait/live-76179461?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 2 Mar 2026 08:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran's supreme leader dead at 86: Who was Ali Khamenei?",
       "description": "Ayatollah Ali Khamenei, Iran's supreme leader since 1989, has been killed by an Israeli airstrike at the age of 86. During his rule, he fought hard to prevent the modernization of the Islamic Republic.",
       "url": "https://www.dw.com/en/iran-s-supreme-leader-dead-at-86-who-was-ali-khamenei/a-76169184?maca=en-rss-en-all-1573-xml-mrss",
@@ -1218,6 +1228,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/mar/02/angus-taylor-islamic-state-syria-comments-ntwnfb",
       "published": "Mon, 02 Mar 2026 05:11:03 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US confirms fighter jets shot down by 'friendly fire' in Kuwait — Israel says it has begun a new 'broad strike' in the 'heart of Tehran.' Follow DW.",
+      "description": "The US military says Kuwait's air defenses mistakenly shot down the F-15 jets. Meanwhile, Israel says it has launched a new \"broad strike\" on Tehran. Follow our live updates.",
+      "url": "https://www.dw.com/en/us-confirms-fighter-jets-shot-down-by-friendly-fire-in-kuwait-israel-says-it-has-begun-a-new-broad-strike-in-the-heart-of-tehran-follow-dw/live-76179461?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 2 Mar 2026 11:26:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1593,16 +1613,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Netanyahu vows increasing strikes on Tehran",
-      "description": "Israel’s prime minister says strikes on Tehran will increase in the coming days, with US support.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-vows-increasing-strikes-on-tehran?traffic_source=rss",
-      "published": "Mon, 02 Mar 2026 01:30:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise",
       "description": "Critics claim the operations are geared at social media, but police say they have enabled real arrests Police officers from Bangkok’s metropolitan bureau had less than 24 hours to prepare for their latest undercover operation. They would be starring as performers of a lion dance at a temple fair held for the lunar new year. Their mission: track down and arrest a suspected thief who had a history of evading officers. “The dance was spontaneous. We just did what we did,” said the police captain Lertvarit Lertvorapreecha, adding that nobody had time to practise. In his haste, he accidentally picked up his colleague’s male mask, which he wore with a red silk dress, trousers and tactical shoes. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise",
@@ -1748,6 +1758,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-02T11:42:38.865354Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -2107,16 +2127,6 @@
       "description": "Many Algerians mark Ramadan with prayer and shared meals, but rising prices make the holiday table hard to afford",
       "url": "https://abcnews.com/International/wireStory/algerians-struggle-afford-ramadan-feasts-prices-rise-despite-130645142",
       "published": "Sun, 01 Mar 2026 01:13:39 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mexican authorities hand over body of 'El Mencho' to his family",
-      "description": "Mexican prosecutors say they have returned the body of drug lord Nemesio Oseguera Cervantes, known as El Mencho, to his family",
-      "url": "https://abcnews.com/International/wireStory/mexican-authorities-hand-body-el-mencho-family-130633371",
-      "published": "Sat, 28 Feb 2026 19:06:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
