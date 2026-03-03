@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-03-03T13:28:55.207449Z",
-  "event_count": 224,
+  "last_updated": "2026-03-03T13:54:13.266610Z",
+  "event_count": 223,
   "events": [
-    {
-      "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
-      "description": "The UN on Thursday condemned the latest attacks against civilians in Ukraine by Russian forces, reiterating that they always constitute a violation of international law “and must stop immediately.”",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1167048",
-      "published": "Thu, 26 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 50,
-      "severity_level": "Critical"
-    },
     {
       "title": "Texas college student identified among victims in Austin bar shooting probed as possible terror attack",
       "description": "Texas Tech student Ryder Harrington and 21-year-old Savitha Shan identified as victims in Austin bar shooting that killed 2, injured 14. FBI investigating potential terrorism act.",
@@ -38,6 +28,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/02/new-caledonia-shark-attack-culling",
       "published": "Mon, 02 Mar 2026 04:20:27 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran crisis: Schoolgirls killed, thousands displaced and aid compromised",
+      "description": "On the fourth day of Israeli and United States airstrikes against Iran and amid growing violence and instability in the Middle East, the UN urgently called for protection of civilians and warned of growing displacement and humanitarian needs.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167071",
+      "published": "Tue, 03 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 36,
       "severity_level": "Critical"
@@ -153,6 +153,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Questions over Minab girls’ school strike as Israel, US deny involvement",
+      "description": "Al Jazeera investigation raises questions over deadliest single attack of war that killed 165 schoolgirls and staff.",
+      "url": "https://www.aljazeera.com/news/2026/3/3/questions-over-minab-girls-school-strike-as-israel-us-deny-involvement?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 13:20:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Lebanon sucked deeper into war as Hezbollah, Israel trade blows",
       "description": "Lebanon was pulled deeper into the war in the Middle ​East on Tuesday as the Iran-backed Lebanese group Hezbollah launched missiles at Israel for a second consecutive day and Israel sent troops into the south and carried out waves of air strikes. Israel's neighbour to the north and the theatre of numerous conflicts between Israel and Hezbollah, Lebanon had avoided spillover from the US-Israeli ​attack on Iran ‌until Monday, when Hezbollah opened fire with drones and missiles.",
       "url": "https://www.france24.com/en/video/20260303-lebanon-sucked-deeper-into-war-as-hezbollah-israel-trade-blows",
@@ -174,7 +184,7 @@
     },
     {
       "title": "Is it really worth getting a heat pump if you live in a cold country?",
-      "description": "Worldwide, people are increasingly turning to heat pumps to warm their home. They save money, and they're good for the environment. In Northern Europe, they've long proved their worth in colder climates.",
+      "description": "Worldwide, people are increasingly turning to heat pumps to warm their home. The devices save money, and they're good for the environment. In Northern Europe, they've long proved their worth in colder climates.",
       "url": "https://www.dw.com/en/is-it-really-worth-getting-a-heat-pump-if-you-live-in-a-cold-country/a-76186730?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 3 Mar 2026 12:30:00 GMT",
       "source": "Deutsche Welle",
@@ -230,16 +240,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran holds mass funeral for girls, staff killed in US-Israel school attack",
-      "description": "Thousands gather in Minab for a mass funeral, chanting against the US and Israel after the school bombing.",
-      "url": "https://www.aljazeera.com/news/2026/3/3/iran-holds-mass-funeral-for-girls-staff-killed-in-us-israel-school-attack?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 08:54:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -553,10 +553,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Pakistan says it killed 67 Afghan security force members in fifth day of fighting",
-      "description": "Pakistan's information minister says Afghan ground forces have attacked Pakistani military positions at 16 locations along the southwestern border and fired on multiple points in the northwest",
-      "url": "https://abcnews.com/International/wireStory/pakistan-killed-67-afghan-security-force-members-day-130706585",
-      "published": "Tue, 03 Mar 2026 07:26:39 -0500",
+      "title": "Iran war casts a pall over UK economic update",
+      "description": "Britain’s Treasury chief Rachel Reeves has sought to present a rosy picture of the state of the U.K. economy, even as oil and gas prices soared in the wake of the fast-evolving Iran war that has cast a pall over the global economic outlook",
+      "url": "https://abcnews.com/International/wireStory/iran-war-casts-pall-uk-economic-update-130706278",
+      "published": "Tue, 03 Mar 2026 08:39:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -813,6 +813,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Pakistan says it killed 67 Afghan security force members in fifth day of fighting",
+      "description": "Pakistan says that Afghan forces have attacked Pakistani military positions along the border, triggering intense clashes that left 67 Afghan troops and one Pakistani soldier dead",
+      "url": "https://abcnews.com/International/wireStory/pakistan-killed-67-afghan-security-force-members-day-130706585",
+      "published": "Tue, 03 Mar 2026 08:38:38 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "‘The trauma will stay with me for life,’ says survivor of sexual violence in war-torn Ukraine",
       "description": "One evening in war-ravaged southern Ukraine, a group of armed men entered Maryna’s home. She had nowhere to hide.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167047",
@@ -894,7 +904,7 @@
     },
     {
       "title": "India news: Flight cancellations continue as airlines resume limited Middle East operations",
-      "description": "A total of 80 international flights are cancelled at the Delhi airport on Tuesday so far. Some Middle East flight operations have begun. Follow DW for the latest.",
+      "description": "A total of 80 international flights are canceled at the Delhi airport on Tuesday so far. Some Middle East flight operations have begun. Follow DW for the latest.",
       "url": "https://www.dw.com/en/india-news-flight-cancellations-continue-as-airlines-resume-limited-middle-east-operations/live-76192161?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 3 Mar 2026 06:38:00 GMT",
       "source": "Deutsche Welle",
@@ -1028,6 +1038,16 @@
       "url": "https://www.dw.com/de/iran-war-much-of-gulf-israel-halts-oil-gas-production/live-76179461?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 2 Mar 2026 11:44:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump to meet Germany's Merz for talks eclipsed by Middle East war",
+      "description": "US President Donald Trump will meet Germany's Friedrich Merz on Tuesday at the White House for his first visit with a foreign leader since joining Israel in strikes on Iran that have dragged the Middle East into war.",
+      "url": "https://www.france24.com/en/americas/20260303-trump-to-meet-germany-s-merz-for-talks-eclipsed-by-middle-east-war",
+      "published": "Tue, 03 Mar 2026 13:42:33 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1173,16 +1193,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israeli strikes in Beirut as Hezbollah launches drones at Israel",
-      "description": "Clouds of smoke rose over Beirut’s southern suburbs as Israel escalated its bombardment of the Lebanese capital.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/israeli-strikes-in-beirut-as-hezbollah-launches-drones-at-israel?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 09:03:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Potts Point shooting: man shot dead by NSW police in Sydney after allegedly assaulting two women",
       "description": "New South Wales police allege man entered inner Sydney apartment complex on Tuesday morning Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man has been shot dead by police in Sydney’s Potts Point after allegedly entering an apartment complex and assaulting two women. New South Wales police said officers from Kings Cross command were called to a unit block on St Neot Avenue in Potts Point at about 10.50am on Tuesday, after reports an armed man had allegedly entered the complex and assaulted two women. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/03/man-shot-police-potts-point-sydney-assault-women-ntwnfb",
@@ -1213,16 +1223,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel to reopen Gaza aid crossing to allow 'gradual' entry of humanitarian aid",
-      "description": "Israel said it would reopen the Kerem Shalom crossing on Tuesday for the gradual entry of humanitarian aid into Gaza, days after closing it over security concerns linked to strikes on Iran and ensuing regional escalation involving the US and Lebanon.",
-      "url": "https://www.france24.com/en/middle-east/20260303-israel-says-it-will-reopen-gaza-aid-crossing-to-allow-gradual-entry-of-humanitarian-aid",
-      "published": "Tue, 03 Mar 2026 07:49:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "No one in Lebanon wants a new war but the truth is the previous one never stopped",
       "description": "As far as the people of Lebanon are concerned, this is a war that nobody wants - even members of the Iran-backed militia, Hezbollah.",
       "url": "https://news.sky.com/story/no-one-in-lebanon-wants-a-new-war-but-the-truth-is-the-previous-one-against-hezbollah-never-stopped-13514383",
@@ -1246,7 +1246,7 @@
       "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
       "description": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz.",
       "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Mar 2026 11:52:54 GMT",
+      "published": "Tue, 03 Mar 2026 13:52:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1513,10 +1513,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war casts a pall over UK economic update",
-      "description": "With oil prices soaring and stocks tanking, the fast-evolving Iran war has cast a pall over the economic forecasts that British Treasury chief Rachel Reeves is set to unveil later Tuesday",
-      "url": "https://abcnews.com/International/wireStory/iran-war-casts-pall-uk-economic-update-130706278",
-      "published": "Tue, 03 Mar 2026 07:34:39 -0500",
+      "title": "Tens of thousands stranded in the Middle East as Iran war complicates routes home",
+      "description": "Tens of thousands of people are stranded across the Middle East as the Iran war spreads throughout the region",
+      "url": "https://abcnews.com/International/wireStory/tens-thousands-people-stranded-middle-east-iran-war-130709038",
+      "published": "Tue, 03 Mar 2026 08:33:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1527,16 +1527,6 @@
       "description": "Europe is gradually being pulled into the U.S.-Israeli war on Iran, even as it avoids direct combat",
       "url": "https://abcnews.com/International/wireStory/europe-defends-military-bases-struggles-evacuate-citizens-drawn-130678168",
       "published": "Mon, 02 Mar 2026 10:16:02 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russia-Ukraine talks planned for Abu Dhabi this week may change venue, Zelenskyy says",
-      "description": "Ukrainian President Volodymyr Zelenskyy says U.S.-brokered talks between Russia and Ukraine expected later this week may take place in Switzerland or Turkey if a planned meeting in Abu Dhabi is not possible due to the war in the Middle East",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-talks-planned-abu-dhabi-week-change-130672908",
-      "published": "Mon, 02 Mar 2026 08:39:03 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1643,11 +1633,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "A rap star might just beat a former PM - what this says about Nepal's Gen Z election",
-      "description": "Many hope the vote could bring change after protests last year, and shatter decades of political paralysis.",
-      "url": "https://www.bbc.com/news/articles/c8r137lkj5zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Mar 2026 06:34:28 GMT",
-      "source": "BBC News",
+      "title": "‘US president has the authority to act for imminent threats against the US’",
+      "description": "‘US president has the authority to act for imminent threats against the US’",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/3/us-president-has-the-authority-to-act-for-imminent-threats-against-the?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 13:36:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1773,16 +1763,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-03T13:28:32.320786Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Fears grow for ordinary Afghans after further clashes with Pakistan",
       "description": "Reports on Friday that major cities in Afghanistan have been bombed by the Pakistan military in a new escalation between the two countries have raised fears for civilians already struggling under the harsh rule of the de facto Taliban authorities.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167049",
@@ -1830,6 +1810,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Why Europe's leaders have struggled to speak as one on Iran",
+      "description": "European nations say they want to work better together but are finding it hard to do so",
+      "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Mar 2026 11:22:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
