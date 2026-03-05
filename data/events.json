@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T15:21:27.047920Z",
+  "last_updated": "2026-03-05T15:48:49.863193Z",
   "event_count": 225,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "War in the Middle East: Iran under heavy attack",
+      "description": "The United States and Israel have launched nationwide strikes on Iran, targeting military sites as well as civilian infrastructure. The war has killed at least 1,230 people in Iran, more than 70 in Lebanon and around a dozen in Israel, according to officials.",
+      "url": "https://www.france24.com/en/video/20260305-war-in-the-middle-east-iran-under-heavy-attack",
+      "published": "Thu, 05 Mar 2026 15:29:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -403,6 +413,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "‘Panic and fear’: Iran’s political prisoners face increasing danger amid US-Israel war",
+      "description": "Rights groups warned this week that prisoners in Iran – thousands of whom were detained during recent anti-government protests – are being refused shelter during US and Israeli strikes and face increased risk of forced disappearance and execution due to a nationwide internet blackout.",
+      "url": "https://www.france24.com/en/middle-east/20260305-panic-and-fear-iran-political-prisoners-face-increasing-danger-amid-us-israel-war",
+      "published": "Thu, 05 Mar 2026 15:44:38 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "MIDDLE EAST LIVE: Fourth day of escalating conflict between US, Israel and Iran",
       "description": "Violent escalation in the Middle East has entered a fourth day, with US and Israeli military strikes against Iran and ensuing Iranian counter-strikes hitting targets across the region, disrupting airspace and transport routes. The situation has caused civilian casualties and raised fears of broader instability, including in Lebanon and the Gulf. We will bring you real-time reporting and updates from across the United Nations system. UN News app users can follow the coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167070",
@@ -643,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran denies its drones hit airport in Azerbaijan’s exclave as war widens",
-      "description": "Azeri president seeks Iran's apology for the drone attack in Nakhchivan, but Tehran denies role in the incident.",
-      "url": "https://www.aljazeera.com/news/2026/3/5/iranian-drones-hit-airport-in-azerbaijans-exclave-as-us-israel-war-widens?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 10:22:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Morning news brief",
       "description": "Middle East conflict enters Day 6, clerics convene to replace Iran's supreme leader, China to send special envoy to help mediate the US-Israel-Iran war.",
       "url": "https://www.npr.org/2026/03/05/nx-s1-5732277/morning-news-brief",
@@ -677,16 +687,6 @@
       "description": "As the US-Israeli war on Iran spirals, US Senate Republicans rejected a war powers measure demanding congressional approval before further attacks. A twin House bill faces the same long odds in the Republican-controlled Congress, and Trump would almost certainly veto it anyway.",
       "url": "https://www.france24.com/en/video/20260305-us-senate-rejects-war-powers-bill-to-halt-attacks-against-iran",
       "published": "Thu, 05 Mar 2026 14:47:31 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "European countries to deploy military assets to Cyprus after drone attack on UK base",
-      "description": "Italy, France, Spain and the Netherlands will send naval assets to Cyprus after an Iranian-made drone struck a British base there, Italy's defence minister said Thursday. France also said it would allow US aircraft to access some of its bases in the Middle East during the conflict with Iran.",
-      "url": "https://www.france24.com/en/europe/20260305-european-countries-deploy-military-assets-cyprus-after-iranian-attack-uk-base",
-      "published": "Thu, 05 Mar 2026 11:21:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
@@ -946,7 +946,7 @@
       "title": "M 4.9 - 2026 Red River Parish, Louisiana Earthquake",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-03-05 11:30:08 UTC 2026-03-05 11:30:08 UTC at epicenter Location 32.068°N 93.445°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s27e",
-      "published": "2026-03-05T15:17:32.727Z",
+      "published": "2026-03-05T15:47:54.219Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 11,
@@ -1033,16 +1033,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about the 'two sessions',  China's biggest political meeting",
-      "description": "The carefully choreographed annual meetings signal the priorities of the world's second-largest economy.",
-      "url": "https://www.bbc.com/news/articles/c2lrxyke7kro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 10:47:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Gaza flotilla activists confronted by Tunisian police",
       "description": "Global Sumud Flotilla activists say they were beaten by Tunisian police after being blocked from Sidi Bou Said port.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/gaza-flotilla-activists-confronted-by-tunisian-police?traffic_source=rss",
@@ -1083,20 +1073,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India news: India bat first and start strong against England",
-      "description": "The T20 World Cup semifinal is underway in Mumbai and the hosts and favorites are scoring heavily early. Meanwhile, Finland's Alexander Stubb is in Delhi and polls have closed in neighboring Nepal. DW has more.",
-      "url": "https://www.dw.com/en/india-news-india-bat-first-and-start-strong-against-england/live-76222115?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Mar 2026 13:57:00 GMT",
+      "title": "India news: India set England towering T20 target of 253",
+      "description": "The T20 World Cup semifinal is underway in Mumbai and the hosts have hit England for an imposing 253 runs. Meanwhile, Finland's Alexander Stubb is in Delhi and polls have closed in neighboring Nepal. DW has more.",
+      "url": "https://www.dw.com/en/india-news-india-set-england-towering-t20-target-of-253/live-76222115?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Mar 2026 15:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Forbidden Stories reports on FindFace in Iran: Facial recognition 'an issue' for Western democracies",
-      "description": "François Picard welcomes Alexander Abdelilah, an investigative journalist for Forbidden Stories who has just published a report on how the Iranian regime secretly acquired FindFace in 2019, a powerful facial recognition system developed by Russian company NTechLab. Abdelilah explores how this system operates both technically and politically. FindFace allows authorities to run recorded footage from CCTV cameras, street recordings, or even social media videos through an algorithm capable of matching a face in a crowd and tracing individuals who participate in protests.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260305-forbidden-stories-reports-on-findface-in-iran-facial-recognition-an-issue-for-western-democracies",
-      "published": "Thu, 05 Mar 2026 11:53:28 GMT",
+      "title": "Ghana to grow its local therapeutic cannabis industry",
+      "description": "The Ghanaian government is moving ahead with plans to grow its local therapeutic cannabis industry. Authorities are set to begin issuing licenses for the cultivation of cannabis strictly for medicinal and industrial purposes. Under legislation first passed in 2020, Ghana authorised the regulated production of cannabis containing less than 0.3 percent THC for therapeutic use. It was the first country in West Africa to take that step. FRANCE 24's Justice Baidoo reports.",
+      "url": "https://www.france24.com/en/video/20260305-ghana-to-grow-its-local-therapeutic-cannabis-industry",
+      "published": "Thu, 05 Mar 2026 15:28:21 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1193,20 +1183,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hezbollah’s risky return to the battlefield",
-      "description": "The US-Israel attack on Iran and mounting pressure inside Lebanon have pushed the group into a strategic gamble.",
-      "url": "https://www.aljazeera.com/opinions/2026/3/5/hezbollahs-risky-return-to-the-battlefield?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 11:10:10 +0000",
+      "title": "‘Our children were sold off’: The South Africans sent to fight Russia’s war",
+      "description": "Men 'lured' into fighting in the Ukraine war say Africans were subjected to worse treatment on the front lines.",
+      "url": "https://www.aljazeera.com/features/2026/3/5/our-children-were-sold-off-the-south-africans-sent-to-fight-russias-war?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 15:13:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Iran drone attack at Azerbaijan airport",
-      "description": "Eyewitness videos from an airport in Azerbaijan captured the moment of a suspected Iranian drone attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/iran-drone-attack-at-azerbaijan-airport?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 10:41:06 +0000",
+      "title": "Hezbollah’s risky return to the battlefield",
+      "description": "The US-Israel attack on Iran and mounting pressure inside Lebanon have pushed the group into a strategic gamble.",
+      "url": "https://www.aljazeera.com/opinions/2026/3/5/hezbollahs-risky-return-to-the-battlefield?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 11:10:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1423,16 +1413,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cuba hit by massive power outage amid US oil pressure",
-      "description": "A massive blackout left two-thirds of Cuba, including its capital Havana, without electricity.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/cuba-hit-by-massive-power-outage-amid-us-oil-pressure?traffic_source=rss",
-      "published": "Thu, 05 Mar 2026 10:14:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
       "description": "The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environment Follow the yellow footprints along Brazil’s newest long-distance trail, and they will take you through lush green forests and sandy shrubland, past sweeping vistas and bizarre rock formations, into grottos and rural communities. Spanning 186km (115 miles) of paths once used by 19th-century merchants, the Caminhos da Ibiapaba is the first waymarked long-distance footpath in Brazil’s north-east region, adding to a growing network of hiking trails in the country. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
@@ -1478,6 +1458,16 @@
       "url": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 12:51:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran women’s football team salute, sing national anthem in Asian Cup match",
+      "description": "Players chose to sing the anthem before their game against Australia, in contrast to their silence during the previous tie.",
+      "url": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 14:56:43 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1588,6 +1578,16 @@
       "url": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 10:25:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Videos show destruction after US and Israeli strikes on Iran",
+      "description": "New videos show destruction across Iran after US and Israeli air strikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss",
+      "published": "Thu, 05 Mar 2026 15:14:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1743,16 +1743,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "China sets lowest economic growth target since 1991",
-      "description": "China's annual parliamentary session kicks off with a growth downgrade as leaders target technology dominance in the manufacturing field. We take a closer look. Also in this edition: South Korean markets bounce back from a huge selloff, and a US trade court orders the Trump administration to issue tariff refunds.",
-      "url": "https://www.france24.com/en/tv-shows/business/20260305-china-sets-lowest-economic-growth-target-since-1991",
-      "published": "Thu, 05 Mar 2026 11:31:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Stealth bombers landing at UK bases 'in days' after Trump pressures Starmer: report",
       "description": "B-2 stealth bombers deployment to U.K. military bases signals escalation in U.S.-Israel operations against Iran. RAF Fairford and Diego Garcia prepared for strategic bombers.",
       "url": "https://www.foxnews.com/world/stealth-bombers-landing-uk-bases-in-days-trump-pressures-starmer-report",
@@ -1773,10 +1763,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "China sets lowest economic growth target since 1991",
-      "description": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 03:10:52 GMT",
+      "title": "Britney Spears arrested in California",
+      "description": "Court documents show she was arrested in Ventura County on Wednesday night.",
+      "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 15:46:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1797,6 +1787,16 @@
       "description": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase.",
       "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 02:55:34 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China sets lowest economic growth target since 1991",
+      "description": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
+      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 03:10:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
