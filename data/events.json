@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T20:10:57.052696Z",
+  "last_updated": "2026-03-06T20:45:17.800016Z",
   "event_count": 225,
   "events": [
     {
@@ -98,16 +98,6 @@
       "url": "https://www.theguardian.com/media/2026/mar/06/paul-keating-nine-2023-australia-china-war-prediction-red-alert",
       "published": "Fri, 06 Mar 2026 07:59:39 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Israel has 'freer hand in Lebanon' as US not involved",
-      "description": "Ongoing Israeli strikes in Lebanon are the heaviest since a 2024 ceasefire ended the last war between Israel and the Iran-backed Hezbollah, who fired rockets at Israel in the opening days of the latest conflict. Tens of thousands have fled Beirut’s suburbs and southern Lebanon after sweeping Israeli evacuation warnings. FRANCE 24's Noga Tarnopolsky tells us about Israel's goals in Lebanon, from Jerusalem.",
-      "url": "https://www.france24.com/en/israel-has-freer-hand-in-lebanon-as-us-not-involved",
-      "published": "Fri, 06 Mar 2026 14:34:46 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -383,6 +373,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Russian athletes booed as they march under their own flag at Winter Paralympics opening",
+      "description": "Some spectators booed Russia's athletes as they marched under their own flag in the opening ceremony of the Milan-Cortina Winter Paralympics Friday. The International Paralympic Committee in February lifted a long-running ban on Russian and Belarusian athletes competing under their own flags and anthems due to their role in the ongoing war in Ukraine.",
+      "url": "https://www.france24.com/en/sport/20260306-russian-athletes-booed-as-they-march-under-their-own-flag-at-winter-paralympics-opening",
+      "published": "Fri, 06 Mar 2026 20:09:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "FRANCE 24 speaks to French expatriate in Kuwait as Iran strikes US allies",
       "description": "Iran continues to launch attacks across the Gulf to US allies, retaliating against US strikes. Tehran has fired missiles and drones on March 6 into Kuwait, Saudia Arabia, Qatar and Bahrain - all countries that host US forces. As such many countries are trying to repatriate many of their nationals. FRANCE 24 spoke to a French expatriate based in Kuwait.",
       "url": "https://www.france24.com/en/france-24-speaks-to-french-expatriate-in-kuwait-as-iran-strikes-us-allies",
@@ -553,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Qatar warns Iran war could halt Gulf energy exports ‘within weeks’",
-      "description": "Global economies will be affected if the war on Iran continues for weeks, according to Qatar's energy minister.",
-      "url": "https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 14:29:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender'",
       "description": "Iran fired missiles toward Israel Friday, Israeli officials say, after Israel launched fresh strikes on Tehran and hit Beirut's southern suburbs overnight.",
       "url": "https://www.npr.org/2026/03/06/nx-s1-5738448/iran-us-israel-war",
@@ -608,6 +598,16 @@
       "url": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Mar 2026 00:05:46 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Messi criticised for applauding Trump amid US attacks on Iran",
+      "description": "Lionel Messi has been criticised for meeting US President Donald Trump and applauding his latest brief on the Iran war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/messi-criticised-for-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 19:56:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1083,7 +1083,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hundreds abducted by Islamic militants after military kills three Boko Haram officers",
+      "title": "Women and children among hundreds abducted by Islamic militants",
       "description": "More than 300 people, including women and children, have been abducted by Islamic militants who attacked a town in northeastern Nigeria, officials have said.",
       "url": "https://news.sky.com/story/more-than-300-people-abducted-by-islamic-militants-in-northeastern-nigeria-officials-say-13516231",
       "published": "Fri, 06 Mar 2026 18:21:00 +0000",
@@ -1168,6 +1168,16 @@
       "url": "https://www.bbc.com/news/articles/cx2gg22yepno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Mar 2026 18:18:11 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
+      "description": "“This is how the right defends the rights of Iranian women: by celebrating the murder of 160 girls.”",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/spanish-politician-slams-those-using-feminism-as-excuse-for-iran-war?traffic_source=rss",
+      "published": "Fri, 06 Mar 2026 20:02:44 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1303,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'We've taught toddlers to take cover': Living in Dubai as Iran attacks",
+      "description": "There are three types of people in Dubai right now: those off to play padel, those rushing to the Omani border, and those waiting for house prices to drop.",
+      "url": "https://news.sky.com/story/weve-taught-toddlers-to-take-cover-living-in-dubai-as-iran-attacks-13516244",
+      "published": "Fri, 06 Mar 2026 19:01:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Human rights court orders Peru to pay compensation for a 1997 forced sterilization death",
       "description": "The Inter-American Court of Human Rights is ordering Peru to pay compensation for a woman’s death tied to a forced sterilization program",
       "url": "https://abcnews.com/International/wireStory/human-rights-court-orders-peru-pay-compensation-1997-130830307",
@@ -1323,20 +1343,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Savannah Guthrie returns to 'Today' show studio for first time since mother went missing",
-      "description": "Savannah Guthrie makes return to 'Today' show studio to thank colleagues while her mother Nancy remains missing in suspected abduction case.",
-      "url": "https://www.foxnews.com/us/savannah-guthrie-returns-today-show-studio-first-time-since-mother-went-missing",
-      "published": "Thu, 05 Mar 2026 09:55:35 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US scrambles fighter jets to track 2 Russian warplanes flying near American airspace",
-      "description": "U.S. and Canadian forces scrambled fighter jets after NORAD detected Russian planes operating in the Alaskan and Canadian Air Defense Identification Zones.",
-      "url": "https://www.foxnews.com/us/us-scrambles-fighter-jets-russian-aircraft-detected-alaska-adiz",
-      "published": "Thu, 05 Mar 2026 08:02:05 -0500",
+      "title": "Tourist's bird-brained Vegas stunt with flamingo lands him behind bars on felony charges",
+      "description": "Canadian tourist allegedly steals flamingo from Las Vegas casino habitat, carries bird to hotel room in bizarre incident that injured the animal.",
+      "url": "https://www.foxnews.com/us/tourists-bird-brained-vegas-stunt-flamingo-lands-him-behind-bars-felony-charges",
+      "published": "Fri, 06 Mar 2026 15:09:34 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1853,16 +1863,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Elementary school in Tehran hit, Iran’s foreign ministry says",
-      "description": "Footage shared by Iran's Foreign Ministry spokesman purportedly shows destruction in Shahid Hamedani School in Tehran.",
-      "url": "https://www.aljazeera.com/news/2026/3/6/elementary-school-in-tehran-hit-irans-foreign-ministry-says?traffic_source=rss",
-      "published": "Fri, 06 Mar 2026 14:28:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2113,16 +2113,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "<a href=\"https://news.sky.com/story/the-most-striking-pictures-of-the-week-13516172\">The most striking pictures of the week</a>",
-      "description": "No description available.",
-      "url": "https://news.sky.com/story/the-most-striking-pictures-of-the-week-13516173",
-      "published": "Fri, 06 Mar 2026 15:01:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Indonesia to ban social media for children under 16, communication minister says",
       "description": "Indonesia will ban social media for children under 16, Communication and Digital Affairs Minister Meutya Hafid",
       "url": "https://abcnews.com/International/wireStory/indonesia-ban-social-media-children-16-communication-minister-130816693",
@@ -2158,6 +2148,16 @@
       "url": "https://abcnews.com/International/wireStory/sri-lanka-takes-control-iranian-vessel-off-coast-130815925",
       "published": "Fri, 06 Mar 2026 02:05:12 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fox News True Crime Newsletter: Nancy Guthrie's clues, Luigi Mangione's evidence, Idaho murders tarot cards",
+      "description": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
+      "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-clues-luigi-mangiones-evidence-idaho-murders-tarot-cards",
+      "published": "Fri, 06 Mar 2026 13:00:56 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
