@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T20:07:38.419526Z",
+  "last_updated": "2026-03-07T20:40:30.703093Z",
   "event_count": 225,
   "events": [
     {
@@ -316,8 +316,18 @@
       "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
       "description": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
       "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 19:09:19 GMT",
+      "published": "Sat, 07 Mar 2026 20:16:07 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+      "description": "Iran's judiciary chief contradicts earlier apology to Gulf, warns of ‘heavy attacks’ on areas ‘at disposal of enemy'.",
+      "url": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:18:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -460,6 +470,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia kills 10 in Ukraine strike including children with new missile",
+      "description": "President Zelenskyy calls for international response as Russian assault targets civilian and energy infrastructure.",
+      "url": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:13:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -823,16 +843,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Beirut’s southern suburbs in ruins after Israeli attack",
-      "description": "Israeli strikes have left parts of Beirut’s southern suburbs in ruins.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 11:05:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Do Americans support Trump's Iran war?",
       "description": "US strikes on Iran are driving up oil prices and inflation. Does Trump's MAGA base back this war?",
       "url": "https://www.dw.com/en/do-americans-support-trump-s-iran-war/a-76251116?maca=en-rss-en-all-1573-xml-mrss",
@@ -1093,16 +1103,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
-      "description": "New Zealand are targeting a first T20 World Cup title, which would deny India their third - and in front of home crowd.",
-      "url": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-kiwis-ready-to-break-hearts?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 11:08:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1128,6 +1128,16 @@
       "url": "https://www.dw.com/en/german-state-election-set-to-have-far-reaching-consequences/a-76188172?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Mar 2026 06:18:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nigerian soldiers 'kill 45 bandits' in gun battle",
+      "description": "Nigeria's military has killed 45 \"bandits\" after they allegedly tried to steal a herd of cattle, according to local officials.",
+      "url": "https://news.sky.com/story/nigerian-soldiers-kill-45-bandits-in-gun-battle-in-katsina-13516659",
+      "published": "Sat, 07 Mar 2026 17:41:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1578,16 +1588,6 @@
       "url": "https://www.dw.com/en/nepal-early-vote-returns-suggest-massive-political-shift/a-76255769?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 6 Mar 2026 22:17:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Inside bombed-out Beirut - where Hezbollah makes the rules",
-      "description": "Beirut's southern suburbs have been subjected to waves of airstrikes by the Israeli military, but it has been virtually impossible to document the damage they cause.",
-      "url": "https://news.sky.com/story/inside-bombed-out-beirut-where-hezbollah-makes-the-rules-13516296",
-      "published": "Fri, 06 Mar 2026 21:26:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
