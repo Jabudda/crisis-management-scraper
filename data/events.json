@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T21:38:12.005080Z",
+  "last_updated": "2026-03-07T22:06:51.619185Z",
   "event_count": 226,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 48,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Lebanon ‘dragged back into turmoil’, UN envoy warns",
+      "description": "Lebanon has been “dragged back into a state of turmoil and violence”, the UN’s top envoy in the country warned on Saturday, after the latest round of regional strikes triggered a fast‑escalating crisis along the Blue Line. What had been fragile but real momentum, she said, has now collapsed in a matter of days.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167096",
+      "published": "Sat, 07 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 47,
       "severity_level": "Critical"
     },
     {
@@ -110,26 +120,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran crisis: Nuclear watchdog urges restraint amid ongoing strikes",
-      "description": "As the violent escalation in the Middle East entered a third day on Monday sparked by the bombing of Iran by Israel and the United States, the head of the UN atomic energy agency urged a return to diplomacy, given the “increasing risk to nuclear safety” in the region.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167064",
-      "published": "Mon, 02 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Lebanon: Israeli army tells residents Tyre to evacuate, more and more people displaced",
-      "description": "Over the past week, Israel has issued evacuation warnings before launching heavy strikes on southern Lebanon and the southern suburbs of Beirut. The IDF estimates that more than 300,000 Lebanese civilians have so far evacuated their villages in southern Lebanon. UN Human Rights spokesperson Thameen Al-Kheetan provides further details on human rights violations since the start of the conflict.",
-      "url": "https://www.france24.com/en/lebanon-israeli-army-tells-residents-tyre-to-evacuate-more-and-more-people-displaced",
-      "published": "Sat, 07 Mar 2026 13:54:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -220,6 +210,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran fires at Gulf neighbours as president’s apology draws criticism at home",
+      "description": "Iran's president apologised on Saturday for attacks on \"neighbouring countries\" even as its missiles and drones continued to target US bases in Gulf Arab states and hardliners in Tehran asserted that the country's war strategy would not budge. Iran also traded blows with Israel, whose Prime Minister Benjamin Netanyahu pleged to pursue the war \"with all our force\" and to \"eradicate the Iranian regime\".",
+      "url": "https://www.france24.com/en/middle-east/20260307-iran-fires-at-gulf-neighbours-president-apology-draws-criticism-at-home-israel",
+      "published": "Sat, 07 Mar 2026 21:54:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -750,6 +750,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "How far will the Iran war spillover?",
+      "description": "As the war between Iran, Israel and the US enters week 2, concerns rise over a potential regional spillover.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 21:45:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -1723,6 +1733,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pope Leo picks new Vatican ambassador to US as Trump tensions mount over policies",
+      "description": "Italian Archbishop Gabriele Caccia, a veteran diplomat, has been named new Vatican ambassador to United States, replacing the retiring Cardinal Pierre.",
+      "url": "https://www.foxnews.com/world/pope-leo-picks-new-vatican-ambassador-us-trump-tensions-mount-over-policies",
+      "published": "Sat, 07 Mar 2026 16:58:40 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Iran’s ideological state: faith, fear and favors fuel its vast propaganda and patronage network",
       "description": "Iran expert reveals receiving Hitler's Mein Kampf as school prize, exposing the Islamic Republic's alleged indoctrination system using schools and mosques.",
       "url": "https://www.foxnews.com/world/irans-ideological-state-faith-fear-favors-fuel-its-vast-propaganda-patronage-network",
@@ -1756,7 +1776,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-07T21:37:45.321916Z",
+      "published": "2026-03-07T22:06:29.673101Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1773,31 +1793,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Stealth bombers landing at UK bases 'in days' after Trump pressures Starmer: report",
-      "description": "B-2 stealth bombers deployment to U.K. military bases signals escalation in U.S.-Israel operations against Iran. RAF Fairford and Diego Garcia prepared for strategic bombers.",
-      "url": "https://www.foxnews.com/world/stealth-bombers-landing-uk-bases-in-days-trump-pressures-starmer-report",
-      "published": "Wed, 04 Mar 2026 21:23:46 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
       "description": "Teens are infuriating locals by riding over golf courses and doing wheelies on the Harbour Bridge.",
       "url": "https://www.bbc.com/news/articles/cy8l1d221evo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Mar 2026 18:56:47 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
-      "description": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 12:24:56 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
