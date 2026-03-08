@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T22:07:21.321666Z",
+  "last_updated": "2026-03-08T22:41:15.629192Z",
   "event_count": 224,
   "events": [
     {
@@ -73,16 +73,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Two Israeli soldiers killed as attacks in Lebanon leave nearly 400 dead",
-      "description": "Two Israeli soldiers have been killed during the country's latest military offensive in Lebanon that has so far left nearly 400 dead.",
-      "url": "https://news.sky.com/story/two-israeli-soldiers-killed-as-latest-attacks-in-lebanon-leave-nearly-400-dead-13516918",
-      "published": "Sun, 08 Mar 2026 13:50:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 40,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Women’s rights are regressing worldwide, warns UN gender equality chief",
       "description": "As an increase in conflicts leads to a significant spike in gender-based violence, women across the world face a “justice gap” with discriminatory laws reported in most countries, according to a report from gender equality agency UN Women, released on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167081",
@@ -128,6 +118,16 @@
       "url": "https://www.france24.com/en/israel-strikes-lebanon-12-people-killed-in-three-separate-overnight-strikes",
       "published": "Sun, 08 Mar 2026 11:16:03 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "First Israeli soldiers killed in Lebanon offensive which has left nearly 400 dead",
+      "description": "Two Israeli soldiers have been killed during the country's latest military offensive in Lebanon that has so far left nearly 400 dead.",
+      "url": "https://news.sky.com/story/two-israeli-soldiers-killed-as-latest-attacks-in-lebanon-leave-nearly-400-dead-13516918",
+      "published": "Sun, 08 Mar 2026 13:50:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -463,16 +463,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Police swarm NYC street Sunday amid IED probe near Gracie Mansion",
-      "description": "Police activity on the Upper East Side follows confirmation that a protest-thrown device was an IED capable of causing serious injury or death.",
-      "url": "https://www.foxnews.com/us/police-swarm-nyc-street-sunday-amid-ied-probe-near-gracie-mansion",
-      "published": "Sun, 08 Mar 2026 16:40:54 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Rare, historic US documents traveling country on 'Freedom Plane' ahead of America's 250th anniversary",
       "description": "The National Archives has launched a nationwide tour transporting rare founding-era documents to cities across the United States ahead of America’s 250th anniversary.",
       "url": "https://www.foxnews.com/us/rare-historic-us-documents-traveling-country-freedom-plane-ahead-americas-250th-anniversary",
@@ -653,6 +643,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Police swarm NYC street amid probe into IED thrown near Gracie Mansion",
+      "description": "Two NYPD sources said the police activity is tied to the investigation into two devices thrown during dueling protests outside Gracie Mansion on Saturday.",
+      "url": "https://www.foxnews.com/us/police-swarm-nyc-street-amid-probe-into-ied-thrown-near-gracie-mansion",
+      "published": "Sun, 08 Mar 2026 16:40:54 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
       "description": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses.",
       "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
@@ -693,31 +693,21 @@
       "severity_level": "High"
     },
     {
+      "title": "Who is Mojtaba Khamenei, Iran’s new supreme leader amid war?",
+      "description": "Mojtaba Khamenei has succeeded his father, Ayatollah Ali Khamenei, who was assassinated in joint US-Israel attacks.",
+      "url": "https://www.aljazeera.com/features/2026/3/8/who-is-mojtaba-khamenei-a-contender-for-irans-leadership-amid-war?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 19:17:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump vows control over Iran leaders as US troop death toll rises to seven",
       "description": "Trump says any new supreme leader will 'not last long' without US approval; Pentagon confirms seventh US soldier killed.",
       "url": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 18:56:10 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "More than 500,000 displaced in Lebanon as Israel escalates attacks",
-      "description": "Lebanon's social affairs minister said 517,000 people had been registered as displaced during the conflict.",
-      "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 16:31:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Australia news live: Craig Foster ‘very worried’ about Iran women’s football team; military requests from Gulf nations should be ‘duly considered’, opposition says",
-      "description": "Former Socceroo and human rights activist expresses ‘grave’ concerns for Iran players. Follow the latest updates live Get our breaking news email , free app or daily news podcast Man charged with murder after alleged stabbing in Sydney’s inner west A man was charged with murder after an alleged stabbing in Sydney’s inner west on Sunday. I think it’s important to work through this calmly, to understand the intelligence and the briefings that the government has to get to this juncture … If you’re going to send Australian personnel to a conflict, that is one of the most important decisions any government would make. And I think it’s better that there’s bipartisan support, and that’s why you want to be constructive with the government … The reality is, we believe in regime change. This was a tyrant that was oppressing the people of Iran. And I think what’s important here is that the people of Iran are empowered and given back their country through whatever mechanism that they should determine Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-      "published": "Sun, 08 Mar 2026 21:46:28 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -848,6 +838,16 @@
       "url": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 17:42:30 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: ASX to fall as investors fret over oil supplies; Craig Foster ‘very worried’ about Iran women’s football team",
+      "description": "Follow the latest updates live Get our breaking news email , free app or daily news podcast Man charged with murder after alleged stabbing in Sydney’s inner west A man was charged with murder after an alleged stabbing in Sydney’s inner west on Sunday. I think it’s important to work through this calmly, to understand the intelligence and the briefings that the government has to get to this juncture … If you’re going to send Australian personnel to a conflict, that is one of the most important decisions any government would make. And I think it’s better that there’s bipartisan support, and that’s why you want to be constructive with the government … The reality is, we believe in regime change. This was a tyrant that was oppressing the people of Iran. And I think what’s important here is that the people of Iran are empowered and given back their country through whatever mechanism that they should determine Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "published": "Sun, 08 Mar 2026 22:20:52 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -1043,6 +1043,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Who’s in control in Iran and how will Gulf states react to attacks?",
+      "description": "An apology comes from Iran's president, yet missiles are still hitting neighbours.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 22:10:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1097,16 +1107,6 @@
       "description": "Army tells UN and aid workers to leave as forces close in on one of the last opposition strongholds.",
       "url": "https://www.aljazeera.com/news/2026/3/8/thousands-flee-akobo-after-south-sudan-army-issues-forced-evacuation-order?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 20:17:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran women’s football team sing anthem amid safety concerns during war",
-      "description": "Players sing, salute during anthem in last Asian Cup game as rights activists raise concerns over their return to Iran.",
-      "url": "https://www.aljazeera.com/sports/2026/3/8/iran-womens-football-team-sing-anthem-amid-safety-concerns-during-war?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 14:34:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
@@ -1263,7 +1263,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran names Khamenei’s son as new Supreme Leader after father’s killing",
+      "title": "Iran names Khamenei’s son as new supreme leader after father’s killing",
       "description": "Mojtaba Khamenei will now be charged with leading Islamic Republic through the biggest crisis in its 47-year history.",
       "url": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 21:21:28 +0000",
@@ -1287,16 +1287,6 @@
       "description": "The US-Israeli war on Iran is illegal and goes against the interests of the American people.",
       "url": "https://www.aljazeera.com/opinions/2026/3/8/we-the-american-people-have-had-enough-of-endless-wars?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 16:35:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "‘Gulf countries may question US capability to protect them’",
-      "description": "‘This war has not been thought through’",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 15:30:18 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1661,6 +1651,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "One ‘party state’: Guinea dissolves main opposition parties",
+      "description": "Decree strips parties of legal status and assets, as opposition leader calls on Guineans to resist.",
+      "url": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 21:45:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -2043,7 +2043,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "One Nation candidate contesting Sussan Ley’s seat likened Julia Gillard to ‘non-productive old cow’",
+      "title": "One Nation candidate contesting Sussan Ley’s seat made derogatory comment about Julia Gillard",
       "description": "Pauline Hanson says ‘get over it’ and fully backs David Farley, her party’s candidate in Farrer byelection Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Pauline Hanson’s candidate in the byelection for Sussan Ley’s seat likened former prime minister Julia Gillard to a “non-productive old cow” that should be destroyed before suggesting the comments were tongue-in-cheek. Agriculture businessman David Farley was picked on Saturday as the One Nation candidate for the 9 May byelection for Farrer, which Ley held for 25 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/08/one-nation-candidate-contesting-sussan-leys-seat-likened-julia-gillard-to-non-productive-old-cow-ntwnfb",
       "published": "Sun, 08 Mar 2026 05:30:07 GMT",
