@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-03-08T10:42:15.289711Z",
+  "last_updated": "2026-03-08T11:07:11.859696Z",
   "event_count": 226,
   "events": [
-    {
-      "title": "Middle East war: Remains of first US soldiers return home",
-      "description": "In Iran, there are reports that the Assembly of Experts has chosen the country’s next Supreme Leader, though the name has not yet been revealed. Ayatollah Ali Khamenei was killed in US-Israeli strikes eight days ago. Since then, there has been speculation over who will replace him and how the process would unfold. The regime has only handled a succession once before. But unlike the managed transition after Ayatollah Ruhollah Khomeini’s death, this one comes during full-scale war, an economic crisis, water shortages, and after anti-government protests and a harsh crackdown. FRANCE24 International Affairs editor Oliver Farry shares further insights.",
-      "url": "https://www.france24.com/en/middle-east-war-remains-of-first-us-soldiers-return-home",
-      "published": "Sun, 08 Mar 2026 10:14:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 57,
-      "severity_level": "Critical"
-    },
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
       "description": "There has been an alarming escalation of violence in the Kordofan region where fighting has killed and injured civilians, destroyed homes, hospitals and other civilian infrastructure.",
@@ -20,6 +10,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 53,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran: New Supreme Leader set to be announced",
+      "description": "In Iran, the body responsible for choosing the next Supreme Leader has made a decision, but the name has not been released. Ayatollah Ali Khamenei was killed in US-Israeli strikes eight days ago. Since then, there has been speculation about who will replace him and how the process will unfold. The regime has only navigated a succession once before. Unlike the managed transition after Ayatollah Khomeini’s death, this one comes amid full-scale war, an economic crisis, water shortages, and in the aftermath of anti-government protests and a brutal crackdown. FRANCE24’s International affairs editor Oliver Farry shares further insights.",
+      "url": "https://www.france24.com/en/iran-new-supreme-leader-set-to-be-announced",
+      "published": "Sun, 08 Mar 2026 11:00:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 50,
       "severity_level": "Critical"
     },
     {
@@ -100,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Middle East: How long will the war last?",
+      "description": "Donald Trump has given conflicting timeframes over the past week: he initially said it would be 3 - 4 weeks, but now he’s talking about several months. Even though Israel and the US have targeted and killed Iranian Supreme leader Ali Khamenei as well as key Iranian leaders, Tehran continues striking Israel and neighboring countries. FRANCE 24’s International Affairs editor takes a closer look at the situation and the consequences.",
+      "url": "https://www.france24.com/en/middle-east-war-remains-of-first-us-soldiers-return-home",
+      "published": "Sun, 08 Mar 2026 10:14:47 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -363,6 +373,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Hundreds march in New York condemning US-Israeli attacks on Iran",
+      "description": "Hundreds of activists filled the streets of New York City in protest of the Israeli-US war on Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/hundreds-march-in-new-york-condemning-us-israeli-attacks-on-iran?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:24:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Ukraine's second largest city hit by deadly Russian missile attack",
       "description": "Russian missile strikes have killed at least 10 people in Kharkiv, Ukraine's second-largest city.",
       "url": "https://news.sky.com/story/two-children-among-seven-dead-in-russian-missile-strikes-in-ukraine-13516381",
@@ -454,9 +474,9 @@
     },
     {
       "title": "US embassy in Oslo hit by explosion, Norway police say",
-      "description": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday.",
+      "description": "The embassy sustained minor damage but no injuries were reported after the blast in the Norwegian capital.",
       "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 06:54:58 GMT",
+      "published": "Sun, 08 Mar 2026 10:52:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -663,16 +683,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump administration denies reports that Iran captured US soldiers",
-      "description": "The head of Iran's National Security Council had claimed the US was misrepresenting the captures as combat deaths.",
-      "url": "https://www.aljazeera.com/news/2026/3/7/trump-administration-denies-reports-that-iran-captured-us-soldiers?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 22:37:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Middle East war enters its 8th day",
       "description": "The U.S. and Israeli war with Iran has entered a second week, with drones and missiles crisscrossing much of the Middle East and death tolls rising.",
       "url": "https://www.npr.org/2026/03/07/nx-s1-5739735/middle-east-war-enters-its-8th-day",
@@ -753,7 +763,7 @@
       "severity_level": "High"
     },
     {
-      "title": "454,000 people registered as displaced: Thousands sleep rough as Israeli strike shelters overwhelmed",
+      "title": "454,000 displaced: Thousands sleep rough in Beirut as strike shelters overwhelmed",
       "description": "As Israeli strikes continue in southern Lebanon, for many people there is nowhere left to go. Some are sleeping in cars, on the streets or on the beach. Hundreds of schools, places of worship, and stadiums have been turned into emergency shelters, but many more are needed. As soon as one opens, it fills up. Our reporter Catherine Norris Trent sent this report from Beirut.",
       "url": "https://www.france24.com/en/454-000-people-registered-as-displaced-thousands-sleep-rough-as-israeli-strike-shelters-overwhelmed",
       "published": "Sun, 08 Mar 2026 10:20:03 GMT",
@@ -783,21 +793,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran guards target \"separatist groups\"",
-      "description": "Islamic Revolutionary Guard Corps says it has targeted what it describes as “separatist groups” in the Kurdistan Region of Iraq. The claim comes after reports that Iranian Kurdish forces are preparing armed units that could be deployed inside Iran, potentially with support from the United States. Sources familiar with the situation also say Israel is backing Kurdish plans to seize border areas in Iran, with the Israel Defense Forces reportedly carrying out strikes in western Iran in support of those efforts. Nicholas Rushworth and Camille Knight have the latest.",
-      "url": "https://www.france24.com/en/iran-guards-target-separatist-groups",
-      "published": "Sat, 07 Mar 2026 17:25:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "41 dead in clashes after 'disguised' Israeli commandos dig up grave",
       "description": "An Israeli operation to search for clues about a navigator who went missing 40 years ago has left dozens dead, according to Lebanese authorities.",
       "url": "https://news.sky.com/story/41-dead-in-clashes-after-disguised-israeli-commandos-dig-up-grave-searching-for-missing-navigator-13516609",
       "published": "Sat, 07 Mar 2026 17:21:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran's border with Turkey offers a way out, but few are leaving for good",
+      "description": "Iranians are using a border crossing into Turkey as one of the only ways out during the war in Iran, with the country's airspace closed",
+      "url": "https://abcnews.com/International/wireStory/irans-border-turkey-offers-leaving-good-130873581",
+      "published": "Sun, 08 Mar 2026 06:49:39 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -1613,16 +1623,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
-      "description": "Ukraine's president seeks leverage with low-cost interceptors, as US and Gulf nations burn through Patriot missiles.",
-      "url": "https://www.aljazeera.com/news/2026/3/7/zelenskyy-offers-saudi-arabias-mbs-help-with-countering-iranian-drones?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 23:11:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russian missile strike kills 10 in Ukraine as Trump says 'hatred' between countries complicating peace deal",
       "description": "Russian missile strike kills at least 10 people, including 2 children, in Kharkiv residential building as Ukraine faces massive overnight assault.",
       "url": "https://www.foxnews.com/world/russian-missile-strike-kills-10-ukraine-trump-says-hatred-between-countries-complicating-peace-deal",
@@ -1756,7 +1756,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-08T10:41:55.272102Z",
+      "published": "2026-03-08T11:06:51.877170Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1838,6 +1838,16 @@
       "url": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Mar 2026 23:11:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israeli settlers kill two Palestinians in occupied West Bank",
+      "description": "Two Palestinians shot in the head by Israeli settler, a third dies from inhaling tear gas used by Israeli soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/3/8/israeli-settlers-kill-two-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 10:32:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2197,16 +2207,6 @@
       "description": "Canadian Prime Minister Mark Carney says Andrew Mountbatten-Windsor should be removed from the royal line of succession for his “deplorable” actions",
       "url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-calls-mountbatten-windsors-130845000",
       "published": "Fri, 06 Mar 2026 21:11:05 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cuba shuts its Quito embassy as Ecuador expels its diplomats",
-      "description": "Cuba is shutting down its embassy in Ecuador after Ecuador and ordered its diplomats out",
-      "url": "https://abcnews.com/International/wireStory/cuba-shuts-quito-embassy-ecuador-expels-diplomats-130837161",
-      "published": "Fri, 06 Mar 2026 21:12:11 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
