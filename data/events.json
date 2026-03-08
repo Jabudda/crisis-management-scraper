@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T12:12:01.664215Z",
-  "event_count": 225,
+  "last_updated": "2026-03-08T12:48:03.287093Z",
+  "event_count": 226,
   "events": [
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
@@ -120,6 +120,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran’s last line of resistance holds back — but Houthi terror group warns it’s ready to act",
+      "description": "Yemen expert reveals why Iran-backed Houthis haven't joined Iran conflict yet - and warns they could attack Saudi Arabia if conflict widens across region.",
+      "url": "https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act",
+      "published": "Sun, 08 Mar 2026 08:25:31 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -243,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran war: Israel strikes oil storage sites near Tehran",
-      "description": "Israeli military said it struck several Iranian oil storage sites used to \"operate military infrastructure.\" Iran's president said his country will be \"forced to respond\" to an attack by a neighboring country. Follow DW.",
-      "url": "https://www.dw.com/en/iran-war-israel-strikes-oil-storage-sites-near-tehran/live-76263936?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 8 Mar 2026 02:52:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘There are crocs absolutely everywhere’: NT residents warned to stay out of flood waters as hundreds evacuated",
       "description": "Entire Daly River town evacuated as Bureau of Meteorology warns river levels expected to rise in coming week Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Flood-affected residents in the Northern Territory have been warned not to swim in crocodile-filled waters, as tropical lows continue to bring major flood warnings and heavy rains to the Top End and Queensland. Hundreds of people were evacuated over the weekend, with the entire town of Nauiyu/Daly River in the NT evacuated as of Sunday afternoon, the NT chief minister, Lia Finocchiaro, said. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/08/there-are-crocs-absolutely-everywhere-nt-residents-warned-to-stay-out-of-floodwaters-as-hundreds-evacuated",
@@ -320,6 +320,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+      "description": "Police say they are investigating other motives after the blast caused minor damage to the embassy building.",
+      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 12:30:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -460,16 +470,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "US embassy in Oslo hit by explosion, Norway police say",
-      "description": "The embassy sustained minor damage but no injuries were reported after the blast in the Norwegian capital.",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 10:52:29 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -833,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran continues firing missiles, drones at neighboring states, with multiple interceptions reported",
-      "description": "Iran launches a new wave of attacks targeting Israel, U.S. bases and countries in the region as it continues to retaliate against Operation Epic Fury.",
-      "url": "https://www.foxnews.com/world/iran-continues-firing-missiles-drones-neighboring-states-multiple-interceptions-reported",
-      "published": "Thu, 05 Mar 2026 08:32:22 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Children wounded in the US-Israeli strikes receive treatment in Tehran",
       "description": "Children wounded in US-Israeli strikes on Iran are being treated at a children’s hospital in Tehran.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/children-wounded-in-the-us-israeli-strikes-receive-treatment-in-tehran?traffic_source=rss",
@@ -853,18 +843,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel strikes busy Beirut hotel in assassination attempt",
-      "description": "Israel has claimed responsibility for an assassination attempt, which killed at least four people, at a Beirut hotel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 05:07:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Time for a change: British Columbia decides to keep daylight saving time permanently",
-      "description": "Most residents of Canadian province wanted change for years; Trump’s unneighbourly rhetoric helped seal the deal Since 1918, the clocks in Creston, a town in eastern British Columbia, ran an hour ahead of nearby communities for half the year. For the other six months, they slipped back into sync. Not because they town changed them but because its neighbours changed back and forth from daylight saving time. Creston was an outlier: a community that effectively created its own time zone. But when residents in most parts of the province shift their clocks forward on Sunday, they will be doing it for the last time – and permanently joining Creston for the first time in nearly 70 years. Continue reading...",
+      "description": "Most residents of Canadian province wanted change for years – Trump’s unneighbourly rhetoric helped seal the deal Since 1918, the clocks in Creston, a town in eastern British Columbia, ran an hour ahead of nearby communities for half the year. For the other six months, they slipped back into sync. Not because the town changed them but because its neighbours changed back and forth from daylight saving time. Creston was an outlier: a community that effectively created its own time zone. But when residents in most parts of the province shift their clocks forward on Sunday, they will be doing it for the last time – and permanently joining Creston for the first time in nearly 70 years. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/08/british-columbia-canada-daylight-saving-time",
       "published": "Sun, 08 Mar 2026 09:00:15 GMT",
       "source": "The Guardian World",
@@ -878,6 +858,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/mar/08/australia-may-offer-military-support-to-gulf-nations-facing-iran-strikes-but-wont-participate-in-ground-war-wong-says",
       "published": "Sat, 07 Mar 2026 23:29:03 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: Israel strikes oil storage sites near Tehran",
+      "description": "Israeli military said it struck several Iranian oil storage sites used to \"operate military infrastructure.\" Iran's clerical body has nearly reached a decision on a new supreme leader. Follow DW.",
+      "url": "https://www.dw.com/en/iran-war-israel-strikes-oil-storage-sites-near-tehran/live-76263936?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 8 Mar 2026 02:52:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1063,6 +1053,16 @@
       "severity_level": "High"
     },
     {
+      "title": "‘I am trying to live’: Haitians in Mexico seek community despite broken immigration systems",
+      "description": "Funding cuts, US political pressure and bureaucratic delays have left thousands of Haitians facing prolonged uncertainty in Tapachula A year ago, when Jean Baptiste Gensley stepped off a bus in Tapachula, Mexico ’s southern city on the border with Guatemala , he carried a small backpack and the hope that his journey was finally over. In his native Haiti , Gensley, 37, worked as a radio journalist and social worker, analyzing the effects of gang violence in some of Port-au-Prince ’s most dangerous neighborhoods. With time, as his research led to police intervention, he caught the attention of the city’s gangs. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/08/haiti-immigrant-mexico-tapachula",
+      "published": "Sun, 08 Mar 2026 12:00:19 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
       "description": "A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
       "url": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
@@ -1111,6 +1111,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Honouring Gaza’s women who refused to let the world look away",
+      "description": "Women journalists in Gaza have paid a heavy price for refusing to stay silent and continuing to expose Israel’s crimes.",
+      "url": "https://www.aljazeera.com/opinions/2026/3/8/honouring-gazas-women-who-refused-to-let-the-world-look-away?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 12:10:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "T20 World Cup: The Final",
@@ -1373,6 +1383,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Russian ambassador claims there are 'six places' in London where frog poison that killed Navalny can be bought",
+      "description": "Russia's ambassador to Britain has denied that poison from a dart frog was used to kill opposition leader Alexei Navalny.",
+      "url": "https://news.sky.com/story/russias-uk-ambassador-denies-kremlin-used-frog-poison-to-kill-alexei-navalny-13516883",
+      "published": "Sun, 08 Mar 2026 10:08:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "New update on search for Malaysia Airlines flight MH370",
       "description": "A renewed deep-sea search for missing Malaysia Airlines flight MH370 has been unsuccessful.",
       "url": "https://news.sky.com/story/new-search-for-malaysia-airlines-flight-mh370-unsuccessful-13516801",
@@ -1408,6 +1428,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167075",
       "published": "Tue, 03 Mar 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "North Carolina mom's 24-year disappearance uncovers silent crisis inside American families",
+      "description": "A psychologist said Michele Hundley Smith’s 24-year disappearance may reflect family stress that made vanishing feel like the only escape — a silent crisis many families face.",
+      "url": "https://www.foxnews.com/us/north-carolina-moms-24-year-disappearance-uncovers-silent-crisis-inside-american-families",
+      "published": "Sun, 08 Mar 2026 08:00:04 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1633,6 +1663,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iran will not ‘bow’ to US and Israeli pressure, Pezeshkian says",
+      "description": "Iranian President Masoud Pezeshkian says Iran will not ‘bow’ to pressure from the United States and Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-will-not-bow-to-us-and-israeli-pressure-pezeshkian-says?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 12:16:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1738,6 +1778,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-08T12:47:41.020849Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1857,16 +1907,6 @@
       "description": "Officials say a candidate has been picked based ⁠on late supreme leader's advice that he should be 'hated by the enemy'.",
       "url": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 09:24:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
-      "description": "Gaza's fishing industry collapses under Israeli blockade, leaving fishermen risking their lives for minimal catches.",
-      "url": "https://www.aljazeera.com/features/2026/3/8/palestinians-risk-life-and-limb-to-fish-in-gazas-israeli-controlled-sea?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 06:13:06 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2003,16 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "‘An ideological guest list’: Trump invites Latin America’s rightwing leaders to Florida summit",
-      "description": "Omission of presidents of Brazil, Mexico and Colombia, however, exposes failure of US president’s ‘theatrical’ doctrine, say experts Donald Trump will welcome the leaders of at least 10 Latin American countries to a palm-dotted golf resort in Miami on Saturday as the president continues his quest to transform the US’s standing in the region and outmuscle China. Since returning to power last year, Trump has launched a dramatic – and at times deadly – crusade to, as the Pentagon chief, Pete Hegseth, put it , “reclaim our back yard”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/07/an-ideological-guest-list-trump-invites-latin-americas-rightwing-leaders-to-florida-summit",
-      "published": "Sat, 07 Mar 2026 08:00:45 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Jimmy Lai will not appeal conviction, paving way for political negotiations over release",
       "description": "Decision marks end of years-long legal saga for 78-year-old critic of Chinese Communist party Jimmy Lai, the prominent pro-democracy activist who was recently sentenced to 20 years in prison in Hong Kong, has said he will not appeal his conviction. The decision marks the end of a years-long legal saga for the 78-year-old critic of the Chinese Communist party (CCP), and opens the door for political negotiations to his release. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/06/jimmy-lai-will-not-appeal-conviction-paving-way-for-political-neogtiations-over-release",
@@ -2143,16 +2173,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Russian ambassador denies Kremlin used frog poison to kill Navalny",
-      "description": "Russia's ambassador to Britain has denied that poison from a dart frog was used to kill opposition leader Alexei Navalny.",
-      "url": "https://news.sky.com/story/russias-uk-ambassador-denies-kremlin-used-frog-poison-to-kill-alexei-navalny-13516883",
-      "published": "Sun, 08 Mar 2026 10:08:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A singing circle at Amsterdam's Concertgebouw offers support for people with dementia",
       "description": "A singing circle at Amsterdam’s Concertgebouw helps people with dementia and other brain conditions connect through music",
       "url": "https://abcnews.com/International/wireStory/singing-circle-amsterdams-concertgebouw-offers-support-people-dementia-130873110",
@@ -2227,16 +2247,6 @@
       "description": "Four MS-13 gang members accused of brutally murdering 14-year-old Jefferson Amaya-Ayala in Maryland park. All suspects allegedly illegal immigrants.",
       "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
       "published": "Fri, 06 Mar 2026 18:02:22 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Fox News True Crime Newsletter: Nancy Guthrie's clues, Luigi Mangione's evidence, Idaho murders tarot cards",
-      "description": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
-      "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-clues-luigi-mangiones-evidence-idaho-murders-tarot-cards",
-      "published": "Fri, 06 Mar 2026 13:00:56 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
