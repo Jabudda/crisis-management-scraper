@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T06:47:21.947976Z",
-  "event_count": 226,
+  "last_updated": "2026-03-08T07:15:38.971072Z",
+  "event_count": 225,
   "events": [
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
@@ -453,6 +453,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US embassy in Oslo hit by explosion, Norway police say",
+      "description": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday.",
+      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 06:54:58 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Russia kills 10 in Ukraine strike including children with new missile",
       "description": "President Zelenskyy calls for international response as Russian assault targets civilian and energy infrastructure.",
       "url": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss",
@@ -503,7 +513,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
+      "title": "Iran war live: Israel hit Tehran oil depots; Bahrain desalination plant hit",
       "description": "Kuwait and Saudi Arabia report more attacks as Trump says the war will only end when Iran's leaders 'cry uncle'.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 00:00:00 +0000",
@@ -730,16 +740,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Explosion reported outside US embassy in Oslo, police say",
-      "description": "Police sent \"large resources\" to the embassy at 01:00 local time after reports of an explosion.",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 05:18:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -1768,16 +1768,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-08T06:47:06.349991Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
