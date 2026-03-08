@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T17:08:25.404062Z",
+  "last_updated": "2026-03-08T17:40:05.876912Z",
   "event_count": 226,
   "events": [
     {
@@ -88,6 +88,16 @@
       "url": "https://www.france24.com/en/traffic-stalls-in-strait-of-hormuz",
       "published": "Sun, 08 Mar 2026 10:29:09 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Two Israeli soldiers killed as attacks in Lebanon leave nearly 400 dead",
+      "description": "Two Israeli soldiers have been killed during the country's latest military offensive in Lebanon that has so far left nearly 400 dead.",
+      "url": "https://news.sky.com/story/two-israeli-soldiers-killed-as-latest-attacks-in-lebanon-leave-nearly-400-dead-13516918",
+      "published": "Sun, 08 Mar 2026 13:50:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 40,
       "severity_level": "Critical"
@@ -357,16 +367,6 @@
       "description": "Israeli military confirms first fatalities in Lebanon a week after fighting resumes with Hezbollah.",
       "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
       "published": "Sun, 08 Mar 2026 16:31:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Why international law is still the world’s best defence",
-      "description": "Should we permit the foundations of international law to erode, the world would slip once more into anarchy and chaos.",
-      "url": "https://www.aljazeera.com/opinions/2026/3/8/why-international-law-is-still-the-worlds-best-defence?traffic_source=rss",
-      "published": "Sun, 08 Mar 2026 11:25:29 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 22,
@@ -1184,7 +1184,7 @@
     },
     {
       "title": "Emperor Naruhito watches Ohtani and Japan survive scare against Australia at World Baseball Classic",
-      "description": "Masataka Yoshida’s late HR helps seal 4-3 win Naruhito first emperor in 60 years to attend baseball Masataka Yoshida’s late home run triggered a comeback win for Japan over Australia at the World Baseball Classic on Sunday, with Emperor Naruhito made a rare appearance. The underdog Aussies struck first in the sixth inning of the group stage game when outfielder Aaron Whitefield came home after a throwing error by Japan’s catcher, Kenya Wakatsuki. But in the seventh, Yoshida connected with a two-run shot over right centre field. Japan put on two more insurance runs in the eighth, and hung on for the 4-3 victory. Continue reading...",
+      "description": "Masataka Yoshida’s late HR helps seal 4-3 win Naruhito first emperor in 60 years to attend baseball Masataka Yoshida’s late home run triggered a comeback win for Japan over Australia at the World Baseball Classic on Sunday, with Emperor Naruhito making a rare appearance. The underdog Aussies struck first in the sixth inning of the group stage game when outfielder Aaron Whitefield came home after a throwing error by Japan’s catcher, Kenya Wakatsuki. But in the seventh, Yoshida connected with a two-run shot over right centre field. Japan put on two more insurance runs in the eighth, and hung on for the 4-3 victory. Continue reading...",
       "url": "https://www.theguardian.com/sport/2026/mar/08/emperor-naruhito-watches-ohtani-and-japan-survive-scare-against-australia-at-world-baseball-classic",
       "published": "Sun, 08 Mar 2026 16:00:39 GMT",
       "source": "The Guardian World",
@@ -1353,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "The B-52: Why the US still uses a plane from the 1960s to bomb its enemies",
-      "description": "When Washington DC wants to attack its enemies, the aircraft US presidents often turn to is the Boeing 52 Stratofortress bomber.",
-      "url": "https://news.sky.com/story/the-b-52-why-the-us-still-uses-a-plane-from-the-1960s-to-bomb-its-enemies-13516899",
-      "published": "Sun, 08 Mar 2026 12:33:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Renewed hunt for missing Flight MH370 comes up empty as families press for answers",
       "description": "Malaysian authorities say a renewed deep-sea search in the southern Indian Ocean has failed so far to find Malaysia Airlines Flight MH370, twelve years after it disappeared",
       "url": "https://abcnews.com/International/wireStory/12-years-renewed-hunt-missing-flight-mh370-empty-130873015",
@@ -1473,9 +1463,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: Merz's CDU, Greens in tight race in state poll",
+      "title": "Germany news: Greens lead Merz's CDU in critical state poll",
       "description": "Voters in the wealthy southwestern state of Baden-Württemberg head to the polls on Sunday. It's the first of five regional elections taking place in Germany this year. Follow DW for more.",
-      "url": "https://www.dw.com/en/germany-news-merz-s-cdu-greens-in-tight-race-in-state-poll/live-76265491?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-greens-lead-merz-s-cdu-in-critical-state-poll/live-76265491?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 8 Mar 2026 07:47:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1618,6 +1608,16 @@
       "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Mar 2026 04:36:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
+      "description": "The Israeli intelligence agency counts on unconditional US cover and adversary lapses for its assassination policy.",
+      "url": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 17:06:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1786,7 +1786,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-08T17:08:02.204812Z",
+      "published": "2026-03-08T17:39:41.615907Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
