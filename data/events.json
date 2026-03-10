@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T10:47:30.579964Z",
-  "event_count": 225,
+  "last_updated": "2026-03-10T11:15:17.108887Z",
+  "event_count": 224,
   "events": [
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
@@ -80,6 +80,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘Our hopes have been crushed’: Exclusive interviews from inside Iran",
+      "description": "Iran remains mostly cut off to the world, with access to foreign press is heavily restricted and internet in the country is only working at around one percent of its usual capacity. Nevertheless, Ershad Alijani, from France 24's the Observers, has been able to exclusively interview some people from inside the country How do anti-regime Iranians feel about war, now they are living under incessant bombing?",
+      "url": "https://www.france24.com/en/video/20260310-our-hopes-have-been-crushed-exclusive-interviews-from-inside-iran",
+      "published": "Tue, 10 Mar 2026 10:51:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -283,16 +293,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "China-North Korea trains to resume after six-year halt following Covid outbreak",
-      "description": "Travel operators say Chinese and North Koreans can now buy tickets for services leaving this week Passenger train services between China and North Korea are to resume this week, six years after their suspension due to the Covid-19 pandemic, travel operators have said. Train journeys between the two countries were halted in 2020 as they imposed strict border closures to prevent the virus spreading. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak",
-      "published": "Tue, 10 Mar 2026 10:13:40 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Qantas hikes international air fares citing volatile oil prices from war in Middle East",
       "description": "Airline reports spike in ticket sales to Europe in March, as passengers with carriers affected by flight chaos rebook Get our breaking news email , free app or daily news podcast Qantas has announced it is increasing the price of its international air fares amid oil price volatility caused by the war in the Middle East, while the airline also reported higher-than-normal ticket sales for flights to Europe. While the company hedges against change in jet fuel prices, it was not fully covered for the spike seen in the wake of surging oil prices , a spokesperson said on Tuesday. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/mar/10/qantas-hikes-international-airfares-citing-volatile-oil-prices-from-war-in-middle-east",
@@ -423,10 +423,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war: US to hit 'twenty times harder' if oil flow stops",
-      "description": "US President Donald Trump threatened Iran with further attacks if it stops oil flow through the Strait of Hormuz. Elsewhere, five Iranian footballers received asylum in Australia. DW has more.",
-      "url": "https://www.dw.com/en/iran-war-us-to-hit-twenty-times-harder-if-oil-flow-stops/live-76284477?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 10 Mar 2026 04:53:00 GMT",
+      "title": "China-North Korea trains to restart, six years after Covid brought them to stop",
+      "description": "Travel operators say Chinese and North Koreans can now buy tickets for services leaving this week Passenger train services between China and North Korea are to resume this week, six years after their suspension because of the Covid-19 pandemic, travel operators have said. Train journeys between the two countries were halted in 2020 as strict border closures were imposed to prevent the virus spreading. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak",
+      "published": "Tue, 10 Mar 2026 10:13:40 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: Oil prices fall after Trump predicts end to war",
+      "description": "However, US President Donald Trump did threaten Iran with further attacks if it stops oil flow through the Strait of Hormuz, and Iran has promised more missiles, but no more negotiations. DW has more.",
+      "url": "https://www.dw.com/en/iran-war-oil-prices-fall-after-trump-predicts-end-to-war/live-76284477?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 10 Mar 2026 10:52:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
@@ -623,21 +633,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Macron says France, allies preparing 'defensive' mission to reopen Strait of Hormuz",
-      "description": "France and its allies are preparing a \"defensive\" mission to reopen the strategically vital Strait of Hormuz, President Emmanuel Macron said Monday as the Middle East war entered its second week. The French leader landed by helicopter on the Charles de Gaulle aircraft carrier, dispatched to the Mediterranean after US-Israeli strikes on Iran on February 28 triggered a war that has sown chaos in the Middle East and threatens to spill into other regions.",
-      "url": "https://www.france24.com/en/macron-says-france-allies-preparing-defensive-mission-to-reopen-strait-of-hormuz",
-      "published": "Mon, 09 Mar 2026 19:08:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Energy prices ease and stocks recover on hopes Trump will end war soon",
       "description": "Oil prices have fallen and stock markets are clawing back some lost ground after Donald Trump raised hopes that Iran war disruption to the global economy would soon be over.",
       "url": "https://news.sky.com/story/energy-prices-ease-on-hope-trump-will-call-halt-to-iran-war-soon-13517548",
       "published": "Tue, 10 Mar 2026 05:20:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump warns Iran faces strikes 'twenty times harder' if nation refuses to heed warning and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/trump-warns-iran-faces-strikes-twenty-times-harder-nation-refuses-heed-warning-more-top-headlines",
+      "published": "Tue, 10 Mar 2026 06:52:34 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -657,16 +667,6 @@
       "description": "Afghanistan were due to host Sri Lanka for a six-match series in the UAE, which has been hit by attacks from Iran.",
       "url": "https://www.aljazeera.com/sports/2026/3/10/afghanistan-vs-sri-lanka-cricket-series-called-off-due-to-iran-war?traffic_source=rss",
       "published": "Tue, 10 Mar 2026 06:30:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "US consumers express dismay over rising gas prices after attack on Iran",
-      "description": "Oil prices have shot up as the war snarls transportation and production in one of the most energy-rich regions on earth.",
-      "url": "https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss",
-      "published": "Tue, 10 Mar 2026 05:35:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -708,6 +708,16 @@
       "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Mar 2026 10:38:32 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Hundreds killed in Haiti drone strikes, including 60 civilians: Report",
+      "description": "Human Rights Watch says drone strikes by Haitian forces kill more than 1,200 people in, near Port-au-Prince since 2025.",
+      "url": "https://www.aljazeera.com/news/2026/3/10/hundreds-killed-in-haiti-drone-strikes-including-60-civilians-report?traffic_source=rss",
+      "published": "Tue, 10 Mar 2026 10:27:38 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -1503,6 +1513,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US authorities search Jeffrey Epstein's former ranch",
+      "description": "New Mexico prosecutors have reopened a criminal investigation after the release of the so-called 'Epstein files'. At least two women have made allegations of sexual misconduct at the remote property.",
+      "url": "https://www.dw.com/en/us-authorities-search-jeffrey-epstein-s-former-ranch/a-76288598?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 10 Mar 2026 11:13:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Nepal: Rapper-turned-politician poised to become next PM",
       "description": "Balendra Shah's RSP party is set for a landslide election win after Gen Z-led protests toppled the previous government. Indian Prime Minister Narendra Modi has already spoken with Shah.",
       "url": "https://www.dw.com/en/nepal-rapper-turned-politician-poised-to-become-next-pm/a-76285168?maca=en-rss-en-all-1573-xml-mrss",
@@ -1517,16 +1537,6 @@
       "description": "Tech start-up Anthropic has refused to meet the Pentagon's demands for unrestricted military use of AI, setting up a legal showdown with the Trump administration.",
       "url": "https://www.dw.com/en/ai-lab-anthropic-sues-to-block-pentagon-blacklisting/a-76283525?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 9 Mar 2026 19:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Turkey: Heated trial of Istanbul Mayor Imamoglu opens",
-      "description": "The contentious trial of Istanbul's deposed mayor, once the main rival to President Erdogan, got off to a rocky start. The opposition CHP party calls the corruption investigation against it politically motivated.",
-      "url": "https://www.dw.com/en/turkey-heated-trial-of-istanbul-mayor-imamoglu-opens/a-76276717?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 9 Mar 2026 12:45:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1723,16 +1733,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-10T10:47:08.194366Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Germany news: Volkswagen profits plummet by almost half",
       "description": "The German auto giant has said it would cut around 50,000 jobs within the next five years. Meanwhile, Berlin has withdrawn staff from its Baghdad embassy due to growing safety concerns. DW has more.",
       "url": "https://www.dw.com/en/germany-news-volkswagen-profits-plummet-by-almost-half/live-76285550?maca=en-rss-en-all-1573-xml-mrss",
@@ -1777,16 +1777,6 @@
       "description": "ADL's campus antisemitism report card suggests students may not be seeing the full impact of universities' approaches to tackling anti-Jewish hatred.",
       "url": "https://www.foxnews.com/us/schools-boost-antisemitism-grades-adl-report-students-say-hostility-persists",
       "published": "Tue, 10 Mar 2026 06:26:57 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "New Jersey elementary school weighs renaming after President Trump",
-      "description": "New Jersey school board considers renaming elementary school after Trump, sparking heated community debate over educational values and political divisions.",
-      "url": "https://www.foxnews.com/us/new-jersey-elementary-school-weighs-renaming-after-president-trump",
-      "published": "Sun, 08 Mar 2026 12:51:57 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -1843,7 +1833,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Madagascar military leader dissolves government in surprise move",
+      "title": "Madagascar military leader sacks cabinet in surprise move",
       "description": "Col Randrianirina, who seized power last year, did not give a reason for dissolving his government.",
       "url": "https://www.bbc.com/news/articles/c39wywm298lo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Mar 2026 07:48:51 GMT",
