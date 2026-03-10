@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T08:47:36.890956Z",
+  "last_updated": "2026-03-10T09:19:03.441517Z",
   "event_count": 224,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "MIDDLE EAST LIVE 10 March: Displacement, supply shocks and civilian toll rise",
+      "description": "The conflict in the Middle East continues, with strikes and counter-strikes across the region and the humanitarian toll mounting. UN agencies warn that rising civilian casualties, mass displacement – particularly in Lebanon – and damage to critical infrastructure are deepening the crisis, while disruptions to shipping and energy routes risk driving up global prices and worsening food insecurity. Stay with us for updates from across the United Nations system. UN News app users can follow the coverage here.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167104",
+      "published": "Tue, 10 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -373,21 +383,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "MIDDLE EAST LIVE 3 March: Escalating conflict between US, Israel and Iran",
-      "description": "Violent escalation in the Middle East has entered a fourth day, with US and Israeli military strikes against Iran and ensuing Iranian counter-strikes hitting targets across the region, disrupting airspace and transport routes. The situation has caused civilian casualties and raised fears of broader instability, including in Lebanon and the Gulf. We will bring you real-time reporting and updates from across the United Nations system. UN News app users can follow the coverage here.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167070",
-      "published": "Tue, 03 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Trump threatens to hit Iran harder if it blocks energy supplies",
       "description": "US President Donald Trump threatened to escalate attacks on Iran if it disrupted global oil supplies.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss",
       "published": "Tue, 10 Mar 2026 02:21:12 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Going for broke? Iran war spirals further after naming of Khamenei's son",
+      "description": "Second week of a war seen more than ever as a massive gamble by the US and Israel: strikes on oil installations in Tehran prompting retaliation across the Gulf. Also blown away are claims that disruptions to global energy security would be only a passing blip.",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260309-going-for-broke-iran-war-spirals-further-after-naming-of-khamenei-s-son",
+      "published": "Mon, 09 Mar 2026 20:31:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -483,16 +493,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ex-Iraqi foreign minister on regional fallout from Iran conflict",
-      "description": "NPR's Leila Fadel sits down with Iraq's Foreign Minister Hoshyar Zebari to talk about the fallout from the US-Israel war against Iran, for Iraq and the region.",
-      "url": "https://www.npr.org/2026/03/10/nx-s1-5742632/ex-iraqi-foreign-minister-on-regional-fallout-from-iran-conflict",
-      "published": "Tue, 10 Mar 2026 04:04:52 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "India news: 'No plans to increase fuel prices'",
       "description": "Oil prices have fallen globally after Donald Trump said the Iran war could 'end soon.' Indian officials have reportedly said fuel prices may remain stable. Find out what else India is talking about in our roundup.",
       "url": "https://www.dw.com/en/india-news-no-plans-to-increase-fuel-prices/live-76285014?maca=en-rss-en-all-1573-xml-mrss",
@@ -550,6 +550,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israel launches new wave of attacks on southern and eastern Lebanon",
+      "description": "Israel warns of imminent attacks on south Lebanon's Tyre and Sidon amid reports Tel Aviv wants to expand buffer zone.",
+      "url": "https://www.aljazeera.com/news/2026/3/10/israel-launches-new-wave-of-attacks-on-southern-and-eastern-lebanon?traffic_source=rss",
+      "published": "Tue, 10 Mar 2026 08:37:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -613,16 +623,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Going for broke? Iran war spirals further after naming of Khamenei's son",
-      "description": "Second week of a war seen more than ever as a massive gamble by the US and Israel: the hitting of oil installations in Tehran prompting retaliation across the Gulf. Also blown away, claims that disruptions to global energy security would be a passing blip.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260309-going-for-broke-iran-war-spirals-further-after-naming-of-khamenei-s-son",
-      "published": "Mon, 09 Mar 2026 20:31:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Macron says France, allies preparing 'defensive' mission to reopen Strait of Hormuz",
       "description": "France and its allies are preparing a \"defensive\" mission to reopen the strategically vital Strait of Hormuz, President Emmanuel Macron said Monday as the Middle East war entered its second week. The French leader landed by helicopter on the Charles de Gaulle aircraft carrier, dispatched to the Mediterranean after US-Israeli strikes on Iran on February 28 triggered a war that has sown chaos in the Middle East and threatens to spill into other regions.",
       "url": "https://www.france24.com/en/macron-says-france-allies-preparing-defensive-mission-to-reopen-strait-of-hormuz",
@@ -678,16 +678,6 @@
       "url": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
       "published": "Mon, 09 Mar 2026 17:33:21 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Cyber Warfare tactics increasingly used in Iran conflict",
-      "description": "Cyber warfare is coming out of the shadows in the Iran war, from hacking phone apps to recruiting agents online to embracing AI as a weapon.",
-      "url": "https://www.npr.org/2026/03/10/nx-s1-5741726/cyber-warfare-tactics-increasingly-used-in-iran-conflict",
-      "published": "Tue, 10 Mar 2026 04:04:25 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -777,6 +767,16 @@
       "description": "Australia has granted asylum to five members of the Iranian women's soccer team who were in the country for a tournament when the Iran war began.",
       "url": "https://www.npr.org/2026/03/10/g-s1-113146/australia-grants-asylum-to-5-members-of-the-iranian-womens-soccer-team",
       "published": "Tue, 10 Mar 2026 01:45:03 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Millions more people are in the path of rising seas than previously thought",
+      "description": "Oceans are rising as the climate changes, threatening coastal cities. A new study shows that much more of the world's population is vulnerable than earlier predictions had estimated.",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5741796/rising-seas-climate-change-study",
+      "published": "Mon, 09 Mar 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 13,
@@ -1243,16 +1243,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump says US-Israeli war on Iran will be over ‘very soon’",
-      "description": "US president speaks in Florida after a call with Putin, who said he wanted to be 'helpful' on Middle East war.",
-      "url": "https://www.aljazeera.com/news/2026/3/9/trump-says-us-israeli-war-on-iran-will-be-over-very-soon?traffic_source=rss",
-      "published": "Mon, 09 Mar 2026 23:43:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1287,6 +1277,16 @@
       "description": "Lebanon says it's ready to talk to Israel to end the fighting, as the war in Iran intensifies.",
       "url": "https://www.npr.org/2026/03/10/nx-s1-5742617/lebanon-wants-talks-with-israel-to-end-the-fighting",
       "published": "Tue, 10 Mar 2026 04:02:08 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "12 years on, renewed hunt for missing Malaysia Airlines flight comes up empty",
+      "description": "Twelve years after Malaysia Airlines Flight MH370 vanished with 239 people aboard, a deep-sea search has so far failed to locate the missing aircraft, as families pressed for the effort to continue.",
+      "url": "https://www.npr.org/2026/03/09/g-s1-112960/12-years-missing-flight-mh370",
+      "published": "Mon, 09 Mar 2026 01:49:21 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
@@ -1433,16 +1433,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Disruption hits undersea power cable between Finland and Sweden",
-      "description": "The electricity connection between Finland and Sweden is expected to be offline for \"hours.\" The cause of the power failure is under investigation.",
-      "url": "https://www.dw.com/en/disruption-hits-undersea-power-cable-between-finland-and-sweden/a-76285173?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 10 Mar 2026 08:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Iran women footballers granted visas and in 'safe location' in Australia",
       "description": "Australia has given visas to five members of the Iranian women's football team amid fears for their safety after they were criticised for not singing the national anthem.",
       "url": "https://news.sky.com/story/players-from-iran-womens-football-team-seek-refuge-in-australia-13517229",
@@ -1537,16 +1527,6 @@
       "description": "The contentious trial of Istanbul's deposed mayor, once the main rival to President Erdogan, got off to a rocky start. The opposition CHP party calls the corruption investigation against it politically motivated.",
       "url": "https://www.dw.com/en/turkey-heated-trial-of-istanbul-mayor-imamoglu-opens/a-76276717?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 9 Mar 2026 12:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Huge blaze near Glasgow central station causes travel chaos",
-      "description": "A fire that began on Sunday near Glasgow Central Station has crippled train services at the busy rail hub. Major travel disruptions are expected to last throughout Monday.",
-      "url": "https://www.dw.com/en/huge-blaze-near-glasgow-central-station-causes-travel-chaos/a-76277990?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 9 Mar 2026 12:05:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1748,6 +1728,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany news: Volkswagen profits plummet by almost half",
+      "description": "The German auto giant has said it would cut around 50,000 jobs by 2030. Meanwhile, Berlin has withdrawn staff from its Baghdad embassy due to growing safety concerns. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-volkswagen-profits-plummet-by-almost-half/live-76285550?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 10 Mar 2026 08:56:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -2108,6 +2098,16 @@
       "url": "https://www.npr.org/2026/03/09/g-s1-112966/up-first-newsletter-iran-israel-us-mojtaba-khamenei-trump-voting-openai",
       "published": "Mon, 09 Mar 2026 07:20:18 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Disruption hits undersea power cable between Finland and Sweden",
+      "description": "A high-voltage power cable between Finland and Sweden went offline for several hours before the connection was restored. Finland's grid operator said the cable itself appeared to be unharmed.",
+      "url": "https://www.dw.com/en/disruption-hits-undersea-power-cable-between-finland-and-sweden/a-76285173?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 10 Mar 2026 08:09:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
