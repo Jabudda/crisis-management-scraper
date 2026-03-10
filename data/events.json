@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T22:44:09.219719Z",
-  "event_count": 224,
+  "last_updated": "2026-03-10T23:09:31.815376Z",
+  "event_count": 225,
   "events": [
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
@@ -60,16 +60,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Suspect in NYC terror probe planned attack 'bigger than the Boston Marathon bombing,' prosecutors say",
-      "description": "Federal prosecutors said on Monday that a suspect in the NYC protest attack planned an assault “bigger than the Boston Marathon bombing.\"",
-      "url": "https://www.foxnews.com/us/suspect-nyc-terror-probe-planned-attack-bigger-than-boston-marathon-bombing-prosecutors-say",
-      "published": "Mon, 09 Mar 2026 14:04:58 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -156,7 +146,7 @@
       "title": "Politics live: Wong and Marles insist Australia not at war after sending assistance to Gulf; Palmer makes new run for parliament",
       "description": "Follow updates live Get our breaking news email , free app or daily news podcast ‘There are developments this morning’: Chalmers on Iranian football team We’re getting a slightly bigger forward sizzle from the treasurer on how many people from the Iranian women’s football team have sought asylum in Australia. There are developments this morning that I’m reluctant to go into because Tony Burke, the minister, will be up later this morning to give people a proper sense of that … It is a tribute to their bravery and to the work of the officials and the ministers that we’ve been able to issue those five visas already. As I understand it, there are more discussions this morning and Tony Burke will have more to say about that later in the day. We’re seeing a lot of volatility play out on these global markets … We won’t be immune from that. We’re not complacent about it, but we’re also really well placed in Australia to deal with what’s coming at us from around the world. Clearly, we had an inflation challenge in our economy already and this risks making it worse. That’s clear. And we’ve been upfront about that. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/11/federal-politics-updates-iran-womens-football-team-asylum-anthony-albanese-tony-burke-labor-angus-taylor-coalition-ntwnfb",
-      "published": "Tue, 10 Mar 2026 22:39:02 GMT",
+      "published": "Tue, 10 Mar 2026 22:51:28 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
@@ -764,7 +754,7 @@
     },
     {
       "title": "Six dead and five injured in 'deliberate' Swiss bus fire",
-      "description": "Six people have died in a bus blaze in Switzerland, which was allegedly started by a man inside the vehicle, according to police and local media reports.",
+      "description": "At least six people have died in a bus blaze in Switzerland, which was allegedly started by a man inside the vehicle, according to police and local media reports.",
       "url": "https://news.sky.com/story/six-dead-and-five-injured-in-deliberate-swiss-bus-fire-13517932",
       "published": "Tue, 10 Mar 2026 22:18:00 +0000",
       "source": "Sky News World",
@@ -1703,6 +1693,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-10T23:09:16.266487Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Why Russia is assisting Iran's military",
       "description": "NPR's Juana Summers speaks with Nicole Grajewski, professor at Sciences Po and author of Russia and Iran , about Russia's reported support of Iran's military.",
       "url": "https://www.npr.org/2026/03/10/nx-s1-5739339/why-russia-is-assisting-irans-military",
@@ -2218,6 +2218,16 @@
       "url": "https://abcnews.com/International/wireStory/belarus-journalist-convicted-treason-sentenced-9-years-prison-130902704",
       "published": "Mon, 09 Mar 2026 11:03:59 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘Unclaimed’ Navy veteran given full military honors as community refuses to let him be buried alone",
+      "description": "Navy veteran Lonnie Wayman received full military honors at a Tennessee cemetery after community rallied to ensure he wasn't buried alone despite having no known family.",
+      "url": "https://www.foxnews.com/us/unclaimed-navy-veteran-full-military-honors-community-refuses-buried-alone",
+      "published": "Tue, 10 Mar 2026 18:56:53 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
