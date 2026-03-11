@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T18:48:44.153354Z",
-  "event_count": 223,
+  "last_updated": "2026-03-11T19:20:33.860969Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Lebanon ‘dragged back into turmoil’, UN envoy warns",
@@ -60,6 +60,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 17 killed after drone strikes school in Sudan",
+      "description": "Strike in Shukeiri killed teachers and health care workers and is latest incident in three-year war At least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’ s paramilitary Rapid Support Forces struck a secondary school and a health care centre. At least 10 people were wounded in the strike in the village of Shukeiri in the White Nile province, according to Dr Musa al-Majeri, director of Douiem Hospital, the nearest major medical facility to the village. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
+      "published": "Wed, 11 Mar 2026 19:08:31 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -287,26 +297,6 @@
       "description": "The FIFA World Cup 2026 was billed as one of the easiest to organise, but challenges still lie in wait.",
       "url": "https://www.aljazeera.com/sports/2026/3/11/fifa-world-cup-iran-participation-mexico-violence-visa-ban?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 17:22:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "What happened in Ukraine missile attack in Russia’s Bryansk?",
-      "description": "A Ukrainian missile attack on Russia’s Bryansk killed 6 civilians and injured 37 others, according to local officials.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/what-happened-in-ukraine-missile-attack-in-russias-bryansk?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 13:32:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran cannot participate in the FIFA World Cup, sports minister says",
-      "description": "Iran says 'under no circumstances' will it participate following the US-Israeli attacks that killed its supreme leader.",
-      "url": "https://www.aljazeera.com/sports/2026/3/11/iran-cannot-participate-in-the-fifa-world-cup-sports-minister-says?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 13:27:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 23,
@@ -624,7 +614,7 @@
     },
     {
       "title": "Mysterious calls placed from NYC terror suspect family's home hours after alleged ISIS-inspired attack",
-      "description": "Two Pennsylvania men accused of ISIS-inspired NYC terror plot lived 10 miles apart but came from vastly different backgrounds before their arrests.",
+      "description": "Two Pennsylvania men accused of an ISIS-inspired NYC terror plot lived 10 miles apart but came from vastly different backgrounds before their arrests.",
       "url": "https://www.foxnews.com/us/mysterious-calls-placed-from-nyc-terror-suspect-familys-home-hours-after-alleged-isis-inspired-attack",
       "published": "Wed, 11 Mar 2026 14:42:46 -0500",
       "source": "Fox News US",
@@ -738,6 +728,16 @@
       "url": "https://www.france24.com/en/g7-releases-record-amount-of-oil-stocks-to-calm-the-markets-down",
       "published": "Wed, 11 Mar 2026 16:38:15 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Extraordinary announcement not enough to bring down oil price",
+      "description": "The International Energy Agency (IEA), the developed nation body founded in the 1970s to deal with oil crises precisely like the one we're now facing, has announced something extraordinary.",
+      "url": "https://news.sky.com/story/extraordinary-iea-announcement-not-enough-to-bring-down-oil-price-13518317",
+      "published": "Wed, 11 Mar 2026 17:42:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -1123,6 +1123,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran's president has called for reparations and security guarantees as conditions to end the war with the US and Israel. Follow live",
+      "description": "Iran's president has set conditions for an end to the war, including reparations and guarantees against future aggression. Meanwhile, the IEA's 32 member states agreed to release 400 million barrels of oil. Follow live.",
+      "url": "https://www.dw.com/en/iran-s-president-has-called-for-reparations-and-security-guarantees-as-conditions-to-end-the-war-with-the-us-and-israel-follow-live/live-76297820?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 11 Mar 2026 19:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Merz says Germany won't join EU return to nuclear energy",
       "description": "European Commission President Ursula von der Leyen is in favor of a proposal to build new nuclear power plants in the EU. German German Chancellor Friedrich Merz says it's impossible.",
       "url": "https://www.dw.com/en/merz-says-germany-won-t-join-eu-return-to-nuclear-energy/a-76305267?maca=en-rss-en-all-1573-xml-mrss",
@@ -1148,16 +1158,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/oil-facilities-in-omans-salalah-port-ablaze-after-drone-strikes?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 15:17:07 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
-      "description": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, has signed the agreement and he’s happy. “With this money we can have a proper floor in the house,” he said. “And an inside toilet.” Lima is part of a ground-breaking experiment on the West African island of Príncipe, where villagers who agree to follow an environmental protection code will reap a quarterly dividend. To date nearly 3,000 have joined the Faya Foundation’s project, more than 60% of the adult population. The first payment of €816 (£708) has just been delivered, a large amount of money on the island. “This will be truly transformative, both for nature and for the people,” said the president of the self-governing region, Felipe Nascimento. Continue reading...",
-      "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
-      "published": "Tue, 10 Mar 2026 16:13:35 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1298,6 +1298,16 @@
       "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Mar 2026 19:35:29 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "The hidden battlefield: Censorship in the Israel–Iran war",
+      "description": "Missiles fly between Israel and Iran, but censorship and access limits mean much of the war remains hidden from view.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/3/11/aje-onl-isr_mediacensorship_av_v2_1-110326?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 18:45:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1523,21 +1533,31 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Snapchat told an Australian mother it would not delete her son’s account because his listed age was 25",
-      "description": "Parents have been told to report accounts missed in Australia’s under-16 social media ban – but eSafety is ‘concerned’ some platforms aren’t complying Get our breaking news email , free app or daily news podcast An Australian mother who reported her 14-year-old’s Snapchat account has been rebuffed by the social media company, because his self-declared age was 25. Parents of teens who have eluded the social media ban have been told to report their children’s accounts to the platforms to get them kicked off, but some platforms are not acting on it, Guardian Australia can reveal. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/11/social-media-ban-australia-snapchat-compliance",
-      "published": "Wed, 11 Mar 2026 14:00:53 GMT",
-      "source": "The Guardian World",
+      "title": "Six die in Swiss bus fire after man thought to have set himself alight",
+      "description": "Fribourg canton's public prosecutor Raphael Bourquin said the man allegedly responsible for the fire likely died.",
+      "url": "https://www.aljazeera.com/news/2026/3/11/six-die-in-swiss-bus-fire-after-man-thought-to-have-set-himself-alight?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 18:47:49 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Iran: Cargo ships hit in Hormuz as Dubai targeted by drones",
-      "description": "At least one bulk carrier had to be evacuated after it was hit by an unknown projectile and caught fire. Iranian drones also hit Dubai airport. Follow DW.",
-      "url": "https://www.dw.com/en/iran-cargo-ships-hit-in-hormuz-as-dubai-targeted-by-drones/live-76297820?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 11 Mar 2026 10:27:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Ship crew film drone strike on oil facility at Oman’s Salalah port",
+      "description": "Crew on-board a nearby vessel at Oman’s Salalah port filmed the moment a drone struck the oil facility.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/ship-crew-film-drone-strike-on-oil-facility-at-omans-salalah-port?traffic_source=rss",
+      "published": "Wed, 11 Mar 2026 18:28:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Snapchat told an Australian mother it would not delete her son’s account because his listed age was 25",
+      "description": "Parents have been told to report accounts missed in Australia’s under-16 social media ban – but eSafety is ‘concerned’ some platforms aren’t complying Get our breaking news email , free app or daily news podcast An Australian mother who reported her 14-year-old’s Snapchat account has been rebuffed by the social media company, because his self-declared age was 25. Parents of teens who have eluded the social media ban have been told to report their children’s accounts to the platforms to get them kicked off, but some platforms are not acting on it, Guardian Australia can reveal. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/11/social-media-ban-australia-snapchat-compliance",
+      "published": "Wed, 11 Mar 2026 14:00:53 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1653,6 +1673,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-11T19:20:10.151026Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Why Russia is assisting Iran's military",
       "description": "NPR's Juana Summers speaks with Nicole Grajewski, professor at Sciences Po and author of Russia and Iran , about Russia's reported support of Iran's military.",
       "url": "https://www.npr.org/2026/03/10/nx-s1-5739339/why-russia-is-assisting-irans-military",
@@ -1693,16 +1723,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "California bishop’s alleged secret double life explodes into felony case",
-      "description": "California Bishop Emanuel Shaleta pleaded not guilty to multiple felonies tied to alleged church fund theft and was arrested at an airport amid reports of Mexico brothel visits.",
-      "url": "https://www.foxnews.com/us/california-bishops-alleged-secret-double-life-explodes-felony-case",
-      "published": "Tue, 10 Mar 2026 16:12:44 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "LIVE: Real Madrid vs Manchester City – Champions League last 16",
       "description": "Follow the build-up, analysis and live text commentary of the game as Madrid host City for last 16, first leg showdown.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/3/11/live-real-madrid-vs-manchester-city-champions-league-last-16?traffic_source=rss",
@@ -1728,6 +1748,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right",
       "published": "Wed, 11 Mar 2026 08:00:12 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Florida mom accused of abandoning daughter at Universal Studios to go drinking at bar",
+      "description": "A Florida mother was arrested and charged with child neglect after allegedly leaving her 12-year-old daughter alone at a Universal CityWalk bar while she went drinking elsewhere, authorities said.",
+      "url": "https://www.foxnews.com/us/florida-mom-accused-abandoning-daughter-universal-studios-go-drinking-bar",
+      "published": "Wed, 11 Mar 2026 15:11:23 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1847,16 +1877,6 @@
       "description": "Proposed release is larger than the 182 million barrels of oil that IEA ​members released after Russia invaded Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/3/11/iea-proposes-release-of-400m-barrels-of-oil-from-strategic-reserves?traffic_source=rss",
       "published": "Wed, 11 Mar 2026 14:29:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Nothing changes’: Four decades in power, Congo’s Nguesso seeks a new term",
-      "description": "Is Brazzaville's stability a result of gradual democratic consolidation or carefully organised political continuity?",
-      "url": "https://www.aljazeera.com/features/2026/3/11/nothing-changes-four-decades-in-power-congos-nguesso-seeks-a-new-term?traffic_source=rss",
-      "published": "Wed, 11 Mar 2026 13:44:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2087,16 +2107,6 @@
       "description": "A British married couple have drowned at a popular beach on the New South Wales coast in Australia.",
       "url": "https://news.sky.com/story/british-couple-drown-at-popular-australian-beach-13518078",
       "published": "Wed, 11 Mar 2026 08:28:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How ships are 'going dark' to cross the Strait of Hormuz",
-      "description": "Iran's move to shut the Strait of Hormuz has brought shipping through the 24-mile stretch of water close to a standstill.",
-      "url": "https://news.sky.com/story/dark-ships-and-shadow-fleets-8211-what-is-crossing-closed-strait-of-hormuz-13517746",
-      "published": "Tue, 10 Mar 2026 19:24:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
