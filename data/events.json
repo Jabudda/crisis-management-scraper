@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:12:55.671220Z",
+  "last_updated": "2026-03-14T09:45:16.002761Z",
   "event_count": 223,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "More than 110 people killed in Iran’s Kurdistan: Official",
+      "description": "At least 112 killed in US-Israel attacks on Iran’s Kurdistan province, with 969 injured, local officials say.",
+      "url": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 09:24:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -153,9 +163,19 @@
       "severity_level": "Critical"
     },
     {
-      "title": "India news: Drone attacks kills 2 Indians in Oman",
+      "title": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+      "description": "Strikes target multiple countries, including Saudi Arabia and Qatar, overnight with interceptions reported.",
+      "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
+      "published": "Sat, 14 Mar 2026 09:12:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "India news: Drone attack kills 2 Indians in Oman",
       "description": "The death toll of Indians killed in the US-Israel war with Iran has gone up to at least five. Meanwhile, Indians at home are facing higher air fares. DW has more.",
-      "url": "https://www.dw.com/en/india-news-drone-attacks-kills-2-indians-in-oman/live-76357125?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/india-news-drone-attack-kills-2-indians-in-oman/live-76357125?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 14 Mar 2026 07:06:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -200,16 +220,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
-      "description": "More than 200 civilians killed in recent days as drone strikes tear through markets, schools and hospitals.",
-      "url": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 20:50:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -428,16 +438,6 @@
       "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us",
       "published": "Fri, 13 Mar 2026 02:42:20 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Six US service members killed in plane crash over Iraq",
-      "description": "ll six crew members aboard a US military refueling aircraft that ​crashed in western Iraq are confirmed to have been killed, the US military said on Friday. The deaths add to the seven US service members who have already been killed as part ‌of US operations against Iran which began on February 28.",
-      "url": "https://www.france24.com/en/video/20260313-six-us-service-members-killed-in-plane-crash-over-iraq",
-      "published": "Fri, 13 Mar 2026 15:38:16 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -863,6 +863,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Tyre residents refuse to evacuate Lebanon's Hezbollah bastion despite Israeli strikes",
+      "description": "As Israel has ramped up attacks on south Lebanon it has called for residents to evacuate – but some in the Hezbollah stronghold of Tyre are refusing to leave their homes and businesses despite the danger.",
+      "url": "https://www.france24.com/en/middle-east/20260314-tyre-residents-refuse-to-evacuate-lebanon-s-hezbollah-bastion-despite-israeli-strikes",
+      "published": "Sat, 14 Mar 2026 09:22:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "US judge quashes subpoenas in Justice Department's probe of Fed chair Powell",
       "description": "A federal judge on Friday quashed Justice Department subpoenas issued to the Federal Reserve in January, dealing a fresh blow to an investigation that has already attracted strong criticism on Capitol Hill.",
       "url": "https://www.france24.com/en/americas/20260313-us-judge-quashes-subpoenas-in-justice-department-s-probe-of-fed-chair-powell",
@@ -888,6 +898,16 @@
       "url": "https://www.france24.com/en/video/20260313-thousands-displaced-by-clashes-in-south-sudan-town",
       "published": "Fri, 13 Mar 2026 15:57:51 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian strike on Ukraine's Kyiv region kills at least 4, wounds over a dozen",
+      "description": "A Russian missile and drone strike hit the Kyiv region and killed at least four people, Ukrainian officials said",
+      "url": "https://abcnews.com/International/wireStory/russian-strike-kyiv-region-kills-4-wounds-15-131063087",
+      "published": "Sat, 14 Mar 2026 05:34:11 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1633,16 +1653,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "China slams Trump's trade investigation, as it approves a 5-year economic plan",
-      "description": "China's Foreign Ministry criticized the Trump administration's trade investigation as a \"pretext\" for tariffs. Meanwhile, China is moving ahead with a five-year plan that may rankle trade partners.",
-      "url": "https://www.npr.org/2026/03/12/nx-s1-5746061/us-china-trade-five-year-plan",
-      "published": "Thu, 12 Mar 2026 22:38:27 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Cuban president confirms talks with US",
       "description": "Miguel Diaz-Canel confirmed that Cuba has opened talks with Washington as a US blockade isolates the Caribbean nation. US President Trump has said a deal would be \"very easily made\" after threatening a \"takeover.\"",
       "url": "https://www.dw.com/en/cuban-president-confirms-talks-with-us/a-76355516?maca=en-rss-en-all-1573-xml-mrss",
@@ -1756,7 +1766,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-14T09:12:40.255755Z",
+      "published": "2026-03-14T09:44:54.587498Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1787,16 +1797,6 @@
       "description": "Alpine monitors are reporting that all but two of Austria’s 96 glaciers have retreated over the last two years and say such a “dramatic development” highlights the impact of climate change",
       "url": "https://abcnews.com/International/wireStory/2-austrias-96-glaciers-retreated-2-years-131031551",
       "published": "Fri, 13 Mar 2026 07:17:50 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australian jury convicts Sydney consultant over deals with suspected Chinese spies",
-      "description": "A Sydney business consultant has been convicted of breaking Australia’s foreign interference laws by providing reports to two people he should have suspected were Chinese spies",
-      "url": "https://abcnews.com/International/wireStory/australian-jury-convicts-sydney-business-consultant-deals-suspected-131029417",
-      "published": "Fri, 13 Mar 2026 03:28:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1907,16 +1907,6 @@
       "description": "Analysts say Congo Brazzaville's election are a mere formality as President Sassou Nguesso is set to extend his rule.",
       "url": "https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss",
       "published": "Sat, 14 Mar 2026 00:21:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Worshippers pray outside Al-Aqsa amid closure on al-Quds Day",
-      "description": "Muslim worshippers prayed outside Jerusalem’s Al-Aqsa compound as Israeli authorities kept holy sites closed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
-      "published": "Fri, 13 Mar 2026 21:53:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2048,6 +2038,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2x6",
       "published": "2026-03-11T17:01:47.552Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says",
+      "description": "President Trump said on Friday the U.S. military had \"totally obliterated\" military targets in Kharg Island, home to the primary terminal that handles Iran's oil exports. This as all six crew members on a refueling plane that went down in western Iraq were confirmed dead.",
+      "url": "https://www.npr.org/2026/03/14/nx-s1-5747838/trump-kharg-island-iran-war",
+      "published": "Sat, 14 Mar 2026 05:30:21 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
