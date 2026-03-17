@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T20:47:06.703870Z",
+  "last_updated": "2026-03-17T21:16:00.120423Z",
   "event_count": 221,
   "events": [
     {
@@ -18,6 +18,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans",
       "published": "Tue, 17 Mar 2026 19:18:50 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 45,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "War in Iran exposes cracks in Trump's MAGA coalition",
+      "description": "Joe Kent, the director of the National Counterterrorism Center, announced his resignation on Tuesday, citing his concerns about the justification for military strikes in Iran and saying he “cannot in good conscience” back the Trump administration’s war. Kent, a former Green Beret and political candidate with connections to right-wing extremists, was in charge of an agency tasked with analyzing and detecting terrorist threats. FRANCE 24's Fraser Jackson reports from Washington.",
+      "url": "https://www.france24.com/en/war-in-iran-exposes-cracks-in-trump-s-maga-coalition",
+      "published": "Tue, 17 Mar 2026 20:36:49 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 45,
       "severity_level": "Critical"
@@ -133,16 +143,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "The RBA has made one of its most controversial calls in recent years - and this rate rise may not age well",
-      "description": "Michele Bullock says high inflation hurts everyone, but there still seems to be an extraordinary level of complacency about potential fallout from the US-Israel war on Iran Get our breaking news email , free app or daily news podcast The Reserve Bank has made some controversial calls over recent years, but hiking interest rates in the middle of a historic global energy shock is right up there. If this Middle East conflict lasts for months, not weeks, and drags the world and our economy down, then Tuesday’s decision to increase households’ borrowing costs will not age well. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/17/the-rba-has-made-one-of-its-most-controversial-calls-in-recent-years-and-this-rate-rise-may-not-age-well",
-      "published": "Tue, 17 Mar 2026 08:42:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
       "title": "'Misguided' military operation: Trump’s appeal for Hormuz support draws no commitments from allies",
       "description": "Genie Godula is pleased to welcome Peter Trubowitz, Professor of International Relations and Director of the Phelan US Centre at the London School of Economics. According to Professor Trubowitz, what we are witnessing is a dynamic in which both sides are trying to expand the scope of the conflict in order to gain leverage. Iran has broadened the battlefield by targeting regional actors and threatening the maritime chokepoint. All the while, the United States is attempting, so far unsuccessfully, to draw Asian and European allies into the effort to secure Hormuz.",
       "url": "https://www.france24.com/en/video/20260317-misguided-military-operation-trump-s-appeal-for-hormuz-support-draws-no-commitments-from-allies-1",
@@ -194,7 +194,7 @@
     },
     {
       "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
-      "description": "Top UN officials condemned on Tuesday Pakistan’s overnight strike on a rehab centre that reportedly killed at least 400 people in Kabul and injured more than 250 others.",
+      "description": "Top UN officials condemned on Tuesday Pakistan’s overnight strike on a rehab centre that reportedly killed at least 400 people in Kabul, according to Taliban authorities, and injured more than 250 others.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167148",
       "published": "Tue, 17 Mar 2026 12:00:00 +0000",
       "source": "UN News",
@@ -283,6 +283,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, Sexual abuse safeguards, New ‘humancentric’ AI Advocate",
+      "description": "A new UN human rights report warns that expanding Israeli settlements are driving large-scale displacement of Palestinians across the occupied West Bank.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167150",
+      "published": "Tue, 17 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Next US move on Iran: Seize Kharg Island, secure uranium or risk ground war escalation",
       "description": "Military analysts discuss three paths for U.S.-Iran conflict: capturing Iran's economic lifeline at Kharg Island, full invasion or securing nuclear sites.",
       "url": "https://www.foxnews.com/world/next-move-iran-seize-kharg-island-secure-uranium-risk-ground-war-escalation",
@@ -300,16 +310,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "British photographer Mark Neville on documenting four years of war in Ukraine",
-      "description": "A British photographer who has spent the last four years living under near-daily attacks on Kyiv has told FRANCE 24 that his nervous system has adapted to the war in Ukraine. Mark Neville says he feels he now has an advantage over people living in the rest of Europe, as his body has naturally adapted to the situation. He has set up a charity, Postcode Ukraine, which makes deliveries of humanitarian aid to frontline towns. Neville also takes photos of the people he meets to bring their stories to the wider world as the war drags on, and has had great success with his book \"Diary of a Volunteer\". He spoke to us in Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260317-british-photographer-mark-neville-on-documenting-four-years-of-war-in-ukraine",
-      "published": "Tue, 17 Mar 2026 14:40:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -393,13 +393,13 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Protesters torch Communist Party HQ in Cuba; video appears to capture gunfire",
-      "description": "Dramatic footage appears to show a protester on the ground after alleged gunfire as crowds attack the Communist Party building in Cuba, chanting \"Freedom!\" amid crisis.",
-      "url": "https://www.foxnews.com/world/protesters-attack-communist-party-hq-cuba-video-appears-capture-gunfire",
-      "published": "Sat, 14 Mar 2026 16:32:33 -0400",
-      "source": "Fox News World",
+      "title": "Iranian security chief Ali Larijani killed in air strike",
+      "description": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 21:14:35 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 23,
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -453,6 +453,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "War on Iran: As top leaders and commanders are killed, 'regime will harden and close ranks'",
+      "description": "As Israel announces it has killed Iran's security chief, Ali Larijani, Annette Young is joined by Negah Angha, Visiting Fellow at King's College London. In assessing the reported killing of senior Iranian leadership figures, Ms. Angha argues that such developments represent a serious shock to the Iranian political system but not an existential threat to the regime itself. The Islamic Republic was deliberately designed with layered succession structures. What we are likely to see is the further hardening of the regime’s security apparatus.",
+      "url": "https://www.france24.com/en/war-on-iran-as-top-leaders-and-commanders-are-killed-regime-will-harden-and-close-ranks",
+      "published": "Tue, 17 Mar 2026 20:23:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Iraq’s capital Baghdad rocked by powerful blasts near US embassy",
       "description": "The attacks are part of an escalating cycle of violence between US forces and Iraqi groups aligned with Tehran.",
       "url": "https://www.aljazeera.com/news/2026/3/17/iraqi-capital-baghdad-rocked-by-powerful-blasts-near-us-embassy?traffic_source=rss",
@@ -473,16 +483,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
-      "description": "Iran's Revolutionary Guards confirmed the death of a different commander, but did not comment on Larijani.",
-      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 20:08:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Video: Man rescued from under rubble after attack in Iran",
       "description": "A man was rescued from under the rubble of a destroyed building in Iran following an Israeli strike.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
@@ -497,16 +497,6 @@
       "description": "The United Nations is warning that escalating drone warfare in Sudan has killed more than 200 people in over a week.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/drones-expand-the-deadly-front-lines-of-sudans-devastating-war?traffic_source=rss",
       "published": "Tue, 17 Mar 2026 15:46:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Israeli attacks on Lebanon may amount to war crimes, UN rights office says",
-      "description": "'Deliberately attacking civilians, civilian objects amounts to war crime,' UN says after resurgence in Israeli strikes.",
-      "url": "https://www.aljazeera.com/news/2026/3/17/israeli-attacks-on-lebanon-may-amount-to-war-crimes-un-rights-office-says?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 14:57:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
@@ -547,16 +537,6 @@
       "description": "Two Indian-flagged tankers together carrying over 92,000 metric tonnes of liquefied petroleum gas have arrived at ports in Gujarat state after safely passing through the Strait of Hormuz. New Delhi has been negotiating with Iran, but the government denies discussing the possible release of Iranian tankers it seized in February as part of the bargain. Meanwhile, global crude prices jumped again amid new Iranian attacks on the UAE.",
       "url": "https://www.france24.com/en/tv-shows/business/20260317-indian-tankers-carrying-lpg-arrive-at-port-after-safe-passage-through-strait-of-hormuz",
       "published": "Tue, 17 Mar 2026 18:43:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Britain hit by ‘unprecedented’ meningitis outbreak, two students dead",
-      "description": "Britain has been hit by an “unprecedented” meningitis outbreak, the country’s health minister warned Tuesday after two students died from catching a rare bacterial strain of the disease. So far, 15 cases have been reported. The outbreak has been linked to a Canterbury nightclub.",
-      "url": "https://www.france24.com/en/europe/20260317-britain-hit-by-unprecedented-meningitis-outbreak-two-students-dead",
-      "published": "Tue, 17 Mar 2026 14:35:04 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 19,
@@ -648,6 +628,26 @@
       "url": "https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz",
       "published": "Mon, 16 Mar 2026 22:17:11 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: Kyle Sandilands says ARN has terminated his contract but he ‘doesn’t accept it’; Trump lashes out at Australia",
+      "description": "US president says his country does not ‘need or desire’ the help of Nato, Japan, Australia or South Korea. Follow today’s news live Get our breaking news email , free app or daily news podcast ARN confirms Kyle Sandilands contract terminated ARN just issued a statement confirming Kyle Sandilands’ contract had been terminated and the Kyle and Jackie O show cancelled. ARN has just announced that they’ve terminated my contract. I don’t accept it. My lawyers told them last week this would be invalid. And guess what? It is. They sacked Jackie. They suspended me. They wouldn’t even let me pick up the phone to call her or anyone else on the show. Then – and this is the bit that gets me – once they’d made it impossible for the show to go on, they turn around and say, “You didn’t fix it. You’re fired!” Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb",
+      "published": "Tue, 17 Mar 2026 21:06:16 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says NATO's refusal to help on Iran is \"very foolish mistake\"",
+      "description": "US President Donald Trump lashed out Tuesday at \"foolish\" NATO over Iran, saying the United States needs no help after allies rebuffed his calls to join efforts to reopen the Strait of Hormuz. FRANCE 24's international affairs editor Kethevane Gorjestani explains.",
+      "url": "https://www.france24.com/en/trump-says-nato-s-refusal-to-help-on-iran-is-very-foolish-mistake",
+      "published": "Tue, 17 Mar 2026 19:43:31 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -833,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: Kyle Sandilands says ARN has terminated his contract but he ‘doesn’t accept it’; Trump lashes out at Australia",
-      "description": "US president says his country does not ‘need or desire’ the help of Nato, Japan, Australia or South Korea. Follow today’s news live Get our breaking news email , free app or daily news podcast Kyle Sandilands said this morning his contract has been terminated by ARN. In a statement, the radio host said: ARN has just announced that they’ve terminated my contract. I don’t accept it. My lawyers told them last week this would be invalid. And guess what? It is. They sacked Jackie. They suspended me. They wouldn’t even let me pick up the phone to call her or anyone else on the show. Then – and this is the bit that gets me – once they’d made it impossible for the show to go on, they turn around and say, “You didn’t fix it. You’re fired!” ARN knew exactly what they were getting when they signed my deal. They’ve worked with me for over a decade. They knew how I work, they knew the show, and they were happy to pay for it – because I delivered. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb",
-      "published": "Tue, 17 Mar 2026 20:32:14 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "A Trump official quits over the Iran war, as Israel says it killed 2 Iranian commanders",
       "description": "Israel says it killed Ali Larijani and Gholamreza Soleimani. Iran has yet to confirm but it would be the highest-profile killings since the targeting of Iran's Ayatollah Ali Khamenei.",
       "url": "https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders",
@@ -963,6 +953,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Obama-appointed judge orders release of MS-13 gang member with history of rape, robbery, attacked ICE officers",
+      "description": "A federal judge has ordered the release of Carlos Antonio Flores-Miguel, an MS-13 member with a history of rape and robbery, drawing sharp criticism from DHS.",
+      "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
+      "published": "Tue, 17 Mar 2026 16:52:57 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
       "description": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
       "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
@@ -1013,11 +1013,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump team applying pressure to media: Tell the war's story the way we see it",
+      "description": "Speaking with FRANCE 24's Monte Francis, Robert Corn-Revere, Chief Counsel for the Foundation for Individual Rights and Expression, explains that the FCC pressure on news organisations \"is simply a threat being wielded by a powerful regulator to try to condition the behaviour of broadcast stations\" because television licences are not supposed to be up for renewal until after the current administration will be out of office.",
+      "url": "https://www.france24.com/en/trump-team-applying-pressure-to-media-tell-the-war-s-story-the-way-we-see-it",
+      "published": "Tue, 17 Mar 2026 20:43:55 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Who will win the race to become Paris mayor?",
       "description": "The Paris mayoral race narrowed on Monday as a former minister hoping to wrest control of the French capital from the left sealed a deal to join forces with a fellow right-winger for the second-round run-off. France 24's Marc Perelman takes a look at how things might go when France heads to the polls this Sunday to choose not only the capital's next mayor but vote in local elections across the country.",
       "url": "https://www.france24.com/en/video/20260317-who-will-win-the-race-to-become-paris-mayor",
       "published": "Tue, 17 Mar 2026 16:10:28 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Inside Iran's children's wards: The devastating human cost of US-Israeli airstrikes",
+      "description": "The human cost of Israel and America's air campaign on Iran is mounting, nowhere more painfully felt than in the children's wards of its hospitals.",
+      "url": "https://news.sky.com/story/inside-irans-childrens-wards-the-devastating-human-cost-of-us-israeli-airstrikes-13520923",
+      "published": "Tue, 17 Mar 2026 15:56:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1048,6 +1068,16 @@
       "url": "https://www.foxnews.com/us/top-iranian-officials-targeted-killed-military-strikes-more-top-headlines",
       "published": "Tue, 17 Mar 2026 07:10:22 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Rubio says Cuba needs ‘new people in charge’ as blackouts, unrest grip island",
+      "description": "Marco Rubio links U.S. sanctions on Cuba to political change as the island nation faces widespread blackouts and economic crisis affecting millions of citizens.",
+      "url": "https://www.foxnews.com/world/rubio-says-cuba-needs-new-people-charge-blackouts-unrest-grip-island",
+      "published": "Tue, 17 Mar 2026 17:00:55 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1173,16 +1203,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "From Haitian roots to viral fame: The rise of performer Ralph Beaubrun",
-      "description": "Dancer, choreographer and singer Ralph Beaubrun has built a global following with his joyful dance classes and infectious energy online. Now the Franco-Haitian artist is stepping further into music with his new EP \"ID.2\", blending Afro-Caribbean rhythms, shatta and pop while singing in Creole, French and English.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260317-from-haitian-roots-to-viral-fame-the-rise-of-performer-ralph-beaubrun",
-      "published": "Tue, 17 Mar 2026 14:24:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Deepfakes, voice cloning and weaponised AI: Global wake-up call to organised fraud",
       "description": "The Sawyers from Australia were never really interested in volatile investing. As their retirement age approached, the idea of a low-risk investment for their pension seemed attractive. But one day, after clicking on a seemingly legitimate online advert that offered a reasonable risk-averse plan, they unlocked a process that would lead them to lose over $2.5 million.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167144",
@@ -1273,6 +1293,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Kyle Sandilands sacked and top-rating radio show cancelled as host vows to fight to return to air",
+      "description": "Kiis FM radio host was suspended from work after an on-air argument with co-host Jackie ‘O’ Henderson Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Kyle Sandilands has been sacked by ARN Media and his top-rating Kyle and Jackie O Show cancelled, but he says will fight to save his $100m contract. ARN Media said in a statement on Wednesday it had issued a notice of termination of contract to Sandilands and his company Quasar Media, over a dispute that began with an on-air argument between Sandilands and his co-host Jackie ‘O’ Henderson. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/18/kyle-sandilands-jackie-o-henderson-kiis-arn-contract-sacked-radio",
+      "published": "Tue, 17 Mar 2026 20:53:30 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Australian households fear double whammy of rate hikes and higher petrol prices will lead to recession",
       "description": "Borrowers face losing hundreds of dollars a month in higher repayments and rising pump rices will add to the pain, economists warn Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Surging interest rates and petrol prices have stripped more than $1bn a month from Australian household budgets as economists warn of recession risks. Consumers are preparing for rates to surpass their recent highs after the Reserve Bank delivered back-to-back hikes ahead of an inflation spike driven by the US war on Iran. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/mar/17/australian-households-fear-double-whammy-of-rate-hikes-and-higher-petrol-prices-will-lead-to-recession",
@@ -1348,16 +1378,6 @@
       "url": "https://www.dw.com/en/india-news-second-lpg-tanker-reaches-india-amid-shortage/live-76388602?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 17 Mar 2026 06:47:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump seeks to delay China visit as Beijing rebuffs Hormuz demands",
-      "description": "US President Donald Trump on Monday said he is seeking to delay a highly anticipated trip to China in early April by about a month because of the Iran war. It comes after Trump called on numerous nations, including China, to help ships safely transit the Strait of Hormuz, a request that so far has largely been rebuffed.",
-      "url": "https://www.france24.com/en/video/20260317-trump-seeks-to-delay-china-visit-as-beijing-rebuffs-hormuz-demands",
-      "published": "Tue, 17 Mar 2026 14:21:08 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1513,6 +1533,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Larijani was 'key to Iran's reach in the Gulf region'",
+      "description": "Reporting from Doha for FRANCE 24, Hoda Abdel-Hamid explains that Iranian security chief Ali Larijani \"was key to Iran's reach to the Gulf region\" adding that \"the GCC and Iran were two parties deeply suspicious of each other, it took decades for them to get close to each other and Larijani played a big role in that\". Ali Larijani was reported to have died in an Israeli airstrike on Tuesday.",
+      "url": "https://www.france24.com/en/larijani-was-key-to-iran-s-reach-in-the-gulf-region",
+      "published": "Tue, 17 Mar 2026 19:46:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Fearing Israeli strikes, a Druze village screens for Hezbollah militants among Lebanon’s displaced",
       "description": "In the predominantly Druze city of Aley, located on Mount Lebanon, authorities scrupulously check the identity documents of the many displaced who seek refuge there. They hope the measures will reassure a population fearful of inciting Israeli strikes because of the potential presence of Hezbollah militants among the arrivals fleeing southern Lebanon.",
       "url": "https://www.france24.com/en/middle-east/20260317-fearing-israeli-strikes-a-druze-village-screens-for-hezbollah-militants-among-lebanon-s-displaced",
@@ -1583,16 +1613,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump vows to 'take' Cuba as island hit by nationwide blackout",
-      "description": "- US President Donald Trump vowed Monday to \"take\" Cuba as the communist island plunged into darkness under a total power blackout linked to a crippling oil embargo imposed by Washington.",
-      "url": "https://www.france24.com/en/video/20260317-trump-vows-to-take-cuba-as-island-hit-by-nationwide-blackout",
-      "published": "Tue, 17 Mar 2026 14:23:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Nancy Guthrie update: Retired K-9 officer says decision not to use cadaver dogs ‘defies logic’",
       "description": "Retired K-9 expert questions why cadaver dogs aren't being used in Nancy Guthrie case as investigation enters seventh week with few concrete answers.",
       "url": "https://www.foxnews.com/us/nancy-guthrie-update-retired-k9-officer-says-decision-cadaver-dogs-defies-logic",
@@ -1607,16 +1627,6 @@
       "description": "An Army general reportedly left classified Ukraine documents on train, sparking major security concerns about maps that were recovered 24 hours later by a train attendant.",
       "url": "https://www.foxnews.com/us/us-army-general-oversaw-ukraine-left-classified-maps-train-overindulged-alcohol-ig-report",
       "published": "Mon, 16 Mar 2026 17:55:13 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Video shows out-of-control NYC taxi plow into 2 women on sidewalk",
-      "description": "Jaw-dropping video shows a taxi jumping the sidewalk and striking two women before crashing into a bodega in NYC. Both victims survived and were taken to a hospital in stable condition.",
-      "url": "https://www.foxnews.com/us/video-shows-out-of-control-nyc-taxi-plow-2-women-sidewalk",
-      "published": "Mon, 16 Mar 2026 17:21:18 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
@@ -1638,16 +1648,6 @@
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20260317-france-s-second-homes-the-price-of-a-place-in-the-sun",
       "published": "Tue, 17 Mar 2026 15:13:22 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Venezuela’s repressive State apparatus ‘intact’ despite leadership change",
-      "description": "Venezuela’s repressive State apparatus remains operational despite the seizure of former President Nicolás Maduro by United States forces on 3 January, according to independent UN human rights investigators.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167126",
-      "published": "Thu, 12 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1803,6 +1803,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure",
+      "description": "Washington continues to block fuel to island nation, as Trump floats 'doing something with Cuba very soon'.",
+      "url": "https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 20:48:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Diners witness drone interception attempt overhead in Baghdad",
+      "description": "Diners at a restaurant in Baghdad witnessed the moment a C-RAM air defence system attempted to intercept a drone.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/diners-witness-drone-interception-attempt-overhead-in-baghdad?traffic_source=rss",
+      "published": "Tue, 17 Mar 2026 20:38:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US Attorney General Pam Bondi subpoenaed for congressional Epstein probe",
       "description": "Bondi will face questions about the Trump administration's compliance with the Epstein Files Transparency Act in April.",
       "url": "https://www.aljazeera.com/news/2026/3/17/us-attorney-general-pam-bondi-subpoenaed-for-congressional-epstein-probe?traffic_source=rss",
@@ -1827,16 +1847,6 @@
       "description": "The Israeli military has launched waves of air raids across southern Lebanon.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-what-we-know-about-israels-assault-on-southern-lebanon?traffic_source=rss",
       "published": "Tue, 17 Mar 2026 15:58:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Liverpool vs Galatasaray: UEFA Champions League – teams, start, lineups",
-      "description": "Liverpool must overturn a 1-0 deficit against Galatasaray in the second leg of their UEFA Champions League last-16 tie.",
-      "url": "https://www.aljazeera.com/sports/2026/3/17/liverpool-vs-galatasaray-uefa-champions-league-teams-start-lineups?traffic_source=rss",
-      "published": "Tue, 17 Mar 2026 15:11:13 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1963,10 +1973,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pauline Hanson exploiting less well-educated Australians, Labor says",
+      "title": "Pauline Hanson exploiting the frustrations of Australians who have been ‘left behind’, Labor says",
       "description": "One Nation and Coalition adopting reactionary tactics to win over frustrated and fearful voters, frontbencher Andrew Giles says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Pauline Hanson and rightwing populists are cynically exploiting the frustrations of Australians who feel forgotten by government or left behind by poor education and job opportunities, Labor frontbencher Andrew Giles says. Accusing One Nation and the Coalition of adopting cynical and reactionary tactics to win over frustrated and fearful voters, Giles says better education is critical to stopping disenfranchisement with government and a weakening of democracy in Australia. Continue reading...",
       "url": "https://www.theguardian.com/society/2026/mar/17/liberal-party-pauline-hanson-one-nation-divisive-rhetoric-culture-wars-ntwnfb",
-      "published": "Tue, 17 Mar 2026 14:00:50 GMT",
+      "published": "Tue, 17 Mar 2026 21:01:27 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2013,6 +2023,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Congo-Brazzaville’s Sassou Nguesso reaps landslide re-election win, provisional results suggest",
+      "description": "Congo-Brazzaville’s incumbent President Denis Sassou Nguesso has been re-elected for a fifth term in a landslide win, provisional results showed Tuesday. Sassou Nguesso, 82, is one of Africa’s longest-serving leaders, and has been at the helm for a total of 42 years. The main opposition boycotted the vote, describing it as a farce.",
+      "url": "https://www.france24.com/en/africa/20260317-congo-brazzaville-s-sassou-nguesso-reaps-landslide-re-election-win-provisional-results-suggest",
+      "published": "Tue, 17 Mar 2026 20:51:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "France’s ex-president Sarkozy maintains innocence in Libya funding appeal trial",
       "description": "France’s former president Nicolas Sarkozy on Tuesday maintained his innocence as he returned to court to appeal his conviction for seeking financing from Libya’s late dictator Muammar Gaddafi to fund his 2007 presidential campaign. If Sarkozy loses his appeal, he faces up to 10 years in prison.",
       "url": "https://www.france24.com/en/france/20260317-france-s-ex-president-sarkozy-maintains-innocence-in-libya-funding-appeal-trial",
@@ -2033,11 +2053,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Kyrgyzstan: White yak breeders hope for recognition amid agricultural revival",
-      "description": "High up in the mountains of #Kyrgyzstan, a white yak has been bred over three generations of #herders. The family hopes to patent its breed as yaks are being presented by the #government as a sustainable solution for the agricultural nation in the face of #climate change.",
-      "url": "https://www.france24.com/en/video/20260317-kyrgyzstan-white-yak-herders-hope-for-recognition-amid-agricultural-revival",
-      "published": "Tue, 17 Mar 2026 14:26:32 GMT",
-      "source": "France24",
+      "title": "Princess of Wales celebrates St Patrick's Day with Irish Guards",
+      "description": "The Princess of Wales wished the officers and guardsmen of the Irish Guards a happy St Patrick's Day as she presented them with traditional sprigs of shamrock.",
+      "url": "https://news.sky.com/story/princess-of-wales-celebrates-st-patricks-day-with-irish-guards-13520996",
+      "published": "Tue, 17 Mar 2026 18:13:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2047,26 +2067,6 @@
       "description": "The latest shutdown of Dubai’s airport has disrupted the travel plans of thousands of UK passengers.",
       "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
       "published": "Mon, 16 Mar 2026 13:16:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bolsonaro moved out of intensive care after medical condition improves",
-      "description": "Former Brazilian president Jair Bolsonaro has been moved out of intensive care after his medical condition improved, his wife has said.",
-      "url": "https://news.sky.com/story/former-brazilian-president-jair-bolsonaro-moved-out-of-intensive-care-after-medical-condition-improves-13520733",
-      "published": "Mon, 16 Mar 2026 22:53:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How UK might try to keep the Strait of Hormuz open",
-      "description": "The UK military is considering the deployment of two drone types to the Middle East after the US asked allies for help to secure a key shipping lane in the region, it is understood.",
-      "url": "https://news.sky.com/story/the-drones-the-uk-is-considering-deploying-to-the-middle-east-13519993",
-      "published": "Sun, 15 Mar 2026 08:35:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
