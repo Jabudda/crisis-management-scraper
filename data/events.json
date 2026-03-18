@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T22:11:48.221243Z",
+  "last_updated": "2026-03-18T22:44:48.206526Z",
   "event_count": 221,
   "events": [
     {
@@ -60,16 +60,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tens of millions more in acute hunger if Mideast war drags on, UN warns",
-      "description": "An extra 45 million people could face acute hunger if the Mideast war carried on through June, swelling the number worldwide to a \"terrible\" high, the United Nations warned Tuesday. The war, now in its third week, has killed hundreds and seen Iran launch retaliatory strikes against Israel and Gulf nations, as well as a front opening in Lebanon with Israel battling Hezbollah.",
-      "url": "https://www.france24.com/en/video/20260318-tens-of-millions-more-in-acute-hunger-if-mideast-war-drags-on-un-warns",
-      "published": "Wed, 18 Mar 2026 15:41:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -153,11 +143,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Australia news live: Cyclone Narelle builds to category four storm as it nears Queensland coast; Iranian footballers arrive home",
-      "description": "Meanwhile treasurer plans ‘ambitious’ changes to target intergenerational inequity. Follow today’s news live Get our breaking news email , free app or daily news podcast Agriculture minister says government monitoring any price gouging of fertiliser Julie Collins , the federal minister for agriculture, said the government is monitoring any price gouging for fertiliser amid the turmoil in the Middle East. I think our government has been very clear that this should not be seen as a commercial opportunity for anybody. This is about what is in the national interest. This is a conflict that is impacting globally, and what we need Australians to do is to act in the national interest, and that includes everybody along that supply chain. Continue reading...",
+      "title": "Australia news live: Allan dismisses leadership whispers as gossip ‘from a few scallywags’; Cyclone Narelle builds to category four storm",
+      "description": "Meanwhile Anthony Albanese says he is not ruling out negative gearing and CGT changes in the next budget. Follow today’s news live Get our breaking news email , free app or daily news podcast Agriculture minister says government monitoring any price gouging of fertiliser Julie Collins , the federal minister for agriculture, said the government is monitoring any price gouging for fertiliser amid the turmoil in the Middle East. I think our government has been very clear that this should not be seen as a commercial opportunity for anybody. This is about what is in the national interest. This is a conflict that is impacting globally, and what we need Australians to do is to act in the national interest, and that includes everybody along that supply chain. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
-      "published": "Wed, 18 Mar 2026 21:58:04 GMT",
+      "published": "Wed, 18 Mar 2026 22:23:17 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "International shipping 'chaos' as Strait of Hormuz closure sends ripple effects across the globe",
+      "description": "Around 90% of global goods are transported by sea. And while just approximately 5% of that travels directly through the Strait of Hormuz, Iran's effective closure of the key passage is having a ripple effect, disrupting trade routes world wide. FRANCE 24's Sharon Gaffney speaks with Ebru Surucu-Balci, Assistant Professor in Circular Supply Chains at the School of Management at the University of Bradford.",
+      "url": "https://www.france24.com/en/video/20260318-international-shipping-chaos-as-strait-of-hormuz-closure-sends-ripple-effects-across-the-globe",
+      "published": "Wed, 18 Mar 2026 22:17:41 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical"
@@ -813,16 +813,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ex-TV reporter allegedly turned roadside gunman, grilled victims on ethnicity before opening fire",
-      "description": "Former San Diego TV journalist accused of racially motivated shootings on mountain highway, allegedly asking victims about ethnicity before firing.",
-      "url": "https://www.foxnews.com/us/ex-tv-reporter-allegedly-turned-roadside-gunman-grilled-victims-ethnicity-before-opening-fire",
-      "published": "Tue, 17 Mar 2026 17:28:37 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "US judge orders Trump administration to reopen Voice of America",
       "description": "Some 85% of VOA staff were laid off by Trump who accused the international broadcaster of bias.",
       "url": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
@@ -913,6 +903,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Why Hungary's Viktor Orban is vilifying Ukraine before crucial elections",
+      "description": "Weeks before crucial parliamentary elections, Hungarian Prime Minister Viktor Orban’s campaign has characterised his main rival as a stooge of Kyiv and Brussels. With his party trailing in the polls, the nationalist leader has sought to escalate tensions between Hungary and Ukraine, alleging that Kyiv and its European allies are conspiring to drag Hungary into war with Russia.",
+      "url": "https://www.france24.com/en/europe/20260318-why-viktor-orban-is-vilifying-ukraine-before-crucial-parliamentary-elections",
+      "published": "Wed, 18 Mar 2026 21:37:16 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "El Salvador's Bukele pushes through life sentences in nation that has imprisoned 1% of population",
       "description": "El Salvador's President Nayib Bukele and his party pushed through a constitutional reform that will permit life sentences in a country that has imprisoned more than 1% of its population in its war on gangs",
       "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-pushes-life-sentences-nation-imprisoned-131164584",
@@ -958,16 +958,6 @@
       "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Mar 2026 16:04:29 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Qatar says Iran missile attack sparks fire, causes damage at gas facility",
-      "description": "Qatar's Foreign Ministry strongly condemns attack that caused 'extensive damage' at the Ras Laffan complex.",
-      "url": "https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 18:59:15 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1203,30 +1193,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Qatar says Iran attack caused ‘extensive damage’ at Ras Laffan gas facility",
+      "description": "Qatar declares the Iranian embassy’s military and security attaches as persona non grata after Ras Laffan attack.",
+      "url": "https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 18:59:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "President or Congress? Who in the US has the power to declare war?",
       "description": "US presidents have long bypassed Congress's authority and dissenting lawmakers have often tried to fight back.",
       "url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 16:48:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pakistan and Afghanistan agree to temporary Eid al-Fitr ‘pause’ in conflict",
-      "description": "Pakistani minister says five-day pause, to begin at midnight Thursday, requested by Saudi Arabia, Qatar and Turkiye.",
-      "url": "https://www.aljazeera.com/news/2026/3/18/pakistan-and-afghanistan-agree-to-temporary-eid-al-fitr-pause-in-conflict?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 16:47:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
-      "description": "Residents are divided between supporting and opposing the US and Israeli war against Iran, amid fears for loved ones.",
-      "url": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 15:42:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1268,16 +1248,6 @@
       "url": "https://www.dw.com/en/us-israel-war-with-iran-shows-fault-lines-in-brics-alliance/a-76412378?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Mar 2026 14:24:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Why Viktor Orban is vilifying Ukraine before crucial parliamentary elections",
-      "description": "Weeks before crucial parliamentary elections, Hungarian Prime Minister Viktor Orban’s campaign has characterised his main rival as a stooge of Kyiv and Brussels. As part of this strategy, Orban’s government has sought to escalate tensions between Hungary and Ukraine, alleging that Kyiv and its European allies are conspiring to drag Hungary into war with Russia.",
-      "url": "https://www.france24.com/en/europe/20260318-why-viktor-orban-is-vilifying-ukraine-before-crucial-parliamentary-elections",
-      "published": "Wed, 18 Mar 2026 21:37:16 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1338,6 +1308,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167139",
       "published": "Mon, 16 Mar 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "ICE arrests illegal immigrant hit-and-run suspect in death of veteran Texas deputy who died helping others",
+      "description": "Dennis Arguello-Acosta was arrested following the death of Deputy Kenneth Lewis, who was struck while assisting drivers on a Texas freeway.",
+      "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrant-hit-and-run-suspect-death-veteran-texas-deputy-who-died-helping-others",
+      "published": "Wed, 18 Mar 2026 18:18:33 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1487,16 +1467,6 @@
       "description": "A Mexican national was arrested after climbing beneath an El Paso overpass near the U.S.-Mexico border in an attempted crossing, according to CBP.",
       "url": "https://www.foxnews.com/us/mexican-man-attempts-cross-illegally-us-via-underside-bridge",
       "published": "Wed, 18 Mar 2026 15:39:01 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Georgia cybercriminal allegedly duped NBA, NFL players in twisted phishing scam turned sex trafficking plot",
-      "description": "A convicted cybercriminal is accused of escalating from phishing pro athletes to allegedly running disturbing sex trafficking operation while in federal prison.",
-      "url": "https://www.foxnews.com/us/georgia-cybercriminal-allegedly-duped-nba-nfl-players-twisted-phishing-scam-turned-sex-trafficking-plot",
-      "published": "Tue, 17 Mar 2026 17:36:59 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
@@ -1663,16 +1633,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
-      "description": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
-      "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 18:55:17 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
       "description": "The agency Mullin is vying to run entered its fifth week without funding, and concerns surrounding the budget loomed over questions.",
       "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss",
@@ -1743,6 +1703,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City",
+      "description": "Angel Esteban Aguilar is suspected of masterminding the 2023 assassination of an Ecuadorian presidential candidate.",
+      "url": "https://www.aljazeera.com/news/2026/3/18/leader-of-ecuadorean-criminal-group-los-lobos-apprehended-in-mexico-city?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 21:55:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1770,6 +1740,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ecuador gang leader wanted for murder of presidential candidate arrested",
+      "description": "Officials believe the man - known as Lobo Menor - is linked to the killing of Fernando Villavicencio in 2023.",
+      "url": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Mar 2026 22:20:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -1803,6 +1783,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Liverpool thrash Galatasaray 4-0 to reach Champions League quarterfinals",
+      "description": "Liverpool book quarterfinal with champions Paris Saint-Germain after dismantling Turkish giants Galatasaray at Anfield.",
+      "url": "https://www.aljazeera.com/sports/2026/3/18/liverpool-thrash-galatasaray-4-0-to-reach-champions-league-quarterfinals?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 22:27:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US to require up to $15,000 bond for visa applicants from 12 new countries",
       "description": "Trump administration has introduced measures meant to restrict both legal and illegal immigration to the US.",
       "url": "https://www.aljazeera.com/news/2026/3/18/us-to-require-up-to-15000-bond-for-visa-applicants-from-12-new-countries?traffic_source=rss",
@@ -1823,8 +1813,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
-      "description": "Follow the build-up, analysis and live text commentary of the game as Liverpool host the Turkish champions at Anfield.",
+      "title": "Liverpool vs Galatasaray 4-0 (4-1 agg): Champions League – as it happened",
+      "description": "All the updates as Liverpool overturn 1-0 first leg defeat to trounce the Turkish champions at Anfield.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
       "published": "Wed, 18 Mar 2026 17:10:14 +0000",
       "source": "Al Jazeera",
@@ -2138,6 +2128,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167141",
       "published": "Mon, 16 Mar 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bodycam captures suspect’s desperate river escape as officers launch paddleboard pursuit",
+      "description": "Florida officers used paddleboards to arrest a fleeing suspect who jumped into the Halifax River. Chase Cruz faces loitering and resisting arrest charges.",
+      "url": "https://www.foxnews.com/us/bodycam-captures-suspects-desperate-river-escape-officers-launch-paddleboard-pursuit",
+      "published": "Wed, 18 Mar 2026 18:31:51 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
