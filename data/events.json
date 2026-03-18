@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T06:54:26.104172Z",
+  "last_updated": "2026-03-18T07:27:07.960826Z",
   "event_count": 222,
   "events": [
     {
@@ -260,16 +260,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war live: Tehran mourns Larijani, Soleimani; 2 killed in Israel",
-      "description": "Iran launches attacks on Israel, killing two, as Bahrain, Qatar, UAE, and Saudi Arabia intercept more missiles, drones.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/18/iran-war-live-tehran-mourns-larijani-soleimani-two-killed-in-israel?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -763,11 +753,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli air strike flattens residential building in Beirut",
+      "description": "Video shows the moment a residential building collapsed in Beirut after an Israeli air strike.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 06:37:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
       "description": "Food production in many African countries depends heavily on fertiliser imported from the Gulf through the strait of Hormuz Countries in Africa, where farmers depend heavily on imported fertiliser and a large share of household income goes on food, are particularly vulnerable to supply chain disruptions caused by the war in the Middle East, experts have said. The conflict has drastically disrupted trade through the strait of Hormuz, a vital shipping lane not just for oil and gas but also for fertiliser, which is produced in vast quantities in the Gulf. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
       "published": "Mon, 16 Mar 2026 12:03:00 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: Tehran vows retaliation for death of security chief Larijani",
+      "description": "Iran has struck central Israel in retaliation for the killing of top security official Ali Larijani. The US military has said it bombed Iranian missile sites along the Strait of Hormuz, a crucial oil route. Follow DW.",
+      "url": "https://www.dw.com/en/iran-war-tehran-vows-retaliation-for-death-of-security-chief-larijani/live-76402968?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Mar 2026 03:23:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -873,6 +883,16 @@
       "severity_level": "High"
     },
     {
+      "title": "El Salvador's Bukele pushes through life sentences in nation that has imprisoned 1% of population",
+      "description": "El Salvador's President Nayib Bukele and his party pushed through a constitutional reform that will permit life sentences in a country that has imprisoned more than 1% of its population in its war on gangs",
+      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-pushes-life-sentences-nation-imprisoned-131164584",
+      "published": "Wed, 18 Mar 2026 03:11:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Republicans push campus carry laws in nearly a dozen states as college shootings reignite debate",
       "description": "The college gun debate intensifies as lawmakers in eight states weigh campus carry bills. Critics cite safety risks, while supporters argue for armed citizens.",
       "url": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate",
@@ -958,26 +978,6 @@
       "url": "https://www.france24.com/en/trump-team-applying-pressure-to-media-tell-the-war-s-story-the-way-we-see-it",
       "published": "Tue, 17 Mar 2026 20:43:55 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Inside Iran's children's wards: The painful human cost of US-Israel airstrikes",
-      "description": "The human cost of Israel and America's air campaign on Iran is mounting, nowhere more painfully felt than in the children's wards of its hospitals.",
-      "url": "https://news.sky.com/story/inside-irans-childrens-wards-the-devastating-human-cost-of-us-israeli-airstrikes-13520923",
-      "published": "Tue, 17 Mar 2026 21:00:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Afghanistan’s deputy government spokesman says the death toll from an airstrike that hit a hospital has increased to 400",
-      "description": "Afghanistan’s deputy government spokesman says the death toll from an airstrike that hit a hospital has increased to 400",
-      "url": "https://abcnews.com/International/wireStory/afghanistans-deputy-government-spokesman-death-toll-airstrike-hit-131132939",
-      "published": "Tue, 17 Mar 2026 07:28:41 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1143,16 +1143,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran wants World Cup games moved from US to Mexico",
-      "description": "Iran is pressing FIFA to move its men's soccer World Cup matches out of the US, escalating a dispute that has spilled from politics into sport.",
-      "url": "https://www.dw.com/en/iran-wants-world-cup-games-moved-from-us-to-mexico/a-76394633?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 17 Mar 2026 12:25:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Nearly 5 million children are still dying annually before their fifth birthday: Here’s why",
       "description": "An estimated 4.9 million children died before their fifth birthday in 2024, including 2.3 million newborns, according to new United Nations estimates released on Tuesday – highlighting a worrying slowdown in global progress on child survival.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167151",
@@ -1273,16 +1263,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran vows retaliation for death of security chief Larijani",
-      "description": "Iran has struck central Israel in retaliation for the killing of top security official Ali Larijani. The US military has said it bombed Iranian missile sites along the Strait of Hormuz, a crucial oil route. Follow DW.",
-      "url": "https://www.dw.com/en/iran-vows-retaliation-for-death-of-security-chief-larijani/live-76402968?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Mar 2026 03:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Belgian diplomat faces trial over 1961 DR Congo leader killing",
       "description": "Etienne Davignon, the only surviving suspect, is ordered to stand trial over war crimes tied to Patrice Lumumba's killing six decades ago. The case represents a historic moment in confronting Belgium's colonial past.",
       "url": "https://www.dw.com/en/belgian-diplomat-faces-trial-over-1961-dr-congo-leader-killing/a-76401220?maca=en-rss-en-all-1573-xml-mrss",
@@ -1333,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'Why did this happen to my innocent four-year-old?': Inside Iran's children's wards",
+      "description": "The human cost of Israel and America's air campaign on Iran is mounting, nowhere more painfully felt than in the children's wards of its hospitals.",
+      "url": "https://news.sky.com/story/inside-irans-childrens-wards-the-devastating-human-cost-of-us-israeli-airstrikes-13520923",
+      "published": "Tue, 17 Mar 2026 21:00:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US faces another Vietnam if it puts boots on the ground, Iran's deputy FM tells Sky News",
       "description": "Iran's deputy foreign minister has warned the US it faces another Vietnam if it puts boots on the ground in the war.",
       "url": "https://news.sky.com/story/us-faces-another-vietnam-if-it-puts-boots-on-the-ground-irans-deputy-fm-tells-sky-news-13520555",
@@ -1367,16 +1357,6 @@
       "description": "Ukrainian President Volodymyr Zelenskyy has arrived in London",
       "url": "https://abcnews.com/International/wireStory/zelenskyy-discuss-russia-ukraine-war-british-leader-nato-131142916",
       "published": "Tue, 17 Mar 2026 09:31:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Brazilian police release 3 Israeli tourists after clashes with pro-Palestine locals in beach city",
-      "description": "Brazilian police released on Monday three Israeli tourists who this weekend got involved in a disturbance with pro-Palestine residents of a beachfront city in the country’s tropical northeast",
-      "url": "https://abcnews.com/International/wireStory/brazilian-police-release-3-israeli-tourists-after-clashes-131133049",
-      "published": "Tue, 17 Mar 2026 02:10:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1453,16 +1433,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Previously unseen ancient graffiti reveals scenes of everyday life in Pompeii",
-      "description": "A growing number of researchers are turning to the Pompeii's graffiti to better understand the lives, humor and concerns of ordinary people nearly 2,000 years ago. Spoiler alert: They liked gladiators.",
-      "url": "https://www.dw.com/en/previously-unseen-ancient-graffiti-reveals-scenes-of-everyday-life-in-pompeii/a-76289185?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 17 Mar 2026 13:28:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Larijani was 'key to Iran's reach in the Gulf region'",
       "description": "Reporting from Doha for FRANCE 24, Hoda Abdel-Hamid explains that Iranian security chief Ali Larijani \"was key to Iran's reach to the Gulf region\" adding that \"the GCC and Iran were two parties deeply suspicious of each other, it took decades for them to get close to each other and Larijani played a big role in that\". Ali Larijani was reported to have died in an Israeli airstrike on Tuesday.",
       "url": "https://www.france24.com/en/larijani-was-key-to-iran-s-reach-in-the-gulf-region",
@@ -1518,6 +1488,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/mar/18/myki-less-public-transport-for-all-passengers-2027-victorian-auditor",
       "published": "Wed, 18 Mar 2026 04:57:38 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Cuba vows 'unbreakable resistance' to any takeover attempt",
+      "description": "Cuba's leader says the US is inflicting \"collective punishment\" on the Cuban people amid plans to seize the country. US President Trump has said it would be a \"big honor\" to take the island nation.",
+      "url": "https://www.dw.com/en/cuba-vows-unbreakable-resistance-to-any-takeover-attempt/a-76404114?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Mar 2026 06:55:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1593,6 +1573,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "A new U.S. trade deal with Indonesia secures fossil fuels and access to critical minerals",
+      "description": "A new trade pact between the United States and Indonesia binds the Southeast Asian nation’s resource wealth and energy future more closely to Washington’s strategic needs",
+      "url": "https://abcnews.com/International/wireStory/new-us-trade-deal-indonesia-secures-fossil-fuels-131173522",
+      "published": "Wed, 18 Mar 2026 03:10:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Iran arrests dozens accused of spying for Israel in new internal crackdown",
       "description": "Iran says it has arrested dozens of alleged spies linked to Israel across several provinces, accusing them of sharing the locations of military sites and economic infrastructure.",
       "url": "https://www.foxnews.com/world/iran-arrests-dozens-accused-spying-israel-new-internal-crackdown",
@@ -1646,7 +1636,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-18T06:54:05.960410Z",
+      "published": "2026-03-18T07:26:47.624284Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1993,6 +1983,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "The internet was supposed to be free. What went wrong?",
+      "description": "30 years ago, countercultural thinkers declared the internet an independent space. Today, it's controlled by a handful of corporations. Were we deceived?",
+      "url": "https://www.dw.com/en/the-internet-was-supposed-to-be-free-what-went-wrong/a-75213121?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Mar 2026 07:24:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Has Europe's center-right started relying on the far right?",
       "description": "With the center-right increasingly teaming up with the far-right in the European Parliament, EU politics may be headed for a significant shift.",
       "url": "https://www.dw.com/en/has-europe-s-center-right-started-relying-on-the-far-right/a-76394735?maca=en-rss-en-all-1573-xml-mrss",
@@ -2093,6 +2093,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Man arrested after climbing into pygmy hippo Moo Deng's enclosure at Thai zoo",
+      "description": "A Thai zoo said police has arrested a man after he entered the enclosure of Moo Deng, the viral pygmy hippo",
+      "url": "https://abcnews.com/International/wireStory/man-arrested-after-climbing-pygmy-hippo-moo-dengs-131173900",
+      "published": "Wed, 18 Mar 2026 03:24:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Peru’s prime minister resigns ahead of congressional confirmation vote",
       "description": "Peru’s prime minister has resigned from her post",
       "url": "https://abcnews.com/International/wireStory/perus-prime-minister-resigns-ahead-congressional-confirmation-vote-131165359",
@@ -2157,16 +2167,6 @@
       "description": "Budapest is keeping century-old freight trams running to do the work that modern passenger trams cannot, plowing snow and hauling broken-down vehicles",
       "url": "https://abcnews.com/International/wireStory/budapests-vintage-freight-trams-celebrate-100-years-service-131139118",
       "published": "Tue, 17 Mar 2026 04:43:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Migrants are vanishing in the Mediterranean. Authorities are withholding information",
-      "description": "The beginning of 2026 ranks as the deadliest start to any year for people trying to cross the Mediterranean",
-      "url": "https://abcnews.com/International/wireStory/hundreds-migrants-vanishing-mediterranean-authorities-withholding-information-131138758",
-      "published": "Tue, 17 Mar 2026 05:54:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
