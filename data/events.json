@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T18:25:25.422397Z",
+  "last_updated": "2026-03-18T18:50:09.732063Z",
   "event_count": 221,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 45,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Myanmar at a ‘crossroads’: The world must not forsake civilians there, urges UN expert",
-      "description": "More than five years after Myanmar’s military coup, international resolve to hold the junta accountable must not weaken, an independent human rights expert warned on Friday, as escalating violence and growing humanitarian needs push millions of civilians deeper into crisis.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167132",
-      "published": "Fri, 13 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 43,
       "severity_level": "Critical"
     },
     {
@@ -130,16 +120,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Trump seeks warships from other countries to help secure Strait of Hormuz",
-      "description": "Trump calls for international warships to secure Strait of Hormuz as Iran allegedly threatens global oil shipping routes from the Middle East region.",
-      "url": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
-      "published": "Sun, 15 Mar 2026 07:29:15 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -283,6 +263,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Afghanistan accuses Pakistan of killing hundreds in Kabul hospital strike",
+      "description": "Reported airstrike on Afghanistan hospital allegedly kills 400+ civilians, sparking widespread criticism over muted international response to the attack.",
+      "url": "https://www.foxnews.com/world/afghanistan-accuses-pakistan-killing-hundreds-kabul-hospital-strike",
+      "published": "Wed, 18 Mar 2026 14:26:26 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Middle East war’s ‘spiral of conflict’ drives mounting civilian toll",
       "description": "The widening war in the Middle East and its growing impact on civilians came under scrutiny at the UN in Geneva on Monday, as independent experts briefing the Human Rights Council warned of escalating violence following the onset of Israeli and US strikes on Iran and counterstrikes by Tehran and allied groups.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167138",
@@ -300,6 +290,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Canada in push for joint G7 and Middle East effort to de-escalating Iran war",
+      "description": "Foreign minister Anita Anand says she has drafted principles to reduce risk of regional spillover and wider shocks Middle East crisis – live updates Canada is pushing for a collective G7 and Middle East approach to de-escalating the Iran war, including off ramps that might bring an end to the conflict, the Canadian foreign minister, Anita Anand, has told the Guardian. In London to meet the UK’s foreign secretary, Yvette Cooper, after of talks with the her Turkish counterpart, Hakan Fidan, she said she hoped a G7 meeting chaired by France, this year’s president of the group, might start to build a broader collective approach to the crisis. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/mar/18/canada-in-push-for-joint-g7-and-middle-east-effort-to-de-escalating-iran-war",
+      "published": "Wed, 18 Mar 2026 18:38:09 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -323,7 +323,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, Sexual abuse safeguards, New ‘humancentric’ AI Advocate",
+      "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, sexual abuse safeguards, new ‘humancentric’ AI advocate",
       "description": "A new UN human rights report warns that expanding Israeli settlements are driving large-scale displacement of Palestinians across the occupied West Bank.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167150",
       "published": "Tue, 17 Mar 2026 12:00:00 +0000",
@@ -503,9 +503,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war: Iranian intelligence minister killed by airstrike",
-      "description": "An airstrike killed Iranian Intelligence Minister Esmaeil Khatib, Iran's president said, confirming the latest assassination of a top Iranian official. DW has the latest.",
-      "url": "https://www.dw.com/en/iran-war-iranian-intelligence-minister-killed-by-airstrike/live-76402968?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Iran war: New head Khamenei vows to avenge Larijani killing",
+      "description": "Iran's new leader says the killers of security chief Ali Larijani, who died in an Israeli strike, \"will have to pay for it.\" Meanwhile, the Iranian intelligence minister was killed in another airstrike. DW has more.",
+      "url": "https://www.dw.com/en/iran-war-new-head-khamenei-vows-to-avenge-larijani-killing/live-76402968?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Mar 2026 14:21:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -603,6 +603,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Could the Iran war trigger a global recession?",
+      "description": "Energy prices are surging as the Iran war disrupts supply, raising risks for the US, China and Europe.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/18/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
+      "published": "Wed, 18 Mar 2026 18:20:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Who will answer for the Iranian schoolchildren killed in Minab?",
       "description": "An investigation finds the Minab school strike may have been deliberate. Who can hold the US accountable?",
       "url": "https://www.aljazeera.com/video/the-take-2/2026/3/18/aje-onl-usa_iranaccountability_av_v2-180326?traffic_source=rss",
@@ -644,7 +654,7 @@
     },
     {
       "title": "Iran war triggers helium shortage, hits semiconductor supply",
-      "description": "Rising tensions in the Middle East are rattling high-end chipmakers. Among all the latest geopolitical uncertainties for the industry is a shortage of helium that could slow global production.",
+      "description": "Rising tension in the Middle East is rattling high-end chipmakers. Among the latest geopolitical uncertainties for the industry is a shortage of helium that could slow global production.",
       "url": "https://www.dw.com/en/iran-war-triggers-helium-shortage-hits-semiconductor-supply/a-76380869?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Mar 2026 12:41:00 GMT",
       "source": "Deutsche Welle",
@@ -708,6 +718,16 @@
       "url": "https://abcnews.com/International/wireStory/rubio-calls-new-cuban-leaders-latest-blackout-underscores-131151835",
       "published": "Tue, 17 Mar 2026 14:25:14 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
+      "description": "UN aid teams in Yemen on Wednesday warned that the situation in the war-torn nation remains dire in a call for $2 billion in aid to deliver lifesaving assistance for 12 million people.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167157",
+      "published": "Wed, 18 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -827,16 +847,6 @@
       "description": "Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern In 1845 British citizens and companies were already legally prohibited from owning or buying enslaved people overseas, yet that year 385 captives were “transferred” to a British mining company in Brazil named St John d’El Rey. Despite a global campaign waged by the UK against slavery and the transatlantic slave trade, the move was not technically illegal because the enslaved people were not sold but “rented” – a practice permitted overseas under the 1843 Slave Trade Act. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
       "published": "Tue, 17 Mar 2026 11:00:44 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Man and woman charged with murder of Iranian activist in Canada",
-      "description": "Charges follow discovery of body of Masood Masjoody, who was a critic of the Tehran regime and the exiled shah Two people have been charged with the murder of an Iranian activist in Canada, in a case which has intensified fears over transnational repression of critics of the regime in Tehran. Masood Masjoody, a former university maths teacher, went missing in early February in the city of Burnaby, British Columbia. He had been critical of Iran’s theocratic regime and the exiled family of the former shah. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/mar/17/two-men-court-murder-iranian-activist-canada",
-      "published": "Tue, 17 Mar 2026 14:05:58 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -1128,6 +1138,16 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "One woman dead after gondola crashes at Swiss ski resort",
+      "description": "A 61-year-old woman died when a cable car crashed down a snowy mountain at a popular ski resort in the Swiss Alps. Police have launched an investigation into the cause of the incident.",
+      "url": "https://www.dw.com/en/one-woman-dead-after-gondola-crashes-at-swiss-ski-resort/a-76419822?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Mar 2026 18:35:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1833,16 +1853,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "European groups join aid convoy to Cuba amid crippling oil blockade",
-      "description": "Millions have been plunged into darkness in Cuba as the US's total blockade has meant no fuel shipments in three months.",
-      "url": "https://www.aljazeera.com/news/2026/3/18/as-cuba-found-flotilla-leaves-italy-europe-divided-over-stance-on-crisis?traffic_source=rss",
-      "published": "Wed, 18 Mar 2026 12:51:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2037,16 +2047,6 @@
       "description": "Provisional results announced showed Nguesso with nearly 95% of the vote; his closest rival received less than 2%. Many political analysts had predicted victory for the longtime leader in power since 1979.",
       "url": "https://www.dw.com/en/president-sassou-nguesso-wins-congo-brazzaville-s-election/a-76347978?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Mar 2026 09:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The internet was supposed to be free. What went wrong?",
-      "description": "Thirty years ago, countercultural thinkers declared the internet an independent space. Today, it's controlled by a handful of corporations. Were we deceived?",
-      "url": "https://www.dw.com/en/the-internet-was-supposed-to-be-free-what-went-wrong/a-75213121?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Mar 2026 07:24:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
