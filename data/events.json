@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T12:17:30.233998Z",
+  "last_updated": "2026-03-19T12:49:24.507593Z",
   "event_count": 221,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 52,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
+      "description": "Ongoing strikes across the Middle East stemming from the US-Israeli bombing of Iran and subsequent counterstrikes in the Gulf by Tehran continue to drive humanitarian needs, civilian casualties and mass displacement. Concerns are also growing over maritime security, the economic crisis centred around the closure of the Strait of Hormuz, attacks on healthcare and the protection of critical infrastructure, including nuclear facilities. Stay with us for live updates from across the UN system. App users can follow coverage here.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167161",
+      "published": "Thu, 19 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 48,
       "severity_level": "Critical"
     },
     {
@@ -223,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Middle East crisis: UN health agency releases emergency funds for Lebanon, Iraq, Syria",
-      "description": "The UN World Health Organization (WHO) is releasing another $2 million in emergency funds to support health systems in Lebanon, Iraq and Syria as strikes against Iran by the US and Israeli continue amid counterstrikes across the Gulf and wider region by Tehran.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167136",
-      "published": "Sun, 15 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Afghanistan accuses Pakistan of killing hundreds in Kabul hospital strike",
       "description": "Reported airstrike on Afghanistan hospital allegedly kills 400+ civilians, sparking widespread criticism over muted international response to the attack.",
       "url": "https://www.foxnews.com/world/afghanistan-accuses-pakistan-killing-hundreds-kabul-hospital-strike",
@@ -240,6 +240,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war",
+      "description": "At the Emergency Hospital, dozens crowded around a thick book to check the names of the victims killed in an airstrike on a rehabilitation center. The U.N. says over a hundred people were killed.",
+      "url": "https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war",
+      "published": "Thu, 19 Mar 2026 08:11:54 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -443,16 +453,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Greece launches an animal airlift to evacuate pets and their owners from the Mideast",
-      "description": "Dozens of dogs and cats have arrived in Athens with their owners aboard a special evacuation flight for Greeks with pets who were trapped by the current war in the Middle East",
-      "url": "https://abcnews.com/International/wireStory/greece-launches-animal-airlift-evacuate-pets-owners-mideast-131197540",
-      "published": "Thu, 19 Mar 2026 04:10:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
       "description": "Haiti remains mired in a multidimensional crisis marked by weak institutions, political uncertainty, widespread gang violence and overwhelming humanitarian needs, but a recent new agreement by political groups offers “a moment of hope and progress for the Haitian people”, according to the UN’s most senior official in the Caribbean country.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167143",
@@ -603,6 +603,16 @@
       "severity_level": "High"
     },
     {
+      "title": "12 Arab and Islamic countries unite to condemn 'heinous' Iranian attacks",
+      "description": "A coalition of 12 Arab and Islamic countries denounces Iran’s attacks on civilian infrastructure, urges restraint and warns of risks to regional security.",
+      "url": "https://www.foxnews.com/world/12-arab-islamic-countries-unite-condemn-heinous-iranian-attacks",
+      "published": "Thu, 19 Mar 2026 08:31:12 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Belgium deploys military to guard Jewish sites after Iran-linked group claims Europe attacks",
       "description": "Belgium deploys military to protect Jewish communities after explosion outside Liège, Belgium, synagogue. Officials call blast a \"despicable antisemitic\" act.",
       "url": "https://www.foxnews.com/world/belgium-deploys-military-guard-jewish-sites-after-iran-linked-group-claims-europe-attacks",
@@ -673,16 +683,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Did America and Israel just ramp up the war in the Middle East?",
-      "description": "👉Listen to The World with Richard Engel and Yalda Hakim on your podcast app👈",
-      "url": "https://news.sky.com/story/did-america-and-israel-just-ramp-up-the-war-in-the-middle-east-13520984",
-      "published": "Tue, 17 Mar 2026 17:21:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
       "description": "UN aid teams in Yemen on Wednesday warned that the situation in the war-torn nation remains dire in a call for $2 billion in aid to deliver lifesaving assistance for 12 million people.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167157",
@@ -700,6 +700,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Three Palestinian women killed during Iranian missile attack",
+      "description": "They were killed when a beauty salon was hit in the southern West Bank, while a Thai worked was killed by shrapnel falling in Israel.",
+      "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 12:32:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -1163,16 +1173,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
-      "description": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel.",
-      "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 10:29:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Iran hits Qatar gas operations in response to Israeli attack",
       "description": "Qatar’s main gas facility is among the energy sites targeted by Iran after its own main gas field was hit in an attack.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss",
@@ -1258,6 +1258,16 @@
       "url": "https://www.npr.org/2026/03/18/nx-s1-5750504/iran-war-hinders-the-flow-of-u-n-aid-through-the-gulf-to-communities-in-need",
       "published": "Wed, 18 Mar 2026 16:07:50 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "More families in Southeast Asia sinking into debt",
+      "description": "Across Southeast Asia, households are taking on debt just to cover basic needs. Analysts warn that the region's growing dependence on borrowing risks triggering wider financial stress and long term economic harm.",
+      "url": "https://www.dw.com/en/more-families-in-southeast-asia-sinking-into-debt/a-76430757?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 19 Mar 2026 12:40:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1533,6 +1543,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Nigeria’s Osimhen tried to defy broken arm in Galatasaray loss at Liverpool",
+      "description": "Liverpool came from behind to eliminate Galatasaray from the Champions League but injury for star striker revealed.",
+      "url": "https://www.aljazeera.com/sports/2026/3/19/nigerias-osimhen-tried-to-defy-broken-arm-in-galatasaray-loss-at-liverpool?traffic_source=rss",
+      "published": "Thu, 19 Mar 2026 12:12:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "What did Arab and Muslim ministers discuss in Riyadh meeting on Iran?",
       "description": "Foreign ministers formulate a unified response to Iranian strikes, asserting their right to self-defence.",
       "url": "https://www.aljazeera.com/news/2026/3/19/what-did-arab-and-muslim-ministers-discuss-in-riyadh-meeting-on-iran?traffic_source=rss",
@@ -1643,16 +1663,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Social media making young people less happy, report finds",
-      "description": "Heavy social media use has contributed to 'worrying decline' in wellbeing in Western countries, report says.",
-      "url": "https://www.aljazeera.com/economy/2026/3/19/social-media-making-young-people-less-happy-report-finds?traffic_source=rss",
-      "published": "Thu, 19 Mar 2026 06:15:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1738,16 +1748,6 @@
       "url": "https://www.foxnews.com/us/party-chaos-caught-camera-police-push-new-tactic-scare-spring-breakers",
       "published": "Wed, 18 Mar 2026 17:33:27 -0400",
       "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cuba's entire electrical grid collapses, leaving whole island without power",
-      "description": "Cuba's power grid suffers total collapse amid fuel shortages and sanctions, leaving the island nation scrambling to restore electricity to millions.",
-      "url": "https://www.foxnews.com/world/cubas-entire-electrical-grid-collapses-leaving-whole-island-without-power",
-      "published": "Mon, 16 Mar 2026 21:29:53 -0400",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1973,11 +1973,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
-      "description": "A group of grandmothers in central Kenya have formed a soccer team to keep fit and to give hope to a generation of teenagers — whom they sometimes outrun on the field.",
-      "url": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer",
-      "published": "Wed, 18 Mar 2026 10:33:18 -0400",
-      "source": "NPR World News",
+      "title": "Skeleton in Magdeburg Cathedral is almost certainly Otto I",
+      "description": "When the sarcophagus of the former Holy Roman Emperor Otto the Great sustained damage and had to be opened, researchers decided to analyze the contents. They're convinced that the remains inside are the real deal.",
+      "url": "https://www.dw.com/en/skeleton-in-magdeburg-cathedral-is-almost-certainly-otto-i/a-76417501?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Mar 2026 18:19:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1993,30 +1993,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Skeleton in Magdeburg Cathedral is almost certainly Otto I",
-      "description": "When the sarcophagus of the former Holy Roman Emperor Otto the Great sustained damage and had to be opened, researchers decided to analyze the contents. They're convinced that the remains inside are the real deal.",
-      "url": "https://www.dw.com/en/skeleton-in-magdeburg-cathedral-is-almost-certainly-otto-i/a-76417501?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Mar 2026 18:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Russian Orthodox Church makes inroads in Africa",
       "description": "The Russian Orthodox Church is slowly but surely gaining a foothold in Africa. Experts say Russia is using its expansion as a form of ideological soft power.",
       "url": "https://www.dw.com/en/russian-orthodox-church-makes-inroads-in-africa/a-76383940?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Mar 2026 16:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mining cities to build homes from demolition waste",
-      "description": "Rubble doesn't have to be rubbish. Urban mining is transforming old structures into low‑carbon-building gold.",
-      "url": "https://www.dw.com/en/mining-cities-to-build-homes-from-demolition-waste/a-76414673?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Mar 2026 15:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2053,11 +2033,31 @@
       "severity_level": "Low"
     },
     {
+      "title": "China not planning to invade Taiwan in 2027, US says",
+      "description": "China is not currently planning to invade Taiwan next year, according to US spy agencies.",
+      "url": "https://news.sky.com/story/china-not-planning-to-invade-taiwan-in-2027-us-intelligence-agencies-say-13521682",
+      "published": "Thu, 19 Mar 2026 10:17:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Senegal stripped of Africa Cup of Nations",
       "description": "Senegal has been stripped of the Africa Cup of Nations for misconduct in the tournament final, the Confederation of African Football (CAF) has ruled.",
       "url": "https://news.sky.com/story/senegal-stripped-of-africa-cup-of-nations-over-misconduct-in-final-13521079",
       "published": "Tue, 17 Mar 2026 21:38:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Kevin Spacey settles out of court with 3 men over alleged sexual assaults",
+      "description": "Three men who allege that actor Kevin Spacey sexually assaulted them have settled their civil claims in London",
+      "url": "https://abcnews.com/International/wireStory/kevin-spacey-settles-court-3-men-alleged-sexual-131213152",
+      "published": "Thu, 19 Mar 2026 08:41:23 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
