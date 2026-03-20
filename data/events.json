@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T13:29:48.238705Z",
+  "last_updated": "2026-03-20T13:55:41.697838Z",
   "event_count": 222,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "With its wind farms, Danish island of Samsø shows path forward during energy crisis",
+      "description": "The US-Israeli war against Iran has once again underlined the vulnerability of the world's oil and gas supplies. Iran's chokehold on the Strait of Hormuz has pushed up oil prices and threatened global economic stability. This comes at a time when wind farms and solar panels are providing real value. The wind-powered Danish island of Samsø is showing the way forward. FRANCE 24's Malcolm Brabant reports.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260320-with-its-wind-farms-danish-island-of-sams%C3%B8-shows-path-forward-during-energy-crisis",
+      "published": "Fri, 20 Mar 2026 13:35:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -733,16 +743,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Middle East war live: US-Israeli air strikes kill Iran’s Revolutionary Guard spokesperson",
-      "description": "Israel's military said Friday it was launching strikes in Iran's Noor region on the shores of the Caspian Sea. The fresh strikes come a day after Israel's military said its jets had hit several Iranian naval vessels in the inland sea. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260320-middle-east-war-live-israel-strikes-tehran-persian-new-year-energy-markets",
-      "published": "Fri, 20 Mar 2026 03:18:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Pakistani Taliban announces 3-day ceasefire ahead of Eid truce",
       "description": "A key outlawed Pakistani militant group behind numerous gun and bomb attacks has announced a three-day ceasefire ahead of Eid al-Fitr, hours after Pakistan and Afghanistan also declared a temporary halt to escalating fighting",
       "url": "https://abcnews.com/International/wireStory/pakistani-taliban-announces-3-day-ceasefire-after-pakistan-131210278",
@@ -1203,9 +1203,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "From mall to torture site: The debate over El Helicoide's future in Venezuela",
+      "title": "From mall to torture site: Venezuela debates El Helicoide prison's future",
       "description": "Once a futuristic shopping mall, El Helicoide became one of Venezuela's most feared prisons. Now, as the country changes, so does its fate — erase it, rebuild it, or remember what happened inside.",
-      "url": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture",
+      "url": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoide-venezuela-prison-torture",
       "published": "Fri, 20 Mar 2026 05:30:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1673,6 +1673,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-20T13:55:20.678603Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Texas woman with 37 felony theft charges released on bond after months on the run while on parole: report",
       "description": "A Houston woman with 37 felony theft charges was released on $75,000 bond. A crime advocate says habitual offenders need more serious consequences.",
       "url": "https://www.foxnews.com/us/texas-woman-37-felony-theft-charges-released-bond-after-months-run-while-parole-report",
@@ -1783,7 +1793,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+      "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
       "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
       "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Mar 2026 06:01:02 GMT",
@@ -1957,16 +1967,6 @@
       "description": "PAGER - GREEN ShakeMap - V Time 2026-03-20 00:22:02 UTC 2026-03-20 00:22:02 UTC at epicenter Location 61.153°S 56.268°W Depth 4.87 km (3.03 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shlp",
       "published": "2026-03-20T02:44:54.282Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "M 6.3 - 85 km W of Vallenar, Chile",
-      "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-03-13 13:39:18 UTC 2026-03-13 13:39:18 UTC at epicenter Location 28.684°S 71.627°W Depth 10.00 km (6.21 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sg0y",
-      "published": "2026-03-19T17:36:12.752Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
