@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T21:08:47.165257Z",
-  "event_count": 223,
+  "last_updated": "2026-03-21T21:40:00.293838Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Washington sends conflicting signals as war rages on in the Middle East",
@@ -80,6 +80,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran strikes Israeli nuclear town in retaliation for Natanz attack amid escalating conflict",
+      "description": "An Iranian missile struck the Israeli town of Dimona, home to a nuclear facility, injuring dozens in what Tehran said was retaliation for strikes on its Natanz nuclear site. The attack comes amid escalating regional tensions, including two failed Iranian missile strikes on the US‑UK base Diego Garcia, some 4,000 km from Iran – launches that suggest Tehran’s missiles may have greater range than previously thought.",
+      "url": "https://www.france24.com/en/middle-east/20260321-iran-strikes-israeli-nuclear-town-in-retaliation-for-natanz-attack-amid-escalating-conflict",
+      "published": "Sat, 21 Mar 2026 21:12:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -307,16 +317,6 @@
       "description": "About a third of all fertilizer shipped globally passes through the Strait of Hormuz. Now shipping is all-but stopped through the Strait and this could have repercussions for the global food supply.",
       "url": "https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply",
       "published": "Fri, 20 Mar 2026 15:35:21 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Global oil and energy prices are reeling as the war in the Middle East escalates",
-      "description": "Israel and Iran continue to exchange airstrikes with a focus on energy infrastructure. President Trump says Israel acted alone in striking a key gas field and better not do it again.",
-      "url": "https://www.npr.org/2026/03/20/nx-s1-5753773/global-oil-and-energy-prices-are-reeling-as-the-war-in-the-middle-east-escalates",
-      "published": "Fri, 20 Mar 2026 06:48:13 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 20,
@@ -1193,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tons of aid flows into Cuba as humanitarian convoy arrives on the island",
-      "description": "Some 650 delegates from 33 countries and 120 organizations began arriving in Cuba on Friday as part of a solidarity caravan transporting some 20 tons of humanitarian aid as the island grapples with a severe energy crisis.",
-      "url": "https://www.france24.com/en/tons-of-aid-flows-into-cuba-as-humanitarian-convoy-arrives-on-the-island",
-      "published": "Sat, 21 Mar 2026 10:44:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "This war could take months and trigger an economic doomsday to hurt us all",
       "description": "The last 24 hours of eye-wateringly expensive missile duelling over the Persian Gulf has made one point above all.",
       "url": "https://news.sky.com/story/iran-war-last-24-hours-show-a-prolonged-conflict-could-do-calamitous-damage-to-global-economy-13521949",
@@ -1613,16 +1603,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-21T21:08:26.893348Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Zimbabwe's Biti reportedly detained amid term‑limit row",
       "description": "Proposed changes to ‌the constitution ⁠⁠would extend presidential terms from five years to seven, allowing President Emmerson Mnangagwa to stay in office until 2030 after he was meant to step down in ​2028.",
       "url": "https://www.dw.com/en/zimbabwe-s-biti-reportedly-detained-amid-term‑limit-row/a-76470035?maca=en-rss-en-all-1573-xml-mrss",
@@ -1943,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "How the U.S. oil blockade is taking a high toll on everyday Cubans",
+      "description": "As tensions between Washington and Havana mount, what is life like for Cubans living through a weekslong oil blockade? NPR's Adrian Ma speaks to CNN's Havana Bureau Chief Patrick Oppmann about life on the island.",
+      "url": "https://www.npr.org/2026/03/21/nx-s1-5753802/how-the-u-s-oil-blockade-is-taking-a-high-toll-on-everyday-cubans",
+      "published": "Sat, 21 Mar 2026 17:18:28 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
       "description": "In the Kurdish regions of the Middle East, Nowruz celebrations — honoring the arrival of spring — are a fundamental expression of Kurdish identity.",
       "url": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
@@ -1968,6 +1958,16 @@
       "url": "https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
       "published": "Sat, 21 Mar 2026 07:00:00 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Thessaloniki: Remembering the 'Jerusalem of the Balkans'",
+      "description": "The near-total annihilation of Greece’s Jewish communities sends a strong message to this day. Memorials, education and a new Holocaust museum aim to combat a rise in antisemitism and dangerous misconceptions.",
+      "url": "https://www.dw.com/en/thessaloniki-remembering-the-jerusalem-of-the-balkans/a-76468523?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 21 Mar 2026 21:14:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2017,16 +2017,6 @@
       "description": "The closely watched civil trial focused on billionaire Elon Musk’s claims about the number of bots on Twitter.",
       "url": "https://www.dw.com/en/elon-musk-misled-twitter-shareholders-us-jury-finds/a-76462448?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 21 Mar 2026 00:53:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump administration sues Harvard over alleged antisemitism",
-      "description": "The Justice Department has accused Harvard of being \"deliberately indifferent\" to harassment of Jewish and Israeli students, and intentionally refusing to enforce its campus rules when victims are Jews or Israelis.",
-      "url": "https://www.dw.com/en/trump-administration-sues-harvard-over-alleged-antisemitism/a-76461048?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 20 Mar 2026 18:16:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2123,8 +2113,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Woman branded ‘female Charles Manson’ escaped prison, prosecutor now doubts her conviction",
-      "description": "Prosecutor who called Sarah Jo Pender 'female Charles Manson' now doubts her murder conviction. A new true crime docuseries explores the controversial case.",
+      "title": "Woman branded ‘female Charles Manson’ escaped prison; prosecutor now doubts her conviction",
+      "description": "A prosecutor who called Sarah Jo Pender the \"female Charles Manson\" now doubts her murder conviction. A new true-crime docuseries explores the controversial case.",
       "url": "https://www.foxnews.com/us/woman-branded-female-charles-manson-escaped-prison-prosecutor-now-doubts-her-conviction",
       "published": "Sat, 21 Mar 2026 14:00:34 -0400",
       "source": "Fox News US",
