@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T16:09:21.513444Z",
+  "last_updated": "2026-03-21T16:44:18.124179Z",
   "event_count": 222,
   "events": [
     {
@@ -400,6 +400,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "description": "More than 230 people have been rescued so far, the authorities said on Friday.",
+      "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Mar 2026 16:09:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -943,6 +953,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+      "description": "Eid al-Fitr prayers were held in Tehran after overnight air strikes on the capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss",
+      "published": "Sat, 21 Mar 2026 16:20:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Seven-year-old Canadian girl with autism and mother detained by ICE in Texas",
       "description": "Mother and child held in notorious Rio Grande Valley detention centre despite presenting visa, family says A Canadian mother and her seven-year-old daughter, who has autism, have been detained by US Immigration and Customs Enforcement (ICE) in Texas since Saturday, family members have said. Relatives of Tania Warner and her daughter Ayla Lucas say they were detained unlawfully. They are uncertain about what problem ICE found with their immigration paperwork. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
@@ -1043,16 +1063,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "The fight to control the narrative in the Afghan-Pakistan conflict",
-      "description": "The battle between the neighbouring countries is taking place as much online as it is on the ground.",
-      "url": "https://www.bbc.com/news/articles/c5yxkj8gnr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 00:25:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "UK says Iran missile attack on Diego Garcia failed",
       "description": "The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss",
@@ -1137,16 +1147,6 @@
       "description": "This week's ban on alcohol in Damascus has sparked a debate among Syrians. Some say it's about more than just being able to have a drink: It's about the country's future governance, personal freedoms and community unity.",
       "url": "https://www.dw.com/en/why-syria-s-new-alcohol-ban-is-about-much-more-than-beer/a-76457547?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 21 Mar 2026 09:37:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Niger rejects EU's call to free ousted President Bazoum",
-      "description": "The junta government has rebuffed a European Parliament resolution demanding the release of ex-President Bazoum. It further warned the EU to stop meddling in Niger's internal affairs.",
-      "url": "https://www.dw.com/en/niger-rejects-eu-s-call-to-free-ousted-president-bazoum/a-76449480?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 20 Mar 2026 14:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1317,16 +1317,6 @@
       "description": "Jury finds that two tweets posted in May 2022 by Musk contained false statements.",
       "url": "https://www.aljazeera.com/news/2026/3/21/us-jury-finds-elon-musk-misled-investors-during-twitter-purchase?traffic_source=rss",
       "published": "Sat, 21 Mar 2026 11:18:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Aid flotilla for Cuba sets sail from Mexico",
-      "description": "An aid flotilla from Mexico is sailing for Cuba as the country suffers under a tightening US fuel blockade.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 03:31:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1593,6 +1583,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Taliban install new diplomat without telling Germany: Report",
+      "description": "Despite not being recognized by Germany, the Taliban have appointed a new head of the Afghan embassy in Berlin without the German government's approval, broadcaster ARD reported.",
+      "url": "https://www.dw.com/en/taliban-install-new-diplomat-without-telling-germany-report/a-76468553?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 21 Mar 2026 16:15:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "US prosecutors investigate whether Colombian President Petro had ties to drug traffickers — reports",
       "description": "US prosecutors are investigating possible links between Colombian President Gustavo Petro and drug traffickers, according to media reports. Bilateral relations have been strained during Donald Trump's second term.",
       "url": "https://www.dw.com/en/us-prosecutors-investigate-whether-colombian-president-petro-had-ties-to-drug-traffickers-reports/a-76461891?maca=en-rss-en-all-1573-xml-mrss",
@@ -1643,16 +1643,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Elon Musk misled Twitter investors, jury finds",
-      "description": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
-      "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 23:44:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Socialists battle to hold Paris in key mayoral elections across France",
       "description": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
       "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
@@ -1667,6 +1657,16 @@
       "description": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough-guy persona.",
       "url": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Mar 2026 01:03:01 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Elon Musk misled Twitter investors, jury finds",
+      "description": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
+      "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 23:44:09 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2053,6 +2053,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Northern Lights seen across UK forecast to return",
+      "description": "Parts of the UK enjoyed breathtaking views of the Northern Lights overnight - and more is forecast for Saturday.",
+      "url": "https://news.sky.com/story/northern-lights-spectacular-views-across-the-world-forecast-to-return-13522611",
+      "published": "Sat, 21 Mar 2026 14:23:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "UK forces join military operation to seize Russian 'shadow fleet' tanker",
       "description": "UK forces have joined a military operation with the French navy in the Mediterranean to seize an oil tanker, alleged to be part of Russia's shadow fleet.",
       "url": "https://news.sky.com/story/uk-forces-join-military-operation-with-french-navy-to-seize-russian-shadow-fleet-tanker-in-mediterranean-13522372",
@@ -2067,16 +2077,6 @@
       "description": "No description available.",
       "url": "https://news.sky.com/story/the-most-striking-pictures-of-the-week-13522282",
       "published": "Fri, 20 Mar 2026 15:58:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Norway's crown princess tearful as she speaks out on friendship with Jeffrey Epstein",
-      "description": "Norway's crown princess says she regrets her friendship with Jeffrey Epstein, insisting in a tearful interview she was \"manipulated and deceived\".",
-      "url": "https://news.sky.com/story/norways-crown-princess-tearful-as-she-speaks-out-on-friendship-with-jeffrey-epstein-13522225",
-      "published": "Fri, 20 Mar 2026 13:35:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
