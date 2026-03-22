@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T20:07:56.504108Z",
+  "last_updated": "2026-03-22T20:43:07.300105Z",
   "event_count": 223,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Politics live: new standards for datacentres being built in Australia; report warns of drone threat",
+      "description": "Labor under pressure over fuel crisis as federal parliament returns. Follow updates live Get our breaking news email , free app or daily news podcast The government is today announcing some ground rules for companies wanting to build datacentres in Australia – including ensuring they add to clean energy supplies and minimise their water usage. Australia has the second largest pipeline of data centre construction in the world – after the US. But data centres use huge amounts of power and water, and the government anticipates that by 2030, data centres will consume about 6% of grid supplied energy. It sends a message to the states and territories, we don’t want to see a race to the bottom on these standards, and it makes it very clear, if you’ve got a data centre investment for Australia, we want to see you underpin additional electricity through power purchasing agreements that mean you’re contributing to Australian resilience, not undermining it. Australians will make their own decisions, and work from home is a viable option for many, many people, and they’ll make that call, we’re not going further than that. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/23/federal-parliament-ursula-von-der-leyen-visit-labor-anthony-albanese-chris-bowen-fuel-crisis-coalition-liberals-angus-taylor-nationals-matt-canavan-ntwnfb",
+      "published": "Sun, 22 Mar 2026 20:33:23 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -443,6 +453,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Hawaii storms have caused $1bn in damage, governor says",
+      "description": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
+      "url": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:24:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Did Israel miscalculate Iranian military capabilities?",
       "description": "Iranian attacks on Arad and Dimona near Israeli nuclear site raise serious questions about Israel's defence strategy.",
       "url": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss",
@@ -580,6 +600,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli air strikes on Gaza kill four Palestinians",
+      "description": "Strikes intensify across Gaza as health officials say 680 Palestinians have been killed since October's 'ceasefire'.",
+      "url": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 20:17:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -1093,6 +1123,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks",
       "description": "With US-Ukraine talks set to resume in Florida, Volodymyr Zelenskyy warns Russia is increasing its oil revenues.",
       "url": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss",
@@ -1117,16 +1157,6 @@
       "description": "With the war in its fourth week, the Trump administration sends contradictory messages on how to proceed.",
       "url": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 14:51:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
-      "description": "UK condemns what it says is Iranian attack on airbase in Indian Ocean, but Tehran denies it carried out the launches.",
-      "url": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 13:03:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1217,16 +1247,6 @@
       "description": "In Lebanon, renewed hostilities between Israel and Hezbollah and displacement are draining the joy from Ramadan and the run-up to the Islamic holiday of Eid al-Fitr for many",
       "url": "https://abcnews.com/International/wireStory/lebanon-war-displacement-mar-run-eid-al-fitr-131209979",
       "published": "Thu, 19 Mar 2026 06:14:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war expected to prevent Bank of England from cutting interest rates",
-      "description": "The Bank of England is holding its main interest rate at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469",
-      "published": "Thu, 19 Mar 2026 08:42:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1353,11 +1373,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
-      "description": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
-      "url": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 11:26:16 GMT",
-      "source": "BBC News",
+      "title": "Israeli settlers violently storm through occupied West Bank",
+      "description": "Dozens of Israeli settlers stormed a Palestinian village near Nablus during Eid al-Fitr, torching homes and vehicles.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 19:35:29 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1368,16 +1388,6 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "One Nation wins at least one SA seat as Liberals consider ‘sobering lessons’ from election defeat",
-      "description": "Labor’s Peter Malinauskas secures at least 32 seats while Pauline Hanson’s party outpolls Liberals and could become de facto opposition One Nation will win at least one South Australian lower house seat, and is leading in a handful of others, as the Liberals consider “sobering lessons” from Saturday’s thumping election loss to Labor. One Nation’s electoral success came as federal MP Barnaby Joyce downplayed racism and bigotry accusations against the party before likening a ban on migration from Muslim countries to buying cattle “that just don’t work”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/22/sa-state-election-one-nation-wins-seat-liberals-lessons-defeat-labor-ntwnfb",
-      "published": "Sun, 22 Mar 2026 06:40:35 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1433,16 +1443,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "description": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-      "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 22:34:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
       "description": "Benjamin Netanyahu has vowed to back US strikes on Iran’s power grid if Tehran does not reopen the Strait of Hormuz.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/we-do-it-together-in-confidence-netanyahu-backs-us-strikes-on-iran?traffic_source=rss",
@@ -1467,16 +1467,6 @@
       "description": "Under the guise of preserving secularism, this law allows the exclusion of people based on their religious identity.",
       "url": "https://www.aljazeera.com/opinions/2026/3/22/canadas-supreme-court-must-strike-down-quebecs-bill-21?traffic_source=rss",
       "published": "Sun, 22 Mar 2026 14:25:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Moment Iranian strike hits central Tel Aviv",
-      "description": "Watch the moment an Iranian strike hits what appears to be a bridge in central Tel Aviv, startling pedestrians nearby.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-iranian-strike-hits-central-tel-aviv?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 12:37:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1688,6 +1678,16 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Socialist incumbent defeats far-right challenger in key Marseille mayoral election",
+      "description": "Left-wing incumbent Benoît Payan was comfortably re-elected mayor of France's second city Marseille on Sunday, holding off a challenge from far-right candidate Franck Allisio, projections from several pollsters showed.",
+      "url": "https://www.france24.com/en/france/20260322-socialist-incumbent-defeats-far-right-challenger-in-key-marseille-mayoral-election",
+      "published": "Sun, 22 Mar 2026 19:50:53 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -2043,16 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Socialist incumbent Benoît Payan defeats far-right challenger in key Marseille mayoral election",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/live-news/20260322-socialist-incumbent-beno%C3%AEt-payan-defeats-far-right-challenger-in-key-marseille-mayoral-election",
-      "published": "Sun, 22 Mar 2026 19:50:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Italy votes in judicial reform referendum seen as key test for PM Meloni",
       "description": "Italians began voting Sunday in a two-day referendum on reforms that Prime Minister Giorgia Meloni says will make the judiciary more independent – but which critics argue will do the opposite. The poll risks turning into a referendum on the far-right leader herself, ahead of parliamentary elections next year.",
       "url": "https://www.france24.com/en/italy-votes-in-judicial-reform-referendum-seen-as-key-test-for-pm-meloni",
@@ -2117,6 +2107,16 @@
       "description": "China’s decision to end value-added tax rebates on solar panel exports and phase out incentives for battery storage equipment could raise solar equipment costs in Africa",
       "url": "https://abcnews.com/International/wireStory/africas-solar-boom-faces-higher-costs-china-cuts-131298327",
       "published": "Sun, 22 Mar 2026 03:21:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "A real possum appears among plush toy animals in Australian airport gift shop",
+      "description": "On shelves crammed with cuddly toy native animals in an Australian airport gift shop, one fluffy possum stood out because its brown eyes were moving",
+      "url": "https://abcnews.com/International/wireStory/real-possum-appears-plush-toy-animals-australian-airport-131203483",
+      "published": "Thu, 19 Mar 2026 07:54:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
