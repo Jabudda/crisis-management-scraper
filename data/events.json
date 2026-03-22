@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-03-22T10:43:55.167446Z",
+  "last_updated": "2026-03-22T11:08:43.648248Z",
   "event_count": 222,
   "events": [
-    {
-      "title": "Washington sends conflicting signals as war rages on in the Middle East",
-      "description": "As the Iran conflict enters its fourth week, strikes on nuclear sites and a reported attack on a US-UK base signal further escalation. With no clear exit in sight, fears are mounting of wider instability and humanitarian fallout. “The attack on Diego Garcia is an escalation… it’s a joint US-UK base, not just US territory – that in and of itself is definitely an escalation,” said Ali Vaez, Director of the Iran Project and senior adviser at the International Crisis Group.",
-      "url": "https://www.france24.com/en/washington-sends-conflictings-signales-as-war-rages-on-in-the-middle-east",
-      "published": "Sat, 21 Mar 2026 13:47:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 58,
-      "severity_level": "Critical"
-    },
     {
       "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
       "description": "Ongoing strikes across the Middle East stemming from the US-Israeli bombing of Iran and subsequent counterstrikes in the Gulf by Tehran continue to drive humanitarian needs, civilian casualties and mass displacement. Concerns are also growing over maritime security, the economic crisis centred around the closure of the Strait of Hormuz, attacks on healthcare and the protection of critical infrastructure, including nuclear facilities. Stay with us for live updates from across the UN system. App users can follow coverage here.",
@@ -98,6 +88,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/19/trump-mocks-japan-pearl-harbor-iran-war",
       "published": "Fri, 20 Mar 2026 00:45:52 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "'Disaster' for Gulf states if Iran targets desalination plants",
+      "description": "Iran on Saturday threatened to retaliate by targeting key infrastructure in neighbouring countries if US President Donald Trump follows through on his vow to “obliterate” the Islamic Republic’s power plants amid tensions over a blockage of the Strait of Hormuz. Journalist Hoda Abdel-Hamid, reporting from Doha, warned that such action would be a “disaster” for Gulf countries, noting that an attack on water desalination plants would be especially devastating as these nations depend on them for survival due to the lack of natural freshwater sources.",
+      "url": "https://www.france24.com/en/disaster-for-gulf-states-if-iran-targets-desalination-plants",
+      "published": "Sun, 22 Mar 2026 11:03:50 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -313,16 +313,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "War in the Middle East: Strike hits key nuclear site in Iran",
-      "description": "Hoda Abdel-Hamid is live from Doha, Qatar.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-strike-hits-key-nuclear-site-in-iran",
-      "published": "Sat, 21 Mar 2026 15:01:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
       "description": "More than two years of unrelenting violence, displacement and loss have pushed children and young people in Palestine into what one UN official describes as a “profound mental health emergency”, with girls facing heightened risks, including a resurgence in child marriage.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167166",
@@ -393,6 +383,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+      "description": "Donald Trump threatens to 'obliterate' Iran's power plants if it fails to open the Strait of Hormuz within 48 hours.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 00:00:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Liberals have ‘a lot of work to do’ after SA wipeout, Anne Ruston says – As it happened",
       "description": "This blog is now closed Get our breaking news email , free app or daily news podcast Australia not ‘contemplating’ fuel rationing but state and federal governments have powers, Bowen says State governments also had fuel rationing powers, Chris Bowen said. When I was a kid … in the 80s in Sydney, I remember petrol rationing was done by state governments – the state governments do have powers there. Yes, the Commonwealth government, under the fuel emergency act, has powers. It’s not designed to be invoked lightly. It really has powers primarily around defence and health, in the first instance, to ensure that those key areas are getting diesel that they need, but also other forms of fuel. I would need to be satisfied that there’s a real shortage and that the powers under that act are useful. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/22/australia-news-live-tropical-cyclone-narelle-south-australia-election-peter-malinauskas-labor-one-nation-chris-bowen-anthony-albanese-fuel-prices-ntwnfb",
@@ -428,16 +428,6 @@
       "url": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Mar 2026 00:55:31 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
-      "description": "It was the first time Iranian missiles had penetrated Israeli air defence systems in the area around a key nuclear site.",
-      "url": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 10:34:48 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -486,7 +476,17 @@
       "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
       "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 10:28:47 GMT",
+      "published": "Sun, 22 Mar 2026 10:57:44 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian attacks kill six in Ukraine, officials say",
+      "description": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 11:07:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -533,16 +533,6 @@
       "severity_level": "High"
     },
     {
-      "title": "War in the Middle East: Jerusalem Old City targeted by Iranian projectile",
-      "description": "Israeli Defence Minister Israel Katz warned that the United States and Israel would intensify their strikes on Iran in the coming week starting Sunday.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-jerusalem-old-city-targeted-by-iranian-projectile",
-      "published": "Sat, 21 Mar 2026 13:45:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Trump broke the global energy market - now he expects others to fix it",
       "description": "Has President Trump just given the biggest indication yet that he's done with this war in Iran?",
       "url": "https://news.sky.com/story/has-trump-given-his-biggest-indication-hes-done-with-the-iran-war-dont-take-anything-for-certain-13522451",
@@ -580,16 +570,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-      "description": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
-      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 19:39:57 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -660,6 +640,26 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
+      "description": "Britain's statues, flags, and icons like Churchill and Shakespeare are under attack, as commentators warn DEI ideology is erasing the nation's history.",
+      "url": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+      "published": "Sun, 22 Mar 2026 07:00:11 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran’s power plants",
+      "description": "Iran responds to Trump's threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
+      "url": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 01:16:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -813,6 +813,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran threatens key infrastructure in Middle East after Trump ultimatum",
+      "description": "Iran threatened on Sunday to attack key infrastructure across the Middle East if US President Donald Trump follows through on his vow to \"obliterate\" the Islamic republic's power plants unless the Strait of Hormuz swiftly reopens. Trump ratcheted up pressure on Iran's leadership, announcing a countdown over the Islamic republic's de facto blockade on the crucial trade route.",
+      "url": "https://www.france24.com/en/iran-threatens-key-infrastructure-in-middle-east-after-trump-ultimatum",
+      "published": "Sun, 22 Mar 2026 11:01:48 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "‘I’m glad he’s dead’: Trump reacts to death of ex-FBI chief Robert Mueller, 81",
       "description": "Robert Mueller, the former FBI director who led the investigation into alleged Russian interference in US President Donald Trump’s 2016 election campaign, has died aged 81. The veteran prosecutor, long seen as a bipartisan figure, drew a sharply divisive response from Trump, who said he was “glad he’s dead” in a post on social media.",
       "url": "https://www.france24.com/en/americas/20260321-i-m-glad-he-s-dead-trump-reacts-to-death-of-ex-fbi-chief-robert-mueller-81",
@@ -837,16 +847,6 @@
       "description": "US President Donald Trump on Saturday warned he may deploy ICE agents to US airports if Congress fails to fund airport security. The move comes as TSA staff face a second missed paycheck in a 36-day partial government shutdown, raising fears of travel disruption. Critics question ICE’s suitability for airport duties, given its focus on immigration enforcement.",
       "url": "https://www.france24.com/en/americas/20260321-trump-threatens-to-send-ice-agents-to-airports-amid-tsa-funding-impasse",
       "published": "Sat, 21 Mar 2026 17:13:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "War in the Middle East: Israel launches fresh strikes on Beirut",
-      "description": "Renée Davis is live from Beirut.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-fresh-strikes-on-beirut",
-      "published": "Sat, 21 Mar 2026 15:04:22 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -943,10 +943,30 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump reaction to ex-FBI chief's death: 'Debasement of public life' in US, expert says",
+      "description": "Donald Trump’s gloating reaction to the death of former FBI director Robert Mueller, who investigated the president’s ties to Russia during his 2016 campaign, reveals “everything you need to know about the debasement of public life in the United States,” said Reed Brody, a former New York assistant attorney general. Brody described Mueller as a model of institutional integrity and independence that now feels “increasingly distant,” noting that he was appointed under George W. Bush and reappointed by Barack Obama, and was “trusted across party lines.” He added that Mueller “embodied this idea that law enforcement doesn’t serve the president.”",
+      "url": "https://www.france24.com/en/trump-reaction-to-ex-fbi-chief-s-death-debasement-of-public-life-in-us-expert-says",
+      "published": "Sun, 22 Mar 2026 11:07:06 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "The city of Nabatieh in Lebanon has been hit hard by Israeli airstrikes",
       "description": "The city of Nabatieh in Lebanon has been hit hard by Israeli airstrikes. \"Hezbollah has a strong presence here, this is one of the heartlands of Lebanon's Shia community. Israel says it is targeting fighters who are launching rockets into northern Israel,\" said FRANCE 24's Claire Paccalin, reporting from the area. Click on the video for more.",
       "url": "https://www.france24.com/en/the-city-of-nabatieh-in-lebanon-has-been-hit-hard-by-israeli-airstrikes",
       "published": "Sun, 22 Mar 2026 08:21:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Cuba hit by second nationwide blackout in a week",
+      "description": "Cuba plunged into darkness for the second time in less than a week on Saturday after its national power network failed again, strained by aging infrastructure and a US oil blockade.",
+      "url": "https://www.france24.com/en/live-news/20260322-cuba-hit-by-second-nationwide-blackout-in-a-week",
+      "published": "Sun, 22 Mar 2026 02:43:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
@@ -1103,16 +1123,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Lebanese nurse refuses to leave her post at hospital despite loses",
-      "description": "Lebanese nurse remains at her post in the Bekaa Valley after losing her fiance in the 2024 Israel-Hezbollah war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
-      "published": "Sun, 22 Mar 2026 10:34:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Will the Houthis join Iran in war against Israel and the US?",
       "description": "The Yemeni armed group says all options are on the table.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss",
@@ -1203,20 +1213,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many",
-      "description": "In Lebanon, renewed hostilities between Israel and Hezbollah and displacement are draining the joy from Ramadan and the run-up to the Islamic holiday of Eid al-Fitr for many",
-      "url": "https://abcnews.com/International/wireStory/lebanon-war-displacement-mar-run-eid-al-fitr-131209979",
-      "published": "Thu, 19 Mar 2026 06:14:24 -0400",
+      "title": "Iran war expected to prevent Bank of England from cutting interest rates",
+      "description": "The Bank of England is holding its main interest rate at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war",
+      "url": "https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469",
+      "published": "Thu, 19 Mar 2026 08:42:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war expected to prevent Bank of England from cutting interest rates",
-      "description": "The Bank of England is holding its main interest rate at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469",
-      "published": "Thu, 19 Mar 2026 08:42:42 -0400",
+      "title": "In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many",
+      "description": "In Lebanon, renewed hostilities between Israel and Hezbollah and displacement are draining the joy from Ramadan and the run-up to the Islamic holiday of Eid al-Fitr for many",
+      "url": "https://abcnews.com/International/wireStory/lebanon-war-displacement-mar-run-eid-al-fitr-131209979",
+      "published": "Thu, 19 Mar 2026 06:14:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1393,16 +1403,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Former Assad-era prison chief convicted of torture in US federal court, marking a historic first",
-      "description": "Samir Ousman Alsheikh, a former Syrian prison chief, was found guilty of torture and immigration fraud charges, becoming the first Assad-era official convicted in a U.S. court.",
-      "url": "https://www.foxnews.com/world/former-assad-era-prison-chief-convicted-torture-us-federal-court-marking-historic-first",
-      "published": "Wed, 18 Mar 2026 15:04:13 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
       "description": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
       "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
@@ -1478,6 +1478,16 @@
       "url": "https://www.dw.com/en/germany-news-state-of-rhineland-palatinate-holds-elections/live-76465368?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 22 Mar 2026 06:46:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "The week in pictures: Strikes on Iran, the Oscars and the UEFA Champions League",
+      "description": "From continuing US and Israeli strikes on Iran to Nowruz celebrations and a volcanic eruption on the French island of Reunion, FRANCE 24 takes a look at some of the week's most powerful images.",
+      "url": "https://www.france24.com/en/middle-east/20260322-the-week-in-pictures-strikes-on-iran-oscars-and-the-uefa-champions-league",
+      "published": "Sun, 22 Mar 2026 11:03:41 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -2027,16 +2037,6 @@
       "description": "Voters across France head to the polls Sunday for mayoral runoffs in major cities including Paris and Marseille, with the left fighting to hold key strongholds and the far right seeking gains in a closely watched test ahead of next year’s presidential election.",
       "url": "https://www.france24.com/en/europe/20260322-french-voters-to-choose-mayors-in-key-cities-including-paris-and-marseille",
       "published": "Sun, 22 Mar 2026 07:08:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Syrian Kurds return home to celebrate Nowruz for the first time since exile",
-      "description": "Nowruz, the Farsi-language word for “new year,” is an ancient Persian festival that is also celebrate by Kurds in Syria, Turkey and Iraq as well as Iran. It is characterized by colorful street festivals and torch-bearing processions winding their way into the mountains.",
-      "url": "https://www.france24.com/en/syrian-kurds-return-home-to-celebrate-nowruz-for-the-first-time-since-exile",
-      "published": "Sat, 21 Mar 2026 13:42:21 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
