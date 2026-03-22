@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T07:44:49.795108Z",
-  "event_count": 222,
+  "last_updated": "2026-03-22T08:11:36.008150Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Washington sends conflicting signals as war rages on in the Middle East",
@@ -803,6 +803,16 @@
       "severity_level": "High"
     },
     {
+      "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
+      "description": "No description available.",
+      "url": "https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
+      "published": "Sun, 22 Mar 2026 04:04:16 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran's cultural heritage sites are being damaged by American and Israeli strikes",
       "description": "The costs of the joint U.S. and Israeli strikes on Iran are mounting in terms of civilian deaths and damage to some of Iran's most famous and beloved cultural heritage sites.",
       "url": "https://www.npr.org/2026/03/19/nx-s1-5748554/iran-cultural-heritage-damage-war-isfahan",
@@ -1503,16 +1513,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire",
-      "description": "The ceasefire, in effect for the past six months, has brought some reprieve to Palestinians in Gaza despite continued hardship, displacement and Israeli restrictions on aid.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/03/20/nx-s1-5754623/gaza-eid-al-fitr-ramadan-palestinians",
-      "published": "Fri, 20 Mar 2026 12:19:45 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Germany news: State of Rhineland-Palatinate holds elections",
       "description": "Voters in Rhineland-Palatinate are set to choose a new state government. Run-off local elections are to take place in Bavaria, with the mayoral race in Munich in focus. DW has the latest.",
       "url": "https://www.dw.com/en/germany-news-state-of-rhineland-palatinate-holds-elections/live-76465368?maca=en-rss-en-all-1573-xml-mrss",
@@ -1668,6 +1668,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-22T08:11:15.605929Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
