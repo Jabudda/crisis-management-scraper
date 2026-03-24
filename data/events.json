@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T09:49:18.190664Z",
-  "event_count": 225,
+  "last_updated": "2026-03-24T10:21:35.390127Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
@@ -150,6 +150,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran launches waves of missiles towards Israel",
+      "description": "Israel’s Magen David Adom emergency medical service said 'six people were lightly injured' in the missile strikes.",
+      "url": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss",
+      "published": "Tue, 24 Mar 2026 10:05:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -303,16 +313,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-      "description": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
-      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 21:13:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "LaGuardia plane crash video shows jet collide with fire truck after frantic air traffic control warning",
       "description": "Released video shows an Air Canada jet striking a Port Authority fire truck at LaGuardia, killing both pilots and injuring dozens of passengers onboard.",
       "url": "https://www.foxnews.com/us/laguardia-plane-crash-video-shows-jet-collide-fire-truck-after-frantic-air-traffic-control-warning",
@@ -348,16 +348,6 @@
       "url": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
       "published": "Tue, 24 Mar 2026 01:58:04 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Live: Iran launches missiles on Israel, calls Trump’s negotiation claims ‘fake news'",
-      "description": "President Donald Trump started the fourth week of his war against Iran by offering the world some guarded optimism that the US could soon be winding operations down, but Iran contradicted his claims of progress being made in diplomatic talks. Iran also launched another round of missiles towards Israel early Tuesday, state television announced. Follow our liveblog for all the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260324-middle-east-war-live-trump-us-iran-talks-tehran-fires-missiles-israel",
-      "published": "Tue, 24 Mar 2026 03:41:26 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -470,6 +460,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+      "description": "Leo Medina, who was on another plane on the tarmac when the crash happened, told the BBC what he saw.",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 21:13:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: Iran threatens 'heavy' missile fire on Israel, dismisses Trump claim of talks",
+      "description": "Iran's Revolutionary Guard Corps on Tuesday threatened to conduct \"heavy\" missile and drone attacks on Israel in what it described as support for Lebanese and Palestinian civilians. Tehran earlier dismissed US President Donald Trump's claim of diplomatic talks as \"fake news\". Follow our liveblog for all the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260324-middle-east-war-live-trump-us-iran-talks-tehran-fires-missiles-israel",
+      "published": "Tue, 24 Mar 2026 03:41:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -1023,16 +1033,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israel bombs petrol station in southern Lebanon",
-      "description": "An Israeli attack has hit a petrol station in southern Lebanon, near the Rashidieh Camp for Palestinian refugees.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss",
-      "published": "Tue, 24 Mar 2026 04:28:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1243,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iran says no talks with US, calls Trump statements a ‘bluff’",
+      "description": "Iranian officials have dismissed statements by Trump as a ‘bluff’, denying any direct or indirect talks with the US.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iran-says-no-talks-with-us-calls-trump-statements-a?traffic_source=rss",
+      "published": "Tue, 24 Mar 2026 09:54:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1333,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
-      "description": "Major US financial markets opened higher after US President Donald Trump announced he was postponing strikes on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss",
-      "published": "Tue, 24 Mar 2026 04:21:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
       "description": "Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption Madagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, after he dismissed the prime minister and cabinet without explanation earlier this month. Michael Randrianirina came to power in a coup in October after weeks of youth-led protests under the banner “Gen Z Madagascar”. However, young people were quickly disenchanted by his choice of government officials, which they saw as being part of the old, corrupt elite. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
@@ -1353,9 +1353,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Denmark holds early elections spurred by Trump's threats to take Greenland",
-      "description": "Denmark's prime minister called early parliamentary elections after gaining a popularity boost from standing up to President Trump over his threat to seize Greenland.",
-      "url": "https://www.npr.org/2026/03/24/nx-s1-5757935/denmark-elections-trump-greenland",
+      "title": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
+      "description": "The F-14 was made famous in Top Gun . The U.S. sold the planes to Iran in the 1970s, only for the two countries to become enemies. Iran kept its F-14s flying for decades in the face of U.S. sanctions.",
+      "url": "https://www.npr.org/2026/03/24/nx-s1-5752380/f14-tomcats-iran-us-israel-airstrikes-top-gun",
       "published": "Tue, 24 Mar 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1363,9 +1363,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
-      "description": "The F-14 was made famous in Top Gun . The U.S. sold the planes to Iran in the 1970s, only for the two countries to become enemies. Iran kept its F-14s flying for decades in the face of U.S. sanctions.",
-      "url": "https://www.npr.org/2026/03/24/nx-s1-5752380/f14-tomcats-iran-us-israel-airstrikes-top-gun",
+      "title": "Denmark holds early elections spurred by Trump's threats to take Greenland",
+      "description": "Denmark's prime minister called early parliamentary elections after gaining a popularity boost from standing up to President Trump over his threat to seize Greenland.",
+      "url": "https://www.npr.org/2026/03/24/nx-s1-5757935/denmark-elections-trump-greenland",
       "published": "Tue, 24 Mar 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1593,16 +1593,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-24T09:48:56.089197Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Report: Hungary using more Russian oil, despite EU phase out",
       "description": "A new report by the Center for the Study of Democracy, shared exclusively with DW, says that Hungary has increased its dependence on Russian oil since 2021. It has also become highly dependent on Russian gas.",
       "url": "https://www.dw.com/en/report-hungary-using-more-russian-oil-despite-eu-phase-out/a-76487750?maca=en-rss-en-all-1573-xml-mrss",
@@ -1618,6 +1608,16 @@
       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260323-misleading-campaign-adverts-target-french-far-left-in-local-elections",
       "published": "Mon, 23 Mar 2026 22:10:41 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Chicago police detail how illegal immigrant accused of killing college student was caught: arrest report",
+      "description": "Jose Medina, accused of killing Chicago college student Sheridan Gorman, was allegedly identified after surveillance caught his distinctive limp on camera.",
+      "url": "https://www.foxnews.com/us/chicago-police-detail-how-illegal-immigrant-accused-killing-college-student-caught-arrest-report",
+      "published": "Tue, 24 Mar 2026 06:00:51 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1973,8 +1973,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lionel Jospin (1937-2026): 'Highly-respected moral and intellectual figure among left wing'",
-      "description": "François Picard is pleased to welcome Damien Lecomte, Political Scientist and Researcher at CRPS-CESSP, Paris Pantheon Sorbonne University. According to Dr. Lecomte, there is a persistent tension between unity and fragmentation in French politics, and the legacy of Lionel Jospin illustrates this paradox: a figure of moral integrity and intellectual rigor who successfully governed a broad left-wing coalition, yet he was ultimately defeated by a divided electorate on the left.",
+      "title": "Lionel Jospin (1937-2026): 'Highly respected moral and intellectual figure among left wing'",
+      "description": "François Picard is pleased to welcome Damien Lecomte, political scientist and researcher at CRPS-CESSP, Paris Pantheon-Sorbonne University. According to Dr. Lecomte, there is a persistent tension between unity and fragmentation in French politics, and the legacy of Lionel Jospin illustrates this paradox: a figure of moral integrity and intellectual rigour who successfully governed a broad left-wing coalition, yet was ultimately defeated by a divided electorate on the left. Jospin died on Sunday at the age of 88.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260323-lionel-jospin-highly-respected-moral-and-intellectual-figure-among-left-wing",
       "published": "Mon, 23 Mar 2026 18:59:46 GMT",
       "source": "France24",
@@ -2187,16 +2187,6 @@
       "description": "Shanann Watts' family says they've faced relentless harassment and conspiracy theories since Chris Watts' 2018 murder conviction, calling it \"evil.\"",
       "url": "https://www.foxnews.com/us/shanann-watts-father-says-family-faced-years-evil-online-hate-after-chris-watts-murders",
       "published": "Mon, 23 Mar 2026 12:09:32 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
-      "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
-      "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-      "published": "Mon, 23 Mar 2026 00:16:50 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
