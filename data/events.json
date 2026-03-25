@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T18:24:13.066113Z",
+  "last_updated": "2026-03-25T18:49:02.964323Z",
   "event_count": 224,
   "events": [
     {
@@ -843,16 +843,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump declares victory and claims Iran offers a 'prize' in talks Iran has denied having",
-      "description": "President Trump said on Tuesday Iran made a valuable offer to reach a deal with the United States, in talks that Iran has denied are taking place. \"We've won this. This war has been won,\" Trump said.",
-      "url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
-      "published": "Tue, 24 Mar 2026 07:08:10 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Ukraine updates: Hungary threatens gas stop amid oil dispute",
       "description": "Prime Minister Viktor Orban says Hungary will gradually stop the flow of gas to Ukraine until Russian Druzhba pipeline oil deliveries restart. Meanwhile, Russia reports widespread overnight drone strikes. DW has more.",
       "url": "https://www.dw.com/en/ukraine-updates-hungary-threatens-gas-stop-amid-oil-dispute/live-76519687?maca=en-rss-en-all-1573-xml-mrss",
@@ -888,6 +878,16 @@
       "url": "https://www.france24.com/en/ex-eu-border-chief-faces-french-investigation-for-crimes-against-humanity",
       "published": "Wed, 25 Mar 2026 16:32:37 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Colombia issues arrest warrants for rebel group members for Miguel Uribe killing",
+      "description": "Colombia’s attorney general says her office has obtained arrest warrants for seven members of a rebel group for the killing of Miguel Uribe, a conservative presidential hopeful who was shot in the head during a rally in Bogota in June 2025",
+      "url": "https://abcnews.com/International/wireStory/colombia-issues-arrest-warrants-rebel-group-members-miguel-131376980",
+      "published": "Tue, 24 Mar 2026 17:27:30 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1033,6 +1033,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor",
+      "description": "Iranians escaping hardship and war are shaking it off to Persian, Arabic and Turkish tunes in this disco in eastern Turkey.",
+      "url": "https://www.npr.org/2026/03/25/nx-s1-5760830/iranian-disco-turkey-iran",
+      "published": "Wed, 25 Mar 2026 14:27:54 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "The Israeli military wants several more weeks to fight Iran war, officials say",
       "description": "The Israeli military estimates it would need several more weeks of fighting to complete its war goals in Iran, at a time when President Trump says the U.S. is negotiating an end to the war.",
       "url": "https://www.npr.org/2026/03/24/nx-s1-5759317/israel-iran-war",
@@ -1117,16 +1127,6 @@
       "description": "Kenya’s flower industry is losing up to $1.4 million a week as the Iran war cuts demand and disrupts shipping",
       "url": "https://abcnews.com/International/wireStory/kenyas-flower-industry-loses-millions-dollars-weekly-due-131387382",
       "published": "Wed, 25 Mar 2026 05:48:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UK police arrest 2 men over arson attack on ambulances belonging to a Jewish charity",
-      "description": "British police have arrested two men over an arson attack that destroyed four ambulances from a Jewish charity",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-2-men-arson-attack-ambulances-131387615",
-      "published": "Wed, 25 Mar 2026 05:43:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1391,16 +1391,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
-    },
-    {
-      "title": "Democrat captures Florida House seat in Trump’s Mar-a-Lago district",
-      "description": "Emily Gregory's victory in the previously GOP-held district is the latest Democratic upset before November midterms.",
-      "url": "https://www.aljazeera.com/news/2026/3/25/democrat-captures-florida-house-seat-in-trumps-mar-a-lago-district?traffic_source=rss",
-      "published": "Wed, 25 Mar 2026 12:43:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1698,6 +1688,16 @@
       "url": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Mar 2026 08:17:51 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel forcibly displaces more Palestinian families in East Jerusalem",
+      "description": "Rights group says Israel 'expanding ethnic cleansing in East Jerusalem, throwing Palestinian families into the streets'.",
+      "url": "https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem?traffic_source=rss",
+      "published": "Wed, 25 Mar 2026 18:29:50 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2163,10 +2163,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "BBC names ex-Google executive Matt Brittin its new director-general as it faces a feud with Trump",
-      "description": "Former Google executive Matt Brittin has been announced as the new director-general of the BBC",
-      "url": "https://abcnews.com/International/wireStory/bbc-names-google-executive-matt-brittin-new-director-131395994",
-      "published": "Wed, 25 Mar 2026 10:59:16 -0400",
+      "title": "A 1,000-year-old cliff-top temple lies battered after Cambodia-Thailand border clashes",
+      "description": "Cambodia says fighting with Thailand has left the Preah Vihear temple badly damaged and too dangerous for visitors",
+      "url": "https://abcnews.com/International/wireStory/1000-year-temple-lies-battered-after-cambodia-thailand-131348308",
+      "published": "Tue, 24 Mar 2026 07:06:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
