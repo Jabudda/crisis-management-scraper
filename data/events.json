@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T20:13:15.815951Z",
+  "last_updated": "2026-03-26T20:46:08.306184Z",
   "event_count": 226,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israel sends more troops into southern Lebanon as ground invasion expands",
+      "description": "Lebanon's PM warns Israeli actions and statements threaten Lebanese sovereignty and violate international law.",
+      "url": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 20:10:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -243,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Arizona gun dealer armed two Mexican drug cartels, DOJ says",
-      "description": "An Arizona gun dealer was indicted on charges of allegedly providing weapons to the CJNG and Sinaloa Cartel, both designated foreign terrorist organizations.",
-      "url": "https://www.foxnews.com/us/arizona-gun-dealer-armed-mexican-drug-cartels-doj",
-      "published": "Wed, 25 Mar 2026 19:45:14 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "The U.S. and Iran are in 'indirect talks,' says mediator Pakistan, as war rages on",
       "description": "Pakistan's foreign minister said the country is relaying messages and that Iran is deliberating on a U.S. proposal. Israel says it killed the Iranian Revolutionary Guard's navy chief.",
       "url": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
@@ -320,16 +320,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "News live: Tropical Cyclone Narelle bears down on WA towns; Trump takes another swipe at ‘not great’ Australia",
-      "description": "Cyclone has re-intensified to category-four storm off the coast near Exmouth. Follow today’s news live Get our breaking news email , free app or daily news podcast In today’s press conference at the White House, the US president has taken another swipe at Nato, the UK and Australia for not being more involved in his war against Iran. We have covered the Nato comments here: [Starmer] did something that was shocking: he didn’t want to help us. And maybe in particular that country, you know, the longest bond, the longest ally. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb",
-      "published": "Thu, 26 Mar 2026 20:01:19 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -403,6 +393,16 @@
       "severity_level": "High"
     },
     {
+      "title": "A city opens its doors to the world: New York and the United Nations",
+      "description": "Born from the ashes of the Second World War, the dream of a more peaceful and fairer world drew nations together in 1945 under a new vision for humanity: the United Nations.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1166873",
+      "published": "Mon, 23 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Revolutionary Tourism: Inside the $600M marriage of dark money and far-left agitprop",
       "description": "A Fox News Digital investigation shows how a network tied to Neville Roy Singham turns activism into coordinated global protest movements — from Cuba to U.S. cities — using a repeatable playbook of messaging, mobilization and media amplification.",
       "url": "https://www.foxnews.com/us/revolutionary-tourism-inside-600m-marriage-dark-money-far-left-agitprop",
@@ -410,16 +410,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
-      "description": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 17:08:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -477,16 +467,6 @@
       "description": "As the US-Israel war with Iran sends fuel prices surging across Southeast Asia, Beijing is using the crisis to position itself as a steadier and more reliable partner than Washington.",
       "url": "https://www.dw.com/en/us-war-in-iran-china-casts-itself-as-savior-of-se-asia/a-76543061?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Mar 2026 12:48:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran war: Trump says he's unsure about a deal with Tehran",
-      "description": "US President Trump has questioned the prospect of an agreement with Iran to end the war and said it might be too late. Meanwhile, Israel said it killed an Iranian commander responsible for blocking the Strait of Hormuz.",
-      "url": "https://www.dw.com/en/iran-war-trump-says-he-s-unsure-about-a-deal-with-tehran/live-76535412?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Mar 2026 04:58:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
@@ -553,9 +533,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Olympic women's sport to be limited to 'biological females'",
-      "description": "The International Olympic Committee said on Thursday only \"biological females\" will be allowed to compete in women's events, preventing transgender women from competing.",
-      "url": "https://www.france24.com/en/live-news/20260326-olympic-women-s-sport-to-be-limited-to-biological-females-1",
+      "title": "Transgender women banned from competing in Olympic games",
+      "description": "The International Olympic Committee (IOC) on Thursday banned transgender women from competing in games, and said only \"biological females\" will be allowed to participate in women's events. The IOC is reintroducing testing for gender to determine eligibility, which will also rule out many athletes with differences in sexual development.",
+      "url": "https://www.france24.com/en/sport/20260326-transgender-women-banned-from-competing-in-olympic-games",
       "published": "Thu, 26 Mar 2026 14:59:11 GMT",
       "source": "France24",
       "type": "rss",
@@ -588,6 +568,26 @@
       "url": "https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Mar 2026 10:55:56 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "News live: Tropical Cyclone Narelle bears down on WA towns; Trump takes another swipe at ‘not great’ Australia",
+      "description": "Cyclone has re-intensified to category-four storm off the coast near Exmouth. Follow today’s news live Get our breaking news email , free app or daily news podcast Controversial radio host Kyle Sandilands is expected to make his first appearance in court today in a showdown with a $100 million contract on the line, Australian Associated Press reports. The top-rated host is suing his former employer ARN in the federal court in Sydney, alleging the termination of his contract with the company was invalid because there was no act of serious misconduct. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb",
+      "published": "Thu, 26 Mar 2026 20:28:00 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: Houthi restraint driven by local priorities",
+      "description": "Despite threatening to intervene in the war in Iran, the Iran-backed Yemeni Houthi militia has so far remained passive. What are the reasons?",
+      "url": "https://www.dw.com/en/iran-war-houthi-restraint-driven-by-local-priorities/a-76546651?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 26 Mar 2026 20:14:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -693,6 +693,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran war: Trump extends pause on energy sector strikes",
+      "description": "President Trump said the US would prolong a pause on strikes of Iran's energy facilities for 10 days. He also said talks with Iran were \"going well.\" Earlier, Tehran denied any talks were taking place.",
+      "url": "https://www.dw.com/en/iran-war-trump-extends-pause-on-energy-sector-strikes/live-76535412?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 26 Mar 2026 20:31:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli judge closes case of Palestinian teen's death in prison despite evidence of starvation",
+      "description": "A newly unsealed sentence from a court ruling reveals that an Israeli judge acknowledged that a Palestinian teen had been starved in Israeli prison but stopped an investigation into the case",
+      "url": "https://abcnews.com/International/wireStory/israeli-judge-closes-case-palestinian-teens-death-prison-131412576",
+      "published": "Thu, 26 Mar 2026 03:30:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Israel says Iranian leader who ordered Strait of Hormuz closure killed in targeted strike",
       "description": "Israel has eliminated Islamic Revolutionary Guard Corps Navy Commander Alireza Tangsiri in a strike, Israel's Minister of Defense Israel Katz indicated.",
       "url": "https://www.foxnews.com/world/israel-says-iranian-leader-who-ordered-strait-hormuz-closure-killed-targeted-strike",
@@ -783,16 +803,6 @@
       "severity_level": "High"
     },
     {
-      "title": "UN pushes emergency plan for Cuba aid amid US talks",
-      "description": "The UN has presented an aid action plan for Cuba to US officials, which even involves fuel tracking models. Meanwhile, former President Raul Castro has reportedly been involved in talks with the US.",
-      "url": "https://www.dw.com/en/un-pushes-emergency-plan-for-cuba-aid-amid-us-talks/a-76535754?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Mar 2026 06:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Chicago alderwoman closes office after 'wrong place at the wrong time' comment on slain student fuels backlash",
       "description": "Chicago Alderwoman Maria Hadden closed her office for safety concerns in response to backlash for calling slain student Sheridan Gorman's death the \"wrong place, wrong time.\"",
       "url": "https://www.foxnews.com/us/chicago-alderwoman-closes-office-after-wrong-place-wrong-time-comment-slain-student-fuels-backlash",
@@ -811,6 +821,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "LIVE: Brazil vs France – World Cup 2026 friendly",
+      "description": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 17:08:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Tehran’s ‘toll booth’: How Iran picks who to let through Strait of Hormuz",
@@ -1003,16 +1023,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Damage in Israel from Iranian attacks",
-      "description": "Video shows the aftermath of Iranian attacks in several cities across Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/damage-in-israel-from-iranian-attacks?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 13:11:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1104,7 +1114,7 @@
     },
     {
       "title": "Germany news: Bundestag approves fuel station price brake amid Iran war and rising oil costs",
-      "description": "German petrol stations will be limited to increasing prices once per day if the new law clears the upper house. After slashing jobs at home, BASF has opened a sprawling new factory in China. Follow DW for the latest.",
+      "description": "German petrol stations will be limited to increasing prices once per day if the new law clears the upper house. After slashing jobs at home, BASF has opened a sprawling new factory in China.",
       "url": "https://www.dw.com/en/germany-news-bundestag-approves-fuel-station-price-brake-amid-iran-war-and-rising-oil-costs/live-76539515?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Mar 2026 11:28:00 GMT",
       "source": "Deutsche Welle",
@@ -1193,16 +1203,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "DR Congo: violence intensifies as UN mission pledges continued support",
-      "description": "The security and political situation in the Democratic Republic of the Congo (DRC) remains “extremely tense”, a senior UN official told the Security Council on Thursday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167204",
-      "published": "Thu, 26 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Gulf war ‘out of control’, Guterres warns, as UN appoints envoy to push for peace",
       "description": "UN Secretary-General António Guterres has warned that the escalating Gulf war is “out of control”, urging all sides to step back from the brink and allow diplomacy to prevail, as he announced the appointment of a senior envoy to spearhead peace efforts.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167198",
@@ -1267,16 +1267,6 @@
       "description": "The Gorman family is demanding accountability from Chicago and Illinois leaders, rejecting their 'senseless tragedy' framing of Sheridan's death.",
       "url": "https://www.foxnews.com/us/gorman-family-calls-out-johnson-pritzker-following-college-students-killing-chicago",
       "published": "Wed, 25 Mar 2026 22:13:46 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Jurors shown bodycam of doctor’s bloody wife, rock he allegedly used to bash her in cliffside attack",
-      "description": "Graphic bodycam footage and a bloodstained rock were shown to jurors in the attempted murder trial of Hawaii doctor Gerhardt Konig Wednesday.",
-      "url": "https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
-      "published": "Wed, 25 Mar 2026 20:21:16 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1503,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "‘My phone is a brick’: Russians scramble for information as data blocked",
-      "description": "As Ukrainian drones rain down, authorities have implemented blackouts citing ‘security concerns’.",
-      "url": "https://www.aljazeera.com/features/2026/3/26/my-phone-is-a-brick-russians-scramble-for-information-as-data-blocked?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 13:07:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1556,8 +1536,18 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-26T20:12:47.213332Z",
+      "published": "2026-03-26T20:45:36.142623Z",
       "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "American Airlines flight attendant vanishes during Colombia layover: 'His family is desperate'",
+      "description": "American Airlines flight attendant Eric Gutierrez Molina, 32, reportedly vanished during a Medellín, Colombia, layover Sunday.",
+      "url": "https://www.foxnews.com/us/american-airlines-flight-attendant-vanishes-during-colombia-layover-his-family-desperate",
+      "published": "Thu, 26 Mar 2026 16:32:43 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1626,7 +1616,7 @@
       "title": "Spanish woman dies by euthanasia after long legal battle with father",
       "description": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
       "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 19:41:52 GMT",
+      "published": "Thu, 26 Mar 2026 20:33:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1693,6 +1683,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
+      "description": "Court dismissed xAI claim that measures were taken after plaintiff produced video of nude person shortly before hearing.",
+      "url": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 19:56:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
+      "description": "Judge Hellerstein declined to dismiss the case against Maduro but questioned US prosecutors about his access to defence.",
+      "url": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
+      "published": "Thu, 26 Mar 2026 19:53:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
       "description": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
@@ -1727,16 +1737,6 @@
       "description": "President Trump has said Iran is “begging to make a deal”, describing them as “lousy fighters but great negotiators\".",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iran-lousy-fighters-but-great?traffic_source=rss",
       "published": "Thu, 26 Mar 2026 16:18:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Senegal pledges to fight ‘robbery’ after CAF strips it of AFCON title",
-      "description": "Senegal's lawyers say CAF's decision to hand Morocco the AFCON title 'openly violates the laws of the ‌game'.",
-      "url": "https://www.aljazeera.com/sports/2026/3/26/senegal-pledges-to-fight-robbery-after-caf-strips-it-of-afcon-title?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 13:04:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2103,16 +2103,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Italy seizes millions in assets allegedly stolen from Bond co-star Ursula Andress",
-      "description": "Italian police say they have seized about 20 million euros in property and assets linked to money stolen from Swiss actress and original Bond girl Ursula Andress",
-      "url": "https://abcnews.com/International/wireStory/italy-seizes-millions-assets-allegedly-stolen-bond-star-131429780",
-      "published": "Thu, 26 Mar 2026 09:01:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Nepal's newly elected parliament is sworn in months after a youth-led revolt",
       "description": "Nepal’s newly elected members of parliament have been sworn in, with nearly two-thirds of them from a political party that is less than four years old",
       "url": "https://abcnews.com/International/wireStory/nepals-newly-elected-parliament-sworn-months-after-youth-131425555",
@@ -2123,20 +2113,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say",
-      "description": "Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say",
-      "url": "https://abcnews.com/International/wireStory/militants-ambush-security-forces-northern-nigeria-killing-9-131405287",
-      "published": "Thu, 26 Mar 2026 08:32:59 -0400",
+      "title": "Italy seizes millions in assets allegedly stolen from Bond co-star Ursula Andress",
+      "description": "Italian police say they have seized about 20 million euros in property and assets linked to money stolen from Swiss actress and original Bond girl Ursula Andress",
+      "url": "https://abcnews.com/International/wireStory/italy-seizes-millions-assets-allegedly-stolen-bond-star-131429780",
+      "published": "Thu, 26 Mar 2026 09:01:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Police in Kenya exhume at least 33 bodies from a mass grave",
-      "description": "Authorities in western Kenya say they have uncovered a mass grave with at least 33 bodies",
-      "url": "https://abcnews.com/International/wireStory/police-kenya-exhume-33-bodies-mass-grave-131437122",
-      "published": "Thu, 26 Mar 2026 12:00:04 -0400",
+      "title": "Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say",
+      "description": "Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say",
+      "url": "https://abcnews.com/International/wireStory/militants-ambush-security-forces-northern-nigeria-killing-9-131405287",
+      "published": "Thu, 26 Mar 2026 08:32:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2168,6 +2158,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167188",
       "published": "Tue, 24 Mar 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Veteran, 83, allegedly shoved onto NYC subway tracks dies from injuries; illegal migrant charged with murder",
+      "description": "Richard Williams, an 83-year-old retired Air Force veteran, died after being randomly shoved onto NYC subway tracks by an illegal immigrant, DHS says.",
+      "url": "https://www.foxnews.com/us/veteran-83-shoved-onto-nyc-subway-tracks-dies-from-injuries-illegal-migrant-charged-murder",
+      "published": "Thu, 26 Mar 2026 16:14:07 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
