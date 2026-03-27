@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T10:48:13.835187Z",
-  "event_count": 225,
+  "last_updated": "2026-03-27T11:19:35.387150Z",
+  "event_count": 224,
   "events": [
     {
       "title": "World News in Brief: Airstrikes continue in Ukraine, refugees return to DR Congo, emergency aid for the ‘Dry Corridor’",
@@ -473,11 +473,21 @@
       "severity_level": "High"
     },
     {
-      "title": "How Russia's threat has seen a German become Europe's most important soldier",
+      "title": "How Russia's threat has Germany become Europe's most important army",
       "description": "Germany once terrorised Europe, but now Europe is welcoming a resurgent German military.",
       "url": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Mar 2026 05:59:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack",
+      "description": "Grieving mother Mohaddeseh Fallahat, whose two children were killed, and Iran's Araghchi address Human Rights Council.",
+      "url": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 10:48:47 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -866,7 +876,7 @@
       "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
       "description": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
       "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 10:37:54 GMT",
+      "published": "Fri, 27 Mar 2026 10:58:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 10,
@@ -967,6 +977,16 @@
       "description": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
       "url": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Mar 2026 03:14:10 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
+      "description": "The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 10:31:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1333,26 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
-      "description": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.",
-      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 00:44:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
-      "description": "The Israeli army fired tear gas at Palestinian residents of the Beit Imrin village in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/palestinians-flee-tear-gas-as-israeli-settlers-arrive-in-occupied-west-bank?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 04:08:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1463,6 +1463,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Southeast Asia is being hit hard by Iran's cutoff of oil and gas",
+      "description": "Southeast Asia is among the areas hardest hit by Iran's cutoff of oil and gas through the Strait of Hormuz, with many nations almost entirely dependent on foreign energy — and quickly running out.",
+      "url": "https://www.npr.org/2026/03/26/nx-s1-5760763/southeast-asia-is-being-hit-hard-by-irans-cutoff-of-oil-and-gas",
+      "published": "Thu, 26 Mar 2026 17:32:53 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany news: Bundestag votes for pension scheme reboot",
       "description": "German lawmakers have voted for a scheme aimed at making state-backed private pensions more attractive. Meanwhile, the center-left Social Democrats are taking stock of their latest electoral defeats. DW has the latest.",
       "url": "https://www.dw.com/en/germany-news-bundestag-votes-for-pension-scheme-reboot/live-76558121?maca=en-rss-en-all-1573-xml-mrss",
@@ -1494,7 +1504,7 @@
     },
     {
       "title": "As Maduro appears in New York court, Venezuela's state apparatus 'remains in place'",
-      "description": "François Picard is pleased to welcome Christopher Sabatini, Senior Research Fellow for Latin America, the US and the Americas program at Chatham House. According to Sabatini, the removal of a head of state through external force may appear, at first glance, as a decisive rupture. Yet what unfolds beneath the surface reveals continuity rather than transformation. The structures of power, the networks of coercion and the embedded systems of corruption do not dissolve with the extraction of a single leader.",
+      "description": "François Picard is pleased to welcome Christopher Sabatini, Senior Research Fellow for Latin America, the US and the Americas program at Chatham House. According to Sabatini, the removal of a head of state like Venezuela's Nicolas Maduro through external force may appear, at first glance, as a decisive rupture. Yet what unfolds beneath the surface reveals continuity rather than transformation. The structures of power, the networks of coercion and the embedded systems of corruption do not dissolve with the extraction of a single leader.",
       "url": "https://www.france24.com/en/as-maduro-appears-in-new-york-court-venezuela-s-state-apparatus-remains-in-place",
       "published": "Fri, 27 Mar 2026 07:48:22 GMT",
       "source": "France24",
@@ -1568,16 +1578,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-27T10:47:56.727247Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1673,16 +1673,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "description": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 17:16:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Women secretly filmed, then ridiculed and abused online",
       "description": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
       "url": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
@@ -1707,6 +1697,16 @@
       "description": "Parenting experts share their tips on how to keep children's screen time under control.",
       "url": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Mar 2026 16:19:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
+      "description": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
+      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 09:37:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1943,16 +1943,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans",
-      "description": "The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans \"the gravest crime against humanity\" and calling for reparations.",
-      "url": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
-      "published": "Thu, 26 Mar 2026 01:21:13 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "EU to target Temu, Shein and other companies with a levy on small packages coming from outside the bloc",
       "description": "The European Union has announced that it will introduce handling fees for non-EU small packages from November 1. The fee will be charged in addition to a customs tax on such items that goes into effect in July.",
       "url": "https://www.dw.com/en/eu-to-target-temu-shein-and-other-companies-with-a-levy-on-small-packages-coming-from-outside-the-bloc/a-76560132?maca=en-rss-en-all-1573-xml-mrss",
@@ -2163,7 +2153,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "New Jersey middle school teacher charged with child sex assault after alleged sexual relationship with student",
+      "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
       "description": "A former New Jersey middle school teacher faces multiple charges after allegedly engaging in a sexual relationship with a student in 2021.",
       "url": "https://www.foxnews.com/us/new-jersey-middle-school-teacher-charged-child-sex-assault-after-alleged-sexual-relationship-student",
       "published": "Thu, 26 Mar 2026 22:19:48 -0400",
