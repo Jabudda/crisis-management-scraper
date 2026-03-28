@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T14:13:55.725750Z",
+  "last_updated": "2026-03-28T14:44:43.997901Z",
   "event_count": 224,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "France foils Paris bomb plot outside US bank, opens anti-terror probe",
+      "description": "French police on Saturday stopped an apparent bomb attack outside a Bank of America branch in Paris. The French counter-terrorism prosecutor's office said it was investigating a \"terrorist criminal conspiracy\".",
+      "url": "https://www.france24.com/en/france/20260328-%F0%9F%94%B4-france-foils-paris-bomb-plot-outside-us-bank-opens-anti-terror-probe",
+      "published": "Sat, 28 Mar 2026 14:18:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -417,16 +427,6 @@
       "description": "Ukraine and the United Arab Emirates have agreed to cooperate on defence amid Iran’s drone strikes across the region, according to Ukrainian President Volodymyr Zelensky. The news comes as the war in the Middle East escalates, prompting countries in the region – particularly those facing Iranian attacks – to recognise \"what Ukraine has to offer in terms of defence technology\", FRANCE 24’s Gulliver Cragg said, noting that the newly signed agreement focuses on exporting Kyiv’s “know-how and equipment”. Cragg added that Ukrainian teams would also pilote from a distance interceptor drones flying over the Middle East.",
       "url": "https://www.france24.com/en/ukraine-uae-seal-defence-deal-kyiv-s-know-how-and-equipment-gain-recognition",
       "published": "Sat, 28 Mar 2026 11:30:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Egypt imposes business curfew to counter soaring fuel costs",
-      "description": "In tonight's edition, Egypt orders shops, restaurants and shopping malls to shut their doors from 9:00 pm Saturday as it hopes to cushion the blow of energy prices that have more than doubled because of the Iran war. Also, rising jihadist violence in the Sahel is hitting tourism in Benin. And Somali women defy Al-Shabaab threats and conservative norms to play football.",
-      "url": "https://www.france24.com/en/egypt-imposes-business-curfew-to-counter-soaring-fuel-costs",
-      "published": "Fri, 27 Mar 2026 21:43:31 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 19,
@@ -753,7 +753,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Double Olympic champion Caster Semenya shapes up for new battle with the International Olympic Committee",
+      "title": "Caster Semenya shapes up for new battle with the International Olympic Committee",
       "description": "For Caster Semenya, the new Olympics rules are not about providing clarity and protecting women's sport but caving into political pressure, and discriminatory.",
       "url": "https://news.sky.com/story/if-women-must-stop-competing-so-be-it-semenyas-rallying-cry-over-olympics-transgender-athlete-ban-13525463",
       "published": "Sat, 28 Mar 2026 12:26:00 +0000",
@@ -1213,8 +1213,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "22 die off coast of Greece after six days at sea in migrant rubber boat",
-      "description": "Greek coastguards on Friday rescued 26 people, including a woman and a minor, hoping to reach Europe. They had spent six days at sea in a rubber boat. According to survivors, 22 have lost their lives during the journey. The number of migrants who have died trying to reach EU soil more than doubled in the first two months of 2026.",
+      "title": "22 migrants die off Greek coast after six days at sea",
+      "description": "Greece's coast guard on Friday rescued 26 people hoping to reach Europe from North Africa after they had spent six days at sea in a rubber boat. According to survivors, 22 others lost their lives during the journey. The number of migrants who died trying to reach EU soil more than doubled during the first two months of 2026.",
       "url": "https://www.france24.com/en/europe/20260328-22-die-off-coast-of-greece-after-six-days-at-sea-on-migrant-rubber-boat",
       "published": "Sat, 28 Mar 2026 13:17:11 GMT",
       "source": "France24",
@@ -1686,7 +1686,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-28T14:13:35.327091Z",
+      "published": "2026-03-28T14:44:22.870886Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1813,6 +1813,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
+      "description": "Morocco believe their successful appeal against their 1-0 defeat by Senegal means the case of the AFCON crown is closed.",
+      "url": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 14:26:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "At least 22 migrants die off Greece after 6 days at sea",
       "description": "Survivors tell authorities the bodies of those who died were thrown overboard by people smugglers.",
       "url": "https://www.aljazeera.com/news/2026/3/28/at-least-22-migrants-die-off-greece-after-6-days-at-sea?traffic_source=rss",
@@ -1857,16 +1867,6 @@
       "description": "US House of Representatives passed a temporary bill to fund the Department of Homeland Security.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-house-passes-bill-funding-homeland-security-amid-shutdown?traffic_source=rss",
       "published": "Sat, 28 Mar 2026 08:32:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump claims Iran wants to ‘make a deal’",
-      "description": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the US military.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 07:34:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
