@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T06:25:48.686575Z",
-  "event_count": 224,
+  "last_updated": "2026-03-28T06:49:43.698821Z",
+  "event_count": 225,
   "events": [
     {
       "title": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
@@ -923,10 +923,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal police arrest former prime minister and former home minister over September protest deaths",
+      "title": "Nepal police arrest former prime minister and another ex-official over protest deaths",
       "description": "Police in Nepal arrested former Prime Minister Khadga Prasad Oli over the deaths of dozens of people during violent protests in September that toppled the government and resulted in new elections",
       "url": "https://abcnews.com/International/wireStory/nepal-police-arrest-former-prime-minister-former-home-131494735",
-      "published": "Fri, 27 Mar 2026 23:01:11 -0400",
+      "published": "Sat, 28 Mar 2026 02:45:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1393,16 +1393,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tiger Woods arrested on suspicion of DUI after car crash",
-      "description": "Authorities said Woods was showing signs of impairment. No injuries were reported.",
-      "url": "https://www.dw.com/en/tiger-woods-arrested-on-suspicion-of-dui-after-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 27 Mar 2026 21:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Meet Iran's hardline speaker who threatened to burn US forces — reportedly Tehran's point man for talks",
       "description": "Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.",
       "url": "https://www.foxnews.com/world/meet-irans-hardline-speaker-who-threatened-burn-us-forces-reportedly-tehrans-point-man-talks",
@@ -1504,9 +1494,9 @@
     },
     {
       "title": "Tiger Woods charged with driving under influence after crash",
-      "description": "The 15-time major champion faces charges of driving under the influence after rolling his car in Florida.",
+      "description": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
       "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 01:00:35 GMT",
+      "published": "Sat, 28 Mar 2026 06:47:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1538,6 +1528,16 @@
       "url": "https://www.aljazeera.com/sports/2026/3/27/tiger-woods-charged-with-dui-after-rollover-crash-in-florida?traffic_source=rss",
       "published": "Fri, 27 Mar 2026 22:17:04 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tiger Woods released on bail after Florida car crash",
+      "description": "The golf star was taken into custody and charged with driving under the influence after emerging unhurt from a car crash. Police suspect Woods was \"impaired on medication\" — but he refused a urine test.",
+      "url": "https://www.dw.com/en/tiger-woods-released-on-bail-after-florida-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Mar 2026 21:29:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1648,6 +1648,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-28T06:49:21.581341Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
