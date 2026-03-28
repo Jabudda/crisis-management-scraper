@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T23:10:58.886093Z",
-  "event_count": 223,
+  "last_updated": "2026-03-28T23:43:29.716315Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Double fears over Red Sea, Hormuz",
@@ -80,16 +80,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "MIDDLE EAST LIVE 24 March: West Bank attacks and Lebanon in focus as Security Council meets",
-      "description": "As the war continues to roil the Middle East and compound suffering for civilians across the region, the economic ramifications of the emergency are still playing out, with the Strait of Hormuz the focus of global attention with crude oil prices surging over $100 a barrel again. Meanwhile, settler attacks have escalated dramatically against Palestinians in the occupied West Bank, a topic that we'll be across today also, with aid updates and live reporting from the Security Council. UN News app users can follow coverage here.",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167187",
-      "published": "Tue, 24 Mar 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -543,6 +533,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Middle East war: UN initiatives support mediation, ‘lifesaving’ fertiliser shipments",
+      "description": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterres warned the Security Council that the fighting risked “igniting a chain of events that no one can control in the most volatile region of the world.”",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167213",
+      "published": "Sat, 28 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence’, deadly Djibouti shipwreck",
       "description": "Hospitals are just the latest vital public services to be hit in Cuba, more than a month since Washington took measures to block oil supplies from entering the Caribbean nation.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167203",
@@ -607,16 +607,6 @@
       "description": "French police have thwarted a suspected bomb attack outside a Bank of America building in Paris, and detained a person, authorities say.",
       "url": "https://news.sky.com/story/police-thwart-suspected-bomb-attack-outside-a-bank-of-america-building-in-paris-13522371",
       "published": "Fri, 20 Mar 2026 20:30:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "UK told to prepare for 'worst case' without US defence",
-      "description": "The UK and its NATO allies in Europe must prepare for a \"worst case scenario\" of the US not defending them in a crisis, an influential committee of peers and MPs has warned.",
-      "url": "https://news.sky.com/story/uk-and-nato-allies-need-to-prepare-to-defend-europe-without-us-mps-say-13524909",
-      "published": "Fri, 27 Mar 2026 01:40:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
@@ -816,7 +806,7 @@
       "title": "'No Kings' protests — Trump critics rally across the US",
       "description": "Protesters say US democracy is backsliding under President Donald Trump, with the White House dismissing the marches as a product of \"leftist funding networks.\"",
       "url": "https://www.dw.com/en/no-kings-protests-trump-critics-rally-across-the-us/a-76580489?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 28 Mar 2026 23:03:00 GMT",
+      "published": "Sat, 28 Mar 2026 23:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -1613,6 +1603,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Large crowds attend 'No Kings' rallies against Trump across US",
+      "description": "Tens of thousands of anti-Trump protesters have been attending \"No Kings\" rallies on Saturday across the US.",
+      "url": "https://news.sky.com/story/large-crowds-attend-no-kings-rallies-against-trump-across-us-13525674",
+      "published": "Sat, 28 Mar 2026 22:12:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Tiger Woods' mugshot released after his arrest following dramatic car crash",
       "description": "Police have released Tiger Woods' mugshot hours after he was arrested and charged with driving under the influence following a dramatic car crash in Florida.",
       "url": "https://news.sky.com/story/tiger-woods-charged-with-driving-under-the-influence-after-hitting-another-vehicle-and-rolling-his-car-13525329",
@@ -1698,6 +1698,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-28T23:43:07.927779Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
