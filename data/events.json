@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T05:16:48.989624Z",
-  "event_count": 223,
+  "last_updated": "2026-03-29T05:59:41.977430Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Double fears over Red Sea, Hormuz",
@@ -108,6 +108,16 @@
       "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
       "published": "Thu, 26 Mar 2026 10:24:21 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "North Korea tests high-thrust engine in long-range missile push",
+      "description": "The tests come days after Kim Jong Un accused the US of global \"state terrorism and aggression,\" in an apparent reference to the Iran war.",
+      "url": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 29 Mar 2026 05:20:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -340,16 +350,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
-      "description": "Israeli attack on clearly marked press car kills reporters as WHO laments deadly day for paramedics.",
-      "url": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 15:40:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -823,16 +823,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal: Former PM Oli arrested over deadly protests",
-      "description": "Ex-Home Minister Ramesh Lekhak was also taken into custody amid probe into their roles during deadly anti-corruption protests last September, which killed 76 people.",
-      "url": "https://www.dw.com/en/nepal-former-pm-oli-arrested-over-deadly-protests/a-76573671?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 28 Mar 2026 01:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Scientists dive beneath Arctic ice to study threatened ecosystems",
       "description": "Scientists trained in Finland to dive beneath Arctic ice, studying fragile polar ecosystems threatened by climate change. The course gives rare, hands-on skills to explore underwater habitats robots cannot safely survey, as instructors warn of the urgent need for more research to protect these vanishing environment",
       "url": "https://www.france24.com/en/scientists-dive-beneath-arctic-ice-to-study-threatened-ecosystems",
@@ -981,6 +971,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Sabalenka defeats Gauff to win second straight Miami Open title",
+      "description": "World number one Aryna Sabalenka edges Coco Gauff in a tense three-set final to claim the 'Sunshine Double' in Florida.",
+      "url": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 05:25:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
@@ -1708,6 +1708,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-29T05:59:21.570983Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
