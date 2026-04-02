@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:26:15.135136Z",
+  "last_updated": "2026-04-02T09:50:53.811585Z",
   "event_count": 224,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 53,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran vows 'more destructive' attacks after Trump threats",
+      "description": "Iran on Thursday threatened \"crushing\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\". The war, which erupted more than a month ago with US-Israeli strikes on Iran, has spread throughout the Middle East and roiled the global economy, impacting hundreds of millions worldwide. FRANCE 24's Reza Sayah reports from Tehran, Iran.",
+      "url": "https://www.france24.com/en/video/20260402-iran-vows-more-destructive-attacks-after-trump-threats",
+      "published": "Thu, 02 Apr 2026 09:43:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 49,
       "severity_level": "Critical"
     },
     {
@@ -63,16 +73,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
-      "description": "The ​epicentre of the ⁠earthquake was about ⁠120km (75 miles) from Ternate, in Indonesia's North Maluku ‌province.",
-      "url": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
-      "published": "Wed, 01 Apr 2026 23:54:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Who is held accountable if a war crime is committed in Iran?",
       "description": "NPR's Scott Detrow speaks with international law expert Gabor Rona about attacks on civilian infrastructure in the Iran conflict and how they may constitute war crimes.",
       "url": "https://www.npr.org/2026/04/01/nx-s1-5766235/who-is-held-accountable-if-a-war-crime-is-committed-in-iran",
@@ -123,16 +123,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "When the oil runs dry: What next for globalisation as Asia bears the brunt of the Iran war?",
-      "description": "Are we witnessing globalisation’s biggest turning point since the end of the Cold War? With Asia feeling the impact of US President Donald Trump’s war against Iran, and steadfast American allies such as the Philippines forced to declare an energy emergency, the immediate consequences are rippling through nations that manufacture much of what we buy in the West – with a boomerang effect for the rest of the world.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260401-when-the-oil-runs-dry-what-next-for-globalization-as-asia-bears-brunt-of-iran-war",
-      "published": "Wed, 01 Apr 2026 18:30:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
       "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
       "description": "Further attacks have been reported across the Middle East as the war enters a second month, with two more Indonesian peacekeepers killed in Southern Lebanon on Monday, following the death of a fellow ‘blue helmet’ a day earlier. On the diplomatic front, the UN has announced a taskforce to restore the flow of fertilizer and aid through the Strait of Hormuz, while the UN's atomic watchdog confirms an attack on a heavy water facility at Khondab in Iran. Stay with us for live updates on this and UN agencies. App users can follow coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167215",
@@ -140,6 +130,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
+      "description": "Save the Children says nearly one in two child casualties are due to landmines and explosive remnants of war.",
+      "url": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss",
+      "published": "Thu, 02 Apr 2026 09:27:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "title": "Middle East live: Iran vows 'crushing' attacks after Trump dims hopes of swift end to war",
-      "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\" in a televised address that dimmed hopes of a swift end to the war in the Middle East. Follow our liveblog for the latest updates.",
+      "description": "Iran's military on Thursday threatened \"more destructive\" attacks on the US and Israel, firing missiles at Tel Aviv after US President Donald Trump vowed to bomb the Islamic republic \"back to the Stone Ages\". Trump's remarks in a televised address Wednesday dimmed hopes of a swift end to the war in the Middle East. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves",
       "published": "Thu, 02 Apr 2026 02:32:43 GMT",
       "source": "France24",
@@ -330,6 +330,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran sets up 'tollbooth' in Strait of Hormuz for ships seeking safe passage",
+      "description": "Oil prices rose and stocks fell on Wednesday following US President Donald Trump’s speech in which he warned he would hit Iran “extremely hard” over the next two to three weeks. Meanwhile, Iran has reportedly begun collecting tolls from ships seeking safe passage through the Hormuz Strait. We’ll take a closer look at how this process is unfolding and whether it could be formalised. Also in this edition, SpaceX has filed for what could become the world’s largest ever Initial Public Offering.",
+      "url": "https://www.france24.com/en/tv-shows/business/20260402-iran-sets-up-tollbooth-in-strait-of-hormuz-for-ships-seeking-safe-passage",
+      "published": "Thu, 02 Apr 2026 09:26:31 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -663,16 +673,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Trump threatens to hit Iran hard; Tehran pledges to ‘fight back’",
-      "description": "Trump says the US is close to completing its core objectives, but Tehran says it won't tolerate 'vicious cycle of war'.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "published": "Thu, 02 Apr 2026 00:00:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico",
       "description": "Critics say exemption for fossil fuels exploits White House’s ‘self-made gas crisis’, and could doom the rare Rice’s whale Sign up for the Breaking News US email to get newsletter alerts in your inbox A US government panel on Tuesday exempted oil and gas drilling in the Gulf of Mexico from the Endangered Species Act (ESA), a move which critics say could doom a rare whale species and harm other marine life . The Endangered Species Committee – which had not convened in more than three decades – voted to approve the request for the ESA exemption at the request of the defense secretary, Pete Hegseth . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
@@ -687,16 +687,6 @@
       "description": "Tensions on the Afghanistan-Pakistan border are escalating amid claims of a Pakistani \"security zone\" and civilian casualties. Will calls for a ceasefire have an impact?",
       "url": "https://www.dw.com/en/is-pakistan-setting-up-a-buffer-zone-in-afghanistan/a-76624686?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 1 Apr 2026 12:53:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran war: Strikes on steel deal painful blow to economy",
-      "description": "The US-Israeli strikes on Iran's two biggest steel mills will likely harm Tehran's ability to wage war, but could also cripple Iran's economy in irreversible ways.",
-      "url": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 1 Apr 2026 12:34:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -798,16 +788,6 @@
       "url": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
       "published": "Mon, 30 Mar 2026 17:39:53 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Trump claims Iran wants a ceasefire, Iran says remarks are ‘false and baseless’",
-      "description": "Donald Trump has claimed that Iran has asked the United States for a ceasefire -- adding that Washington would only consider it when the Strait of Hormuz reopens. Tehran, though, has denied this -- the Foreign Ministry calling Trump's remarks \"baseless.\" It comes hours ahead of the president's primetime address to the nation. FRANCE 24's Carys Garland reports.",
-      "url": "https://www.france24.com/en/trump-claims-iran-wants-a-ceasefire-iran-says-remarks-are-false-and-baseless",
-      "published": "Wed, 01 Apr 2026 18:45:21 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1043,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Pakistan is playing intermediary in the Iran war, a role it has played before",
+      "description": "Pakistan has emerged as a key mediator in the U.S-Israel war with Iran. This role isn't new for Pakistan.",
+      "url": "https://www.npr.org/2026/04/02/nx-s1-5767066/pakistan-is-playing-mediator-in-the-iran-war-its-a-role-the-country-is-used-to",
+      "published": "Thu, 02 Apr 2026 04:41:41 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "25 years ago today, a mid-air collision sparked an 11-day U.S.–China standoff",
       "description": "On April 1, 2001, a midair collision between an American aircraft and a Chinese plane sparked an 11-day diplomatic crisis — and the two countries still tell very different stories.",
       "url": "https://www.npr.org/2026/04/01/nx-s1-5768269/25-years-ago-today-a-mid-air-collision-sparked-an-11-day-u-s-china-standoff",
@@ -1057,16 +1047,6 @@
       "description": "Israeli fringe actor in the spotlight for anti-war film",
       "url": "https://www.npr.org/2026/04/01/g-s1-115947/this-fringe-actor-finds-the-spotlight-in-israels-most-provocative-film-post-oct-7",
       "published": "Wed, 01 Apr 2026 14:18:31 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship",
-      "description": "Trump is set to address the nation after saying the U.S. will withdraw from Iran in 2-3 weeks. And, the president will be at the Supreme Court today as arguments on birthright citizenship begin.",
-      "url": "https://www.npr.org/2026/04/01/g-s1-116034/up-first-newsletter-iran-war-strait-of-hormuz-birthright-citizenship-white-house-ballroom-npr-pbs",
-      "published": "Wed, 01 Apr 2026 07:22:04 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
@@ -1683,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump’s tariffs one year on: How Americans are paying the price",
+      "description": "US households paid $1,000 more for the same goods over the past year, with lower-income families hit the hardest.",
+      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-tariffs-one-year-on-how-americans-are-paying-the-price?traffic_source=rss",
+      "published": "Thu, 02 Apr 2026 09:28:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
       "description": "Paris said its ruling was based on Tunis not responding to a request for guarantees of a trial by an independent court.",
       "url": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss",
@@ -1873,10 +1863,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "M 4.9 - 1 km ESE of Boulder Creek, CA",
+      "title": "M 4.6 - 1 km ESE of Boulder Creek, CA",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-04-02 08:41:25 UTC 2026-04-02 08:41:25 UTC at epicenter Location 37.122°N 122.107°W Depth 10.85 km (6.74 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
-      "published": "2026-04-02T09:21:31.195Z",
+      "published": "2026-04-02T09:49:58.147Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1938,6 +1928,16 @@
       "url": "https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation",
       "published": "Wed, 01 Apr 2026 11:15:11 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany: Chancellor Merz has never been more unpopular",
+      "description": "The CDU/CSU and SPD made many promises to voters. But according to polls, citizens are deeply disappointed and have little hope left that things will improve.",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Apr 2026 09:46:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2174,7 +2174,7 @@
     },
     {
       "title": "Sham Philadelphia coffee shop hiding crack operation busted in sweeping raid, 17 arrested: AG",
-      "description": "Philadelphia officials dismantled a drug ring at a sham coffee shop in 'Operation Cocaine and Coffee,' arresting 17 and seizing 27 guns and drugs.",
+      "description": "Philadelphia officials dismantled a drug ring at a sham coffee shop in Operation Cocaine and Coffee, arresting 17 and seizing 27 guns and drugs.",
       "url": "https://www.foxnews.com/us/sham-philadelphia-coffee-shop-hiding-crack-operation-busted-sweeping-raid-17-arrested-ag",
       "published": "Wed, 01 Apr 2026 21:59:05 -0400",
       "source": "Fox News US",
