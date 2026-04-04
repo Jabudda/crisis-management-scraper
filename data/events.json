@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:17:59.766926Z",
+  "last_updated": "2026-04-04T05:05:53.815882Z",
   "event_count": 223,
   "events": [
     {
@@ -240,6 +240,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "description": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 03:51:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -558,6 +568,16 @@
       "url": "https://news.sky.com/story/eight-8204muslim-majority-countries-strongly-condemn-israels-new-death-penalty-law-13527142",
       "published": "Thu, 02 Apr 2026 09:47:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Collapse of Tokyo's aging cherry blossom trees raises safety concerns",
+      "description": "In Tokyo, the birthplace of Japan’s popular Somei Yoshino cherry blossom variety, many of the trees planted during the country’s postwar advancement of the 1960s are now getting old and frail",
+      "url": "https://abcnews.com/International/wireStory/collapse-tokyos-aging-cherry-blossom-trees-viewing-season-131707291",
+      "published": "Sat, 04 Apr 2026 00:58:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1033,10 +1053,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Palestine 36: A film about a revolt that nearly changed history",
-      "description": "Director Annemarie Jacir on how Palestine 36 traces today’s crisis back to British colonial rule.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/3/aje-onl-tt_pal_jacir_av_v2-030426?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 18:03:23 +0000",
+      "title": "NASA unveils first images of Earth from Artemis II",
+      "description": "NASA has unveiled the first images of Earth taken by Artemis II astronauts as they head towards the moon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 04:53:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1147,16 +1167,6 @@
       "description": "Trump took a dig at Macron while lambasting NATO, saying the French president's wife \"treats him extremely badly.\" Macron rejected the notion that the Middle East conflict be treated as a \"show.\"",
       "url": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 2 Apr 2026 22:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Middle East war: Few solutions to fuel shortages in Africa",
-      "description": "Africa is running low on fuel. The US-Israel-Iran war has sent fuel prices skyrocketing. Are African countries doing enough to calm the fuel market?",
-      "url": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 2 Apr 2026 16:08:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1323,16 +1333,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cambodia parliament approves law to combat cybercrime scam rings",
-      "description": "Justice Minister Keut Rith says the law aimed to enhance the \"cleaning operation\" across the country.",
-      "url": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 17:40:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1368,6 +1368,16 @@
       "url": "https://www.npr.org/2026/04/03/nx-s1-5753859/iranians-are-leaving-the-country-just-to-get-internet",
       "published": "Fri, 03 Apr 2026 15:56:42 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Beauty as strategy: Why K-beauty is also a political success",
+      "description": "K-beauty is more than just a cosmetics trend. South Korea has combined popular culture, innovation and national strategy to create a business model where beauty products are an economic and political tool.",
+      "url": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 4 Apr 2026 04:57:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1926,7 +1936,7 @@
       "title": "M 4.6 - 1 km SE of Boulder Creek, CA",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-04-02 08:41:25 UTC 2026-04-02 08:41:25 UTC at epicenter Location 37.116°N 122.113°W Depth 10.43 km (6.48 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
-      "published": "2026-04-04T04:01:56.712Z",
+      "published": "2026-04-04T04:47:05.134Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2097,16 +2107,6 @@
       "description": "The Cuban government says it will release 2,010 prisoners in a move that comes while the Trump administration puts extreme pressure on the island’s government with a suffocating oil blockade",
       "url": "https://abcnews.com/International/wireStory/cuba-releasing-2010-prisoners-us-pressures-islands-government-131673694",
       "published": "Fri, 03 Apr 2026 04:25:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mexico appoints Roberto Velasco as new foreign minister at critical moment for US ties",
-      "description": "Mexico's president has appointed Roberto Velasco as the new foreign minister during a critical time for Mexico-U.S. relations",
-      "url": "https://abcnews.com/International/wireStory/mexico-appoints-roberto-velasco-new-foreign-minister-critical-131634248",
-      "published": "Thu, 02 Apr 2026 02:32:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
