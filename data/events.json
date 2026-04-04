@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T11:41:40.665950Z",
+  "last_updated": "2026-04-04T12:15:14.504580Z",
   "event_count": 223,
   "events": [
     {
@@ -263,16 +263,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Evacuation of U.S. troops from Mideast base sends community groups scrambling to help",
-      "description": "Troops and their families have been pushed back to the United States after their bases in the Middle East were threatened by Iranian counterattacks. Community groups are scrambling to react.",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops",
-      "published": "Fri, 03 Apr 2026 05:00:00 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Iran's ceasefire push may be a 'cycle of deception,' analysts warn as shadowy figure gains power",
       "description": "Iran's shadowy Ahmad Vahidi, a former Quds Force commander linked to deadly bombings abroad, is now more dominant than Iran's president or Khamenei's son, experts warn.",
       "url": "https://www.foxnews.com/world/irans-ceasefire-push-may-cycle-deception-analysts-warn-shadowy-figure-gains-power",
@@ -420,6 +410,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian drone strike on Ukrainian market kills five, Moscow intensifies attacks",
+      "description": "A Russian drone hit a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and injuring 30 others, according to Ukrainian officials. The Ukrainian air force said Russia fired 286 drones overnight, of which 260 were intercepted.",
+      "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+      "published": "Sat, 04 Apr 2026 10:43:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -576,7 +576,7 @@
       "title": "Collapse of Tokyo's aging cherry blossom trees raises safety concerns",
       "description": "In Tokyo, the birthplace of Japan’s popular Somei Yoshino cherry blossom variety, many of the trees planted during the country’s postwar advancement of the 1960s are now getting old and frail",
       "url": "https://abcnews.com/International/wireStory/collapse-tokyos-aging-cherry-blossom-trees-viewing-season-131707291",
-      "published": "Sat, 04 Apr 2026 00:58:48 -0400",
+      "published": "Sat, 04 Apr 2026 05:54:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -658,16 +658,6 @@
       "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
       "published": "Thu, 02 Apr 2026 16:37:12 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian strike on Ukraine market kills five, wounds 19",
-      "description": "A Russian drone hit a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and wounding 19, officials said, as Moscow pressed on with intensified daytime attacks.",
-      "url": "https://www.france24.com/en/live-news/20260404-russian-strike-on-ukraine-market-kills-five-wounds-19",
-      "published": "Sat, 04 Apr 2026 10:43:11 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -903,16 +893,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Hide, hydrate and evade: Former pilots detail how to survive being shot down",
-      "description": "As both US and Iranian forces race to locate an aviator reportedly shot down Friday, a former Air Force pilot and rescuer eplains what it takes to hide, survive and extract someone behind enemy lines.",
-      "url": "https://www.france24.com/en/middle-east/20260403-hide-find-water-former-pilots-detail-how-to-survive-after-being-shot-down",
-      "published": "Fri, 03 Apr 2026 22:55:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Clear market uncertainty despite latest Trump attempt to soothe concerns",
       "description": "The latest attempt by Donald Trump to ease uncertainty over the US and Israel's war on Iran has only heightened investor concerns.",
       "url": "https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080",
@@ -1113,6 +1093,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'London Falling': A teenage imposter, an aging gangster and a body in the Thames",
+      "description": "In 2019, 19-year-old Zac Brettler leapt towards the River Thames from a fifth-floor luxury apartment in central London. Patrick Radden Keefe investigates the story of the teen's double life in a new book.",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5766048/london-falling-review-patrick-radden-keefe",
+      "published": "Sat, 04 Apr 2026 08:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "A U.S. jet goes down over Iran, a U.S. official confirms",
       "description": "A U.S. official said that one crew member had been rescued and U.S. forces continue to search for the second crew member.",
       "url": "https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran",
@@ -1128,6 +1118,16 @@
       "url": "https://www.npr.org/2026/04/03/g-s1-116325/up-first-newsletter-pam-bondi-doj-iran-strait-of-hormuz-nasa",
       "published": "Fri, 03 Apr 2026 07:25:42 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Peru: Stadium crush leaves one dead, dozens injured",
+      "description": "The incident occurred as a large crowd of soccer fans gathered for a \"flag-waving event\" at Alejandro Villanueva Stadium in Lima.",
+      "url": "https://www.dw.com/en/peru-stadium-crush-leaves-one-dead-dozens-injured/a-76660551?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 4 Apr 2026 11:44:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1193,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Macron dismisses Trump's 'inelegant' dig about his marriage",
-      "description": "Trump took a dig at Macron while lambasting NATO, saying the French president's wife \"treats him extremely badly.\" Macron rejected the notion that the Middle East conflict be treated as a \"show.\"",
-      "url": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 2 Apr 2026 22:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Benin's main opposition face crisis before presidential elections",
       "description": "Presidential elections to be held on April 12th in Benin.",
       "url": "https://www.france24.com/en/benin-s-main-opposition-face-crisis-before-presidential-elections",
@@ -1237,6 +1227,16 @@
       "description": "The French government is backing a draft law based on the idea that \"hatred\" of Israel is inseparable from hatred of the Jewish people. Critics of the “Yadan law” warn the new legislation will not just muzzle legitimate criticism of Israel but could further fuel anti-Semitism in France.",
       "url": "https://www.france24.com/en/france/20260404-is-opposing-israel-anti-semitism-france-s-latest-attempt-to-fight-hate-risks-inflaming-it",
       "published": "Sat, 04 Apr 2026 07:07:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hide, find water: Former pilots detail how to survive being shot down",
+      "description": "As US and Iranian forces race to locate a crew member of a US F-15E fighter jet downed in Iran, a former Air Force pilot and rescuer eplains what it takes to hide, survive and extract someone behind enemy lines.",
+      "url": "https://www.france24.com/en/middle-east/20260403-hide-find-water-former-pilots-detail-how-to-survive-after-being-shot-down",
+      "published": "Fri, 03 Apr 2026 22:55:12 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -2143,6 +2143,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
+      "description": "Providence artist Ian Gaudreau says left-wing backlash to Elon Musk's involvement shut down his mural honoring slain refugee Iryna Zarutska.",
+      "url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
+      "published": "Sat, 04 Apr 2026 08:00:59 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Artemis II astronauts nearly halfway to the moon; NASA shares stunning photos from Orion spacecraft",
       "description": "The four Artemis II astronauts are nearly halfway to the moon since launching Wednesday, while taking some stunning images. NASA says the mission is going well.",
       "url": "https://www.foxnews.com/us/artemis-ii-astronauts-nearly-halfway-moon-nasa-shares-stunning-photos-orion-spacecraft",
@@ -2207,16 +2217,6 @@
       "description": "Pima County Sheriff Chris Nanos faces perjury allegations over his early career history as his department investigates Nancy Guthrie's disappearance.",
       "url": "https://www.foxnews.com/us/nancy-guthrie-sheriff-dragged-hot-seat-stalled-case-stirs-past-scandals",
       "published": "Fri, 03 Apr 2026 06:00:55 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back",
-      "description": "The Artemis II crew launched from Kennedy Space Center aboard Orion, embarking on NASA's first crewed moon mission since the Apollo era of the 1970s.",
-      "url": "https://www.foxnews.com/us/artemis-ii-crew-describes-life-aboard-orion-spacecraft-historic-journey-moon-back",
-      "published": "Fri, 03 Apr 2026 01:41:43 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
