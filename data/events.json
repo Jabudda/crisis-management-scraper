@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T21:43:42.445664Z",
+  "last_updated": "2026-04-04T22:09:20.936746Z",
   "event_count": 223,
   "events": [
     {
@@ -30,16 +30,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 44,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-      "description": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
-      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 16:19:25 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -380,6 +370,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+      "description": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Apr 2026 21:56:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -1183,16 +1183,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "A U.S. jet goes down over Iran, a U.S. official confirms",
-      "description": "A U.S. official said that one crew member had been rescued and U.S. forces continue to search for the second crew member.",
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5773108/american-jet-shot-down-iran",
-      "published": "Fri, 03 Apr 2026 10:46:48 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "German men need military permit for extended stays abroad",
       "description": "The new military service law requires all men under 45 to seek approval from the Bundeswehr to leave the country for longer than three months. It also obliges the military career center to issue it.",
       "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677?maca=en-rss-en-all-1573-xml-mrss",
@@ -1328,6 +1318,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167222",
       "published": "Mon, 30 Mar 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
+      "description": "More than a dozen people hospitalized after a vehicle struck parade participants in New Iberia, Louisiana. The driver is in custody.",
+      "url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
+      "published": "Sat, 04 Apr 2026 17:53:57 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1633,16 +1633,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "NY prosecutor sidesteps sanctuary law and coordinates ICE arrest of Guatemalan child rape suspect",
-      "description": "A New York prosecutor used a legal loophole to coordinate an ICE arrest of a suspected child rapist, bypassing the state's sanctuary and no-bail policies.",
-      "url": "https://www.foxnews.com/us/ny-prosecutor-sidesteps-sanctuary-law-coordinates-ice-arrest-guatemalan-child-rape-suspect",
-      "published": "Fri, 03 Apr 2026 11:18:35 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1693,21 +1683,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Haaland grabs hat-trick as Man City thrash Liverpool to reach FA Cup semis",
-      "description": "Erling Haaland treble and goal by Antoine Semenyo give City 4-0 win, as Liverpool's Mohamed Salah misses a penalty.",
-      "url": "https://www.aljazeera.com/sports/2026/4/4/haaland-grabs-hat-trick-as-man-city-thrash-liverpool-to-reach-fa-cup-semis?traffic_source=rss",
-      "published": "Sat, 04 Apr 2026 13:57:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Local culture shapes the Zairean liturgy",
+      "description": "Easter in the Democratic Republic of the Congo—where congregants celebrate with the Zairean Rite, the only Vatican-approved liturgy shaped by local culture, alive with song, dance, and striking ritual.",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
+      "published": "Sat, 04 Apr 2026 17:45:47 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1803,6 +1793,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Lewandowski claims late La Liga win for Barcelona at Atletico",
+      "description": "Barcelona move seven points clear of Real Madrid at the top of Spanish football's La Liga after beating Atletico 2-1.",
+      "url": "https://www.aljazeera.com/sports/2026/4/4/lewandowski-claims-late-la-liga-win-for-barcelona-at-atletico?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 21:28:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Iran’s coastline: architecture of control",
       "description": "We take you on a walkthrough of Iran’s coastline and strategic islands marking its architecture of control.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss",
@@ -1824,7 +1824,7 @@
     },
     {
       "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "description": "Follow our live updates, including team news coverage, before our text commentary stream of Spanish top flight match.",
+      "description": "All our updates, including post-match reaction, following our text commentary stream of Spanish top flight match.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-atletico-madrid-vs-barcelona-la-liga?traffic_source=rss",
       "published": "Sat, 04 Apr 2026 16:09:13 +0000",
       "source": "Al Jazeera",
@@ -2003,6 +2003,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
+      "description": "When a 9,000 year-old grave of a shaman was discovered in Nazi Germany, the discovery was quickly politicized to support Nazi propaganda. But new analysis shows that initial narrative was all wrong.",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
+      "published": "Sat, 04 Apr 2026 17:45:43 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "The significance of the space mission that's making history",
       "description": "Former NASA chief of staff Bale Dalton talks about the work that went into the Artemis mission plan and what to watch for on the journey.",
       "url": "https://www.npr.org/2026/04/04/nx-s1-5771727/the-significance-of-the-space-mission-thats-making-history",
@@ -2017,16 +2027,6 @@
       "description": "Even as religious belief declines in Spain, the processions at Seville's Semana Santa — the Holy Week lead-up to Easter — draw crowds moved by music, tradition and powerful emotion.",
       "url": "https://www.npr.org/2026/04/03/nx-s1-5771511/seville-spain-semana-santa-easter-holy-week",
       "published": "Fri, 03 Apr 2026 12:52:45 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China's Communist Party investigates ex-Xinjiang leader Ma Xingrui",
-      "description": "Ma Xingrui is a member of the party's Central Committee and served as party secretary of the Xinjiang region in China's northwest from 2021-2025.",
-      "url": "https://www.npr.org/2026/04/03/g-s1-116327/chinas-communist-party-investigates-ex-xinjiang-leader-ma-xingrui",
-      "published": "Fri, 03 Apr 2026 08:41:40 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
