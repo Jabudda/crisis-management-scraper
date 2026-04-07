@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T11:23:28.261900Z",
+  "last_updated": "2026-04-07T11:48:50.064640Z",
   "event_count": 221,
   "events": [
     {
@@ -58,6 +58,16 @@
       "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
       "published": "Mon, 30 Mar 2026 15:34:49 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "One assailant killed, two wounded after shooting outside Istanbul's Israeli consulate",
+      "description": "An assailant was killed and two others were wounded in a shooting on Tuesday outside the Israeli consulate in Istanbul, although no diplomats were present at the time. Two police officers also sustained minor injuries, according to initial reports. The interior ministry said the dead gunman was affiliated with \"a terror group\".",
+      "url": "https://www.france24.com/en/middle-east/20260407-one-assailant-killed-two-wounded-after-shooting-outside-istanbul-s-israeli-consulate",
+      "published": "Tue, 07 Apr 2026 10:29:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -134,7 +144,7 @@
     },
     {
       "title": "Manlio Graziano: 'Europe still needs the US but they know they cannot trust Americans anymore'",
-      "description": "François Picard is pleased to welcome Manlio Graziano, Professor of Geopolitics at the American Graduate School of International Relations and Diplomacy. He argues that we are embarking on a new world order: the US remains a superpower, yet no longer functions as \"leader of the free world\". For a half century, the US has faced the limits of its global dominance, a realisation rooted in strategic failures ranging from Vietnam to Iraq and Afghanistan. Today, this erosion of hegemony manifests as strategic incoherence: Europe can no longer fully rely on, nor entirely detach from, the US.",
+      "description": "François Picard is pleased to welcome Manlio Graziano, Author, Professor of Geopolitics at the American Graduate School of International Relations & Diplomacy. He argues that we are embarking on a new world order: the US remains a superpower, yet no longer functions as \"leader of the free world\". For a half century, the US has faced the limits of its global dominance, a realisation rooted in strategic failures ranging from Vietnam to Iraq and Afghanistan. Today, this erosion of hegemony manifests as strategic incoherence: Europe can no longer fully rely on, nor entirely detach from, the US.",
       "url": "https://www.france24.com/en/video/20260407-manlio-graziano-europe-still-needs-americans-but-they-know-they-cannot-trust-americans-anymore",
       "published": "Tue, 07 Apr 2026 10:59:49 GMT",
       "source": "France24",
@@ -233,16 +243,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "One assailant killed, two wounded after shooting outside Istanbul's Israeli consulate",
-      "description": "An assailant was killed and two others were wounded in a shooting Tuesday outside the Israeli consulate in Istanbul, which was empty of diplomats at the time. Two police officers also sustained minor injuries, according to an initial official report.",
-      "url": "https://www.france24.com/en/middle-east/20260407-one-assailant-killed-two-wounded-after-shooting-outside-istanbul-s-israeli-consulate",
-      "published": "Tue, 07 Apr 2026 10:29:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
       "description": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
       "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
@@ -317,16 +317,6 @@
       "description": "'We’re now seeing very concerning strikes on nuclear facilities in Iran that risk further radioactive contamination.'",
       "url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
       "published": "Tue, 07 Apr 2026 09:13:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war: What is happening on day 39 of US-Israeli attacks?",
-      "description": "Trump has issued a strict deadline, but a defiant Iran says the threats by the US president are 'delusional'.",
-      "url": "https://www.aljazeera.com/news/2026/4/7/iran-war-what-is-happening-on-day-39-of-us-israeli-attacks?traffic_source=rss",
-      "published": "Tue, 07 Apr 2026 07:52:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
@@ -503,6 +493,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Why have US-South Africa relations soured?",
+      "description": "US President Donald Trump wants to sideline South Africa on the world stage. What is his issue with the country and when did things start going south?",
+      "url": "https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 7 Apr 2026 11:25:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Ukraine: 3 killed in Odesa, Kyiv targets Russian oil exports",
       "description": "Russian drone strikes on the southern Ukrainian city of Odesa left at least three people dead overnight, including a 2-year-old girl. Meanwhile, Ukraine has continued retaliatory strikes against Russian oil facilities.",
       "url": "https://www.dw.com/en/ukraine-3-killed-in-odesa-kyiv-targets-russian-oil-exports/a-76679304?maca=en-rss-en-all-1573-xml-mrss",
@@ -543,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US-Israeli attacks on Iran are ‘clear and obvious war crimes’",
+      "description": "‘We’re in the time of monsters right now where we are headed towards the law of the jungle’.",
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israeli-attacks-on-iran-are-clear-and-obvious-war?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 11:26:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "How US, Israel are waging a war on Iranian culture, education",
       "description": "Iranian officials have told Al Jazeera the US and Israel's attacks seek to wipe out Iranian identity.",
       "url": "https://www.aljazeera.com/news/2026/4/7/how-us-israel-are-waging-a-war-on-iranian-culture-education?traffic_source=rss",
@@ -557,16 +567,6 @@
       "description": "Trump believes God backs US in Iran war, Hegseth compares airman's rescue to Jesus' resurrection",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-and-hegseth-invoke-god-and-religion-in-iran-war-press-conference?traffic_source=rss",
       "published": "Tue, 07 Apr 2026 09:03:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "How Pakistan’s solar boom is shielding it from worst of Iran war crisis",
-      "description": "A quarter of Pakistani households are now using solar panels. This insulates millions of families from the energy crisis",
-      "url": "https://www.aljazeera.com/features/2026/4/7/how-pakistans-solar-boom-is-shielding-it-from-worst-of-iran-war-crisis?traffic_source=rss",
-      "published": "Tue, 07 Apr 2026 07:52:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -863,16 +863,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Art heist targeting million-dollar masterpieces exposes blind spots in museum defenses, expert warns",
-      "description": "Former FBI agent Geoff Kelly says museum art thefts are more common than people think, warning that open, welcoming spaces also create security vulnerabilities.",
-      "url": "https://www.foxnews.com/us/art-heist-targeting-million-dollar-masterpieces-exposes-blind-spots-in-museum-defenses-expert-warns",
-      "published": "Sun, 05 Apr 2026 08:00:23 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "IDF confirms IRGC intel chief killed; Quds Force commander also eliminated in strike",
       "description": "Israel announces IRGC intelligence chief Majid Khademi was killed in a precision strike that also took out Quds Force special operations commander Bagheri.",
       "url": "https://www.foxnews.com/world/idf-confirms-irgc-intel-chief-killed-quds-force-commander-also-eliminated-strike",
@@ -1103,16 +1093,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "One dead as high-speed train collides with lorry in France",
-      "description": "More than a dozen people are injured, two of whom critically, in the incident in the Calais region.",
-      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 10:18:36 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Nine policemen sentenced to death in India over Covid custody killings",
       "description": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
       "url": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
@@ -1143,20 +1123,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis",
-      "description": "Residents in Gaza describe daily torment as water shortages worsen, leaving families desperate for clean drinking water.",
-      "url": "https://www.aljazeera.com/news/2026/4/7/dying-of-thirst-inside-gazas-al-mawasi-water-crisis?traffic_source=rss",
-      "published": "Tue, 07 Apr 2026 10:53:36 +0000",
+      "title": "Can Africa tackle the oil shock from the Iran war?",
+      "description": "African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 11:13:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "What is driving the Houthis’ decision-making on joining the Iran war",
-      "description": "There are two currents within the Houthis: one favouring caution, and another favouring commitment to allies.",
-      "url": "https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss",
-      "published": "Tue, 07 Apr 2026 08:07:05 +0000",
+      "title": "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis",
+      "description": "Residents in Gaza describe daily torment as water shortages worsen, leaving families desperate for clean drinking water.",
+      "url": "https://www.aljazeera.com/news/2026/4/7/dying-of-thirst-inside-gazas-al-mawasi-water-crisis?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 10:53:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1193,7 +1173,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Beer cans, helium balloons and mortgages: An unexpected mix of things affected by the war",
+      "title": "Beer cans, helium balloons and mortgages: An unexpected mix of things affected by war",
       "description": "It's not just oil and gas that are affected by the Iran war. All sorts of shortages and price spikes are starting to pop up that stand to affect people's daily lives.",
       "url": "https://www.npr.org/2026/04/07/nx-s1-5773196/helium-aluminum-mortgages-cost-iran-war",
       "published": "Tue, 07 Apr 2026 06:00:00 -0400",
@@ -1217,16 +1197,6 @@
       "description": "Along Libya's coast, sharks — including breeding females — are being sold unchecked. With little enforcement and growing financial pressure on fishermen, vulnerable species are spiraling toward extinction.",
       "url": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 6 Apr 2026 07:05:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russians living in exile cope with grief far from home",
-      "description": "Since the start of the war against Ukraine, many Russians living in exile have been unable to return home for security reasons. Three of them told DW how they cope with the loss of loved ones far from their families.",
-      "url": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 6 Apr 2026 05:45:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1403,6 +1373,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "In Ghana Town, a ‘stateless’ future for hundreds born and raised in Gambia",
+      "description": "In a small Gambian village founded decades ago by Ghanaian fishermen, their descendants languish without ID documents.",
+      "url": "https://www.aljazeera.com/features/2026/4/7/in-ghana-town-a-stateless-future-for-hundreds-born-and-raised-in-gambia?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 11:08:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1564,7 +1544,7 @@
     },
     {
       "title": "Vietnam elects Communist Party leader To Lam as president",
-      "description": "The election of To Lam as the state president marks a shift in Vietnam's power structure where party leadership and state presidency were held by different people.",
+      "description": "A China-style mandate for To Lam marks a shift in Vietnam's power structure where party leadership and state presidency were previously held by different people.",
       "url": "https://www.dw.com/en/vietnam-elects-communist-party-leader-to-lam-as-president/a-76682860?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 7 Apr 2026 05:45:00 GMT",
       "source": "Deutsche Welle",
@@ -1673,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "ICE arrests illegal immigrant accused of kidnapping 4-year-old girl from laundromat",
+      "description": "An illegal alien allegedly kidnapped a 4-year-old from a New York laundromat and was released by a judge before ICE took him into custody, a report says.",
+      "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrant-accused-kidnapping-4-year-old-girl-laundromat",
+      "published": "Tue, 07 Apr 2026 07:19:51 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1697,6 +1687,16 @@
       "description": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
       "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 07 Apr 2026 10:35:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "One dead as train travelling 99mph collides with lorry in France",
+      "description": "The lorry driver is in custody after the train driver died during the collision in north-western France.",
+      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 11:36:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
