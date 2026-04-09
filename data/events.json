@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T21:47:40.432708Z",
+  "last_updated": "2026-04-09T22:17:18.161248Z",
   "event_count": 219,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Development finance gap risks reversing decades of progress",
+      "description": "Global fragmentation, deepening geopolitical tensions and conflicts are putting decades of development progress at risk, the UN warned in a report published on Thursday - calling for stepping up investment to meet internationally agreed goals.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167277",
+      "published": "Thu, 09 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -773,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Kosovo mission head warns ‘mistrust’ threatens post-election stability",
+      "description": "Despite successful legislative elections in Kosovo late last year, a “delicate equilibrium” persists as deep divisions remain over the future of the United Nations presence in the region.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167278",
+      "published": "Thu, 09 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Hundreds feared dead in Lebanon strikes",
       "description": "The United Nations has strongly condemned airstrikes by the Israeli military across Lebanon on Wednesday which have resulted in significant casualties and destruction.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167268",
@@ -823,31 +843,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: Albanese touches down for Singapore talks; search for missing fisher suspended in NSW",
-      "description": "Prime minister touches down and says two countries ‘strategically aligned’. Follow updates live Get our breaking news email , free app or daily news podcast Greens say coalmine extension risks flouting climate laws A state Greens MP saying the approval risks breaching climate laws, AAP adds. It is therefore highly likely that if tested, this coal approval would be declared unlawful. I have no doubt that environmental defenders will be considering heading to the courts right now, to uphold the climate and environmental laws of the state. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/10/anthony-albanese-singapore-visit-fuel-crisis-petrol-prices-labor-coalition-political-reactions-us-israel-war-iran-lebanon-ntwnfb",
-      "published": "Thu, 09 Apr 2026 21:29:03 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "4 dead, 38 rescued during attempted channel crossing from France to UK",
       "description": "French authorities say at least four people died while trying to board an inflatable boat for a dangerous sea crossing from northern France to the U.K. The prefect of the Pas-de-Calais region said Thursday that 38 others were rescued, including one in ...",
       "url": "https://abcnews.com/International/wireStory/4-dead-38-rescued-attempted-channel-crossing-france-131871187",
       "published": "Thu, 09 Apr 2026 07:52:20 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "‘We watched them die before our eyes’: Sudan health workers helpless amid medical shortages",
-      "description": "As violence forces tens of thousands to flee Sudan’s South Kordofan state, doctors in a key maternity hospital are facing impossible choices – with too few supplies, too many patients, and lives slipping away.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167230",
-      "published": "Fri, 03 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1187,16 +1187,6 @@
       "description": "Thirty-two years ago, a genocidal campaign was unleashed against Rwanda’s Tutsi minority, resulting in more than one million deaths. On Tuesday, the UN is holding commemorations to ensure that the genocide is never forgotten and never repeated.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167256",
       "published": "Tue, 07 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Deminers race to keep up with military technology",
-      "description": "In conflict zones where new technologies are making landmines more dangerous, deminers must innovate at the same pace to avoid being left behind, a leading UN mines expert has told UN News.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167247",
-      "published": "Fri, 03 Apr 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 8,
@@ -1893,6 +1883,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Australia news live: Marles says current flow of ships through strait of Hormuz ‘not what we want’; Queensland MP Jimmy Sullivan found dead",
+      "description": "Follow updates live Get our breaking news email , free app or daily news podcast A Queensland member of parliament has died. The member for Stafford, Jimmy Sullivan , had served as a Labor representative for the electorate since 2020. He was expelled from the Labor party last May and sat on the cross-bench. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/10/anthony-albanese-singapore-visit-fuel-crisis-petrol-prices-labor-coalition-political-reactions-us-israel-war-iran-lebanon-ntwnfb",
+      "published": "Thu, 09 Apr 2026 21:57:00 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump meets with NATO chief about the future of the partnership",
       "description": "President Trump met with NATO Secretary General Mark Rutte Wednesday to discuss the future partnership after Trump disparaged the alliance.",
       "url": "https://www.npr.org/2026/04/09/nx-s1-5777600/trump-meets-with-nato-chief-about-the-future-of-the-partnership",
@@ -2053,20 +2053,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "British pastor charged with manslaughter after man drowns at baptism",
-      "description": "A British pastor faces manslaughter charges in the drowning of a 61-year-old man during a backyard baptism",
-      "url": "https://abcnews.com/International/wireStory/british-pastor-charged-manslaughter-after-man-drowns-baptism-131847568",
-      "published": "Wed, 08 Apr 2026 13:27:06 -0400",
+      "title": "Peruvians choosing a president from 35-candidate pool in Sunday's election",
+      "description": "Peru's next president will be chosen from a pool of 35 candidates that includes a former minister, a comedian and a political dynasty heiress",
+      "url": "https://abcnews.com/International/wireStory/peruvians-choosing-president-35-candidate-pool-sundays-election-131868230",
+      "published": "Thu, 09 Apr 2026 04:52:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Peruvians choosing a president from 35-candidate pool in Sunday's election",
-      "description": "Peru's next president will be chosen from a pool of 35 candidates that includes a former minister, a comedian and a political dynasty heiress",
-      "url": "https://abcnews.com/International/wireStory/peruvians-choosing-president-35-candidate-pool-sundays-election-131868230",
-      "published": "Thu, 09 Apr 2026 04:52:20 -0400",
+      "title": "British pastor charged with manslaughter after man drowns at baptism",
+      "description": "A British pastor faces manslaughter charges in the drowning of a 61-year-old man during a backyard baptism",
+      "url": "https://abcnews.com/International/wireStory/british-pastor-charged-manslaughter-after-man-drowns-baptism-131847568",
+      "published": "Wed, 08 Apr 2026 13:27:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2088,6 +2088,16 @@
       "url": "https://abcnews.com/International/wireStory/activists-ring-alarm-bells-halt-polands-air-pollution-131850368",
       "published": "Wed, 08 Apr 2026 15:20:36 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Gilgo Beach serial killer joins infamous group of monsters as he opens ghoulish mind to FBI",
+      "description": "Gilgo Beach killer Rex Heuermann will be evaluated by the FBI's Behavioral Analysis Unit after admitting to the murders of eight women.",
+      "url": "https://www.foxnews.com/us/gilgo-beach-serial-killer-joins-infamous-group-monsters-opens-ghoulish-mind-fbi",
+      "published": "Thu, 09 Apr 2026 17:59:12 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2157,16 +2167,6 @@
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/husband-taken-custody-connection-disappearance-american-woman-more-top-headlines",
       "published": "Thu, 09 Apr 2026 07:20:16 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Wisconsin couple allegedly starved six children for years, forcing them to eat mold, bugs and dog food",
-      "description": "Casey and Mary Cano face child abuse charges after allegedly starving their six children and beating them with belts at their Wisconsin home for years.",
-      "url": "https://www.foxnews.com/us/wisconsin-couple-allegedly-starved-six-children-years-forcing-eat-mold-bugs-dog-food",
-      "published": "Wed, 08 Apr 2026 22:09:14 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
