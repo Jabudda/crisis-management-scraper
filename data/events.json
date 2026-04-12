@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T10:46:47.536228Z",
+  "last_updated": "2026-04-12T11:15:20.620046Z",
   "event_count": 220,
   "events": [
     {
@@ -233,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Coast Guard seizes over 4,500 pounds of cocaine worth $34M from suspected narco-terrorist vessel on Easter",
-      "description": "DHS says the Coast Guard recovered more than 4,500 pounds of cocaine off the coast of Ecuador as part of Operation Pacific Viper counter-drug efforts.",
-      "url": "https://www.foxnews.com/us/coast-guard-seizes-4500-pounds-cocaine-worth-34m-suspected-narco-terrorist-vessel-easter",
-      "published": "Thu, 09 Apr 2026 22:31:38 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "US allowing some Nigeria embassy staff to evacuate over 'deteriorating security situation'",
       "description": "State Department authorized departure of some U.S. embassy staff in Nigeria over a \"deteriorating security situation\" linked to terrorism and violence.",
       "url": "https://www.foxnews.com/world/us-allowing-nigeria-embassy-staff-evacuate-deteriorating-security-situation",
@@ -278,6 +268,16 @@
       "url": "https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
       "published": "Fri, 10 Apr 2026 10:00:16 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Lebanon protests talks with Israel",
+      "description": "Negotiations between Israel and Lebanon are set to begin Tuesday in Washington, with Israel urging Lebanon’s government to take responsibility for disarming Hezbollah — a move widely seen as nearly impossible and one that could risk pushing the country into civil war, which some analysts say would amount to a strategic victory for Israel. Emily Boyle reports.",
+      "url": "https://www.france24.com/en/lebanon-protests-talks-with-israel",
+      "published": "Sun, 12 Apr 2026 10:08:35 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -393,20 +393,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Leo XIV to make history with first-ever papal visit to Algeria",
-      "description": "No pope has ever set foot in Algeria. That changes on Monday, when Pope Leo XIV opens an African tour with a two-day visit to the Muslim-majority country. The Vatican frames it as a milestone for interfaith dialogue. Algiers, increasingly isolated on the world stage, has its own reasons to welcome the publicity.",
-      "url": "https://www.france24.com/en/africa/20260412-leo-xiv-to-make-history-with-first-ever-papal-visit-to-algeria",
-      "published": "Sun, 12 Apr 2026 08:29:48 GMT",
+      "title": "US and Iran fail to reach a deal after peace talks in Islamabad",
+      "description": "The United States and Iran ended peace talks on Sunday without reaching a deal to end the war, leaving a fragile two-week ceasefire in doubt as both sides blamed each other for the breakdown and signaled little progress on core disputes.",
+      "url": "https://www.france24.com/en/middle-east/20260412-us-and-iran-fail-to-reach-a-deal-after-peace-talks-in-islamabad",
+      "published": "Sun, 12 Apr 2026 10:57:35 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "'The Last Cedar of Lebanon': A play exploring war’s lasting scars",
-      "description": "Aïda Asgharzadeh was widely praised for her powerful exploration of dissidence and exile in Persian Dolls, weaving her own family’s story into a drama spanning Iran and France. Her deft use of history as a backdrop to intimate, personal narratives is once again in focus with her latest play, The Last Cedar of Lebanon, which examines how individuals respond to the pressures of war and violence – and how geopolitical upheaval can echo across generations. Speaking to FRANCE 24, she explains how creating an emotional landscape lies at the heart of her work, and why, as an Iranian, she struggles to see a hopeful outcome amid the current turmoil of war.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260411-the-last-cedar-of-lebanon-a-play-exploring-war-s-lasting-scars",
-      "published": "Sat, 11 Apr 2026 17:01:51 GMT",
+      "title": "Leo XIV to make history with first-ever papal visit to Algeria",
+      "description": "No pope has ever set foot in Algeria. That changes on Monday, when Pope Leo XIV opens an African tour with a two-day visit to the Muslim-majority country. The Vatican frames it as a milestone for interfaith dialogue. Algiers, increasingly isolated on the world stage, has its own reasons to welcome the publicity.",
+      "url": "https://www.france24.com/en/africa/20260412-leo-xiv-to-make-history-with-first-ever-papal-visit-to-algeria",
+      "published": "Sun, 12 Apr 2026 08:29:48 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
@@ -933,6 +933,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Polls open in Hungary crunch vote",
+      "description": "Hungarians began voting on Sunday in closely watched parliamentary elections that could end nationalist Prime Minister Viktor Orban's 16-year stint in power as a self-described \"thorn\" in the EU's side. France 24 correspondent Clovis Casali reports the latest from Budapest.",
+      "url": "https://www.france24.com/en/polls-open-in-hungary-crunch-vote",
+      "published": "Sun, 12 Apr 2026 10:11:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Peru votes for new president Sunday",
       "description": "Peruvians head to the polls on Sunday in a crowded and unpredictable presidential election, with crime-weary voters set to choose their ninth leader in a decade, in a context of deep frustration over corruption and rising violence. Producer, writer and journalist for Radio Programas del Perú, Martin Riepel, shares further insights on this vote.",
       "url": "https://www.france24.com/en/peru-votes-for-new-president-sunday",
@@ -977,16 +987,6 @@
       "description": "Peruvians head to the polls on Sunday in a crowded and unpredictable presidential election, with crime-weary voters set to choose their ninth leader in a decade, in a context of deep frustration over corruption and rising violence.",
       "url": "https://www.france24.com/en/americas/20260412-peruvians-go-to-the-polls-amid-political-chaos-and-instability",
       "published": "Sun, 12 Apr 2026 02:49:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran: a mediator on the mediations",
-      "description": "Gavin Lee speaks with Oliver McTernan, Director of Forward Thinking, about the current situation in Iran, the Straight of Hormuz and Pakistan.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260411-iran-a-mediator-on-the-mediations",
-      "published": "Sat, 11 Apr 2026 18:02:08 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1088,6 +1088,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167256",
       "published": "Tue, 07 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Boatyard employee found 'exhausted' missing American's husband when he washed ashore after night adrift",
+      "description": "The employee described Brian Hooker as exhausted when he landed on a rocky beach in Marsh Harbour, Bahamas, seeking help after he said his wife fell overboard from the couple's dinghy.",
+      "url": "https://www.foxnews.com/us/boatyard-employee-found-exhausted-missing-americans-husband-when-he-washed-ashore-after-night-adrift",
+      "published": "Sun, 12 Apr 2026 07:00:52 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1433,16 +1443,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Artemis II: Space race heats up with China",
-      "description": "It has been more than 50 years since humans last ventured this close to the Moon. Now, the Artemis II mission is refocusing attention on the space race between the United States and China. Camille Knight explains the two superpowers’ competing lunar ambitions.",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260411-artemis-ii-space-race-heats-up-with-china",
-      "published": "Sat, 11 Apr 2026 17:23:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1633,7 +1633,17 @@
       "severity_level": "Low"
     },
     {
-      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "title": "Union Berlin’s Marie-Louise Eta becomes first woman manager of men’s team",
+      "description": "Berlin's Eta becomes first female head coach of a top-tier European club after her appointment by the Bundesliga side.",
+      "url": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 10:14:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Legendary Indian Bollywood singer Asha Bhosle dies aged 92",
       "description": "Bhosle recorded more than 12,000 songs in multiple Indian languages over a seven-decade career.",
       "url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 09:40:55 +0000",
@@ -1707,16 +1717,6 @@
       "description": "Standing by a map, Israeli Prime Minister Benjamin Netanyahu describes how six countries wanted to strangle us’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
       "published": "Sun, 12 Apr 2026 02:09:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "description": "Israel has approved 34 new settlements in the occupied West Bank, Palestinians are terrified they will lose their land.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 12 Apr 2026 00:44:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
