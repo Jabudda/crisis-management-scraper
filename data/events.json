@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T18:32:10.914358Z",
+  "last_updated": "2026-04-14T19:33:17.848791Z",
   "event_count": 221,
   "events": [
     {
@@ -110,6 +110,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
+      "description": "UN says hundreds killed by drone strikes over past three months, as medical charity reports two more deaths in Darfur.",
+      "url": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 18:27:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -253,16 +263,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Illegal immigrant accused of Easter kidnapping, sex assault in college town; DHS rips second attack in weeks",
-      "description": "Federal authorities warn Missouri not to release an illegal immigrant accused of raping and kidnapping a woman in Kirksville on Easter Sunday.",
-      "url": "https://www.foxnews.com/us/illegal-immigrant-accused-easter-kidnapping-sex-assault-college-town-dhs-rips-second-attack-weeks",
-      "published": "Mon, 13 Apr 2026 14:56:43 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "IDF uncovers Hezbollah weapons stash inside hospital in Lebanon",
       "description": "Israel Defense Forces uncovered a weapons stash used by Hezbollah terrorists inside a hospital in Lebanon this weekend.",
       "url": "https://www.foxnews.com/world/idf-uncovers-hezbollah-weapons-stash-inside-hospital-lebanon",
@@ -301,16 +301,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "‘We are a stable, predictable country’: Spanish PM Sanchez in Beijing",
-      "description": "Spain's Pedro Sánchez and China's Xi Jinping stressed respect for international law and a shared “sense of justice”.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/we-are-a-stable-predictable-country-spanish-pm-sanchez-in-beijing?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 14:39:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
@@ -423,6 +413,16 @@
       "severity_level": "High"
     },
     {
+      "title": "About 250 missing after boat carrying Rohingya refugees capsizes in Andaman Sea",
+      "description": "Trawler set off from Bangladesh and reportedly capsized due to heavy winds, rough seas and overcrowding About 250 people are missing after a boat carrying Rohingya refugees and Bangladeshi nationals capsized in the Andaman Sea, according to the UN’s refugee and migration agencies. The agencies said the trawler carrying more than 250 men, women and children reportedly sank due to harsh weather and overcrowding. It had departed from Teknaf in southern Bangladesh and was bound for Malaysia. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
+      "published": "Tue, 14 Apr 2026 18:31:32 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran war: US blockade of Hormuz tests China's restraint",
       "description": "China, the largest buyer of Iranian oil, is weighing the fallout of the US naval blockade of Iran's ports and ships in the Strait of Hormuz. Could Beijing be drawn into the conflict?",
       "url": "https://www.dw.com/en/iran-war-us-blockade-of-hormuz-tests-china-s-restraint/a-76777251?maca=en-rss-en-all-1573-xml-mrss",
@@ -500,6 +500,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli strike on Gaza police car kills child",
+      "description": "An Israeli airstrike on a police vehicle in Gaza City killed at least four people, including a three-year-old child.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 19:16:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -703,6 +713,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "IMF cuts global growth forecast during Hormuz blockade",
+      "description": "Higher global inflation forecast at 4.4 percent, up 0.6 points, driven by surging oil, gas and fertiliser costs.",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 19:14:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -718,6 +738,16 @@
       "url": "https://www.theguardian.com/world/2026/apr/13/brazil-former-spy-chief-arrested-us-ice-alexandre-ramagem",
       "published": "Mon, 13 Apr 2026 18:50:56 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lebanon: Debate over fake 'plot' to overthrow government",
+      "description": "Locals are questioning stories about whether Israel saved Lebanon from a coup to overthrow its government when it bombed Beirut. The debate underscores how divided the country is, as Israel-Lebanon talks begin.",
+      "url": "https://www.dw.com/en/lebanon-debate-over-fake-plot-to-overthrow-government/a-76782219?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 14 Apr 2026 18:54:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -793,20 +823,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
-      "description": "UN Secretary-General Antonio Guterres says it’s “highly probably” talks to end the US-Israel war on Iran will resume.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 18:16:23 +0000",
+      "title": "Fed nominee Warsh’s financial disclosures point to assets well over $100m",
+      "description": "Warsh's financial disclosures will almost certainly be a focus of his upcoming confirmation hearing next week.",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/fed-nominee-warshs-financial-disclosures-point-to-assets-well-over-100m?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 19:00:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Sudan’s war still misunderstood after three years",
-      "description": "April 15, 2026, marks three years since the war in Sudan broke out.",
-      "url": "https://www.aljazeera.com/video/africa-now/2026/4/14/sudans-war-still-misunderstood-after-three-years?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 13:30:32 +0000",
+      "title": "Aid groups bidding to boost relief shipments into Iran",
+      "description": "Supply of humanitarian aid for people displaced by the conflict has been complicated by air and sea route closures.",
+      "url": "https://www.aljazeera.com/news/2026/4/14/aid-groups-bidding-to-boost-relief-shipments-into-iran?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 18:52:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
+      "description": "UN Secretary-General Antonio Guterres says it’s “highly probably” talks to end the US-Israel war on Iran will resume.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 18:16:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -818,16 +858,6 @@
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Albanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a success",
-      "description": "Having received assurances from Singapore over refined fuels, diesel supply will surely be next on the prime minister’s agenda Get our breaking news email , free app or daily news podcast Anthony Albanese isn’t coming back from Singapore with a shipload of diesel in his checked baggage. That doesn’t mean his whistle-stop visit wasn’t a success, or that it won’t be seen in future as a pivotal moment if fuel stocks continue to be choked by the ongoing conflict in the Middle East. The government never expected that the quick whip to Singapore, with just one full day on the ground, would elicit a new supply of petrol or diesel. Singapore already supplies 55% of Australia’s unleaded , 22% of jet fuel and 15% of diesel. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/11/albanese-singapore-australia-fuel-supply-petrol-prices-diesel-analysis",
-      "published": "Sat, 11 Apr 2026 08:05:04 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -943,6 +973,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Illegal immigrant driver charged with DUI after car veers off road, kills two children on bikes: police",
+      "description": "Two children were killed when an illegal immigrant accused of extreme intoxication allegedly veered off a South Carolina road, officials said.",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-driver-charged-dui-car-veers-road-kills-two-children-bikes-police",
+      "published": "Tue, 14 Apr 2026 15:08:03 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Omaha police shoot and kill woman after alleged Walmart kidnapping attempt",
       "description": "Omaha police say officers shot and killed a woman who cut a 3-year-old boy with a knife in a Nebraska Walmart parking lot.",
       "url": "https://www.foxnews.com/us/omaha-police-shoot-kill-woman-alleged-walmart-kidnapping-attempt",
@@ -1007,16 +1047,6 @@
       "description": "D.C.'s Navy Yard saw another teen takeover this weekend, prompting a juvenile curfew zone and increased police presence to address ongoing disruptions.",
       "url": "https://www.foxnews.com/us/watch-rowdy-teenagers-swarm-dc-navy-yard-waterfront-takeover-despite-police-juvenile-curfew-zone",
       "published": "Mon, 13 Apr 2026 17:20:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Missing American woman’s husband Brian Hooker released after arrest in Bahamas disappearance",
-      "description": "Bahamian authorities have released Brian Hooker as the search for missing Michigan boater Lynette Hooker shifts to recovery.",
-      "url": "https://www.foxnews.com/us/bahamas-authorities-race-deadline-charge-cut-loose-husband-missing-american-woman",
-      "published": "Mon, 13 Apr 2026 15:25:35 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1153,10 +1183,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain’s Guardemo still critical in ICU 2 weeks after cycling crash with car",
-      "description": "Jaume Guardeno sustained serious injuries after collision with a car at the end of a Volta a Catalunya cycling race.",
-      "url": "https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 13:48:59 +0000",
+      "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
+      "description": "Polls show Israeli public frustration over a showdown that did not fully defeat Iran.",
+      "url": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 18:39:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1168,6 +1198,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/apr/14/labor-aged-care-algorithm-tool-ombudsman-investigation",
       "published": "Tue, 14 Apr 2026 15:00:43 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lufthansa pilots to strike again for 2 more days, leading to a full working week of disruption",
+      "description": "Pilots at Germany's Lufthansa airline will strike again on Thursday and Friday, the Vereinigung Cockpit trade union said.",
+      "url": "https://www.dw.com/en/lufthansa-pilots-to-strike-again-for-2-more-days-leading-to-a-full-working-week-of-disruption/a-76783319?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 14 Apr 2026 19:06:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1313,16 +1353,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
-      "description": "The US reportedly wants Iran to stop enriching for 20 years. Iran has agreed to five years. Here's why that matters.",
-      "url": "https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 14:52:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1413,10 +1443,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell",
-      "description": "He denies claims of sexual assault but admits \" mistakes\" and says he will resign.",
+      "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+      "description": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
       "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Apr 2026 15:20:37 GMT",
+      "published": "Tue, 14 Apr 2026 19:02:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1513,6 +1543,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "The process of justice must be observed in ICC Prosecutor Karim Khan’s case",
+      "description": "The Judicial Panel’s conclusion on Mr Khan’s case should not be discarded because some parties find it inconvenient.",
+      "url": "https://www.aljazeera.com/opinions/2026/4/14/the-process-of-justice-must-be-observed-in-icc-prosecutor-karim-khans-case?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 19:00:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+      "description": "Israel's ambassador to the US said Lebanon revealed a mutual desire to be liberated from Hezbollah.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 18:56:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Carney vows focus on affordability after winning Canada’s special election",
       "description": "The Liberals now hold 174 seats in the 343-seat House of Commons of Canada after winning three key by-elections.",
       "url": "https://www.aljazeera.com/news/2026/4/14/carney-vows-focus-on-affordability-after-winning-canadas-special-election?traffic_source=rss",
@@ -1557,46 +1607,6 @@
       "description": "Follow the build-up and live text commentary of the game as Barcelona look to come back from 2-0 first leg defeat.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/4/14/live-atletico-madrid-vs-barcelona-champions-league-quarterfinal?traffic_source=rss",
       "published": "Tue, 14 Apr 2026 16:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Italy’s PM: Defence agreement with Israel suspended",
-      "description": "Italian PM Giorgia Meloni said that Italy had suspended an automatic renewal of a defence cooperation deal with Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/italys-pm-defence-agreement-with-israel-suspended?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 15:46:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Historic but not enough? Colombia’s Gustavo Petro defends cocaine seizures",
-      "description": "Colombia's president has intercepted historic volumes of illicit cocaine. But will it be enough to lessen US pressure?",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/14/historic-but-not-enough-colombias-gustavo-petro-defends-cocaine-seizures?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 15:25:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Is it time we rethink taxes?",
-      "description": "Is it time to rethink taxes?",
-      "url": "https://www.aljazeera.com/video/doha-debates/2026/4/14/is-it-time-we-rethink-taxes?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 14:29:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
-      "description": "Pakistani officials and a number of analysts say it can do both. But the balancing act won't be easy.",
-      "url": "https://www.aljazeera.com/news/2026/4/14/can-pakistan-juggle-us-iran-mediation-with-saudi-defence-commitments?traffic_source=rss",
-      "published": "Tue, 14 Apr 2026 13:19:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1746,7 +1756,7 @@
       "title": "M 5.7 - 20 km ESE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - VII DYFI? - VII Time 2026-04-14 01:29:12 UTC 2026-04-14 01:29:12 UTC at epicenter Location 39.335°N 119.008°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068",
-      "published": "2026-04-14T18:18:56.064Z",
+      "published": "2026-04-14T19:29:42.616Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1867,26 +1877,6 @@
       "description": "The case is based on a complaint by an anti-corruption group with far-right ties, and is the latest in a string of corruption allegations which have plagued Sanchez' inner circle.",
       "url": "https://www.dw.com/en/spanish-pm-sanchez-wife-charged-with-corruption/a-76770986?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 14 Apr 2026 07:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada: Carney secures majority after special election",
-      "description": "The Liberal Party's two by-election wins secured a majority in Canada's parliament, allowing them to pass legislation without opposition support.",
-      "url": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Apr 2026 06:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China: Evergrande property developer founder pleads guilty",
-      "description": "China's property developer giant has become its also its most indebted and defaulted on most of its liabilities and payments in 2021. Founder Hui Ka Yan \"pleaded guilty and expressed remorse,\" the court said.",
-      "url": "https://www.dw.com/en/china-evergrande-property-developer-founder-pleads-guilty/a-76770242?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Apr 2026 06:16:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2118,6 +2108,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167284",
       "published": "Fri, 10 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Texas teacher charged after alleged student assault 'hoax' causes lockdown",
+      "description": "Texas teacher Nicole Truelove faces felony charges after allegedly staging a hoax stabbing that triggered a lockdown at Splendora High School, police say.",
+      "url": "https://www.foxnews.com/us/texas-teacher-charged-alleged-student-assault-hoax-causes-lockdown",
+      "published": "Tue, 14 Apr 2026 14:28:03 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
