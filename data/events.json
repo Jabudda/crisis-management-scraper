@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T12:27:48.985842Z",
+  "last_updated": "2026-04-15T12:53:55.578340Z",
   "event_count": 221,
   "events": [
     {
@@ -70,16 +70,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Four killed and several injured after school shooting in Turkey",
-      "description": "It comes a day after 16 people were injured after an ex-student opened fire at another high school, also in the south of the country.",
-      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 12:15:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -163,16 +153,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Ambassadors meet for historic talks in US amid deeply fraught Lebanon-Israel tensions",
-      "description": "Eve Irvine is pleased to welcome Simon Mabon, Professor of International Politics and Director of the Richardson Institute for Peace Studies at Lancaster University. He sees the current conflict between Lebanon and Israel as one defined more by layered, overlapping sovereignties. The talks between Israeli and Lebanese officials are, on the surface, historically significant. Yet they risk being misunderstood if treated as conventional diplomacy. The central issue is that Israel is not confronting the Lebanese state, but rather Hezbollah, a hybrid political and militant group.",
-      "url": "https://www.france24.com/en/video/20260415-ambassadors-meet-for-historic-talks-in-us-amid-deeply-fraught-lebanon-israel-tensions-1",
-      "published": "Wed, 15 Apr 2026 06:08:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Sixteen injured and attacker dead after school shooting",
       "description": "Sixteen people have been injured after a former student opened fire with a shotgun at a school in Turkey.",
       "url": "https://news.sky.com/story/sixteen-injured-and-attacker-dead-after-school-shooting-in-siverek-turkey-13531606",
@@ -233,6 +213,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Turkey: School shooting leaves 4 dead",
+      "description": "The deadly shooting comes just a day after a similar incident in the country in which 16 people were injured.",
+      "url": "https://www.dw.com/en/turkey-school-shooting-leaves-4-dead/a-76791529?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Apr 2026 12:43:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Xi hails China-Russia ties, signals bigger role in Iran war",
       "description": "Xi calls partnership with Russia \"precious,\" as world leaders turn to China amid the Middle East crisis.",
       "url": "https://www.dw.com/en/xi-hails-china-russia-ties-signals-bigger-role-in-iran-war/a-76787130?maca=en-rss-en-all-1573-xml-mrss",
@@ -270,6 +260,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Four killed in second Turkish school shooting in two days",
+      "description": "There has been no official confirmation of who has been killed or what has happened to the attacker.",
+      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 12:29:54 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "'At every single step there is death and danger': The struggle to get food in Sudan",
+      "description": "On the third anniversary of the start of the war in Sudan, which has killed tens of thousands of people, an aid worker from one of the main NGOs still there has spoken to FRANCE 24 about the starvation of the people. She also spoke about the incredible way the Sudanese come together to try to help each other.",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260415-at-every-single-step-there-is-death-and-danger-the-struggle-to-get-food-in-sudan",
+      "published": "Wed, 15 Apr 2026 12:31:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -353,11 +363,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Four killed in Turkiye’s second school shooting in two days",
+      "description": "Three students and a teacher have been killed in the province of ​Kahramanmaras, according to the local governor.",
+      "url": "https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 12:19:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "As fuel prices continue to rise, Iran war drives Europe toward new crisis",
       "description": "As fuel protests bring Ireland to a standstill and UK leaders decry price hikes driven by the Iran war, Europe -- barely recovered from the energy shock of the Ukraine war -- faces another crisis.",
       "url": "https://www.npr.org/2026/04/15/nx-s1-5784802/as-fuel-prices-continue-to-rise-iran-war-drives-europe-toward-new-crisis",
       "published": "Wed, 15 Apr 2026 04:43:54 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: Iran military threatens Red Sea, Gulf trade",
+      "description": "The Iranian military said it will seek to disrupt trade in the Red Sea and the Persian Gulf if a US naval blockade continues. Meanwhile, Israel and Hezbollah in Lebanon are trading fresh attacks. DW has the latest.",
+      "url": "https://www.dw.com/en/iran-war-iran-military-threatens-red-sea-gulf-trade/live-76783967?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Apr 2026 12:32:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -387,6 +417,16 @@
       "description": "Pyongyang making ‘very serious’ progress on producing weapons, with rapid rise in activity at main nuclear complex North Korea has made “very serious” progress in its ability to produce more nuclear weapons, the head of the UN’s nuclear watchdog has said, in another sign that the regime is seeking to use its nuclear arsenal to ensure its survival . North Korea is thought to have assembled about 50 nuclear warheads, although some experts are sceptical of its claims that it is able to miniaturise them so they can be attached to long-range ballistic missiles. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/apr/15/north-korea-nuclear-weapons-capability-un-watchdog-rafael-grossi",
       "published": "Wed, 15 Apr 2026 07:51:09 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Labor to boost defence spending by $53bn over next decade – but plan still short of Donald Trump’s demands",
+      "description": "The new strategy to be unveiled by Richard Marles will see defence spending rise to about 2.4% of GDP – but US president has urged allies to spend 3.5% Get our breaking news email , free app or daily news podcast Labor will spend an extra $53bn on defence over the next decade, using the nation’s latest military blueprint to create new special investment programs to fund increases in capability using private capital. The defence minister, Richard Marles, will unveil the new national defence strategy on Thursday, as well as detailing a new integrated investment program for military capability, boosting the current budget by $14bn over the next four years, forward estimates period. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/15/labor-boost-defence-spending-donald-trump-demands",
+      "published": "Wed, 15 Apr 2026 12:30:28 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
@@ -488,6 +528,16 @@
       "url": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
       "published": "Tue, 14 Apr 2026 18:31:32 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "India's aviation boom hits turbulence amid Iran war",
+      "description": "From longer routes to higher fares, the Middle East conflict is exposing vulnerabilities in India's fast-growing airline sector.",
+      "url": "https://www.dw.com/en/india-s-aviation-boom-hits-turbulence-amid-iran-war/a-76790258?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Apr 2026 12:52:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -603,16 +653,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Sudan slams Berlin donor conference as ‘unacceptable’ as devastating war enters fourth year",
-      "description": "Sudan’s government on Wednesday slammed a donor conference hosted by Germany as “surprising and unacceptable”, saying the event meddles in the country’s internal affairs and was organised without consulting Khartoum. The conference is being held as the brutal war between the army and the paramilitary Rapid Support Forces (RSF) enters its fourth year.",
-      "url": "https://www.france24.com/en/africa/20260415-sudan-slams-berlin-donors-conference-as-unacceptable-as-devastating-war-enters-fourth-year",
-      "published": "Wed, 15 Apr 2026 07:03:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "They scour the Mexican cartel lands for the missing — and for closure",
       "description": "The Guerreros Buscadores and dozens of other groups in Mexico scour the country for people who are missing",
       "url": "https://abcnews.com/International/wireStory/scour-mexican-cartel-lands-missing-closure-132050918",
@@ -673,6 +713,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Pope Leo heads to Cameroon with message of peace as separatists announce 3-day truce",
+      "description": "Pope Leo XIV will touch down in Cameroon Wednesday for the next stop on his 11-day apostolic journey across Africa. Separatist groups in the English-speaking west declared a three-day ceasefire to allow the pontiff to travel to the conflict-ridden region.",
+      "url": "https://www.france24.com/en/africa/20260415-pope-leo-heads-to-cameroon-with-message-of-peace-as-separatists-announce-3-day-truce",
+      "published": "Wed, 15 Apr 2026 12:34:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass",
       "description": "Israel’s policy of ambiguity about its nuclear capability contrasts sharply with the focus on Iran’s programme.",
       "url": "https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass?traffic_source=rss",
@@ -698,16 +748,6 @@
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Turkey: School shooting leaves 4 dead",
-      "description": "The deadly shooting comes a day after a similar incident in Turkey.",
-      "url": "https://www.dw.com/en/turkey-school-shooting-leaves-4-dead/a-76791529?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 15 Apr 2026 12:02:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -817,16 +857,6 @@
       "description": "Javokhir Sindarov wins the Candidates Tournament with ⁠a round ⁠to spare and will face India's Gukesh next.",
       "url": "https://www.aljazeera.com/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh?traffic_source=rss",
       "published": "Wed, 15 Apr 2026 07:04:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "England beat Spain 1-0 to lead Women’s World Cup 2027 qualifying group",
-      "description": "Hemp scores to give the Euro champions a crucial win as Keira Walsh leads in the absence of recovering Leah Williamson.",
-      "url": "https://www.aljazeera.com/sports/2026/4/15/england-beat-spain-1-0-to-lead-womens-world-cup-2027-qualifying-group?traffic_source=rss",
-      "published": "Wed, 15 Apr 2026 06:21:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -997,16 +1027,6 @@
       "description": "A Dalit officer says discrimination now operates through subtle workplace practices. Meanwhile, Trump calls up Modi over the Middle East conflict. DW has more.",
       "url": "https://www.dw.com/en/india-news-a-dalit-officer-highlights-caste-barriers-in-judiciary/live-76784663?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 15 Apr 2026 06:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war: US will make Iran 'thrive' if it ditches nukes",
-      "description": "US President Donald Trump wants a \"grand bargain\" with Tehran, where the US can make Iran \"thrive and prosper,\" according to Vice President JD Vance. DW has more.",
-      "url": "https://www.dw.com/en/iran-war-us-will-make-iran-thrive-if-it-ditches-nukes/live-76783967?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 15 Apr 2026 03:11:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1473,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Griezmann hopes to bid Atletico farewell in spectacular fashion",
-      "description": "Antoine Griezmann hopes to bid his beloved Atletico Madrid farewell in spectacular fashion after helping his team reach the first Champions League semi-finals in almost a decade. The record-breaking scorer is leaving the Spanish club at the end of this season to join Orlando City.",
-      "url": "https://www.france24.com/en/sport/20260415-griezmann-hopes-to-bid-atletico-farewell-in-spectacular-fashion",
-      "published": "Wed, 15 Apr 2026 06:18:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
       "description": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
       "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
@@ -1763,16 +1773,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Gina Rinehart’s son says he wants to be a ‘united family’ in olive branch to mother after court ruling",
-      "description": "John Hancock welcomes findings on ownership of mines and companies although judge says dispute should be determined in private arbitration Get our breaking news email , free app or daily news podcast Gina Rinehart’s son has said he wants to reunite his family after a landmark court case left a long-running feud over ownership of mines and companies unresolved. The Western Australian supreme court on Wednesday found Rinehart’s children were at one point set to inherit 49% of her company and said their ownership claims should be determined in separate proceedings. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/apr/15/gina-rinehart-son-olive-branch-after-court-ruling-ntwnfb",
-      "published": "Wed, 15 Apr 2026 07:32:56 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "M 5.7 - 20 km ESE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - VII DYFI? - VII Time 2026-04-14 01:29:12 UTC 2026-04-14 01:29:12 UTC at epicenter Location 39.335°N 119.008°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068",
@@ -1913,11 +1913,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Spain: Sanchez government finalizes amnesty plan for undocumented migrants",
-      "description": "Prime Minister Pedro Sanchez's government hailed the plan as \"an act of justice and a necessity.\" It will allow unauthorized migrants to apply for temporary residence permits instead, and to start paying taxes.",
-      "url": "https://www.dw.com/en/spain-sanchez-government-finalizes-amnesty-plan-for-undocumented-migrants/a-76782610?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Apr 2026 19:59:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
+      "description": "François Picard is pleased to welcome Zsuzsanna Szelényi, foreign policy specialist, former politician, author and founding director of the CEU Democracy Institute Leadership Academy. For more than three decades, she observed, first-hand, Hungary’s political transformation from within. There was no sudden descent into autocracy, she witnessed a gradual and deliberate restructuring of political power. While the election result signals a historic turning point, she argues that the underlying power structure, systemic corruption, and networks of influence remain deeply entrenched.",
+      "url": "https://www.france24.com/en/eu-urges-swift-reform-in-hungary-as-election-night-euphoria-gives-way-to-monday-morning-hangover",
+      "published": "Wed, 15 Apr 2026 11:39:58 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
