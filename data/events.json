@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T21:48:53.529760Z",
+  "last_updated": "2026-04-16T22:17:47.665395Z",
   "event_count": 217,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 39,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "MIDDLE EAST LIVE 14 April: UN chief says US-Iran ceasefire must continue, urges respect for international law",
-      "description": "Respect for international law is being “trampled” the UN chief warned on Tuesday, urging further negotiations between the US and Iran over ending the war and extending the fragile ceasefire as needed. Saying “there is no military solution,” he called for international navigation rights to be restored in the Strait of Hormuz. Meanwhile, a regional humanitarian crisis continues. Stay with us for live updates. App users can follow coverage here.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167294",
-      "published": "Tue, 14 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -60,6 +50,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump administration to lobby allies to support 'trade over aid' push",
+      "description": "The Trump administration is pushing countries worldwide to back a \"trade over aid\" declaration at the UN, part of a broader effort to overhaul how Washington spends billions of dollars in foreign assistance. Speaking with FRANCE 24's Yinka Oyetade, Eric Pelofsky, Vice President of Global Economic Recovery at The Rockefeller Foundation, explains that the new policy runs counter to US national interests, traditions and values.",
+      "url": "https://www.france24.com/en/trump-administration-to-lobby-allies-to-support-trade-over-aid-push",
+      "published": "Thu, 16 Apr 2026 21:59:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -583,16 +583,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
-      "description": "Angela Diffley is pleased to welcome Bilal Y. Saab, Senior Managing Director of TRENDS US.Former Pentagon Official in the first Trump administration. According to Saab, Lebanon is at a crossroads: the government is committed to reform, is fundamentally “pro-Lebanese” and rejects interference from external actors. The central challenge remains Hezbollah, an entrenched, hybrid actor operating across political, military, and economic domains. Rather than advocating for abrupt or violent confrontation, he emphasises a peaceful gradualist strategy, paired with nation-building efforts and sustained international support.",
-      "url": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures-1",
-      "published": "Thu, 16 Apr 2026 13:45:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Altman attack suspect referenced Luigi Mangione as copycat fears grow",
       "description": "Daniel Moreno-Gama allegedly referenced Luigi Mangione before he reportedly firebombed OpenAI CEO Sam Altman's San Francisco home, fueling copycat fears.",
       "url": "https://www.foxnews.com/us/altman-attack-suspect-referenced-luigi-mangione-copycat-fears-grow",
@@ -653,6 +643,16 @@
       "severity_level": "High"
     },
     {
+      "title": "New food alert platform helps humanitarians combat hunger",
+      "description": "The UN World Food Programme (WFP) released its next-generation platform on Thursday known as HungerMap Live, a digital monitoring and intelligence site that integrates food security data with predictive modelling to help fight hunger in more than 50 countries.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167317",
+      "published": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Athena Strand's mother reveals final words with slain child as jury weighs death penalty for FedEx driver",
       "description": "Athena Strand's mother took the stand at the trial of former FedEx driver Tanner Horner, who pleaded guilty to the capital murder of the 7-year-old.",
       "url": "https://www.foxnews.com/us/athena-strand-mother-reveals-final-words-slain-child-jury-weighs-death-penalty-fedex-driver",
@@ -673,11 +673,11 @@
       "severity_level": "High"
     },
     {
-      "title": "World Cup 2026: Football fans outraged by United States transit prices",
-      "description": "FIFA received backlash from high-profile US politicians, who feel the governing body should subsidise domestic transit.",
-      "url": "https://www.aljazeera.com/sports/2026/4/16/world-cup-2026-football-fans-outraged-by-united-states-transit-prices?traffic_source=rss",
-      "published": "Thu, 16 Apr 2026 19:19:00 +0000",
-      "source": "Al Jazeera",
+      "title": "Six months after ceasefire with Israel, people in Gaza say recovery hasn't even begun",
+      "description": "Six months into a ceasefire that promised an end to the war and a surge of aid for Gaza, people say recovery hasn't even yet begun.",
+      "url": "https://www.npr.org/2026/04/16/nx-s1-5786615/six-months-after-ceasefire-with-israel-people-in-gaza-say-recovery-hasnt-even-begun",
+      "published": "Thu, 16 Apr 2026 18:01:09 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1104,7 +1104,7 @@
     },
     {
       "title": "Germany news: Teacher group urges action over pupil violence",
-      "description": "A German teachers' group says decisive action is needed to counter a surge in violence in classrooms and corridors. Meanwhile, the Greens say a blanket speed limit on major highways would halp save fuel. DW has more,",
+      "description": "A German teachers' group says decisive action is needed to counter a surge in violence in classrooms and corridors. Meanwhile, the Greens say a blanket speed limit on major highways would help save fuel.",
       "url": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 16 Apr 2026 08:37:00 GMT",
       "source": "Deutsche Welle",
@@ -1253,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "News live: PM visits Geelong refinery after fire; Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz;",
+      "description": "Follow updates live Get our breaking news email , free app or daily news podcast The prime minister, Anthony Albanese , is speaking in Corio, Victoria. He returned early from his overseas trip after a fire at an oil refinery in the town near Geelong. I’ll bring you more details from the press conference in a moment. We’ve not received a specific request in relation to the strait of Hormuz, but we’ll work with all partners, our allies, and that very much includes the US in terms of whatever needs to be done in relation to the strait of Hormuz. We’ve been working with the US. We’ve been working with countries like the UK, with France. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
+      "published": "Thu, 16 Apr 2026 22:06:20 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
       "description": "The ECJ has ruled that online gamblers can seek compensation if they lost money when gambling was illegal in their home country, even if the laws have since changed. This could pave the way for others to reclaim losses.",
       "url": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-all-1573-xml-mrss",
@@ -1343,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "News live: Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz; PM to visit Geelong refinery after fire",
-      "description": "Follow updates live Get our breaking news email , free app or daily news podcast Marles says relationship with US ‘really matters’, dodges questions about Trump The deputy prime minister, Richard Marles , says Australia’s relationship with the US “deeply matters”, while avoiding weighing in on Donald Trump’s latest comments. When he criticises Australia, when he posts AI generated images himself looking like Jesus. When he picks fights with the Pope, do you believe that that undermines the trust that Australians have in the relationship? Look, I’m not going to give a running commentary on the president’s social media posts. Our relationship with the US deeply matters. Well, I’m not happy with Australia because they were not there when we asked them to be there. They were not there having to do with Hormuz. So I’m not happy, I’m not happy with them. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
-      "published": "Thu, 16 Apr 2026 21:38:20 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
       "description": "Washington's decision to let Iranian and Russian oil waivers expire threatens to tighten India's crude oil supply, as New Delhi had relied on temporary relief to sustain imports.",
       "url": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-xml-mrss",
@@ -1428,6 +1428,16 @@
       "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 16 Apr 2026 17:24:46 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US State Department restricts visas for those who ‘support adversaries’",
+      "description": "Trump administration says it has taken action against 26 people 'across our hemisphere' who allegedly undermined US.",
+      "url": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
+      "published": "Thu, 16 Apr 2026 21:54:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1903,16 +1913,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Hungarian Americans say Orbán's defeat could provide roadmap for countering Trump",
-      "description": "Hungarian Americans say Viktor Orbán's defeat in Hungary provides a blueprint for countering President Trump's attempts to tilt the electoral playing field ahead of the midterms.",
-      "url": "https://www.npr.org/2026/04/16/nx-s1-5784063/hungarian-americans-say-orbans-defeat-could-provide-roadmap-for-countering-trump",
-      "published": "Thu, 16 Apr 2026 04:44:37 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Anatomy of the clitoris: 3D images reveal its nerve system",
       "description": "New 3D images reveal the clitoris’s complex nerve network, highlighting long‑standing gaps in medical understanding of the female body.",
       "url": "https://www.dw.com/en/anatomy-of-the-clitoris-3d-images-reveal-its-nerve-system/a-76795277?maca=en-rss-en-all-1573-xml-mrss",
@@ -2023,16 +2023,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "El Salvador's Bukele signs reforms allowing life prison sentences for people as young as 12",
-      "description": "Salvadoran President Nayib Bukele has signed into law constitutional reforms to permit life prison sentences for people as young as 12",
-      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-signs-reforms-allowing-life-prison-132086698",
-      "published": "Thu, 16 Apr 2026 07:43:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Archbishop of Canterbury expresses solidarity with Pope Leo XIV in calling for peace",
       "description": "The Archbishop of Canterbury on Thursday expressed solidarity with Pope Leo XIV in calling for peace in the Middle East",
       "url": "https://abcnews.com/International/wireStory/archbishop-canterbury-expresses-solidarity-pope-leo-xiv-calling-132100022",
@@ -2043,10 +2033,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "A dispatch from inside the Vatican bubble during exchange between pope and president",
-      "description": "Pope Leo XIV's trip to Africa has been marked by an unusual dynamic with U.S. President Donald Trump",
-      "url": "https://abcnews.com/International/wireStory/dispatch-inside-vatican-bubble-remarkable-exchange-pope-president-132088816",
-      "published": "Thu, 16 Apr 2026 02:12:43 -0400",
+      "title": "El Salvador's Bukele signs reforms allowing life prison sentences for people as young as 12",
+      "description": "Salvadoran President Nayib Bukele has signed into law constitutional reforms to permit life prison sentences for people as young as 12",
+      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-signs-reforms-allowing-life-prison-132086698",
+      "published": "Thu, 16 Apr 2026 07:43:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pope doubles down on message of peace and unity as Trump's criticism continues",
+      "description": "Pope Leo XIV is again emphasizing the need for peace and dialogue despite criticism from U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/pope-doubles-message-peace-unity-trumps-criticism-continues-132061504",
+      "published": "Wed, 15 Apr 2026 10:47:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,7 +2093,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "FBI has received DNA data from Nancy Guthrie case: sources",
+      "title": "FBI receives DNA data from hair sample in Nancy Guthrie case: sources",
       "description": "Sources say the FBI is conducting advanced DNA analysis on evidence from the abduction of Savannah Guthrie's mother from her Tucson, Arizona, home.",
       "url": "https://www.foxnews.com/us/fbi-received-dna-data-nancy-guthrie-case-sources",
       "published": "Thu, 16 Apr 2026 16:24:42 -0400",
