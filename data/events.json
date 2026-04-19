@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T16:14:54.853930Z",
+  "last_updated": "2026-04-19T16:47:32.928984Z",
   "event_count": 219,
   "events": [
     {
@@ -120,16 +120,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "UPS plane aborts landing in near miss at same airport where November crash killed 15",
-      "description": "A UPS cargo jet aborted its landing at Louisville Muhammad Ali International Airport to avoid a smaller aircraft on the runway, reports say.",
-      "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
-      "published": "Fri, 17 Apr 2026 14:40:29 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -303,6 +293,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Eight children killed in mass shooting in Louisiana, US media reports",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss",
+      "published": "Sun, 19 Apr 2026 16:33:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Displaced Lebanese families return home despite Israeli attacks",
       "description": "Families travel south to inspect destroyed homes, unsure whether to stay as concerns about renewed conflict increase.",
       "url": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border?traffic_source=rss",
@@ -348,6 +348,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167323",
       "published": "Fri, 17 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Several University of Iowa students wounded in downtown shooting after fight erupts near campus",
+      "description": "A shooting in downtown Iowa City near the University of Iowa's campus wounded multiple people, including students, and police say the suspect remains at large Sunday.",
+      "url": "https://www.foxnews.com/us/several-university-iowa-students-wounded-downtown-shooting-fight-erupts-near-campus",
+      "published": "Sun, 19 Apr 2026 12:19:26 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -447,16 +457,6 @@
       "description": "Tehran says it will keep the strategic Strait of Hormuz closed until Washington ends its blockade of Iranian ports.",
       "url": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss",
       "published": "Sun, 19 Apr 2026 09:26:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "How the Israeli military targets the people who save lives",
-      "description": "Israeli attacks have killed at least 57 medical workers in Lebanon since early March. It is a pattern lifted from Gaza.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss",
-      "published": "Sun, 19 Apr 2026 09:12:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -597,16 +597,6 @@
       "description": "The pledge comes amid a US oil embargo and Donald Trump's threats to invade the island. Leftist leaders meeting in Barcelona also spoke against the global far-right threat.",
       "url": "https://www.dw.com/en/spain-brazil-mexico-vow-to-boost-cuba-aid-amid-us-threats/a-76845646?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 19 Apr 2026 00:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "UNIFIL: Why are UN peacekeepers in Lebanon?",
-      "description": "A French UN peacekeeper has been killed in Lebanon, highlighting rising risks for UNIFIL. The UN mission has been in the country for nearly 50 years — DW looks at its mandate, role and growing criticism.",
-      "url": "https://www.dw.com/en/unifil-why-are-un-peacekeepers-in-lebanon/a-70471965?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 18 Apr 2026 17:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 13,
@@ -788,6 +778,16 @@
       "url": "https://www.npr.org/2026/04/18/nx-s1-5766533/macaws-caracas-venezuela",
       "published": "Sat, 18 Apr 2026 06:00:00 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "US mass shooting leaves 8 children dead in Louisiana",
+      "description": "A \"domestic disturbance\" in the US state of Louisiana has claimed the lives of eight children, including a 1-year-old, police have said.",
+      "url": "https://www.dw.com/en/us-mass-shooting-leaves-8-children-dead-in-louisiana/a-76849556?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 19 Apr 2026 16:13:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1093,16 +1093,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war: Trump says Tehran cannot 'blackmail us'",
-      "description": "President Donald Trump has warned Iran not to \"blackmail\" the US by shutting the Strait of Hormuz once again. Meanwhile, Tehran has slammed Washington's \"maximalist\" positions.",
-      "url": "https://www.dw.com/en/iran-war-trump-says-tehran-cannot-blackmail-us/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 18 Apr 2026 18:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Australia's most decorated serviceman vows to fight war crime charges",
       "description": "An Australian former soldier charged with committing war crimes in Afghanistan vowed on Sunday to clear his name, saying he had never \"run from a fight\" in his first public comments since his arrest. Ben Roberts-Smith was granted bail on Friday after a high-profile arrest on five counts of \"war crime murder\". Police alleged he was complicit in a string of unlawful killings between 2009 and 2012 in Afghanistan.",
       "url": "https://www.france24.com/en/australia-s-most-decorated-serviceman-vows-to-fight-war-crime-charges",
@@ -1163,20 +1153,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "North Korea launches multiple short-range ballistic missiles toward sea",
-      "description": "South Korea says North Korea has launched multiple ballistic missiles toward the North’s eastern waters",
-      "url": "https://abcnews.com/International/wireStory/north-korea-launches-multiple-short-range-ballistic-missiles-132176691",
-      "published": "Sun, 19 Apr 2026 00:40:26 -0400",
+      "title": "UK police investigating if attacks on Jewish sites are work of Iranian proxies",
+      "description": "There was also an attack on a Persian-language media company.",
+      "url": "https://abcnews.com/International/wireStory/britains-chief-rabbi-jews-facing-campaign-violence-after-132180850",
+      "published": "Sun, 19 Apr 2026 10:18:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "UK police investigating if attacks on Jewish sites are work of Iranian proxies",
-      "description": "There was also an attack on a Persian-language media company.",
-      "url": "https://abcnews.com/International/wireStory/britains-chief-rabbi-jews-facing-campaign-violence-after-132180850",
-      "published": "Sun, 19 Apr 2026 10:18:16 -0400",
+      "title": "North Korea launches multiple short-range ballistic missiles toward sea",
+      "description": "South Korea says North Korea has launched multiple ballistic missiles toward the North’s eastern waters",
+      "url": "https://abcnews.com/International/wireStory/north-korea-launches-multiple-short-range-ballistic-missiles-132176691",
+      "published": "Sun, 19 Apr 2026 00:40:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1203,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Australia and Japan seal $6.5B warship deal with 3 Mogami frigates ordered first",
+      "description": "Australia and Japan have signed contracts for the first three of a $6.5 billion fleet of Japanese-designed warships",
+      "url": "https://abcnews.com/International/wireStory/australia-japan-seal-65b-warship-deal-3-mogami-132160717",
+      "published": "Sat, 18 Apr 2026 02:50:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
       "description": "Senior UN officials painted a sorry picture of South Sudan on Friday at the Security Council, describing political turmoil, rising violence, hunger and disease, amid budget cuts that are limiting the ability of the UN peacekeeping mission to protect civilians.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167327",
@@ -1217,16 +1217,6 @@
       "description": "Former NYC police officer Erik Duran, convicted of manslaughter for throwing a cooler at a fleeing suspect, is released on bail pending his appeal.",
       "url": "https://www.foxnews.com/us/former-nypd-officer-fatally-threw-cooler-fleeing-suspect-granted-bail-appeal-conviction",
       "published": "Fri, 17 Apr 2026 15:09:08 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Minnesota prosecutor charges ICE agent in gun incident as Savanah Hernandez case remains uncharged",
-      "description": "ICE agent faces felony charges in Minnesota for allegedly pointing a gun at two people, while no charges filed in attack on Savanah Hernandez.",
-      "url": "https://www.foxnews.com/us/minnesota-prosecutor-charges-ice-agent-gun-incident-savanah-hernandez-case-remains-uncharged",
-      "published": "Fri, 17 Apr 2026 11:47:15 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1353,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Even the dead must make way as construction transforms Afghanistan's capital",
-      "description": "Across Afghanistan's capital, buildings are being razed to make way for major construction to modernize Kabul's heavily congested streets",
-      "url": "https://abcnews.com/International/wireStory/dead-make-construction-transforms-afghanistans-capital-132160530",
-      "published": "Sat, 18 Apr 2026 02:49:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "56 bodies found dumped at a cemetery in Trinidad and Tobago",
       "description": "The bodies, mostly infants, were dumped at one of the country’s cemeteries.",
       "url": "https://abcnews.com/International/wireStory/police-trinidad-tobago-investigate-after-56-bodies-found-132174336",
@@ -1378,6 +1358,26 @@
       "url": "https://abcnews.com/International/wireStory/pope-wraps-cameroon-visit-mass-ahead-angola-132161806",
       "published": "Sat, 18 Apr 2026 06:11:09 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Even the dead must make way as construction transforms Afghanistan's capital",
+      "description": "Across Afghanistan's capital, buildings are being razed to make way for major construction to modernize Kabul's heavily congested streets",
+      "url": "https://abcnews.com/International/wireStory/dead-make-construction-transforms-afghanistans-capital-132160530",
+      "published": "Sat, 18 Apr 2026 02:49:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Feds arrest Iranian woman at LAX for allegedly brokering weapons sales for Islamic regime",
+      "description": "Federal authorities arrested Shamim Mafi at LAX, alleging she brokered Iranian-made drones, bombs and ammunition sales to Sudan's military forces.",
+      "url": "https://www.foxnews.com/us/feds-arrest-iranian-woman-lax-allegedly-brokering-weapons-sales-islamic-regime",
+      "published": "Sun, 19 Apr 2026 12:37:22 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1463,6 +1463,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Life in Donbas: 'If we give up, there will be nothing left'",
+      "description": "The Russian army is advancing on the Ukrainian town of Kostiantynivka, with the aim of occupying the entire Donbas region. Yet people continue to live and fight in the area, as DW's Hanna Sokolova-Stekh found out.",
+      "url": "https://www.dw.com/en/life-in-donbas-if-we-give-up-there-will-be-nothing-left/a-76794734?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 19 Apr 2026 16:38:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump threatens Iranian bridges as talks set to continue",
       "description": "US President Donald Trump said the US would destroy every bridge and power plant in Iran if Tehran does not accept a peace proposal. Negotiations are set to resume in Pakistan soon. Follow DW for more.",
       "url": "https://www.dw.com/en/trump-threatens-iranian-bridges-as-talks-set-to-continue/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
@@ -1528,16 +1538,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Costa Rica takes in a second group of migrants deported from the US",
-      "description": "Costa Rica has received a second group of migrants deported from the United States",
-      "url": "https://abcnews.com/International/wireStory/costa-rica-takes-group-migrants-deported-us-132156720",
-      "published": "Fri, 17 Apr 2026 21:29:42 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1624,7 +1624,7 @@
     },
     {
       "title": "LIVE: Manchester City vs Arsenal – Premier League",
-      "description": "Follow our pre-match build-up, team news, and live text commentary stream as Manchester City host Arsenal at the Etihad.",
+      "description": "Follow our live text commentary stream as Manchester City host Arsenal at the Etihad.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss",
       "published": "Sun, 19 Apr 2026 11:36:20 +0000",
       "source": "Al Jazeera",
@@ -2033,16 +2033,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Humanoid robot sprints to victory in Beijing, beating human half-marathon record",
-      "description": "A humanoid robot has won a half-marathon race for robots in Beijing, running faster than the human record",
-      "url": "https://abcnews.com/International/wireStory/humanoid-robot-sprints-victory-beijing-beating-human-half-132179294",
-      "published": "Sun, 19 Apr 2026 00:47:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Iran doubles down on closing the Strait of Hormuz",
       "description": "Iran has doubled down on its pledge to restrict ships passing through the Strait of Hormuz as long as the U.S. blockade of Iranian ports remains in place",
       "url": "https://abcnews.com/International/wireStory/iran-doubles-closing-strait-hormuz-ceasefire-inches-expiration-132180223",
@@ -2053,30 +2043,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canadian man facing 14 murder charges to plead guilty to aiding suicide",
-      "description": "The lawyer for a Canadian man facing murder charges for allegedly selling lethal substances online to people at risk of self-harm has told the Canadian Broadcasting Corp. that he has agreed to plead guilty to counseling or aiding suicide",
-      "url": "https://abcnews.com/International/wireStory/canadian-man-facing-14-murder-charges-plead-guilty-132159795",
-      "published": "Sat, 18 Apr 2026 00:42:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Gunman kills at least 5 in Kyiv, takes hostages; police shoot him dead",
-      "description": "Gunman kills at least 5 people in Kyiv street and takes hostages; police shoot him dead",
-      "url": "https://abcnews.com/International/wireStory/gunman-kills-5-people-kyiv-street-takes-hostages-132168376",
-      "published": "Sat, 18 Apr 2026 12:06:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mexico arrests alleged drug trafficker considered one of Europe's most wanted",
-      "description": "He's wanted in Hungary on drug trafficking accusations, is sought by Interpol.",
-      "url": "https://abcnews.com/International/wireStory/mexico-arrests-alleged-drug-trafficker-considered-europes-wanted-132169597",
-      "published": "Sat, 18 Apr 2026 13:47:59 -0400",
+      "title": "Humanoid robot sprints to victory in Beijing, beating human half-marathon record",
+      "description": "A humanoid robot has won a half-marathon race for robots in Beijing, running faster than the human record",
+      "url": "https://abcnews.com/International/wireStory/humanoid-robot-sprints-victory-beijing-beating-human-half-132179294",
+      "published": "Sun, 19 Apr 2026 00:47:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2063,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo XIV's visit to African church linked to slavery reflects on his own heritage",
-      "description": "The pope’s planned visit to a Catholic chapel in Angola that was connected to the slave trade is seen as a symbolic moment by some Africans",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-visit-african-church-linked-slavery-132157006",
-      "published": "Sat, 18 Apr 2026 00:53:44 -0400",
+      "title": "Mexico arrests alleged drug trafficker considered one of Europe's most wanted",
+      "description": "He's wanted in Hungary on drug trafficking accusations, is sought by Interpol.",
+      "url": "https://abcnews.com/International/wireStory/mexico-arrests-alleged-drug-trafficker-considered-europes-wanted-132169597",
+      "published": "Sat, 18 Apr 2026 13:47:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Gunman kills at least 5 in Kyiv, takes hostages; police shoot him dead",
+      "description": "Gunman kills at least 5 people in Kyiv street and takes hostages; police shoot him dead",
+      "url": "https://abcnews.com/International/wireStory/gunman-kills-5-people-kyiv-street-takes-hostages-132168376",
+      "published": "Sat, 18 Apr 2026 12:06:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2107,6 +2087,26 @@
       "description": "Progressive and traditional democratic leaders have gathered in Barcelona to discuss restoring faith in the liberal order",
       "url": "https://abcnews.com/International/wireStory/progressive-leaders-rally-barcelona-defend-traditional-liberal-order-132162004",
       "published": "Sat, 18 Apr 2026 06:08:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Canadian man facing 14 murder charges to plead guilty to aiding suicide",
+      "description": "The lawyer for a Canadian man facing murder charges for allegedly selling lethal substances online to people at risk of self-harm has told the Canadian Broadcasting Corp. that he has agreed to plead guilty to counseling or aiding suicide",
+      "url": "https://abcnews.com/International/wireStory/canadian-man-facing-14-murder-charges-plead-guilty-132159795",
+      "published": "Sat, 18 Apr 2026 00:42:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pope Leo XIV's visit to African church linked to slavery reflects on his own heritage",
+      "description": "The pope’s planned visit to a Catholic chapel in Angola that was connected to the slave trade is seen as a symbolic moment by some Africans",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-visit-african-church-linked-slavery-132157006",
+      "published": "Sat, 18 Apr 2026 00:53:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
