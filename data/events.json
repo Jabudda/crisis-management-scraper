@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T18:28:05.700632Z",
+  "last_updated": "2026-04-22T18:54:07.960918Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
+      "description": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon's National News Agency (NNA) reports.",
+      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
+      "published": "Wed, 22 Apr 2026 18:10:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -508,16 +518,6 @@
       "url": "https://abcnews.com/International/wireStory/macron-french-peacekeeper-wounded-lebanon-attack-weekend-died-132272711",
       "published": "Wed, 22 Apr 2026 10:40:39 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "DOJ arrests man accused of providing gun used by father who allegedly killed eight children",
-      "description": "The DOJ announced the arrest of Charles Ford, accused of supplying the rifle used in the Shreveport mass shooting that left eight children dead.",
-      "url": "https://www.foxnews.com/us/doj-arrests-man-accused-providing-gun-used-father-allegedly-killed-eight-children",
-      "published": "Tue, 21 Apr 2026 21:34:52 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1003,6 +1003,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+      "description": "Critics say Israeli attacks on Christian sites challenge claims of a Judeo-Christian shared heritage and mutual respect.",
+      "url": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss",
+      "published": "Wed, 22 Apr 2026 18:22:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "How Israel is destroying Lebanon’s water infrastructure",
       "description": "Israel is 'deliberately' attacking Lebanon's water, experts say, aiming to displace or kill south Lebanon's population.",
       "url": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure?traffic_source=rss",
@@ -1118,6 +1128,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167337",
       "published": "Mon, 20 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "DOJ springs antisemitism review on blue state college after 'Lebanese resistance' fundraiser",
+      "description": "Assistant AG Harmeet Dhillon says the DOJ's Civil Rights Division is opening an antisemitism investigation into the University of Washington.",
+      "url": "https://www.foxnews.com/us/doj-antisemitism-review-university-washington-lebanese-resistance-fundraiser",
+      "published": "Wed, 22 Apr 2026 14:25:36 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1318,6 +1338,16 @@
       "url": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates",
       "published": "Tue, 21 Apr 2026 08:24:15 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Widow died in Ghana crash after losing up to &#163;1m in romance frauds, inquest hears",
+      "description": "A widow died in a car crash in Ghana after losing up to £1m in several romance frauds that saw her lose her life savings and home, an inquest heard.",
+      "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
+      "published": "Wed, 22 Apr 2026 16:10:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1583,6 +1613,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
+      "description": "UK universities allegedly hired a security firm with military intelligence ties to monitor pro-Palestine students.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
+      "published": "Wed, 22 Apr 2026 18:21:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Suspect in slaying of Colombian presidential hopeful arrested in Argentina",
+      "description": "Authorities say a Colombian suspected of helping to organise the killing of Miguel Uribe was captured in Buenos Aires.",
+      "url": "https://www.aljazeera.com/news/2026/4/22/suspect-in-slaying-of-colombian-presidential-hopeful-arrested-in-argentina?traffic_source=rss",
+      "published": "Wed, 22 Apr 2026 18:12:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
       "description": "Trade, history, internal rifts: Inside European deadlock over suspending lucrative association agreement with Israel.",
       "url": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account?traffic_source=rss",
@@ -1627,46 +1677,6 @@
       "description": "Moscow confirms it will suspend shipments of Kazakh oil to Germany from May 1.",
       "url": "https://www.aljazeera.com/economy/2026/4/22/russia-says-will-halt-oil-flow-to-germany-via-druzhba-pipeline?traffic_source=rss",
       "published": "Wed, 22 Apr 2026 14:38:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Will Iraq’s Shia bloc overcome obstacles to pick the next PM?",
-      "description": "The Shia-led Coordination Framework must nominate a prime minister by Sunday, as required by the constitution.",
-      "url": "https://www.aljazeera.com/news/2026/4/22/will-iraqs-shia-bloc-overcome-obstacles-to-pick-the-next-pm?traffic_source=rss",
-      "published": "Wed, 22 Apr 2026 13:42:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Arsenal have grown, but they still have not learned how to dominate",
-      "description": "Arsenal’s title challenge is again being undermined by dropped points in decisive moments.",
-      "url": "https://www.aljazeera.com/opinions/2026/4/22/arsenal-have-grown-but-they-still-have-not-learned-how-to-dominate?traffic_source=rss",
-      "published": "Wed, 22 Apr 2026 13:31:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "New York exhibit casts ‘Trumpism’ as a modern faith",
-      "description": "A New York gallery has transformed into a chapel-style installation exploring ‘Trumpism’ as a modern American belief.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/new-york-exhibit-casts-trumpism-as-a-modern-faith?traffic_source=rss",
-      "published": "Wed, 22 Apr 2026 13:31:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Beyond the desecrated statue: What truly demands our outrage",
-      "description": "Destruction of a statue of Jesus in Lebanon is disturbing, but Israel’s genocide is what really demands our outrage.",
-      "url": "https://www.aljazeera.com/opinions/2026/4/22/beyond-the-desecrated-statue-what-truly-demands-our-outrage?traffic_source=rss",
-      "published": "Wed, 22 Apr 2026 13:20:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1824,9 +1834,9 @@
     },
     {
       "title": "M 4.8 - 19 km SE of Silver Springs, Nevada",
-      "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-04-22 17:23:37 UTC 2026-04-22 17:23:37 UTC at epicenter Location 39.276°N 119.096°W Depth 3.00 km (1.86 mi)",
+      "description": "PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-04-22 17:23:37 UTC 2026-04-22 17:23:37 UTC at epicenter Location 39.276°N 119.096°W Depth 3.00 km (1.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916046",
-      "published": "2026-04-22T18:26:43.922Z",
+      "published": "2026-04-22T18:53:20.251Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1836,7 +1846,7 @@
       "title": "M 7.4 - 100 km ENE of Miyako, Japan",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-04-20 07:53:00 UTC 2026-04-20 07:53:00 UTC at epicenter Location 39.953°N 143.046°E Depth 35.00 km (21.75 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7",
-      "published": "2026-04-22T10:31:37.323Z",
+      "published": "2026-04-22T18:33:33.278Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2047,16 +2057,6 @@
       "description": "Hundreds of MS-13 gang members accused of homicides, drug and arms trafficking, and disappearances are the subject of a mass trial in El Salvador.",
       "url": "https://news.sky.com/story/hundreds-of-ms-13-gang-members-in-el-salvador-mass-trial-accused-of-more-than-47000-crimes-13534589",
       "published": "Tue, 21 Apr 2026 15:40:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Airline cuts 20,000 flights",
-      "description": "Lufthansa has said 20,000 short-haul flights are being cut from its schedule this summer, allowing it to save on the soaring cost of jet fuel.",
-      "url": "https://news.sky.com/story/lufthansa-cuts-20000-flights-amid-soaring-jet-fuel-costs-13534786",
-      "published": "Tue, 21 Apr 2026 22:07:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
