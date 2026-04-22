@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T18:54:07.960918Z",
+  "last_updated": "2026-04-22T19:33:06.498827Z",
   "event_count": 222,
   "events": [
     {
@@ -63,16 +63,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
-      "description": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon's National News Agency (NNA) reports.",
-      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
-      "published": "Wed, 22 Apr 2026 18:10:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Millions of desperate Sudanese return home amid dire conditions as war rages",
       "description": "Three years into the devastating conflict in Sudan, nearly four million displaced people have returned to their places of origin across the country, only to face “another struggle for survival”, the UN International Organization for Migration (IOM) said on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167341",
@@ -100,6 +90,16 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least four killed in Israeli attacks on Lebanon, journalists wounded",
+      "description": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon's National News Agency (NNA) reports.",
+      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
+      "published": "Wed, 22 Apr 2026 18:10:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -378,6 +378,16 @@
       "url": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
       "published": "Wed, 22 Apr 2026 15:42:19 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "EU proposes steps to deal with energy crisis amid Iran war",
+      "description": "Brussels has unveiled a toolbox to manage energy shocks, as concerns grow over fuel supplies and rising costs. It includes a push to decrease the bloc's reliance on fossil fuels.",
+      "url": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 22 Apr 2026 19:04:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -1063,16 +1073,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India news: West Bengal, Tamil Nadu gear up for voting day",
-      "description": "After an intense campaign season, Tamil Nadu and West Bengal are hours away from going to the polls. Meanwhile, tributes and messages pour in on the first anniversary of the Pahalgam attack.",
-      "url": "https://www.dw.com/en/india-news-west-bengal-tamil-nadu-gear-up-for-voting-day/live-76889931?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Apr 2026 06:15:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Iran seizes ships in Strait of Hormuz after Trump halts attacks",
       "description": "Iran seized two ships in the Strait of Hormuz on Wednesday, April 22, tightening its grip on the strategic route.",
       "url": "https://www.france24.com/en/video/20260422-iran-seizes-ships-in-strait-of-hormuz-after-trump-halts-attacks",
@@ -1128,6 +1128,26 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167337",
       "published": "Mon, 20 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Marine veteran allegedly gunned down by husband in attack outside home, police say",
+      "description": "Marine veteran Ivy Unruh was allegedly shot by her estranged husband, Joshua Orlando, in an attack outside her Kansas home. Officials say she was separated from him.",
+      "url": "https://www.foxnews.com/us/marine-veteran-allegedly-gunned-husband-attack-outside-home-police-say",
+      "published": "Wed, 22 Apr 2026 15:16:25 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Workers killed and many treated after refinery chemical release as investigators probe cause",
+      "description": "Two people were killed and over a dozen others required medical care after a chemical release at Catalyst Refiners in Kanawha County, West Virginia, officials said. The incident prompted a temporary shelter-in-place order and left one person in critical condition.",
+      "url": "https://www.foxnews.com/us/workers-killed-many-treated-after-refinery-chemical-release-investigators-probe-cause",
+      "published": "Wed, 22 Apr 2026 14:59:04 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1277,26 +1297,6 @@
       "description": "A 49-year-old Florida man faces felony charges after allegedly using AI to create an explicit photo of a teen co-worker at a Boca Raton country club.",
       "url": "https://www.foxnews.com/us/worker-swanky-country-club-accused-using-ai-create-explicit-photos-teen-police-",
       "published": "Wed, 22 Apr 2026 08:00:13 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Appeals court rules 'Alligator Alcatraz' can stay open, rejecting push for federal environmental impact review",
-      "description": "An appeals court ruled that \"Alligator Alcatraz\" can stay open, finding that it did not need to comply with federal environmental review requirements.",
-      "url": "https://www.foxnews.com/us/appeals-court-rules-alligator-alcatraz-can-stay-open-rejecting-push-federal-environmental-impact-review",
-      "published": "Tue, 21 Apr 2026 21:42:00 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "EXCLUSIVE: DHS honors angel families during National Crime Victims Week, calls crimes 'completely preventable'",
-      "description": "DHS recognizes National Crime Victims Week by spotlighting crimes allegedly committed by illegal immigrants and resources for angel families.",
-      "url": "https://www.foxnews.com/us/exclusive-dhs-honors-angel-families-during-national-crime-victims-week-calls-crimes-completely-preventable",
-      "published": "Tue, 21 Apr 2026 21:40:44 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
@@ -1836,7 +1836,7 @@
       "title": "M 4.8 - 19 km SE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-04-22 17:23:37 UTC 2026-04-22 17:23:37 UTC at epicenter Location 39.276°N 119.096°W Depth 3.00 km (1.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916046",
-      "published": "2026-04-22T18:53:20.251Z",
+      "published": "2026-04-22T19:28:19.291Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
