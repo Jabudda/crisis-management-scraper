@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T18:30:21.879938Z",
+  "last_updated": "2026-04-23T18:56:32.602332Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 46,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
+      "description": "Lebanon's president and prime minister accused Israel on Thursday of a war crime, after an airstrike killed a Lebanese journalist in the country's south, where Israeli forces occupy several areas. Rescuers and the reporter's employer on Wednesday confirmed the death of Amal Khalil, a 42-year-old journalist who worked for the Lebanese daily Al-Akbar.",
+      "url": "https://www.france24.com/en/lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed",
+      "published": "Thu, 23 Apr 2026 18:39:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 43,
       "severity_level": "Critical"
     },
     {
@@ -58,16 +68,6 @@
       "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 23 Apr 2026 04:25:30 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Millions of desperate Sudanese return home amid dire conditions as war rages",
-      "description": "Three years into the devastating conflict in Sudan, nearly four million displaced people have returned to their places of origin across the country, only to face “another struggle for survival”, the UN International Organization for Migration (IOM) said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167341",
-      "published": "Tue, 21 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -138,16 +138,6 @@
       "url": "https://www.dw.com/en/amnesty-international-paints-a-grim-picture-for-human-rights/a-76837070?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 23 Apr 2026 10:15:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "‘The world’s most impossible job’: Who will lead the United Nations next?",
-      "description": "Candidates to become the next head of the United Nations vowed on Wednesday to revitalise the troubled organisation through reform, while upholding its core principles of peacekeeping and development. Four candidates are vying to succeed Antonio Guterres as UN secretary-general from the start of next year. The winner will face the daunting task of restoring the credibility of an organisation in crisis, whose global influence has significantly declined in recent years. For more, FRANCE 24’s Oliver Farry is joined by Daniel Safran-Hon, former official in the Office of the Secretary-General and expert on UN affairs.",
-      "url": "https://www.france24.com/en/video/20260423-the-world-s-most-impossible-job-who-will-lead-the-united-nations-next",
-      "published": "Thu, 23 Apr 2026 13:30:44 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -343,6 +333,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israel defense minister says awaiting US green light to 'return Iran to Stone Age'",
+      "description": "Defence minister Israel Katz said on Thursday that Israel was \"prepared to resume the war against Iran\", adding that his country was awaiting a green light from the United States to return Iran to \"the Stone Age\". FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+      "url": "https://www.france24.com/en/israel-defense-minister-says-awaiting-us-green-light-to-return-iran-to-stone-age",
+      "published": "Thu, 23 Apr 2026 18:36:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Libya: UN mission chief laments lack of progress towards national renewal",
       "description": "Libya’s political leaders continue to lag in implementing a roadmap that leads to national elections and unified institutions, the UN Special Representative for the country told the Security Council on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167357",
@@ -456,8 +456,18 @@
       "title": "Pope urges US and Iran to return to peace talks, condemns capital punishment",
       "description": "Pope Leo XIV is urging the United States and Iran to return to talks to end the war",
       "url": "https://abcnews.com/International/wireStory/pope-wraps-africa-visit-history-books-mass-equatorial-132304320",
-      "published": "Thu, 23 Apr 2026 14:20:52 -0400",
+      "published": "Thu, 23 Apr 2026 14:50:57 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "WHO says billions saw health gains in 2025 despite funding cuts",
+      "description": "Despite significant funding cuts, the World Health Organization (WHO) was able to support significant national health gains for hundreds of millions of people in 2025, according to its annual Results Report released on Thursday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167370",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -513,7 +523,7 @@
       "severity_level": "High"
     },
     {
-      "title": "World Cup 2026: Italy government officials slam idea of taking Iran’s place",
+      "title": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
       "description": "Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
       "url": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 17:34:13 +0000",
@@ -603,16 +613,6 @@
       "severity_level": "High"
     },
     {
-      "title": "MIDDLE EAST LIVE 21 April: Talks unclear; Hormuz tensions continue",
-      "description": "Uncertainty surrounds possible US-Iran talks in Pakistan, with no confirmation yet that they will go ahead. At the same time, tensions persist in the Strait of Hormuz, raising concerns over maritime security, while the humanitarian crisis in Lebanon continues despite the ceasefire. Stay with us for live updates. App users can follow coverage here.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167340",
-      "published": "Tue, 21 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Former Mexican beauty queen found shot dead as investigators examine possible family involvement: reports",
       "description": "Prosecutors investigate the death of Carolina Flores Gómez, a former Mexican beauty queen found shot in her Mexico City apartment in the Polanco area.",
       "url": "https://www.foxnews.com/world/former-mexican-beauty-queen-found-shot-dead-investigators-examine-possible-family-involvement",
@@ -638,6 +638,16 @@
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260423-truce-without-talks-what-room-for-diplomacy-between-us-and-iran",
       "published": "Thu, 23 Apr 2026 18:12:50 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "UN rights chief urges action to end impunity and address disappearances in Mexico",
+      "description": "Mexican authorities must intensify efforts to end impunity, protect journalists and human rights defenders, and address the country’s “painful” crisis of disappearances, UN human rights chief Volker Türk said on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167371",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -823,6 +833,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran flaunts its grip over the Strait of Hormuz with commandos storming cargo ship",
+      "description": "Reporting from Tehran, FRANCE 24's correspondent Reza Sayah explains that \"the arena has shifted from Iran, from the Gulf States, from Israel to the Persian Gulf, to the Strait of Hormuz\" adding that \"the greater strategy, the greater objective seems to be to create as much economic pain as possible for the other side\".",
+      "url": "https://www.france24.com/en/iran-flaunts-its-grip-over-the-strait-of-hormuz-with-commandos-storming-cargo-ship",
+      "published": "Thu, 23 Apr 2026 18:33:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Baby girls held aloft at funeral of father shot during Israeli settler attack",
       "description": "The grieving family of a man reportedly shot dead by Israeli settlers held his twin daughters aloft at his funeral procession on Thursday.",
       "url": "https://news.sky.com/story/west-bank-mourners-hold-aloft-baby-daughters-at-funeral-procession-of-father-shot-dead-during-israeli-settler-attack-13535534",
@@ -877,16 +897,6 @@
       "description": "Lamine Yamal's season is over for Barcelona, but Spain fans await injury update on when star will play 2026 World Cup.",
       "url": "https://www.aljazeera.com/sports/2026/4/23/how-bad-is-lamine-yamals-injury-will-make-spains-world-cup-2026-opener?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 16:36:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
-      "description": "Deir el-Balah holds Gaza's first local election in 21 years amid war ruins, with residents demanding real solutions.",
-      "url": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 13:12:30 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1013,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Mixed views in Lebanon ahead of controversial talks with Israel",
+      "description": "Lebanon remains divided over the best way to end the conflict with Israel, with some backing Hezbollah's armed response.",
+      "url": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 18:09:39 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "More than 6 million Somalis face hunger amid climate shocks and conflict",
       "description": "Drought, failed rains, and conflict drive 6.5 million Somalis into hunger; children face acute malnutrition risks.",
       "url": "https://www.aljazeera.com/news/2026/4/23/more-than-6-million-somalis-face-hunger-amid-climate-shocks-and-conflict?traffic_source=rss",
@@ -1033,7 +1053,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Warner Bros shareholders approve Paramount’s takeover",
+      "title": "Warner Bros shareholders approve Paramount’s $111bn takeover",
       "description": "Attention now turns to regulatory authorities, with both Washington and London expected to examine the merger's impact.",
       "url": "https://www.aljazeera.com/economy/2026/4/23/warner-bros-shareholders-approve-paramounts-takeover?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 15:46:36 +0000",
@@ -1997,26 +2017,6 @@
       "description": "With a new double exhibition called “Buried roots up in the air”, held in Paris and Luxembourg, Nigerian artist Eniwaye Oluwaseyi explores his personal memories through multi-layered compositions that question belonging, identity and cultural roots. FRANCE 24’s Aurore Cloé Dupuis met him in the heart of Paris.",
       "url": "https://www.france24.com/en/video/20260423-nigerian-artist-eniwaye-oluwaseyi-explores-memory-identity-in-paris-show",
       "published": "Thu, 23 Apr 2026 14:16:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "President Macron inaugurates lithium mine as France, EU seek energy sovereignty",
-      "description": "France is going back to the mines. President Emmanuel Macron on Wednesday visited a facility in central France run by Imerys, the leading French producer of industrial minerals and which is spearheading a major lithium mining project for battery production. The project promises to create hundreds of jobs and comes as France seeks to ensure its own energy sovereignty.",
-      "url": "https://www.france24.com/en/video/20260423-president-macron-inaugurates-lithium-mine-as-france-eu-seek-energy-sovereignty",
-      "published": "Thu, 23 Apr 2026 13:32:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "NGOs file ‘human trafficking’ complaint against Deliveroo, Uber Eats",
-      "description": "Associations that support food delivery workers here in France have filed a criminal complaint for \"human trafficking\" against the platforms Deliveroo and Uber Eats. One of the attorneys accused the companies of making significant profits by exploiting their workers.",
-      "url": "https://www.france24.com/en/video/20260423-ngos-file-human-trafficking-complaint-against-deliveroo-uber-eats",
-      "published": "Thu, 23 Apr 2026 13:29:45 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
