@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T18:56:32.602332Z",
+  "last_updated": "2026-04-23T19:35:04.805317Z",
   "event_count": 222,
   "events": [
     {
@@ -178,16 +178,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167356",
       "published": "Wed, 22 Apr 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Child reunited with mom after transgender dad, partner allegedly kidnap abroad amid gender surgery fears: feds",
-      "description": "Federal authorities allege a Utah child was taken to Cuba during a planned camping trip, sparking an international parental kidnapping investigation.",
-      "url": "https://www.foxnews.com/us/child-reunited-mom-transgender-dad-partner-allegedly-kidnap-abroad-amid-gender-surgery-fears-feds",
-      "published": "Wed, 22 Apr 2026 19:29:21 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -673,6 +663,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump will welcome envoys of Lebanon and Israel at the White House for talks",
+      "description": "Israel and Lebanon will hold talks at the White House as the countries' temporary ceasefire comes under strain from continued violence.",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
+      "published": "Thu, 23 Apr 2026 07:30:41 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran war: Trump orders 'shoot and kill' on mine-laying boats in Strait of Hormuz",
       "description": "Tensions over the Strait of Hormuz continue as the US president increases threats. Iranian leaders have said there can be no peace talks while the US blockade of Iranian ports continues. DW has the latest.",
       "url": "https://www.dw.com/en/iran-war-trump-orders-shoot-and-kill-on-mine-laying-boats-in-strait-of-hormuz/live-76903459?maca=en-rss-en-all-1573-xml-mrss",
@@ -858,6 +858,16 @@
       "url": "https://abcnews.com/International/wireStory/2021-collision-south-korean-warplanes-caused-pilots-taking-132305655",
       "published": "Thu, 23 Apr 2026 08:16:21 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Law enforcement responding to 'active shooter' at Mall of Louisiana: Gov Landry",
+      "description": "An active shooter incident was reported at Louisiana’s largest shopping center, with officials yet to confirm injuries or fatalities.",
+      "url": "https://www.foxnews.com/us/law-enforcement-responding-active-shooter-mall-louisiana-gov-landry",
+      "published": "Thu, 23 Apr 2026 15:28:54 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1073,21 +1083,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
-      "description": "Details of how Lebanese journalist Amal Khalil was “pursued” and killed by Israeli forces have been released.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 13:26:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies",
+      "description": "The soaring cost of jet fuel is forcing European airlines to cancel tens of thousands of flights, while energy authorities warned of a possible jet fuel shortage if supplies aren't replenished soon.",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
+      "published": "Thu, 23 Apr 2026 15:29:06 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1188,16 +1198,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167343",
       "published": "Tue, 21 Apr 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "AFSCME union seeks to charge university with criminal offense for bringing in alleged \"strikebreakers\"",
-      "description": "A union representing Illinois State University employees filed a lawsuit alleging the school hired temporary strikebreakers during an ongoing strike.",
-      "url": "https://www.foxnews.com/us/afscme-union-seeks-charge-university-criminal-offense-bringing-alleged-strikebreakers",
-      "published": "Wed, 22 Apr 2026 19:15:03 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1357,16 +1357,6 @@
       "description": "Journalist Zainab Faraj recalled the final moments of fellow journalist Amal Khalil.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/journalist-recalls-israeli-strike-killing-amal-khalil-in-southern-lebanon?traffic_source=rss",
       "published": "Thu, 23 Apr 2026 15:53:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Two trains crash head-on in Denmark",
-      "description": "Two trains crash head-on in Denmark",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/two-trains-crash-head-on-in-denmark?traffic_source=rss",
-      "published": "Thu, 23 Apr 2026 13:15:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1703,6 +1693,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
+      "description": "Republicans take first step, but long road remains to break impasse over funding Donald Trump's immigration enforcement.",
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-senate-passes-ice-funding-resolution-after-vote-a-rama-whats-next?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 18:55:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South Africa president suspends police chief over $21m contract",
+      "description": "Police chief Fannie Masemola suspended as President Cyril Ramaphosa faces pressure to tackle corruption ahead of polls.",
+      "url": "https://www.aljazeera.com/news/2026/4/23/south-africa-president-suspends-police-chief-over-21m-contract?traffic_source=rss",
+      "published": "Thu, 23 Apr 2026 18:43:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US reclassifies some marijuana products as less dangerous drug",
       "description": "Step is latest example of shift away from heavy penalisation that has given way to widespread legalisation efforts.",
       "url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss",
@@ -1896,7 +1906,7 @@
       "title": "M 4.8 - 19 km SE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-04-22 17:23:37 UTC 2026-04-22 17:23:37 UTC at epicenter Location 39.276°N 119.096°W Depth 3.00 km (1.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916046",
-      "published": "2026-04-23T17:50:30.829Z",
+      "published": "2026-04-23T19:07:40.237Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1908,16 +1918,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7",
       "published": "2026-04-23T14:59:15.752Z",
       "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The U.S. seizes another oil tanker as peace talks with Iran remain in limbo",
-      "description": "President Trump says he ordered the Navy to \"shoot and kill any boat\" putting mines in the Strait of Hormuz as the U.S. ramps up minesweeping there.",
-      "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
-      "published": "Thu, 23 Apr 2026 07:30:41 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1947,16 +1947,6 @@
       "description": "Taking advantage of the electoral defeat of Hungary's Viktor Orban, European Union countries have moved to approve a $100 billion loan to Ukraine.",
       "url": "https://www.npr.org/2026/04/23/nx-s1-5795803/after-being-held-up-for-months-ukraine-set-to-get-100b-loan-from-eu",
       "published": "Thu, 23 Apr 2026 04:44:33 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump administration flies 10-year-old back from Cuba amid custody fight",
-      "description": "President Trump's Department of Justice sent a plane this week to Cuba to return a 10-year-old from Utah who is at the center of a custody fight involving the child's gender identity.",
-      "url": "https://www.npr.org/2026/04/23/g-s1-118427/trump-administration-child-cuba",
-      "published": "Thu, 23 Apr 2026 02:19:19 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2108,6 +2098,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167342",
       "published": "Tue, 21 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Sex offender accused of 6 sex assaults in one day as crime surge rocks affluent valley",
+      "description": "Registered sex offender Damian Robinson accused of a string of daytime sexual assaults in Los Angeles has turned himself in, authorities said.",
+      "url": "https://www.foxnews.com/us/sex-offender-accused-6-sex-assaults-one-day-crime-surge-rocks-affluent-valley",
+      "published": "Thu, 23 Apr 2026 15:26:50 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
