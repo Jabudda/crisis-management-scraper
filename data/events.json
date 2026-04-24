@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T15:30:38.577960Z",
+  "last_updated": "2026-04-24T15:57:34.364375Z",
   "event_count": 223,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Tornado barrels through Oklahoma",
+      "description": "A tornado tore through the US state of Oklahoma on Thursday, ripping roofs off homes and damaging power infrastructure as it struck parts of Enid, a town of about 50,000 near the northern border, with no fatalities reported but residents trapped in their homes and extensive damage recorded, according to local police, in a report by France 2 and Rachael Griffiths.",
+      "url": "https://www.france24.com/en/tornado-barrels-through-oklahoma",
+      "published": "Fri, 24 Apr 2026 15:25:31 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -378,6 +388,16 @@
       "url": "https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis",
       "published": "Fri, 24 Apr 2026 04:43:58 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Poisoning suspected after 18 wolves found dead in Italian national park",
+      "description": "An investigation has been launched after the deaths of at least 18 wolves and several other wild ‌animals found in recent days in an Italian national park.",
+      "url": "https://news.sky.com/story/poisoning-suspected-after-18-wolves-found-dead-in-italian-national-park-13535970",
+      "published": "Fri, 24 Apr 2026 15:29:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -733,16 +753,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Why are so many Colombians fighting for Ukraine?",
-      "description": "On the most dangerous parts of Ukraine's front line, it's almost as common these days to hear Spanish as Ukrainian. Many Colombian soldiers are now fighting in Ukraine, lured by the comparatively high salaries, but also by a sense of adventure and of helping a good cause. Our reporters Gulliver Cragg and Catalina Gomez travelled around Colombia and Ukraine to understand what drives these men to go to war and what their families think.",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260424-why-are-so-many-colombians-fighting-for-ukraine",
-      "published": "Fri, 24 Apr 2026 11:41:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Pentagon's Falklands email makes Charles's US visit even more challenging",
       "description": "Mention the Falklands War and dig up the issue of America's support over them and something deep inside the British psyche goes off like a landmine.",
       "url": "https://news.sky.com/story/pentagons-falklands-email-touches-a-nerve-in-britain-and-makes-charless-us-visit-even-more-challenging-13535861",
@@ -933,20 +943,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russian troops, warships in India soon? Why their new military pact matters",
-      "description": "In a significant pact, India and Russia agree to the deployment of soldiers and warships on each other's soil during peace and wartime.",
-      "url": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 11:51:00 +0000",
+      "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
+      "description": "Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.",
+      "url": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 22:52:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Five games to go: The Premier League’s unpredictable season turns again",
+      "description": "From Arsenal’s collapse to Chelsea’s chaos, a season defined by disorder now edges towards a familiar ending.",
+      "url": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 15:38:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-      "description": "Thousands of amputees cannot access care and are struggling with basic mobility.",
-      "url": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 11:20:46 +0000",
+      "title": "Russian troops, warships in India soon? Why their new military pact matters",
+      "description": "In a significant pact, India and Russia agree to the deployment of soldiers and warships on each other's soil during peace and wartime.",
+      "url": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 11:51:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1033,16 +1053,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "First female coach of top European men's football team faces backlash",
-      "description": "Marie-Louise Eta has broken barriers in football as the first woman to coach a top-tier European men's club at Union Berlin. But the historic appointment has also triggered a wave of misogynistic attacks.",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260424-first-female-coach-of-top-european-men-s-football-team-faces-backlash",
-      "published": "Fri, 24 Apr 2026 11:23:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Benfica player handed six-game ban for homophobic conduct towards Real star Vinicius Junior",
       "description": "Benfica's Gianluca Prestianni has been banned for six matches by UEFA for homophobic conduct towards Real Madrid's Vinicius Junior during a Champions League match.",
       "url": "https://news.sky.com/story/benficas-gianluca-prestianni-handed-six-game-ban-for-homophobic-conduct-towards-vinicius-junior-13535926",
@@ -1057,16 +1067,6 @@
       "description": "Five people have been left in a critical condition after two trains collided in Denmark.",
       "url": "https://news.sky.com/story/five-people-critically-injured-in-danish-train-crash-13535293",
       "published": "Thu, 23 Apr 2026 07:24:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Journalist 'cleared of all charges' after imprisonment for posting Iran war videos",
-      "description": "A journalist who was detained in Kuwait after posting Iran war videos has been released from custody, Sky News understands.",
-      "url": "https://news.sky.com/story/journalist-cleared-of-all-charges-after-imprisonment-for-posting-iran-war-videos-13535491",
-      "published": "Thu, 23 Apr 2026 15:15:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
@@ -1203,16 +1203,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ringo Starr: 'I made all my mistakes on stage'",
-      "description": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.",
-      "url": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 23:05:11 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
       "description": "Netanyahu's medical report said the Israeli leader was treated with radiation therapy for early-stage prostate cancer.",
       "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss",
@@ -1303,6 +1293,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
+      "description": "A radiation survivor and expert, an elderly returnee, and a wildlife researcher paint a picture of life 40 years later.",
+      "url": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 15:47:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "description": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after travelling to west Africa to try to recoup some of her lost fortune, an inquest in Devon has heard. Janet Fordham was cheated of her life savings and her home over a period of five years by fraudsters apparently based in the UK, Germany, the US and Ghana, the inquest in Exeter was told. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
@@ -1353,8 +1353,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "\"I wasn't in politics before and I'm not going to be after\": Macron says he will quit politics in 2027",
-      "description": "French President Emmanuel Macron said Thursday that he will quit politics in 2027 as the final year in his second term looms ahead. He added that at this late stage in office, the \"hardest thing\" was to strike a balance between defending his record and acknowledging what \"didn't work out\".",
+      "title": "'I wasn't in politics before and I'm not going to be after': Macron to quit politics in 2027",
+      "description": "French President Emmanuel Macron said Thursday that he will quit politics in 2027 as the final year in his second term approaches. He added that at this late stage in office, the \"hardest thing\" was to strike a balance between defending his record and acknowledging what \"didn't work out\".",
       "url": "https://www.france24.com/en/france/20260424-i-wasn-t-in-politics-before-and-i-m-not-going-to-be-after-macron-says-will-quit-politics-in-2027",
       "published": "Fri, 24 Apr 2026 14:31:11 GMT",
       "source": "France24",
@@ -1553,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "description": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 15:21:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
       "description": "The widely circulated image had prompted authorities to move their search operation.",
       "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
@@ -1603,21 +1613,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
-      "description": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "url": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 22:37:08 GMT",
+      "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+      "description": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
+      "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 05:00:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Meta to cut one in 10 jobs after spending billions on AI",
-      "description": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 07:31:35 GMT",
-      "source": "BBC News",
+      "title": "LIVE: Real Betis vs Real Madrid – La Liga",
+      "description": "Follow our live build-up, with full team news coverage, before our text commentary stream as Real chase Barcelona.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/4/24/live-real-betis-vs-real-madrid-la-liga-football-title-race-barcelona?traffic_source=rss",
+      "published": "Fri, 24 Apr 2026 15:31:11 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1687,26 +1697,6 @@
       "description": "Documents seen by Al Jazeera say Iran is seeking land transit for stranded sea cargo to bypass US blockade.",
       "url": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes?traffic_source=rss",
       "published": "Fri, 24 Apr 2026 11:53:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkiye’s Istanbul to host F1 Grand Prix for at least five years from 2027",
-      "description": "The circuit on the Asian side of Istanbul is popular with drivers and fans but last hosted a race in 2021.",
-      "url": "https://www.aljazeera.com/sports/2026/4/24/turkiyes-istanbul-park-to-host-f1-for-at-least-five-years-from-2027?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 11:47:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How long can Iran survive the US’s Hormuz blockade?",
-      "description": "And just how long can the US hold out?",
-      "url": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss",
-      "published": "Fri, 24 Apr 2026 11:26:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1856,7 +1846,7 @@
       "title": "M 4.0 - 1 km WNW of Cooter, Missouri",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-04-23 17:59:04 UTC 2026-04-23 17:59:04 UTC at epicenter Location 36.055°N 89.826°W Depth 11.78 km (7.32 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60620376",
-      "published": "2026-04-24T15:18:20.414Z",
+      "published": "2026-04-24T15:45:35.842Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1903,6 +1893,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Lebanon should be part of an Iran peace deal, EU's Ursula von der Leyen says",
+      "description": "European Commission President Ursula von der Leyen said the past weeks had shown how \"security is indivisible.\" She said a deal with Iran should include Lebanon and respect its \"soverignty and territorial integrity.\"",
+      "url": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 24 Apr 2026 15:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany news: Lawmakers vote to lower fuel tax amid high gas prices",
       "description": "People in Germany could see gas prices fall next week after lawmakers approved a bill to lower the fuel tax by €0.17 per liter. Follow DW for these stories and more.",
       "url": "https://www.dw.com/en/germany-news-lawmakers-vote-to-lower-fuel-tax-amid-high-gas-prices/live-76921522?maca=en-rss-en-all-1573-xml-mrss",
@@ -1917,16 +1917,6 @@
       "description": "Discovered using AI, a naturally occurring molecule appears to act directly in the brain's appetite center. Scientists hope it could refine treatments for obesity, offering fewer side effects for some patients.",
       "url": "https://www.dw.com/en/natural-molecule-could-provide-ozempic-wegovy-alternative/a-76916940?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 24 Apr 2026 10:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lebanon should be part of an Iran peace deal, EU's Ursula von der Leyen says",
-      "description": "European Commission President Ursula von der Leyen said the past weeks had shown how \"security is indivisible.\" She said a deal with Iran should include Lebanon and respect its \"soverignty and territorial integrity.\"",
-      "url": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 24 Apr 2026 09:31:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -1983,30 +1973,40 @@
       "severity_level": "Low"
     },
     {
+      "title": "Crossing borders: The EU powers your mobility (part 1)",
+      "description": "In this two-part show, Armen Georgian takes viewers on a journey across the European Union, exploring mobility and transport projects funded by the EU’s cohesion policy. In the 2021-2027 budget, the EU has been using its cohesion funds to invest €63.2 billion in transport schemes. From France to Austria, via Poland and Hungary, Armen takes a whistle-stop tour using seven different means of transport: train, plane, metro, tram, bicycle, scooter, and car.",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1",
+      "published": "Fri, 24 Apr 2026 15:54:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Crossing borders: The EU powers your mobility (part 2)",
+      "description": "In this second part of Europe Rendezvous, Armen Georgian is in Hungary and Austria to continue his whistle-stop journey across the EU, exploring mobility and transport projects funded by the EU's cohesion policy.",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-2",
+      "published": "Fri, 24 Apr 2026 15:42:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pirate gangs prowl Bangladesh's Sundarbans forest",
+      "description": "Those who have crossed their path fear them more than the tigers in Bangladesh's Sundarbans mangrove forest. Once thought largely subdued after mass surrenders a decade ago, the gangs have returned to the forest. Their resurgence – fuelled largely by poverty and debt – has again made the forest's labyrinth of rivers feared.",
+      "url": "https://www.france24.com/en/video/20260424-pirate-gangs-prowl-bangladesh-s-sundarbans-forest",
+      "published": "Fri, 24 Apr 2026 15:21:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Streep, Hathaway and Blunt reunite for 'The Devil Wears Prada 2' premieres",
       "description": "In this edition of arts24, Hollywood nostalgia takes centre stage as Meryl Streep, Anne Hathaway and Emily Blunt reunite for the long-awaited sequel to \"The Devil Wears Prada\", bringing high fashion to the red carpet.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260424-streep-hathaway-and-blunt-reunite-for-the-devil-wears-prada-2-premieres",
       "published": "Fri, 24 Apr 2026 14:39:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "🔴Live: UN Indonesian peacekeeper dies of wounds suffered in Lebanon last month",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/middle-east/20260424-middle-east-war-live-israel-lebanon-ceasefire-continues-as-trump-hopes-for-peace-deal",
-      "published": "Fri, 24 Apr 2026 10:58:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US soldier bet on Maduro capture on Polymarket",
-      "description": "A US Special Forces soldier involved in the operation to capture Venezuelan President Nicolás Maduro has been charged with multiple crimes, including unlawful use of classified government information, after allegedly using insider knowledge to place bets on Polymarket that earned him over $400,000. Prosecutors say the soldier, who had access to sensitive details about the mission, profited from wagers tied to the outcome of the operation and is now accused of wire fraud and other financial offences linked to the use of nonpublic information. Camille Knight has this story.",
-      "url": "https://www.france24.com/en/us-soldier-bet-on-maduro-capture-on-polymarket",
-      "published": "Fri, 24 Apr 2026 10:44:32 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
