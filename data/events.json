@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T11:18:48.256260Z",
+  "last_updated": "2026-04-25T11:46:13.089306Z",
   "event_count": 223,
   "events": [
     {
@@ -83,21 +83,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Mali army says armed groups launch coordinated attacks across country",
-      "description": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 10:33:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
       "title": "🔴 Mali military says armed 'terrorist groups' launch attacks on positions nationwide",
       "description": "No description available.",
       "url": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
       "published": "Sat, 25 Apr 2026 09:08:55 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Terrorists stage simultaneous attacks in Mali, authorities say",
+      "description": "Terrorists have carried out attacks in various locations across Mali, according to the country's army.",
+      "url": "https://news.sky.com/story/terrorists-stage-simultaneous-attacks-in-mali-authorities-say-13536188",
+      "published": "Sat, 25 Apr 2026 11:12:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -140,6 +140,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "description": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Apr 2026 11:21:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -268,16 +278,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
       "published": "Sat, 25 Apr 2026 10:04:58 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tanzania releases government-led inquiry into poll violence",
-      "description": "In tonight's edition, a Tanzanian commission appointed by the President herself, releases its report into last year’s election violence. Also, Pope Leo wraps up his first major international tour with a Mass in Equatorial Guinea. And Congolese music star Fally Ipupa marks 20 years in the industry with new albums and concerts in Paris.",
-      "url": "https://www.france24.com/en/tanzania-releases-government-led-inquiry-into-poll-violence",
-      "published": "Fri, 24 Apr 2026 18:32:17 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -503,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Poisoning suspected after 18 wolves found dead in Italian national park",
-      "description": "An investigation has been launched after the deaths of at least 18 wolves and several other wild ‌animals found in recent days in an Italian national park.",
-      "url": "https://news.sky.com/story/poisoning-suspected-after-18-wolves-found-dead-in-italian-national-park-13535970",
-      "published": "Fri, 24 Apr 2026 15:29:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Gunfire and blasts rock Mali as attackers hit capital and other cities, residents say",
       "description": "Gunmen have attacked multiple locations in Mali's capital and other cities, possibly in a coordinated effort, according to residents and the army",
       "url": "https://abcnews.com/International/wireStory/gunfire-blasts-rock-mali-attackers-hit-capital-cities-132372626",
@@ -568,6 +558,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
       "published": "Sat, 25 Apr 2026 03:23:14 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Coordinated attacks hit Bamako and Northern Mali",
+      "description": "Gunmen launched a wave of coordinated assaults across Mali early Saturday, striking the capital Bamako as well as key northern cities including Kidal and Gao. FRANCE 24's Justice Baidoo reports.",
+      "url": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
+      "published": "Sat, 25 Apr 2026 11:26:16 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -808,6 +808,16 @@
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Retired senior U.S. diplomat Alan Eyre offers insight on the state of the war in Iran",
+      "description": "NPR's Scott Simon talks to Alan Eyre, former U.S. diplomat and fellow at the Middle East Institute, about the status of talks to end the war in Iran.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5797259/retired-senior-u-s-diplomat-alan-eyre-offers-insight-on-the-state-of-the-war-in-iran",
+      "published": "Sat, 25 Apr 2026 07:37:47 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1163,16 +1173,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies",
-      "description": "The soaring cost of jet fuel is forcing European airlines to cancel tens of thousands of flights, while energy authorities warned of a possible jet fuel shortage if supplies aren't replenished soon.",
-      "url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
-      "published": "Thu, 23 Apr 2026 15:29:06 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Germany news: Ships to head to Med for possible Hormuz role",
       "description": "German Defense Minister Pistorius has said German naval ships will deploy to the Mediterranean. Berlin has pledged support in the Strait of Hormuz, post-war. DW has more.",
       "url": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
@@ -1458,6 +1458,16 @@
       "url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
       "published": "Fri, 24 Apr 2026 07:08:34 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "description": "Palestinians on Saturday cast ballots in tents and damaged buildings in Deir al-Balah, marking the first local election in part of Gaza Strip in over 20 years. With Hamas affiliated candidates on the list of candidates, the vote serves as a \"barometer\" on Palestinian public opinion, said Hussein Ibish, Senior Resident Scholar at the Arab Gulf States Institute.",
+      "url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion",
+      "published": "Sat, 25 Apr 2026 11:38:05 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1998,16 +2008,6 @@
       "url": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 24 Apr 2026 15:32:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "'Information leakage to our adversaries': When prediction markets spiral out of control",
-      "description": "A US Army soldier has been indicted on Thursday for using classified military intelligence to place winning bets on former Venezuelan leader Nicolas Maduro's capture. This is the latest and most explosive case in a growing pattern of insider trading on prediction markets such as Polymarket and Kalshi.",
-      "url": "https://www.france24.com/en/economy/20260424-information-leakage-to-our-adversaries-when-prediction-markets-spiral-out-of-control",
-      "published": "Fri, 24 Apr 2026 18:49:56 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
