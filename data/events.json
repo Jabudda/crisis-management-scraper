@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T20:15:34.678406Z",
+  "last_updated": "2026-04-25T20:46:47.471392Z",
   "event_count": 223,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Militants and separatists launch coordinated attacks across Mali",
+      "description": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako, and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the largest coordinated attacks in the country in recent years. The al-Qaida-linked militant group JNIM claimed responsibility for the attacks on Bamako’s international airport and four other cities in central and northern Mali on its website Azallaq. It said the attacks were carried out jointly with the Azawad Liberation Front, a Tuareg-led separatist group. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+      "published": "Sat, 25 Apr 2026 20:22:14 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -563,16 +573,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
-      "description": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
-      "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 17:26:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Israeli attacks kill four in southern Lebanon",
       "description": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
       "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
@@ -623,7 +623,7 @@
       "severity_level": "High"
     },
     {
-      "title": "US to allow firing squads, gas, and electrocution for federal executions",
+      "title": "US to allow firing squads, gas and electrocution for federal executions",
       "description": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
       "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 22:15:15 GMT",
@@ -700,16 +700,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
-      "description": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the war in Afghanistan to the Democratic Republic of Congo (DRC), a non-profit confirmed on Tuesday. The resettlement talks, first reported by the New York Times , come after Donald Trump’s decision to stop an initiative that allowed Afghans who assisted US war efforts to apply to resettle in the US. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
-      "published": "Tue, 21 Apr 2026 23:26:37 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -798,6 +788,16 @@
       "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 16:04:29 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
+      "description": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 17:26:31 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -993,36 +993,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran resumes commercial flights from Tehran airport",
-      "description": "Commercial flights begin for the first time since the conflict with the US and Israel began about two months ago.",
-      "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 11:58:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-      "description": "The tools and techniques behind Iran’s push in the battle of narratives.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 10:13:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mali attacks updates: Coordinated attacks in Bamako, Kidal and elsewhere",
-      "description": "These were the updates about the attacks across Mali on Saturday, April 25, 2026.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 10:04:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1037,16 +1007,6 @@
       "description": "Repatriation attempt comes after group was turned around when leaving camp in February. Albanese government says it’s not assisting cohort Get our breaking news email , free app or daily news podcast Four Australian women and nine of their children and grandchildren have left al-Roj camp in north-east Syria, seeking to return to Australia. The group is reportedly travelling across Syria by road to the capital Damascus, under the control of the Syrian government. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/apr/25/australian-women-and-children-leave-syrian-detention-camp-for-damascus-and-potentially-home",
       "published": "Sat, 25 Apr 2026 01:02:16 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Rebel Wilson accused of hacking fellow actor’s Snapchat, leading to nude photo leak",
-      "description": "Charlotte MacInnes, who is suing Wilson for defamation, says alleged cyber-attack was ‘completely terrifying and caused me a new kind of anxiety’ Get our breaking news email , free app or daily news podcast Hollywood star Rebel Wilson has been accused of orchestrating a cyber-attack on the social media account of a rising star which led to her nude photo being leaked. The Pitch Perfect star is being sued by Charlotte MacInnes, the Australian lead actor of her recently released directorial debut, musical comedy The Deb . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/apr/24/actor-mocked-rebel-wilson-wife-instagram-post-defamation-trial-ntwnfb",
-      "published": "Fri, 24 Apr 2026 09:21:15 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1194,7 +1154,7 @@
     },
     {
       "title": "Mom who got 2-day sentence after killing baby while high arrested for endangering someone else's child",
-      "description": "Pennsylvania mother Arissa Ward faces felony child endangerment charges after a toddler she was babysitting was allegedly found wandering in the road.",
+      "description": "Pennsylvania mother Arissa Ward faces felony child endangerment charges after a toddler she was babysitting was allegedly found wandering in a road.",
       "url": "https://www.foxnews.com/us/mom-got-2-day-sentence-killing-baby-high-arrested-endangering-someone-elses-child",
       "published": "Sat, 25 Apr 2026 12:27:57 -0400",
       "source": "Fox News US",
@@ -1373,6 +1333,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+      "description": "Activists organised a protest in solidarity with Palestine on Saturday in Stockholm, Sweden.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 19:40:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "description": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after travelling to west Africa to try to recoup some of her lost fortune, an inquest in Devon has heard. Janet Fordham was cheated of her life savings and her home over a period of five years by fraudsters apparently based in the UK, Germany, the US and Ghana, the inquest in Exeter was told. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
@@ -1523,6 +1493,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "It costs $230 out-of-pocket to see a dermatologist. Many Australians go without – despite soaring skin cancer rates",
+      "description": "Exclusive: Report shows cost of first appointment rose $20 in one year, with steeper rises in Western Australia, South Australia and Tasmania Get our breaking news email , free app or daily news podcast Patients are increasingly going without medically necessary dermatological care, the head of the Consumers Health Forum said, as new report reveals the rising cost of the specialty in Australia. Dermatology is expensive and getting pricier, with an average first visit now costing an adult patient without concessions $230 out-of-pocket, while follow-up appointments cost almost $190, the report from health directory Cleanbill found. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/25/dermatologist-costs-australia-skin-cancer-rates",
+      "published": "Sat, 25 Apr 2026 20:00:55 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Elections in West Bank provide 'credibility to Palestinian sovereignty', expert says",
       "description": "Local elections are being held in the West Bank and parts of Gaza on Saturday. The vote will determine the makeup of local councils tasked with overseeing water, roads, and electricity. Bertrand Besancenot, former French ambassador to Qatar and Saudi Arabia, said the vote would provide “credibility to Palestinian sovereignty” if voter turnout is high.",
       "url": "https://www.france24.com/en/elections-in-west-bank-provide-credibility-to-palestinian-sovereignty-expert-says",
@@ -1638,6 +1618,26 @@
       "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 17:04:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Iran’s authorities project hardened stance with more talks on horizon",
+      "description": "Abbas Araghchi met senior Pakistani officials in Islamabad and left for Oman to be later bound for Russia.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 19:54:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
+      "description": "Video footage shared on social media shows two women being arrested at a pro-Palestine demonstration in Berlin.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 19:51:58 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2103,8 +2103,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Suspect who fled US arrested in connection with caught-on-camera killing of 15-year-old in NYC park",
-      "description": "Zahir Davis, 18, is charged with murder after allegedly gunning down 15-year-old Jaden Pierre at a Queens playground, according to NYPD officials.",
+      "title": "Suspect who fled US arrested in caught-on-camera killing of 15-year-old in NYC park",
+      "description": "Zahir Davis, 18, was charged with murder after allegedly gunning down 15-year-old Jaden Pierre at a Queens playground, according to NYPD officials.",
       "url": "https://www.foxnews.com/us/suspect-fled-us-arrested-connection-caught-camera-killing-15-year-old-nyc-park",
       "published": "Sat, 25 Apr 2026 12:52:00 -0400",
       "source": "Fox News US",
