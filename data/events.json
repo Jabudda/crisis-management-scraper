@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T10:47:18.894816Z",
+  "last_updated": "2026-04-26T11:18:54.306246Z",
   "event_count": 221,
   "events": [
     {
@@ -388,6 +388,16 @@
       "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 10:41:32 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+      "description": "Camara's house in the garrison town of Kati came under attack amid simultaneous attacks across the West African country.",
+      "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:50:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -843,16 +853,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
-      "description": "Crowds of protesters took to the streets of Tel Aviv on Sunday, amid fears the US-Israeli war on Iran will resume.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 02:00:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran war: Peace talks on hold, what's next?",
       "description": "No direct talks took place between US and Iranian negotiators in Islamabad. A ceasefire in the Iran war continues to exist, but a roadmap to lasting peace remains elusive. DW has the latest.",
       "url": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-xml-mrss",
@@ -983,16 +983,6 @@
       "severity_level": "High"
     },
     {
-      "title": "OpenAI apologizes for not reporting Canada mass shooter",
-      "description": "British Colombia Premier David Eby said at the time that OpenAI had the opportunity to prevent the mass shooting.",
-      "url": "https://www.dw.com/en/openai-apologizes-for-not-reporting-canada-mass-shooter/a-76929817?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 25 Apr 2026 02:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Pentagon's Falklands email makes Charles's US visit even more challenging",
       "description": "Mention the Falklands War and dig up the issue of America's support over them and something deep inside the British psyche goes off like a landmine.",
       "url": "https://news.sky.com/story/pentagons-falklands-email-touches-a-nerve-in-britain-and-makes-charless-us-visit-even-more-challenging-13535861",
@@ -1078,6 +1068,26 @@
       "url": "https://www.npr.org/2026/04/24/nx-s1-5797793/thousands-of-seafarers-stranded-by-ongoing-us-blockade-on-strait-of-hormuz",
       "published": "Fri, 24 Apr 2026 06:46:50 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Sawe smashes 2-hour mark setting record at London Marathon",
+      "description": "Kenya's Sabastian Sawe has made history in London as the first man to run a marathon in under two hours. He beat the world record by more than a minute.",
+      "url": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 26 Apr 2026 11:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "London Marathon: Kenya's Sabastian Sawe sets world-record men’s time of under 2 hours",
+      "description": "Kenya's Sabastian Sawe set the men's world record for running the fastest ever marathon at the London event on Sunday when he became the first person ever to complete the 26-mile race in less than two hours.",
+      "url": "https://www.france24.com/en/sport/20260426-london-marathon-kenya-s-sabastian-sawe-sets-world-record-men-s-time-of-under-2-hours",
+      "published": "Sun, 26 Apr 2026 10:45:21 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1267,16 +1277,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/americas/20260426-live-trump-shooting-white-house-correspondents-dinner",
       "published": "Sun, 26 Apr 2026 09:12:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "🔴 Jihadist group JNIM says it launched attacks in Mali with Tuareg rebels",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "published": "Sat, 25 Apr 2026 18:11:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1753,6 +1753,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "What we know about the suspected ‘assassination attempt’ on Donald Trump",
+      "description": "A man armed is in custody after trying to rush the White House Correspondents' Dinner, which Trump was attending.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:50:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Israel destroys solar panels in south Lebanon",
       "description": "Israel destroys solar panels in south Lebanon",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
@@ -1807,16 +1817,6 @@
       "description": "A bomb-laden bus has exploded, killing at least 14 people on Colombia’s Pan-American Highway to Venezuela.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
       "published": "Sun, 26 Apr 2026 03:37:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Dramatic scenes as Trump rushed from White House gala",
-      "description": "US President Donald Trump was rushed out of the White House Correspondents’ dinner by security after loud bangs.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 01:14:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
