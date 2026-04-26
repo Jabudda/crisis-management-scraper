@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T10:19:53.372326Z",
+  "last_updated": "2026-04-26T10:47:18.894816Z",
   "event_count": 221,
   "events": [
     {
@@ -340,6 +340,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+      "description": "Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
+      "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:20:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -1173,16 +1183,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war live: Iran says no talks under siege as FM expected in Pakistan",
-      "description": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1198,6 +1198,16 @@
       "url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
       "published": "Fri, 24 Apr 2026 07:59:28 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
+      "description": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. It's the most serious fighting to rock the Sahel nation in years.",
+      "url": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 26 Apr 2026 10:42:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1247,16 +1257,6 @@
       "description": "German Defense Minister Pistorius has said German naval ships will deploy to the Mediterranean. Berlin has pledged support in the Strait of Hormuz, post-war. DW has more.",
       "url": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 25 Apr 2026 07:34:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "WHO approves first Malaria drug for babies",
-      "description": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group.",
-      "url": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 24 Apr 2026 23:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1498,16 +1498,6 @@
       "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 16:18:19 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump unhurt after shots fired at White House correspondents’ dinner",
-      "description": "US president rushed from Washington, DC, hotel after shots fired outside gala venue.",
-      "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 00:47:41 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1758,6 +1748,16 @@
       "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 17:04:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel destroys solar panels in south Lebanon",
+      "description": "Israel destroys solar panels in south Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:17:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
