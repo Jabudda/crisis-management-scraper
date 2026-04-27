@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T21:50:50.712174Z",
+  "last_updated": "2026-04-27T22:21:11.684702Z",
   "event_count": 222,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 49,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
-      "description": "Club chief says ‘anodyne acknowledgments’ can be ‘overworked’. Follow today’s news live Get our breaking news email , free app or daily news podcast The prime minister, Anthony Albanese, released a statement this morning, 30 years after the massacre at Port Arthur in Tasmania. He said the nation had held on to the idea that “somehow amid the most terrible darkness the best of humanity found a way to shine”. He said: We think of everyone whose world was shattered by the loss of those who had been the bright centre of their lives, their love left desperately wrapped around an absence. … We think of Walter Mikac who channelled his devastating loss into a call for national action on gun reform, writing to Prime Minister [John] Howard with a message that echoes through the decades: “Be strong, act now”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
-      "published": "Mon, 27 Apr 2026 21:32:48 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -67,6 +57,16 @@
       "description": "Military video shows boat moving swiftly in water before explosion leaves it in flames The US military said on Sunday three men were killed when it struck a boat it claimed was “engaged in narco-trafficking operations” in the Eastern Pacific Ocean. This latest strike – which follows dozens of similar attacks on alleged drug boats in recent months – brings the US campaign’s death toll to at least 185, according to a tally compiled by Agence France-Presse. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
       "published": "Mon, 27 Apr 2026 03:11:41 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
+      "description": "Club chief says ‘anodyne acknowledgments’ can be ‘overworked’. Follow today’s news live Get our breaking news email , free app or daily news podcast John Howard reflects on Port Arthur Former prime minister John Howard is speaking on RN Breakfast this morning about Port Arthur, describing the response and the country’s landmark gun buyback program in the aftermath of the massacre. It rocked the country. There’s no other way of describing it. … I’d just been elected to a prime minister after a long period in opposition with a huge majority, and I developed a view pretty quickly that I had to do something significant. What’s the point of having a big majority unless you’re prepared to use it? … We think of everyone whose world was shattered by the loss of those who had been the bright centre of their lives, their love left desperately wrapped around an absence. … We think of Walter Mikac who channelled his devastating loss into a call for national action on gun reform, writing to Prime Minister [John] Howard with a message that echoes through the decades: “Be strong, act now”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
+      "published": "Mon, 27 Apr 2026 21:46:25 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 36,
@@ -438,16 +438,6 @@
       "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Apr 2026 09:20:50 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Mystery surrounds fate of detained journalist six months after fall of key Sudan city",
-      "description": "Six months have passed since the paramilitary Rapid Support Forces (RSF) captured the Sudanese regional capital Al Fashir and shared dozens of videos documenting their massacre in the city.",
-      "url": "https://news.sky.com/story/six-months-since-sudan-militants-captured-al-fashir-whats-happened-to-detained-journalist-13536928",
-      "published": "Sun, 26 Apr 2026 19:13:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -863,6 +853,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Chicago officer killed at hospital by suspect who was free on pretrial release, prosecutors allege",
+      "description": "A man out on pretrial release allegedly opened fire at a Chicago hospital, killing one police officer and wounding another, prosecutors allege.",
+      "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
+      "published": "Mon, 27 Apr 2026 17:48:37 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
       "description": "The British monarch’s US visit underscores shared history amid strained ties and tensions over the Iran conflict.",
       "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
@@ -1063,6 +1063,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Pompeii archaeologists use AI to reconstruct face of man who died during volcano eruption",
+      "description": "Archaeologists and researchers have used artificial intelligence for the first time to digitally reconstruct the face of a man killed in the eruption of Mount Vesuvius that engulfed the ancient Roman city of Pompeii in 79AD.",
+      "url": "https://news.sky.com/story/pompeii-archaeologists-use-ai-to-reconstruct-face-of-man-who-died-during-volcano-eruption-13537358",
+      "published": "Mon, 27 Apr 2026 20:57:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "From super shoes to bread with honey - the man who made London Marathon history",
       "description": "Kenyan runner Sabastian Sawe became the first person to break the two-hour barrier in an official marathon on Sunday, smashing the men's world record by 65 seconds.",
       "url": "https://news.sky.com/story/from-super-shoes-to-bread-with-honey-the-man-who-made-london-marathon-history-13537103",
@@ -1137,16 +1147,6 @@
       "description": "Bennett and Lapid join forces again in a renewed bid for power that will, analysts warn, mean little for Palestinians.",
       "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss",
       "published": "Mon, 27 Apr 2026 16:48:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What does the US dinner shooting mean for Trump?",
-      "description": "At a dinner for White House correspondents, gunshots spark chaos, scrutiny, and fresh questions over Trump’s security.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/27/what-does-the-us-dinner-shooting-mean-for-trump?traffic_source=rss",
-      "published": "Mon, 27 Apr 2026 16:20:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1327,16 +1327,6 @@
       "description": "A judge vacated Miguel Cruz's conviction in the cold case killing of Wisconsin mother Juanita Zdroik, potentially setting the stage for a new trial.",
       "url": "https://www.foxnews.com/us/son-warns-suspected-killer-may-get-away-murder-conviction-tossed-moms-execution-style-slaying",
       "published": "Sun, 26 Apr 2026 10:00:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mississippi middle schoolers stop runaway bus after driver loses consciousness from asthma attack",
-      "description": "Dozens of Mississippi middle school students sprang into action to stop a school bus after their driver suffered an asthma attack and lost consciousness.",
-      "url": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack",
-      "published": "Sun, 26 Apr 2026 02:15:23 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1668,6 +1658,16 @@
       "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Apr 2026 11:49:24 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bahrain strips 69 people of citizenship over Iran support",
+      "description": "Rights groups have described the move as a 'blatant abuse of power'.",
+      "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
+      "published": "Mon, 27 Apr 2026 21:51:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
