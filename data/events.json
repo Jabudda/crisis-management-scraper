@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T14:52:51.490960Z",
+  "last_updated": "2026-05-01T15:25:17.281382Z",
   "event_count": 221,
   "events": [
     {
@@ -73,16 +73,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'Tsunami effect': Hormuz blockade impacts global supply chains, developing countries curtail imports",
-      "description": "Turning to the impact of the Middle East conflict on oil markets, global prices eased slightly on Friday after surging to a four-year high of over $126 per barrel the previous day, driven by fears that a prolonged war with Iran could worsen supply shortages. In related developments, the United Arab Emirates is set to formally exit OPEC, a move that could disrupt the region’s economic balance. Head of Middle East Energy & OPEC and Insights at KPLER, Amena Bakr, shares her insights.",
-      "url": "https://www.france24.com/en/video/20260501-oil-prices-rise-amid-us-iran-impasse-1",
-      "published": "Fri, 01 May 2026 12:38:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
       "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
       "description": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continue to drive displacement and food insecurity higher throughout the country.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167419",
@@ -100,6 +90,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "'Tsunami effect': Hormuz blockade impacts global supply chains, developing countries curtail imports",
+      "description": "With oil prices surging past $126 per barrel, Nadia Massih is joined by Amena Bakr, Head of Middle East Energy & OPEC+ Insights at Kpler in Dubai. The Hormuz blockade, she argues, exposes the fragility of global energy systems far more than political signalling ever could. Her warning extends beyond price volatility. She describes the broader economic repercussions as a “tsunami effect,” highlighting how supply chain disruptions and energy shortages ripple outward, particularly impacting import-dependent economies in Asia and vulnerable developing nations already curtailing consumption.",
+      "url": "https://www.france24.com/en/video/20260501-oil-prices-rise-amid-us-iran-impasse-1",
+      "published": "Fri, 01 May 2026 12:38:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -843,36 +843,6 @@
       "severity_level": "High"
     },
     {
-      "title": "New Zealand's kiwi bird returns to Wellington hills after a century-long absence",
-      "description": "A citizen campaign is returning New Zealand's flightless kiwi bird to the hills around the capital Wellington more than a century after Europeans – and the animals they introduced – decimated their numbers across the country.",
-      "url": "https://www.france24.com/en/asia-pacific/20260501-new-zealand-kiwi-bird-returns-to-wellington-hills-after-century-long-absence",
-      "published": "Fri, 01 May 2026 09:51:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Students stabbed inside Washington state high school as police respond to chaotic scene",
-      "description": "Stabbing incident at Foss High School in Tacoma, Washington, sends victims to the hospital as police rushed to secure the scene and investigate the attack.",
-      "url": "https://www.foxnews.com/us/students-stabbed-inside-washington-state-high-school-police-respond-to-chaotic-scene",
-      "published": "Thu, 30 Apr 2026 17:37:22 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Camp Mystic pulls plan to reopen this summer after backlash from grieving families",
-      "description": "Camp Mystic announces it will not reopen for the summer 2026 season, citing respect for grieving families after last year's deadly Texas flood.",
-      "url": "https://www.foxnews.com/us/camp-mystic-pulls-plan-reopen-summer-backlash-grieving-families",
-      "published": "Thu, 30 Apr 2026 17:21:59 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "‘No credibility’: Obama’s top Iran negotiator torched by State Department after ripping Trump war plan",
       "description": "The State Department pushes back on former Obama Iran deal negotiator Wendy Sherman after she criticizes Trump’s strategy, igniting a sharp war of words over Democrats' foreign policy with regime.",
       "url": "https://www.foxnews.com/world/no-credibility-obamas-top-iran-negotiator-torched-state-department-after-ripping-trump-war-plan",
@@ -1073,6 +1043,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany needs no tips from Donald Trump, says Merz's deputy",
+      "description": "Germany's vice chancellor says US President Donald Trump has made a mess of the Iran war and that his focus should be on ending it. As fuel prices soar, Lars Klingbeil said Trump bears responsibility for the fallout.",
+      "url": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 1 May 2026 15:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UK: Golders Green suspect charged in stabbings of Jewish men",
       "description": "The Golders Green stabbings are the latest in a string of attacks on London's Jewish community in recent weeks.",
       "url": "https://www.dw.com/en/uk-golders-green-suspect-charged-in-stabbings-of-jewish-men/a-77008394?maca=en-rss-en-all-1573-xml-mrss",
@@ -1188,6 +1168,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167401",
       "published": "Wed, 29 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "FBI, Secret Service probe Wisconsin brewery owner over free beer offer after alleged Trump killing attempt",
+      "description": "The FBI and Secret Service confirm they are investigating a Wisconsin brewery that advertised free beer upon Trump's death after an alleged assassination attempt.",
+      "url": "https://www.foxnews.com/us/fbi-secret-service-probe-wisconsin-brewery-owner-free-beer-offer-alleged-trump-killing-attempt",
+      "published": "Fri, 01 May 2026 10:44:38 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1553,6 +1543,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pimps in France turn to TikTok, luring minors into prostitution",
+      "description": "Behind ordinary-looking TikTok adverts for \"rose sellers\" lies a sordid reality: a recruitment scheme linked to prostitution, often targeting minors. A team from our sister channel France 2 dug into hundreds of social media videos showing how pimps in France are recruiting young girls via TikTok, promising them easy money and a glamorous lifestyle. Our France 2 colleagues report, with FRANCE 24's Lauren Bain.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260501-pimps-in-france-turn-to-tiktok-luring-minors-into-prostitution",
+      "published": "Fri, 01 May 2026 14:56:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Congress reduces Bolsonaro's jair term",
       "description": "Brazil’s Congress has voted to reduce the 27-year prison sentence of former President Jair Bolsonaro, though the highly controversial decision is expected to be appealed. Bolsonaro was convicted of plotting a coup after losing the 2022 presidential election, and the move to shorten his sentence is widely seen as a setback for current President Luiz Inácio Lula da Silva, as reported by Liza Kaminov.",
       "url": "https://www.france24.com/en/congress-reduces-bolsonaro-s-jair-term",
@@ -1883,10 +1883,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "M 4.9 - 19 km SE of Silver Springs, Nevada",
-      "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-05-01 08:17:19 UTC 2026-05-01 08:17:19 UTC at epicenter Location 39.307°N 119.047°W Depth 12.35 km (7.68 mi)",
+      "title": "M 5.2 - 19 km SE of Silver Springs, Nevada",
+      "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-05-01 08:17:19 UTC 2026-05-01 08:17:19 UTC at epicenter Location 39.307°N 119.047°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980",
-      "published": "2026-05-01T14:50:55.904Z",
+      "published": "2026-05-01T15:19:49.832Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1923,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pentagon inks deals with AI giants, but not Anthropic",
+      "description": "The pacts enable OpenAI, Google and SpaceX to bring top-tier artificial intelligence (AI) models onto the US military’s secure classified networks.",
+      "url": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 1 May 2026 15:20:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Myanmar: Ex-leader Aung San Suu Kyi moved to house arrest",
       "description": "Aung San Suu Kyi's son said the transfer did not mean freedom and called for the military junta to provide \"proof of life.\" The former leader has not been seen in public since 2021.",
       "url": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-xml-mrss",
@@ -1953,7 +1963,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Gender investment gap — Are women catching up with men?",
+      "title": "Gender investment gap: Are women catching up with men?",
       "description": "Online brokers are tapping into the potential of female investors. Tailor-made products and branding campaigns are on the rise. Will this help bridge the gap between women and men when it comes to investing?",
       "url": "https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 1 May 2026 05:13:00 GMT",
@@ -1997,26 +2007,6 @@
       "description": "Abu Dhabi's exit from OPEC signals a geopolitical shift and a pointed message to Saudi Arabia. What are the ripple effects on ties with Riyadh, the US, and Israel in the short and long term?",
       "url": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 30 Apr 2026 14:26:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran's Vafaei playing for more than snooker glory",
-      "description": "After years lost to visa battles, Hossein Vafaei is finally delivering on his early promise as a snooker prodigy. He's hoping to inspire people back home amid the turmoil in Iran.",
-      "url": "https://www.dw.com/en/iran-s-vafaei-playing-for-more-than-snooker-glory/a-76998832?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 30 Apr 2026 13:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Study busts myth: German 'spring fatigue' doesn't exist",
-      "description": "Do we really feel more tired in spring? Researchers in Switzerland say, \"there's no such thing as spring fatigue.\" But it is a deep cultural phenomenon in German-speaking countries.",
-      "url": "https://www.dw.com/en/study-busts-myth-german-spring-fatigue-doesn-t-exist/a-76985131?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 30 Apr 2026 13:07:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2108,6 +2098,16 @@
       "url": "https://abcnews.com/International/wireStory/myanmar-reduces-ousted-leader-suu-kyis-prison-term-132525795",
       "published": "Thu, 30 Apr 2026 22:57:59 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Illegal immigrant suspected in Chandra Levy murder may have escaped justice after botched probe: detective",
+      "description": "Twenty-five years after intern Chandra Levy disappeared in Washington, D.C., a former detective says investigative failures left the case unsolved.",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-suspected-chandra-levy-murder-may-escaped-justice-botched-probe-detective",
+      "published": "Fri, 01 May 2026 11:18:07 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
