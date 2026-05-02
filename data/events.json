@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T09:29:25.181134Z",
+  "last_updated": "2026-05-02T09:54:39.132396Z",
   "event_count": 221,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 43,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "description": "Israel's strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-      "published": "Fri, 01 May 2026 21:10:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -390,6 +380,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "description": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 09:41:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -823,16 +823,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump threatens to withdraw troops from Germany",
-      "description": "Donald Trump has threatened to remove US troops from Germany after the country's chancellor said America was being \"humiliated\" by Iran.",
-      "url": "https://news.sky.com/story/trump-threatens-to-withdraw-troops-from-germany-13538254",
-      "published": "Thu, 30 Apr 2026 03:38:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
       "description": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
       "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
@@ -1123,6 +1113,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Humpback whale 'Timmy' released in the North Sea after weeks stranded off Germany",
+      "description": "A rescue team has released from a barge in the North Sea a humpback whale that had been stranded in shallow waters near Germany since March, witnesses said",
+      "url": "https://abcnews.com/International/wireStory/humpback-whale-timmy-released-north-sea-after-weeks-132595651",
+      "published": "Sat, 02 May 2026 05:39:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Ghana becomes the latest African country to reject a US health deal",
       "description": "Ghana has rejected a proposed health deal with the U.S. due to concerns over data privacy",
       "url": "https://abcnews.com/International/wireStory/ghana-latest-african-country-reject-us-health-deal-132587967",
@@ -1157,16 +1157,6 @@
       "description": "A judge has sentenced a Ugandan man to death for killing four children in a nursery school",
       "url": "https://abcnews.com/International/wireStory/judge-sentences-ugandan-man-death-speedy-trial-killing-132553293",
       "published": "Thu, 30 Apr 2026 17:16:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Germany faces new threat about reduced US military presence in Europe",
-      "description": "President Donald Trump has floated a new threat that the United States could reduce its military presence in Germany, a key NATO ally and the European Union’s largest economy",
-      "url": "https://abcnews.com/International/wireStory/new-bluster-trump-germany-faces-new-threat-reduced-132528166",
-      "published": "Thu, 30 Apr 2026 08:10:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1643,11 +1633,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
-      "description": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
-      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 14:47:46 GMT",
-      "source": "BBC News",
+      "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
+      "description": "Takaichi signs six agreements with Vietnam, including on technology, agriculture and space, during a trip to Hanoi.",
+      "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
+      "published": "Sat, 02 May 2026 09:16:49 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1993,6 +1983,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "PSG return to Ligue 1 action four days after epic match against Bayern",
+      "description": "After a legendary European night against Bayern Munich on Tuesday, PSG get back to the routine of the French league with a match against Lorient on Saturday at the Parc des Princes. But there is no question of Paris taking this game lightly: PSG have not yet secured the title and cannot afford to drop points, especially as Lens, second and just six points behind, are still very much in the race.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260502-psg-return-ligue-1-action-four-days-after-epic-match-against-bayern",
+      "published": "Sat, 02 May 2026 09:37:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Tessalit army base taken by rebels",
       "description": "In tonight's programme, the army and its Russian mercenary allies surrender the strategic Tessalit military base near the Algerian border. Also in DRC, Joseph Kabila hits back at US accusations he’s backing rebel fighters. And Gabon is the guest of honour at The Anoumabo Urban Music Festival in Abidjan.",
       "url": "https://www.france24.com/en/tessalit-army-base-taken-by-rebels",
@@ -2003,11 +2003,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump says he will raise tariffs on EU autos to 25% for 'not complying' with trade deal",
-      "description": "US ​President Donald Trump on Friday said he will increase tariffs ​on ‌vehicles from the European Union to ‌25% next week, accusing the bloc of ⁠not complying with its 2025 trade deal.",
-      "url": "https://www.france24.com/en/americas/20260501-trump-says-he-will-raise-tariffs-on-eu-autos-to-25",
-      "published": "Fri, 01 May 2026 16:01:49 GMT",
-      "source": "France24",
+      "title": "Ex F1 driver and Paralympic champion Alex Zanardi dies 'suddenly'",
+      "description": "Former Formula 1 driver Alex Zanardi has died at the age of 59.",
+      "url": "https://news.sky.com/story/ex-f1-driver-and-paralympic-champion-alex-zanardi-dies-suddenly-13539086",
+      "published": "Sat, 02 May 2026 06:24:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
