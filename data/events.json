@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T12:23:21.399162Z",
+  "last_updated": "2026-05-03T12:49:20.052257Z",
   "event_count": 219,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Two US service members missing after military exercises in Morocco",
+      "description": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (Africom) said Sunday. The US, Morocco and other countries participating in the African Lion exercise have launched a search and rescue operation, Africom said. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "published": "Sun, 03 May 2026 12:23:59 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -258,16 +268,6 @@
       "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 03 May 2026 05:52:09 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
-      "description": "EnComm Aviation says the firm’s action has cut off vital support for crisis-hit countries including South Sudan and the DRC Britain’s biggest weapons manufacturer, BAE Systems, is facing a £120m lawsuit after scrapping support for aircraft used to deliver aid to some of the world’s neediest countries. EnComm Aviation, a Kenya-based aid cargo operator, claims the decision forced the cancellation of humanitarian contracts and reduced supplies to South Sudan, now threatened by famine , Somalia and the Democratic Republic of the Congo (DRC), among others. Continue reading...",
-      "url": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
-      "published": "Fri, 01 May 2026 06:00:39 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -503,6 +503,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US military says two service members taking part in Morocco drills missing",
+      "description": "AFRICOM says search and rescue operations under way in southwestern Morocco during African Lion exercise.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss",
+      "published": "Sun, 03 May 2026 12:23:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
       "description": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss",
@@ -548,16 +558,6 @@
       "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 03 May 2026 12:05:59 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "China blocks US sanctions against five ‘teapot’ refineries",
-      "description": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
-      "published": "Sun, 03 May 2026 06:57:42 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -628,16 +628,6 @@
       "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 01 May 2026 21:44:05 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
-      "description": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
-      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
-      "published": "Sun, 03 May 2026 09:57:31 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -943,10 +933,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "description": "Iran has sent the US a new 14-point proposal to end the war.",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-      "published": "Sun, 03 May 2026 07:02:09 +0000",
+      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "description": "Ukraine confirmed the attack on the port, with President Volodymyr Zelenskyy claiming it as a 'successful destruction'.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
+      "published": "Sun, 03 May 2026 09:57:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1200,6 +1190,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Taiwan’s leader visits Eswatini despite pressure from China to block trip",
+      "description": "Taiwan’s leader William Lai Ching-te is visiting Eswatini, the only country in Africa that recognises Taiwan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/taiwans-leader-visits-eswatini-despite-pressure-from-china-to-block-trip?traffic_source=rss",
+      "published": "Sun, 03 May 2026 12:18:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1503,16 +1503,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "New tariff hike could cost Germany $18BN",
-      "description": "In addition to withdrawing troops from Germany, Donald Trump is escalating his trade dispute with the European Union. He says tariffs on cars and trucks will rise to 25 percent next week because the bloc is not complying. That is 10 percentage points higher than the rate agreed in a trade deal last July. The automotive sector is especially important to the EU, as car manufacturing makes up a significant part of Europe’s economy. Charlotte Lam reports.",
-      "url": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1",
-      "published": "Sat, 02 May 2026 15:24:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Taiwan's president lands in Eswatini in a trip delayed by lack of overflight clearance",
       "description": "Taiwan’s President Lai Ching-te says he has arrived in Eswatini, Taiwan’s only diplomatic ally in Africa, despite flight challenges reportedly due to Chinese pressure",
       "url": "https://abcnews.com/International/wireStory/taiwans-president-lands-eswatini-trip-delayed-lack-overflight-132597593",
@@ -1663,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Israel approves purchase of fighter jets from the US",
+      "description": "Purchase includes two new combat squadrons of F-35 and F-15IA aircraft from Lockheed Martin and Boeing.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss",
+      "published": "Sun, 03 May 2026 12:36:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Two women die in attempted Channel crossing from France to UK",
       "description": "Women die after boat carrying 82 people has engine trouble and runs aground near Calais, French authorities say.",
       "url": "https://www.aljazeera.com/news/2026/5/3/two-women-die-in-attempted-channel-crossing-from-france-to-uk?traffic_source=rss",
@@ -1727,16 +1727,6 @@
       "description": "Naoya Inoue wins 116-112, 115-113, 116-112 in a fight billed as the biggest boxing match in ​Japanese history.",
       "url": "https://www.aljazeera.com/sports/2026/5/3/japans-inoue-beats-nakatani-to-retain-undisputed-super-bantamweight-title?traffic_source=rss",
       "published": "Sun, 03 May 2026 07:40:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man charged with murder of five-year-old Australian Indigenous girl",
-      "description": "The man was also charged with two other offences and is to appear ​in court in Darwin on Tuesday, police said.",
-      "url": "https://www.aljazeera.com/news/2026/5/3/man-charged-over-murder-of-australian-indigenous-girl-that-sparked-riots?traffic_source=rss",
-      "published": "Sun, 03 May 2026 07:34:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1998,6 +1988,16 @@
       "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 2 May 2026 07:46:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "OPEC+ hikes oil production quotas but stays mum on UAE pull-out",
+      "description": "Saudi Arabia, Russia and five other OPEC+ countries increased their oil production quota on Sunday in an expected move aimed at demonstrating continuity at the cartel after the shock withdrawal of the United Arab Emirates.",
+      "url": "https://www.france24.com/en/live-news/20260503-opec-hikes-oil-production-quotas-but-stays-mum-on-uae-pull-out",
+      "published": "Sun, 03 May 2026 12:13:11 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
