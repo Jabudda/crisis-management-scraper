@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T21:49:02.823650Z",
+  "last_updated": "2026-05-07T22:26:41.748287Z",
   "event_count": 217,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: two Victorian women charged with crimes against humanity offences after return from Syria",
+      "description": "Woman arrested at Sydney airport after arriving back from Syria last night; two more women face charges in Melbourne. Follow updates Get our breaking news email , free app or daily news podcast The two women arrested in Melbourne yesterday after their return from Syria have now been charged by the Australian Federal Police. A woman, 53, was charged with multiple crimes against humanity, including enslavement, possessing a slave, using a slave and engaging in slave trading. Each offence carries a maximum penalty of 25 years in prison. Australian JCTTs (Joint Counter Terrorism Teams) methodically investigated all Australians who travelled to declared conflict areas and will ensure those who are alleged to have committed a criminal offence are put before the courts. JCTTs include some of the most experienced national security investigators and analysts in our country. This remains an active investigation into very serious allegations. They’ve said one thing and done the other. They said they didn’t want these people to return to Australia, and yet at the same time, they didn’t stop them getting passports … They didn’t use temporary exclusion orders … I think the Australian taxpayer has the right to know that the government has done everything in its power to prevent them coming here, to prevent that cost occurring and to keep Australians safe. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
+      "published": "Thu, 07 May 2026 22:08:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -128,16 +138,6 @@
       "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
       "published": "Wed, 06 May 2026 13:13:47 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Fire at a shopping center in Iran kills 8 people and injures dozens",
-      "description": "Tehran's emergency service department says a fire in a shopping center near the Iranian capital has killed eight people and injured 40",
-      "url": "https://abcnews.com/International/wireStory/fire-shopping-center-iran-kills-8-people-injures-132697913",
-      "published": "Wed, 06 May 2026 04:26:03 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 31,
       "severity_level": "Critical"
@@ -293,6 +293,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Pakistan warns of strong response to any attack on anniversary of clash with India",
+      "description": "Pakistan’s military warns it will respond strongly to any attack as it marks the anniversary of last year’s conflict with India",
+      "url": "https://abcnews.com/International/wireStory/pakistan-warns-strong-response-attack-anniversary-clash-india-132735247",
+      "published": "Thu, 07 May 2026 08:34:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
       "description": "As the crisis in the Strait of Hormuz continues, the United Nations reiterates its commitment to support efforts towards peace, UN Spokesperson Stéphane Dujarric said on Wednesday during his media briefing from New York.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167453",
@@ -333,16 +343,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Congo's president warns next elections can't take place unless conflict is resolved",
-      "description": "Congo’s president says the African nation won't be able to hold elections after his term ends in two years unless the conflict that has gripped the country’s east is resolved",
-      "url": "https://abcnews.com/International/wireStory/congos-president-warns-elections-place-conflict-east-resolved-132725840",
-      "published": "Wed, 06 May 2026 19:10:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria",
       "description": "Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.",
       "url": "https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria",
@@ -351,16 +351,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "Superbike rider killed in crash during qualifying in Northern Ireland",
-      "description": "Rider is 20th fatality at North West 200 but first since 2016, race due to celebrate its centenary in 2029.",
-      "url": "https://www.aljazeera.com/sports/2026/5/7/motorbike-rider-killed-in-crash-in-prestigious-race-in-northern-ireland?traffic_source=rss",
-      "published": "Thu, 07 May 2026 17:54:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "Kristin Smart investigators storm home tied to her killer in new hunt for missing student’s remains",
@@ -433,11 +423,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: woman to appear in court charged with joining Islamic State",
-      "description": "Woman arrested at Sydney airport after arriving back from Syria last night; two more women face charges in Melbourne. Follow updates Get our breaking news email , free app or daily news podcast ‘There’s a concern, obviously’, Canavan says after women and children with links to Islamic State return Nationals leader Matt Canavan said concerns remained after a cohort of 13 women and children with like to the Islamic State returned to Australia yesterday, pointing to the three arrests of women at airports in Sydney and Melbourne on arrival. I think there’s a concern, obviously, there’s a risk here. That risk is clearly demonstrated by the fact that the government has charged three of these returning people. I’m not exactly sure why the government wouldn’t use the powers that exist, the temporary exclusion orders, if these people are big enough risks to be charged in the way they have … last night, why wouldn’t you use the powers to keep Australians safe, to keep them out of this country for a bit longer while we work? I think what’s really important now is that the prime minister come out today and explain how this has helped safety of Australians. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
-      "published": "Thu, 07 May 2026 21:40:26 GMT",
-      "source": "The Guardian World",
+      "title": "Deadly double attack hits 2 central Mali villages as violence spreads",
+      "description": "Armed men have carried out double attacks on two villages in central Mali, killing several people",
+      "url": "https://abcnews.com/International/wireStory/deadly-double-attack-hits-2-central-mali-villages-132760555",
+      "published": "Thu, 07 May 2026 17:26:35 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -458,6 +448,16 @@
       "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
       "published": "Mon, 04 May 2026 15:58:29 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Haitian illegal immigrant who fatally beat Florida store clerk with hammer will face the death penalty",
+      "description": "Prosecutors seek the death penalty for a man who allegedly entered the U.S. illegally from Haiti and murdered a Fort Myers store clerk with a hammer.",
+      "url": "https://www.foxnews.com/us/haitian-illegal-immigrant-fatally-beat-florida-store-clerk-hammer-face-death-penalty",
+      "published": "Thu, 07 May 2026 17:45:21 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -543,10 +543,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Foreign visitors return to Jewish pilgrimage in Tunisia under tight security",
-      "description": "The annual Jewish pilgrimage to the El-Ghriba Synagogue in Tunisia has seen a modest return of international visitors",
-      "url": "https://abcnews.com/International/wireStory/foreign-visitors-return-jewish-pilgrimage-tunisia-tight-security-132699331",
-      "published": "Wed, 06 May 2026 09:14:06 -0400",
+      "title": "Russia says Ukraine launched a major drone attack after Moscow shunned ceasefire offer",
+      "description": "Russia's Defense Ministry reports that air defenses shot down 347 Ukrainian drones overnight",
+      "url": "https://abcnews.com/International/wireStory/russia-ukraine-launched-major-drone-attack-after-moscow-132736400",
+      "published": "Thu, 07 May 2026 09:46:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -783,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Australian women returning from Syria arrested on suspicion of slavery, terrorism",
+      "description": "Three Australian women have been arrested on suspicion of slavery and terrorism charges after they returned from Syria",
+      "url": "https://abcnews.com/International/wireStory/airliners-carrying-women-children-linked-islamic-state-group-132735710",
+      "published": "Thu, 07 May 2026 09:53:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "What Israel wants from an Iran peace deal: No enrichment, missile limits and strict enforcement",
       "description": "Israel wants Iran to stop enrichment, dismantle underground nuclear sites, restrict missiles and cut ties to Hamas and Hezbollah, experts say.",
       "url": "https://www.foxnews.com/world/what-israel-wants-from-iran-peace-deal-no-enrichment-missile-limits-strict-enforcement",
@@ -841,6 +851,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "US trade court rules against Trump’s 10 percent global tariffs",
+      "description": "The court ruled in favour of small businesses that challenged the tariffs that took place in February.",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss",
+      "published": "Thu, 07 May 2026 21:34:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Armed fighters kill at least 30 people in attacks in central Mali",
@@ -923,6 +943,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israel indicts Jewish man accused of attacking Christian nun in Jerusalem",
+      "description": "Israel has indicted a Jewish man over a violent attack on a nun near Jerusalem’s Old City last week",
+      "url": "https://abcnews.com/International/wireStory/israel-indicts-jewish-man-accused-attacking-christian-nun-132739708",
+      "published": "Thu, 07 May 2026 08:38:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "As housing insecurity grows, global leaders push for action",
       "description": "“Housing is the gateway to all other rights” said actor and humanitarian Richard Gere, who has joined UN efforts to combat homelessness.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167452",
@@ -998,6 +1028,16 @@
       "url": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 07 May 2026 15:44:25 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+      "description": "US military says it intercepted and responded to 'unprovoked' Iranian attack, stressing that it doesn't seek escalation.",
+      "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+      "published": "Thu, 07 May 2026 21:11:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1113,6 +1153,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Nigerian army says it rescued some children abducted from an orphanage last month",
+      "description": "Seven children and two women abducted last month in Nigeria have been rescued by troops",
+      "url": "https://abcnews.com/International/wireStory/nigerian-army-rescued-children-abducted-orphanage-month-132737517",
+      "published": "Thu, 07 May 2026 06:57:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "China gives suspended death sentences to 2 former defense ministers accused of bribery",
       "description": "A Chinese military court has given suspended death sentences to former defense ministers Li Shangfu and Wei Fenghe for bribery",
       "url": "https://abcnews.com/International/wireStory/china-suspended-death-sentences-2-former-defense-ministers-132737399",
@@ -1127,16 +1177,6 @@
       "description": "Kenya's political word of the moment is “goonism,\" used to describe gang-related political violence",
       "url": "https://abcnews.com/International/wireStory/kenyan-politicians-trade-accusations-goonism-political-violence-rises-132735692",
       "published": "Thu, 07 May 2026 04:10:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Nigerian army says it rescued some children abducted from an orphanage last month",
-      "description": "Seven children and two women abducted last month in Nigeria have been rescued by troops",
-      "url": "https://abcnews.com/International/wireStory/nigerian-army-rescued-children-abducted-orphanage-month-132737517",
-      "published": "Thu, 07 May 2026 06:57:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1160,6 +1200,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tenerife resort town awaits hantavirus-hit cruise ship",
+      "description": "Locals react to cruise ship affected by a hantavirus outbreak which is set to dock in southern Tenerife.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/tenerife-resort-town-awaits-hantavirus-hit-cruise-ship?traffic_source=rss",
+      "published": "Thu, 07 May 2026 21:25:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1223,26 +1273,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Amputee football players in Rwanda find healing and a sense of community",
-      "description": "Amputee football offers a sense of community and healing in Rwanda, a country that went through its darkest time in 1994 during its genocide",
-      "url": "https://abcnews.com/International/wireStory/amputee-football-players-rwanda-find-healing-sense-community-132698769",
-      "published": "Wed, 06 May 2026 08:02:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Militants ambush fruit trucks on the road to Bamako as a blockade of Mali's capital persists",
-      "description": "Militants have ambushed a convoy of trucks heading to Mali’s blockaded capital of Bamako",
-      "url": "https://abcnews.com/International/wireStory/militants-ambush-fruit-trucks-road-bamako-blockade-malis-132724071",
-      "published": "Wed, 06 May 2026 17:55:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Feds seize mountain of fentanyl from 'open-air drug market' in massive crackdown targeting gang crews",
       "description": "A sweeping federal sting dubbed Operation Free MacArthur Park resulted in 18 arrests and $10 million worth of fentanyl seized in Los Angeles.",
       "url": "https://www.foxnews.com/us/feds-seize-mountain-fentanyl-open-air-drug-market-massive-crackdown-targeting-gang-crews",
@@ -1278,26 +1308,6 @@
       "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 07 May 2026 21:40:26 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Protests in Bolivia escalate amid economic turmoil and policy demands",
-      "description": "Clashes erupt in La Paz as workers protest against rising fuel prices and damaged vehicles caused by subsidy cuts.",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/protests-in-bolivia-escalate-amid-economic-turmoil-and-policy-demands?traffic_source=rss",
-      "published": "Thu, 07 May 2026 18:17:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "EU closely monitoring hantavirus outbreak on cruise ship",
-      "description": "The EU says it is closely monitoring suspected hantavirus cases aboard the Dutch cruise ship MV Hondius",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/eu-closely-monitoring-hantavirus-outbreak-on-cruise-ship?traffic_source=rss",
-      "published": "Thu, 07 May 2026 18:04:36 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1353,26 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia snubs Ukraine’s unilateral ceasefire, firing dozens of drones",
-      "description": "Russia has fired dozens of drones at Ukraine, ignoring a unilateral ceasefire announced by Kyiv",
-      "url": "https://abcnews.com/International/wireStory/russia-snubs-ukraines-unilateral-ceasefire-firing-dozens-drones-132699135",
-      "published": "Wed, 06 May 2026 05:01:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "French carrier group moves south of Suez ahead of conditional UK-French Hormuz mission",
-      "description": "The French armed forces say that France’s aircraft carrier strike group is moving south of the Suez Canal and into the Red Sea in preparation for a potential future mission as part of a French-British plan for the Strait of Hormuz",
-      "url": "https://abcnews.com/International/wireStory/french-carrier-group-moves-south-suez-ahead-conditional-132708522",
-      "published": "Wed, 06 May 2026 11:11:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Polls open in UK local elections seen as a verdict on Keir Starmer's leadership",
       "description": "Polls have opened for midterm local and regional elections that could significantly impact British Prime Minister Keir Starmer",
       "url": "https://abcnews.com/International/wireStory/polls-open-uk-local-elections-verdict-keir-starmers-132735270",
@@ -1421,6 +1411,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Tennessee approves new congressional map in latest redistricting flurry",
+      "description": "Republicans pass new map ahead of midterms after US Supreme Court weakened Voting Rights Act restrictions.",
+      "url": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry?traffic_source=rss",
+      "published": "Thu, 07 May 2026 21:19:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Trump sets July 4 deadline for EU tariff hike decision",
@@ -1478,6 +1478,26 @@
       "url": "https://www.npr.org/2026/05/07/nx-s1-5813651/former-u-s-ambassador-to-the-holy-see-on-rubios-visit-to-the-vatican",
       "published": "Thu, 07 May 2026 04:41:26 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Airliner carrying women and children linked to Islamic State group land in Australia",
+      "description": "Airliner carrying women and children linked to Islamic State group land in Australia",
+      "url": "https://abcnews.com/International/wireStory/airliner-carrying-women-children-linked-islamic-state-group-132735705",
+      "published": "Thu, 07 May 2026 05:09:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Rubio meets with Pope Leo at the Vatican, discuss 'peace' in the Middle East",
+      "description": "The Vatican says the “need to work tirelessly in favor of peace” was discussed in talks with U.S. Secretary of State Marco Rubio",
+      "url": "https://abcnews.com/International/wireStory/rubio-faces-challenge-pope-leo-meeting-after-trumps-132734903",
+      "published": "Thu, 07 May 2026 11:37:59 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1568,6 +1588,16 @@
       "url": "https://www.france24.com/en/video/20260507-brazil-s-lula-to-discuss-fighting-organized-crime-tariffs-in-trump-meeting",
       "published": "Thu, 07 May 2026 16:07:13 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "UCLA sororities hire private security amid terrifying harassment by homeless men: report",
+      "description": "UCLA's Panhellenic Association hired private security for sorority row after members reported feeling unsafe due to harassment from homeless people.",
+      "url": "https://www.foxnews.com/us/ucla-sororities-hire-private-security-amid-terrifying-harassment-homeless-men-report",
+      "published": "Thu, 07 May 2026 18:07:27 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1717,16 +1747,6 @@
       "description": "US sanctions target Iraq's deputy oil minister for allegedly aiding Iran in bypassing restrictions on oil exports.",
       "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
       "published": "Thu, 07 May 2026 18:19:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
-      "description": "The US accuses Ali Maarij al-Bahadly of helping Iran avoid sanctions and export its oil through Iraq.",
-      "url": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran?traffic_source=rss",
-      "published": "Thu, 07 May 2026 17:36:05 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1973,36 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Russia is ramping up its attempts to kill opponents in Europe, officials say",
-      "description": "Three Western intelligence officials from different countries have told The Associated Press that a campaign of targeted killings they blame on Russia has ramped up since Moscow’s 2022 invasion of Ukraine",
-      "url": "https://abcnews.com/International/wireStory/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-132733708",
-      "published": "Thu, 07 May 2026 05:14:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU auditors sound alarm over billions in COVID recovery funds that can’t be clearly traced",
-      "description": "European auditors say they can't clearly trace billions of euros spent from a massive fund meant to help EU countries recover from COVID-19",
-      "url": "https://abcnews.com/International/wireStory/eu-auditors-sound-alarm-billions-covid-recovery-funds-132711507",
-      "published": "Wed, 06 May 2026 11:11:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Family fears for jailed Iranian Nobel Peace laureate's life if she's not moved to a Tehran hospital",
-      "description": "Nobel laureate Narges Mohammadi is in critical condition in an Iranian hospital",
-      "url": "https://abcnews.com/International/wireStory/family-fears-jailed-iranian-nobel-peace-laureates-life-132711148",
-      "published": "Wed, 06 May 2026 11:11:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "UK border official and former Hong Kong cop convicted of assisting Chinese spy agency in Britain",
       "description": "A U.K. border official and a former Hong Kong police officer have been convicted of assisting China’s spy agency by conducting “shadow” policing operations in Britain",
       "url": "https://abcnews.com/International/wireStory/uk-border-official-former-hong-kong-cop-convicted-132747949",
@@ -2023,20 +2013,50 @@
       "severity_level": "Low"
     },
     {
-      "title": "Sweden detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
-      "description": "Sweden's coast guard has detained a tanker suspected of being part of Russia’s so-called “shadow fleet.”",
-      "url": "https://abcnews.com/International/wireStory/sweden-detains-sanctioned-oil-tanker-believed-linked-russias-132709350",
-      "published": "Wed, 06 May 2026 11:11:39 -0400",
+      "title": "Greece, birthplace of democracy, seeks to put humanity ahead of AI in updated constitution",
+      "description": "Greece is preparing sweeping constitutional reforms that would require artificial intelligence to serve human society and protect individual freedoms",
+      "url": "https://abcnews.com/International/wireStory/greece-birthplace-democracy-seeks-put-humanity-ahead-ai-132738181",
+      "published": "Thu, 07 May 2026 08:34:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Bus and oil tanker collide in Indonesia, killing at least 16 people",
-      "description": "A passenger bus has collided with a fuel tanker truck on Indonesia's Sumatra island, killing at least 16 people and injuring four others",
-      "url": "https://abcnews.com/International/wireStory/bus-oil-tanker-collide-indonesia-killing-16-people-132708316",
-      "published": "Thu, 07 May 2026 00:57:53 -0400",
+      "title": "China says ties with US remain stable ahead of Trump visit despite ‘disruptions’",
+      "description": "China is signaling that Taiwan will be a priority ahead of a summit between U.S. President Donald Trump and China's President Xi Jinping next week",
+      "url": "https://abcnews.com/International/wireStory/china-ties-us-remain-stable-ahead-trump-visit-132735505",
+      "published": "Thu, 07 May 2026 08:02:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How one German artist's remembrance stones turn Berlin sidewalks into Holocaust memorials",
+      "description": "German artist Gunter Demnig has installed small Holocaust memorial stones in Berlin for 30 years",
+      "url": "https://abcnews.com/International/wireStory/german-artists-remembrance-stones-turn-berlin-sidewalks-holocaust-132735394",
+      "published": "Thu, 07 May 2026 04:55:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Mount Everest season opens late, with climbers undeterred by huge ice block",
+      "description": "Hundreds of climbers are attempting to scale Mount Everest despite high costs and an unstable serac on the key trail",
+      "url": "https://abcnews.com/International/wireStory/mount-everest-season-opens-late-climbers-undeterred-huge-132734622",
+      "published": "Thu, 07 May 2026 05:11:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Paraguay’s president visits Taiwan as pressure from China grows",
+      "description": "Paraguay’s President Santiago Peña has arrived in Taiwan for his first visit to the self-ruled island",
+      "url": "https://abcnews.com/International/wireStory/paraguays-president-visits-taiwan-pressure-china-grows-132734515",
+      "published": "Thu, 07 May 2026 04:54:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2078,6 +2098,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167438",
       "published": "Mon, 04 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Man ‘framed’ in ‘satanic’ murder freed after 22 years wins $24M as real killer still unknown",
+      "description": "A Kentucky man who says he was wrongfully convicted of a satanic killing wins more than $24 million after spending over two decades behind bars.",
+      "url": "https://www.foxnews.com/us/man-framed-satanic-murder-freed-22-years-wins-24m-real-killer-still-unknown",
+      "published": "Thu, 07 May 2026 18:05:21 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2137,36 +2167,6 @@
       "description": "A viral video appears to show CAIR-CA Director Zahra Billoo urging supporters to hide hatred strategically, drawing backlash from political figures.",
       "url": "https://www.foxnews.com/us/backlash-erupts-viral-video-cair-leader-newsom-funding-draws-scrutiny",
       "published": "Wed, 06 May 2026 21:52:52 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Patel touts FBI DNA breakthrough he says busted illegal immigrant in decade-long serial rape case",
-      "description": "Authorities say an illegal immigrant faces 30 felony charges after ICE DNA linked him to a decade-long series of sexual assaults in Indiana.",
-      "url": "https://www.foxnews.com/us/patel-touts-fbi-dna-breakthrough-says-busted-illegal-immigrant-decade-long-serial-rape-case",
-      "published": "Wed, 06 May 2026 20:25:27 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Repeat offender with massive rap sheet leads cops on wild chase as blind passenger begs to escape: police",
-      "description": "Police say a blind passenger begged to be let out during a high-speed stolen vehicle chase in Aurora, leading to kidnapping charges for the driver.",
-      "url": "https://www.foxnews.com/us/repeat-offender-massive-rap-sheet-leads-cops-wild-chase-blind-passenger-begs-escape-police",
-      "published": "Wed, 06 May 2026 19:57:37 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Miami woman allegedly lured man to luxury condo via Instagram, then robbed him with 2 accomplices",
-      "description": "Nicole Cano, 30, allegedly lured a man to her Miami condo via Instagram for drinks, then robbed him with two other women, police say. She has denied the charges.",
-      "url": "https://www.foxnews.com/us/miami-woman-allegedly-lured-man-luxury-condo-via-instagram-robbed-2-accomplices",
-      "published": "Wed, 06 May 2026 19:42:11 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
