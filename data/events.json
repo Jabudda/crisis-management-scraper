@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T09:35:19.823426Z",
-  "event_count": 218,
+  "last_updated": "2026-05-09T10:25:43.840150Z",
+  "event_count": 219,
   "events": [
     {
       "title": "China fireworks factory explosion: Video captures devastating aftermath of blast that left at least 26 dead",
@@ -33,16 +33,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Middle East war back on? UAE responds to fresh attacks, US and Iran trade fire",
-      "description": "The United Arab Emirates says it's responded to fresh missile and drone attacks by Iran this Friday. The strikes come hours after the US says three of its navy destroyers in the Strait of Hormuz were targeted. President Donald Trump ordered retaliatory strikes - but then downplayed the hostilities and said the ceasefire still stands. Analysis by Douglas Herbert, FRANCE 24 international affairs commentator.",
-      "url": "https://www.france24.com/en/middle-east-war-back-on-uae-responds-to-fresh-attacks-us-and-iran-trade-fire",
-      "published": "Fri, 08 May 2026 15:28:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Three suspected narco-terrorists killed in US military strike on drug-trafficking vessel in Eastern Pacific",
       "description": "SOUTHCOM said Tuesday that the U.S. military carried out a lethal strike on a vessel in the Eastern Pacific, killing three suspected narco-terrorists on a drug-trafficking route.",
       "url": "https://www.foxnews.com/world/three-suspected-narco-terrorists-killed-us-military-strike-drug-trafficking-vessel-eastern-pacific",
@@ -50,6 +40,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: Israel launches strikes on south Lebanon after warning residents to evacuate",
+      "description": "The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. Follow our liveblog for all the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
+      "published": "Sat, 09 May 2026 05:49:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -118,6 +118,16 @@
       "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
       "published": "Tue, 05 May 2026 01:52:50 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The death toll from an explosion at a fireworks plant in China rises to 37",
+      "description": "The death toll from an explosion at a fireworks plant this week in central China has risen to 37, state media reported",
+      "url": "https://abcnews.com/International/wireStory/death-toll-explosion-fireworks-plant-china-rises-37-132771966",
+      "published": "Fri, 08 May 2026 04:02:02 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -233,16 +243,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Libya’s largest oil refinery halts operations during fighting",
-      "description": "Zawiya refinery shut down in 'precautionary measure' as emergency declared following explosions and gunfire nearby.",
-      "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
-      "published": "Fri, 08 May 2026 18:47:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Canadian high school where deadly mass shooting occurred to be torn down",
       "description": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The decision to demolish the Tumbler Ridge secondary school came after meetings between the school board and survivors, family and community members, said the British Columbia premier, David Eby. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
@@ -303,16 +303,6 @@
       "severity_level": "High"
     },
     {
-      "title": "What Russia’s low‑key Victory Day celebrations reveal about Putin and war in Ukraine",
-      "description": "A three-day ceasefire between Russia and Ukraine, announced by U.S. President Donald Trump, has eased tensions over a potential Ukrainian attack on a Red Square parade in Moscow",
-      "url": "https://abcnews.com/International/wireStory/russias-wwii-victory-celebrations-muted-year-ukraine-war-132774275",
-      "published": "Fri, 08 May 2026 16:53:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Three hikers killed after climbing restricted Indonesian volcano to create online content, police say",
       "description": "Mount Dukono eruption in Indonesia kills three hikers, including two Singaporeans, who authorities say entered a restricted zone despite warnings.",
       "url": "https://www.foxnews.com/world/three-hikers-killed-climbing-restricted-indonesian-volcano-create-online-content-police-say",
@@ -320,16 +310,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russia holds downsized Victory Day parade",
-      "description": "Putin is set to speak at the World War II commemoration, which is scaled back this year due to security concerns.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
-      "published": "Sat, 09 May 2026 08:07:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -403,11 +383,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Moscow marks Victory Day with a Red Square parade under tight security",
-      "description": "Russian President Vladimir Putin is overseeing a military parade commemorating the defeat of Nazi Germany in World War II on Red Square",
-      "url": "https://abcnews.com/International/wireStory/moscow-set-mark-victory-day-red-square-parade-132805171",
-      "published": "Sat, 09 May 2026 04:34:06 -0400",
-      "source": "ABC News International",
+      "title": "Russia holds downsized Victory Day parade",
+      "description": "Putin invoked the Soviet victory in World War II to rally his army in Ukraine, saying 'our heroes move forward'.",
+      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
+      "published": "Sat, 09 May 2026 08:07:57 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -483,16 +463,6 @@
       "severity_level": "High"
     },
     {
-      "title": "An Iranian museum holds a rare exhibit of American art, reflecting on war",
-      "description": "One of Iran's top museums is holding a rare exhibit of American artists, drawing art lovers at a time when the two countries are locked in conflict",
-      "url": "https://abcnews.com/International/wireStory/iranian-museum-holds-rare-exhibit-american-art-reflecting-132785568",
-      "published": "Fri, 08 May 2026 12:32:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Car plows into pedestrian zone killing 2 as police detain driver and investigate motive",
       "description": "Two people were killed and several others seriously injured after a car drove into a pedestrian zone in Leipzig, Germany. Police detained a 33-year-old suspect as officials investigate the cause.",
       "url": "https://www.foxnews.com/world/car-plows-pedestrian-zone-killing-2-police-detain-driver-investigate-motive",
@@ -528,6 +498,16 @@
       "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
       "published": "Fri, 08 May 2026 06:44:36 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "3 Australian women back from Syria face slavery, terror charges over alleged IS links",
+      "description": "Three women have been refused bail when they appeared in courts charged with slavery and terrorism offenses after they arrived home from Syria with another 10 Australians who police say are linked to the Islamic State group",
+      "url": "https://abcnews.com/International/wireStory/3-australian-women-back-syria-face-slavery-terrorism-132769725",
+      "published": "Fri, 08 May 2026 03:24:16 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -608,6 +588,26 @@
       "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman",
       "published": "Fri, 08 May 2026 18:22:19 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Two killed in latest US strike on alleged drug trafficking boat",
+      "description": "Two men have been killed after the US military struck an alleged drug trafficking boat in the Pacific Ocean.",
+      "url": "https://news.sky.com/story/two-killed-in-latest-us-strike-on-alleged-drug-trafficking-boat-in-pacific-13541796",
+      "published": "Sat, 09 May 2026 08:13:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "UAE says its air defenses are intercepting drone and missile fire",
+      "description": "United Arab Emirates says its air defenses are intercepting drone and missile fire as Iran war’s ceasefire challenged",
+      "url": "https://abcnews.com/International/wireStory/united-arab-emirates-air-defenses-intercepting-drone-missile-132769829",
+      "published": "Fri, 08 May 2026 00:43:12 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -723,6 +723,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "World Cup 2026: How US football has evolved since hosting in 1994",
+      "description": "In the 32 years since last hosting the World Cup, football has moved from the margins to the mainstream in the US.",
+      "url": "https://www.aljazeera.com/sports/2026/5/9/world-cup-2026-how-united-states-football-has-evolved-since-1994-hosting?traffic_source=rss",
+      "published": "Sat, 09 May 2026 09:46:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
       "description": "Protesters in Tenerife are voicing opposition to the imminent arrival of a cruise ship hit by hantavirus outbreak",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
@@ -783,11 +793,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Dozens of artists bring new life to former ironworks on UNESCO's world heritage list",
-      "description": "Dozens of urban artists from 17 countries have converged on one of Europe’s most important industrial landmarks for a show that takes advantage of the former ironworks’ sprawling spaces and aura of abandonment",
-      "url": "https://abcnews.com/International/wireStory/dozens-artists-bring-new-life-gigantic-former-ironworks-132805720",
-      "published": "Sat, 09 May 2026 04:36:40 -0400",
-      "source": "ABC News International",
+      "title": "Jordan sees collapse in tourism since Iran war",
+      "description": "Since the Middle East war erupted in late February, Jordan's ancient city of Petra has been all but abandoned by the usual crowds of tourists that flock to the site every year.",
+      "url": "https://www.france24.com/en/jordan-sees-collapse-in-tourism-since-iran-war",
+      "published": "Sat, 09 May 2026 10:24:19 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -893,16 +903,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Four convicted in US related to killing of Haitian President Jovenel Moise",
-      "description": "Prosecutors charge Florida served as central hub in 2021 assassination of Moise, which set off ongoing political crisis.",
-      "url": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss",
-      "published": "Fri, 08 May 2026 18:22:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -983,20 +983,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Putin says army fighting 'aggressive' NATO-supported force in Victory Parade speech",
-      "description": "Russian President Vladimir Putin said Saturday that Russian troops in Ukraine were fighting an \"aggressive force\" backed by all of NATO and described his war goals as \"just\", in a combative speech during the annual Victory Day parade on Red Square.",
+      "title": "Russia is fighting an 'aggressive' NATO-backed force, Putin says in Victory Day speech",
+      "description": "Russian President Vladimir Putin said Saturday that Russian troops in Ukraine were fighting an \"aggressive force\" backed by all of NATO and described his war goals as \"just\" in a combative speech during the annual Victory Day parade on Red Square.",
       "url": "https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security",
       "published": "Sat, 09 May 2026 05:28:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pentagon releases first batch of ‘top secret’ UFO files",
-      "description": "The Pentagon on Friday released decades of previously classified UFO sightings recorded by the FBI and NASA and other federal agencies. At least two of the more than 160 documents date back to the 1940s and report sightings of flying \"discs” and “saucers”.",
-      "url": "https://www.france24.com/en/americas/20260508-pentagon-releases-decades-of-top-secret-ufo-files",
-      "published": "Fri, 08 May 2026 15:21:17 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1013,10 +1003,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Surfers in war-torn Gaza find rare moments of joy taking to the waves",
-      "description": "Despite the dire situation in Gaza, a few surfers find joy riding the waves",
-      "url": "https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445",
-      "published": "Sat, 09 May 2026 02:42:20 -0400",
+      "title": "Volcanic eruption on a remote Indonesian island kills 3 hikers",
+      "description": "A volcanic eruption on a remote Indonesian island has killed three hikers",
+      "url": "https://abcnews.com/International/wireStory/3-hikers-killed-volcano-eruption-indonesian-island-132773620",
+      "published": "Fri, 08 May 2026 16:53:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1027,6 +1017,16 @@
       "description": "China says exports have risen 14.1% in April from a year earlier, despite the Iran war and lingering impacts from higher U.S. tariffs",
       "url": "https://abcnews.com/International/wireStory/china-april-exports-jump-141-year-ago-ahead-132804345",
       "published": "Sat, 09 May 2026 02:33:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Surfers in war-torn Gaza find rare moments of joy taking to the waves",
+      "description": "Despite the dire situation in Gaza, a few surfers find joy riding the waves",
+      "url": "https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445",
+      "published": "Sat, 09 May 2026 02:42:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1047,26 +1047,6 @@
       "description": "Police say a bomb has exploded at the party headquarters of Dutch Prime Minister Rob Jetten, but no one was injured",
       "url": "https://abcnews.com/International/wireStory/bomb-explodes-dutch-premiers-party-headquarters-injured-132783515",
       "published": "Fri, 08 May 2026 16:48:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Police free 2 people after hostage alarm at German bank but find no perpetrators",
-      "description": "Police in Germany have rescued two people from a locked room in a bank after being called to respond to a hostage situation",
-      "url": "https://abcnews.com/International/wireStory/police-called-hostage-situation-bank-western-germany-132774604",
-      "published": "Fri, 08 May 2026 16:52:46 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Volcanic eruption on a remote Indonesian island kills 3 hikers",
-      "description": "A volcanic eruption on a remote Indonesian island has killed three hikers",
-      "url": "https://abcnews.com/International/wireStory/3-hikers-killed-volcano-eruption-indonesian-island-132773620",
-      "published": "Fri, 08 May 2026 16:53:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1183,6 +1163,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "One Nation wins Farrer byelection as Coalition vote collapses",
+      "description": "David Farley wins One Nation’s first lower house seat, convincingly beating independent Michelle Milthorpe in seat vacated by former Liberal leader Sussan Ley Get our breaking news email , free app or daily news podcast One Nation won its first ever lower house victory on Saturday night, with Pauline Hanson’s insurgent party easily winning the Farrer byelection amid a collapse in the Coalition vote. Irrigator David Farley soundly beat independent Michelle Milthorpe in the closely watched race, translating for the first time One Nation’s dramatic rise in public support since last year’s federal election to a clear result in parliament. The loss of the previously Liberal seat will further weaken Angus Taylor’s depleted party. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition",
+      "published": "Sat, 09 May 2026 10:09:40 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "David Pocock applauds $387m in extra funding for CSIRO after tens of thousands sign petition",
       "description": "Analysis commissioned by independent senator found national science agency’s funding is at its lowest since 1978 Get our breaking news email , free app or daily news podcast The Albanese government will boost funding to CSIRO by $387.4m in a bid to meet the long-term costs of the national science agency. It follows months of advocacy by scientists and staff after hundreds of job cuts and cost-cutting measures. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/09/david-pocock-applauds-3874m-in-extra-funding-for-csiro-after-tens-of-thousands-sign-petition",
@@ -1213,6 +1203,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany news: Surf's up again in Munich!",
+      "description": "The Bavarian capital Munich has long been an unlikely travel hotspot for surfers, and the Eisbach wave is open once again. Meanwhile, Germany is about to use all the resources it should have for 2026. DW has the latest.",
+      "url": "https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 9 May 2026 10:10:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Germany's sugar tax sparks 'nanny state' debate",
       "description": "Friedrich Merz's government has agreed to introduce a sugar levy on soft drinks as part of its health care reforms. Critics have called it disproportionate interference, but dozens of countries already have such a levy.",
       "url": "https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-all-1573-xml-mrss",
@@ -1228,16 +1228,6 @@
       "url": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 8 May 2026 11:44:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Live: Oil spill detected off Kharg Island in the Persian Gulf",
-      "description": "Satellite images show a large oil spill spreading off Iran’s Kharg Island, a critical oil hub terminal for the Islamic republic. The apparent spill has raised concerns about the state of Iranian oil infrastructure as it faces mounting strain from a US-imposed naval blockade.",
-      "url": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
-      "published": "Sat, 09 May 2026 05:49:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1403,6 +1393,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Rubio presses Europe on Iran action as he seeks to mend ties with Italy and Vatican",
+      "description": "U.S. Secretary of State Marco Rubio has urged European allies to move beyond rhetoric and take concrete action against Iran, even as he sought to repair strained ties with Italy and the Vatican",
+      "url": "https://abcnews.com/International/wireStory/rubio-set-meet-italys-meloni-sides-seek-ease-132772377",
+      "published": "Fri, 08 May 2026 16:56:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Countries make progress on migration pact, but more work remains",
       "description": "What do more than half of all doctors in Australia, over 40 per cent of Nobel laureates from the United States, and most of the workforce in some Gulf States have in common?",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167459",
@@ -1458,6 +1458,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Hungary’s Magyar set to be sworn in as new prime minister",
+      "description": "Hungary's incoming prime minister, Peter Magyar, arrived Saturday at the Parliament building to be sworn into office, ending Viktor Orban's autocratic 16-year rule. RFI Correspondent Florence Le Bruyère reports from Budapest.",
+      "url": "https://www.france24.com/en/hungary-s-magyar-set-to-be-sworn-in-as-new-prime-minister",
+      "published": "Sat, 09 May 2026 10:04:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1564,7 +1574,7 @@
     },
     {
       "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena.",
+      "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
       "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 08 May 2026 22:04:55 GMT",
       "source": "BBC News",
@@ -1618,6 +1628,16 @@
       "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 08 May 2026 02:57:48 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Scaled-back Victory Day parade held in Moscow",
+      "description": "Russia marks downsized Victory Day parade as Putin pledges victory in Ukraine 'special military operation'.",
+      "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss",
+      "published": "Sat, 09 May 2026 10:04:45 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1823,16 +1843,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Rebel Wilson is a ‘fantastical liar’ who ‘made up terrible allegations against multiple people’, court told",
-      "description": "Barrister for actor Charlotte MacInnes, who is suing the Pitch Perfect star for defamation, also accused Wilson of ‘a complete revision of history’. Wilson has rejected defamation claims Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Rebel Wilson has been accused in court of being a liar who made up terrible claims about her colleagues and completely rewrote history. The Pitch Perfect star copped the blunt assessment in the dying hours of a fiery defamation battle where she is being sued by Charlotte MacInnes, the lead actor in musical comedy The Deb which Wilson directed, co-produced and starred in. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/may/08/rebel-wilson-fantastical-liar-court-told-defamation-case-ntwnfb",
-      "published": "Fri, 08 May 2026 06:06:25 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Colombia's rogue hippos could find refuge in India",
       "description": "In Colombia, a plan to cull Pablo Escobar's invasive hippos is challenged by an Indian billionaire's offer to relocate dozens of the animals to India's wildlife reserve instead.",
       "url": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india",
@@ -1903,16 +1913,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why Russia has scaled back May 9 Victory Parade",
-      "description": "This year's May 9 military parades in Moscow will be much more modest and have been canceled altogether in other parts of Russia. The Kremlin has blamed Ukraine.",
-      "url": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 8 May 2026 10:43:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Pentagon releases new files on UFOs",
       "description": "Bright lights and mysterious objects, those are what could be found in a new batch of files on UFOs that the Pentagon began releasing on Friday as President Donald Trump taps into the public's long-held curiosities about \"unidentified anomalous phenomena” in the broader universe.",
       "url": "https://www.france24.com/en/pentagon-releases-new-files-on-ufos",
@@ -1933,8 +1933,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Magyar set to become Hungary’s new prime minister in historic transition",
-      "description": "Hungary’s parliament was set to swear in pro-European conservative Peter Magyar as prime minister on Saturday, marking the end of Viktor Orban’s 16 years in power after the opposition leader won a landslide election victory on promises to tackle corruption and restore democratic institutions.",
+      "title": "Magyar sworn in as prime minister as Hungary turns the page on Orban",
+      "description": "Hungary’s parliament was set to swear in opposition leader Peter Magyar as prime minister on Saturday, marking the end of Viktor Orban’s 16 years in power after the pro-European conservative challenger won a landslide election victory on promises to tackle corruption and restore democratic institutions.",
       "url": "https://www.france24.com/en/europe/20260509-magyar-set-to-become-hungary-s-new-prime-minister-in-historic-transition",
       "published": "Sat, 09 May 2026 05:19:15 GMT",
       "source": "France24",
@@ -1993,36 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Hungary’s Péter Magyar set to be sworn in as PM, ending Orbán’s 16-year rule",
-      "description": "Hungary's incoming prime minister, Péter Magyar, has arrived at the parliament building to be sworn into office, ending Viktor Orbán's autocratic 16-year rule",
-      "url": "https://abcnews.com/International/wireStory/hungarys-pter-magyar-set-sworn-prime-minister-ending-132806579",
-      "published": "Sat, 09 May 2026 05:03:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics",
-      "description": "The Vatican is sending new signals about how it intends to minister to LGBTQ+ Catholics in the Pope Leo XIV era",
-      "url": "https://abcnews.com/International/wireStory/vatican-sending-new-signals-openness-limitations-outreach-lgbtq-132805265",
-      "published": "Sat, 09 May 2026 01:46:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump's deal making with Xi next week may determine Hong Kong jailed activist Jimmy Lai's fate",
-      "description": "As Donald Trump's meeting with his Chinese counterpart Xi Jinping approaches, the family of Hong Kong's jailed activist Jimmy Lai is hopeful that the U.S. President could help free their father",
-      "url": "https://abcnews.com/International/wireStory/trumps-deal-making-xi-week-determine-hong-kong-132804536",
-      "published": "Sat, 09 May 2026 04:50:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Fuel shortages and high prices push adoption of EVs in Africa, led by Ethiopia",
       "description": "Use of electric vehicles in Africa is surging, led by Ethiopia, as soaring prices and fuel shortages compel countries to opt for cleaner and cheaper transport",
       "url": "https://abcnews.com/International/wireStory/fuel-shortages-high-prices-push-adoption-evs-africa-132803856",
@@ -2033,10 +2003,50 @@
       "severity_level": "Low"
     },
     {
+      "title": "Hungary’s Péter Magyar set to be sworn in as PM, ending Orbán’s 16-year rule",
+      "description": "Hungary's incoming prime minister, Péter Magyar, has arrived at the parliament building to be sworn into office, ending Viktor Orbán's autocratic 16-year rule",
+      "url": "https://abcnews.com/International/wireStory/hungarys-pter-magyar-set-sworn-prime-minister-ending-132806579",
+      "published": "Sat, 09 May 2026 05:03:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Hungary's incoming PM plans a 'regime-change celebration' to mark Orbán's departure",
+      "description": "Péter Magyar takes office as Hungary's prime minister on Saturday, ending Viktor Orbán's 16-year rule",
+      "url": "https://abcnews.com/International/wireStory/hungarys-incoming-prime-minister-plans-regime-change-celebration-132771046",
+      "published": "Fri, 08 May 2026 03:19:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Laura Fernández sworn in as Costa Rica president, keeping outgoing president in 2 high-profile posts",
       "description": "Laura Fernández has been sworn in as Costa Rica's president, with outgoing President Rodrigo Chaves serving as her minister of the presidency and minister of finance",
       "url": "https://abcnews.com/International/wireStory/laura-fernndez-sworn-costa-rica-president-keeping-outgoing-132792395",
       "published": "Fri, 08 May 2026 16:29:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Elaborately decorated skeletons in Catholic churches across Bavaria take some visitors by surprise",
+      "description": "Four skeletons, known as catacomb saints or Holy Bodies, have been on display for centuries at the Catholic monastery church of Banz in southern Germany",
+      "url": "https://abcnews.com/International/wireStory/elaborately-decorated-skeletons-catholic-churches-bavaria-visitors-surprise-132771130",
+      "published": "Fri, 08 May 2026 06:57:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics",
+      "description": "The Vatican is sending new signals about how it intends to minister to LGBTQ+ Catholics in the Pope Leo XIV era",
+      "url": "https://abcnews.com/International/wireStory/vatican-sending-new-signals-openness-limitations-outreach-lgbtq-132805265",
+      "published": "Sat, 09 May 2026 01:46:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2088,6 +2098,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167455",
       "published": "Wed, 06 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Nancy Guthrie case: Sheriff Nanos says 'we are' closer to solving 84-year-old's abduction",
+      "description": "Sheriff says task force is making progress in the suspected abduction of Nancy Guthrie, the 84-year-old mother of Savannah Guthrie, from her home.",
+      "url": "https://www.foxnews.com/us/nancy-guthrie-case-sheriff-nanos-says-closer-solving-84-year-olds-abduction",
+      "published": "Sat, 09 May 2026 06:00:25 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2157,16 +2177,6 @@
       "description": "Illegal immigrant facing 30 charges in Indiana serial rape case was previously convicted of multiple crimes and released, according to DHS records.",
       "url": "https://www.foxnews.com/us/illegal-immigrant-charged-decade-long-serial-rape-case-rap-sheet-arrested-twice-ice",
       "published": "Fri, 08 May 2026 12:57:47 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Teens 'overwhelmed' New Jersey carnival, sparking fights and forcing police to shut it down: officials",
-      "description": "Unsupervised juveniles overwhelmed a Maple Shade, New Jersey, carnival, causing fights and prompting police to close the event and charge several teens.",
-      "url": "https://www.foxnews.com/us/teens-overwhelmed-new-jersey-carnival-sparking-fights-forcing-police-shut-officials",
-      "published": "Fri, 08 May 2026 11:57:34 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
