@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T16:49:09.101934Z",
+  "last_updated": "2026-05-10T17:23:08.843309Z",
   "event_count": 220,
   "events": [
     {
@@ -120,16 +120,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "More than 70 civilians killed in Ukraine in less than a week",
-      "description": "At least 70 civilians have been killed and more than 500 injured across Ukraine since the start of May, UN human rights monitors said on Wednesday, as waves of attacks hit cities across the country and humanitarian workers struggled to reach communities near the frontline.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167454",
-      "published": "Wed, 06 May 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -733,6 +723,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
+      "description": "Syria's judiciary has charged Atef Najib with acts \"amounting to war crimes\" as Bashar Assad's cousin is accused of orchestrating a crackdown on 2011 protests that subsequently degenerated into a decade of civil war.",
+      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 17:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Ukraine and Russia accuse each other of breaking ceasefire",
       "description": "Ukraine and Russia have accused each other of breaking a US-brokered ceasefire between the warring nations.",
       "url": "https://news.sky.com/story/ukraine-and-russia-accuse-each-other-of-breaking-ceasefire-13542242",
@@ -1016,7 +1016,7 @@
       "title": "Iran sends response to US proposals to end war",
       "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 16:46:09 GMT",
+      "published": "Sun, 10 May 2026 17:20:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1248,6 +1248,16 @@
       "url": "https://abcnews.com/International/wireStory/press-freedom-alarm-niger-suspends-9-french-media-132814800",
       "published": "Sun, 10 May 2026 00:50:02 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "First Person: Surviving death row in Thailand",
+      "description": "A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking – including eight on death row – has told the UN how learning to sew helped her find meaning in life behind bars, and a job when she was released.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167466",
+      "published": "Sun, 10 May 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1643,10 +1653,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "What to know about British elections that hammered Starmer's Labour Party",
-      "description": "British Prime Minister Keir Starmer is pledging to revive his struggling government amid calls to resign after disastrous local elections for his Labour Party",
-      "url": "https://abcnews.com/International/wireStory/british-elections-hammered-starmers-labour-party-132807038",
-      "published": "Sat, 09 May 2026 13:22:04 -0400",
+      "title": "Britain's Starmer fights for his job as calls for his ouster grow",
+      "description": "British Prime Minister Keir Starmer is fighting for his job after poor local election results for his Labour Party",
+      "url": "https://abcnews.com/International/wireStory/britains-starmer-fights-job-calls-ouster-grow-after-132828863",
+      "published": "Sun, 10 May 2026 13:19:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1967,16 +1977,6 @@
       "description": "The far-right populist One Nation party has won its first seat in Australia's House of Representatives.",
       "url": "https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 9 May 2026 13:03:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany news: Berlin advances Tomahawk, submarine deals",
-      "description": "Germany is reviving its bid for US Tomahawk missiles, according to the Financial Times. Meanwhile, Vice Chancellor Lars Klingbeil is in Canada to strengthen ties, including a possible submarine deal. DW has the latest.",
-      "url": "https://www.dw.com/en/germany-news-berlin-advances-tomahawk-submarine-deals/live-77103139?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 9 May 2026 10:10:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
