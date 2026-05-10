@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:34:30.373288Z",
+  "last_updated": "2026-05-10T11:23:14.554921Z",
   "event_count": 220,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran warns of retaliation as US tensions threaten fragile peace talks",
+      "description": "Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear limits, and maritime security.",
+      "url": "https://www.france24.com/en/video/20260510-iran-war",
+      "published": "Sun, 10 May 2026 10:50:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -130,6 +140,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "International evacuation underway as cruise ship passengers return home",
+      "description": "Spanish passengers and crew from the quarantined ship have begun disembarking as an international evacuation effort unfolds in the Canary Islands. Authorities say strict health protocols are in place, while officials and experts stress the virus poses far less risk than COVID-19 despite growing public concern. FRANCE 24's Sarah Morris reports.",
+      "url": "https://www.france24.com/en/video/20260510-cruise-ship-passengers-disembark",
+      "published": "Sun, 10 May 2026 10:49:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -213,6 +233,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Russia accuses Ukraine of violating U.S.-brokered three-day truce",
+      "description": "Russia accused Kyiv of breaking a U.S.-brokered ceasefire on Sunday, while Ukrainian officials said that one person had been killed and more injured by Russian drone and artillery strikes in the past 24 hours",
+      "url": "https://abcnews.com/International/wireStory/russia-accuses-ukraine-violating-us-brokered-day-truce-132823137",
+      "published": "Sun, 10 May 2026 07:13:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
       "description": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
@@ -248,16 +278,6 @@
       "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
       "published": "Fri, 08 May 2026 15:40:07 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Moscow marks Victory Day amid tight security",
-      "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II – a show that didn't include heavy weapons for the first time in nearly two decades. Security was tight in Moscow as Putin and several foreign leaders attended the parade, which was scaled down even as a US-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to disrupt the festivities.",
-      "url": "https://www.france24.com/en/moscow-marks-victory-day-amid-tight-security",
-      "published": "Sat, 09 May 2026 14:20:34 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -341,6 +361,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war: Ceasefire tested by ship fire, drone attack",
+      "description": "Kuwait detected several drones ​in its airspace and a ship was struck off Qatar as the ceasefire between the US and Iran is tested. Follow DW for more.",
+      "url": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 10:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Putin says he thinks Ukraine war is 'coming to an end'",
@@ -463,16 +493,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Journalist found dead in Colombia's conflict zone",
-      "description": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock.",
-      "url": "https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 9 May 2026 03:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Hantavirus-hit cruise ship arrives at Tenerife in Spain's Canary Islands",
       "description": "The cruise ship at the center of a hantavirus outbreak arrived off Tenerife in Spain's Canary Islands, where the passengers and some of the crew will begin disembarking on Sunday, officials said. Nobody among more than 140 people on board the MV Hondius is showing symptoms of the virus, Spanish authorities, the World Health Organization and cruise company Oceanwide Expeditions said. Three people have died since the outbreak, and five passengers who left the ship are infected with hantavirus, which can cause life-threatening illness. The ship will not dock but remain anchored.",
       "url": "https://www.france24.com/en/hantavirus-hit-cruise-ship-arrives-at-tenerife-in-spain-s-canary-islands",
@@ -486,7 +506,7 @@
       "title": "Death toll rises to 14 in Pakistan suicide attack. Taliban splinter group claim blast",
       "description": "Authorities report that the death toll from a suicide attack on a security post in northwest Pakistan has risen to 14 police officers",
       "url": "https://abcnews.com/International/wireStory/death-toll-rises-14-pakistan-suicide-attack-pakistan-132822359",
-      "published": "Sun, 10 May 2026 06:10:03 -0400",
+      "published": "Sun, 10 May 2026 07:06:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -713,6 +733,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Hantavirus: First evacuation flight leaves Tenerife",
+      "description": "Spanish nationals were the first to leave the ship anchored off Tenerife and will be quarantined on arrival in Madrid. Follow DW for more.",
+      "url": "https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 09:58:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Passengers begin disembarking from cruise ship hit by hantavirus",
       "description": "Passengers began disembarking on Sunday from a cruise ship hit by a hantavirus outbreak which was anchored near Tenerife. Three passengers from the MV Hondius have died but health officials stress that the risk to global public health is low.",
       "url": "https://www.france24.com/en/europe/20260510-cruise-ship-hit-by-hantavirus-outbreak-arrives-in-spain-s-canary-islands",
@@ -778,16 +808,6 @@
       "url": "https://news.sky.com/story/two-killed-in-latest-us-strike-on-alleged-drug-trafficking-boat-in-pacific-13541796",
       "published": "Sat, 09 May 2026 08:13:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "British military says ship caught fire after being hit off coast of Qatar",
-      "description": "The shaky ceasefire in the Iran war is being tested again",
-      "url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166",
-      "published": "Sun, 10 May 2026 06:09:56 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -933,16 +953,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Spanish passengers begin evacuating hantavirus-hit cruise ship, other nationalities to follow",
-      "description": "Spanish passengers began arriving on shore from the cruise ship hit by a hantavirus outbreak which anchored near Tenerife in the Canary Islands early on Sunday morning, with groups of nationals from other ​countries to follow. Follow our live blog for all the latest updates.",
-      "url": "https://www.france24.com/en/europe/20260510-live-spanish-passengers-begin-evacuating-ship-hit-by-hantavirus",
-      "published": "Sun, 10 May 2026 09:47:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Two police officers shot, suspect 'actively firing at police' in Syracuse standoff lasting hours: report",
       "description": "Two police officers were shot and a third injured in Syracuse as authorities report an active shooter situation with residents urged to shelter in place.",
       "url": "https://www.foxnews.com/us/two-police-officers-shot-suspect-actively-firing-police-syracuse-standoff-lasting-hours-report",
@@ -1038,26 +1048,6 @@
       "url": "https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened",
       "published": "Fri, 08 May 2026 16:30:29 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mexico to shorten school year due to World Cup, summer heat",
-      "description": "Mexican authorities announced a decision to end the academic year earlier than planned because of the World Cup and a heat wave. But the decision sparked backlash from parents' groups and teachers.",
-      "url": "https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 9 May 2026 02:49:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "French world heritage site Chateau de Chambord in danger",
-      "description": "It is one of France's most beautiful and most embattled castles. The Chateau de Chambord in central France is crumbling. The renaissance structure is rife with holes, cracks and moisture. Renovation works are underway in the Francois I Wing but the massive project to restore the chateau is estimated to cost €37 million.",
-      "url": "https://www.france24.com/en/2026-05-09-12-16-a-week-in-france-0905",
-      "published": "Sat, 09 May 2026 14:37:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1363,11 +1353,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hungary’s Péter Magyar set to be sworn in as PM, ending Orbán’s 16-year rule",
-      "description": "Hungary's Péter Magyar has taken his oath of office to become the country's new prime minister, ending Viktor Orbán’s autocratic 16-year rule",
-      "url": "https://abcnews.com/International/wireStory/hungarys-pter-magyar-set-sworn-prime-minister-ending-132806579",
-      "published": "Sat, 09 May 2026 16:17:56 -0400",
-      "source": "ABC News International",
+      "title": "Live: First plane with passengers from hantavirus-hit cruise ship departs for Madrid",
+      "description": "The first plane carrying passengers evacuated from the hantavirus-hit MV Hondius cruise ship has departed Tenerife for a hospital in Madrid. Spanish passengers began arriving on shore on Sunday morning, with nationals from other ​countries to follow. Follow our live blog for all the latest updates.",
+      "url": "https://www.france24.com/en/europe/20260510-live-spanish-passengers-begin-evacuating-ship-hit-by-hantavirus",
+      "published": "Sun, 10 May 2026 09:47:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1386,7 +1376,7 @@
       "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
       "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 10:01:58 GMT",
+      "published": "Sun, 10 May 2026 10:57:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1407,16 +1397,6 @@
       "description": "AJ's Defence Editor breaks down the latest threat to Mali’s government and the rapid retreat of Russian forces there",
       "url": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
       "published": "Sun, 10 May 2026 08:32:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Cruise ship hit by hantavirus outbreak arrives in Tenerife",
-      "description": "Hantavirus is usually spread by rodents but can in rare cases be transmitted person to person.",
-      "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
-      "published": "Sun, 10 May 2026 06:48:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1488,6 +1468,16 @@
       "url": "https://www.france24.com/en/health/20260509-european-nations-dispatch-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship",
       "published": "Sat, 09 May 2026 16:01:23 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "British military says ship caught fire after being hit off coast of Qatar",
+      "description": "The United Arab Emirates says it intercepted two Iranian drones in its airspace in the latest test of a shaky ceasefire",
+      "url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166",
+      "published": "Sun, 10 May 2026 07:06:07 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1743,6 +1733,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Passengers from hantavirus-hit cruise ship disembarking in Canary Islands",
+      "description": "Hantavirus is usually spread by rodents, but in rare cases it can be transmitted from person to person.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
+      "published": "Sun, 10 May 2026 06:48:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Strickland delivers first defeat to Chimaev on split decision at UFC 328",
       "description": "Sean Strickland won 48–47, 48–47 and 47–48 against Khamzat Chimaev in a fight that failed to live up to its hype.",
       "url": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
@@ -1893,10 +1893,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Hantavirus: Passengers evacuate off MV Hondius in Tenerife",
-      "description": "Germany and the US are among the countries sending aircraft to fly their citizens home. The ship anchored at a port in Tenerife.",
-      "url": "https://www.dw.com/en/hantavirus-passengers-evacuate-off-mv-hondius-in-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 10 May 2026 09:58:00 GMT",
+      "title": "'No comment' after Schröder named by Putin for Ukraine talks",
+      "description": "The former German chancellor has been linked to an EU mediator role in Russia-Ukraine peace talks.",
+      "url": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 11:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
