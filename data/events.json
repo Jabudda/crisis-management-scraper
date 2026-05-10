@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T06:04:21.910714Z",
+  "last_updated": "2026-05-10T07:20:31.309807Z",
   "event_count": 220,
   "events": [
     {
@@ -108,6 +108,16 @@
       "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
       "published": "Thu, 07 May 2026 01:53:51 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Dozens killed in jihadist attacks in central Mali",
+      "description": "Jihadist fighters launched a fresh wave of deadly attacks in central Mali that killed dozens of people, local and security sources said on Saturday. One local official said the latest attacks brought the death toll to more than 70 in recent days, as Islamist armed groups intensify assaults on villages across the region.",
+      "url": "https://www.france24.com/en/africa/20260510-dozens-killed-in-jihadist-attacks-in-central-mali",
+      "published": "Sun, 10 May 2026 06:02:45 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -473,6 +483,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Death toll rises to 14 in Pakistan suicide attack. Taliban splinter group claim blast",
+      "description": "Authorities report that the death toll from a suicide attack on a security post in northwest Pakistan has risen to 14 police officers",
+      "url": "https://abcnews.com/International/wireStory/death-toll-rises-14-pakistan-suicide-attack-pakistan-132822359",
+      "published": "Sun, 10 May 2026 02:34:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Lebanon: Fresh strike on Beirut suburbs ‘a very alarming development’",
       "description": "An Israeli airstrike overnight on the southern suburbs of the Lebanese capital Beirut has sparked a new wave of displacement among civilians already impacted by months of conflict, the United Nations said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167460",
@@ -494,7 +514,7 @@
     },
     {
       "title": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title",
-      "description": "Daniel Dubois recovered from two knockdowns to win a second world heavyweight title with a stoppage of Fabio Wardley.",
+      "description": "Daniel Dubois recovered from two knockdowns to win a second World Heavyweight title with a stoppage of Fabio Wardley.",
       "url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
       "published": "Sun, 10 May 2026 05:44:42 +0000",
       "source": "Al Jazeera",
@@ -523,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Data centers: Tech boom with downsides",
+      "description": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. The Iran war has shown how vulnerable societies are as a result.",
+      "url": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 06:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Rwanda-backed rebels accuse the US of falling short as a peace mediator in Congo's conflict",
       "description": "Rebels in Congo say the United States has fallen short as a mediator in efforts to end the conflict in the African country’s mineral-rich east",
       "url": "https://abcnews.com/International/wireStory/rwanda-backed-rebels-accuse-us-falling-short-peace-132814895",
@@ -537,16 +567,6 @@
       "description": "Indonesian police have arrested 321 foreign nationals in a raid on an alleged online gambling operation in the country’s capital",
       "url": "https://abcnews.com/International/wireStory/indonesian-police-arrest-321-foreigners-operation-crack-banned-132814333",
       "published": "Sat, 09 May 2026 21:45:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Moscow marks Victory Day with a scaled down Red Square parade under tight security",
-      "description": "Russian President Vladimir Putin has expressed confidence in a victory in Ukraine during a military parade in Moscow marking the defeat of Nazi Germany in World War II",
-      "url": "https://abcnews.com/International/wireStory/moscow-set-mark-victory-day-red-square-parade-132805171",
-      "published": "Sat, 09 May 2026 18:49:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
@@ -833,6 +853,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Pakistan: Car bomb attack at checkpoint kills 12",
+      "description": "Images from the scene showed that the checkpoint structure had been reduced to rubble. Bricks, charred wreckage, and mangled automibiles were scattered int he area.",
+      "url": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-12/a-77108185?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 06:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: Iran's Guards threaten US sites in the region if its tankers come under fire",
+      "description": "Iran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian media reported on Saturday, as Washington continued to wait for Tehran’s response to its latest proposal for a peace deal. Follow our live blog for all the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire",
+      "published": "Sun, 10 May 2026 06:50:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
       "description": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct plea for calm and solidarity to the citizens of Tenerife ahead of the scheduled arrival of the MV Hondius on Sunday",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167476",
@@ -863,10 +903,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Police investigate alleged antisemitic abuse at children’s netball game in Sydney",
-      "description": "NSW police called to incident in Maroubra amid reports of offensive comments made at under-12s game Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police are investigating an alleged antisemitic comment made at a children’s netball game involving a Jewish-led team in Sydney. New South Wales police said it was called to netball courts at Heffron Park in Maroubra just after 10am on Saturday, after reports a woman had made offensive comments towards a group of people at an under-12s game between the Maccabi and Saints netball clubs. Continue reading...",
+      "title": "Woman charged after alleged antisemitic abuse at children’s netball game in Sydney",
+      "description": "NSW police called to incident in Maroubra amid reports of offensive comments made at under-12s game Get our breaking news email , free app or daily news podcast A woman has been charged with using offensive language after alleged antisemitic comments were made at a children’s netball involving a Jewish-led team in Sydney. New South Wales police said it was called to netball courts at Heffron Park in Maroubra just after 10am on Saturday, after reports a woman had made offensive comments towards a group of people at an under-12s game between the Maccabi and Saints netball clubs. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/10/police-investigate-alleged-antisemitic-abuse-at-childrens-netball-game-in-sydney-ntwnfb",
-      "published": "Sun, 10 May 2026 02:02:05 GMT",
+      "published": "Sun, 10 May 2026 06:27:19 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
@@ -904,7 +944,7 @@
     },
     {
       "title": "How could extreme weather affect World Cup 2026?",
-      "description": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
+      "description": "With almost a month to go until the start of the World Cup, Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
       "url": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 10 May 2026 02:56:30 GMT",
       "source": "BBC News",
@@ -1073,16 +1113,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tucker Carlson’s pivot",
-      "description": "From MAGA loyalist to antiwar dissident - is Tucker Carlson’s pivot sincere or a savvy reinvention?",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
-      "published": "Sat, 09 May 2026 18:01:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1143,21 +1173,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hantavirus-hit cruise ship heads for Canary Islands to evacuate passengers",
-      "description": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands, where health officials have said they will perform careful evacuations. The vessel is expected to arrive Sunday at the Spanish island of Tenerife, the passengers will then be transported to the airport and flown back to their respective countries.",
-      "url": "https://www.france24.com/en/video/20260509-hantavirus-hit-cruise-ship-heads-for-canary-islands-to-evacuate-passengers",
-      "published": "Sat, 09 May 2026 08:39:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Putin says Ukraine war likely to end soon - despite Ukrainian battlefield gains",
       "description": "President Vladimir Putin has said he believes the Ukraine war is coming to an end.",
       "url": "https://news.sky.com/story/putin-says-ukraine-war-likely-to-end-soon-despite-ukrainian-battlefield-gains-13542111",
       "published": "Sat, 09 May 2026 20:17:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran war disruptions spark higher costs and lost income in Bangladesh",
+      "description": "Tariqul Islam, a ride-share driver in Bangladesh, faces long fuel lines due to supply disruptions linked to the war in Iran",
+      "url": "https://abcnews.com/International/wireStory/iran-war-disruptions-spark-higher-costs-lost-income-132821732",
+      "published": "Sun, 10 May 2026 02:25:26 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1177,16 +1207,6 @@
       "description": "Rescuers on Saturday recovered the body of an Indonesian woman who was caught in a volcanic eruption at Mount Dukono on Indonesia’s remote island of Halmahera a day earlier, as search operations continued to find the bodies of two Singaporeans",
       "url": "https://abcnews.com/International/wireStory/indonesian-rescuers-find-1-body-after-volcano-eruption-132806767",
       "published": "Sat, 09 May 2026 12:25:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Surfers in war-torn Gaza find rare moments of joy taking to the waves",
-      "description": "Despite the dire situation in Gaza, a few surfers find joy riding the waves",
-      "url": "https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445",
-      "published": "Sat, 09 May 2026 02:42:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1216,7 +1236,7 @@
       "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
       "description": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 05:47:12 GMT",
+      "published": "Sun, 10 May 2026 06:42:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 7,
@@ -1393,6 +1413,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Cruise ship hit by hantavirus outbreak arrives in Tenerife",
+      "description": "Hantavirus is usually spread by rodents but can in rare cases be transmitted person to person.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
+      "published": "Sun, 10 May 2026 06:48:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "‘No Kings’ protest outside Buckingham Palace",
       "description": "British anti-royals have staged a ‘No Kings’ protest outside Buckingham Palace in London.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss",
@@ -1453,21 +1483,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
-      "description": "The US president said both sides had agreed to halt fighting from May 9 to 11 and to exchange 1,000 prisoners each. Both Ukraine and Russia confirmed the ceasefire and prisoner exchange. Follow DW for more.",
-      "url": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 8 May 2026 18:24:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "European nations dispatch planes to evacuate citizens from hantavirus-hit cruise ship",
       "description": "Germany, France, Belgium, Ireland, and the Netherlands will send planes to evacuate their citizens aboard the MV Hondius cruise ship ​hit by a deadly hantavirus outbreak, Spain's interior minister said on Saturday, adding that transport will also be arranged by the European Union, the US and the UK for the remaining passengers.",
       "url": "https://www.france24.com/en/health/20260509-european-nations-dispatch-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship",
       "published": "Sat, 09 May 2026 16:01:23 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "British military says ship caught fire after being hit off coast of Qatar",
+      "description": "The British military says a ship caught fire after being hit by an unknown projectile off the coast of Qatar",
+      "url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166",
+      "published": "Sun, 10 May 2026 02:34:01 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1560,16 +1590,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man City beat Brentford to close gap to Arsenal to two points in title race",
-      "description": "Manchester City score three in the second half of their Premier League match against Brentford to maintain title hopes.",
-      "url": "https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race?traffic_source=rss",
-      "published": "Sat, 09 May 2026 18:40:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1678,6 +1698,16 @@
       "url": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 09 May 2026 23:03:37 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision",
+      "description": "Sean Strickland won 48–47, 48–47 and 47–48 against Khamzat Chimaev in a fight that failed to live up to its hype.",
+      "url": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
+      "published": "Sun, 10 May 2026 06:18:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1893,20 +1923,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazil judge suspends law that reduces Bolsonaro's jail term",
-      "description": "Brazil's top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro's prison term.",
-      "url": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 10 May 2026 03:37:00 GMT",
+      "title": "Hantavirus: Countries prepare to evacuate ship passengers",
+      "description": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored at a port in Tenerife.",
+      "url": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 05:28:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Hantavirus: Countries prepare to evacuate ship passengers",
-      "description": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored off Tenerife.",
-      "url": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 9 May 2026 16:46:00 GMT",
+      "title": "Brazil judge suspends law that reduces Bolsonaro's jail term",
+      "description": "Brazil's top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro's prison term.",
+      "url": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 03:37:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -1948,26 +1978,6 @@
       "url": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 9 May 2026 07:28:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pakistan: Drop in Gulf remittances puts families on edge",
-      "description": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and education.",
-      "url": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 8 May 2026 19:51:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pentagon releases new files on UFOs",
-      "description": "Bright lights and mysterious objects, those are what could be found in a new batch of files on UFOs that the Pentagon began releasing on Friday as President Donald Trump taps into the public's long-held curiosities about \"unidentified anomalous phenomena” in the broader universe.",
-      "url": "https://www.france24.com/en/pentagon-releases-new-files-on-ufos",
-      "published": "Sat, 09 May 2026 08:40:31 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2057,16 +2067,6 @@
       "description": "Moscow marks Victory Day with a scaled down Red Square parade under tight security Saturday. This is a photo gallery curated by AP photo editors.",
       "url": "https://abcnews.com/International/wireStory/photos-show-russias-victory-day-scaled-red-square-132807035",
       "published": "Sat, 09 May 2026 10:22:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics",
-      "description": "The Vatican is sending new signals about how it intends to minister to LGBTQ+ Catholics in the Pope Leo XIV era",
-      "url": "https://abcnews.com/International/wireStory/vatican-sending-new-signals-openness-limitations-outreach-lgbtq-132805265",
-      "published": "Sat, 09 May 2026 01:46:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
