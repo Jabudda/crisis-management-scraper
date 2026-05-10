@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T00:51:23.291196Z",
+  "last_updated": "2026-05-10T01:39:22.834231Z",
   "event_count": 220,
   "events": [
     {
@@ -378,6 +378,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167468",
       "published": "Fri, 08 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Minnesota nonprofit accused of siphoning $6.5M to fund Vegas trips, luxury cars, private liquor store",
+      "description": "We Push for Peace nonprofit allegedly collapsed after directors pocketed $6.5 million meant for community violence prevention work in Minnesota.",
+      "url": "https://www.foxnews.com/us/minnesota-nonprofit-accused-siphoning-65m-fund-vegas-trips-luxury-cars-private-liquor-store",
+      "published": "Sat, 09 May 2026 21:19:42 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -973,6 +983,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "description": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 00:46:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iran accuses US of 'reckless military adventure'",
       "description": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
@@ -1036,7 +1056,7 @@
       "title": "Australia news live: triumphant Hanson blasts ‘arrogant’ major parties; Ley says ‘voters never get it wrong’",
       "description": "Former Liberal party leader resigned as member for Farrer after she was dumped as opposition leader. Follow updates live Wilson promises Coalition will be ‘very clear’ on migration Wilson is asked about comments made by the opposition leader, Angus Taylor, after the byelection that hinted at a rightward shift toward “ending mass migration” and stopping net zero policies. I can assure you in the coming weeks we’re going to make it very clear what we’re for. Australians need to know that we’re in favour of families, community, small business and self-starters. My focus on migration is how we make sure we get new Australians integrated successfully. One of the reasons Australians have become very nervous about migration is they feel that people are coming to Australia and getting the benefits without making the contribution. And I want the best, boldest, most confident new Australians we can have. There would be some nervous Labor MPs because what people want to see is change. One of the most consistent messages is that people want someone who is going to fight for them and their future. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb",
-      "published": "Sun, 10 May 2026 00:41:53 GMT",
+      "published": "Sun, 10 May 2026 01:14:51 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1140,6 +1160,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+      "description": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 01:08:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1323,9 +1353,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hantavirus: WHO chief reassures Tenerife residents as Spain prepares for cruise ship's arrival",
-      "description": "The WHO chief has reassured Tenerife residents, as Spanish authorities prepare to receive the MV Hondius, the cruise ship at the center of the hantavirus outbreak.",
-      "url": "https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Hantavirus: Countries prepare to evacuate ship passengers",
+      "description": "Germany and the US are among countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship hit with the deadly outbreak of hantavirus. The ship is expected to arrive in Tenerife this morning.",
+      "url": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 9 May 2026 16:46:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1391,16 +1421,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
-    },
-    {
-      "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
-      "description": "Niger's military government has banned dozens of local and foreign reporters since seizing power in 2023.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
-      "published": "Sat, 09 May 2026 15:53:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1603,10 +1623,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Putin denounces Nato at scaled-back Victory Day parade",
-      "description": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 12:18:58 GMT",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "description": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 14:36:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1617,26 +1637,6 @@
       "description": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
       "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 09 May 2026 15:12:04 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
-      "description": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
-      "url": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 21:37:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "description": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:36:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1678,6 +1678,16 @@
       "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 08 May 2026 13:35:56 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
+      "description": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+      "published": "Sun, 10 May 2026 01:23:32 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2167,16 +2177,6 @@
       "description": "Newly declassified UFO files from NASA's Apollo missions challenge long-running conspiracy theories that the historic Moon landings were faked in a studio.",
       "url": "https://www.foxnews.com/us/declassified-apollo-mission-ufo-files-challenge-long-running-moon-landing-conspiracy-theories",
       "published": "Fri, 08 May 2026 16:17:38 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Killer who dodged sentencing in professor killing makes eerie courtroom remark",
-      "description": "A Colorado killer who skipped his own sentencing and mocked the court was sentenced to 224 years for murdering a UCCS professor in her own home.",
-      "url": "https://www.foxnews.com/us/killer-who-dodged-sentencing-professor-killing-makes-eerie-courtroom-remark",
-      "published": "Fri, 08 May 2026 16:00:17 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
