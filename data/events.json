@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T17:43:44.382518Z",
+  "last_updated": "2026-05-11T18:43:15.797168Z",
   "event_count": 221,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
+      "description": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group says Hundreds of Indigenous families have been forced to flee their homes in the mountains of central Mexico by intense attacks from a local criminal group, including drone bombings, an Indigenous rights organisation said on Monday. A gang known as Los Ardillos has been carrying out attacks in Guerrero state for years, but they started to intensify last week. Villages were subjected to eight hours of bombings on Saturday, the National Indigenous Congress said, forcing between 800 to 1,000 families to flee to other towns. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
+      "published": "Mon, 11 May 2026 18:15:20 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -168,16 +178,6 @@
       "url": "https://www.france24.com/en/americas/20260511-white-house-press-gala-shooting-suspect-pleads-not-guilty-to-attempted-assassination-trump-cole-allen",
       "published": "Mon, 11 May 2026 14:43:55 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russia accuses Ukraine of violating U.S.-brokered three-day truce",
-      "description": "Russia accused Kyiv of breaking a U.S.-brokered ceasefire on Sunday, while Ukrainian officials said that one person had been killed and more injured by Russian drone and artillery strikes in the past 24 hours",
-      "url": "https://abcnews.com/International/wireStory/russia-accuses-ukraine-violating-us-brokered-day-truce-132823137",
-      "published": "Sun, 10 May 2026 11:30:06 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -366,7 +366,7 @@
       "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
       "description": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
       "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 11 May 2026 10:00:31 GMT",
+      "published": "Mon, 11 May 2026 18:27:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -433,16 +433,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
-      "description": "Sheikh Hamad bin Jassim warns Strait of Hormuz crisis is most dangerous fallout of war on Iran, calls for 'Gulf NATO'.",
-      "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
-      "published": "Mon, 11 May 2026 10:37:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
       "description": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers have recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, officials have said. Search operations continued on Saturday for the bodies of two Singaporeans. The dead hikers were among 20 who set out to scale the 1,355-metre (4,445ft) volcano in defiance of safety restrictions and became stranded when Dukono erupted early on Friday, spewing a thick ash column about 6 miles (10km) into the air. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered",
@@ -460,6 +450,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
+      "description": "Efforts between Washington and Tehran to reach an agreement continue to fall short, fuelling concerns of return to war.",
+      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
+      "published": "Mon, 11 May 2026 17:22:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -580,6 +580,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:17:34 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -913,21 +923,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Dress made from 500 loaves stuns African film awards",
-      "description": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
-      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 14:29:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "description": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 13:56:43 GMT",
-      "source": "BBC News",
+      "title": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
+      "description": "Rights advocates say lack of accountability for killing of US citizen and Al Jazeera journalist enabled further abuses.",
+      "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
+      "published": "Mon, 11 May 2026 18:12:55 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -993,7 +993,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
+      "title": "Trump says the Iran ceasefire is 'on life support' after rejecting an Iranian proposal",
       "description": "Iran delivered its response to Pakistani mediators on Sunday, according to the state-run Islamic Republic News Agency.",
       "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
       "published": "Sun, 10 May 2026 18:18:22 -0400",
@@ -1013,9 +1013,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: One-in-six retailers fear for future",
+      "title": "Germany news: 1-in-6 retailers fear for future",
       "description": "About one-in-12 German businesses worry about survival, with twice as many retailers jittery. Meanwhile in Stuttgart, five pro-Palestinian activists face trial over attacking an Israeli defense company site. Follow DW.",
-      "url": "https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 11 May 2026 13:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1233,6 +1233,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Turkish Airlines jet catches fire while landing at Nepal's main airport; all passengers safe",
+      "description": "A Turkish Airlines jet caught fire while landing at Nepal’s main airport, causing no reported injuries but forcing the airport to shut down",
+      "url": "https://abcnews.com/International/wireStory/turkish-airlines-jet-catches-fire-landing-nepals-main-132836549",
+      "published": "Mon, 11 May 2026 01:14:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iranian dissidents seize on Trump remarks about armed resistance, fueling revival of Reagan doctrine",
       "description": "Trump's comments on arming Iranian protesters reignite debate over whether the U.S. should actively support resistance networks against Tehran's regime.",
       "url": "https://www.foxnews.com/world/iranian-dissidents-seize-trump-remarks-about-armed-resistance-fueling-revival-reagan-doctrine",
@@ -1298,6 +1308,26 @@
       "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 11 May 2026 16:30:04 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
+      "description": "US President Donald Trump said the ceasefire with Iran was “on life support” after rejecting Tehran’s latest proposal.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
+      "published": "Mon, 11 May 2026 17:44:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak.",
+      "description": "For unity and strength, a thank you message from the captain of hantavirus-stricken ship.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss",
+      "published": "Mon, 11 May 2026 17:35:31 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1403,6 +1433,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Coast Guard seizes Brian Hooker's sailboat as it leaves Bahamas after wife’s disappearance: source",
+      "description": "Coast Guard seized Brian Hooker's sailboat as probe into his wife Lynette's disappearance from a dinghy in the Bahamas intensifies, according to a source familiar with the investigation.",
+      "url": "https://www.foxnews.com/us/coast-guard-seizes-brian-hooker-sailboat-leaves-bahamas-wifes-disappearance-report",
+      "published": "Mon, 11 May 2026 12:24:47 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
       "description": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
       "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
@@ -1418,16 +1458,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
-      "description": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big metropolitan areas in the US that is much higher than official border-crossing data, suggesting Canadians during the second Trump administration are avoiding US cities in particular. Researchers from the University of Toronto said the tool showed a “year-over-year median decline of approximately 42% in Canadian visits to US metropolitan areas – significantly higher than official border-crossing data, which showed a roughly 25% decline”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us",
-      "published": "Mon, 11 May 2026 10:00:52 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1458,16 +1488,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Coast Guard seizes Brian Hooker's sailboat as it leaves Bahamas after wife’s disappearance: report",
-      "description": "Coast Guard reportedly seizes Brian Hooker's sailboat as probe into his wife Lynette's disappearance from a dinghy in the Bahamas intensifies.",
-      "url": "https://www.foxnews.com/us/coast-guard-seizes-brian-hooker-sailboat-leaves-bahamas-wifes-disappearance-report",
-      "published": "Mon, 11 May 2026 12:24:47 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1563,6 +1583,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "description": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 17:17:25 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "description": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:26:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Philippine VP Sara Duterte impeached for a second time",
       "description": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
       "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
@@ -1633,11 +1673,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump's China visit set to test fragile truce",
-      "description": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-      "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 11 May 2026 09:26:33 GMT",
-      "source": "BBC News",
+      "title": "US and French evacuees from Hantavirus-hit ship test positive",
+      "description": "As passengers evacuate the hantavirus-hit MV Hondius cruise ship, a French woman and two US citizens tested positive.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss",
+      "published": "Mon, 11 May 2026 17:26:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1677,46 +1717,6 @@
       "description": "French President Macron pauses a speaker mid-presentation at Nairobi University to demand silence from the audience.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/macron-yells-at-audience-for-silence-during-nairobi-university-presentation?traffic_source=rss",
       "published": "Mon, 11 May 2026 12:53:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
-      "description": "Iranian foreign ministry spokesman Esmaeil Baqaei says Iran’s latest response was dismissed by the US Baqaei said.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-says-its-demands-were-seeking-peace-while-the-uss-are?traffic_source=rss",
-      "published": "Mon, 11 May 2026 12:04:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU agrees to restore full trade ties with Syria",
-      "description": "The European Council says the move 'sends a clear political signal of the EU’s commitment to re-engage with Syria'.",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss",
-      "published": "Mon, 11 May 2026 11:59:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
-      "description": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss",
-      "published": "Mon, 11 May 2026 11:34:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Who is Gerhard Schroeder, Putin’s pick for Ukraine peace talks mediation?",
-      "description": "And will he be acceptable to Ukraine and the West?",
-      "url": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss",
-      "published": "Mon, 11 May 2026 11:06:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1974,7 +1974,7 @@
     },
     {
       "title": "Hantavirus: Evacuated passengers begin returning home",
-      "description": "Passengers on the ill-fated cruise from several European countries, including Germany, are returning home and will be screened by health authorities. One French woman developed symptoms on the return flight. Follow DW.",
+      "description": "Passengers on the ill-fated cruise from several European countries, including Germany, are returning home and will be screened by health authorities. One French woman developed symptoms on the return flight.",
       "url": "https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 11 May 2026 09:47:00 GMT",
       "source": "Deutsche Welle",
