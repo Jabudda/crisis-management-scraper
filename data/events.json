@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T15:29:16.917106Z",
+  "last_updated": "2026-05-13T16:22:52.680106Z",
   "event_count": 221,
   "events": [
     {
@@ -90,6 +90,16 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+      "description": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 16:18:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -223,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
-      "description": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 14:51:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
       "description": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
@@ -248,6 +248,16 @@
       "url": "https://abcnews.com/International/wireStory/philippine-senator-vows-fight-international-criminal-court-order-132873318",
       "published": "Tue, 12 May 2026 06:38:41 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+      "description": "The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+      "published": "Wed, 13 May 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -366,7 +376,7 @@
       "title": "Philippine Senate in lockdown after gunshots fired",
       "description": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
       "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 15:04:16 GMT",
+      "published": "Wed, 13 May 2026 15:35:15 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -377,16 +387,6 @@
       "description": "As the Strait of Hormuz crisis deepens and tensions between Iran and the United States remain unresolved, oil prices rose again early Monday, prompting the UN Secretary-General to call for a peaceful resolution and warn of the widening fallout across Africa and beyond.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
       "published": "Mon, 11 May 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ukraine: Over 3,000 attacks on healthcare since full-scale Russian invasion",
-      "description": "The World Health Organization (WHO) has verified more than 3,000 attacks on healthcare in Ukraine since Russia launched its full-scale invasion in February 2022, the UN agency reported on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167468",
-      "published": "Fri, 08 May 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 18,
@@ -453,16 +453,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Gang violence displaces hundreds in Haiti’s capital",
-      "description": "People in Cite Soleil neighbourhood of Port-au-Prince protest as gang violence shuts hospitals and displaces hundreds.",
-      "url": "https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss",
-      "published": "Wed, 13 May 2026 10:58:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Satellites add a new layer to global poverty data",
       "description": "A new study using satellite data finds that 58% of the global population has been assigned to the wrong tier in the UN's Human Development Index. That can have real-world consequences for how aid reaches people.",
       "url": "https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-all-1573-xml-mrss",
@@ -476,7 +466,7 @@
       "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
       "description": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
       "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 13:51:13 GMT",
+      "published": "Wed, 13 May 2026 16:20:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -513,20 +503,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
-      "description": "The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
-      "published": "Mon, 11 May 2026 12:00:00 +0000",
+      "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
+      "description": "More than 26.5 million people in the Democratic Republic of the Congo are facing acute hunger, according to a new analysis from UN-backed food security experts published Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167495",
+      "published": "Tue, 12 May 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
     },
     {
-      "title": "Malaria vaccine is saving children’s lives: WHO",
-      "description": "New evidence shows that malaria vaccination is significantly reducing child deaths in Africa and could have an even greater impact as programmes expand, the World Health Organization (WHO) said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167472",
-      "published": "Fri, 08 May 2026 12:00:00 +0000",
+      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
+      "description": "The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
+      "published": "Mon, 11 May 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
@@ -670,6 +660,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "description": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 13:37:53 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -894,7 +894,7 @@
     },
     {
       "title": "Chinese court awards compensation to sacked worker replaced by AI",
-      "description": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security A court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation. The worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 to work as a quality assurance supervisor overseeing large language models used in AI products. Continue reading...",
+      "description": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security A court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation. The worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 as a quality assurance supervisor overseeing large language models used in AI products. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
       "published": "Wed, 13 May 2026 14:58:57 GMT",
       "source": "The Guardian World",
@@ -1078,6 +1078,16 @@
       "url": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
       "published": "Tue, 12 May 2026 17:18:16 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia unleashes fatal barrage of drones at Ukraine",
+      "description": "At least six people have died in Ukraine, after Russia launched hundreds of drones as far as Ukraine's western regions bordering NATO.",
+      "url": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 13 May 2026 16:13:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1326,7 +1336,7 @@
       "title": "More than 1,000 passengers held on cruise after gastrointestinal illness outbreak",
       "description": "The ship, which set sail from Belfast on Friday, is at port in Bordeaux after 49 people fell ill from gastrointestinal illness.",
       "url": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 12:53:05 GMT",
+      "published": "Wed, 13 May 2026 15:58:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1413,7 +1423,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Passengers banned from leaving British cruise ship over likely stomach flu outbreak",
+      "title": "Over 1,000 passengers banned from leaving British cruise ship over likely stomach flu outbreak",
       "description": "Over 1,700 passengers and crew members have been ordered not to leave their cruise ship while French health officials carry out tests after a likely stomach flu outbreak onboard.",
       "url": "https://news.sky.com/story/over-1000-passengers-banned-from-leaving-british-cruise-ship-docked-in-france-over-likely-stomach-flu-outbreak-13543587",
       "published": "Wed, 13 May 2026 14:38:00 +0100",
@@ -1468,6 +1478,16 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Les Simpson: Québécois version of show to return on air after uncertainty",
+      "description": "Beloved animated series will return for 36th season in the fall after telecoms giant Bell Media reaches deal with Disney Fans of Les Simpson have a message for anyone who doubted the future of the beloved and long-running Québécois version of the animated satirical show: Mange de la crotte. Les Simpson will return for its 36th season in the fall after telecoms giant Bell Media said it had reached an agreement with Disney for the rights to air and dub the show. The deal caps nearly a year of uncertainty surrounding the adaptation, which is beloved in Canada’s lone francophone province. Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
+      "published": "Wed, 13 May 2026 15:54:48 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1563,6 +1583,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
+      "description": "Follow our live build-up with full team news coverage ahead of our text commentary stream.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss",
+      "published": "Wed, 13 May 2026 15:33:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1616,7 +1646,7 @@
       "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
       "description": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
       "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 15:20:58 GMT",
+      "published": "Wed, 13 May 2026 15:36:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1693,11 +1723,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Thief jailed after stealing unreleased Beyoncé music from car",
-      "description": "The man smashed into a car and stole luggage containing hard drives with the singer's tracks.",
-      "url": "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 00:01:04 GMT",
-      "source": "BBC News",
+      "title": "Reform UK leader Farage faces parliamentary probe over nearly $7m gift",
+      "description": "If found guilty, the right-wing populist could be suspended from the House ⁠of Commons for a period of time.",
+      "url": "https://www.aljazeera.com/news/2026/5/13/reform-uk-leader-farage-faces-parliamentary-investigation-over-7m-gift?traffic_source=rss",
+      "published": "Wed, 13 May 2026 15:40:47 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1757,16 +1787,6 @@
       "description": "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise.",
       "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
       "published": "Wed, 13 May 2026 11:42:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-      "description": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
-      "published": "Wed, 13 May 2026 11:03:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1883,16 +1903,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "description": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxcar at a yard close to the Mexican border on Sunday afternoon, officials said. The discovery was made by a Union Pacific employee inspecting the stopped train at the yard in Laredo before it continued its journey north, a spokesperson for the Laredo police department said, citing the railroad freight company. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "published": "Mon, 11 May 2026 14:27:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Why budget rhetoric won’t match reality for many younger Australians",
       "description": "Figures show the treasurer’s reforms will make the tax system fairer but some will not have the advantages enjoyed by their parents As Jim Chalmers was doing the round of the parliamentary press gallery on Tuesday, he was encouraging journalists to see the tax reforms in the budget as the most ambitious since the turn of the century. The core of the tax package is that instead of paying tax on just half of profits on the sale of investments held for more than a year, we will return to the pre-1999 version where investors would get a discount based on inflation. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/13/why-budget-rhetoric-wont-match-reality-for-many-younger-australians",
@@ -1977,16 +1987,6 @@
       "description": "Sam Altman testified in trial that could determine the future of OpenAI, the company behind ChatGPT.",
       "url": "https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 12 May 2026 23:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canvas owner secures student data in deal with hacking group",
-      "description": "The ShinyHunters hacking group stole student data from the popular education platform Canvas last week. Parent company Instructure apologized for the hack and said Canvas \"remains safe to use.\"",
-      "url": "https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 12 May 2026 19:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
