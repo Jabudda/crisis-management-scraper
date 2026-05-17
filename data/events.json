@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T11:54:23.020761Z",
+  "last_updated": "2026-05-17T12:26:06.983526Z",
   "event_count": 221,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 43,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Executions nearly doubled in the U.S. last year, and soared abroad",
+      "description": "The number of people killed in state-sanctioned executions worldwide rose to a 44-year high in 2025, according to a new report from Amnesty International.",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report",
+      "published": "Sun, 17 May 2026 08:01:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 42,
       "severity_level": "Critical"
     },
     {
@@ -353,31 +363,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "FBI brings Iraqi man accused of coordinating nearly 20 terror attacks in Europe to face trial in New York",
-      "description": "Mohammad al-Saadi faces federal charges after allegedly planning 18 terror attacks targeting Jewish institutions across Europe, prosecutors say.",
-      "url": "https://www.foxnews.com/us/fbi-brings-iraqi-man-accused-coordinating-nearly-20-terror-attacks-europe-face-trial-new-york",
-      "published": "Fri, 15 May 2026 13:58:08 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency",
       "description": "DR Congo accounts for all but two of the suspected cases, both of which were reported in neighbouring Uganda.",
       "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss",
       "published": "Sun, 17 May 2026 06:55:53 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Israel says it killed the leader of Hamas' military wing",
-      "description": "Israel says it has killed the leader of Hamas' military wing, one of the architects of the Oct, 7, 2023, attacks that triggered the war in Gaza.",
-      "url": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader",
-      "published": "Sat, 16 May 2026 01:15:57 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -503,7 +493,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year",
+      "title": "Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year",
       "description": "Four people were killed in overnight Ukrainian drone strikes on Russia, authorities have said – in what appears to be the largest attack on Moscow in over a year.",
       "url": "https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979",
       "published": "Sun, 17 May 2026 09:12:00 +0100",
@@ -718,6 +708,16 @@
       "url": "https://www.foxnews.com/us/missing-americans-husband-sat-boat-24-hours-vanished-bahamas-friend-says",
       "published": "Sat, 16 May 2026 08:00:47 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
+      "description": "A Maldivian military diver died from decompression sickness during a perilous mission to recover bodies of four Italian divers trapped in a deep underwater cave.",
+      "url": "https://www.foxnews.com/world/maldives-military-diver-dies-searching-four-italian-divers-missing-inside-underwater-cave-system",
+      "published": "Sun, 17 May 2026 07:55:31 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1603,16 +1603,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump administration rejects UN migration declaration, says 'mass migration was never safe'",
-      "description": "The State Department said it objects to U.N. efforts to \"advocate and facilitate replacement immigration in the United States and across the broader West.\"",
-      "url": "https://www.foxnews.com/world/trump-administration-rejects-un-migration-declaration-says-mass-migration-never-safe",
-      "published": "Mon, 11 May 2026 21:36:58 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "US planning to charge ex-Cuban leader Raúl Castro",
       "description": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
@@ -1726,7 +1716,7 @@
       "title": "Canadian from hantavirus-hit cruise ship tests positive",
       "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
       "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 20:36:53 GMT",
+      "published": "Sun, 17 May 2026 12:07:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2118,6 +2108,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167519",
       "published": "Fri, 15 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Teen vanished from home decades ago – now feds hope new image and shifting loyalties reveal truth",
+      "description": "Authorities renew their call for information in the 1980 disappearance of 14-year-old Laureen Rahn from her Manchester, New Hampshire, apartment.",
+      "url": "https://www.foxnews.com/us/teen-vanished-from-home-decades-ago-now-feds-hope-new-image-shifting-loyalties-reveal-truth",
+      "published": "Sun, 17 May 2026 08:00:58 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
