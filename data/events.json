@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T10:04:36.411131Z",
+  "last_updated": "2026-05-17T10:55:01.188382Z",
   "event_count": 220,
   "events": [
     {
@@ -333,18 +333,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "description": "In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 17 May 2026 07:21:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency",
-      "description": "DR Congo accounts for all except two of the suspected cases, both of which were reported in neighbouring Uganda.",
+      "description": "DR Congo accounts for all but two of the suspected cases, both of which were reported in neighbouring Uganda.",
       "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss",
       "published": "Sun, 17 May 2026 06:55:53 +0000",
       "source": "Al Jazeera",
@@ -394,7 +384,7 @@
     },
     {
       "title": "Middle East war live: Israel strikes Lebanon despite ceasefire, Hezbollah slams ‘dead end’ talks",
-      "description": "Israeli strikes targeted eastern and southern Lebanon on Sunday, state media reported, despite a fragile ceasefire, as a Hezbollah lawmaker called Lebanon's negotiations with Israel a \"dead-end\". Follow our liveblog for all the latest updates.",
+      "description": "Israeli strikes targeted eastern and southern Lebanon on Sunday, state media reported, despite a fragile ceasefire, as a Hezbollah lawmaker called Lebanon's negotiations with Israel a \"dead end\". Follow our liveblog for all the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260517-middle-east-live-uss-ford-returns-from-iran-war-after-longest-deployment-since-vietnam",
       "published": "Sun, 17 May 2026 05:39:01 GMT",
       "source": "France24",
@@ -471,6 +461,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "The strike that changed the geometry of war",
+      "description": "Israel's attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
+      "published": "Sun, 17 May 2026 10:13:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Bulgarian banger 'Bangaranga' bags country its 1st Eurovision win",
@@ -734,7 +734,7 @@
     },
     {
       "title": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
-      "description": "Orfi, 18, beats compatriot Nour El-Sherbini in a five-set thriller to win the PSA World Championship title in Giza.",
+      "description": "Orfi, 18, beats compatriot Nour El-Sherbini in a five-game thriller to win the PSA World Championship title in Giza.",
       "url": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss",
       "published": "Sun, 17 May 2026 09:44:37 +0000",
       "source": "Al Jazeera",
@@ -747,16 +747,6 @@
       "description": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
       "url": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
       "published": "Sun, 17 May 2026 08:40:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Tunisians rally amid economic crisis and political arrests",
-      "description": "Hundreds of Tunisians have marched through the capital to denounce a worsening economic crisis and crackdown on dissent.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
-      "published": "Sun, 17 May 2026 01:18:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -780,6 +770,16 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "description": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 10:05:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -808,16 +808,6 @@
       "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 16 May 2026 15:50:09 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "FIFA holds positive talks with Iran ahead of World Cup",
-      "description": "FIFA Secretary General Mattias Grafstrom said Saturday he held a constructive meeting with the president of Iran's FA Mehdi Taj regarding Iran’s participation in the World Cup which is set to take place this summer in the United States, Canada, and Mexico.",
-      "url": "https://www.france24.com/en/sport/20260516-fifa-says-it-held-positive-talks-with-iran-ahead-of-world-cup",
-      "published": "Sat, 16 May 2026 20:50:02 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1063,6 +1053,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "15,000 flowers a day: Behind the scenes at the Carlton Cannes",
+      "description": "Using between 10,000 and 15,000 flowers a day to transform every space inside the Carlton Cannes: this is the world of floral designer Djordje Varda, who takes us behind the scenes of his extraordinary daily routine 💐",
+      "url": "https://www.france24.com/en/video/20260517-15-000-flowers-a-day-behind-the-scenes-at-the-carlton-cannes",
+      "published": "Sun, 17 May 2026 10:52:55 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UK: Tens of thousands march in London in two separate protests",
       "description": "Tens of thousands of people marched through central London on Saturday in two separate protests - one against high levels of immigration and a perceived Islamic threat to British identity, and another in support of Palestinians.",
       "url": "https://www.france24.com/en/uk-tens-of-thousands-march-in-london-in-two-separate-protests",
@@ -1138,6 +1138,16 @@
       "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 15 May 2026 19:52:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
+      "description": "Bill Cassidy is among seven Republican senators who voted to convict Trump after the January 6, 2021, Capitol attack.",
+      "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss",
+      "published": "Sun, 17 May 2026 10:29:16 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1733,6 +1743,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Javier Bardem says condemning the Gaza genocide has led to more work",
+      "description": "Javier Bardem says condemning the Gaza genocide has led to more work",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss",
+      "published": "Sun, 17 May 2026 10:17:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Two Nepali Sherpa climbers break own records on Mount Everest",
+      "description": "Kami Rita Sherpa sets new record with 32nd summit as Lhakpa Sherpa breaks her own women's record with 11th summit.",
+      "url": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss",
+      "published": "Sun, 17 May 2026 10:05:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
       "description": "Former Real Madrid coach replaces Liam Rosenior at the end of a difficult season for the Premier League club.",
       "url": "https://www.aljazeera.com/sports/2026/5/17/chelsea-appoint-xabi-alonso-as-new-manager-premier-league-club-says?traffic_source=rss",
@@ -1747,36 +1777,6 @@
       "description": "Prime Minister Modi says his talks with the Dutch PM also focused on expanding cooperation in defence and security.",
       "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss",
       "published": "Sun, 17 May 2026 07:24:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ronda Rousey vs Gina Carano fight: Rousey wins with a 17-second submission",
-      "description": "Rousey won the fight with her signature armbar lock, forcing Carano to submit just 17 seconds into the bout.",
-      "url": "https://www.aljazeera.com/sports/2026/5/17/ronda-rousey-vs-gina-carano-fight-rousey-wins-with-a-17-second-submission?traffic_source=rss",
-      "published": "Sun, 17 May 2026 05:28:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Algeria’s USM Alger beat Egypt’s Zamalek to win CAF Cup",
-      "description": "Algeria's USM Alger beat Egypt's Zamalek to win CAF Cup.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/algerias-usm-alger-beat-egypts-zamalek-to-win-caf-cup?traffic_source=rss",
-      "published": "Sun, 17 May 2026 05:11:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Activists troll far-right UK rally with giant pro-immigration clip",
-      "description": "Led By Donkeys has snuck a big screen streaming pro-immigration messages into a far-right rally in the UK.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-led-by-donkeys-hijack-far-right-rally-160526?traffic_source=rss",
-      "published": "Sun, 17 May 2026 02:14:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
