@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T01:44:39.824881Z",
-  "event_count": 221,
+  "last_updated": "2026-05-19T03:13:30.109894Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
@@ -60,6 +60,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 45,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: NSW premier ‘devastated’ by domestic violence murder charges after seeing ‘glimmers of progress’ on prevention",
+      "description": "Chris Minns says NSW government will continue to push for reforms on bail conditions. Follow today’s news live Get our breaking news email , free app or daily news podcast Global Sumud Flotilla participants urge Australian government to intervene and ‘keep us safe’ The Australians that the Global Sumud Flotilla allege have been kidnapped by the Israel Defense Forces (IDF) are academics, doctors, students, activists and film-makers. This is now the second time Israel has illegally abducted Australian citizens in international waters, and our government has said nothing … For as long as Australia continues to support Israel’s genocide, Australians will keep sailing. You never know the minute when the Israelis decide that ‘yeah, let’s fuck over some ordinary people,’ 500 of them, who have got a whole load of baby food in boats trying to break their illegal siege in international waters. Here we are in international waters, and our governments are completely failing us. Do everything that you can to keep us safe. When people are unwell with colds or flu, they can’t donate, even if they want to. But the need for blood doesn’t slow down. Patients undergoing cancer treatment, people needing surgery, and those injured in accidents rely on blood every single day. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
+      "published": "Tue, 19 May 2026 02:58:56 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 43,
       "severity_level": "Critical"
     },
     {
@@ -140,16 +150,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "News live: Dfat ‘urgently seeking’ welfare updates for 11 Australians taken from Gaza aid flotilla",
-      "description": "Spokesperson said Dfat encouraged those wishing to deliver humanitarian aid to Gaza ‘to do so through established channels’. Follow today’s news live Get our breaking news email , free app or daily news podcast Global Sumud Flotilla participants urge Australian government to intervene and ‘keep us safe’ The Australians that the Global Sumud Flotilla allege have been kidnapped by the Israel Defense Forces (IDF) are academics, doctors, students, activists and film-makers. This is now the second time Israel has illegally abducted Australian citizens in international waters, and our government has said nothing … For as long as Australia continues to support Israel’s genocide, Australians will keep sailing. You never know the minute when the Israelis decide that ‘yeah, let’s fuck over some ordinary people,’ 500 of them, who have got a whole load of baby food in boats trying to break their illegal siege in international waters. Here we are in international waters, and our governments are completely failing us. Do everything that you can to keep us safe. When people are unwell with colds or flu, they can’t donate, even if they want to. But the need for blood doesn’t slow down. Patients undergoing cancer treatment, people needing surgery, and those injured in accidents rely on blood every single day. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
-      "published": "Tue, 19 May 2026 01:29:21 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -313,16 +313,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Starbucks Korea CEO resigns over ad evoking massacre of pro-democracy protesters",
-      "description": "‘Tank Day’ event causes outrage with ‘malicious mockery’ of deadly crackdown during dictatorship era The chief executive of Starbucks in South Korea has been fired after the company ran a promotional event using slogans that evoked a massacre of pro-democracy protesters during the country’s dictatorship era, sparking outrage and boycott calls. The coffee chain launched a “Tank Day” campaign on 18 May for its “Tank” tumbler series. The date coincides with one of the most politically sensitive days in South Korea’s calendar, when citizens commemorate the 1980 democratisation movement in Gwangju, 167 miles (270km) south-west of Seoul. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/may/18/ceo-starbucks-in-south-korea-fired-over-controversial-ad-campaign",
-      "published": "Mon, 18 May 2026 16:50:11 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "US and Nigerian forces kill 20 jihadists in northern region",
       "description": "The joint strikes come shortly after the US and Nigeria announced killing a high-profile IS leader. Meanwhile, residents reported a gunmen attack which killed at least 10 in the northwestern Katsina State.",
       "url": "https://www.dw.com/en/us-and-nigerian-forces-kill-20-jihadists-in-northern-region/a-77201201?maca=en-rss-en-all-1573-xml-mrss",
@@ -348,6 +338,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167520",
       "published": "Fri, 15 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "San Diego mosque shooting leaves 3 victims, 2 teen suspects dead, police say",
+      "description": "San Diego Police and SWAT officers rushed to the Islamic Center of San Diego Monday afternoon after reports of an active shooter prompted evacuations and a large emergency response.",
+      "url": "https://www.foxnews.com/us/san-diego-mosque-shooting-leaves-3-victims-2-teen-suspects-dead-police-say",
+      "published": "Mon, 18 May 2026 15:53:19 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -426,7 +426,7 @@
       "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
       "description": "‘We cannot continue to blame migrants for the problems of our economy,’ backbencher Andrew McLachlan says A Liberal senator has broken ranks to criticise Angus Taylor’s plan to bar non-citizens from accessing welfare, warning it will create “two types of members of the community” and is “not the Australian way”. The outspoken backbencher Andrew McLachlan said migrants should not be blamed for economic problems including the housing crisis, and warned his party’s immigration rhetoric was alienating diaspora communities. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
-      "published": "Tue, 19 May 2026 00:21:05 GMT",
+      "published": "Tue, 19 May 2026 02:54:40 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 21,
@@ -450,6 +450,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Starbucks Korea CEO dismissed over ad evoking massacre of pro-democracy protesters",
+      "description": "‘Tank Day’ event causes outrage with ‘malicious mockery’ of deadly crackdown during dictatorship era The chief executive of Starbucks in South Korea has been dismissed after the company ran a promotional event using slogans that evoked a massacre of pro-democracy protesters during the country’s dictatorship era, sparking outrage and boycott calls. The coffee chain launched a “Tank Day” campaign on 18 May for its “Tank” tumbler series. The date coincides with one of the most politically sensitive days in South Korea’s calendar, when citizens commemorate the 1980 democratisation movement in Gwangju, 167 miles (270km) south-west of Seoul. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/may/18/ceo-starbucks-in-south-korea-fired-over-controversial-ad-campaign",
+      "published": "Mon, 18 May 2026 16:50:11 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -643,16 +653,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Active shooter reported at San Diego Islamic center as SWAT, emergency crews respond",
-      "description": "San Diego Police and SWAT officers rushed to the Islamic Center of San Diego Monday afternoon after reports of an active shooter prompted evacuations and a large emergency response.",
-      "url": "https://www.foxnews.com/us/active-shooter-reported-san-diego-islamic-center-swat-emergency-crews-respond",
-      "published": "Mon, 18 May 2026 15:53:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "US suspends joint defence effort with Canada dating back to World War II",
       "description": "The Trump administration has frequently accused US allies of failing to live up to mutual defence obligations.",
       "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
@@ -683,6 +683,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+      "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 01:35:30 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
       "description": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
       "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
@@ -707,6 +717,16 @@
       "description": "Officials say gunmen in two separate attacks have shot and killed two police officers assigned to protect polio vaccination teams in northwest Pakistan",
       "url": "https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008",
       "published": "Mon, 18 May 2026 10:53:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Attacks on schools in Nigeria leave more than 80 children missing, officials say",
+      "description": "Officials say that more than 80 children are missing after suspected militants attacked schools in Nigeria in the past week",
+      "url": "https://abcnews.com/International/wireStory/latest-militant-attacks-schools-nigeria-leave-80-children-133053873",
+      "published": "Sun, 17 May 2026 14:37:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -888,6 +908,16 @@
       "url": "https://www.npr.org/2026/05/18/nx-s1-5824988/ukraine-launches-large-scale-drone-strikes-on-russia",
       "published": "Mon, 18 May 2026 04:47:12 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says he paused attack on Iran at Gulf leaders' request",
+      "description": "President Donald Trump said he called off a planned attack on Iran after the UAE, Saudi Arabia and Qatar requested Washington to suspend strikes.",
+      "url": "https://www.dw.com/en/trump-says-he-paused-attack-on-iran-at-gulf-leaders-request/a-77206834?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 19 May 2026 03:01:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1076,7 +1106,7 @@
       "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
       "description": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
       "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 15:30:30 GMT",
+      "published": "Tue, 19 May 2026 02:40:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1120,16 +1150,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Three killed in suspected hate crime at San Diego mosque",
-      "description": "A note left by one of the teenage suspects contains general \"hate rhetoric\", investigators say.",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 01:35:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1393,6 +1413,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Maduro ally deported to US over alleged billion-dollar corruption scheme tied to oil, food program",
+      "description": "Maduro ally Alex Saab faces federal charges and deportation to the U.S. for allegedly orchestrating a sweeping money laundering and bribery scheme.",
+      "url": "https://www.foxnews.com/world/maduro-ally-deported-us-alleged-billion-dollar-corruption-scheme-tied-oil-food-program",
+      "published": "Mon, 18 May 2026 22:50:56 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Driver of crashed train tested positive for drugs, Thai police say",
       "description": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
       "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
@@ -1618,16 +1648,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Elversberg: Bundesliga newcomers from tiny town make history",
-      "description": "A team from a town of just 7,000 inhabitants has made history by sealing promotion to become the 59th club to play in the Bundesliga.",
-      "url": "https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-history/a-77194483?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 18 May 2026 09:50:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -2073,6 +2093,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "NATO's biggest special forces exercise in Europe takes place as US reduces support for allies",
+      "description": "Some 3,000 elite troops from the US, the UK and 22 other nations are taking part in NATO's biggest special forces exercise in Europe even as Donald Trump reduces support to his allies.",
+      "url": "https://news.sky.com/story/natos-biggest-special-forces-exercise-in-europe-takes-place-as-us-reduces-support-for-allies-13545037",
+      "published": "Sun, 17 May 2026 13:47:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazilian court to rule on whether Belo Sun’s Amazon gold mine stays suspended",
+      "description": "A Brazilian court is set to rule on the controversial Volta Grande gold mine project in the Amazon, operated by Canadian company Belo Sun",
+      "url": "https://abcnews.com/International/wireStory/brazilian-court-rule-belo-suns-amazon-gold-mine-133081228",
+      "published": "Mon, 18 May 2026 15:17:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What to know about the political chaos engulfing the UK's Labour Party and efforts to unseat Starmer",
       "description": "Beleaguered British Prime Minister Keir Starmer is trying to return to the business of running government",
       "url": "https://abcnews.com/International/wireStory/political-chaos-engulfing-uks-labour-party-efforts-unseat-133075451",
@@ -2123,30 +2163,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazilian court to rule on whether Belo Sun’s Amazon gold mine stays suspended",
-      "description": "A Brazilian court is set to rule on the controversial Volta Grande gold mine project in the Amazon, operated by Canadian company Belo Sun",
-      "url": "https://abcnews.com/International/wireStory/brazilian-court-rule-belo-suns-amazon-gold-mine-133081228",
-      "published": "Mon, 18 May 2026 15:17:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Iranian Nobel laureate Narges Mohammadi released from hospital",
       "description": "Iranian Nobel Peace Prize laureate Narges Mohammadi has been released from the hospital after more than two weeks",
       "url": "https://abcnews.com/International/wireStory/iranian-nobel-laureate-narges-mohammadi-released-hospital-133061670",
       "published": "Mon, 18 May 2026 06:50:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Rwandan genocide suspect Kabuga dies in custody in The Hague",
-      "description": "Félicien Kabuga, accused of bankrolling the Rwandan genocide, died in a hospital in The Hague while in custody, a U.N. court said",
-      "url": "https://abcnews.com/International/wireStory/rwandan-genocide-suspect-kabuga-dies-custody-hague-133037785",
-      "published": "Mon, 18 May 2026 08:00:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2197,16 +2217,6 @@
       "description": "Uyghur mother Mihrigul Tursun recounts years of alleged detention, torture and family separation in China's Xinjiang camps in emotional testimony.",
       "url": "https://www.foxnews.com/world/mother-recounts-horrors-brutal-chinese-detention-camp-where-infant-son-died",
       "published": "Fri, 15 May 2026 15:29:49 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump pledges to raise detained pastor's case with Xi Jinping during Beijing visit as family pleads for help",
-      "description": "Pastor Ezra Jin's daughter speaks about her father's detention in China and Trump's pledge to raise his case with Xi Jinping during Beijing visit.",
-      "url": "https://www.foxnews.com/world/trump-pledges-raise-detained-pastors-case-xi-jinping-beijing-visit-family-pleads-help",
-      "published": "Thu, 14 May 2026 06:00:15 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
