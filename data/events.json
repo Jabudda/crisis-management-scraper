@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T23:28:03.411499Z",
+  "last_updated": "2026-05-22T23:53:42.907168Z",
   "event_count": 220,
   "events": [
     {
@@ -78,6 +78,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167571",
       "published": "Thu, 21 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 16 injured, including 13 firefighters in Staten Island shipyard explosion: FDNY",
+      "description": "An explosion and fire at a Staten Island shipyard left at least 16 injured, including multiple firefighters, after workers were reported trapped in the building.",
+      "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
+      "published": "Fri, 22 May 2026 19:23:02 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -263,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Philippine justice chief orders arrest of senator wanted by the ICC over Duterte-era killings",
+      "description": "The Philippines justice chief has ordered the enforcement of an International Criminal Court warrant for a senator wanted on an alleged crime against humanity charge",
+      "url": "https://abcnews.com/International/wireStory/philippine-justice-chief-orders-arrest-senator-wanted-icc-133183289",
+      "published": "Thu, 21 May 2026 10:05:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Trending 'Senior assassin' game draws stark warnings from police nationwide: 'dangerous misunderstandings'",
       "description": "Law enforcement nationwide warns students against playing Senior Assassin, saying toy guns can be mistaken for real firearms with deadly consequences.",
       "url": "https://www.foxnews.com/us/trending-senior-assassin-game-draws-stark-warnings-police-nationwide-dangerous-misunderstandings-",
@@ -333,13 +353,23 @@
       "severity_level": "High"
     },
     {
-      "title": "This hard-line Iranian general is a major player in talks with US over war",
-      "description": "A hard-line Iranian general linked to notorious attacks at home and abroad is believed to have seized a place near the center of power as negotiations with the United States hang in the balance",
-      "url": "https://abcnews.com/International/wireStory/hard-line-iranian-general-major-player-talks-us-133175508",
-      "published": "Thu, 21 May 2026 05:37:55 -0400",
+      "title": "Russia holds nuclear drills on land, sea and air, joined by its ally Belarus",
+      "description": "Trucks carrying intercontinental ballistic missiles rumbled over forest roads, submarines set sail from Arctic and Pacific ports, and crews scrambled into warplanes as Russia and neighboring Belarus held the final stage of their joint nuclear drills",
+      "url": "https://abcnews.com/International/wireStory/russia-holds-nuclear-drills-land-sea-air-joined-133184208",
+      "published": "Thu, 21 May 2026 10:05:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Teenager among 3 dead in Turkey after floods and landslides hit southern province",
+      "description": "Officials say three people have died during flooding in southern Turkey",
+      "url": "https://abcnews.com/International/wireStory/teenager-3-dead-turkey-after-floods-landslides-hit-133189658",
+      "published": "Thu, 21 May 2026 11:56:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -448,16 +478,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
       "published": "Thu, 21 May 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Teen suspect tied to 12 attacks in chaotic Austin shooting spree identified as illegal alien",
-      "description": "The 17-year-old suspect accused in a random shooting spree across Austin has been identified as an illegal immigrant with an active ICE detainer.",
-      "url": "https://www.foxnews.com/us/teen-suspect-tied-12-attacks-chaotic-austin-shooting-spree-identified-illegal-alien",
-      "published": "Thu, 21 May 2026 21:27:44 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -617,6 +637,26 @@
       "description": "Gunmen have opened fire in two separate attacks on the Honduran coast, killing at least 16 people, including six police officers",
       "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-separate-attacks-honduras-killing-16-133200849",
       "published": "Thu, 21 May 2026 17:04:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Brazilian grieving father says justice still missing after Airbus, Air France guilty verdict",
+      "description": "A Paris appeals court has found Airbus and Air France guilty of manslaughter in the 2009 crash of Flight 447 from Rio to Paris",
+      "url": "https://abcnews.com/International/wireStory/brazilian-grieving-father-justice-missing-after-airbus-air-133201312",
+      "published": "Thu, 21 May 2026 17:02:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "A displaced Lebanese grandmother feeds thousands of compatriots who fled war",
+      "description": "Soubhiye Zeiter started baking outside her tent in Beirut to feed herself and her family, displaced by war",
+      "url": "https://abcnews.com/International/wireStory/displaced-lebanese-grandmother-feeds-thousands-compatriots-fled-war-133181751",
+      "published": "Thu, 21 May 2026 08:54:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -788,16 +828,6 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What's behind Bolivia's ongoing protests?",
-      "description": "Months after center-right President Rodrigo Paz took office in the South American nation, anti-government protests have escalated into riots. DW looks at the root causes and what's at stake.",
-      "url": "https://www.dw.com/en/what-s-behind-bolivia-s-ongoing-protests/a-77254642?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 22 May 2026 05:12:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1053,20 +1083,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UK offers cheaper chocolate and tickets to the zoo in bid to ease cost of living squeeze",
-      "description": "The British government is offering cheaper chocolate and discounted theme park entry to ease the cost-of-living squeeze triggered by the Iran war",
-      "url": "https://abcnews.com/International/wireStory/uk-offers-cheaper-chocolate-tickets-zoo-bid-ease-133183468",
-      "published": "Thu, 21 May 2026 10:05:37 -0400",
+      "title": "What to know about the death of Congolese man in Ireland",
+      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
+      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
+      "published": "Fri, 22 May 2026 07:28:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about the death of Congolese man in Ireland",
-      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
-      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
-      "published": "Fri, 22 May 2026 07:28:09 -0400",
+      "title": "UK offers cheaper chocolate and tickets to the zoo in bid to ease cost of living squeeze",
+      "description": "The British government is offering cheaper chocolate and discounted theme park entry to ease the cost-of-living squeeze triggered by the Iran war",
+      "url": "https://abcnews.com/International/wireStory/uk-offers-cheaper-chocolate-tickets-zoo-bid-ease-133183468",
+      "published": "Thu, 21 May 2026 10:05:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1120,26 +1150,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Myanmar military recaptures 2 strategic border towns from ethnic militias",
-      "description": "Myanmar’s military-backed government says it has regained control of two towns near the country’s borders with India and Thailand",
-      "url": "https://abcnews.com/International/wireStory/myanmar-military-recaptures-2-strategic-border-towns-ethnic-133176673",
-      "published": "Thu, 21 May 2026 05:30:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The United Nations' top court will issue an advisory opinion on the right to strike",
-      "description": "The United Nations’ top court is set to issue a landmark advisory opinion on the right to strike clarifying whether employees are lawfully allowed to walk off the job",
-      "url": "https://abcnews.com/International/wireStory/united-nations-top-court-issue-advisory-opinion-strike-133175509",
-      "published": "Thu, 21 May 2026 01:51:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1253,20 +1263,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Turkish court rules to remove head of the main opposition party in latest blow",
-      "description": "A Turkish court has effectively removed the head of the country’s main opposition party by annulling a 2023 congress that elected him",
-      "url": "https://abcnews.com/International/wireStory/turkish-court-rules-remove-head-main-opposition-party-133192160",
-      "published": "Thu, 21 May 2026 13:05:25 -0400",
+      "title": "Canadian regulator triples American streamers' financial contributions to Canadian content",
+      "description": "Canada’s federal broadcast regulator says large online streaming services must contribute 15% of their Canadian revenues to Canadian content",
+      "url": "https://abcnews.com/International/wireStory/canadian-regulator-triples-american-streamers-financial-contributions-canadian-133203451",
+      "published": "Thu, 21 May 2026 17:47:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Montenegro at 20: After breaking with Serbia and joining NATO, EU is the next frontier",
-      "description": "Montenegro marks 20 years of independence from a union with Serbia this week, celebrating a two-decade transformation that has already brought the Balkan country into NATO",
-      "url": "https://abcnews.com/International/wireStory/montenegro-20-after-breaking-serbia-joining-nato-eu-133175690",
-      "published": "Thu, 21 May 2026 02:27:46 -0400",
+      "title": "Turkish court rules to remove head of the main opposition party in latest blow",
+      "description": "A Turkish court has effectively removed the head of the country’s main opposition party by annulling a 2023 congress that elected him",
+      "url": "https://abcnews.com/International/wireStory/turkish-court-rules-remove-head-main-opposition-party-133192160",
+      "published": "Thu, 21 May 2026 13:05:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1413,20 +1423,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
-      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
-      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
-      "published": "Thu, 21 May 2026 23:23:32 -0400",
+      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
+      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
+      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
+      "published": "Fri, 22 May 2026 02:11:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
-      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
-      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
-      "published": "Fri, 22 May 2026 02:11:21 -0400",
+      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
+      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
+      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
+      "published": "Thu, 21 May 2026 23:23:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1578,16 +1588,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cambodian villagers honor guardian spirits to pray for rain and good fortune",
-      "description": "Hundreds of Cambodian villagers have honored their guardian spirits with a colorful ceremony to pray for good fortune, rain and prosperity",
-      "url": "https://abcnews.com/International/wireStory/cambodian-villagers-honor-guardian-spirits-pray-rain-good-133176534",
-      "published": "Thu, 21 May 2026 05:06:04 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1963,6 +1963,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "EU, Mexico sign expanded trade deal",
+      "description": "The updated accord between the European Union and Mexico removes most remaining barriers to trade and investment. President Sheinbaum said Mexico's respective trade deals with the EU and the US were \"not contradictory.\"",
+      "url": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 22 May 2026 23:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What is Pentecost?",
       "description": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well known.",
       "url": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-xml-mrss",
@@ -2053,50 +2063,40 @@
       "severity_level": "Low"
     },
     {
+      "title": "Everest record-holder Kami Rita Sherpa urges limit on climbers as crowds swell",
+      "description": "A renowned Mount Everest guide who scaled the peak a record 32nd time this week says there's an urgent need to limit climbers on the summit",
+      "url": "https://abcnews.com/International/wireStory/everest-record-holder-kami-rita-sherpa-urges-limit-133212475",
+      "published": "Fri, 22 May 2026 05:53:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "NATO allies bewildered by Trump's about face on US troop moves in Europe",
+      "description": "NATO allies and defense officials are bewildered by U.S. President Donald Trump's decision to send 5,000 U.S. troops to Poland",
+      "url": "https://abcnews.com/International/wireStory/nato-allies-bewildered-trumps-face-us-troop-moves-133212186",
+      "published": "Fri, 22 May 2026 03:57:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Puerto Rico governor promises to alleviate power and water shortages",
+      "description": "Puerto Rico Gov. Jenniffer González is pledging to boost the amount of electric energy available to power the U.S. territory as chronic outages persist",
+      "url": "https://abcnews.com/International/wireStory/puerto-rico-governor-promises-alleviate-power-water-shortages-133207393",
+      "published": "Thu, 21 May 2026 23:22:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway",
       "description": "Panamanian President José Raúl Mulino has announced Ilya Espino de Marotta as the new head of the Panama Canal, starting October 1",
       "url": "https://abcnews.com/International/wireStory/veteran-panama-canal-engineer-woman-lead-interoceanic-waterway-133197757",
       "published": "Thu, 21 May 2026 17:11:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "French artist JR begins his giant ‘cave’ art inflation over Paris’ oldest bridge",
-      "description": "The oldest bridge in Paris has begun vanishing as JR — the artist known as the “French Banksy” — began inflating a giant “cave” over the Pont Neuf",
-      "url": "https://abcnews.com/International/wireStory/french-artist-jr-begins-giant-cave-art-inflation-133174505",
-      "published": "Thu, 21 May 2026 08:14:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Nigeria's anti-drug agency shut down large meth laboratory in a raid",
-      "description": "Nigeria's anti-drug agency has busted a major drug syndicate involving Nigerians and Mexicans",
-      "url": "https://abcnews.com/International/wireStory/nigerias-anti-drug-agency-shut-large-meth-laboratory-133179071",
-      "published": "Thu, 21 May 2026 07:54:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A record 274 climbers scale Mount Everest in a single day",
-      "description": "Officials say hundreds of climbers scaled Mount Everest in a single day, setting a new record with 274 successful ascents",
-      "url": "https://abcnews.com/International/wireStory/record-274-climbers-scale-mount-everest-single-day-133176848",
-      "published": "Thu, 21 May 2026 08:01:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK government to release papers on former Prince Andrew's appointment as trade envoy",
-      "description": "The U.K. government is set to release confidential papers related to the former Prince Andrew’s appointment as trade envoy",
-      "url": "https://abcnews.com/International/wireStory/uk-government-release-papers-related-former-prince-andrews-133177042",
-      "published": "Thu, 21 May 2026 06:50:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2118,6 +2118,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167555",
       "published": "Wed, 20 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Rhode Island teen already out on bail for weapons charge arrested in crowded beach stabbing",
+      "description": "Rhode Island teen Wily Medina, already out on bail for a weapons charge, was arrested in connection with a stabbing at a crowded Narragansett beach.",
+      "url": "https://www.foxnews.com/us/rhode-island-teen-already-bail-weapons-charge-arrested-crowded-beach-stabbing",
+      "published": "Fri, 22 May 2026 19:32:17 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2167,16 +2177,6 @@
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/two-time-nascar-champion-kyle-busch-tragically-dies-41-more-top-headlines",
       "published": "Fri, 22 May 2026 07:11:03 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Fox News True Crime Newsletter: Alex Murdaugh's new defense, Luigi Mangione's decision, Tyler Robinson's fight",
-      "description": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
-      "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-alex-murdaugh-new-defense-luigi-mangione-decision-tyler-robinson-fight",
-      "published": "Thu, 21 May 2026 23:06:15 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
