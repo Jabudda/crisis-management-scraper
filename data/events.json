@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T19:57:43.386341Z",
+  "last_updated": "2026-05-23T20:25:00.606348Z",
   "event_count": 223,
   "events": [
     {
@@ -183,16 +183,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
-      "description": "Those arrested reportedly took part in what officials described as 'terrorist attacks' in Turkiye.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss",
-      "published": "Sat, 23 May 2026 13:55:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
       "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
       "description": "Around 30,000 people have had to flee their homes in the Haitian capital Port-au-Prince and surrounding areas following a new wave of violent attacks and atrocities perpetrated by armed gangs over the past ten days.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167559",
@@ -323,10 +313,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
-      "description": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
+      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "description": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
       "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 19:32:07 GMT",
+      "published": "Sat, 23 May 2026 20:07:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
@@ -360,6 +350,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Is pragmatism replacing ideology in international affairs?",
+      "description": "Overlapping interests and conflict are shaping modern relations.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
+      "published": "Sat, 23 May 2026 19:56:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -623,20 +623,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran and US are close to an understanding aimed at ending the war, officials say",
-      "description": "The United States and Iran are close to agreeing on a memorandum of understanding to end the war, according to two regional officials and a diplomat",
-      "url": "https://abcnews.com/International/wireStory/iran-us-close-understanding-aimed-ending-war-officials-133250509",
-      "published": "Sat, 23 May 2026 12:05:48 -0400",
+      "title": "Argentine freed from Venezuelan prison urges pressure to release remaining prisoners",
+      "description": "Argentine Nahuel Gallo, who spent 448 days imprisoned in Venezuela, is calling for the international community to increase pressure on the government of interim Venezuelan President Delcy Rodríguez to release other prisoners",
+      "url": "https://abcnews.com/International/wireStory/argentine-freed-venezuelan-prison-urges-pressure-release-remaining-133239299",
+      "published": "Fri, 22 May 2026 22:26:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
     },
     {
-      "title": "Argentine freed from Venezuelan prison urges pressure to release remaining prisoners",
-      "description": "Argentine Nahuel Gallo, who spent 448 days imprisoned in Venezuela, is calling for the international community to increase pressure on the government of interim Venezuelan President Delcy Rodríguez to release other prisoners",
-      "url": "https://abcnews.com/International/wireStory/argentine-freed-venezuelan-prison-urges-pressure-release-remaining-133239299",
-      "published": "Fri, 22 May 2026 22:26:08 -0400",
+      "title": "Iran and US are close to an understanding aimed at ending the war, officials say",
+      "description": "The United States and Iran are close to agreeing on a memorandum of understanding to end the war, according to two regional officials and a diplomat",
+      "url": "https://abcnews.com/International/wireStory/iran-us-close-understanding-aimed-ending-war-officials-133250509",
+      "published": "Sat, 23 May 2026 12:05:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -763,6 +763,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Serbia: Police clash with protesters urging early elections",
+      "description": "Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic's government. The demonstration went ahead despite the state rail operator canceling trains to and from Belgrade.",
+      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 23 May 2026 20:22:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "South Africa's response to xenophobia is under fire",
       "description": "South Africa's government condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited, and political rhetoric sometimes fuels tensions instead of easing them.",
       "url": "https://www.dw.com/en/south-africa-s-response-to-xenophobia-is-under-fire/a-77265909?maca=en-rss-en-all-1573-xml-mrss",
@@ -847,6 +857,16 @@
       "description": "Resolution backed by 141 states hailed as ‘new chapter’ that could improve climate diplomacy and litigation efforts When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu’s prime minister hailed the result as the start of “a new chapter” in climate action. “The task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,” said Jotham Napat. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
       "published": "Fri, 22 May 2026 10:27:07 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "No refunds for 15,000 Australian ticket holders after Candace Owens’ tour cancelled",
+      "description": "Rightwing commentator says she is hundreds of thousands of dollars out of pocket and claims she was misled by promoter Rocksman Get our breaking news email , free app or daily news podcast None of the 15,000 ticket holders for conservative influencer Candace Owens’ cancelled Australian tour are expected to get their money back from the promoter, after it spent all its money then collapsed. Owens herself says she is hundreds of thousands of dollars out of pocket and claims she was misled by the promoter, Rocksman, a company with links to the influential conservative lobby group Turning Point Australia . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/24/candace-owens-tour-cancelled-australia-no-ticket-refunds-ntwnfb",
+      "published": "Sat, 23 May 2026 20:00:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
@@ -973,20 +993,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "The trolls come indoors as a Danish recycling artist stages his first museum exhibit",
-      "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
-      "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
-      "published": "Sat, 23 May 2026 04:15:48 -0400",
+      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
+      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
+      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
+      "published": "Fri, 22 May 2026 23:10:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
-      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
-      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
-      "published": "Fri, 22 May 2026 23:10:16 -0400",
+      "title": "The trolls come indoors as a Danish recycling artist stages his first museum exhibit",
+      "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
+      "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
+      "published": "Sat, 23 May 2026 04:15:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1073,7 +1093,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Live: 'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
+      "title": "'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
       "description": "The Norway-set drama \"Fjord\" by Romanian director Cristian Mungiu was awarded the Palme d'Or at the closing ceremony of the 79th Cannes Film Festival as critics hailed a strong field of contenders directed by auteurs from Russia, Iran, Japan and beyond.",
       "url": "https://www.france24.com/en/culture/20260523-live-cannes-film-festival-closing-ceremony-palme-d-or-announcement",
       "published": "Sat, 23 May 2026 18:11:47 GMT",
@@ -1103,20 +1123,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
-      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
-      "published": "Sat, 23 May 2026 04:15:44 -0400",
+      "title": "What to know about the death of Congolese man in Ireland",
+      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
+      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
+      "published": "Fri, 22 May 2026 07:28:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about the death of Congolese man in Ireland",
-      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
-      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
-      "published": "Fri, 22 May 2026 07:28:09 -0400",
+      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
+      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
+      "published": "Sat, 23 May 2026 04:15:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1164,7 +1184,7 @@
     },
     {
       "title": "'A new kind of war': Inside Ukraine's hidden factories mass-producing combat drones",
-      "description": "In an exclusive look inside Ukraine's hidden drone factories that are rapidly producing kamikaze drones and interceptor systems to counter Iranian-designed Shahed and other Russian drones.",
+      "description": "Get an exclusive look inside Ukraine's hidden drone factories rapidly producing kamikaze drones and interceptor systems to counter Iranian-designed Shahed and other Russian drones.",
       "url": "https://www.foxnews.com/world/a-new-kind-war-inside-ukraines-hidden-factories-mass-producing-combat-drones",
       "published": "Sat, 23 May 2026 09:40:45 -0400",
       "source": "Fox News World",
@@ -1278,16 +1298,6 @@
       "url": "https://news.sky.com/story/south-africas-julius-malema-the-opposition-leader-who-has-thrown-africas-oldest-surviving-political-party-into-disarray-again-13545092",
       "published": "Fri, 22 May 2026 00:01:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Canadian regulator triples American streamers' financial contributions to Canadian content",
-      "description": "Canada’s federal broadcast regulator says large online streaming services must contribute 15% of their Canadian revenues to Canadian content",
-      "url": "https://abcnews.com/International/wireStory/canadian-regulator-triples-american-streamers-financial-contributions-canadian-133203451",
-      "published": "Thu, 21 May 2026 17:47:17 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1453,6 +1463,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
+      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
+      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
+      "published": "Fri, 22 May 2026 02:11:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
       "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
       "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
@@ -1473,10 +1493,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
-      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
-      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
-      "published": "Fri, 22 May 2026 02:11:21 -0400",
+      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
+      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
+      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
+      "published": "Thu, 21 May 2026 23:23:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1563,20 +1583,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers",
-      "description": "Bundibugyo is the somewhat easy-to-mispronounce name of a species of Ebola",
-      "url": "https://abcnews.com/International/wireStory/ugandans-rue-link-bundibugyo-ebola-virus-type-named-133244301",
-      "published": "Fri, 22 May 2026 23:34:48 -0400",
+      "title": "Alberta province plans a public vote on whether to hold a binding referendum on leaving Canada",
+      "description": "The government in the oil-rich province of Alberta plans a referendum on leaving Canada but says it won't actually be a vote on whether to separate",
+      "url": "https://abcnews.com/International/wireStory/alberta-province-plans-public-vote-hold-binding-referendum-133208316",
+      "published": "Fri, 22 May 2026 02:23:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "Alberta province plans a public vote on whether to hold a binding referendum on leaving Canada",
-      "description": "The government in the oil-rich province of Alberta plans a referendum on leaving Canada but says it won't actually be a vote on whether to separate",
-      "url": "https://abcnews.com/International/wireStory/alberta-province-plans-public-vote-hold-binding-referendum-133208316",
-      "published": "Fri, 22 May 2026 02:23:27 -0400",
+      "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers",
+      "description": "Bundibugyo is the somewhat easy-to-mispronounce name of a species of Ebola",
+      "url": "https://abcnews.com/International/wireStory/ugandans-rue-link-bundibugyo-ebola-virus-type-named-133244301",
+      "published": "Fri, 22 May 2026 23:34:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1688,16 +1708,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Police drop case against artist who depicted high-profile Australians in uniforms with Nazi symbols",
-      "description": "Michael Agzarian was charged despite internal legal advice that the images were ‘political satire’, court hears Get our breaking news email , free app or daily news podcast Police charged an artist who depicted prominent Australians in military uniforms emblazoned with Nazi symbols despite internal legal advice the images were “political satire”, a court has heard. Police dropped the case against Michael Agzarian before the Downing Centre local court on Friday, almost a year after he had been charged with one count of displaying Nazi symbols by a public act without lawful excuse. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/23/police-drop-case-against-artist-who-depicted-prominent-australians-in-uniforms-with-nazi-symbols-ntwnfb",
-      "published": "Fri, 22 May 2026 23:57:23 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1956,7 +1966,7 @@
       "title": "M 6.0 - 13 km S of Honaunau-Napoopoo, Hawaii",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-05-23 07:46:01 UTC 2026-05-23 07:46:01 UTC at epicenter Location 19.340°N 155.843°W Depth 22.64 km (14.07 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427",
-      "published": "2026-05-23T19:56:10.962Z",
+      "published": "2026-05-23T20:22:14.006Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2017,16 +2027,6 @@
       "description": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well-known.",
       "url": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 23 May 2026 12:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "SpaceX launches biggest Starship rocket yet in test flight",
-      "description": "SpaceX's 12th Starship test flight took place just two days after Elon Musk announced that he was taking the company public.",
-      "url": "https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 23 May 2026 01:18:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
