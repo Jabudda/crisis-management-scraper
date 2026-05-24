@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T09:42:07.960017Z",
+  "last_updated": "2026-05-24T10:36:42.498769Z",
   "event_count": 223,
   "events": [
     {
@@ -50,16 +50,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ebola epidemic: Ten African countries at risk",
-      "description": "Africa CDC has issued a fresh warning this Saturday, saying up to ten additional African countries are now at risk as the Ebola outbreak spreads across the region. Those countries are Angola, Burundi, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Rwanda, South Sudan, Tanzania and Zambia. Uganda has confirmed three new cases, while the Red Cross says three volunteers have died in eastern DR Congo after contracting the virus in March. In Ituri’s Mongbwalu, residents attacked and burned part of an Ebola treatment centre, forcing 18 suspected cases to flee, while another centre in Rwampara was also set on fire.",
-      "url": "https://www.france24.com/en/video/20260523-ebola-epidemic-ten-african-countries-at-risk",
-      "published": "Sat, 23 May 2026 21:56:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -170,6 +160,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
+      "description": "At least 23 people have been killed after a suicide bomber detonated his explosive-laden car near a railway in the city of Quetta, in southwestern Pakistan, just as a passenger train passed. More than 70 people were also injured in the blast so powerful that two of the train cars overturned and caught fire.",
+      "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
+      "published": "Sun, 24 May 2026 10:12:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -463,6 +463,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Protesters clash with police after an anti-government rally in Serbia's capital",
+      "description": "Clashes erupted between groups of protesters and riot police after a huge anti-government rally on Saturday in the Serbian capital of Belgrade by tens of thousands of opponents of the country's autocratic President Aleksandar Vucic.",
+      "url": "https://www.france24.com/en/protesters-clash-with-police-after-an-anti-government-rally-in-serbia-s-capital",
+      "published": "Sun, 24 May 2026 10:08:48 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Gun suspect killed after opening fire at White House security checkpoint",
       "description": "The suspect in a shooting near the White House has died after being shot by police officers, according to the US Secret Service (USSS).",
       "url": "https://news.sky.com/story/gunshots-heard-near-the-white-house-reports-13547465",
@@ -523,16 +533,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
-      "description": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. It aims to end the war and includes two-month negotiations on Iran's nuclear program.",
-      "url": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
-      "published": "Sat, 23 May 2026 19:00:02 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Formula 1 legend 'injured during home invasion'",
       "description": "Police in Switzerland are investigating a home invasion in which four-time Formula 1 world champion Alain Prost was reportedly injured.",
       "url": "https://news.sky.com/story/alain-prost-formula-1-legend-injured-during-home-invasion-in-switzerland-13547293",
@@ -544,9 +544,9 @@
     },
     {
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
+      "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 08:22:58 GMT",
+      "published": "Sun, 24 May 2026 09:42:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -703,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Family of shooting survivor says 'defamatory' true-crime doc painted Olympic equestrian shooter as real victim",
+      "description": "Family of NJ woman shot by Olympic equestrian trainer condemns Netflix and 48 Hours documentaries, alleging biased coverage favoring her attacker.",
+      "url": "https://www.foxnews.com/us/family-shooting-survivor-says-defamatory-true-crime-doc-painted-olympic-equestrian-shooter-real-victim",
+      "published": "Sun, 24 May 2026 06:00:15 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Bodies of four missing Italian divers found inside 'shark cave' in Maldives days after they vanished",
       "description": "Rescuers found four Italian divers' bodies deep inside a Maldives underwater cave days after they vanished during a dive far beyond recreational limits.",
       "url": "https://www.foxnews.com/world/bodies-four-missing-italian-divers-found-inside-shark-cave-maldives-days-vanished",
@@ -757,16 +767,6 @@
       "description": "The United States and Iran are close to agreeing on a memorandum of understanding to end the war, according to two regional officials and a diplomat",
       "url": "https://abcnews.com/International/wireStory/iran-us-close-understanding-aimed-ending-war-officials-133250509",
       "published": "Sat, 23 May 2026 12:05:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Argentine freed from Venezuelan prison urges pressure to release remaining prisoners",
-      "description": "Argentine Nahuel Gallo, who spent 448 days imprisoned in Venezuela, is calling for the international community to increase pressure on the government of interim Venezuelan President Delcy Rodríguez to release other prisoners",
-      "url": "https://abcnews.com/International/wireStory/argentine-freed-venezuelan-prison-urges-pressure-release-remaining-133239299",
-      "published": "Fri, 22 May 2026 22:26:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -863,16 +863,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-      "description": "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-      "published": "Sat, 23 May 2026 21:14:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
       "description": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spiraling Ebola outbreak, according to reporting by Politico, but experts say the move won’t help prevent the spread of the disease. At least one woman is now in limbo after officials moved her to Kinshasa, the capital of the DRC, and now say they won’t bring her back because of the Ebola travel ban – despite a judge’s order for her return. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
@@ -923,10 +913,10 @@
       "severity_level": "High"
     },
     {
-      "title": "AI, Palantir & the Pushback: AI, Palantir & the Pushback: The London Mayor Vs the Met Police",
-      "description": "As concerns continue to grow over artificial intelligence, national security and digital sovereignty, London Mayor Sadiq Khan has blocked a proposed fifty-million-pound contract between the Metropolitan Police and AI giant Palantir. The company had been expected to provide advanced tools to help police process intelligence in criminal investigations. To discuss the decision, FRANCE 24’s Gavin Lee is joined by Susan Hall, leader of the Conservative Party in the London Assembly.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260523-ai-palantir-the-pushback-sadiq-khan-s-much-discussed-decision-over-met-police-contract",
-      "published": "Sat, 23 May 2026 18:25:18 GMT",
+      "title": "War in Ukraine: Russian strikes hit a school killing one person",
+      "description": "Gulliver Cragg is live from Ukraine.",
+      "url": "https://www.france24.com/en/war-in-ukraine-russian-strikes-hit-a-school",
+      "published": "Sun, 24 May 2026 09:50:05 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -1023,16 +1013,6 @@
       "severity_level": "High"
     },
     {
-      "title": "'At least 24' people killed after suicide bomber targets train carrying military personnel",
-      "description": "At least 24 people have died after a suicide bomber targeted a train carrying military personnel in Pakistan's southwestern province of Balochistan, officials have said.",
-      "url": "https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487",
-      "published": "Sun, 24 May 2026 07:59:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
       "description": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167580",
@@ -1078,16 +1058,6 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
       "published": "Sun, 24 May 2026 05:09:31 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "'Significant movement here in Washington': US and Iran report progress towards deal on ending war",
-      "description": "FRANCE 24 correspondent Fraser Jackson speaks from Washington, DC on the reported progress in the talks on ending the US-Israeli war on Iran.",
-      "url": "https://www.france24.com/en/significant-movement-here-in-washington-us-and-iran-report-progress-towards-deal-on-ending-war",
-      "published": "Sat, 23 May 2026 19:27:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1143,6 +1113,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
+      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
+      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
+      "published": "Fri, 22 May 2026 23:10:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10",
       "description": "Russia has launched an intense missile and drone attack on Kyiv, shaking buildings across the city center",
       "url": "https://abcnews.com/International/wireStory/russia-pounds-kyiv-missiles-drones-shaking-city-center-133262406",
@@ -1157,16 +1137,6 @@
       "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
       "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
       "published": "Sat, 23 May 2026 04:15:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
-      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
-      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
-      "published": "Fri, 22 May 2026 23:10:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1188,6 +1158,26 @@
       "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 08:10:51 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+      "description": "Iranian news agency says deal could see shipping levels through Strait of Hormuz return to pre-war levels within weeks.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "published": "Sun, 24 May 2026 10:01:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US, Iran inch closer to deal to end the war: What to know",
+      "description": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "published": "Sun, 24 May 2026 09:37:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1273,30 +1263,50 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
+      "description": "A \"largely negotiated\" memorandum of understanding on an Iran peace ​deal would reopen the Strait of Hormuz, U.S. President Donald Trump said on Saturday, as expectations rose that a turning point might be imminent in the three-month-old war.",
+      "url": "https://www.france24.com/en/trump-says-iran-deal-largely-negotiated-would-reopen-strait-of-hormuz",
+      "published": "Sun, 24 May 2026 10:11:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ten African countries at risk from Ebola virus Africa CDC warns",
+      "description": "Emmet Livingstone is live from Kinshasa, DR Congo.",
+      "url": "https://www.france24.com/en/ten-african-countries-at-risk-from-ebola-virus-africa-cdc-warns",
+      "published": "Sun, 24 May 2026 10:05:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "War in the Middle East: Trump says Iran deal 'largely negociated'",
+      "description": "Fraser Jackson has more.",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-trump-says-iran-deal-largely-negociated",
+      "published": "Sun, 24 May 2026 09:54:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Senegal's president sacks PM: Senegalese Parliament dissolved",
+      "description": "Senegal President Bassirou Diomaye Faye sacked Prime Minister Ousmane Sonko and dissolved the government on Friday after months of tensions, deepening a crisis in the debt-laden west African nation.",
+      "url": "https://www.france24.com/en/senegal-s-president-sacks-pm-senegalese-parliament-dissolved",
+      "published": "Sun, 24 May 2026 09:47:33 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Despite Middle East war, foreign pilgrims flock to Mecca for hajj",
       "description": "Despite the war in the Middle East, foreign pilgrims have flocked to Mecca to participate in this year’s hajj. According to officials, more than 1.5 million have already arrived in Saudi Arabia, surpassing last year’s numbers.",
       "url": "https://www.france24.com/en/middle-east/20260524-despite-middle-east-war-foreign-pilgrims-flock-to-mecca-for-hajj",
       "published": "Sun, 24 May 2026 05:39:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'Fjord' starring Sebastian Stan wins the Palme d’Or at 2026 Cannes Film Festival",
-      "description": "Romanian director Cristian Mungiu has won the Palme d’Or for 'Fjord', a tense family drama starring Sebastian Stan and Renate Reinsve. In FRANCE 24’s special Cannes awards programme, Eve Jackson and critic Emma Jones break down all the major winners from the closing ceremony – from the Grand Prix for 'Minotaur' to the double acting prizes for 'All of a Sudden' and 'Coward'.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260523-fjord-starring-sebastian-stan-wins-the-palme-d-or-at-2026-cannes-film-festival",
-      "published": "Sat, 23 May 2026 22:20:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
-      "description": "The Norway-set drama \"Fjord\" by Romanian director Cristian Mungiu was awarded the Palme d'Or at the closing ceremony of the 79th Cannes Film Festival as critics hailed a strong field of contenders directed by auteurs from Russia, Iran, Japan and beyond.",
-      "url": "https://www.france24.com/en/culture/20260523-live-cannes-film-festival-closing-ceremony-palme-d-or-announcement",
-      "published": "Sat, 23 May 2026 18:11:47 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1337,16 +1347,6 @@
       "description": "Filmmakers probe the mystery of Benjaman Kyle found unconscious behind a Georgia Burger King in 2004, raising questions about his missing 21-year gap.",
       "url": "https://www.foxnews.com/us/man-found-naked-behind-burger-king-amnesia-may-concealed-mysterious-past-decades",
       "published": "Sat, 23 May 2026 06:00:26 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Indiana sheriff's deputy shot three times in hospital ER after stopping to help stranded motorist",
-      "description": "An Indiana sheriff's deputy was shot three times in a hospital emergency room by a suspect he had helped as a stranded motorist, authorities say.",
-      "url": "https://www.foxnews.com/us/indiana-sheriffs-deputy-shot-three-times-hospital-er-stopping-help-stranded-motorist",
-      "published": "Fri, 22 May 2026 16:25:30 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1438,6 +1438,16 @@
       "url": "https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 23 May 2026 17:22:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "France bans Israeli minister Itamar Ben-Gvir after 'unspeakable' behavior",
+      "description": "France on Saturday banned Israel’s far-right national security minister, Itamar Ben-Gvir, citing his \"unspeakable\" behavior targeting activists from a flotilla to Gaza who were detained by his police force.",
+      "url": "https://www.france24.com/en/france-bans-israeli-minister-itamar-ben-gvir-after-unspeakable-behavior",
+      "published": "Sun, 24 May 2026 09:59:53 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1563,16 +1573,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Film stars take to the Cannes red carpet ahead of Palme d'Or announcement",
-      "description": "FRANCE 24 film critic Emma Jones reports from the red carpet at the 79th Cannes Film Festival in southern France.",
-      "url": "https://www.france24.com/en/film-stars-take-to-the-cannes-red-carpet-ahead-of-palme-d-or-announcement",
-      "published": "Sat, 23 May 2026 19:35:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Hezbollah MP reveals three things needed for lasting ceasefire with Israel",
       "description": "Despite ongoing negotiations, the US-brokered, month-old ceasefire between Lebanon and Israel has failed to halt fighting between the Israel Defence Forces (IDF) and Hezbollah, the Iran-backed Shia Muslim armed group.",
       "url": "https://news.sky.com/story/hezbollah-mp-reveals-three-things-needed-for-lasting-ceasefire-with-israel-13547232",
@@ -1587,6 +1587,16 @@
       "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
       "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
       "published": "Sat, 23 May 2026 04:15:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
+      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
+      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
+      "published": "Thu, 21 May 2026 23:23:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1618,6 +1628,16 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump touts Iran breakthrough but details remain unclear",
+      "description": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. Iran did not officially confirm the deal, and state media contradicted parts of it.",
+      "url": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
+      "published": "Sat, 23 May 2026 19:00:02 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1853,16 +1873,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-      "description": "US president says deal would include reopening Strait of Hormuz after call with Middle East leaders.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-      "published": "Sat, 23 May 2026 21:09:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2043,6 +2053,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "US-Cuba: Despite Trump's pressure, Cuba may not turn out like Venezuela",
+      "description": "Ed Augustin has more.",
+      "url": "https://www.france24.com/en/us-cuba-despite-trump-s-pressure-cuba-may-not-turn-out-like-venezuela",
+      "published": "Sun, 24 May 2026 09:45:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Norway-set drama about political polarization ‘Fjord’ wins Palme d’Or at Cannes",
+      "description": "Cristian Mungiu’s Norway-set drama about political polarization, “Fjord,” has won the Palme d’Or, handing the Cannes Film Festival ’s top honor for the second time to Mungiu, the Romanian director of “4 Months, 3 Weeks and 2 Days.”",
+      "url": "https://www.france24.com/en/norway-set-drama-about-political-polarization-fjord-wins-palme-d-or-at-cannes",
+      "published": "Sun, 24 May 2026 09:41:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Opening Day of Roland Garros: Brazilian prodigy Joao Fronseca to play",
       "description": "Follow the latest on France 24.",
       "url": "https://www.france24.com/en/video/20260524-opening-day-of-roland-garros-brazilian-prodigy-joao-fronseca-to-play",
@@ -2083,41 +2113,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "'Fjord' by Romania's Cristian Mungiu wins Palme d'Or at Cannes Film Festival",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/culture/20260523-live-cannes-film-festival-closing-ceremony-palme-d-or-announcement",
-      "published": "Sat, 23 May 2026 19:44:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Fjord wins Palme d’Or at Cannes Film Festival",
-      "description": "🎞️The film \"Fjord\" directed by Cristian Mungiu, starring Renate Reinsve and Sebastian Stan, wins the top prize at the 79th Cannes Film Festival. Inspired by real cases, the film follows a Romanian family who move to Norway and face accusations of child abuse amid a profound cultural clash.",
-      "url": "https://www.france24.com/en/fjord-wins-palme-d-or-at-cannes-film-festival",
-      "published": "Sat, 23 May 2026 19:39:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israeli minister Ben-Gvir banned from entering France",
-      "description": "Andrew Hiliar has more.",
-      "url": "https://www.france24.com/en/israeli-minister-ben-gvir-banned-from-entering-france",
-      "published": "Sat, 23 May 2026 16:16:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "🔴 US and Iran are ‘getting a lot closer’ to finalising agreement, Trump says",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/middle-east/20260523-live-iran-considers-latest-peace-proposal-accuses-us-of-excessive-demands",
-      "published": "Sat, 23 May 2026 16:15:42 GMT",
-      "source": "France24",
+      "title": "24 people die after suicide bomber targets train carrying military personnel",
+      "description": "At least 24 people have died after a suicide bomber targeted a train carrying military personnel and their families in Pakistan, officials say.",
+      "url": "https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487",
+      "published": "Sun, 24 May 2026 07:59:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2143,20 +2143,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Peru's Catholic Church holds a symbolic ceremony in apology for Indigenous land dispossession",
-      "description": "The highest Catholic authorities in Peru have held a symbolic reparation ceremony for an Indigenous community affected by land dispossession",
-      "url": "https://abcnews.com/International/wireStory/perus-catholic-church-holds-symbolic-ceremony-apology-indigenous-133257776",
-      "published": "Sat, 23 May 2026 17:55:35 -0400",
+      "title": "Moroccan king pardons Senegalese fans jailed over chaotic Africa Cup final",
+      "description": "Morocco’s king has granted an official pardon to Senegalese soccer fans jailed over hooliganism during the Africa Cup of Nations final",
+      "url": "https://abcnews.com/International/wireStory/moroccan-king-pardons-senegalese-fans-jailed-chaotic-africa-133256434",
+      "published": "Sat, 23 May 2026 16:43:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Moroccan king pardons Senegalese fans jailed over chaotic Africa Cup final",
-      "description": "Morocco’s king has granted an official pardon to Senegalese soccer fans jailed over hooliganism during the Africa Cup of Nations final",
-      "url": "https://abcnews.com/International/wireStory/moroccan-king-pardons-senegalese-fans-jailed-chaotic-africa-133256434",
-      "published": "Sat, 23 May 2026 16:43:27 -0400",
+      "title": "Peru's Catholic Church holds a symbolic ceremony in apology for Indigenous land dispossession",
+      "description": "The highest Catholic authorities in Peru have held a symbolic reparation ceremony for an Indigenous community affected by land dispossession",
+      "url": "https://abcnews.com/International/wireStory/perus-catholic-church-holds-symbolic-ceremony-apology-indigenous-133257776",
+      "published": "Sat, 23 May 2026 17:55:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
