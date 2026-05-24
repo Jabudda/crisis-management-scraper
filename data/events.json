@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T12:29:11.770021Z",
+  "last_updated": "2026-05-24T12:55:16.079817Z",
   "event_count": 223,
   "events": [
     {
@@ -310,6 +310,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+      "description": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
+      "published": "Sun, 24 May 2026 12:19:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -637,16 +647,6 @@
       "description": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
       "url": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
       "published": "Sun, 24 May 2026 11:41:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Man dies in northeast Australia after shark attack",
-      "description": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
-      "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
-      "published": "Sun, 24 May 2026 07:13:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -1153,16 +1153,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
-      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
-      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
-      "published": "Fri, 22 May 2026 23:10:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10",
       "description": "Russia has launched an intense missile and drone attack on Kyiv, shaking buildings across the city center",
       "url": "https://abcnews.com/International/wireStory/russia-pounds-kyiv-missiles-drones-shaking-city-center-133262406",
@@ -1643,20 +1633,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
-      "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
-      "published": "Sat, 23 May 2026 04:15:41 -0400",
+      "title": "Shrinking snowfall on Greece's mountains is provoking anxiety, altering the economy",
+      "description": "In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern",
+      "url": "https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509",
+      "published": "Sun, 24 May 2026 07:04:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Shrinking snowfall on Greece's mountains is provoking anxiety, altering the economy",
-      "description": "In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern",
-      "url": "https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509",
-      "published": "Sun, 24 May 2026 07:04:23 -0400",
+      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
+      "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
+      "published": "Sat, 23 May 2026 04:15:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -2113,16 +2103,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Britain's navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal",
-      "description": "The U.K.’s Royal Navy is preparing for a potential mine-clearing operation in the Strait of Hormuz",
-      "url": "https://abcnews.com/International/wireStory/britains-navy-prepares-clear-mines-strait-hormuz-waiting-133259304",
-      "published": "Sat, 23 May 2026 21:12:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Turkey's main opposition party is in a standoff over court-ordered leadership",
       "description": "Turkey's main opposition party, the CHP, faces a standoff outside its headquarters",
       "url": "https://abcnews.com/International/wireStory/turkeys-main-opposition-party-standoff-court-ordered-leadership-133264419",
@@ -2133,10 +2113,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "Britain's navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal",
+      "description": "The U.K.’s Royal Navy is preparing for a potential mine-clearing operation in the Strait of Hormuz",
+      "url": "https://abcnews.com/International/wireStory/britains-navy-prepares-clear-mines-strait-hormuz-waiting-133259304",
+      "published": "Sat, 23 May 2026 21:12:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Venezuela's Machado vows another run for presidency, eyes return from exile",
       "description": "Nobel Peace Prize laureate María Corina Machado is planning to run for the job of Venezuela's president again",
       "url": "https://abcnews.com/International/wireStory/venezuelas-machado-vows-run-presidency-eyes-return-exile-133258234",
       "published": "Sat, 23 May 2026 21:38:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Peru's Catholic Church holds a symbolic ceremony in apology for Indigenous land dispossession",
+      "description": "The highest Catholic authorities in Peru have held a symbolic reparation ceremony for an Indigenous community affected by land dispossession",
+      "url": "https://abcnews.com/International/wireStory/perus-catholic-church-holds-symbolic-ceremony-apology-indigenous-133257776",
+      "published": "Sat, 23 May 2026 17:55:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
