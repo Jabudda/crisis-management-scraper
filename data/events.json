@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T18:54:08.530535Z",
+  "last_updated": "2026-05-24T19:32:40.685173Z",
   "event_count": 223,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 48,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "description": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards. The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was first reported a week earlier. Continue reading...",
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "published": "Fri, 22 May 2026 15:47:31 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 45,
       "severity_level": "Critical"
     },
     {
@@ -60,6 +50,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
+      "description": "World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country. The Congolese Ministry of Communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "published": "Sun, 24 May 2026 19:07:33 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -310,6 +310,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israeli strikes kill six in southern Lebanon, amid fresh evacuation orders",
+      "description": "Israel's attacks in southern Lebanon are expanding despite supposed ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
+      "published": "Sun, 24 May 2026 19:09:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -633,21 +643,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Israeli attack on Gaza kills three family members, including infant",
-      "description": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
-      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
-      "published": "Sun, 24 May 2026 11:41:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "The squeeze on Cuba now includes compensation lawsuits",
       "description": "American University professor William LeoGrande explains how the Supreme Court's decision to allow lawsuits seeking compensation for assets seized in the Cuban revolution to move forward fits in context of current political crisis on the island.",
       "url": "https://www.npr.org/2026/05/23/nx-s1-5830447/the-squeeze-on-cuba-now-includes-compensation-lawsuits",
       "published": "Sat, 23 May 2026 17:53:40 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Suspected Ebola cases in eastern DR Congo pass 900 as health workers struggle with aid cuts",
+      "description": "As the number of suspected Ebola cases in the eastern Democratic Republic of Congo pass 900, health workers say that the chaos left by years of fighting and local government failures has been compounded by sweeping cuts to international aid budgets.",
+      "url": "https://www.france24.com/en/africa/20260524-suspected-ebola-cases-in-eastern-dr-congo-pass-900-as-health-workers-struggle-with-aid-cuts",
+      "published": "Sun, 24 May 2026 19:17:32 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1143,10 +1153,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
+      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
+      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
+      "published": "Fri, 22 May 2026 23:10:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10",
       "description": "Russia has launched an intense missile and drone attack on Kyiv, shaking buildings across the city center",
       "url": "https://abcnews.com/International/wireStory/russia-pounds-kyiv-missiles-drones-shaking-city-center-133262406",
       "published": "Sat, 23 May 2026 23:15:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "The trolls come indoors as a Danish recycling artist stages his first museum exhibit",
+      "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
+      "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
+      "published": "Sat, 23 May 2026 04:15:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1303,31 +1333,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ten African countries at risk from Ebola virus Africa CDC warns",
-      "description": "Emmet Livingstone is live from Kinshasa, DR Congo.",
-      "url": "https://www.france24.com/en/ten-african-countries-at-risk-from-ebola-virus-africa-cdc-warns",
-      "published": "Sun, 24 May 2026 10:05:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "British man killed in action while fighting alongside Ukrainian troops",
       "description": "A British man has been killed in action in Ukraine, the government has confirmed.",
       "url": "https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417",
       "published": "Sat, 23 May 2026 21:31:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "92 people abducted by jihadi militants rescued, Nigeria says",
-      "description": "The military did not specify how long those rescued had been in captivity.",
-      "url": "https://abcnews.com/International/wireStory/nigerias-military-troops-rescued-92-people-abducted-jihadi-133267987",
-      "published": "Sun, 24 May 2026 11:31:32 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1393,6 +1403,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "description": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 19:19:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Madrid protesters decry rising rents and housing shortage",
       "description": "Housing has long ranked among the top concerns in Spain, where demand has risen because of tourism and immigration-driven population growth.",
       "url": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-xml-mrss",
@@ -1428,16 +1448,6 @@
       "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
       "published": "Fri, 22 May 2026 10:00:56 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "France bans Israeli minister Itamar Ben-Gvir after 'unspeakable' behavior",
-      "description": "France on Saturday banned Israel’s far-right national security minister, Itamar Ben-Gvir, citing his \"unspeakable\" behavior targeting activists from a flotilla to Gaza who were detained by his police force.",
-      "url": "https://www.france24.com/en/france-bans-israeli-minister-itamar-ben-gvir-after-unspeakable-behavior",
-      "published": "Sun, 24 May 2026 09:59:53 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1583,20 +1593,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Shrinking snowfall on Greece's mountains is provoking anxiety, altering the economy",
-      "description": "In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern",
-      "url": "https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509",
-      "published": "Sun, 24 May 2026 07:45:58 -0400",
+      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
+      "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
+      "published": "Sat, 23 May 2026 04:15:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
-      "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
-      "published": "Sat, 23 May 2026 04:15:41 -0400",
+      "title": "Shrinking snowfall on Greece's mountains is provoking anxiety, altering the economy",
+      "description": "In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern",
+      "url": "https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509",
+      "published": "Sun, 24 May 2026 07:45:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1767,16 +1777,6 @@
       "description": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 14:06:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "description": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
-      "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:25:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2043,6 +2043,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "What next for India's Cockroach Party?",
+      "description": "The story of how an online joke became a viral sensation on social media, and started what appears to be the grassroots of a political movement.The Cockroach Party was founded by a public relations student to parody the comments made by India's supreme court judge. Abhijeet Dipke set up The Cockroach Party ten days ago, and has 23 million followers. Indian government alligned Critics call it a trojan horse for the opposition. Abhijeet speaks to France 24's Gavin Lee.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260524-cockroaches-in-power-from-a-parody-movement-to-real-political-hopes",
+      "published": "Sun, 24 May 2026 18:11:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Chinese astronaut to spend a full year in orbit as Beijing ramps up Moon race",
       "description": "China launched a three-man space flight to its Tiangong space station Sunday, where one astronaut will remain in orbit for a full year to prepare for future flights to the Moon. Beijing has said it aims to send a crewed mission to the Moon by 2030, having poured billions into its space programme over the past three decades.",
       "url": "https://www.france24.com/en/asia-pacific/20260524-chinese-astronaut-to-spend-a-full-year-in-orbit-as-beijing-ramps-up-moon-race",
@@ -2103,16 +2113,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkey's main opposition party is in a standoff over court-ordered leadership",
-      "description": "Turkey's main opposition party, the CHP, faces a standoff outside its headquarters",
-      "url": "https://abcnews.com/International/wireStory/turkeys-main-opposition-party-standoff-court-ordered-leadership-133264419",
-      "published": "Sun, 24 May 2026 07:03:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Britain's navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal",
       "description": "The U.K.’s Royal Navy is preparing for a potential mine-clearing operation in the Strait of Hormuz",
       "url": "https://abcnews.com/International/wireStory/britains-navy-prepares-clear-mines-strait-hormuz-waiting-133259304",
@@ -2123,20 +2123,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela's Machado vows another run for presidency, eyes return from exile",
-      "description": "Nobel Peace Prize laureate María Corina Machado is planning to run for the job of Venezuela's president again",
-      "url": "https://abcnews.com/International/wireStory/venezuelas-machado-vows-run-presidency-eyes-return-exile-133258234",
-      "published": "Sat, 23 May 2026 21:38:40 -0400",
+      "title": "Turkey's main opposition party is in a standoff over court-ordered leadership",
+      "description": "Turkey's main opposition party, the CHP, faces a standoff outside its headquarters",
+      "url": "https://abcnews.com/International/wireStory/turkeys-main-opposition-party-standoff-court-ordered-leadership-133264419",
+      "published": "Sun, 24 May 2026 07:03:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Peru's Catholic Church holds a symbolic ceremony in apology for Indigenous land dispossession",
-      "description": "The highest Catholic authorities in Peru have held a symbolic reparation ceremony for an Indigenous community affected by land dispossession",
-      "url": "https://abcnews.com/International/wireStory/perus-catholic-church-holds-symbolic-ceremony-apology-indigenous-133257776",
-      "published": "Sat, 23 May 2026 17:55:35 -0400",
+      "title": "Venezuela's Machado vows another run for presidency, eyes return from exile",
+      "description": "Nobel Peace Prize laureate María Corina Machado is planning to run for the job of Venezuela's president again",
+      "url": "https://abcnews.com/International/wireStory/venezuelas-machado-vows-run-presidency-eyes-return-exile-133258234",
+      "published": "Sat, 23 May 2026 21:38:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
