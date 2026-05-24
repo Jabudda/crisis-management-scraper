@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T06:19:18.089904Z",
+  "last_updated": "2026-05-24T07:35:09.835688Z",
   "event_count": 223,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "description": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 07:12:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -203,7 +213,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Gunman killed by Secret Service after shooting near White House",
+      "title": "Gunman killed near White House, Trump says suspect had ‘history of violence’",
       "description": "A gunman opened fire near the White House on Saturday evening before being shot dead by US Secret Service agents in a confrontation that also left a bystander wounded. President Donald Trump, who was inside the White House at the time, was not harmed in the incident.",
       "url": "https://www.france24.com/en/americas/20260524-gunman-killed-by-secret-service-after-shooting-near-white-house",
       "published": "Sun, 24 May 2026 01:58:19 GMT",
@@ -383,16 +393,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Missiles hit Kyiv after Russia vows retaliation",
-      "description": "Russia struck the Ukrainian capital with a large ballistic missile attack, leaving at least one person killed.",
-      "url": "https://www.dw.com/en/missiles-hit-kyiv-after-russia-vows-retaliation/a-77277443?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 24 May 2026 03:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "ISIS terror leader at large after US strike kills top commander amid rising Africa threat: analyst",
       "description": "Human intelligence penetrated deep local networks to kill ISIS West Africa commander al-Minuki, described as the group's biggest loss in years.",
       "url": "https://www.foxnews.com/world/isis-terror-leader-large-after-us-strike-kills-top-commander-amid-rising-africa-threat-analyst",
@@ -523,6 +523,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Dozens injured in Pakistan bombing near railway track as train passes",
+      "description": "More than two dozen people have been injured in Pakistan after a bomb exploded near a railway track as a train passed, officials say.",
+      "url": "https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487",
+      "published": "Sun, 24 May 2026 07:59:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Formula 1 legend 'injured during home invasion'",
       "description": "Police in Switzerland are investigating a home invasion in which four-time Formula 1 world champion Alain Prost was reportedly injured.",
       "url": "https://news.sky.com/story/alain-prost-formula-1-legend-injured-during-home-invasion-in-switzerland-13547293",
@@ -533,10 +543,10 @@
       "severity_level": "High"
     },
     {
-      "title": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
-      "description": "Twenty-one people have been injured, including a 15-year-old boy, with damage reported across all districts of Kyiv.",
+      "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
+      "description": "More than 50 people have been injured, including three children, with damage reported across Kyiv and nearby areas.",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 04:54:07 GMT",
+      "published": "Sun, 24 May 2026 07:17:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -663,6 +673,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Missiles hit Kyiv after Russia vows retaliation",
+      "description": "Russia struck the Ukrainian capital with a large ballistic missile attack, leaving at least four people dead in the city and surrounding region.",
+      "url": "https://www.dw.com/en/missiles-hit-kyiv-after-russia-vows-retaliation/a-77277443?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 24 May 2026 03:59:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "France bans Israel minister Ben-Gvir after flotilla video",
       "description": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationally.",
       "url": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-all-1573-xml-mrss",
@@ -677,6 +697,16 @@
       "description": "The United States and Iran are close to agreeing on a memorandum of understanding to end the war, according to two regional officials and a diplomat",
       "url": "https://abcnews.com/International/wireStory/iran-us-close-understanding-aimed-ending-war-officials-133250509",
       "published": "Sat, 23 May 2026 12:05:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Argentine freed from Venezuelan prison urges pressure to release remaining prisoners",
+      "description": "Argentine Nahuel Gallo, who spent 448 days imprisoned in Venezuela, is calling for the international community to increase pressure on the government of interim Venezuelan President Delcy Rodríguez to release other prisoners",
+      "url": "https://abcnews.com/International/wireStory/argentine-freed-venezuelan-prison-urges-pressure-release-remaining-133239299",
+      "published": "Fri, 22 May 2026 22:26:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -760,16 +790,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 23:24:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -983,16 +1003,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Hull beat Boro in world’s most lucrative game to reach Premier League",
-      "description": "Hull City beat Middlesbrough 1-0 in Championship playoff final at Wembley to seal promotion and ease spy-gate scandal.",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/hull-beat-boro-in-worlds-most-lucrative-game-to-reach-premier-league?traffic_source=rss",
-      "published": "Sat, 23 May 2026 17:18:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
       "description": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military intervention in Cuba, a renewed threat that takes on greater weight a day after the administration announced criminal charges against Raúl Castro, the island’s former leader. “Other presidents have looked at this for 50, 60 years, doing something,” Trump told reporters when asked about Cuba during an event in the Oval Office. “And it looks like I’ll be the one that does it. So I would be happy to do it.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
@@ -1031,6 +1041,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
+      "description": "The world heavyweight champion is pushed by the former Dutch kickboxer to 11 rounds in Egypt.",
+      "url": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss",
+      "published": "Sun, 24 May 2026 06:26:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Iran move World Cup base from US to Mexico with FIFA approval",
@@ -1073,16 +1093,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
-      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
-      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
-      "published": "Fri, 22 May 2026 23:10:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10",
       "description": "Russia has launched an intense missile and drone attack on Kyiv, shaking buildings across the city center",
       "url": "https://abcnews.com/International/wireStory/russia-pounds-kyiv-missiles-drones-shaking-city-center-133262406",
@@ -1097,6 +1107,16 @@
       "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
       "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
       "published": "Sat, 23 May 2026 04:15:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
+      "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
+      "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
+      "published": "Fri, 22 May 2026 23:10:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1233,20 +1253,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "British troops train for war with Russia from the London Underground",
-      "description": "British soldiers are fighting a Russian invasion from a platform on the London Underground in a wargame that reveals the UK must invest much more in defence - or risk defeat.",
-      "url": "https://news.sky.com/story/british-troops-train-for-war-with-russia-from-the-london-underground-13546909",
-      "published": "Fri, 22 May 2026 12:36:00 +0100",
-      "source": "Sky News World",
+      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
+      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
+      "published": "Sat, 23 May 2026 04:15:44 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
-      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
-      "published": "Sat, 23 May 2026 04:15:44 -0400",
+      "title": "What to know about the death of Congolese man in Ireland",
+      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
+      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
+      "published": "Fri, 22 May 2026 07:28:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1523,20 +1543,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
-      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
-      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
-      "published": "Thu, 21 May 2026 23:23:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
-      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
-      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
-      "published": "Fri, 22 May 2026 02:11:21 -0400",
+      "title": "Senegal's president fires prime minister after months of tensions",
+      "description": "Senegal’s President Bassirou Diomaye Faye has fired Prime Minister Ousmane Sonko after months of simmering tension",
+      "url": "https://abcnews.com/International/wireStory/senegals-president-fires-prime-minister-after-months-tensions-133238405",
+      "published": "Fri, 22 May 2026 20:28:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1573,16 +1583,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
-      "description": "Foreign ministers from the United States, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
-      "url": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 23 May 2026 07:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers",
       "description": "Bundibugyo is the somewhat easy-to-mispronounce name of a species of Ebola",
       "url": "https://abcnews.com/International/wireStory/ugandans-rue-link-bundibugyo-ebola-virus-type-named-133244301",
@@ -1610,6 +1610,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "description": "US president makes announcement after mediator Pakistan holds 'highly productive' talks in Tehran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "published": "Sun, 24 May 2026 05:35:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1670,6 +1680,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
+      "description": "More and more women and girls are making a mark in the overwhelmingly male sport, locally called 'neza baazi'.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss",
+      "published": "Sun, 24 May 2026 06:05:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1753,16 +1773,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’",
-      "description": "Middle East leaders join Trump in call on Iran as US push for a peace deal intensifies.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-      "published": "Sun, 24 May 2026 05:35:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Iranian sources lay out Iran-US deal details",
       "description": "Al Jazeera’s Ali Hashem reveals details of Iran's position on the potential peace agreement with the US.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
@@ -1827,16 +1837,6 @@
       "description": "Morocco jailed 18 Senegal fans following fan disturbances at the Africa Cup of Nations final in January.",
       "url": "https://www.aljazeera.com/sports/2026/5/23/morocco-king-pardons-jailed-senegal-football-fans-for-humanitarian-reasons?traffic_source=rss",
       "published": "Sat, 23 May 2026 17:53:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
-      "description": "Prime Minister Pedro Sanchez maintains the cases against his family and entourage are politically motivated.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
-      "published": "Sat, 23 May 2026 17:40:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1956,7 +1956,7 @@
       "title": "M 6.0 - 13 km S of Honaunau-Napoopoo, Hawaii",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-05-23 07:46:01 UTC 2026-05-23 07:46:01 UTC at epicenter Location 19.340°N 155.843°W Depth 22.64 km (14.07 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427",
-      "published": "2026-05-24T06:00:53.053Z",
+      "published": "2026-05-24T06:57:46.208Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1988,6 +1988,16 @@
       "url": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
       "published": "Sat, 23 May 2026 06:00:00 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Displaced Ukrainians risk home seizure under Russian law",
+      "description": "Russia is tightening control over property in occupied Ukrainian territories, requiring owners to register under Russian law. Many Ukrainians say returning to do so would put their safety and freedom at risk.",
+      "url": "https://www.dw.com/en/displaced-ukrainians-risk-home-seizure-under-russian-law/a-77233460?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 24 May 2026 06:52:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2123,16 +2133,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Moroccan king pardons Senegalese fans jailed over chaotic Africa Cup final",
-      "description": "Morocco’s king has granted an official pardon to Senegalese soccer fans jailed over hooliganism during the Africa Cup of Nations final",
-      "url": "https://abcnews.com/International/wireStory/moroccan-king-pardons-senegalese-fans-jailed-chaotic-africa-133256434",
-      "published": "Sat, 23 May 2026 16:43:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Peru's Catholic Church holds a symbolic ceremony in apology for Indigenous land dispossession",
       "description": "The highest Catholic authorities in Peru have held a symbolic reparation ceremony for an Indigenous community affected by land dispossession",
       "url": "https://abcnews.com/International/wireStory/perus-catholic-church-holds-symbolic-ceremony-apology-indigenous-133257776",
@@ -2143,20 +2143,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway",
-      "description": "Panamanian President José Raúl Mulino has announced Ilya Espino de Marotta as the new head of the Panama Canal, starting October 1",
-      "url": "https://abcnews.com/International/wireStory/veteran-panama-canal-engineer-woman-lead-interoceanic-waterway-133197757",
-      "published": "Thu, 21 May 2026 17:11:57 -0400",
+      "title": "Moroccan king pardons Senegalese fans jailed over chaotic Africa Cup final",
+      "description": "Morocco’s king has granted an official pardon to Senegalese soccer fans jailed over hooliganism during the Africa Cup of Nations final",
+      "url": "https://abcnews.com/International/wireStory/moroccan-king-pardons-senegalese-fans-jailed-chaotic-africa-133256434",
+      "published": "Sat, 23 May 2026 16:43:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "French artist JR begins his giant ‘cave’ art inflation over Paris’ oldest bridge",
-      "description": "The oldest bridge in Paris has begun vanishing as JR — the artist known as the “French Banksy” — began inflating a giant “cave” over the Pont Neuf",
-      "url": "https://abcnews.com/International/wireStory/french-artist-jr-begins-giant-cave-art-inflation-133174505",
-      "published": "Thu, 21 May 2026 08:14:07 -0400",
+      "title": "Everest record-holder Kami Rita Sherpa urges limit on climbers as crowds swell",
+      "description": "A renowned Mount Everest guide who scaled the peak a record 32nd time this week says there's an urgent need to limit climbers on the summit",
+      "url": "https://abcnews.com/International/wireStory/everest-record-holder-kami-rita-sherpa-urges-limit-133212475",
+      "published": "Fri, 22 May 2026 05:53:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
