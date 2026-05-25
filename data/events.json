@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T19:02:29.295043Z",
+  "last_updated": "2026-05-25T20:04:54.516317Z",
   "event_count": 222,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
+      "description": "Russia said Monday it would intensify strikes on Kyiv, targeting what it called Ukraine’s “decision-making centres”, and urged foreign diplomats and civilians to evacuate the capital. The warning followed a weekend barrage of drones, missiles and hypersonic weapons that killed four people, as Moscow vowed retaliation for an alleged Ukrainian attack in occupied Lugansk.",
+      "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave",
+      "published": "Mon, 25 May 2026 19:43:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -108,16 +118,6 @@
       "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
       "published": "Sun, 24 May 2026 19:07:33 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
-      "description": "The Israeli PM is under pressure due to the ongoing Hezbollah drone attacks towards Israel's north. Elsewhere, Iran could be restoring international internet access. DW has more.",
-      "url": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 25 May 2026 17:32:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical"
@@ -247,16 +247,6 @@
       "description": "Rescue teams are still working to stabilise buildings in Kyiv after massive Russian strikes over the weekend. Residents described it as the worst night of the year so far, with a high number of casualties. According to our correspondent Gulliver Cragg, the attacks appeared to target the city centre but were largely repelled thanks to air defence systems.",
       "url": "https://www.france24.com/en/video/20260525-ukraine-kyiv-residents-endure-worst-night-of-the-year-over-the-weeked",
       "published": "Mon, 25 May 2026 12:49:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Possible Iran-US deal: What we know about the key issues on both sides",
-      "description": "The United States and Iran have downplayed prospects for a rapid deal to end the Middle East war, despite signs of progress in talks. Key sticking points remain over Iran’s nuclear programme, control of the Strait of Hormuz, sanctions relief and a possible ceasefire in Lebanon, with both sides signalling that major issues are still unresolved.",
-      "url": "https://www.france24.com/en/middle-east/20260525-possible-iran-us-deal-what-we-know",
-      "published": "Mon, 25 May 2026 12:03:09 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 27,
@@ -464,7 +454,7 @@
     },
     {
       "title": "Germany news: More than 1,900 missing children",
-      "description": "Authorities say there are 1,933 missing children cases nationwide, up 6.8% from the year before. And, travellers in Germany seem nervous when it comes to air travel, amid the war in Iran, a survey suggests. Follow DW.",
+      "description": "Authorities say there are 1,933 missing children cases nationwide, up 6.8% from the year before. And, travellers in Germany seem nervous when it comes to air travel, amid the war in Iran, a survey suggests.",
       "url": "https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 25 May 2026 10:26:00 GMT",
       "source": "Deutsche Welle",
@@ -533,26 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’",
-      "description": "Tedros ⁠Adhanom Ghebreyesus says ​a delay in detecting cases means responders were now 'playing catch-up'.",
-      "url": "https://www.aljazeera.com/news/2026/5/25/who-chief-says-suspected-ebola-deaths-at-220-as-epidemic-outpacing-us?traffic_source=rss",
-      "published": "Mon, 25 May 2026 14:32:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Could Israel sabotage US-Iran deal?",
-      "description": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
-      "published": "Mon, 25 May 2026 13:29:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Millions gather in Mecca for Hajj despite security concerns",
       "description": "Despite security concerns linked to the conflict in the Middle East, pilgrims from around the world continue to arrive in Mecca for this year’s Hajj. Saudi officials say more than 1.5 million people have already reached the kingdom, with numbers expected to rise further as many say they are willing to take the risk to complete the pilgrimage.",
       "url": "https://www.france24.com/en/millions-gather-in-mecca-for-hajj-despite-security-concerns",
@@ -613,8 +583,8 @@
       "severity_level": "High"
     },
     {
-      "title": "France swelters as first-ever May heatwave alert issued",
-      "description": "France experienced record high temperatures for May over the weekend, according to the country’s national weather service, with Paris recording this year's first temperature above 30C on Saturday. A spokesperson for Meteo France added that a yellow heatwave alert issued Sunday was the very first “to be issued in May since the system was created in 2004\".",
+      "title": "France, UK swelter as first-ever May heatwave alert issued",
+      "description": "France and the UK experienced record high temperatures for May over the weekend, according to the country’s national weather service, with Paris recording this year's first temperature above 30C on Saturday. A spokesperson for Météo-France added that a yellow heatwave alert issued Sunday was the very first “to be issued in May since the system was created in 2004\".",
       "url": "https://www.france24.com/en/france/20260525-france-swelters-as-first-ever-may-heatwave-alert-issued",
       "published": "Mon, 25 May 2026 12:03:15 GMT",
       "source": "France24",
@@ -763,16 +733,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
-      "description": "Activists allege assaults and torture during Israeli detention after flotilla intercepted in international waters.",
-      "url": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss",
-      "published": "Mon, 25 May 2026 14:33:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -853,7 +813,27 @@
       "severity_level": "High"
     },
     {
-      "title": "Mexico says it will host Iranian team during 2026 FIFA World Cup",
+      "title": "Father mourns daughter killed in Israeli strike on Gaza",
+      "description": "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "published": "Mon, 25 May 2026 19:12:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "In Lebanon, everything and nothing has changed since 2000",
+      "description": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+      "published": "Mon, 25 May 2026 18:56:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
       "description": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
       "url": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
       "published": "Mon, 25 May 2026 18:11:02 +0000",
@@ -868,6 +848,16 @@
       "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
       "published": "Sat, 23 May 2026 14:33:05 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
+      "description": "Israeli Prime Minister Benjamin Netanyahu is under pressure due to ongoing Hezbollah drone attacks on northern Israel. Netanyahu said he ordered the military to increase strikes against Hezbollah. DW has more.",
+      "url": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 25 May 2026 17:32:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -918,6 +908,16 @@
       "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 25 May 2026 08:00:35 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+      "description": "Kyiv's Chornobyl Museum devastated in overnight Russian missile attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+      "published": "Mon, 25 May 2026 19:19:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1110,16 +1110,6 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'Blistering heat': Indians warned to stay indoors as temperatures soar",
-      "description": "The BBC's Sumedha Pal described how difficult it was to be standing in the streets of Delhi as temperatures rose to 45C .",
-      "url": "https://www.bbc.com/news/videos/ckgppxw9239o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 15:17:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1523,6 +1513,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 19:46:54 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
       "description": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
       "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
@@ -1663,16 +1663,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Iran says deal with US ‘not imminent’ despite progress",
-      "description": "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
-      "published": "Mon, 25 May 2026 13:19:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1783,6 +1773,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "THE KISWA: BEYOND THE CLOTH",
+      "description": "Every Muslim on earth has faced it in prayer. Billions have seen it in photos. Almost nobody knows its story.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/the-kiswa-beyond-the-cloth?traffic_source=rss",
+      "published": "Mon, 25 May 2026 19:25:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Lebanon marks Liberation Day under Israeli bombardment",
+      "description": "People in Lebanon have gathered to observe Liberation Day.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss",
+      "published": "Mon, 25 May 2026 19:02:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
       "description": "Twenty-six years after Israeli forces were driven out of southern Lebanon, fears of a new occupation have emerged.",
       "url": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss",
@@ -1817,16 +1827,6 @@
       "description": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
       "published": "Mon, 25 May 2026 14:43:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Baloch separatists ‘take advantage’ of Pakistan’s entanglements",
-      "description": "Baloch separatists 'take advantage' of Pakistan's entanglements",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss",
-      "published": "Mon, 25 May 2026 13:36:35 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1963,9 +1963,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Venezuela's government faces calls for elections after failed release of prisoners",
-      "description": "After Venezuela's promised release of hundreds of political prisoners failed to materialize, opponents of the current U.S.-backed interim government demand their freedom and call for elections.",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-faces-calls-for-elections-after-failed-release-of-prisoners",
+      "title": "Venezuela prisoner releases fall short, fueling doubts over reform",
+      "description": "In post-Maduro Venezuela, promised political prisoner releases fall short again—only dozens freed as hundreds remain jailed, fueling doubts over reforms.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-prisoners-us",
       "published": "Mon, 25 May 2026 04:40:29 -0400",
       "source": "NPR World News",
       "type": "rss",
