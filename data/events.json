@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T01:38:11.944502Z",
-  "event_count": 218,
+  "last_updated": "2026-06-04T03:15:21.375393Z",
+  "event_count": 220,
   "events": [
     {
       "title": "'US war on Iran not about the Iranian people: Europe can put the issue of human rights on the table'",
@@ -63,6 +63,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+      "description": "Lebanon's Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+      "published": "Thu, 04 Jun 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
       "title": "UK far right exploiting student stabbing attack 'to promote moral panic', expert says",
       "description": "Britain’s interior minister accused activists of hijacking a tragedy to stir up violence after police were attacked at a protest over the death of a teenager who was handcuffed as he lay dying while his killer stood nearby. Speaking with FRANCE 24's Mark Owen, Aaron Edwards, Honorary Research Fellow at the University of Leicester, says that \"we're seeing a populist challenge from the right which is feeding perceptions not founded in reality and promoting a moral panic\".",
       "url": "https://www.france24.com/en/uk-far-right-exploiting-student-stabbing-attack-to-promote-moral-panic-expert-says",
@@ -113,6 +123,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US military kills two alleged narco-terrorists in latest Eastern Pacific strike on drug-trafficking vessel",
+      "description": "U.S. military killed two alleged narco-terrorists in a lethal strike on a suspected drug-trafficking vessel in the Eastern Pacific, SOUTHCOM says.",
+      "url": "https://www.foxnews.com/us/us-military-kills-two-alleged-narco-terrorists-latest-eastern-pacific-strike-drug-trafficking-vessel",
+      "published": "Wed, 03 Jun 2026 22:20:45 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Hamas struggles to fill leadership ranks as Israel hunts Oct 7 terrorists",
       "description": "Hours after an Israeli airstrike killed Hamas military wing chief Mohammed Odeh, Gaza's Eid markets were full, revealing a disconnect with Hamas.",
       "url": "https://www.foxnews.com/world/hamas-struggles-fill-leadership-ranks-israel-hunts-oct-7-terrorists",
@@ -150,16 +170,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war live: Tensions simmer after latest US-Iran clashes in Gulf",
-      "description": "Lebanon's Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
-      "published": "Thu, 04 Jun 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -543,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel and Lebanon agree to implement ceasefire contingent on Hezbollah stopping attacks",
-      "description": "In a statement, the US State Department said both countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage.\"",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 00:16:44 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
       "description": "Bangladeshi Foreign Minister Khalilur Rahman was elected President of the UN General Assembly’s 81st session on Tuesday after defeating Andreas Kakouris of Cyprus in a closely contested vote, positioning himself to steer the world body through a pivotal year marked by intensifying global crises, UN reform efforts and major leadership transitions.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167626",
@@ -578,16 +578,6 @@
       "url": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 03 Jun 2026 08:39:43 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
-      "description": "Ex-Somali PM Khaire accuses government forces of attacking him before planned antigovernment protests in Mogadishu.",
-      "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
-      "published": "Wed, 03 Jun 2026 18:45:32 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -630,6 +620,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 00:16:44 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -1016,7 +1016,7 @@
       "title": "US House votes to halt Iran war, in rebuke to Trump",
       "description": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
       "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 00:22:35 GMT",
+      "published": "Thu, 04 Jun 2026 02:24:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1067,26 +1067,6 @@
       "description": "Tibetan spiritual leader Tenzin Gyatso received his first Grammy award for his spoken-word album.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss",
       "published": "Wed, 03 Jun 2026 19:23:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran faces a new energy imbalance, but its options are limited",
-      "description": "Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
-      "published": "Wed, 03 Jun 2026 18:19:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-      "description": "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-      "published": "Wed, 03 Jun 2026 17:54:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1363,6 +1343,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Rubio distances himself from Netanyahu’s Gaza plan",
+      "description": "House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss",
+      "published": "Thu, 04 Jun 2026 02:04:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1443,10 +1433,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia politics live: Greens call for ‘bloody close look’ at new tax laws that give Jim Chalmers ‘Henry VIII powers’",
-      "description": "Greens and Coalition oppose discretionary powers that would allow the treasurer to make rule changes to CGT and negative gearing after the legislation passes. Follow today’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers ’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition. As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers. Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things. Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want. Continue reading...",
+      "title": "Australia politics live: independent MPs split as Labor’s tax bill passes lower house vote",
+      "description": "After numerous divisions on amendments from the opposition and independents, the government has moved to vote on the substantive bill. Follow today’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers ’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition. As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers. Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things. Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb",
-      "published": "Thu, 04 Jun 2026 01:25:40 GMT",
+      "published": "Thu, 04 Jun 2026 03:04:13 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
@@ -1533,6 +1523,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "China bans four New Zealand MPs over Taiwan visit",
+      "description": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
+      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 02:54:21 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
       "description": "The bill to fund immigration agencies has been delayed by opposition to Trump's 'anti-weaponisation fund'.",
       "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
@@ -1583,11 +1583,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump-backed candidate in Iowa loses primary",
-      "description": "Randy Feenstra's defeat could prove to be a case of the president's political instincts being off.",
-      "url": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 13:35:04 GMT",
-      "source": "BBC News",
+      "title": "UK far right accused of exploiting killing of Henry Nowak",
+      "description": "UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss",
+      "published": "Thu, 04 Jun 2026 02:59:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
+      "description": "Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.",
+      "url": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss",
+      "published": "Thu, 04 Jun 2026 02:38:51 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1933,6 +1943,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Greenland is Denmark's 'for now', says America's top diplomat",
+      "description": "\"For now.\"",
+      "url": "https://news.sky.com/story/us-secretary-of-state-marco-rubio-says-greenland-is-part-of-denmark-for-now-13550610",
+      "published": "Thu, 04 Jun 2026 02:46:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Judge blocks Jewish group's attempt to stop Kanye West gigs",
+      "description": "Kanye West will be allowed to perform two gigs in the Netherlands after a judge shot down a Jewish group's attempt to block them.",
+      "url": "https://news.sky.com/story/judge-blocks-jewish-groups-attempt-to-stop-kanye-west-gigs-13550611",
+      "published": "Thu, 04 Jun 2026 03:14:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Philippine Senate reopens after impasse but standoff among senators remain",
       "description": "An impasse between two factions of senators in the Philippines that shut the Senate for two days has ended after one side gained a quorum and the chamber was able to reopen",
       "url": "https://abcnews.com/International/wireStory/philippine-senate-reopens-after-impasse-standoff-senators-remain-133569772",
@@ -2087,16 +2117,6 @@
       "description": "The accused killer of Chicago police officer John Bartholomew is ordered back into custody in a carjacking case after the SAFE-T Act drew scrutiny.",
       "url": "https://www.foxnews.com/us/chicago-cop-killing-suspect-sent-back-jail-judge-previously-freed-controversial-bail-law",
       "published": "Tue, 02 Jun 2026 17:45:03 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Illegal immigrant flashes courtroom grin after allegedly killing baby, mother and grandmother",
-      "description": "Illegal immigrant accused of killing a 2-week-old baby, mother and grandmother in California allegedly smirked during his courtroom appearance Monday.",
-      "url": "https://www.foxnews.com/us/illegal-immigrant-flashes-courtroom-grin-allegedly-killing-baby-mother-grandmother",
-      "published": "Tue, 02 Jun 2026 16:59:45 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
