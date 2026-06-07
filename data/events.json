@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T07:30:09.068668Z",
+  "last_updated": "2026-06-07T08:36:58.434026Z",
   "event_count": 223,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+      "description": "Tensions rise as US shoots down Iranian drones over Strait of Hormuz, vital for international maritime traffic.",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+      "published": "Sun, 07 Jun 2026 07:33:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -288,16 +298,6 @@
       "url": "https://www.france24.com/en/europe/20260607-why-zelensky-celebration-of-wwii-era-nationalist-guerrillas-is-causing-tension-with-poland",
       "published": "Sun, 07 Jun 2026 05:40:47 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "North Korean leader Kim showcases new warship ahead of visit by China's Xi",
-      "description": "North Korean leader Kim Jong Un observed sea trials of a new warship repaired after a failed launch last year and vowed to accelerate efforts to build a nuclear-armed navy, state media said Saturday, showcasing his expanding military capabilities ahead...",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-showcases-new-warship-ahead-133638097",
-      "published": "Fri, 05 Jun 2026 21:46:41 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -543,16 +543,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Turkish-flagged fishing boat is attacked in the Black Sea, leaving a sailor dead",
-      "description": "The Turkish Coast Guard says a Turkish-flagged fishing boat was attacked and sank off the northern Black Sea coast, leaving one sailor dead and four others wounded",
-      "url": "https://abcnews.com/International/wireStory/turkish-flagged-fishing-boat-attacked-black-sea-leaving-133640267",
-      "published": "Sat, 06 Jun 2026 00:40:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Haiti: Harrowing needs must be met with long-term engagement",
       "description": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe humanitarian crisis and leaving nearly 1.5 million people without a stable place to live, according to new figures released Friday by the UN migration agency, IOM.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167661",
@@ -603,6 +593,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Germany news: Far-right AfD makes push in district elections",
+      "description": "Sunday's district polls are seen as a barometer for elections in eastern states in September. Meanwhile, Chancellor Merz is headed to London to discuss the Ukraine war as Putin rejects face-to-face talks. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 7 Jun 2026 07:57:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Hegseth uses D-Day speech to issue immigration warning",
       "description": "Pete Hegseth has warned Europe is facing \"an invasion of dangerous ideologies\" arriving by sea, as he linked immigration to the legacy of the D-Day landings in Normandy.",
       "url": "https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447",
@@ -643,21 +643,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Radio station in DR Congo seeks to stop misinformation amid spread of Ebola",
-      "description": "The rare Bundibugyo type of Ebola that Congo is battling took locals by surprise after weeks of spreading unnoticed. Hundreds of cases were suspected when Congolese authorities announced the outbreak on May 15, but many dismissed the news as a “Western conspiracy.” At least 63 people have died from 397 confirmed cases, the Africa Centres for Disease Control and Prevention said Friday. Yet the outbreak has been challenged by skepticism, attacks on health workers and misinformation.",
-      "url": "https://www.france24.com/en/radio-station-in-dr-congo-seeks-to-stop-misinformation-amid-spread-of-ebola",
-      "published": "Sat, 06 Jun 2026 12:59:25 GMT",
-      "source": "France24",
+      "title": "Kosovo holds third election in 16 months",
+      "description": "Voters in Kosovo are heading to the polls in a snap vote called to resolve a parliamentary stalemate. The country's prolonged political crisis has further debilitated an already ailing economy.",
+      "url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 7 Jun 2026 08:12:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
     },
     {
-      "title": "Mock political party for India's young 'cockroaches' holds first street protest",
-      "description": "The Cockroach Janata Party, a satirical online movement, has taken its first steps into real-world politics",
-      "url": "https://abcnews.com/International/wireStory/mock-political-party-indias-young-cockroaches-set-hold-133640888",
-      "published": "Sat, 06 Jun 2026 14:58:03 -0400",
-      "source": "ABC News International",
+      "title": "Radio station in DR Congo seeks to stop misinformation amid spread of Ebola",
+      "description": "The rare Bundibugyo type of Ebola that Congo is battling took locals by surprise after weeks of spreading unnoticed. Hundreds of cases were suspected when Congolese authorities announced the outbreak on May 15, but many dismissed the news as a “Western conspiracy.” At least 63 people have died from 397 confirmed cases, the Africa Centres for Disease Control and Prevention said Friday. Yet the outbreak has been challenged by skepticism, attacks on health workers and misinformation.",
+      "url": "https://www.france24.com/en/radio-station-in-dr-congo-seeks-to-stop-misinformation-amid-spread-of-ebola",
+      "published": "Sat, 06 Jun 2026 12:59:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -783,11 +783,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Germany news: Teen Karl to miss World Cup through injury",
-      "description": "Bayern Munich's 18-year-old midfielder Lennart Karl sustained an injury during training in Chicago. Meanwhile, politically motivated crimes have doubled in a decade, according to a newspaper report.",
-      "url": "https://www.dw.com/en/germany-news-teen-karl-to-miss-world-cup-through-injury/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 6 Jun 2026 11:16:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "North Korea calls the US push for its denuclearization 'anachronistic dream'",
+      "description": "The powerful sister of North Korean leader Kim Jong Un has called a U_S_ push for denuclearization of North Korea “anachronistic dream.\"",
+      "url": "https://abcnews.com/International/wireStory/north-korea-calls-us-push-denuclearization-anachronistic-dream-133656552",
+      "published": "Sun, 07 Jun 2026 00:05:31 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -853,10 +853,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-      "description": "Israeli attack on Gaza City tent camp kills several Palestinians.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 19:25:27 +0000",
+      "title": "Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain",
+      "description": "Messi's progress depends on his 'clinical and functional progress', Argentina officials say ahead of title defence.",
+      "url": "https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain?traffic_source=rss",
+      "published": "Sun, 07 Jun 2026 07:47:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -887,16 +887,6 @@
       "description": "Germany’s final match before their World Cup start ended with a 2-1 win. But a tournament-ending injury to rising star Lennart Karl and doubts about veteran Manuel Neuer mean coach Julian Nagelsmann has work to do.",
       "url": "https://www.dw.com/en/germany-beat-usa-before-world-cup-but-injuries-cast-shadow/a-77446005?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 6 Jun 2026 21:17:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "As hot summer, blackouts loom, Iraq looks to solar power",
-      "description": "With so much sunlight, Iraq is very well-positioned to use solar power to help fix its annual summer electricity crisis. So why is it that Iraq's government has only recently started to take solar power seriously?",
-      "url": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 6 Jun 2026 06:15:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
@@ -943,7 +933,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
       "description": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
       "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 07 Jun 2026 07:11:18 GMT",
@@ -958,6 +948,16 @@
       "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 06 Jun 2026 23:25:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+      "description": "Lebanon's army chief Rodolphe Haykal left for Pakistan in a surprise visit as relentless fighting continues.",
+      "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+      "published": "Sun, 07 Jun 2026 07:59:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1068,6 +1068,16 @@
       "url": "https://news.sky.com/story/man-dies-after-shark-attack-in-australia-13551332",
       "published": "Sat, 06 Jun 2026 08:43:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Armenians go to the polls under Russian pressure aimed at preventing a drift toward West",
+      "description": "Armenians are voting in parliamentary elections as the government seeks to loosen ties with Moscow and increase cooperation with the West",
+      "url": "https://abcnews.com/International/wireStory/armenians-polls-russian-pressure-aimed-preventing-drift-west-133658593",
+      "published": "Sun, 07 Jun 2026 04:01:28 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1203,6 +1213,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "What to know about a rare visit by China's Xi to North Korea for talks with Kim Jong Un",
+      "description": "Chinese leader Xi Jinping is traveling to North Korea for the first time in nearly seven years, offering North Korean leader Kim Jong Un a stage to showcase an increasingly assertive foreign policy anchored by closer ties with his country’s former Cold...",
+      "url": "https://abcnews.com/International/wireStory/rare-visit-chinas-xi-north-korea-talks-kim-133657819",
+      "published": "Sun, 07 Jun 2026 01:05:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Taipei Zoo welcomes pair of red pandas from China, first in over a decade",
       "description": "A zoo in Taiwan's capital has received a pair of endangered red pandas from China",
       "url": "https://abcnews.com/International/wireStory/taipei-zoo-welcomes-pair-red-pandas-china-decade-133643703",
@@ -1213,10 +1233,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about a rare visit by China's Xi to North Korea for talks with Kim Jong Un",
-      "description": "Chinese leader Xi Jinping is traveling to North Korea for the first time in nearly seven years, offering North Korean leader Kim Jong Un a stage to showcase an increasingly assertive foreign policy anchored by closer ties with his country’s former Cold...",
-      "url": "https://abcnews.com/International/wireStory/rare-visit-chinas-xi-north-korea-talks-kim-133657819",
-      "published": "Sun, 07 Jun 2026 01:05:18 -0400",
+      "title": "What to know about Pope Leo's trip to Spain, from political scandal to Barcelona's architectural gem",
+      "description": "Pope Leo XIV’s weeklong visit to Spain will bring him to a once-staunchly Catholic country that has long been in the throes of waning religious practice",
+      "url": "https://abcnews.com/International/wireStory/pope-leos-trip-spain-political-scandal-barcelonas-architectural-133641648",
+      "published": "Sat, 06 Jun 2026 04:16:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1283,11 +1303,31 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Middle East: Shaky Israel-Hezbollah ceasefire tested",
+      "description": "Two projectiles were shot from Lebanon at Israeli territory, the Israeli military said, challenging the newly announced ceasefire. Follow DW for more.",
+      "url": "https://www.dw.com/en/middle-east-shaky-israel-hezbollah-ceasefire-tested/live-77442602?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 7 Jun 2026 07:54:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "India news: 'Cockroach' party holds protest at Jantar Mantar",
       "description": "\"Cockroach\" party founder Abhijeet Dipke is demanding the resignation of Education Minister Dharmendra Pradhan. Meanwhile, India has named teen Vaibhav Sooryavanshi in its latest T20 squad. Follow DW for more.",
       "url": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 6 Jun 2026 07:00:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Health workers at the epicenter of Congo's Ebola outbreak labor with little pay or rest",
+      "description": "Health workers inside Mongbwalu, the epicenter of Congo's outbreak, say they are working with little pay or rest",
+      "url": "https://abcnews.com/International/wireStory/health-workers-epicenter-congos-ebola-outbreak-labor-pay-133658871",
+      "published": "Sun, 07 Jun 2026 04:01:23 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1593,26 +1633,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "From first lady to president? Inside the rise of Peru’s Keiko Fujimori",
-      "description": "In her fourth bid to be president, Fujimori faces her best odds yet. But can she overcome scandal and her father's past?",
-      "url": "https://www.aljazeera.com/features/longform/2026/6/6/from-first-lady-to-president-inside-the-rise-of-perus-keiko-fujimori?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 18:51:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
-      "description": "Minister Daryl Vaz reassures residents that power had been restored across Jamaica after a rare islandwide outage.",
-      "url": "https://www.aljazeera.com/news/2026/6/6/unacceptable-situation-minister-cries-foul-as-jamaica-suffers-blackout?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 18:42:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1883,16 +1903,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo to focus on immigration, social justice in Spain",
-      "description": "Pope Leo XIV begins a weeklong trip to Spain, turning papal attention back to Europe and its Christian roots. The pope will also meet with some victims of sexual abuse by Catholic clergy.",
-      "url": "https://www.dw.com/en/pope-leo-to-focus-on-immigration-social-justice-in-spain/a-77443185?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 6 Jun 2026 06:16:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Armenia polls open in test of prime minister's pivot away from Russia",
       "description": "Polls open in Armenia on Sunday in a vote that is set to test the former Soviet republic's ties with Russia. As Prime Minister Nikol Pashinyan has sought to loosen dependence on Moscow, the Kremlin has been accused of seeking to sway the vote and Armenia's EU ambitions to the same path it claims triggered its 2022 invasion of Ukraine.",
       "url": "https://www.france24.com/en/europe/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
@@ -1973,30 +1983,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Bernadette Chirac, formidable former first lady of France, dies at 93",
-      "description": "Bernadette Chirac, the steel-willed former first lady of France, has died",
-      "url": "https://abcnews.com/International/wireStory/bernadette-chirac-formidable-former-lady-france-dies-93-133643921",
-      "published": "Sat, 06 Jun 2026 17:38:08 -0400",
+      "title": "With rising crime on their minds, Peruvians to vote for president yet again",
+      "description": "Peruvians are chosing between two presidential candidates with starkly different views",
+      "url": "https://abcnews.com/International/wireStory/rising-crime-minds-peruvians-vote-president-133659057",
+      "published": "Sun, 07 Jun 2026 04:01:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Norway’s Crown Princess Mette-Marit placed on a lung transplant list",
-      "description": "Norway’s Crown Princess Mette-Marit has been placed on a lung transplant list due to worsening pulmonary fibrosis",
-      "url": "https://abcnews.com/International/wireStory/norways-crown-princess-mette-marit-lung-transplant-list-133644497",
-      "published": "Sat, 06 Jun 2026 09:54:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Armenia prepares for an election that could reshape ties with Moscow and the West",
-      "description": "Armenia's parliamentary elections Sunday will focus on its geopolitical future as Prime Minister Nikol Pashinyan seeks closer ties with the EU and the U.S. That is despite Armenia's longstanding relations with Russia that are favored by most of the cou...",
-      "url": "https://abcnews.com/International/wireStory/armenia-prepares-election-reshape-ties-moscow-west-133640663",
-      "published": "Sat, 06 Jun 2026 00:40:30 -0400",
+      "title": "Kosovo voters return to the polls after parties fail to agree on a new president",
+      "description": "Voters in Kosovo head to the polls for an early parliamentary election",
+      "url": "https://abcnews.com/International/wireStory/kosovo-voters-return-polls-after-parties-fail-agree-133658503",
+      "published": "Sun, 07 Jun 2026 04:01:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2013,10 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope acknowledges stiff competition with Bad Bunny this weekend in Spain",
-      "description": "Pope Leo XIV acknowledges that he's competing with another VIP in Madrid this weekend",
-      "url": "https://abcnews.com/International/wireStory/pope-acknowledges-stiff-competition-bad-bunny-weekend-spain-133643311",
-      "published": "Sat, 06 Jun 2026 17:14:12 -0400",
+      "title": "Senior British royals gather as King Charles' nephew marries nurse Harriet Sperling",
+      "description": "King Charles III, Queen Camilla and other senior British royals were among guests attending the wedding of Charles' nephew, Peter Phillips",
+      "url": "https://abcnews.com/International/wireStory/senior-british-royals-gather-king-charles-nephew-marries-133651161",
+      "published": "Sat, 06 Jun 2026 14:02:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2033,30 +2033,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Cuba to open hotel sector to management by Cubans at home and abroad after chains leave island",
-      "description": "Cuba’s government says it is open to offering the management of the island's hotels to Cubans at home and abroad",
-      "url": "https://abcnews.com/International/wireStory/cuba-open-hotel-sector-management-cubans-home-abroad-133639460",
-      "published": "Fri, 05 Jun 2026 23:39:19 -0400",
+      "title": "Norway’s Crown Princess Mette-Marit placed on a lung transplant list",
+      "description": "Norway’s Crown Princess Mette-Marit has been placed on a lung transplant list due to worsening pulmonary fibrosis",
+      "url": "https://abcnews.com/International/wireStory/norways-crown-princess-mette-marit-lung-transplant-list-133644497",
+      "published": "Sat, 06 Jun 2026 09:54:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Traders face big losses after Uganda closes Congo border over Ebola contagion fears",
-      "description": "Ugandan authorities have tightened border controls with Congo to prevent Ebola's spread",
-      "url": "https://abcnews.com/International/wireStory/traders-face-big-losses-after-uganda-closes-congo-133642017",
-      "published": "Sat, 06 Jun 2026 04:19:02 -0400",
+      "title": "Bernadette Chirac, formidable former first lady of France, dies at 93",
+      "description": "Bernadette Chirac, the steel-willed former first lady of France, has died",
+      "url": "https://abcnews.com/International/wireStory/bernadette-chirac-formidable-former-lady-france-dies-93-133643921",
+      "published": "Sat, 06 Jun 2026 17:38:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo XIV urges Spain to stop fanning flames of polarization on first papal visit in 15 years",
-      "description": "Pope Leo XIV is urging Spaniards to stop “fanning the flames of polarization” as he arrived in Spain",
-      "url": "https://abcnews.com/International/wireStory/pope-find-secularized-polarized-spain-catholic-church-complex-133641254",
-      "published": "Sat, 06 Jun 2026 14:58:37 -0400",
+      "title": "Pope acknowledges stiff competition with Bad Bunny this weekend in Spain",
+      "description": "Pope Leo XIV acknowledges that he's competing with another VIP in Madrid this weekend",
+      "url": "https://abcnews.com/International/wireStory/pope-acknowledges-stiff-competition-bad-bunny-weekend-spain-133643311",
+      "published": "Sat, 06 Jun 2026 17:14:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2073,10 +2073,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Senior British royals gather as King Charles' nephew marries nurse Harriet Sperling",
-      "description": "King Charles III, Queen Camilla and other senior British royals were among guests attending the wedding of Charles' nephew, Peter Phillips",
-      "url": "https://abcnews.com/International/wireStory/senior-british-royals-gather-king-charles-nephew-marries-133651161",
-      "published": "Sat, 06 Jun 2026 14:02:04 -0400",
+      "title": "Traders face big losses after Uganda closes Congo border over Ebola contagion fears",
+      "description": "Ugandan authorities have tightened border controls with Congo to prevent Ebola's spread",
+      "url": "https://abcnews.com/International/wireStory/traders-face-big-losses-after-uganda-closes-congo-133642017",
+      "published": "Sat, 06 Jun 2026 04:19:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
