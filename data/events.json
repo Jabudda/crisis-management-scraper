@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T04:58:16.684817Z",
+  "last_updated": "2026-06-20T06:35:18.396078Z",
   "event_count": 221,
   "events": [
     {
@@ -60,6 +60,26 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Middle East live: Israeli strikes on southern Lebanon kill five despite ceasefire",
+      "description": "At least five people were killed in an Israeli air strike on southern Lebanon on Saturday, Lebanese state media said, after Israeli warplanes and drones reportedly carried out a series of attacks despite a ceasefire agreed with Hezbollah only a day earlier. The strikes came as US envoy Steve Witkoff and Iranian Foreign Minister Abbas Araqchi headed to Switzerland for talks. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
+      "published": "Sat, 20 Jun 2026 05:24:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "One dead and dozens injured in train collision north of London",
+      "description": "One person was killed and dozens of others were injured after two passenger trains travelling towards London collided near Bedford on Friday evening, triggering an emergency response and suspending rail services to and from St Pancras station.",
+      "url": "https://www.france24.com/en/europe/20260620-one-dead-and-dozens-injured-in-train-collision-north-of-london",
+      "published": "Sat, 20 Jun 2026 04:57:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +213,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Paris police ban Iranian opposition rally, cite 'tense international context'",
-      "description": "French police on Friday issued a last-minute ban on a rally by an Iranian opposition group planned for Saturday, citing a risk of violence. The National Resistance Council of Iran said its planned demonstration in Paris against executions by the Iranian regime was cancelled \"after business hours\" and called the authorities' justification \"bogus\".",
-      "url": "https://www.france24.com/en/france/20260619-paris-police-ban-iranian-opposition-rally-citing-tense-international-context",
-      "published": "Fri, 19 Jun 2026 15:34:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Ebola treatment capacity expands in DR Congo as WHO issues new guidelines",
       "description": "Treatment capacity for the rare and deadly Bundibugyo species of Ebola is expanding in eastern Democratic Republic of the Congo (DRC), as the World Health Organization (WHO) warns that community mistrust remains a major challenge to ending the outbreak.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167738",
@@ -258,16 +268,6 @@
       "url": "https://www.dw.com/en/guinea-bissau-opposition-leader-house-arrest-raises-stakes/a-77593866?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 19 Jun 2026 13:49:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "France tries to cope with second premature heatwave in less than a month",
-      "description": "France is in the grip of a heatwave, which Météo France expects to be \"wisdespread, prolonged and intense\". The thermometer is set to climb even higher in the coming days, reaching or exceeding 40°C on June 21, leading to several municipalities to cancel Fete de la Musique celebrations. The state-owned utility EDF has also warned that three nuclear plants face production curbs next week because of high temperatures on the Rhone and Garonne rivers.",
-      "url": "https://www.france24.com/en/france-tries-to-cope-with-second-premature-heatwave-in-less-than-a-month",
-      "published": "Fri, 19 Jun 2026 15:21:24 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -403,6 +403,16 @@
       "severity_level": "High"
     },
     {
+      "title": "What pushed the number of displaced people down?",
+      "description": "Global displacement fell for the first time in a decade. On World Refugee Day, AJLabs looks at what drove millions home.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/20/what-pushed-the-number-of-displaced-people-down?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 05:26:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
       "description": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Ghana. Heads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity. Continue reading...",
       "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
@@ -433,6 +443,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Nigerian migrants returning from South Africa face the same economic issues they left behind",
+      "description": "Nigerians repatriated from South Africa following a series of anti-migrant marches and reported attacks on some foreign nationals are struggling to settle into a new life back home",
+      "url": "https://abcnews.com/International/wireStory/nigerian-migrants-returning-south-africa-face-same-economic-134052376",
+      "published": "Sat, 20 Jun 2026 01:30:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
       "description": "Ukraine launched one of its largest drone attacks on Moscow, striking a major oil refinery and sending thick black smoke over parts of the Russian capital.",
       "url": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
@@ -443,11 +463,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+      "description": "Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.",
+      "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 05:58:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
       "description": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug is sold commercially the number of users increases and more mental health problems are seen, a review has found. An international team analysed the dramatic shift in policies on cannabis between 2000 and 2025, including how the numbers of people taking the drug, its potency, and rates of psychosis changed after new rules came in. Continue reading...",
       "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
       "published": "Wed, 17 Jun 2026 22:30:46 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "World Cup 2026: Turkey crash out after 1-0 defeat to ten-man Paraguay",
+      "description": "Paraguay secured a 1-0 victory over Turkey despite being reduced to 10 men on Friday, a result that guaranteed the United States first place in Group D and eliminated Turkey from World Cup contention.",
+      "url": "https://www.france24.com/en/sport/20260620-turkey-crash-out-after-1-0-defeat-to-ten-man-paraguay",
+      "published": "Sat, 20 Jun 2026 05:17:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -593,6 +633,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Western Europe braces for more extreme heat as temperatures continue to climb",
+      "description": "Western Europe sweltered under a punishing heatwave on Friday, with temperatures expected to climb further in the coming days and potentially shatter more records, prompting authorities across the continent to issue warnings and brace for prolonged extreme weather. In France, hundreds of schools were forced to tweak their timetables to cope.",
+      "url": "https://www.france24.com/en/europe/20260620-western-europe-braces-for-more-extreme-heat-as-temperatures-continue-to-climb",
+      "published": "Sat, 20 Jun 2026 06:13:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "ICC prosecutor Karim Khan suspended by UK's Bar Standards Board ‌",
       "description": "The ​UK's Bar Standards Board (BSB) said it has imposed an interim suspension ​on Karim Khan, ​chief prosecutor of the International Criminal Court (ICC).",
       "url": "https://news.sky.com/story/icc-prosecutor-karim-khan-suspended-by-uks-bar-standards-board-13555696",
@@ -667,16 +717,6 @@
       "description": "Talks come as Hezbollah, Israel say new ceasefire has been reached in wake of US-Iran memorandum to end war.",
       "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
       "published": "Fri, 19 Jun 2026 21:02:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-      "description": "'No ceasefire can be considered meaningful while children continue to be killed' says UNICEF.",
-      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-      "published": "Fri, 19 Jun 2026 20:50:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -803,11 +843,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Conflict over cattle in Brazil's Amazon highlights tensions for Indigenous peoples",
-      "description": "In northern Brazil, a debate over cattle and conservation is unfolding on Bananal Island",
-      "url": "https://abcnews.com/International/wireStory/conflict-cattle-brazils-amazon-highlights-tensions-indigenous-peoples-134029082",
-      "published": "Fri, 19 Jun 2026 12:27:15 -0400",
-      "source": "ABC News International",
+      "title": "Iran war: Steve Witkoff heading to Switzerland for talks",
+      "description": "US and Iranian diplomats are reportedly heading to Switzerland for peace talks after the initial round of negotiations involving US Vice President JD Vance was delayed over the fighting in Lebanon. DW has more.",
+      "url": "https://www.dw.com/en/iran-war-steve-witkoff-heading-to-switzerland-for-talks/live-77634368?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 20 Jun 2026 06:12:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -817,6 +857,16 @@
       "description": "Mexican authorities were working Friday to identify four bodies found on the outskirts of Mexico City as part of the search efforts to locate a married couple who disappeared in May while living in Chicago and Mexico, a local prosecutor told The Associ...",
       "url": "https://abcnews.com/International/wireStory/authorities-find-4-bodies-mexico-city-searching-missing-134046804",
       "published": "Fri, 19 Jun 2026 19:40:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Conflict over cattle in Brazil's Amazon highlights tensions for Indigenous peoples",
+      "description": "In northern Brazil, a debate over cattle and conservation is unfolding on Bananal Island",
+      "url": "https://abcnews.com/International/wireStory/conflict-cattle-brazils-amazon-highlights-tensions-indigenous-peoples-134029082",
+      "published": "Fri, 19 Jun 2026 12:27:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -838,6 +888,16 @@
       "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 04:30:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Turkiye knocked out of World Cup 2026 after 1-0 defeat to 10-man Paraguay",
+      "description": "Turkiye suffered their second successive defeat in North America, bringing an end to their World Cup campaign.",
+      "url": "https://www.aljazeera.com/sports/2026/6/20/turkiye-knocked-out-of-world-cup-2026-after-1-0-defeat-to-10-man-paraguay?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 05:24:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -897,16 +957,6 @@
       "description": "Kone is expected to make a full recovery after breaking his left leg, with multiple fractures, in the match against Qatar.",
       "url": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss",
       "published": "Fri, 19 Jun 2026 21:20:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-      "description": "All our updates, including post-match reaction, following our text commentary stream of the Group C clash.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026?traffic_source=rss",
-      "published": "Fri, 19 Jun 2026 20:33:07 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1138,16 +1188,6 @@
       "url": "https://www.dw.com/en/czech-government-causes-alarm-with-plan-to-scrap-license-fee/a-77625913?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 19 Jun 2026 12:10:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "New timetables, longer holidays: How can French schools adapt to heatwaves?",
-      "description": "The start of a new heatwave in France has prompted multiple schools to announce changes to their opening hours from Thursday onwards. As climate change makes high temperatures an annual – and increasingly early – phenomenon, France and other countries in southern Europe are debating whether more permanent changes are needed.",
-      "url": "https://www.france24.com/en/france/20260619-new-timetables-longer-holidays-how-french-schools-adapt-heatwaves",
-      "published": "Fri, 19 Jun 2026 15:15:38 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1423,16 +1463,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Obama's presidential centre opens in Chicago with call to defend democracy",
-      "description": "The Obama museum and civic center has been inaugurated in Chicago. It tells the story and cements the legacy of the former president, championning the principles of democracy. All former US presidents attended the event, as well as several celebrities. The nearly 20-acre (8-hectare) campus includes a museum featuring a life-sized replica of the Oval Office, a garden designed by former first lady Michelle Obama complete with lettuce and strawberry plants, a professional-grade basketball court, a picnic area with grills and a new branch of the Chicago Public Library. Visitors can expus erience high-tech and hands-on exhibits spanning the campaigns, key moments of Obama’s presidency and life at the White House.",
-      "url": "https://www.france24.com/en/barack-obama-s-presidential-centre-opens-in-chicago",
-      "published": "Fri, 19 Jun 2026 15:09:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Polish president strips Zelenskyy of honor over naming army unit after WWII group",
       "description": "Polish President Karol Nawrocki has decided to strip Ukrainian President Volodymyr Zelenskyy of Poland's highest state distinction",
       "url": "https://abcnews.com/International/wireStory/polish-president-strips-zelenskyy-honor-naming-army-unit-134042108",
@@ -1493,20 +1523,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "British police are responding to reports of a train collision north of London",
-      "description": "British police say they are responding to reports of a train collision north of London",
-      "url": "https://abcnews.com/International/wireStory/british-police-responding-reports-train-collision-north-london-134039096",
-      "published": "Fri, 19 Jun 2026 14:03:05 -0400",
+      "title": "Ghana conference urges slave-trade nations to issue apologies and reparations",
+      "description": "African and Caribbean leaders in Ghana are urging former slave-trading nations to issue apologies and reparations for the trafficking of enslaved Africans",
+      "url": "https://abcnews.com/International/wireStory/ghana-conference-urges-slave-trade-nations-issue-apologies-134042650",
+      "published": "Fri, 19 Jun 2026 17:50:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
     },
     {
-      "title": "Ghana conference urges slave-trade nations to issue apologies and reparations",
-      "description": "African and Caribbean leaders in Ghana are urging former slave-trading nations to issue apologies and reparations for the trafficking of enslaved Africans",
-      "url": "https://abcnews.com/International/wireStory/ghana-conference-urges-slave-trade-nations-issue-apologies-134042650",
-      "published": "Fri, 19 Jun 2026 17:50:59 -0400",
+      "title": "British police are responding to reports of a train collision north of London",
+      "description": "British police say they are responding to reports of a train collision north of London",
+      "url": "https://abcnews.com/International/wireStory/british-police-responding-reports-train-collision-north-london-134039096",
+      "published": "Fri, 19 Jun 2026 14:03:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1657,16 +1687,6 @@
       "description": "Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy.",
       "url": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
       "published": "Fri, 19 Jun 2026 23:11:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
-      "description": "Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss",
-      "published": "Fri, 19 Jun 2026 20:53:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1894,7 +1914,7 @@
     },
     {
       "title": "First case of H5 bird flu confirmed in Australia",
-      "description": "A migratory sea bird tested positive for the contagious H5 variant of bird flu in Western Australia. Up until now Australia was the only continent which had not detected the strain.",
+      "description": "A migratory seabird tested positive for the contagious H5 variant of avian influenza in Western Australia. Australia had been the only continent where H5 was not detected.",
       "url": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 20 Jun 2026 03:00:00 GMT",
       "source": "Deutsche Welle",
@@ -1953,16 +1973,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "US: Stars and ex-leaders on hand to open Obama Center",
-      "description": "The Barack Obama Presidential Center was opened in Chicago on Thursday in an event that was a celebration of democracy and an optimistic call to embrace \"our shared responsibilities as citizens.\"",
-      "url": "https://www.dw.com/en/us-stars-and-ex-leaders-on-hand-to-open-obama-center/a-77623934?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 19 Jun 2026 10:37:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Italy: Meloni says Trump 'made up' story that she 'begged' him for photo",
       "description": "Donald Trump claimed that Giorgia Meloni had 'begged' for a photo with him during the recent G7 summit. He added that he wasn’t obliged to do it but that he felt sorry for her and agreed.",
       "url": "https://www.france24.com/en/video/20260619-italy-meloni-says-trump-made-up-story-that-she-begged-him-for-photo",
@@ -1993,50 +2003,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canadian auto parts magnate Frank Stronach found guilty of sexual assault",
-      "description": "Austrian-Canadian billionaire Frank Stronach has been found guilty of sexual assault and indecent assault",
-      "url": "https://abcnews.com/International/wireStory/canadian-auto-parts-magnate-frank-stronach-found-guilty-134035050",
-      "published": "Fri, 19 Jun 2026 12:25:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cambodian Supreme Court upholds incitement conviction of opposition politician in charged case",
-      "description": "Cambodia’s Supreme Court has upheld the incitement conviction of prominent opposition politician Rong Chhun but suspended the remainder of his prison sentence, allowing him to remain free while barring him from politics for years",
-      "url": "https://abcnews.com/International/wireStory/cambodian-supreme-court-upholds-incitement-conviction-opposition-politician-134022522",
-      "published": "Fri, 19 Jun 2026 02:15:50 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Labour's Andy Burnham wins special election, setting up showdown to lead Britain",
-      "description": "Labour’s Andy Burnham has won a special election for a seat in Parliament, positioning him to challenge Prime Minister Keir Starmer",
-      "url": "https://abcnews.com/International/wireStory/labours-andy-burnham-wins-special-election-setting-showdown-134021524",
-      "published": "Fri, 19 Jun 2026 02:26:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Meloni slams Trump's claim she 'begged' for a photo with him",
-      "description": "The Italian government is pushing back after U.S. President Donald Trump claimed Premier Giorgia Meloni had “begged” for a photo with him during the recent G7 meeting",
-      "url": "https://abcnews.com/International/wireStory/meloni-slams-trumps-claim-begged-photo-italys-top-134026683",
-      "published": "Fri, 19 Jun 2026 10:37:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Armenia's opposition faces arrests as it contests the ruling party's election win",
       "description": "Several opposition members have been arrested in Armenia as a top pro-Russia party has asked the top court to annul the election win by the ruling party led by Prime Minister Nikol Pashinyan",
       "url": "https://abcnews.com/International/wireStory/armenias-opposition-faces-arrests-contests-ruling-partys-election-134037550",
       "published": "Fri, 19 Jun 2026 12:41:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Canadian auto parts magnate Frank Stronach found guilty of sexual assault",
+      "description": "Austrian-Canadian billionaire Frank Stronach has been found guilty of sexual assault and indecent assault",
+      "url": "https://abcnews.com/International/wireStory/canadian-auto-parts-magnate-frank-stronach-found-guilty-134035050",
+      "published": "Fri, 19 Jun 2026 12:25:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,10 +2033,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "About 100 Colombian guerrilla dissidents disarm under peace talks with government",
-      "description": "About a hundred Colombian guerrilla dissidents have surrendered their weapons as part of a peace process with President Gustavo Petro's government",
-      "url": "https://abcnews.com/International/wireStory/100-colombian-guerrilla-dissidents-disarm-peace-talks-government-134022151",
-      "published": "Fri, 19 Jun 2026 02:16:16 -0400",
+      "title": "Meloni slams Trump's claim she 'begged' for a photo with him",
+      "description": "The Italian government is pushing back after U.S. President Donald Trump claimed Premier Giorgia Meloni had “begged” for a photo with him during the recent G7 meeting",
+      "url": "https://abcnews.com/International/wireStory/meloni-slams-trumps-claim-begged-photo-italys-top-134026683",
+      "published": "Fri, 19 Jun 2026 10:37:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Dragon Boat Festival links modern China to traditions more than 2,000 years old",
+      "description": "The Dragon Boat Festival is a more than 2,000-year-old Chinese holiday celebrated across mainland China, Hong Kong and Taiwan",
+      "url": "https://abcnews.com/International/wireStory/dragon-boat-festival-links-modern-china-traditions-2000-134025112",
+      "published": "Fri, 19 Jun 2026 06:38:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Cambodian Supreme Court upholds incitement conviction of opposition politician in charged case",
+      "description": "Cambodia’s Supreme Court has upheld the incitement conviction of prominent opposition politician Rong Chhun but suspended the remainder of his prison sentence, allowing him to remain free while barring him from politics for years",
+      "url": "https://abcnews.com/International/wireStory/cambodian-supreme-court-upholds-incitement-conviction-opposition-politician-134022522",
+      "published": "Fri, 19 Jun 2026 02:15:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
