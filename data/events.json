@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T10:51:52.315912Z",
+  "last_updated": "2026-06-20T11:41:29.659689Z",
   "event_count": 222,
   "events": [
     {
@@ -53,13 +53,23 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
-      "description": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "description": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
       "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 20 Jun 2026 08:53:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
+      "description": "According to the United Nations, more than 1,000 civilians have been killed in drone strikes in Sudan since the beginning of the year. There has been a sharp increase in the use of drone warfare – a tactic marking a turning point in the three-year-war, which has created what the UN deems the \"world's worst humanitarian crisis.\" Details by FRANCE 24 regional correspondent Bastien Renouil.",
+      "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
+      "published": "Sat, 20 Jun 2026 11:14:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -73,23 +83,13 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Middle East live: At least 16 killed in southern Lebanon as Israel, Hezbollah trade blame",
-      "description": "Israeli strikes on southern Lebanon on Saturday killed at least 16 people despite a ceasefire agreed with Hezbollah only a day earlier. Israel and Hezbollah accused each other of violating the truce, with the Israeli military alleging breaches by the Iran-backed group and Hezbollah saying it had the right to respond to attacks. The violence unfolded as US envoy Steve Witkoff and Iranian Foreign Minister Abbas Araghchi headed to Switzerland for talks. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
-      "published": "Sat, 20 Jun 2026 05:24:03 GMT",
+      "title": "Could Israel lose Donald Trump’s support by continuing to drop bombs in Lebanon?",
+      "description": "Israeli strikes on southern Lebanon on Saturday killed at least seven people, including two children, hours after reports emerged of a ceasefire agreement. The persistent fighting threatened an interim agreement between the United States and Iran to end the war in the Middle East. Could Israel' Netanyahu lose Trump's support if strikes continue? Analysis by Yossi Mekelberg, senior consulting fellow at MENAP, Chatam House, London.",
+      "url": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
+      "published": "Sat, 20 Jun 2026 10:46:34 GMT",
       "source": "France24",
       "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "One dead and dozens injured in train collision north of London",
-      "description": "One person was killed and dozens of others were injured after two passenger trains travelling towards London collided near Bedford on Friday evening, triggering an emergency response and suspending rail services to and from St Pancras station.",
-      "url": "https://www.france24.com/en/europe/20260620-one-dead-and-dozens-injured-in-train-collision-north-of-london",
-      "published": "Sat, 20 Jun 2026 04:57:41 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -393,7 +393,17 @@
       "severity_level": "High"
     },
     {
-      "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+      "title": "What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign",
+      "description": "Experts hope the 'extra animosity' towards Team Melli will subside as the agreement comes into being.",
+      "url": "https://www.aljazeera.com/sports/2026/6/20/what-the-us-iran-peace-deal-could-mean-for-irans-world-cup-campaign?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 11:08:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Parents and two daughters killed in Israeli strike in Gaza",
       "description": "Israel has repeatedly violated the October ceasefire brokered by the US.",
       "url": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
       "published": "Sat, 20 Jun 2026 08:18:01 +0000",
@@ -427,16 +437,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
       "published": "Sat, 20 Jun 2026 07:27:51 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "World Cup 2026: Turkey crash out after defeat to ten-man Paraguay",
-      "description": "Paraguay secured a 1-0 victory over Turkey despite being reduced to 10 men on Friday, a result that guaranteed the United States first place in Group D and eliminated Turkey from World Cup contention.",
-      "url": "https://www.france24.com/en/sport/20260620-turkey-crash-out-after-1-0-defeat-to-ten-man-paraguay",
-      "published": "Sat, 20 Jun 2026 05:17:02 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 16,
@@ -487,6 +487,16 @@
       "description": "A monitoring group says a boat carrying dozens of migrants bound for European shores capsized off the coast of Libya last week, leaving 51 people dead or missing",
       "url": "https://abcnews.com/International/wireStory/boat-migrants-capsized-north-off-libya-leaving-51-134038640",
       "published": "Fri, 19 Jun 2026 14:04:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Mexico advances in the World Cup and other top photos",
+      "description": "June 12-18, 2026 Mexico became the first country to reach the knockout stage of the World Cup, beating South Korea 1-0. Merlín the duck is celebrated as the team mascot. Conservative Keiko Fujimori leads progressive Roberto Sánchez as votes are slowly counted from Peru’s presidential runoff election. A deeply divided electorate is preparing to vote for Colombia’s next president in a tight runoff election between a progressive and a conservative outsider. This gallery was curated by photo editor Anita Baca based in Mexico City. ___ AP photography: https://apnews.com/photography AP News on Instagram: https://www.instagram.com/apnews",
+      "url": "https://abcnews.com/International/wireStory/mexico-advances-world-cup-top-photos-latin-america-134022703",
+      "published": "Fri, 19 Jun 2026 01:22:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -613,21 +623,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Vinícius and Cunha fire Brazil past Haiti and into World Cup contention",
-      "description": "Vinícius Júnior scored and set up one of Matheus Cunha's two goals as Brazil beat Haiti 3-0 on Friday to strengthen their bid for a place in the World Cup knockout stage. Haiti became the first team eliminated from the tournament, while Brazil responded emphatically after their opening draw with Morocco.",
-      "url": "https://www.france24.com/en/sport/20260620-vin%C3%ADcius-and-cunha-fire-brazil-past-haiti-and-into-world-cup-contention",
-      "published": "Sat, 20 Jun 2026 02:50:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Ebola outbreak kills 17 healthcare workers as Chinese medical team arrives in DRC",
       "description": "Seventeen healthcare workers have died from Ebola in the Democratic Republic of Congo (DRC), a World Health Organisation official has said.",
       "url": "https://news.sky.com/story/ebola-outbreak-17-medics-dead-as-chinese-medical-team-arrives-in-democratic-republic-of-congo-13555745",
       "published": "Fri, 19 Jun 2026 12:16:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "About 300 children and teachers rescued after fire breaks out at Tokyo school",
+      "description": "Officials say a fire broke out at an elementary school in downtown Tokyo, but that all of the roughly 300 students and teachers were evacuated or rescued",
+      "url": "https://abcnews.com/International/wireStory/300-children-teachers-evacuated-rescued-after-fire-breaks-134022612",
+      "published": "Fri, 19 Jun 2026 02:44:10 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -793,16 +803,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war: Steve Witkoff heading to Switzerland for talks",
-      "description": "US and Iranian diplomats are reportedly heading to Switzerland for peace talks. An initial round of negotiations involving US Vice President JD Vance was delayed as fighting continued in Lebanon. DW has more.",
-      "url": "https://www.dw.com/en/iran-war-steve-witkoff-heading-to-switzerland-for-talks/live-77634368?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 20 Jun 2026 06:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Ebola : Healthworkers in DR Congo worry for their life amid deadly outbreak",
       "description": "Ituri province in eastern DRC is the hardest hit by the Ebola outbreak. The response to the virus is underway. On the frontlines of this outbreak are healthcare workers, who feel increasingly helpless. They have never faced an outbreak of this magnitude before. Report by Aurélie Bazzara-Kibangula, Paula Sevilles and Jorkim Jotham Pituwa.",
       "url": "https://www.france24.com/en/ebola-healthworkers-in-dr-congo-worry-for-their-life-amid-deadly-outbreak",
@@ -813,20 +813,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Authorities find 4 bodies outside Mexico City while searching for a missing American",
-      "description": "Mexican authorities were working Friday to identify four bodies found on the outskirts of Mexico City as part of the search efforts to locate a married couple who disappeared in May while living in Chicago and Mexico, a local prosecutor told The Associ...",
-      "url": "https://abcnews.com/International/wireStory/authorities-find-4-bodies-mexico-city-searching-missing-134046804",
-      "published": "Fri, 19 Jun 2026 19:40:12 -0400",
+      "title": "Conflict over cattle in Brazil's Amazon highlights tensions for Indigenous peoples",
+      "description": "In northern Brazil, a debate over cattle and conservation is unfolding on Bananal Island",
+      "url": "https://abcnews.com/International/wireStory/conflict-cattle-brazils-amazon-highlights-tensions-indigenous-peoples-134029082",
+      "published": "Fri, 19 Jun 2026 12:27:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
     },
     {
-      "title": "Conflict over cattle in Brazil's Amazon highlights tensions for Indigenous peoples",
-      "description": "In northern Brazil, a debate over cattle and conservation is unfolding on Bananal Island",
-      "url": "https://abcnews.com/International/wireStory/conflict-cattle-brazils-amazon-highlights-tensions-indigenous-peoples-134029082",
-      "published": "Fri, 19 Jun 2026 12:27:15 -0400",
+      "title": "Authorities find 4 bodies outside Mexico City while searching for a missing American",
+      "description": "Mexican authorities were working Friday to identify four bodies found on the outskirts of Mexico City as part of the search efforts to locate a married couple who disappeared in May while living in Chicago and Mexico, a local prosecutor told The Associ...",
+      "url": "https://abcnews.com/International/wireStory/authorities-find-4-bodies-mexico-city-searching-missing-134046804",
+      "published": "Fri, 19 Jun 2026 19:40:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -848,6 +848,16 @@
       "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 04:30:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Morocco fans dream of World Cup glory after Scotland win",
+      "description": "This is what Morocco’s fans are saying after winning their first match at the 2026 World Cup.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/morocco-fans-dream-of-world-cup-glory-after-scotland-win?traffic_source=rss",
+      "published": "Sat, 20 Jun 2026 10:50:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -893,16 +903,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cunha hits Brazil double against Haiti to seal first World Cup 2026 win",
-      "description": "Manchester United's Matheus Cunha scores Brazil's first two goals in 3-0 win against Haiti as FIFA event progress nears.",
-      "url": "https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 02:42:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -928,6 +928,16 @@
       "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
       "published": "Tue, 16 Jun 2026 17:15:13 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Canadian beer prices test German fans' thirst at FIFA World Cup",
+      "description": "The FIFA World Cup is in full swing, including in Canada. Toronto is hosting Saturday's match between Germany and the Ivory Coast. The German supporters are there and they’re angry – according to them, the price of beer is far too high. Story by Daniel Quinlan and Antoine Fenaux.",
+      "url": "https://www.france24.com/en/canadian-beer-prices-test-german-fans-thirst-at-fifa-world-cup",
+      "published": "Sat, 20 Jun 2026 10:48:33 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1017,16 +1027,6 @@
       "description": "“You will be quiet.” A UN meeting descended into a heated exchange.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/un-meeting-erupts-over-sexual-violence-allegations-against-israel?traffic_source=rss",
       "published": "Sat, 20 Jun 2026 04:26:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "One dead and 89 injured following train collision in Bedford, UK",
-      "description": "One person is dead and almost 90 injured, after two trains collided near Bedford, about 100km north of London.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/one-dead-and-89-injured-following-train-collision-in-bedford-uk?traffic_source=rss",
-      "published": "Sat, 20 Jun 2026 03:04:21 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1128,6 +1128,16 @@
       "url": "https://abcnews.com/International/wireStory/2-roadside-bombs-northwest-pakistan-kill-7-134053244",
       "published": "Sat, 20 Jun 2026 05:31:56 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "South Carolina fitness trainer told friends she wanted to leave her now-husband years before body was found",
+      "description": "Friends say missing South Carolina trainer Elena Katherine Moore wanted to leave her now-husband before her body was discovered this week.",
+      "url": "https://www.foxnews.com/us/south-carolina-fitness-trainer-told-friends-wanted-leave-husband-years-body-found",
+      "published": "Sat, 20 Jun 2026 07:00:46 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1313,16 +1323,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Judge orders ICE to free Wisconsin mosque leader over 'substantial' free speech claim after criticizing Israel",
-      "description": "A federal judge ordered the release of a mosque leader, ruling he raised a substantial free speech claim after being detained by ICE for speaking out against Israel.",
-      "url": "https://www.foxnews.com/us/judge-orders-ice-free-wisconsin-mosque-leader-substantial-free-speech-claim-criticizing-israel",
-      "published": "Thu, 18 Jun 2026 21:57:20 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Elon Musk demands prison for politicians who 'turned a blind eye' to grooming gangs as new report released",
       "description": "Elon Musk amplified a citizen-funded report accusing the British state of failing to protect children from organized grooming gang exploitation across England.",
       "url": "https://www.foxnews.com/world/elon-musk-demands-prison-politicians-who-turned-blind-eye-grooming-gangs-new-report-released",
@@ -1433,20 +1433,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ukrainian officials criticize Polish president's decision to strip Zelenskyy of honor",
-      "description": "Polish President Karol Nawrocki has decided to strip Volodymyr Zelenskyy of Poland’s highest state honor",
-      "url": "https://abcnews.com/International/wireStory/ukrainian-officials-criticize-polish-presidents-decision-strip-zelenskyy-134053656",
-      "published": "Sat, 20 Jun 2026 05:34:53 -0400",
+      "title": "Polish president strips Zelenskyy of honor over naming army unit after WWII group",
+      "description": "Polish President Karol Nawrocki has decided to strip Ukrainian President Volodymyr Zelenskyy of Poland's highest state distinction",
+      "url": "https://abcnews.com/International/wireStory/polish-president-strips-zelenskyy-honor-naming-army-unit-134042108",
+      "published": "Fri, 19 Jun 2026 15:53:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "Polish president strips Zelenskyy of honor over naming army unit after WWII group",
-      "description": "Polish President Karol Nawrocki has decided to strip Ukrainian President Volodymyr Zelenskyy of Poland's highest state distinction",
-      "url": "https://abcnews.com/International/wireStory/polish-president-strips-zelenskyy-honor-naming-army-unit-134042108",
-      "published": "Fri, 19 Jun 2026 15:53:07 -0400",
+      "title": "Ukrainian officials criticize Polish president's decision to strip Zelenskyy of honor",
+      "description": "Polish President Karol Nawrocki has decided to strip Volodymyr Zelenskyy of Poland’s highest state honor",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-officials-criticize-polish-presidents-decision-strip-zelenskyy-134053656",
+      "published": "Sat, 20 Jun 2026 05:34:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1493,11 +1493,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ghana conference urges slave-trade nations to issue apologies and reparations",
-      "description": "African and Caribbean leaders in Ghana are urging former slave-trading nations to issue apologies and reparations for the trafficking of enslaved Africans",
-      "url": "https://abcnews.com/International/wireStory/ghana-conference-urges-slave-trade-nations-issue-apologies-134042650",
-      "published": "Fri, 19 Jun 2026 17:50:59 -0400",
-      "source": "ABC News International",
+      "title": "Israel's new clashes with Hezbollah loom over US-Iran deal",
+      "description": "Fighting between Hezbollah and Israel rages on despite earlier proclamations of a truce in Lebanon. Meanwhile, Trump's special envoy, Steve Witkoff, is reportedly traveling to Switzerland for peace talks. DW has more.",
+      "url": "https://www.dw.com/en/israel-s-new-clashes-with-hezbollah-loom-over-us-iran-deal/live-77634368?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 20 Jun 2026 11:25:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1953,6 +1953,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Why are so many Brits in Paris for Fête de la Musique?",
+      "description": "Block parties all night, live music till early in the morning, and... British tourists? In 2025, Paris's annual Fête de la Musique, the 'Festival of Music' marking the advent of summer, saw a wave of young Brits crossing the Channel to take part in the revelry. What's that trend all about? FRANCE 24's Tanishk Saha explains.",
+      "url": "https://www.france24.com/en/video/20260620-why-are-so-many-brits-in-paris-for-f%C3%AAte-de-la-musique",
+      "published": "Sat, 20 Jun 2026 11:05:45 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump unveils new Air Force One converted from luxury jet gifted by Qatar",
       "description": "US President Donald Trump on Friday unveiled a new Air Force One converted from a former Qatari-owned Boeing 747, calling it a \"flying White House\" while touting the aircraft's luxury interior. The plane will serve as a temporary replacement as presidential jets ordered directly from Boeing have been delayed until 2028.",
       "url": "https://www.france24.com/en/americas/20260620-trump-unveils-new-air-force-one-converted-from-luxury-jet-gifted-by-qatar",
@@ -1993,26 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo XIV heads to northern Italy to honor St. Augustine and migrant saint Cabrini",
-      "description": "Pope Leo XIV is traveling to northern Italy to honor St. Augustine and Mother Frances Cabrini",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-heads-northern-italy-honor-st-134053465",
-      "published": "Sat, 20 Jun 2026 05:30:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Armenia's opposition faces arrests as it contests the ruling party's election win",
-      "description": "Several opposition members have been arrested in Armenia as a top pro-Russia party has asked the top court to annul the election win by the ruling party led by Prime Minister Nikol Pashinyan",
-      "url": "https://abcnews.com/International/wireStory/armenias-opposition-faces-arrests-contests-ruling-partys-election-134037550",
-      "published": "Fri, 19 Jun 2026 12:41:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Canadian auto parts magnate Frank Stronach found guilty of sexual assault",
       "description": "Austrian-Canadian billionaire Frank Stronach has been found guilty of sexual assault and indecent assault",
       "url": "https://abcnews.com/International/wireStory/canadian-auto-parts-magnate-frank-stronach-found-guilty-134035050",
@@ -2023,10 +2013,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Police in Bali foil an attempt to trade protected 21 live green sea turtles",
-      "description": "Authorities in Bali have foiled an illegal trade of 21 protected green sea turtles",
-      "url": "https://abcnews.com/International/wireStory/police-bali-foil-attempt-trade-protected-21-live-134027529",
-      "published": "Fri, 19 Jun 2026 10:44:53 -0400",
+      "title": "Pope Leo XIV heads to northern Italy to honor St. Augustine and migrant saint Cabrini",
+      "description": "Pope Leo XIV is traveling to northern Italy to honor St. Augustine and Mother Frances Cabrini",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-heads-northern-italy-honor-st-134053465",
+      "published": "Sat, 20 Jun 2026 05:30:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Cambodian Supreme Court upholds incitement conviction of opposition politician in charged case",
+      "description": "Cambodia’s Supreme Court has upheld the incitement conviction of prominent opposition politician Rong Chhun but suspended the remainder of his prison sentence, allowing him to remain free while barring him from politics for years",
+      "url": "https://abcnews.com/International/wireStory/cambodian-supreme-court-upholds-incitement-conviction-opposition-politician-134022522",
+      "published": "Fri, 19 Jun 2026 02:15:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Labour's Andy Burnham wins special election, setting up showdown to lead Britain",
+      "description": "Labour’s Andy Burnham has won a special election for a seat in Parliament, positioning him to challenge Prime Minister Keir Starmer",
+      "url": "https://abcnews.com/International/wireStory/labours-andy-burnham-wins-special-election-setting-showdown-134021524",
+      "published": "Fri, 19 Jun 2026 02:26:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2037,16 +2047,6 @@
       "description": "The Italian government is pushing back after U.S. President Donald Trump claimed Premier Giorgia Meloni had “begged” for a photo with him during the recent G7 meeting",
       "url": "https://abcnews.com/International/wireStory/meloni-slams-trumps-claim-begged-photo-italys-top-134026683",
       "published": "Fri, 19 Jun 2026 10:37:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Dragon Boat Festival links modern China to traditions more than 2,000 years old",
-      "description": "The Dragon Boat Festival is a more than 2,000-year-old Chinese holiday celebrated across mainland China, Hong Kong and Taiwan",
-      "url": "https://abcnews.com/International/wireStory/dragon-boat-festival-links-modern-china-traditions-2000-134025112",
-      "published": "Fri, 19 Jun 2026 06:38:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
