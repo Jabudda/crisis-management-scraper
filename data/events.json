@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T23:55:00.367710Z",
+  "last_updated": "2026-06-23T00:54:32.171470Z",
   "event_count": 221,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+      "description": "US says the decisions follow Iran's commitment to allow international nuclear inspections.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -260,6 +270,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia politics live: Greens announce deal with Labor on tax changes and NDIS inquiry; Pauline Hanson explains stance on paid parental leave",
+      "description": "Minor party says it will support Labor’s negative gearing and capital gains tax changes this fortnight in the Senate. Follow today’s news live Get our breaking news email , free app or daily news podcast Ben Roberts-Smith invitation to war memorial event ‘appropriate’, says Marles Richard Marles says it’s appropriate that the accused war criminal Ben Roberts-Smith will attend the official opening for the centrepiece of the revamped Australian War Memorial. It’s appropriate that Ben Roberts-Smith be given an invite to this, as a Victoria Cross recipient. The Victoria Cross recipients have been invited to this, which is appropriate, I’m comfortable about that. What will be opened – the Australian War Memorial, it’s an utterly fantastic extension to what is, I think, the most sacred building in our country. And we are very much looking forward to that. The prime minister will be there. It’s a very significant moment for the nation. If we look over the longer term, and people buy houses over the longer term, we will see housing prices continue to grow. What this is about, though, is trying to see a greater alignment in the growth of housing prices with the growth of wages. We do want to see housing become more affordable, see more Australians get into the housing market, see more first-time buyers, but we’ll obviously see house prices continue to grow. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+      "published": "Tue, 23 Jun 2026 00:48:58 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -583,16 +603,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia politics live: David Pocock rues ‘farcical’ tax review; Pauline Hanson explains stance on paid parental leave",
-      "description": "Senator says he wants to see further changes for small businesses and ensure loopholes for wealthier people are actually closed. Follow today’s news live Get our breaking news email , free app or daily news podcast Ben Roberts-Smith invitation to war memorial event ‘appropriate’, says Marles Richard Marles says it’s appropriate that the accused war criminal Ben Roberts-Smith will attend the official opening for the centrepiece of the revamped Australian War Memorial. It’s appropriate that Ben Roberts-Smith be given an invite to this, as a Victoria Cross recipient. The Victoria Cross recipients have been invited to this, which is appropriate, I’m comfortable about that. What will be opened – the Australian War Memorial, it’s an utterly fantastic extension to what is, I think, the most sacred building in our country. And we are very much looking forward to that. The prime minister will be there. It’s a very significant moment for the nation. If we look over the longer term, and people buy houses over the longer term, we will see housing prices continue to grow. What this is about, though, is trying to see a greater alignment in the growth of housing prices with the growth of wages. We do want to see housing become more affordable, see more Australians get into the housing market, see more first-time buyers, but we’ll obviously see house prices continue to grow. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
-      "published": "Mon, 22 Jun 2026 23:46:31 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
       "description": "During his chairmanship, Greenspan was celebrated as possibly the best central banker in history. But later, his reputation was tarnished by the worst financial crisis since the Great Depression.",
       "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
@@ -658,16 +668,6 @@
       "url": "https://www.npr.org/2026/06/22/nx-s1-5841887/child-injuries-soar-in-israeli-air-strikes-in-lebanon",
       "published": "Mon, 22 Jun 2026 04:50:12 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "France - Iraq live: Match set to resume after stadium evacuation amid storms",
-      "description": "France face Iraq in a crucial Group I clash at Philadelphia's stadium, but severe thunderstorms could potentially force a postponement of kick-off. The French, fresh from a commanding 3-1 victory over Senegal, can secure their place in the last 32 with another win. Follow our live coverage.",
-      "url": "https://www.france24.com/en/sport/20260622-france-vs-iraq-live-weather-delays-as-les-bleus-chase-knockout-qualification",
-      "published": "Mon, 22 Jun 2026 18:58:08 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -754,7 +754,7 @@
     },
     {
       "title": "US waives Iran oil sanctions citing progress in talks",
-      "description": "US officials have cited ongoing negotiations on allowing nuclear inspections and opening the Strait of Hormuz in pausing sanctions for 60 days. JD Vance said a \"foundation\" is in place for a final deal. More on DW.",
+      "description": "US officials have cited ongoing negotiations on allowing nuclear inspections and opening the Strait of Hormuz in pausing sanctions for 60 days. JD Vance said a \"foundation\" is in place for a final deal.",
       "url": "https://www.dw.com/en/us-waives-iran-oil-sanctions-citing-progress-in-talks/live-77653016?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 22 Jun 2026 11:08:00 GMT",
       "source": "Deutsche Welle",
@@ -863,10 +863,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "From camel coats to guochao: Max Mara woos China’s luxury brand consumers",
-      "description": "Fashion house pays tribute to Chinese style with its 75th anniversary catwalk show in Shanghai “New York may be the city that never sleeps, but Shanghai doesn’t even sit down.” For the British designer Ian Griffiths, who encountered this line in the New Yorker, it summed up why China’s biggest city was the right place to celebrate Max Mara’s 75th anniversary. “Max Mara is a product for metropolitan women, and it would be patronising to assume that a metropolitan wardrobe should be western-centric,” Griffiths said. Continue reading...",
-      "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers",
-      "published": "Tue, 16 Jun 2026 17:15:13 GMT",
+      "title": "Lost memoir of Hiroshima survivor found after decades in US archive",
+      "description": "Written in 1947, Kiyoshi Tanimoto’s account of the horrors of the atomic bomb attack will be published in August and is being made into a film The memoir of a man who survived the horrors of Hiroshima is to be published for the first time this summer after its discovery in a US archive. The 230-page memoir was written almost 80 years ago by Kiyoshi Tanimoto, who witnessed the city’s destruction after the atomic bomb was dropped in 1945. He will now be portrayed in a major feature film by Takehiro Hira, whose acclaimed roles include the detective in the Netflix Japanese-British drama Giri/Haji. Pre-production begins in November, ahead of the shoot in February 2027. Continue reading...",
+      "url": "https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive",
+      "published": "Tue, 23 Jun 2026 00:00:25 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1263,6 +1263,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "France - Iraq live: Mbappé shines as Bleus demolish Iraq to advance",
+      "description": "France face Iraq in a crucial Group I clash at Philadelphia's stadium, but severe thunderstorms could potentially force a postponement of kick-off. The French, fresh from a commanding 3-1 victory over Senegal, can secure their place in the last 32 with another win. Follow our live coverage.",
+      "url": "https://www.france24.com/en/sport/20260622-france-vs-iraq-live-weather-delays-as-les-bleus-chase-knockout-qualification",
+      "published": "Mon, 22 Jun 2026 18:58:08 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "French court refuses trial on use of toxic insecticide in French West Indies",
       "description": "A French court has ruled against a trial on the use of a known toxic insecticide in the French West Indies, shutting down the possibility of an investigation in a health scandal that has been ongoing for 20 years. Despite being labelled as possibly carcinogenic in 1979, chlordécone was used between 1972 until 1993 - thanks to a by-law that allowed it to circumvent its ban, introduced in 1990. FRANCE 24's Shirli Sitbon tells us more.",
       "url": "https://www.france24.com/en/french-court-refuses-trial-on-use-of-toxic-insecticide-in-french-west-indies",
@@ -1327,16 +1337,6 @@
       "description": "Qatar's PM said that safeguards have been put in place to prevent US-Iran negotiations from regional escalation.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
       "published": "Mon, 22 Jun 2026 20:04:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
-      "description": "US calls for negotiated solution and expresses alarm over potential 'mass atrocities' as paramilitary surrounds city.",
-      "url": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss",
-      "published": "Mon, 22 Jun 2026 19:00:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
@@ -2133,6 +2133,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
+      "description": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a lchallenge over voting irregularities.",
+      "url": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
+      "published": "Mon, 22 Jun 2026 20:42:07 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Keith Kellogg tells Iranian dissidents the 'window is open' to force regime change in Tehran",
       "description": "Lt. Gen. Keith Kellogg urged Iranian dissidents at a Paris NCRI gathering to seize a historic opening, saying the Tehran regime is weaker than ever.",
       "url": "https://www.foxnews.com/world/keith-kellogg-tells-iranian-dissidents-window-open-force-regime-change-tehran",
@@ -2197,16 +2207,6 @@
       "description": "European Parliament approved the Return Regulation 418-218, sparking chants of \"send them back\" from right-wing lawmakers in a deeply divided vote.",
       "url": "https://www.foxnews.com/world/send-them-back-chants-rock-european-parliament-after-landslide-vote-speed-up-deportations",
       "published": "Sat, 20 Jun 2026 12:59:05 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man charged with attempted murder, released after allegedly forcing toddler into crocodile enclosure at zoo",
-      "description": "A man was charged with attempted murder after allegedly forcing a 3-year-old boy into a crocodile enclosure at a zoo in Huntingdon, England.",
-      "url": "https://www.foxnews.com/world/man-charged-attempted-murder-released-allegedly-forcing-toddler-crocodile-enclosure-zoo",
-      "published": "Sat, 20 Jun 2026 06:00:13 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
