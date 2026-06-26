@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T06:28:40.260914Z",
+  "last_updated": "2026-06-26T07:52:17.270579Z",
   "event_count": 221,
   "events": [
     {
@@ -28,16 +28,6 @@
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
       "published": "Thu, 25 Jun 2026 19:47:19 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 63,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "The death toll is rising after major Venezuelan earthquakes topple many buildings",
-      "description": "The National Assembly president put the latest toll at 188 dead, 1,520 injured and 157 reported missing. He said teams are racing to rescue hundreds of people still trapped in damaged buildings.",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5869817/2-major-earthquakes-strike-northern-venezuela-near-caracas",
-      "published": "Wed, 24 Jun 2026 23:11:54 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 63,
       "severity_level": "Critical"
@@ -103,7 +93,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Venezuela earthquakes live: Death toll rises to around 235, health minister says",
+      "title": "Venezuela earthquakes live: Death toll rises to at least 235",
       "description": "The death toll from two back-to-back earthquakes in Venezuela has risen to about 235, with at least 4,300 people injured, Health Minister Carlos Alvarado said on state television on Thursday as rescue teams continued searching for survivors. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/americas/20260626-venezuela-earthquakes-live-us-says-sending-military-ships-planes-to-provide-aid-to-venezuela",
       "published": "Fri, 26 Jun 2026 01:30:59 GMT",
@@ -140,6 +130,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+      "description": "As Venezuela begins counting the cost of its deadliest quake disaster in over a century, a shattered economy and struggling health system threaten to slow recovery efforts.",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+      "published": "Fri, 26 Jun 2026 02:41:51 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -183,8 +183,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
-      "description": "Foreign-owned businesses have been attacked, migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
+      "title": "'They can kill you': African migrants fear a surge in xenophobic violence in South Africa",
+      "description": "Foreign-owned businesses have been attacked, African migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
       "url": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
       "published": "Thu, 25 Jun 2026 05:00:00 -0400",
       "source": "NPR World News",
@@ -256,7 +256,7 @@
       "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
       "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
       "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 00:28:02 GMT",
+      "published": "Fri, 26 Jun 2026 06:49:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 24,
@@ -310,16 +310,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
-      "description": "The UN says it is scaling up its response after twin earthquakes devastated Venezuela.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
-      "published": "Thu, 25 Jun 2026 23:20:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -393,16 +383,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
-      "description": "Amid a flare-up in violence between Russia and Ukraine, viral posts claim Ukrainian President Volodymyr Zelenskyy has died. DW Fact check takes a closer look.",
-      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 25 Jun 2026 11:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Cliff collapses near Biarritz lighthouse, killing a diver and leaving another missing",
       "description": "A massive section of coastline near the French resort town of Biarritz has collapsed, killing a diver and leaving another missing",
       "url": "https://abcnews.com/International/wireStory/cliff-collapses-biarritz-lighthouse-killing-diver-leaving-missing-134198731",
@@ -433,8 +413,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-      "description": "Israeli leader says military to stay in occupied areas of southern Lebanon 'as long as necessary', despite US-Iran deal.",
+      "title": "Iran war live: IAEA hopes to inspect Iran nuclear sites as soon as possible",
+      "description": "IAEA head Rafael Grossi says agency has been tasked with inspecting Iran’s nuclear sites as part of the US-Iran deal.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
       "published": "Fri, 26 Jun 2026 00:00:09 +0000",
       "source": "Al Jazeera",
@@ -493,6 +473,16 @@
       "severity_level": "High"
     },
     {
+      "title": "India news: Bodies of four Indians killed in Qatar gas blast repatriated",
+      "description": "Qatar has returned the bodies of four of the 12 Indian nationals who died in one its deadliest gas industry accidents in over two decades. DW has the latest.",
+      "url": "https://www.dw.com/en/india-news-bodies-of-four-indians-killed-in-qatar-gas-blast-repatriated/live-77716985?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 26 Jun 2026 07:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Shiite Muslims collectively mourn to mark Muharram and Ashoura",
       "description": "Shiite Muslims in the U.S. and worldwide have been observing a period of mourning leading to the day of Ashoura, which marks the seventh-century killing of Hussein, the grandson of Prophet Muhammad",
       "url": "https://abcnews.com/International/wireStory/shiite-muslims-collectively-mourn-mark-muharram-ashoura-134195008",
@@ -520,16 +510,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "description": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 09:48:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -628,16 +608,6 @@
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Germany news: Deutsche Bahn advises against travel amid heat",
-      "description": "Germany's national rail operator is allowing passengers to cancel trips because of the heat. Meanwhile, Germany lost 2-1 to Ecuador at the World Cup, but both teams will advance to the next round.",
-      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-advises-against-travel-amid-heat/live-77704395?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 25 Jun 2026 10:32:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -893,6 +863,16 @@
       "severity_level": "High"
     },
     {
+      "title": "World Cup 2026: Seattle set for Iran-Egypt match amid ‘Pride Match’ controversy",
+      "description": "Rainbow flags are expected to flutter across Seattle's stadium on Friday when Iran meets Egypt in the World Cup Group G match as the city marks its annual Pride parade. The two countries last year asked for Pride-themed celebrations to be cancelled, a request FIFA denied. Players and officials of both countries now say they are focused on the game.",
+      "url": "https://www.france24.com/en/americas/20260626-world-cup-2026-seattle-set-for-iran-egypt-match-amid-pride-match-controversy",
+      "published": "Fri, 26 Jun 2026 07:00:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Jury deadlocks in federal trial of man accused of starting deadly Palisades Fire in Los Angeles",
       "description": "Jurors in the federal trial of Jonathan Rinderknecht, accused of starting the 2025 Palisades Fire, told a judge they are deadlocked after two days.",
       "url": "https://www.foxnews.com/us/jury-deadlocks-federal-trial-man-accused-starting-deadly-palisades-fire-los-angeles",
@@ -963,7 +943,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "World Cup 2026: Turkiye beat US 3-2 with stoppage-time goal in dead rubber",
+      "title": "Turkiye beat US with stoppage-time goal in World Cup dead rubber",
       "description": "Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.",
       "url": "https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic?traffic_source=rss",
       "published": "Fri, 26 Jun 2026 04:44:06 +0000",
@@ -1053,9 +1033,29 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany poor in loss to Ecuador at 2026 World Cup",
+      "title": "Australia news live: Socceroos fans celebrate at city sites; Hastie declares political ‘war’ on One Nation",
+      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Albanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’ The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say: It’s a matter, of course, for Channel 9, but words do matter, and what people who are very prominent in our public discourse do, and how they conduct themselves, matters as well. And it’s unfortunate, the way that what has been a very big career has ended in this way. It will be an important day. It will be a great couple of hours. I’m sure the whole of Australia will cheer on the Socceroos. … I know that Australian workers will be, of course, very passionate about the Socceroos, and I know that Australian employers will be generous in their approach to these things. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
+      "published": "Fri, 26 Jun 2026 07:18:12 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Magdeburg Christmas market attacker sentenced to life",
+      "description": "A Magdeburg court has sentenced a 51-year-old to life after his 2024 attack on a Christmas market in the city. He drove a rental car through a security cordon and into a crowd, killing six and injuring more than 300.",
+      "url": "https://www.dw.com/en/magdeburg-christmas-market-attacker-sentenced-to-life/a-77718126?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 26 Jun 2026 07:49:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Germany disappoints in loss to Ecuador at 2026 World Cup",
       "description": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat.",
-      "url": "https://www.dw.com/en/germany-poor-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-disappoints-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 25 Jun 2026 21:58:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1173,6 +1173,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+      "description": "Israeli and Lebanese delegations will continue their talks on Friday.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
+      "published": "Fri, 26 Jun 2026 07:07:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
       "description": "France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
@@ -1273,6 +1283,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "NATO needs to see a credible trajectory for when the UK will be ready for war - and that is no longer in Sir Keir's gift",
+      "description": "Sir Keir Starmer's determination to release a long-delayed defence investment plan ahead of a NATO summit next month risks doing more harm than good as officials scramble to meet what has become a political deadline.",
+      "url": "https://news.sky.com/story/nato-needs-to-see-a-credible-trajectory-for-when-the-uk-will-be-ready-for-war-and-that-is-no-longer-in-sir-keirs-gift-13557437",
+      "published": "Wed, 24 Jun 2026 17:40:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "A cancer patient’s cats inspired a push for pets in hospice wards",
       "description": "In Poland, new legislation could give patients in hospices and palliative care wards the right to have visits from their pets",
       "url": "https://abcnews.com/International/wireStory/cancer-patients-cats-inspired-push-pets-hospice-wards-134194459",
@@ -1303,18 +1323,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Albania: 'We need courageous people' to combat greed and corruption",
-      "description": "🇦🇱 “We need courageous people.”William Bourdon tells #F24Debate whistleblowers, NGOs, and #FlamingoRevolution protesters in #Albania are essential for combating political greed and corruption ➡️https://f24.my/C0oq",
-      "url": "https://www.france24.com/en/video/20260625-albania-we-need-courageous-people-to-combat-greed-and-corruption",
-      "published": "Thu, 25 Jun 2026 19:54:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "description": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and blamed vandals for putting fertiliser in the water.",
+      "description": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
       "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 06:16:01 GMT",
       "source": "BBC News",
@@ -1493,16 +1503,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia news live: Socceroos fans celebrate at city sites; IS-linked woman facing slavery charges granted bail",
-      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Albanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’ The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say: It’s a matter, of course, for Channel 9, but words do matter, and what people who are very prominent in our public discourse do, and how they conduct themselves, matters as well. And it’s unfortunate, the way that what has been a very big career has ended in this way. It will be an important day. It will be a great couple of hours. I’m sure the whole of Australia will cheer on the Socceroos. … I know that Australian workers will be, of course, very passionate about the Socceroos, and I know that Australian employers will be generous in their approach to these things. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
-      "published": "Fri, 26 Jun 2026 06:05:29 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Pakistani Hindus join Shiite Muslims in Muharram observances honoring Imam Hussein",
       "description": "Some members of Pakistan’s Hindu community take part in Muharram traditions alongside Shiite Muslims in the port city or Karachi, reflecting a long-standing reverence for Imam Hussein that crosses religious boundaries",
       "url": "https://abcnews.com/International/wireStory/pakistani-hindus-join-shiite-muslims-muharram-observances-honoring-134195287",
@@ -1537,6 +1537,16 @@
       "description": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 02:18:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "description": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
+      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 01:02:36 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1786,7 +1796,7 @@
       "title": "M 7.5 - 28 km SE of Yumare, Venezuela",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-06-24 22:05:11 UTC 2026-06-24 22:05:11 UTC at epicenter Location 10.435°N 68.472°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp",
-      "published": "2026-06-26T06:25:36.145Z",
+      "published": "2026-06-26T07:22:25.245Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1807,16 +1817,6 @@
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-06-24 15:10:40 UTC 2026-06-24 15:10:40 UTC at epicenter Location 39.362°N 123.229°W Depth 8.85 km (5.50 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936",
       "published": "2026-06-26T06:26:55.037Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "M 6.6 - 133 km ESE of Petropavlovsk-Kamchatsky, Russia",
-      "description": "PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-06-19 06:52:31 UTC 2026-06-19 06:52:31 UTC at epicenter Location 52.794°N 160.565°E Depth 10.00 km (6.21 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3",
-      "published": "2026-06-20T07:30:24.773Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1983,10 +1983,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "North Korea's Kim calls for 'destructive' military posture as South vows to boost drones",
+      "title": "North Korea's Kim calls for 'destructive' military posture",
       "description": "North Korea says leader Kim Jong Un has observed major weapons tests and called for bolstering the military’s “deadly and destructive offensive posture.\"",
       "url": "https://abcnews.com/International/wireStory/north-koreas-kim-calls-destructive-military-posture-south-134224587",
-      "published": "Thu, 25 Jun 2026 23:20:14 -0400",
+      "published": "Fri, 26 Jun 2026 02:38:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
