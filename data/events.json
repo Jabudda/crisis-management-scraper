@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T07:53:09.650121Z",
+  "last_updated": "2026-06-30T09:12:45.939665Z",
   "event_count": 221,
   "events": [
     {
@@ -23,8 +23,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Venezuela earthquakes: old footage and AI fakes exploit disaster online",
-      "description": "As rescue efforts continue in Venezuela after the twin earthquakes struck, social media has been flooded with misleading videos falsely claiming to show the devastation. Viral clips have been recycled from disasters in other countries, old footage from Venezuela presented as current, and AI-generated videos posing as real. Together, these tactics are driving widespread misinformation about the disaster, as the death toll climbs.",
+      "title": "Venezuela earthquakes: Old footage and AI fakes exploit disaster online",
+      "description": "As rescue efforts continue in Venezuela after the twin earthquakes, social media has been flooded with misleading videos falsely claiming to show the devastation. Viral clips have been recycled from disasters in other countries, old footage from Venezuela presented as current and AI-generated videos put out as real. Together, these tactics are driving widespread misinformation about the disaster while the death toll climbs.",
       "url": "https://www.france24.com/en/venezuela-earthquakes-old-footage-and-ai-fakes-exploit-disaster-online",
       "published": "Mon, 29 Jun 2026 19:33:11 GMT",
       "source": "France24",
@@ -70,6 +70,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "On the ground in Venezuela: 'All the buildings have collapsed'",
+      "description": "France 24's Maxime Pluvinet reports from La Guaira state, one of the areas hardest hit by the twin earthquakes that struck Venezuela on June 24. \"All the buildings have collapsed\" he says, whle \"Venezuelans are still waiting for news from their loved ones trapped under the rubble\".",
+      "url": "https://www.france24.com/en/video/20260630-on-the-ground-in-venezuela-all-the-buildings-have-collapsed",
+      "published": "Tue, 30 Jun 2026 09:02:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -123,6 +133,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "South Africa's anti-migrant deadline looms",
+      "description": "In tonight's edition, worry builds amongst African migrants in South Africa ahead of the June 30th deadline set by protesters demanding undocumented foreigners leave the country. Also, at least three are killed in Ghana as floods paralyze the capital. And Cape Verde offers greener pastures for LGBTQ+ people on the continent.",
+      "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms",
+      "published": "Mon, 29 Jun 2026 20:23:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Venezuelan earthquake death toll hits at least 920 as US rescuers race against critical survival window",
       "description": "Venezuela was hit with 7.2 and 7.5 magnitude earthquakes on Wednesday, and, in the aftermath, aid agencies are still trying to find people who are trapped.",
       "url": "https://www.foxnews.com/world/venezuelan-earthquake-death-toll-hits-least-920-us-rescuers-race-against-critical-survival-window",
@@ -130,16 +150,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
-      "description": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
-      "published": "Mon, 29 Jun 2026 03:04:50 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -163,10 +173,30 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Police hunt for suspect after three wounded in Monaco blast",
-      "description": "Ukrainian oligarch reported to be among injured in explosion at residential building in the Mediterranean principality.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 02:56:24 +0000",
+      "title": "Germany news: Police still to identify Stade attack victims",
+      "description": "Police have yet to identify the six victims of a deadly shooting in Stade. Meanwhile, Germany's national men's football coach pledged to stay on the job after an early World Cup exit. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 30 Jun 2026 09:06:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Germany: At least 6 killed in shooting in Stade",
+      "description": "Police said the deadly Stade shooting was likely an \"extended family tragedy\" triggered by a custody dispute, with the state interior minister describing it as \"extremely cold-blooded act of violence.\"",
+      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 29 Jun 2026 21:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+      "description": "Outbreak spreads to a fourth province, Haut-Uele, bordering South Sudan and the CAR, according to a media report.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 07:32:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 27,
@@ -183,41 +213,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Germany: At least 6 killed in shooting in Stade",
-      "description": "Several people are reported dead following gunfire in the northern German city of Stade. Authorities arrested the suspected shooter and said the shooting concerned a custody dispute.",
-      "url": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 29 Jun 2026 21:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "South Africa's anti-migrant deadline looms",
-      "description": "In tonight's edition, worry builds amongst African migrants in South Africa ahead of the June 30th deadline set by protesters demanding undocumented foreigners leave. Also, at least three are killed in Ghana as floods paralyze the capital. And Cape Verde offers greener pastures for LGBTQ+ people on the continent.",
-      "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms",
-      "published": "Mon, 29 Jun 2026 20:23:18 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
       "description": "A blast from an explosive device has seriously injured three people at a residential building in Monaco, and the attacker fled to France, local authorities said.",
       "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
       "published": "Tue, 30 Jun 2026 01:35:07 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Zelenskyy condemns 'horrific attacks' as Russian strikes kill 11, wound 40 in Ukraine",
-      "description": "Ukrainian President Volodymyr Zelenskyy says Russian missiles and drones have killed at least 11 civilians and injured 40 others",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-condemns-horrific-attacks-russian-strikes-kill-8-134305252",
-      "published": "Mon, 29 Jun 2026 13:04:34 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical"
@@ -254,7 +254,7 @@
     },
     {
       "title": "Venezuela's La Guaira port reopens to deliver earthquake aid, US military says",
-      "description": "Venezuela's La Guaira port has resumed operations after repairs and is receiving humanitarian aid for earthquake victims, the US military said Monday. US Southern Command said the USS Fort Lauderdale was delivering critical supplies through the port after twin powerful earthquakes killed more than 1,700 people and left thousands missing.",
+      "description": "Venezuela's La Guaira port has resumed operations after repairs and is receiving humanitarian aid for earthquake victims, the US military said Monday. US Southern Command said the USS Fort Lauderdale was delivering critical supplies through the port after twin powerful earthquakes killed more than 1,700 people and left tens of thousands missing.",
       "url": "https://www.france24.com/en/americas/20260630-venezuela-la-guaira-port-earthquake-aid-us-military",
       "published": "Tue, 30 Jun 2026 03:44:30 GMT",
       "source": "France24",
@@ -276,7 +276,7 @@
       "title": "Explosion in Monaco injures 3 including Ukrainian tycoon; suspected attacker flees",
       "description": "A blast from an explosive device has seriously injured three people at a residential building in Monaco",
       "url": "https://abcnews.com/International/wireStory/explosion-monaco-injuries-3-including-ukrainian-tycoon-suspected-134328487",
-      "published": "Tue, 30 Jun 2026 02:35:58 -0400",
+      "published": "Tue, 30 Jun 2026 03:14:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 25,
@@ -290,6 +290,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Georgie Purcell facing antisemitic and misogynistic abuse due to having Jewish partner, commission hears",
+      "description": "The royal commission into antisemitism and social cohesion is hearing evidence about hateful speech in the online environment Get our breaking news email , free app or daily news podcast Vile, threatening abuse is being levelled at witnesses to the antisemitism royal commission, the inquiry has heard, while a Labor MP has said attacks on his partner were heightened because they were stacked with misogyny. Meanwhile, data analysis has shown how quickly factual reports are transformed into conspiracy theories online, and that while there was a spike in antisemitism after the Bondi terror attack, there was a “huge spike” in anti-Muslim hate. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/30/georgie-purcell-antisemitic-misogynistic-abuse-jewish-partner-commission-ntwnfb",
+      "published": "Tue, 30 Jun 2026 08:42:02 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -328,6 +338,16 @@
       "url": "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 29 Jun 2026 14:23:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "World Cup 2026: France vow to maintain attacking philosophy against Sweden",
+      "description": "France's fearsome attack carried them smoothly through the World Cup group stage, but coach Didier Deschamps warned his players to remain \"humble\" as they play their first knockout match on Tuesday against a Swedish side that scored five goals in their tournament opener and then conceded as many in their following game.",
+      "url": "https://www.france24.com/en/sport/20260630-world-cup-2026-sweden-firing-line-france-keep-attacking-philosophy-deschamps-mbappe-dembele",
+      "published": "Tue, 30 Jun 2026 08:51:17 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -373,16 +393,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Truck drivers ‘miraculously’ emerge nearly unscathed from explosions and fire after Hume Highway truck crash",
-      "description": "Six trucks – including one carrying eight tonnes of butane cans – destroyed at NSW rest stop near Breadalbane, police say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police say it is “nothing short of a miracle” that six truck drivers emerged relatively unscathed after an explosive crash involving semi-trailers carrying tonnes of flammable materials on a major New South Wales highway. Two trucks appear to have collided when entering a roadside rest stop, police said, with one crashing into four other rigs just after 5am Tuesday on the Hume Highway near Breadalbane in the state’s southern tablelands. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/30/truck-crash-hume-highway-drivers-nearly-unscathed-explosions-fire-nsw-ntwnfb",
-      "published": "Tue, 30 Jun 2026 04:16:38 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Weekend alligator attacks leave Florida woman dead, child injured",
       "description": "A deadly Florida alligator attack on the Econlockhatchee River killed a 31-year-old woman, the third gator attack in Central Florida in a week.",
       "url": "https://www.foxnews.com/us/weekend-alligator-attacks-leave-florida-woman-dead-child-injured",
@@ -400,6 +410,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "NSW’s deadly one-in-100-years floods could have been slashed by two metres using dams, CSIRO finds",
+      "description": "Governments have not committed to measures modelled in the report on Lismore’s 2022 floods, which led to the deaths of 13 people Get our breaking news email , free app or daily news podcast Building 10 new dams in New South Wales’s northern rivers could have reduced flood levels by up to two metres during devastating floods in 2022, but not enough to prevent a key levee overspilling, a report has found. The CSIRO report was released on Tuesday, four years after it was commissioned by the Morrison government following NSW’s one-in-100-years floods. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/30/lismore-floods-northern-rivers-flooding-nsw-2022-two-metres-lower-with-dams",
+      "published": "Tue, 30 Jun 2026 08:18:24 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -433,20 +453,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-      "description": "The UN says it is procuring 10,000 body bags for Venezuela, warning the death toll will rise.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 02:41:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Australia politics live: Garth Hamilton storms out of question time after outburst; EY employee sacked after allegedly accessing PM’s bank account",
-      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
+      "title": "Garth Hamilton storms out of question time after outburst – as it happened",
+      "description": "This blog is now closed Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
-      "published": "Tue, 30 Jun 2026 07:15:57 GMT",
+      "published": "Tue, 30 Jun 2026 08:14:40 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
@@ -500,6 +510,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "description": "146 Venezuelans were deported from Texas to Caracas on June 24. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
+      "published": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -563,6 +583,16 @@
       "severity_level": "High"
     },
     {
+      "title": "At the World Cup, the media has set up a moral checkpoint",
+      "description": "While US and European players just get to play football, Global South footballers are questioned about politics.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 07:49:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
       "description": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167821",
@@ -603,11 +633,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Art biennial Manifesta revives Germany's postwar churches",
-      "description": "Following the destruction of World War II, around 1,000 new churches were built in Germany's Ruhr region. Today, many stand empty, but the contemporary art show Manifesta is giving them a new lease on life.",
-      "url": "https://www.dw.com/en/art-biennial-manifesta-revives-germany-s-postwar-churches/a-77725021?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 29 Jun 2026 07:21:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Iran war supercharges pivot to renewable energy",
+      "description": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+      "published": "Tue, 30 Jun 2026 04:46:26 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -640,26 +670,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Mourners light candles after deadly German shelter shooting",
-      "description": "Residents lit candles on Monday evening near the site of a shooting that killed six staff members at a German shelter.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 02:45:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Venezuela quake death toll rises to 1,719, more than 5,000 injured",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/americas/20260629-venezuela-s-earthquakes-death-toll-nears-1-500-tens-of-thousands-still-missing",
-      "published": "Mon, 29 Jun 2026 18:23:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -773,26 +783,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
-      "description": "Search for deportees from US continues in the rubble of the hotel they were taken to in Venezuela's La Guaira city.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 02:32:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Cairo Takeaway secures court win over pro-Israel activist who claimed he was ‘completely vindicated’ after settlement",
-      "description": "Federal court judge rules Ofir Birenbaum breached parts of settlement with Middle Eastern restaurant reached after incident when working with Daily Telegraph Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A pro-Israel activist breached parts of a legal settlement with Sydney restaurant Cairo Takeaway when Ofir Birenbaum and his lawyer released “highly misleading and even deceptive” statements that implied they had won, a court has ruled. Justice Robert Bromwich handed down his decision in the federal court on Tuesday after the Middle Eastern restaurant in Newtown alleged Birenbaum had breached part of a confidential settlement in a defamation suit. Continue reading...",
-      "url": "https://www.theguardian.com/media/2026/jun/30/cairo-takeaway-court-win-ofir-birenbaum-sydney-ntwnfb",
-      "published": "Tue, 30 Jun 2026 04:21:56 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
       "description": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.",
       "url": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
@@ -818,6 +808,16 @@
       "url": "https://www.france24.com/en/middle-east/20260630-how-ships-are-risking-safe-passage-through-the-strait-of-hormuz",
       "published": "Tue, 30 Jun 2026 05:48:20 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Fire at petrochemical plant in India injures at least 20 people",
+      "description": "A fire at a petrochemical plant in eastern India has injured at least 20 people",
+      "url": "https://abcnews.com/International/wireStory/fire-petrochemical-plant-eastern-india-injures-20-people-134333126",
+      "published": "Tue, 30 Jun 2026 04:18:11 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -933,6 +933,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ivory Coast vs Norway: FIFA World Cup Round of 32: Prediction, how to watch",
+      "description": "Erling Haaland's Norway face Yan Diomande-powered Ivory Coast, as the pair clash for a place in the round of 16.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/ivory-coast-norway-fifa-world-cup-round-of-32-prediction-haaland-diomande-lineups?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 08:28:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
       "description": "In their three weeks in Tijuana, Iran's players established a reciprocal relationship of love and respect with Mexicans.",
       "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
@@ -953,31 +963,31 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Morocco beat Netherlands in dramatic World Cup shootout to reach last 16",
-      "description": "Morocco come from behind to knock the Netherlands out in the round of 32, beating them 3-2 on penalties.",
-      "url": "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 03:57:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How Germany were handed a World Cup humbling and what it means to Paraguay",
-      "description": "As well as Gill's heroics, Paraguay's unlikely victory was founded on coach Alfaro's unshakeable faith in his defenders.",
-      "url": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 03:51:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases",
+      "description": "Police say there are similarities but no evidence of links between Thunchanok Donhomla’s alleged murder and two other deaths in past two years in same region Get our breaking news email , free app or daily news podcast Thai police are investigating whether an Australian man charged with murdering a 17-year-old girl could be linked to two unsolved cases in the region. Police colonel Anek Srathongyoo, a superintendent of Pattaya City police station, told the Guardian on Tuesday that although there was no evidence linking Simon Peter Carman to the cases in neighbouring regions, they were investigating the possibility given similarities between the cases. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+      "published": "Tue, 30 Jun 2026 08:28:35 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Germany out of 2026 World Cup: What went wrong?",
+      "description": "Germany are out of the World Cup earlier than expected for the third straight time. How did this happen?",
+      "url": "https://www.dw.com/en/germany-out-of-2026-world-cup-what-went-wrong/a-77764683?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 30 Jun 2026 08:40:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1053,16 +1063,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "World Cup 2026: Brazil down Japan with last-gasp Martinelli goal to reach last 16",
-      "description": "Substitute Gabriel Martinelli scored deep in injury time as Brazil fought back from a goal down to defeat Japan 2-1 in a thrilling round-of-32 tie on Monday and continue their quest for a sixth World Cup title. Japan, who opened the score after 29 minutes, exit the tournament having once again failed to clinch a maiden win in a World Cup knockout game.",
-      "url": "https://www.france24.com/en/sport/20260629-world-cup-2026-brazil-beat-japan-with-last-gasp-martinelli-goal-to-reach-last-16",
-      "published": "Mon, 29 Jun 2026 19:07:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Andy Burnham to set out his economic vision as he speeds toward power in Britain",
       "description": "Andy Burnham, likely the next U.K. prime minister, has pledged to give more autonomy to local leaders",
       "url": "https://abcnews.com/International/wireStory/andy-burnham-set-economic-vision-speeds-power-britain-134301106",
@@ -1098,16 +1098,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 29 Jun 2026 12:00:06 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US education faces ‘a crisis for low-wealth students’",
-      "description": "Andre Perry tells This is America that going to college still pays, but low-wealth students carry most of the debt.",
-      "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 03:51:12 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1164,9 +1154,19 @@
     },
     {
       "title": "Shooting in northern Germany leaves 6 people dead. Suspected shooter arrested",
-      "description": "Police say that a shooting at a youth welfare facility in northern Germany has left six people dead",
+      "description": "A shooting at a youth welfare facility in northern Germany on Monday leaves six people dead",
       "url": "https://abcnews.com/International/wireStory/police-5-people-died-shooting-stade-northern-germany-134304118",
-      "published": "Mon, 29 Jun 2026 12:33:57 -0400",
+      "published": "Mon, 29 Jun 2026 19:45:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Australian man charged with murder over death of a teenage girl in Thailand's Pattaya",
+      "description": "Thai police have charged an Australian man with murder and concealment of a body in connection with a teen girl's death",
+      "url": "https://abcnews.com/International/wireStory/australian-man-charged-murder-death-teenage-girl-thailands-134333406",
+      "published": "Tue, 30 Jun 2026 04:21:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1223,16 +1223,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: Temperatures plunge after historic heat wave",
-      "description": "A record-breaking heat wave has moved on, with temperatures sinking rapidly amid many storms. German Foreign Minister Johann Wadephul is heading to Washington for talks with his US counterpart, with NATO issues in focus.",
-      "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 29 Jun 2026 07:57:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "JetBlue flight reports drone strike during approach to New York airport: FAA",
       "description": "A JetBlue flight approaching JFK reportedly struck a drone at 3,000 feet. The aircraft landed safely, and the FAA is investigating the incident.",
       "url": "https://www.foxnews.com/us/jetblue-flight-reports-drone-strike-approach-new-york-airport-faa",
@@ -1284,20 +1274,10 @@
     },
     {
       "title": "EY sacks graduate employee after he allegedly accessed Australian PM’s bank account",
-      "description": "Two men – including one who worked for EY – appear in court after being charged over accessing restricted data An employee at one of the big four accounting firms has been sacked after he and another man allegedly accessed prime minister Anthony Albanese’s personal banking account. The men, aged 21 and 25, faced court on Tuesday over the breach which Australian federal police alleged occurred when the EY graduate was on secondment at the Commonwealth Bank. Continue reading...",
+      "description": "Two men – including one who worked for EY – appear in court after being charged over accessing restricted data Get our breaking news email , free app or daily news podcast An employee at one of Australia’s big four accounting firms has been sacked after he and another man allegedly accessed the prime minister Anthony Albanese’s personal banking account. The men, aged 21 and 25, faced court on Tuesday over the breach, which Australian federal police alleged occurred when the EY graduate was on secondment at the Commonwealth Bank. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jun/30/ernst-and-young-ey-graduate-employee-allegedly-accessed-australian-prime-minister-albanese-bank-account-sacked-ntwnfb",
       "published": "Tue, 30 Jun 2026 07:39:57 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Senegalese lawmakers pass divisive reform curbing presidential powers",
-      "description": "Senegal's National Assembly has adopted a controversial constitutional amendment that expands its role and reduces presidential powers",
-      "url": "https://abcnews.com/International/wireStory/senegalese-lawmakers-pass-divisive-reform-curbing-presidential-powers-134316484",
-      "published": "Mon, 29 Jun 2026 14:19:58 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1316,7 +1296,7 @@
       "title": "Heavy security deployed in South Africa ahead of anti-migrant protests",
       "description": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
       "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 07:18:23 GMT",
+      "published": "Tue, 30 Jun 2026 08:10:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1353,21 +1333,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
-      "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
-      "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
-      "published": "Mon, 21 Mar 2022 19:54:24 GMT",
-      "source": "CNN World",
+      "title": "What to know about the Colorado primary elections in the US",
+      "description": "The western state is the latest to see fierce contests between the Democratic Party's progressive and centrist wings.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 08:28:32 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-      "description": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s status Polls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future. The election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations with France on the territory’s status, with independence remaining the defining political issue. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-      "published": "Sun, 28 Jun 2026 02:26:48 GMT",
-      "source": "The Guardian World",
+      "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
+      "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
+      "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
+      "published": "Mon, 21 Mar 2022 19:54:24 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1390,16 +1370,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
-      "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 06:28:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1454,7 +1424,7 @@
     },
     {
       "title": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
-      "description": "Simon Peter Carman, 46, has denied the charges against him Get our breaking news email , free app or daily news podcast An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand. Pattaya City police told the Guardian the man, identified as Simon Peter Carman, 46, has denied the charges against him. Continue reading...",
+      "description": "Simon Peter Carman, 45, has denied the charges against him Get our breaking news email , free app or daily news podcast An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand. Pattaya City police told the Guardian the man, identified as Simon Peter Carman, 45, has denied the charges against him. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
       "published": "Sun, 28 Jun 2026 09:25:27 GMT",
       "source": "The Guardian World",
@@ -1466,7 +1436,7 @@
       "title": "Heat forces yodelers at annual Swiss festival to sing in fountains",
       "description": "Yodelers at a festival in Basel, Switzerland, turned city fountains into rehearsal spaces during Europe’s June heat wave",
       "url": "https://abcnews.com/International/wireStory/heat-forces-yodelers-annual-swiss-festival-sing-fountains-134314760",
-      "published": "Mon, 29 Jun 2026 13:02:50 -0400",
+      "published": "Tue, 30 Jun 2026 04:17:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1480,6 +1450,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "description": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:08:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
+      "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:08:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -1533,17 +1523,47 @@
       "severity_level": "Low"
     },
     {
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "description": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-      "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 12:04:30 GMT",
-      "source": "BBC News",
+      "title": "Caracas park helps children cope through activities after twin quakes",
+      "description": "A public park in Caracas has been transformed into a hub of activities for children to help them cope after twin quakes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 08:43:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Social media calculator: How much of your life is spent on social media?",
+      "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
+      "description": "Talks between EU trade commissioner and Chinese commerce minister come as bloc seeks to limit influx of Chinese imports.",
+      "url": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 08:30:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Millions in India’s Bengal risk losing welfare benefits after vote deletion",
+      "description": "Controversial revision of electoral rolls removed millions. Now, the BJP says they are not eligible for government aid.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 08:25:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How each prime minister broke Britain’s economy",
+      "description": "How each prime minister broke Britain’s economy",
+      "url": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss",
+      "published": "Tue, 30 Jun 2026 07:52:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Screen time calculator: How much of your life is spent on social media?",
       "description": "The average user spends roughly two hours, 39 minutes on social media daily, adding up to more than 40 days a year.",
       "url": "https://www.aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss",
       "published": "Tue, 30 Jun 2026 07:26:49 +0000",
@@ -1587,16 +1607,6 @@
       "description": "Video shows the moment a vehicle was damaged by a drone in Zaporizhzhia, southeastern Ukraine.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/moment-drone-hits-vehicle-in-zaporizhzhia?traffic_source=rss",
       "published": "Tue, 30 Jun 2026 06:10:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
-      "description": "President Donald Trump said US negotiators are heading to Qatar for what he called a ‘perhaps important’ meeting.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss",
-      "published": "Tue, 30 Jun 2026 02:41:18 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1813,16 +1823,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia to double potential fines over child social media accounts",
-      "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts",
-      "published": "Mon, 29 Jun 2026 02:46:46 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Middle East: Trump announces new Doha talks, Iran demurs",
       "description": "The US and Iran have agreed to refrain from hostilities after a recent flareup, according to Washington, with US President Trump anouncing new talks will be held in Doha. Iran has yet to confirm this. DW has more.",
       "url": "https://www.dw.com/en/middle-east-trump-announces-new-doha-talks-iran-demurs/live-77763482?maca=en-rss-en-all-1573-xml-mrss",
@@ -1974,7 +1974,7 @@
     },
     {
       "title": "South Korea bets big on AI with nearly a trillion dollars in investment",
-      "description": "South Korea bets big on AI with nearly a trillion dollars worth of investment through 2029. Comcast announces it will spin off NBCUniversal into a separate, publicly traded company. And, France takes aim at Shein, Temu and AliExpress with a new law.",
+      "description": "South Korea bets big on artificial intelligence with nearly $1 trillion worth of investment through 2029. Also in this edition, Comcast announces it will spin off NBCUniversal into a separate, publicly traded company. Plus France takes aim at Shein, Temu and AliExpress with a new law aimed at curbing ultra-fast fashion.",
       "url": "https://www.france24.com/en/south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-of-investment",
       "published": "Mon, 29 Jun 2026 19:54:57 GMT",
       "source": "France24",
@@ -2013,10 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Feliks the eagle is back home in Serbia after a kidnap ordeal in the Middle East",
-      "description": "Feliks’ journey resembles a Hollywood movie script, with kidnappers, smugglers and clandestine border crossing",
-      "url": "https://abcnews.com/International/wireStory/feliks-eagle-back-home-serbia-after-kidnap-ordeal-134333000",
-      "published": "Tue, 30 Jun 2026 02:00:27 -0400",
+      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
+      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
+      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
+      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2033,70 +2033,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
-      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
-      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
-      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
       "description": "A former Conservative lawmaker has pleaded guilty to cheating at gambling by using insider knowledge to bet on the date then-Prime Minister Rishi Sunak would call a U.K. election two years ago",
       "url": "https://abcnews.com/International/wireStory/uk-lawmaker-pleads-guilty-cheating-election-betting-scandal-134314880",
       "published": "Mon, 29 Jun 2026 13:10:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Malaysia extends search for MH370 for another year, keeping families’ hopes alive",
-      "description": "Malaysia has extended its contract with Ocean Infinity for another year to search for wreckage of Malaysia Airlines flight 370",
-      "url": "https://abcnews.com/International/wireStory/malaysia-extends-search-mh370-year-keeping-families-hopes-134301629",
-      "published": "Mon, 29 Jun 2026 06:50:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Thai airline employee arrested in Australia on suspicion of importing heroin",
-      "description": "Australian police have arrested a Thai airline employee for allegedly importing over a kilogram of heroin into Melbourne",
-      "url": "https://abcnews.com/International/wireStory/thai-airline-employee-arrested-australia-suspicion-importing-heroin-134301180",
-      "published": "Mon, 29 Jun 2026 06:49:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A long-awaited Australia-Vanuatu pact blocks China from building a military base",
-      "description": "Australia and Vanuatu have signed a long-awaited bilateral security and economic treaty that prevents China creating a military base on the South Pacific island nation",
-      "url": "https://abcnews.com/International/wireStory/long-awaited-australia-vanuatu-pact-blocks-china-building-134300351",
-      "published": "Mon, 29 Jun 2026 06:26:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
-      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
-      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
-      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
-      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
-      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
-      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2117,6 +2057,66 @@
       "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts",
       "url": "https://abcnews.com/International/wireStory/australia-double-potential-fines-facebook-instagram-child-social-134299301",
       "published": "Mon, 29 Jun 2026 03:54:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
+      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
+      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
+      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Feliks the eagle is back home in Serbia after a kidnap ordeal in the Middle East",
+      "description": "Feliks’ journey resembles a Hollywood movie script, with kidnappers, smugglers and clandestine border crossing",
+      "url": "https://abcnews.com/International/wireStory/feliks-eagle-back-home-serbia-after-kidnap-ordeal-134333000",
+      "published": "Tue, 30 Jun 2026 02:58:09 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Malaysia extends search for MH370 for another year, keeping families’ hopes alive",
+      "description": "Malaysia has extended its contract with Ocean Infinity for another year to search for wreckage of Malaysia Airlines flight 370",
+      "url": "https://abcnews.com/International/wireStory/malaysia-extends-search-mh370-year-keeping-families-hopes-134301629",
+      "published": "Mon, 29 Jun 2026 06:50:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "A long-awaited Australia-Vanuatu pact blocks China from building a military base",
+      "description": "Australia and Vanuatu have signed a long-awaited bilateral security and economic treaty that prevents China creating a military base on the South Pacific island nation",
+      "url": "https://abcnews.com/International/wireStory/long-awaited-australia-vanuatu-pact-blocks-china-building-134300351",
+      "published": "Mon, 29 Jun 2026 06:26:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
+      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
+      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
+      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Thai airline employee arrested in Australia on suspicion of importing heroin",
+      "description": "Australian police have arrested a Thai airline employee for allegedly importing over a kilogram of heroin into Melbourne",
+      "url": "https://abcnews.com/International/wireStory/thai-airline-employee-arrested-australia-suspicion-importing-heroin-134301180",
+      "published": "Mon, 29 Jun 2026 06:49:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
