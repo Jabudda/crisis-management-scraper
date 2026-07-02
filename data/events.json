@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:49:48.423228Z",
+  "last_updated": "2026-07-02T06:19:08.282456Z",
   "event_count": 223,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 43,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 10 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
+      "description": "At least 10 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -80,26 +90,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Wildfire evacuation warning issued in northern Greece after father and son die in separate blaze",
-      "description": "Authorities in central Greece urged residents to evacuate as over 130 firefighters and aircraft battle a wildfire",
-      "url": "https://abcnews.com/International/wireStory/wildfire-evacuation-warning-issued-northern-greece-after-father-134376190",
-      "published": "Wed, 01 Jul 2026 10:38:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
-      "description": "At least eight dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
-      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -193,11 +183,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian strikes on Kyiv kill at least 8 after Zelensky warns of 'massive attack'",
-      "description": "Russian missile and drone strikes hit Kyiv early on Thursday, sparking fires, killing at least eight people and injuring over three dozen, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack.\" The assault followed air raid warnings and Zelensky's decision to cut short a visit to Dublin after receiving intelligence that Russia was preparing a major strike.",
-      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-      "published": "Wed, 01 Jul 2026 21:41:54 GMT",
-      "source": "France24",
+      "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+      "description": "Russia has launched a large-scale attack on Ukraine’s capital with missiles and drones that has killed 11 people and injured 54, including two children",
+      "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-kill-11-cause-damage-ukraine-134396794",
+      "published": "Thu, 02 Jul 2026 02:13:26 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -210,6 +200,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 06:07:11 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -293,20 +293,30 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russia launches major drone and missile attack on Kyiv",
-      "description": "Multiple explosions have been heard in Kyiv as Russian drones and missiles hit the Ukrainian capital.",
-      "url": "https://www.dw.com/en/russia-launches-major-drone-and-missile-attack-on-kyiv/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 2 Jul 2026 01:34:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Russian strikes on Kyiv kill at least 9 after Zelensky warns of 'massive attack'",
+      "description": "Russian missile and drone strikes hit Kyiv early Thursday, sparking fires, killing at least nine people and injuring dozens, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack\".",
+      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
+      "published": "Wed, 01 Jul 2026 21:41:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
     },
     {
-      "title": "1 dead in Romania in a powerful storm after intense heatwave",
+      "title": "1 dead in Romania in a powerful storm after intense heat wave",
       "description": "A powerful storm has struck Romania’s capital, killing one person and causing flooding in 20 counties",
       "url": "https://abcnews.com/International/wireStory/1-dead-romania-powerful-storm-after-intense-heatwave-134369228",
-      "published": "Wed, 01 Jul 2026 08:28:33 -0400",
+      "published": "Wed, 01 Jul 2026 23:29:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Wildfires kill a father and son in Greece and prompt evacuations in 2 villages",
+      "description": "Authorities in central Greece urged residents to evacuate as over 130 firefighters and aircraft battle a wildfire",
+      "url": "https://abcnews.com/International/wireStory/wildfire-evacuation-warning-issued-northern-greece-after-father-134376190",
+      "published": "Wed, 01 Jul 2026 22:18:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
@@ -318,16 +328,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
       "published": "Wed, 01 Jul 2026 18:49:01 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
-      "description": "Amnesty International says Sudan's Rapid Support Forces militia committed ethnic cleansing and crimes against humanity in its assault on the city of el-Fasher amid the longrunning civil war with Sudan's military.",
-      "url": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 1 Jul 2026 11:27:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -383,11 +383,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-      "description": "Monaco 's chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
-      "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
-      "published": "Tue, 30 Jun 2026 01:35:07 -0400",
-      "source": "NPR World News",
+      "title": "Hospital fire in northern Germany kills two, injures dozens",
+      "description": "A fire at a hospital in the northern German town of Ludwigslust has killed two people and injured dozens of others.",
+      "url": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two-injures-dozens/a-77795154?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 05:40:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -423,16 +423,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Monaco authorities detain then release a person in their probe of this week's explosion",
-      "description": "Monaco authorities say a person was arrested but later released as they “very actively” pursue their probe of an explosion that reportedly wounded a Ukrainian tycoon with ties to Russia and two other people",
-      "url": "https://abcnews.com/International/wireStory/monaco-authorities-detain-release-person-probe-weeks-explosion-134380849",
-      "published": "Wed, 01 Jul 2026 13:07:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Police identify two teen suspects after Penn State student shot dead over stolen phone",
       "description": "Philadelphia police issued arrest warrants for two 16-year-olds who allegedly shot and killed Penn State journalism student Billy Schmidt, 22.",
       "url": "https://www.foxnews.com/us/police-identify-two-teen-suspects-penn-state-student-shot-dead-stolen-phone",
@@ -441,6 +431,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 04:59:55 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Five people injured after firebomb attacks targeting politicians in Greece",
@@ -493,16 +493,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
-      "description": "Some days they talk. Some days they fight. Iran and the United States have settled into a pattern since the truce signed last month. This Wednesday in Doha... they’re sort of talking. Both sides present in indirect negotiations. Whatever comes of that, the attention's now shifting to Tehran, where the Islamic Republic’s preparing for Friday’s kickoff of four days of state funeral proceedings for slain Supreme Leader Ali Khamenei with the regime boasting of a growing list of foreign dignitaries, a show of strength for a regime that’s more than rebounded since Khamenei was killed on the very first day of the war. A funeral intended as a victory lap for a leadership that’s always revered martyrdom? Definitely.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
-      "published": "Wed, 01 Jul 2026 18:22:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "At least 14 children killed after roof collapse of tutoring centre",
       "description": "At least 14 children have been killed after the roof of an under-construction tutoring centre collapsed in Pakistan.",
       "url": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
@@ -513,10 +503,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Floods have killed at least 59 people so far this year in Ivory Coast",
-      "description": "Floods in Ivory Coast have killed at least 59 people this year, according to a government spokesperson on Wednesday",
-      "url": "https://abcnews.com/International/wireStory/floods-killed-59-people-year-ivory-coast-ivory-134386880",
-      "published": "Wed, 01 Jul 2026 15:58:27 -0400",
+      "title": "Venezuelan medics fear earthquake aftermath will trigger widening medical crisis",
+      "description": "With far more dead than living people taken from the rubble a week after Venezuela’s devastating twin earthquakes, doctors say the biggest dangers now facing survivors were untreated wounds and infectious diseases",
+      "url": "https://abcnews.com/International/wireStory/venezuelan-medics-fear-infections-quake-injuries-search-untold-134377715",
+      "published": "Wed, 01 Jul 2026 20:33:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -527,6 +517,16 @@
       "description": "Mourners are attending funerals of 14 schoolchildren who were killed when the roof of a tutoring center collapsed",
       "url": "https://abcnews.com/International/wireStory/mourners-attend-funerals-14-pakistani-children-killed-tutoring-134366196",
       "published": "Wed, 01 Jul 2026 04:06:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Floods have killed at least 59 people so far this year in Ivory Coast",
+      "description": "Floods in Ivory Coast have killed at least 59 people this year, according to a government spokesperson",
+      "url": "https://abcnews.com/International/wireStory/floods-killed-59-people-year-ivory-coast-ivory-134386880",
+      "published": "Wed, 01 Jul 2026 21:38:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -563,10 +563,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
-      "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Tehran would use some of its frozen assets in Qatar to purchase goods needed by the country following talks in Doha. Under the memorandum of understanding that halted the war between Iran and the United States, Washington agreed to make available Iran's frozen or restricted assets as part of the agreement's implementation. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
-      "published": "Thu, 02 Jul 2026 03:47:49 GMT",
+      "title": "World Cup 2026: England struggled against DR Congo, Belgium beat Senegal",
+      "description": "Harry Kane rescued England campaign by scoring a brace to beat RD Congo (2-1). Belgium came from behind to overcome Senegal (3-2).",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260702-world-cup-2026-england-struggled-against-dr-congo-belgium-beat-senegal",
+      "published": "Thu, 02 Jul 2026 05:36:59 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 16,
@@ -643,6 +643,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+      "description": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+      "published": "Thu, 02 Jul 2026 01:47:53 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "World Cup: Are Americans real soccer fans?",
+      "description": "The U.S. was often mocked leading up to this World Cup for not being a “soccer” country, but what about its fans? Antoine Besse went to a bar in Boston during a game to check out the atmosphere.",
+      "url": "https://www.france24.com/en/world-cup-are-americans-real-soccer-fans",
+      "published": "Thu, 02 Jul 2026 05:50:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'",
       "description": "Pope Leo XIV issued an urgent plea to the Society of St. Pius X to halt bishop consecrations without Vatican approval, warning of excommunication.",
       "url": "https://www.foxnews.com/world/pope-leo-pleads-breakaway-catholic-group-not-commit-sin-extreme-gravity",
@@ -653,11 +673,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Russia launches deadly large-scale missile and drone strikes on Kyiv",
-      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 04:35:38 GMT",
-      "source": "BBC News",
+      "title": "Survivors look to foreign aid after the earthquakes in Venezuela",
+      "description": "Al Jazeera’s Teresa Bo reports from a golf course turned relief centre in Venezuela.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 04:54:29 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -673,11 +693,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Hydration breaks: The most controversial issue at the World Cup",
-      "description": "The mandatory hydration breaks at the 2026 World Cup have sparked debate in the stands, on the pitch, and far beyond.",
-      "url": "https://www.dw.com/en/hydration-breaks-the-most-controversial-issue-at-the-world-cup/a-77783435?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 1 Jul 2026 11:40:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
+      "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Tehran would use some of its frozen assets in Qatar to purchase goods needed by the country following talks in Doha. Under the memorandum of understanding that halted the war between Iran and the US, Washington agreed to make available Iran's frozen or restricted assets as part of the agreement's implementation. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
+      "published": "Thu, 02 Jul 2026 03:47:49 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -693,20 +713,20 @@
       "severity_level": "High"
     },
     {
-      "title": "In Mideast and around the world, everyone's talking 'ceasefire.' But what does it really mean?",
-      "description": "Ceasefires in the Middle East are not bringing the peace many people expect",
-      "url": "https://abcnews.com/International/wireStory/mideast-world-everyones-talking-ceasefire-134380242",
-      "published": "Wed, 01 Jul 2026 13:07:20 -0400",
+      "title": "4 people die in Mexico City during celebrations after World Cup win",
+      "description": "Mexican health authorities report that four people died during celebrations in downtown Mexico City",
+      "url": "https://abcnews.com/International/wireStory/3-people-die-asphyxiation-mexico-city-celebrations-after-134376671",
+      "published": "Wed, 01 Jul 2026 14:55:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
     },
     {
-      "title": "4 people die in Mexico City during celebrations after World Cup win",
-      "description": "Mexican health authorities report that four people died during celebrations in downtown Mexico City",
-      "url": "https://abcnews.com/International/wireStory/3-people-die-asphyxiation-mexico-city-celebrations-after-134376671",
-      "published": "Wed, 01 Jul 2026 14:55:43 -0400",
+      "title": "In Mideast and around the world, everyone's talking 'ceasefire.' But what does it really mean?",
+      "description": "Ceasefires in the Middle East are not bringing the peace many people expect",
+      "url": "https://abcnews.com/International/wireStory/mideast-world-everyones-talking-ceasefire-134380242",
+      "published": "Wed, 01 Jul 2026 13:07:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -753,6 +773,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russia launches attacks on Kyiv, killing at least 10 and injuring dozens",
+      "description": "Ballistic and cruise missiles and drones were used in the massive overnight strikes, which damaged residential buildings and civilian infrastructure, Ukrainian officials said.",
+      "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-10-and-injuring-dozens/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 01:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "How the cocoa price crash is crushing West African farmers",
       "description": "Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will the crisis mark a turning point for the sector?",
       "url": "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-all-1573-xml-mrss",
@@ -773,8 +803,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Co-hosts USA beat Bosnia-Herzegovina to reach World Cup last 16",
-      "description": "Folarin Balogun scored before being sent off as the United States defeated Bosnia and Herzegovina 2-0 on Wednesday to reach the World Cup last 16. Balogun struck just before halftime but was later dismissed after a VAR review. Malik Tillman sealed victory with a free kick, setting up a last-16 clash with Belgium.",
+      "title": "World Cup 2026: Co-hosts USA beat Bosnia-Herzegovina to reach last 16",
+      "description": "Folarin Balogun scored before being sent off as the United States defeated Bosnia and Herzegovina 2-0 on Wednesday to reach the World Cup last 16. Balogun struck just before halftime but was later dismissed following a nasty clash with Bosnia's Tarik Muharemovic. Malik Tillman sealed a US victory with a free kick, setting up a last-16 clash with Belgium.",
       "url": "https://www.france24.com/en/sport/20260702-co-hosts-usa-beat-bosnia-herzegovina-to-reach-world-cup-last-16",
       "published": "Thu, 02 Jul 2026 02:18:25 GMT",
       "source": "France24",
@@ -813,10 +843,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Two-year-old rescued and taken to hospital six days after Venezuela quake",
-      "description": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 06:03:08 GMT",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "description": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 01:56:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
@@ -833,31 +863,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Russian couple arrested after climbing Empire State Building",
-      "description": "Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 20:54:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Venezuelan medics fear infections from quake injuries as search for untold dead continues",
-      "description": "With far more dead than living people taken from the rubble a week after Venezuela’s historic twin earthquakes, doctors say the biggest dangers now facing survivors were untreated wounds and infectious diseases",
-      "url": "https://abcnews.com/International/wireStory/venezuelan-medics-fear-infections-quake-injuries-search-untold-134377715",
-      "published": "Wed, 01 Jul 2026 11:55:33 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -880,6 +890,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+      "description": "Brent falls below $71 a barrel amid reports of progress in talks to end the war.",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:17:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -983,16 +1003,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "USA beat Bosnia and Herzegovina 2-0: FIFA World Cup 2026 – updates",
-      "description": "All our updates as USA beat Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:03:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1013,10 +1023,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Australia politics live: Hastie insists ‘I’m not on my way out’ after commentator suggests he may leave Liberal party",
-      "description": "The shadow minister vows to recontest the next election as a Liberal. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason for Anika Wells ’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handing the eSafety commissioner more power – into an eight-week inquiry. It’s not complex, and I think Angus Taylor should explain why he is honestly giving big tech eight more weeks to prepare their case, eight more weeks to get their ducks in a row, potentially eight weeks to shred documents now that they know these changes are coming. I think this is genuinely urgent. I’m crestfallen. Angus Taylor has decided to walk away from bipartisanship and he should explain why he would make such a craven and expedient decision. If you chose to watch – I don’t want to name any particular given that we’re on the ABC – but if you are watching the football World Cup on SBS, another public broadcaster, for example, you have the ability to opt out of seeing gambling advertising and from 1 January on streaming. And we know the trend for viewing in Australia is that more than half of the population now view these things online through streamers. Continue reading...",
+      "title": "Australia politics live: Albanese trashes Taylor’s Midwinter Ball speech saying ‘I would pretend it was all a bad dream’",
+      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason for Anika Wells ’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handing the eSafety commissioner more power – into an eight-week inquiry. It’s not complex, and I think Angus Taylor should explain why he is honestly giving big tech eight more weeks to prepare their case, eight more weeks to get their ducks in a row, potentially eight weeks to shred documents now that they know these changes are coming. I think this is genuinely urgent. I’m crestfallen. Angus Taylor has decided to walk away from bipartisanship and he should explain why he would make such a craven and expedient decision. If you chose to watch – I don’t want to name any particular given that we’re on the ABC – but if you are watching the football World Cup on SBS, another public broadcaster, for example, you have the ability to opt out of seeing gambling advertising and from 1 January on streaming. And we know the trend for viewing in Australia is that more than half of the population now view these things online through streamers. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-      "published": "Thu, 02 Jul 2026 04:33:02 GMT",
+      "published": "Thu, 02 Jul 2026 06:04:52 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1077,16 +1087,6 @@
       "description": "A bittersweet day for Congolese football. The Leopards had a one-nil lead up until half time at the World Cup knockout round in Atlanta on Wednesday, but England's Harry Kane scored twice in a second half rally.",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260701-congolese-leopards-lose-to-three-lions",
       "published": "Wed, 01 Jul 2026 20:52:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "World Cup 2026: England survive DR Congo scare as Kane’s late double sinks heroic Mpasi",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi",
-      "published": "Wed, 01 Jul 2026 18:06:08 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1233,6 +1233,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Facing barbs and pressure from Trump, Europe's leaders close ranks",
+      "description": "U.S. President Donald Trump’s attacks on Italy’s premier have had an unintended consequence",
+      "url": "https://abcnews.com/International/wireStory/facing-barbs-pressure-trump-europes-leaders-close-ranks-134399170",
+      "published": "Thu, 02 Jul 2026 02:10:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Novice climber survives 1,500-foot drop on California's Mount Shasta after helicopter rescue delayed by clouds",
       "description": "Climbing rangers hiked up Mount Shasta on foot after cloud cover blocked a direct helicopter rescue of a woman who slid 1,500 feet down Avalanche Gulch.",
       "url": "https://www.foxnews.com/us/novice-climber-survives-1500-foot-drop-californias-mount-shasta-after-helicopter-rescue-delayed-clouds",
@@ -1313,16 +1323,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Canada to make Eurovision Song Contest debut in 2027",
-      "description": "The country becomes the first new participant since Australia joined the contest in 2015.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 12:30:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1393,20 +1393,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UK police who arrested teen stabbing victim as he lay dying face misconduct probe",
-      "description": "Two British police officers are under investigation for potential gross misconduct",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrested-teenage-stabbing-victim-lay-dying-134367605",
-      "published": "Wed, 01 Jul 2026 10:13:48 -0400",
+      "title": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
+      "description": "Colombian senator Iván Cepeda refuses to recognize Abelardo de la Espriella as the new president unless he meets certain conditions",
+      "url": "https://abcnews.com/International/wireStory/colombian-election-loser-threatens-civil-disobedience-winner-ditch-134362239",
+      "published": "Tue, 30 Jun 2026 23:16:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
-      "description": "Colombian senator Iván Cepeda refuses to recognize Abelardo de la Espriella as the new president unless he meets certain conditions",
-      "url": "https://abcnews.com/International/wireStory/colombian-election-loser-threatens-civil-disobedience-winner-ditch-134362239",
-      "published": "Tue, 30 Jun 2026 23:16:33 -0400",
+      "title": "UK police who arrested teen stabbing victim as he lay dying face misconduct probe",
+      "description": "Two British police officers are under investigation for potential gross misconduct",
+      "url": "https://abcnews.com/International/wireStory/uk-police-arrested-teenage-stabbing-victim-lay-dying-134367605",
+      "published": "Wed, 01 Jul 2026 10:13:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1454,10 +1454,20 @@
     },
     {
       "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
-      "description": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
+      "description": "The two were atop the 1,454 ft (443m) building for at least ten minutes and displayed a large banner before climbing down.",
       "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 02 Jul 2026 04:16:09 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "California gets Bruce Lee Day in a first for US state’s Chinese Americans",
+      "description": "Bruce Lee Day aims to honour the San Francisco-born martial arts legend as a cultural bridge and Asian-American icon.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/california-gets-bruce-lee-day-in-a-first-for-us-states-chinese-americans?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 04:41:41 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1543,16 +1553,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "description": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 06:29:31 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1568,6 +1568,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "description": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "published": "Thu, 02 Jul 2026 01:57:33 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1613,20 +1623,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU issues new steel and e-commerce regulations to reduce trade imbalance with China",
-      "description": "The European Union has introduced two measures to protect its steel industry and limit small e-commerce parcels",
-      "url": "https://abcnews.com/International/wireStory/eu-issues-new-steel-commerce-regulations-reduce-trade-134369939",
-      "published": "Wed, 01 Jul 2026 08:58:09 -0400",
+      "title": "Survey shows Japan's business sentiment improving for a 5th straight quarter",
+      "description": "The Bank of Japan has reported its quarterly survey of business sentiment among major Japanese manufacturers rose to 22 in June from 17 in the previous quarter",
+      "url": "https://abcnews.com/International/wireStory/survey-shows-japans-business-sentiment-improving-5th-straight-134365706",
+      "published": "Wed, 01 Jul 2026 04:07:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
     },
     {
-      "title": "Survey shows Japan's business sentiment improving for a 5th straight quarter",
-      "description": "The Bank of Japan has reported its quarterly survey of business sentiment among major Japanese manufacturers rose to 22 in June from 17 in the previous quarter",
-      "url": "https://abcnews.com/International/wireStory/survey-shows-japans-business-sentiment-improving-5th-straight-134365706",
-      "published": "Wed, 01 Jul 2026 04:07:15 -0400",
+      "title": "EU issues new steel and e-commerce regulations to reduce trade imbalance with China",
+      "description": "The European Union has introduced two measures to protect its steel industry and limit small e-commerce parcels",
+      "url": "https://abcnews.com/International/wireStory/eu-issues-new-steel-commerce-regulations-reduce-trade-134369939",
+      "published": "Wed, 01 Jul 2026 22:02:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1660,6 +1670,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 05:00:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1703,16 +1723,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "description": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 18:19:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
       "description": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
       "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
@@ -1743,6 +1753,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "description": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 18:19:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Businessman goes on trial over murder of Maltese journalist",
       "description": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
       "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
@@ -1763,7 +1783,27 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lawyer takes Trump to Task over Unchecked Presidential Powers",
+      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "description": "De ​facto US ambassador Raymond Greene says drones represent a 'game-changing opportunity' to enhance Taiwan's security.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:40:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Belgium fans erupt after latest-ever goal seals place in last 16",
+      "description": "Belgium fans celebrate a dramatic 3-2 victory over Senegal in extra time.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:21:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Lawyer takes Trump to task over unchecked presidential powers",
       "description": "Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
       "published": "Thu, 02 Jul 2026 03:16:38 +0000",
@@ -1787,36 +1827,6 @@
       "description": "Carroll's lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.",
       "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
       "published": "Wed, 01 Jul 2026 21:45:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "description": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:09:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-      "description": "Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:04:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-      "description": "Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 20:55:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1973,11 +1983,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-      "description": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-      "published": "Mon, 29 Jun 2026 21:43:29 -0400",
-      "source": "NPR World News",
+      "title": "Google faces EU top court ruling on record €4.1 billion fine",
+      "description": "The EU's highest court will rule on Google's appeal against a record antitrust fine, after the tech giant argued the bloc unfairly penalized innovation.",
+      "url": "https://www.dw.com/en/google-faces-eu-top-court-ruling-on-record-€4-1-billion-fine/a-77794948?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 05:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2043,40 +2053,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Guatemala’s new attorney general vows to dismantle predecessor’s 'repressive' legacy",
-      "description": "Gabriel García Luna, Guatemala’s new attorney general, pledges to dismantle his predecessor Consuelo Porras’ administration, which he calls “repressive and vengeful.”",
-      "url": "https://abcnews.com/International/wireStory/guatemalas-new-attorney-general-vows-dismantle-predecessors-repressive-134392279",
-      "published": "Wed, 01 Jul 2026 18:39:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Belarus' authoritarian leader pardons 28 political prisoners to ease ties with the West",
       "description": "Belarus’ authoritarian President Alexander Lukashenko has pardoned 28 political prisoners, part of his efforts to improve relations with the West",
       "url": "https://abcnews.com/International/wireStory/belarus-authoritarian-leader-pardons-28-political-prisoners-ease-134375091",
       "published": "Wed, 01 Jul 2026 10:05:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Hospitals in Europe gear up for the next heat wave armed with lessons from this one",
-      "description": "Hospitals in the Paris region are urgently upgrading their defenses against heat waves",
-      "url": "https://abcnews.com/International/wireStory/hospitals-europe-gearing-heat-wave-armed-lessons-134365897",
-      "published": "Wed, 01 Jul 2026 07:38:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
-      "description": "Turkey is implementing extensive security measures for the upcoming NATO summit, deploying thousands of police and banning public gatherings",
-      "url": "https://abcnews.com/International/wireStory/turkey-tightens-security-showcases-strength-commitment-ahead-nato-134365801",
-      "published": "Wed, 01 Jul 2026 07:38:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2073,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Defying Pope Leo XIV and risking schism, traditionalists go ahead with Latin Mass consecrations",
-      "description": "A breakaway group of traditionalist Catholics has begun an ancient Latin Mass to consecrate four bishops without papal consent",
+      "title": "Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland",
+      "description": "A breakaway group of traditionalist Catholics has directly defied Pope Leo XIV by consecrating four bishops without his consent",
       "url": "https://abcnews.com/International/wireStory/defying-pope-leo-xiv-risking-schism-traditionalists-ahead-134364654",
-      "published": "Wed, 01 Jul 2026 04:02:08 -0400",
+      "published": "Wed, 01 Jul 2026 23:54:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Guatemala’s new attorney general vows to dismantle predecessor’s 'repressive' legacy",
+      "description": "Gabriel García Luna, Guatemala’s new attorney general, pledges to dismantle his predecessor Consuelo Porras’ administration, which he calls “repressive and vengeful.”",
+      "url": "https://abcnews.com/International/wireStory/guatemalas-new-attorney-general-vows-dismantle-predecessors-repressive-134392279",
+      "published": "Wed, 01 Jul 2026 18:39:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
+      "description": "Turkey is implementing extensive security measures for the upcoming NATO summit, deploying thousands of police and banning public gatherings",
+      "url": "https://abcnews.com/International/wireStory/turkey-tightens-security-showcases-strength-commitment-ahead-nato-134365801",
+      "published": "Wed, 01 Jul 2026 07:38:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
