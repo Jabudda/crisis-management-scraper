@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T15:56:06.999040Z",
+  "last_updated": "2026-07-05T16:26:46.998585Z",
   "event_count": 218,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Guam on alert as Super Typhoon Bavi closes in",
+      "description": "Howling winds and lashing rains battered Guam and the Northern Marianas late Sunday hours before the projected arrival of a \"super typhoon\" with equivalent force to a category-5 hurricane over the US Pacific territories. Super Typhoon Bavi was forecast to roar westwards over the area early Monday with maximum sustained winds of up to 280 kilometres (173 miles) per hour and gusts of 333 kmh, according to the Joint Typhoon Warning Center.",
+      "url": "https://www.france24.com/en/guam-on-alert-as-super-typhoon-bavi-closes-in",
+      "published": "Sun, 05 Jul 2026 15:47:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -348,16 +358,6 @@
       "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
       "published": "Sun, 05 Jul 2026 14:52:34 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-      "description": "Iran has begun a dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war",
-      "url": "https://abcnews.com/International/wireStory/iran-begins-dayslong-funeral-late-supreme-leader-ayatollah-134463197",
-      "published": "Sat, 04 Jul 2026 01:34:46 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -793,21 +793,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump again blasts 'communists', hails US as history's 'crowning achievement' on 250th anniversary",
-      "description": "US President Donald Trump on Saturday hailed America as the \"crowning achievement of human history\" in a Fourth of July speech celebrating 250 years of US independence in Washington. Trump claimed that under his presidency, the United States was \"prouder than ever before\", even as he used the event to renew his attack on domestic opponents he branded \"communists\".",
-      "url": "https://www.france24.com/en/americas/20260705-trump-blasts-communists-celebrates-the-united-states-in-250th-anniversary-speech",
-      "published": "Sun, 05 Jul 2026 05:35:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Heavy rains leave 5 dead in China's north; tropical storm hits the south and Vietnam",
       "description": "Heavy rains have left five people dead in northern China, while a tropical storm has toppled tree and submerged cars in the south, according to state media",
       "url": "https://abcnews.com/International/wireStory/heavy-rains-leave-5-dead-chinas-north-tropical-134494009",
       "published": "Sun, 05 Jul 2026 08:10:07 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Brooklyn Bridge catches fire amid NYC fireworks display as Trump hails it in DC speech",
+      "description": "Firefighters battled a fire on the Brooklyn Bridge during New York City's July Fourth fireworks while Trump praised the bridge in his National Mall speech.",
+      "url": "https://www.foxnews.com/us/brooklyn-bridge-catches-fire-amid-nyc-fireworks-display-trump-hails-dc-speech",
+      "published": "Sun, 05 Jul 2026 11:53:27 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -853,6 +853,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Albanians take to the streets in protest for the 35th night in a row",
+      "description": "A massive demonstration has been held for a 35th consecutive day in the Albanian capital of Tirana, with protesters calling for the resignation of Prime Minister Edi Rama, the temporary replacement of his government by a government of technicians, cons...",
+      "url": "https://abcnews.com/International/wireStory/albanians-streets-protest-35th-night-row-134489184",
+      "published": "Sat, 04 Jul 2026 22:44:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Far-right Alternative for Germany party elects leaders as protesters and police clash",
       "description": "Thousands of protesters are attempting to disrupt the national convention of Germany’s far-right Alternative for Germany party",
       "url": "https://abcnews.com/International/wireStory/alternative-germany-party-elects-leaders-protesters-police-clash-134466119",
@@ -861,6 +871,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "description": "Some of the famous guests have been posting on social media about the big day in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 15:48:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Former chess champion Kramnik banned over cheating remarks",
@@ -907,26 +927,6 @@
       "description": "Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.",
       "url": "https://www.aljazeera.com/sports/2026/7/5/fifa-world-cup-round-of-16-bracket-schedule-predictions-latest-news?traffic_source=rss",
       "published": "Sun, 05 Jul 2026 09:18:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "url": "https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 08:30:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-      "description": "Palestinians in Gaza celebrate Morocco's World Cup victory",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 08:25:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1027,16 +1027,6 @@
       "description": "Kylian Mbappé scored the only goal of the game from a second-half penalty as France beat Paraguay in a cagey Round of 16 tie in Philadelphia on Saturday. Les Bleus will take on Morocco in the quarter-finals on Thursday in Boston.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260705-les-bleus-advance-world-cup-quarter-finals-after-bruising-win-over-paraguay",
       "published": "Sun, 05 Jul 2026 08:20:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "World Cup 2026: Les Bleus discuss refereeing after Paraguay game",
-      "description": "🇫🇷⚽️ Les Bleus secured their place in the World Cup 2026 quarter-finals after a very tense match against #Paraguay 🇵🇾, marked by numerous fouls that went unpunished. Despite the intensity, the #French players reacted with composure after the final whistle, focusing on qualification rather than the controversy.",
-      "url": "https://www.france24.com/en/world-cup-2026-les-bleus-discuss-refereeing-after-paraguay-game",
-      "published": "Sun, 05 Jul 2026 02:00:04 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1303,16 +1293,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Summer festival revives worship of Ancient Greek deities at Mount Olympus",
-      "description": "As drums echo beneath Mount Olympus and torch-bearing worshippers sing hymns to Zeus, an ancient tradition comes alive each summer in northern Greece. For more than three decades, followers of the country's pre-Christian gods have gathered for the Prometheia Festival, reviving rituals rooted in antiquity while celebrating what they see as Greece's enduring cultural and spiritual heritage.",
-      "url": "https://www.france24.com/en/europe/20260705-at-the-foot-of-mount-olympus-a-return-to-ancient-greek-heritage",
-      "published": "Sun, 05 Jul 2026 07:09:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
       "description": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
       "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
@@ -1393,6 +1373,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Marine Le Pen faces key appeal ruling over 2027 presidential bid",
+      "description": "France's far-right chief Marine Le Pen faces a key ruling next week that will determine if she can run in the 2027 presidential elections, in what is seen as her best chance at the top job. A lower court handed the 57-year-old politician a five-year ban from public office last year and a two-year sentence over a fake jobs scam at the European Parliament, dashing her ambition to head the EU state. FRANCE 24's Philip Turle brings you this analysis.",
+      "url": "https://www.france24.com/en/marine-le-pen-faces-key-appeal-ruling-over-2027-presidential-bid",
+      "published": "Sun, 05 Jul 2026 15:52:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "France highlights role in American independence with historical re-enactments",
       "description": "Over the weekend, the Palace of Versailles celebrated the 250th anniversary of American Independence with a historical re-enactment. The French government provided covert support to US states to help them obtain independence from the British.",
       "url": "https://www.france24.com/en/france-highlights-role-in-american-independence-with-historical-re-enactments",
@@ -1403,20 +1393,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "A boat transporting students sinks in Congo, killing at least 20, authorities say",
-      "description": "Officials say a wooden boat carrying students back from state exams has sunk in central Congo, killing at least 20 people",
-      "url": "https://abcnews.com/International/wireStory/boat-transporting-students-exams-sinks-congo-killing-20-134477581",
-      "published": "Sat, 04 Jul 2026 13:49:15 -0400",
+      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty'",
+      "description": "Rutte has spent much of his time trying to keep the United States anchored.",
+      "url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185",
+      "published": "Sun, 05 Jul 2026 09:16:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty'",
-      "description": "Rutte has spent much of his time trying to keep the United States anchored.",
-      "url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185",
-      "published": "Sun, 05 Jul 2026 09:16:34 -0400",
+      "title": "A boat transporting students sinks in Congo, killing at least 20, authorities say",
+      "description": "Officials say a wooden boat carrying students back from state exams has sunk in central Congo, killing at least 20 people",
+      "url": "https://abcnews.com/International/wireStory/boat-transporting-students-exams-sinks-congo-killing-20-134477581",
+      "published": "Sat, 04 Jul 2026 13:49:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1468,6 +1458,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Isaac Del Toro overcomes mechanical setback to win Tour de France 2nd stage",
+      "description": "Isaac del ​Toro persevered, despite a mechanical issue and a prolonged ​wait ‌to ⁠change his bike, to ‌mount a late challenge ⁠and win the second stage of ​the Tour ‌de France in a time trial in Barcelona on Sunday, becoming the ‌second Mexican rider to ​win a stage at the race after Raul ​Alcala.",
+      "url": "https://www.france24.com/en/sport/20260705-isaac-del-toro-overcomes-mechanical-setback-to-win-tour-de-france-2nd-stage",
+      "published": "Sun, 05 Jul 2026 16:12:19 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1563,16 +1563,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "description": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 05:58:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
       "description": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
       "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
@@ -1583,10 +1573,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "description": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 11:25:57 GMT",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "description": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 05:58:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1638,6 +1628,36 @@
       "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 04 Jul 2026 21:46:43 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Syria delays first session of transitional parliament without explanation",
+      "description": "The transitional parliament aims to draft a new elections law during its 30-month term.",
+      "url": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 16:19:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Charles Leclerc wins F1 British Grand Prix behind the safety car",
+      "description": "Charles Leclerc collects his first victory of the 2026 F1 season after late safety car confusion in the final laps.",
+      "url": "https://www.aljazeera.com/sports/2026/7/5/charles-leclerc-wins-f1-british-grand-prix-behind-the-safety-car?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 16:17:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
+      "description": "Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.",
+      "url": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 16:05:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1717,16 +1737,6 @@
       "description": "Ezra Jin’s family says the Zion Church founder arrived in the US after months in detention in China.",
       "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention?traffic_source=rss",
       "published": "Sun, 05 Jul 2026 08:54:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-      "description": "Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 08:09:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2013,6 +2023,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pope on vacation after decisive flexing of papal muscle",
+      "description": "Pope Leo XIV has had a whirlwind finale to the first half of 2026.",
+      "url": "https://abcnews.com/International/wireStory/pope-heads-vacation-after-decisive-flexing-papal-muscle-134494299",
+      "published": "Sun, 05 Jul 2026 09:30:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "How Paris appeals court ruling could upend Marine Le Pen’s 2027 presidential bid",
       "description": "Paris' appeals court is set to rule Tuesday on Marine Le Pen’s embezzlement case",
       "url": "https://abcnews.com/International/wireStory/paris-appeals-court-ruling-upend-marine-le-pens-134493389",
@@ -2037,16 +2057,6 @@
       "description": "Slovaks are voting in a referendum to decide on canceling lifelong payments for populist Prime Minister Robert Fico and other leaders after their terms end",
       "url": "https://abcnews.com/International/wireStory/slovaks-vote-referendum-lifelong-payments-populist-prime-minister-134465837",
       "published": "Sat, 04 Jul 2026 15:43:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope on vacation after decisive flexing of papal muscle",
-      "description": "Pope Leo XIV has had a whirlwind finale to the first half of 2026.",
-      "url": "https://abcnews.com/International/wireStory/pope-heads-vacation-after-decisive-flexing-papal-muscle-134494299",
-      "published": "Sun, 05 Jul 2026 09:30:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2107,16 +2117,6 @@
       "description": "Video captured roughly 20 nations' tall ships arriving at Sandy Hook as the Coast Guard Eagle prepares to lead a historic parade of ships Saturday.",
       "url": "https://www.foxnews.com/us/military-allies-historic-tall-ships-converge-new-jersey-shores-launch-america-250-celebrations",
       "published": "Fri, 03 Jul 2026 17:57:31 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump kicks off Fourth of July weekend with symbolic salute to America’s legacy and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/trump-kicks-off-fourth-july-weekend-symbolic-salute-americas-legacy-more-top-headlines",
-      "published": "Fri, 03 Jul 2026 07:21:17 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
