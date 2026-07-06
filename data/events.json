@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T20:40:53.280144Z",
-  "event_count": 220,
+  "last_updated": "2026-07-06T21:34:00.207681Z",
+  "event_count": 221,
   "events": [
     {
       "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
@@ -46,8 +46,18 @@
       "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
       "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
       "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 15:09:57 GMT",
+      "published": "Mon, 06 Jul 2026 21:02:37 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
+      "description": "International aid teams have played a key part in Venezuela’s ‘miracle rescues’, days after twin earthquakes struck.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/survivors-and-bodies-still-being-pulled-from-rubble-days-after-twin-quakes?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 21:11:07 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 31,
       "severity_level": "Critical"
@@ -87,16 +97,6 @@
       "description": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167875",
       "published": "Mon, 06 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-      "description": "Drone attacks by advancing rebel fighters who are besieging El Obeid, Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167856",
-      "published": "Wed, 01 Jul 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
@@ -163,6 +163,26 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Nigeria says 2 nationals were killed during anti-migrant violence in South Africa",
+      "description": "Nigeria reports that two of its nationals were killed in South Africa following anti-immigrant protests targeting African workers",
+      "url": "https://abcnews.com/International/wireStory/nigeria-2-nationals-killed-anti-migrant-violence-south-134494102",
+      "published": "Sun, 05 Jul 2026 21:06:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Afghanistan among the world’s largest displacement crises",
+      "description": "Afghanistan faces one of the world’s biggest displacement crises amid poverty, drought and earthquakes, UN agencies warned on Monday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167881",
+      "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
       "description": "Aid agencies in Ukraine on Thursday rushed to respond to a massive uptick in deadly strikes by Russia, including one of the largest attacks on Kyiv to date.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167858",
@@ -190,16 +210,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "99-year-old WWII veteran awarded Purple Heart after waiting more than 80 years",
-      "description": "A 99-year-old World War II Army veteran finally received his Purple Heart 81 years after being wounded near the Rhine River fighting Nazi Germany.",
-      "url": "https://www.foxnews.com/us/99-year-old-wwii-veteran-awarded-purple-heart-after-waiting-more-than-80-years",
-      "published": "Sun, 05 Jul 2026 14:00:01 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -258,6 +268,16 @@
       "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
       "published": "Sat, 04 Jul 2026 15:14:18 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Clashes in Sri Lankan prison leave at least 25 dead and over 100 injured",
+      "description": "Clashes inside a Sri Lankan prison have killed at least 25 people and injured more than 100",
+      "url": "https://abcnews.com/International/wireStory/deadly-clashes-break-prison-sri-lanka-134509694",
+      "published": "Mon, 06 Jul 2026 08:26:02 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -353,16 +373,6 @@
       "severity_level": "High"
     },
     {
-      "title": "1 killed in attack on Crimea as Putin and Zelenskyy hold separate Trump calls",
-      "description": "A Ukrainian attack on Russian-occupied Crimea has killed one person, according to Moscow-installed officials",
-      "url": "https://abcnews.com/International/wireStory/1-killed-attack-crimea-putin-zelenskyy-hold-separate-134493752",
-      "published": "Sun, 05 Jul 2026 09:14:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Chicago officers wounded in traffic stop shootout as holiday weekend leaves 3 dead, 16 injured",
       "description": "Malik Wrightsell allegedly shot two officers during a traffic stop struggle on Chicago's South Side, with ballistic vests stopping bullets to both.",
       "url": "https://www.foxnews.com/us/chicago-officers-wounded-traffic-stop-shootout-holiday-weekend-leaves-3-dead-16-injured",
@@ -428,6 +438,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 06 Jul 2026 19:06:34 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "BJ’s roof collapse traps shoppers inside New Jersey store as rescue crews search damaged building",
+      "description": "Two people were partially entrapped in debris after a partial roof collapse at a BJ's Wholesale Club on Route 35 in Ocean Township, New Jersey.",
+      "url": "https://www.foxnews.com/us/bjs-roof-collapse-traps-shoppers-inside-new-jersey-store-rescue-crews-search-damaged-building",
+      "published": "Mon, 06 Jul 2026 16:33:42 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -503,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iranians struggle as ongoing economic crisis shows no sign of abatting",
-      "description": "Across Iran, families are grappling with soaring living costs, as the combined weight of war, subsidy reforms and sanctions pushes basic necessities beyond the reach of many. Some Iranians had hoped foreign intervention would unseat the regime - instead, the US-Israel war has crushed livelihoods.",
-      "url": "https://www.france24.com/en/iranians-struggle-as-ongoing-economic-crisis-shows-no-sign-of-abatting",
-      "published": "Mon, 06 Jul 2026 13:43:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Idaho mom who claimed vaccines killed her twin babies charged with murdering her kids",
       "description": "An Idaho woman who claimed her twins suffered vaccine-related deaths is now accused of killing them by suffocation and charged with first-degree murder.",
       "url": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids",
@@ -558,16 +568,6 @@
       "url": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 6 Jul 2026 08:00:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "North Korean leader Kim observes weapons tests from new naval destroyer",
-      "description": "North Korean leader Kim Jong Un supervised tests of a nuclear-capable cruise missile and other weapons aboard a new 5,000-ton destroyer, the Kang Kon, according to state media Sunday",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-observes-weapons-tests-new-134487809",
-      "published": "Sat, 04 Jul 2026 23:13:06 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -633,10 +633,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Portugal vs Spain live: Mendes strikes the crossbar in goalless World Cup showdown",
-      "description": "European champions Spain face Iberian rivals Portugal in a last-16 showdown pitting teen prodigy Lamine Yamal against 41-year-old Cristiano Ronaldo. Win or lose, the Portuguese veteran has vowed he will be “one thousand per cent” at peace with his career. Follow our liveblog for minute-by-minute match commentary.",
-      "url": "https://www.france24.com/en/sport/20260706-spain-vs-portugal-live-yamal-ronaldo-generational-clash-world-cup-last-16",
-      "published": "Mon, 06 Jul 2026 17:58:21 GMT",
+      "title": "Merino strikes late as Spain edge Portugal, ending Ronaldo's World Cup career",
+      "description": "Mikel Merino scored an injury-time winner as European champions Spain beat Iberian rivals Portugal in a tense last-16 encounter to book a place in the quarter-finals and end Cristiano Ronaldo's World Cup career.",
+      "url": "https://www.france24.com/en/sport/20260706-world-cup-2026-spain-edge-portugal-with-late-merino-goal-to-reach-quarter-finals",
+      "published": "Mon, 06 Jul 2026 21:05:33 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
@@ -647,16 +647,6 @@
       "description": "French President Emmanuel Macron has arrived in Syria, becoming the first major western leader to visit since Bashar al-Assad's ouster in 2024",
       "url": "https://abcnews.com/International/wireStory/macron-arrives-syria-major-western-leader-visit-war-134523294",
       "published": "Mon, 06 Jul 2026 14:31:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "As war grinds on, Ukrainian climbers build a new outdoor culture inspired by Yosemite",
-      "description": "As Russia’s full-scale invasion enters its fifth year, a group of Ukrainian amateur climbers is trying to build something new: a climbing culture inspired by the sense of community surrounding California’s Yosemite National Park",
-      "url": "https://abcnews.com/International/wireStory/war-grinds-ukrainian-climbers-build-new-outdoor-culture-134492809",
-      "published": "Sun, 05 Jul 2026 09:46:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -733,16 +723,6 @@
       "severity_level": "High"
     },
     {
-      "title": "British military says cargo ship attacked in Red Sea off coast of Yemen",
-      "description": "A skiff approached the ship and opened fire, then sailed back to a larger ship.",
-      "url": "https://abcnews.com/International/wireStory/british-military-cargo-ship-reports-attack-red-sea-134493768",
-      "published": "Sun, 05 Jul 2026 10:04:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Firefighters, police pull young woman from sewage-filled ravine after days trapped in 104-degree heat",
       "description": "First responders braved 104-degree heat and treacherous terrain to reach the young woman stuck in a mud-filled ravine behind a Dallas high school.",
       "url": "https://www.foxnews.com/us/firefighters-police-pull-young-woman-sewage-filled-ravine-days-trapped-104-degree-heat",
@@ -763,16 +743,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Missouri mom of 5 fatally shot while buying slushies with children; police search for gunman",
-      "description": "Missouri mom Shakeela Martin was fatally struck by nearby gunfire outside a gas station while getting slushies with two of her children.",
-      "url": "https://www.foxnews.com/us/missouri-mom-5-fatally-shot-buying-slushies-children-police-search-gunman",
-      "published": "Sun, 05 Jul 2026 11:18:39 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -783,10 +753,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Super Typhoon Bavi brings destruction to Guam and surrounding Pacific islands",
-      "description": "People in the Northern Mariana Islands — remote U.S. territories in the Pacific Ocean — are dealing with the aftermath of intense winds and severe flooding from Super Typhoon Bavi.",
-      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
-      "published": "Sun, 05 Jul 2026 13:22:55 -0400",
+      "title": "Earthquake-ravaged Venezuela marked its Independence Day yesterday",
+      "description": "Venezuela marked its Independence Day amid the aftermath of twin earthquakes and sweeping political change following the U.S.-led removal of Nicolás Maduro.",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5883039/earthquake-ravaged-venezuela-marked-its-independence-day-yesterday",
+      "published": "Mon, 06 Jul 2026 17:02:44 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 11,
@@ -813,31 +783,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Heavy rains leave 5 dead in China's north; tropical storm hits the south and Vietnam",
-      "description": "Heavy rains have left five people dead in northern China, while a tropical storm has toppled tree and submerged cars in the south, according to state media",
-      "url": "https://abcnews.com/International/wireStory/heavy-rains-leave-5-dead-chinas-north-tropical-134494009",
-      "published": "Sun, 05 Jul 2026 08:10:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Venezuela quake: UN continues to scale up as damage estimate reaches $37 billion",
       "description": "The UN and its partners are ramping up assistance for people affected by the earthquakes in Venezuela, working alongside the Government's response effort, as a new UN estimate puts direct physical damage at $37 billion.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167879",
       "published": "Mon, 06 Jul 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Brooklyn Bridge catches fire amid NYC fireworks display as Trump hails it in DC speech",
-      "description": "Firefighters battled a fire on the Brooklyn Bridge during New York City's July Fourth fireworks while Trump praised the bridge in his National Mall speech.",
-      "url": "https://www.foxnews.com/us/brooklyn-bridge-catches-fire-amid-nyc-fireworks-display-trump-hails-dc-speech",
-      "published": "Sun, 05 Jul 2026 11:53:27 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -863,11 +813,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Australia news live: Melbourne police in standoff with alleged graffiti artist perched on 120m tower of Bolte Bridge",
+      "description": "Meanwhile Wong says China’s missile test in Pacific a ‘destabilising act’ that could ‘lead to miscalculation’. Follow today’s news live Get our breaking news email , free app or daily news podcast Back to the upcoming by-election in WA’s seat of Secret Harbour… WA One Nation Leader Rod Caddies said Labor has treated Secret Harbour as a safe seat and voters aren’t happy, AAP reports. They’ve been missing in action, and we’re going to sink Labor in Secret Harbour. We want to make sure that we don’t leave any stone unturned in getting the very best. The big question for Labor is how much support it will lose. It’s got a fair buffer, but things are a bit volatile at the moment, so I think there would be a bit of nervousness all around the traps. It’ll be a test for (WA Liberal) Basil Zempilas and his leadership. It’s also a big test for One Nation, whether the swing we’ve been seeing to One Nation is reflected in actual votes. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb",
+      "published": "Mon, 06 Jul 2026 21:14:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "World Cup 2026 : Watching Mexico-England in one Boston's Hispanic outskirts",
       "description": "Mexico-England ended in a 3-2 victory for the Three Lions at the Azteca Stadium in Mexico City. In Chelsea, on the outskirts of Boston, the Mexican community turned out in force to watch the game.",
       "url": "https://www.france24.com/en/world-cup-2026-watching-mexico-england-in-one-boston-s-hispanic-outskirts",
       "published": "Mon, 06 Jul 2026 19:35:41 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+      "description": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+      "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -903,30 +873,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade",
+      "description": "Amarilla called Mbappe a 'colonised Cameroonian' after his penalty helped France knock Paraguay out of the World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/7/6/mbappe-fff-hit-back-at-paraguayan-senator-amarilla-over-racist-tirade?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 20:49:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "USA vs Belgium LIVE: FIFA World Cup 2026 round of 16",
+      "description": "Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 20:46:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Ticket prices continue to fall for USA-Belgium World Cup last-16 clash",
       "description": "Get-in prices for the round of 16 football game at Seattle Stadium have fallen by 27 percent over the past three days.",
       "url": "https://www.aljazeera.com/sports/2026/7/6/ticket-prices-continue-to-fall-for-usa-belgium-world-cup-last-16-clash?traffic_source=rss",
       "published": "Mon, 06 Jul 2026 18:01:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Belgian football body challenges reversal of Balogun’s World Cup suspension",
-      "description": "Trump says he asked FIFA's president to review USA player Balogun's game suspension, but did not tell him what to do.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/belgian-football-body-challenges-reversal-of-baloguns-world-cup-suspension?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 17:51:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Balogun, Garrincha and Pinochet: FIFA’s controversial World Cup decisions",
-      "description": "The Balogun affair has shocked football, but FIFA's showpiece has a long history of fixes, farces and failures.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/balogun-garrincha-and-pinochet-fifas-controversial-world-cup-decisions?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 17:39:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -973,20 +943,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
-      "description": "More blistering heatwaves and other weather extremes are becoming increasingly likely across the world now and in coming months, linked to strengthening El Niño conditions in the tropical Pacific, the UN World Meteorological Organization (WMO) said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167870",
-      "published": "Fri, 03 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "World Cup 2026: Spain edge Portugal with late Merino goal to reach quarter-finals",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/sport/20260706-world-cup-2026-spain-edge-portugal-with-late-merino-goal-to-reach-quarter-finals",
+      "published": "Mon, 06 Jul 2026 21:06:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "‘The science is here’: UN chief welcomes first global AI assessment",
-      "description": "Fresh scientific evidence and options for harnessing artificial intelligence (AI) were unveiled Wednesday following the launch of the first global, independent scientific assessment of opportunities, risks and impacts by a pioneering UN expert panel.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167853",
-      "published": "Wed, 01 Jul 2026 12:00:00 +0000",
+      "title": "Portugal vs Spain live: Merino scores in injury time to send La Roja to quarter-finals",
+      "description": "Substitute ​Mikel Merino scored in ​added time as Spain edged Portugal 1-0 to reach the World Cup quarter-finals on Monday, extending La Roja's run without conceding ​a goal and putting an end to Cristiano Ronaldo's career on football's biggest stage. Follow our liveblog for minute-by-minute match commentary.",
+      "url": "https://www.france24.com/en/sport/20260706-spain-vs-portugal-live-yamal-ronaldo-generational-clash-world-cup-last-16",
+      "published": "Mon, 06 Jul 2026 17:58:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
+      "description": "More blistering heatwaves and other weather extremes are becoming increasingly likely across the world now and in coming months, linked to strengthening El Niño conditions in the tropical Pacific, the UN World Meteorological Organization (WMO) said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167870",
+      "published": "Fri, 03 Jul 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 9,
@@ -1058,6 +1038,16 @@
       "url": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
       "published": "Mon, 06 Jul 2026 16:37:06 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Canada awards Germany major submarine contract",
+      "description": "Canadian Prime Minister Mark Carney said the purchase of up to 12 German-built submarines will be the \"largest in Canadian history.\" The deal comes ahead of the NATO summit Ankara.",
+      "url": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 6 Jul 2026 20:43:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1273,16 +1263,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "In pictures: Marine Le Pen’s political rise and frustrated presidential ambitions",
-      "description": "French far-right figurehead Marine Le Pen could see her 40-year political career come to an end on Tuesday if French courts rule that she is guilty of embezzling public funds and ineligible to stand for the presidency in 2027. FRANCE 24 takes a look at how she rose to prominence in France and brought her National Rally party into mainstream politics.",
-      "url": "https://www.france24.com/en/france/20260706-in-pictures-marine-le-pen-s-political-rise-and-frustrated-presidential-ambitions",
-      "published": "Mon, 06 Jul 2026 12:58:05 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "ICE makes nationwide arrests of illegal immigrants, murderers, pedophiles in holiday blitz",
       "description": "ICE arrested illegal immigrants convicted of murder, child sex crimes and drug trafficking over the Independence Day weekend as deportation ramps up.",
       "url": "https://www.foxnews.com/us/ice-makes-nationwide-arrests-illegal-immigrants-murderers-pedophiles-holiday-blitz",
@@ -1338,16 +1318,6 @@
       "url": "https://www.france24.com/en/trump-confirms-call-at-centre-of-red-card-controversy-with-massive-political-consequences",
       "published": "Mon, 06 Jul 2026 15:21:25 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Residents in eastern Congo cling to hope as a new Ebola treatment trial begins",
-      "description": "Residents in Congo's Ebola outbreak zone are hopeful as researchers begin a study of two potential treatments",
-      "url": "https://abcnews.com/International/wireStory/residents-eastern-congo-cling-hope-new-ebola-treatment-134493288",
-      "published": "Sun, 05 Jul 2026 05:22:29 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1613,6 +1583,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "description": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 20:50:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US judge tosses out Musk’s bid to void Twitter fraud verdict",
+      "description": "Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.",
+      "url": "https://www.aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 20:37:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+      "description": "A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 20:33:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
       "description": "Judge to decide whether there's enough evidence to bring Tyler Robinson to trial for conservative activist's killing.",
       "url": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss",
@@ -1677,46 +1677,6 @@
       "description": "President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs.",
       "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
       "published": "Mon, 06 Jul 2026 18:02:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "What makes this NATO summit high stakes?",
-      "description": "Al Jazeera’s James Bays explains why NATO’s Ankara summit is high stakes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 17:41:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Khamenei family mourns, but Mojtaba’s absence fuels public insecurity",
-      "description": "Many Tehran residents say the absence of Iran's new supreme leader makes them question their own security.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/khamenei-family-mourns-but-mojtabas-absence-fuels-public-insecurity?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 17:20:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UN rights body demands release of Palestinian doctor detained by Israel",
-      "description": "Hussam Abu Safia's family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 17:09:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
-      "description": "Khaled al-Halabi denied involvement, but the court deemed him responsible for abuse of detainees in Raqqa.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 16:54:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1833,16 +1793,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia news live: Wong says China’s missile test in Pacific a ‘destabilising act’ that could ‘lead to miscalculation’",
-      "description": "Foreign affairs minister says Australia made clear its displeasure at China’s long-range missile test and will keep doing so. Follow today’s news live Get our breaking news email , free app or daily news podcast Good morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Nick Visser with the main action. Western Australia’s Labor premier, Roger Cook , has conceded his party will have a tough fight to retain a previously safe seat after a retiring MP triggered a byelection in which One Nation could launch a strong challenge. More coming up. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb",
-      "published": "Mon, 06 Jul 2026 20:23:16 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Labor’s draft policy platform waters down rather than scraps its longheld opposition to mandatory jail sentences",
       "description": "Updated document also commits party to cracking down on inducements for online gambling, putting pressure on Albanese government to toughen reforms Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Labor will water down its opposition to mandatory jail sentences but has abandoned an earlier draft of its policy platform that would have seen the party scrap its longheld stance entirely. The draft platform obtained by Guardian Australia also commits Labor to cracking down on inducements for online wagering, putting pressure on the Albanese government to toughen up its proposed reforms to gambling advertising. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/07/labor-mandatory-jail-sentences-ntwnfb",
@@ -1888,16 +1838,6 @@
       "url": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit",
       "published": "Sun, 05 Jul 2026 17:03:40 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada to buy up to 12 submarines from Germany in historic deal, Canadian PM Carney announces",
-      "description": "Canadian Prime Minister Mark Carney said \"this procurement will be the largest in Canadian history.\" The deal comes ahead of the NATO summit Ankara.",
-      "url": "https://www.dw.com/en/canada-to-buy-up-to-12-submarines-from-germany-in-historic-deal-canadian-pm-carney-announces/a-77857391?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 6 Jul 2026 20:34:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1983,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "‘Restraining order needed’: Trump shares doctored Meloni meme to reignite feud",
+      "description": "On the eve of a key NATO summit, Donald Trump reignited his feud with Italy's Prime Minister Giorgia Meloni by sharing a doctored image on Truth Social, captioned “restraining order needed.” The altered image is based on genuine G7 footage but changes Meloni's facial expression to make her appear enamoured with Trump. This new jab follows weeks of bitter public clashes between the two leaders, following Trump’s claims she \"begged\" him for a photo.",
+      "url": "https://www.france24.com/en/restraining-order-needed-trump-shares-doctored-meloni-meme-to-reignite-feud-1",
+      "published": "Mon, 06 Jul 2026 20:49:27 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "OPEC+ raises output but cartel's future hangs in balance",
       "description": "A handful of OPEC+ countries have agreed to increase their output targets from August but the cartel is fighting for its survival after the UAE's departure. A French company is using the Seine to cool down Paris' buildings. And, Sky says it's buying ITV's broadcast channels and streaming service for £1.6bn.",
       "url": "https://www.france24.com/en/tv-shows/business/20260706-opec-raises-output-but-cartel-s-future-hangs-in-balance",
@@ -2003,11 +1953,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Does the French right have a chance of defeating the far right in the election?",
-      "description": "Right-wing Edouard Philippe has officially launched his presidential campaign less than a year ahead of the 2027 election in France. Philippe was the first one to say explicitly he would run for France's highest office. Now, polls give the ex-PM the best chance to defeat the far right. FRANCE 24's Marc Perelman tells us more.",
-      "url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
-      "published": "Mon, 06 Jul 2026 13:48:45 GMT",
-      "source": "France24",
+      "title": "Macron first major western leader to visit Syria since fall of Assad",
+      "description": "French president Emmanuel Macron has become the first major western leader to visit Syria since the ousting of Bashar al-Assad.",
+      "url": "https://news.sky.com/story/french-president-becomes-first-major-western-leader-to-visit-syria-since-fall-of-assad-13561090",
+      "published": "Mon, 06 Jul 2026 18:52:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2043,40 +1993,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Gold rings around 2,000 years old found during dig at Thailand archaeological site",
-      "description": "Officials in Thailand have discovered two gold rings that are around 2,000 years old",
-      "url": "https://abcnews.com/International/wireStory/gold-rings-2000-years-found-dig-thailand-archaeological-134509265",
-      "published": "Mon, 06 Jul 2026 03:38:46 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How Paris appeals court ruling could upend Marine Le Pen’s 2027 presidential bid",
-      "description": "Paris' appeals court is set to rule Tuesday on Marine Le Pen’s embezzlement case",
-      "url": "https://abcnews.com/International/wireStory/paris-appeals-court-ruling-upend-marine-le-pens-134493389",
-      "published": "Mon, 06 Jul 2026 04:25:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
-      "description": "The Philippine Senate has started the impeachment trial of Vice President Sara Duterte in a politically volatile event that will unfold against the backdrop of her feud with President Ferdinand Marcos Jr. Thousands of police officers were deployed to s...",
-      "url": "https://abcnews.com/International/wireStory/philippine-senate-opening-politically-volatile-impeachment-trial-vice-134505996",
-      "published": "Mon, 06 Jul 2026 08:25:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage faces questions over donations from convicted fraudster",
-      "description": "Nigel Farage is facing mounting scrutiny over undeclared financial gifts including a 5 million pound donation from a Thailand-based cryptocurrency billionaire",
-      "url": "https://abcnews.com/International/wireStory/reform-uk-leader-nigel-farage-faces-questions-donations-134512541",
-      "published": "Mon, 06 Jul 2026 08:41:58 -0400",
+      "title": "Island-wide blackout hits Cuba in latest blow to fuel-starved island",
+      "description": "Island-wide blackout hits Cuba in latest blow to fuel-starved island",
+      "url": "https://abcnews.com/International/wireStory/island-wide-blackout-hits-cuba-latest-blow-fuel-134522424",
+      "published": "Mon, 06 Jul 2026 13:27:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canada to decide between German, South Korean submarine bids on Monday",
-      "description": "Canada is expected Monday to choose between German and South Korean bids to build a multibillion-dollar fleet of 12 submarines",
-      "url": "https://abcnews.com/International/wireStory/canada-decide-german-south-korean-submarine-bids-monday-134506177",
-      "published": "Sun, 05 Jul 2026 21:33:05 -0400",
+      "title": "Reform UK leader Nigel Farage faces questions over donations from convicted fraudster",
+      "description": "Nigel Farage is facing mounting scrutiny over undeclared financial gifts including a 5 million pound donation from a Thailand-based cryptocurrency billionaire",
+      "url": "https://abcnews.com/International/wireStory/reform-uk-leader-nigel-farage-faces-questions-donations-134512541",
+      "published": "Mon, 06 Jul 2026 08:41:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2108,6 +2028,96 @@
       "url": "https://abcnews.com/International/wireStory/timeline-marine-le-pens-political-career-rise-french-134510615",
       "published": "Mon, 06 Jul 2026 07:22:05 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Sky agrees to buy British broadcaster ITV for up $2.1B to compete with streaming",
+      "description": "Sky, the UK-based TV, internet and mobile phone provider owned by Comcast, has agreed to buy ITV’s media and entertainment arm for up to 1.6 billion pounds, which is $2.1 billion",
+      "url": "https://abcnews.com/International/wireStory/sky-agrees-buy-british-broadcaster-itv-21-billion-134509436",
+      "published": "Mon, 06 Jul 2026 05:14:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Gold rings around 2,000 years old found during dig at Thailand archaeological site",
+      "description": "Officials in Thailand have discovered two gold rings that are around 2,000 years old",
+      "url": "https://abcnews.com/International/wireStory/gold-rings-2000-years-found-dig-thailand-archaeological-134509265",
+      "published": "Mon, 06 Jul 2026 03:38:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia, Fiji seal new mutual defense pact in push to counter China in the Pacific",
+      "description": "Australia and Fiji have signed a new bilateral defense alliance in a second major diplomatic win within a year for Australian Prime Minister Anthony Albanese against Chinese influence in the South Pacific",
+      "url": "https://abcnews.com/International/wireStory/australia-fiji-seal-new-mutual-defense-pact-push-134508688",
+      "published": "Mon, 06 Jul 2026 05:54:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Poor ventilation and children packed in, UK's outdated schoolhouses swelter in heat",
+      "description": "Over 1,000 schools across the U.K. have been forced to close during Europe's recent record-smashing heat wave",
+      "url": "https://abcnews.com/International/wireStory/poor-ventilation-children-packed-uks-outdated-schoolhouses-swelter-134507776",
+      "published": "Mon, 06 Jul 2026 04:18:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Canada to decide between German, South Korean submarine bids on Monday",
+      "description": "Canada is expected Monday to choose between German and South Korean bids to build a multibillion-dollar fleet of 12 submarines",
+      "url": "https://abcnews.com/International/wireStory/canada-decide-german-south-korean-submarine-bids-monday-134506177",
+      "published": "Sun, 05 Jul 2026 21:33:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
+      "description": "The Philippine Senate has started the impeachment trial of Vice President Sara Duterte in a politically volatile event that will unfold against the backdrop of her feud with President Ferdinand Marcos Jr. Thousands of police officers were deployed to s...",
+      "url": "https://abcnews.com/International/wireStory/philippine-senate-opening-politically-volatile-impeachment-trial-vice-134505996",
+      "published": "Mon, 06 Jul 2026 08:25:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pope on vacation after decisive flexing of papal muscle",
+      "description": "Pope Leo XIV has had a whirlwind finale to the first half of 2026.",
+      "url": "https://abcnews.com/International/wireStory/pope-heads-vacation-after-decisive-flexing-papal-muscle-134494299",
+      "published": "Sun, 05 Jul 2026 20:05:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Slain New Jersey therapist's sister says family is living a 'nightmare' one month later",
+      "description": "Brooke Hanlon, a 35-year-old psychotherapist and mother, was found stabbed in her Chester, New Jersey home one month ago with no suspect named.",
+      "url": "https://www.foxnews.com/us/slain-new-jersey-therapist-sister-says-family-living-nightmare-one-month-later",
+      "published": "Mon, 06 Jul 2026 16:38:43 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Substitute teacher accused of sending nude photos to middle school student enters plea",
+      "description": "Cassidy Carter, 21, sent nude photos to a 14-year-old student via Snapchat while working as a substitute teacher in Dearborn County, Indiana.",
+      "url": "https://www.foxnews.com/us/substitute-teacher-accused-sending-nude-photos-middle-school-student-enters-plea",
+      "published": "Mon, 06 Jul 2026 16:34:56 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
