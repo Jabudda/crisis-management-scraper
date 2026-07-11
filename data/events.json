@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T22:18:41.146133Z",
+  "last_updated": "2026-07-11T22:47:45.747864Z",
   "event_count": 221,
   "events": [
     {
@@ -180,16 +180,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-      "description": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "published": "Sat, 11 Jul 2026 13:18:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -1418,6 +1408,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Jul 2026 13:35:09 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "description": "The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters.",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
+      "published": "Sat, 11 Jul 2026 21:53:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
