@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T21:22:08.556301Z",
+  "last_updated": "2026-07-13T21:48:48.129230Z",
   "event_count": 225,
   "events": [
     {
@@ -163,16 +163,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Trump administration vows to ‘disable’ International Criminal Court",
-      "description": "US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 18:32:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Thailand: Bangkok bar fire leaves dozens dead",
       "description": "At least 27 people were killed in a fire at a bar in the Thai capital, Prime Minister Anutin Charnvirakul told local media. More than 60 others were injured in the fire.",
       "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-xml-mrss",
@@ -244,7 +234,7 @@
     },
     {
       "title": "Dolphin deaths in South Australia spike after algal bloom decimates food sources",
-      "description": "The March 2025 marine disaster may be linked to a high number of dolphin deaths in the region, scientists say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The number of dead dolphins washing up on South Australian beaches spiked in 2025, according to long-term data that reveals mortalities during the state’s devastating algal bloom were the highest in 12 years. Last year, at least 70 carcasses of common and bottlenose dolphins were found across South Australia, with a further 20 reported in 2026, including the recent death of a popular Port River dolphin known as Zoom. Continue reading...",
+      "description": "The March 2025 marine disaster may be linked to a high number of dolphin deaths in the region, scientists say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The number of dead dolphins washing up on South Australian beaches spiked in 2025, according to long-term data that reveals mortalities during the state’s devastating algal bloom were the highest in 12 years. Last year, at least 70 carcasses of common and bottlenose dolphins were found across SA, with a further 20 reported in 2026, including the recent death of a popular Port River dolphin known as Zoom. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
       "published": "Mon, 13 Jul 2026 15:00:51 GMT",
       "source": "The Guardian World",
@@ -320,6 +310,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
+      "description": "The country's football players' union confirmed Adams's death on Saturday, but the cause has not been revealed.",
+      "url": "https://www.aljazeera.com/sports/2026/7/13/police-in-south-africa-open-probe-into-post-world-cup-death-of-jayden-adams?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 21:27:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -993,16 +993,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
-      "description": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 18:33:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1076,15 +1066,25 @@
       "title": "Lindsey Graham's sister chosen as replacement after senator's death",
       "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
       "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:26:15 GMT",
+      "published": "Mon, 13 Jul 2026 21:37:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
+      "title": "US, Iran exchange attacks around Strait of Hormuz",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 21:19:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-      "description": "Late US senator supported invasion of Iraq, war on Iran and approach of 'more for Israel' and became a top Trump ally.",
+      "description": "Late US senator backed invasion of Iraq, war on Iran and approach of 'more for Israel' as he became a Trump confidant.",
       "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
       "published": "Mon, 13 Jul 2026 21:04:56 +0000",
       "source": "Al Jazeera",
@@ -1496,7 +1496,7 @@
       "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
       "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:57:08 GMT",
+      "published": "Mon, 13 Jul 2026 21:46:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1568,6 +1568,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+      "description": "Bradley John Murdoch was convicted of 28-year-old’s murder but remains were never found Get our breaking news email , free app or daily news podcast Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says A new report by Australia’s online safety regulator has found “significant gaps” in how major tech platforms tackle online sexual extortion and child sexual exploitation, as “reports of this abuse continue to rise”. With a more complete picture of cancer outcomes, alongside more detailed information about geography and socio-economic status, it becomes possible to identify where disparities are greatest and where targeted action can make the biggest difference. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
+      "published": "Mon, 13 Jul 2026 21:33:28 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1833,16 +1843,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
-      "description": "Bradley John Murdoch was convicted of 28-year-old’s murder but remains were never found Get our breaking news email , free app or daily news podcast Good morning, Nick Visser here to pick up the blog. Let’s dive in. Four more charged over alleged murder of Chris Baghsarian Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
-      "published": "Mon, 13 Jul 2026 21:11:37 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Australia banned vape ads more than two years ago – so why are they still all over social media?",
       "description": "Posts promoting illegal products appear across TikTok, Instagram and YouTube as expert says platforms ‘aren’t doing the job they promised they would do’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Illegal vape sellers have turned to social media to promote nicotine-filled products, with experts calling for a crackdown including stronger penalties for the platforms. Guardian Australia has identified a network of posts across TikTok, Instagram and YouTube promoting the sale of illegal products to Australian audiences. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/14/australia-banned-vape-ads-more-than-two-years-ago-so-why-are-they-still-all-over-social-media",
@@ -1856,7 +1856,7 @@
       "title": "M 4.3 - 18 km WSW of Johannesburg, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-13 16:40:55 UTC 2026-07-13 16:40:55 UTC at epicenter Location 35.312°N 117.815°W Depth 7.55 km (4.69 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292687",
-      "published": "2026-07-13T21:19:45.119Z",
+      "published": "2026-07-13T21:46:20.424Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
