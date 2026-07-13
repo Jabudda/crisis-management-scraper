@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T23:48:17.238279Z",
+  "last_updated": "2026-07-13T00:40:56.981413Z",
   "event_count": 222,
   "events": [
     {
@@ -48,6 +48,16 @@
       "url": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
       "published": "Thu, 09 Jul 2026 08:08:20 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Greek police arrest 2 people over 2010 fatal arson attack on Athens bank",
+      "description": "Greek police have arrested two people in connection with the deaths in 2010 of three people trapped in a bank that was firebombed during a violent protest in Athens",
+      "url": "https://abcnews.com/International/wireStory/greek-police-arrest-2-people-2010-fatal-arson-134649865",
+      "published": "Fri, 10 Jul 2026 10:18:08 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 37,
       "severity_level": "Critical"
@@ -183,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Hundreds of firefighters battle wildfire in southern Spain that killed at least 12",
-      "description": "Firefighters in Spain are battling one of the country's deadliest wildfires, which has killed at least 12 people",
-      "url": "https://abcnews.com/International/wireStory/hundreds-firefighters-battle-wildfire-southern-spain-killed-12-134672376",
-      "published": "Sat, 11 Jul 2026 09:46:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Srebrenica survivors warn of genocide denial while safeguarding memory of the dead",
       "description": "Three survivors of the genocide which took place in Srebrenica in Bosnia and Herzegovina in July 1995 have told UN News how they are keeping alive the memory of the more than 8,300 men and boys who were killed in the town while combating the rising current of denial about the massacre.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167892",
@@ -230,6 +230,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "description": "Iranian state media report explosions in port cities pof Bandar Abbas, Sirik and Jask, as well as Qeshm Island.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -308,16 +318,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Jul 2026 21:56:52 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Syria says it arrested IS-linked suspects behind the Damascus bombings",
-      "description": "Syrian authorities have arrested several suspects linked to recent explosions in Damascus, including bombings during French President Emmanuel Macron's visit",
-      "url": "https://abcnews.com/International/wireStory/syria-arrested-linked-suspects-damascus-bombings-macrons-visit-134632898",
-      "published": "Fri, 10 Jul 2026 02:41:06 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -523,7 +523,7 @@
       "severity_level": "High"
     },
     {
-      "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+      "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
       "description": "Sunday's attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.",
       "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
       "published": "Sun, 12 Jul 2026 23:03:32 +0000",
@@ -553,11 +553,41 @@
       "severity_level": "High"
     },
     {
+      "title": "Fontainebleau forest near Paris hit by 'very virulent' wildfire",
+      "description": "A fast-moving wildfire south of Paris scorched about 800 hectares of the Fontainebleau forest, prompting France to deploy two firefighting aircraft as crews battled to contain the blaze, officials said on Monday. The fire forced partial closures of the A6 motorway during a busy summer holiday weekend amid an intense heatwave.",
+      "url": "https://www.france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire",
+      "published": "Mon, 13 Jul 2026 00:21:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "British woman becomes 13th person to die after wildfire in Spain, officials say",
+      "description": "A British woman who was taken to hospital after a wildfire swept through southern Spain has become the 13th person to die in the tragedy, officials in the Andalusia region have said.",
+      "url": "https://news.sky.com/story/british-woman-becomes-13th-person-to-die-after-wildfire-in-spain-officials-say-13562889",
+      "published": "Sun, 12 Jul 2026 23:52:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
       "description": "A nine-year-old girl was among at least six people killed by Israeli attacks in Gaza on Sunday, according to Palestinian health officials.",
       "url": "https://news.sky.com/story/girl-9-among-at-least-six-killed-in-israeli-gaza-attacks-say-palestinian-officials-13562832",
       "published": "Sun, 12 Jul 2026 16:39:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Pakistani forces say they killed 75 insurgents after attacks in Balochistan",
+      "description": "Pakistani security forces have killed 75 insurgents in operations against a separatist group in Balochistan",
+      "url": "https://abcnews.com/International/wireStory/pakistani-forces-killed-75-insurgents-after-attacks-balochistan-134651432",
+      "published": "Fri, 10 Jul 2026 10:48:46 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -733,16 +763,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Bahamas plane crash that killed 10 included musicians and a DJ, union says",
-      "description": "The Bahamas Musicians and Entertainers Union says the victims in a plane crash in the Bahamas that killed 10 people included musicians and a DJ",
-      "url": "https://abcnews.com/International/wireStory/bahamas-plane-crash-killed-10-included-musicians-dj-134679018",
-      "published": "Sat, 11 Jul 2026 13:38:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Several people killed in Chile after car driven by navy officer crashes into an open-air market",
       "description": "An off-duty Chilean navy member crashes a private vehicle into an open-air market in Viña del Mar, killing several people",
       "url": "https://abcnews.com/International/wireStory/people-killed-chile-after-car-driven-navy-officer-134699056",
@@ -763,10 +783,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Pakistani rescuers battle rough seas on 2nd day of search for cargo plane crew",
-      "description": "Officials say Pakistan Navy search and rescue teams are battling rough seas as they try to find the five-member crew of a cargo plane that crashed into the Arabian Sea",
-      "url": "https://abcnews.com/International/wireStory/pakistani-rescuers-battle-rough-seas-2nd-day-search-134608919",
-      "published": "Thu, 09 Jul 2026 06:07:11 -0400",
+      "title": "Bahamas plane crash that killed 10 included musicians and a DJ, union says",
+      "description": "The Bahamas Musicians and Entertainers Union says the victims in a plane crash in the Bahamas that killed 10 people included musicians and a DJ",
+      "url": "https://abcnews.com/International/wireStory/bahamas-plane-crash-killed-10-included-musicians-dj-134679018",
+      "published": "Sat, 11 Jul 2026 13:38:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -873,6 +893,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Students abducted in May by Muslim militants in Nigeria are rescued, government says",
+      "description": "The government says a group of students abducted in May by Muslim militants in Nigeria's Oyo state have been rescued",
+      "url": "https://abcnews.com/International/wireStory/students-abducted-muslim-militants-nigeria-rescued-government-134658719",
+      "published": "Fri, 10 Jul 2026 14:48:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
       "description": "The widespread solidarity shown to Venezuela must now be transformed into real, practical support for recovery from the deadly double earthquakes last month, UN relief chief Tom Fletcher said on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167899",
@@ -951,6 +981,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "description": "The US has launched a new wave of strikes on Iran targeting Tehran's ability to threaten shipping in the strait.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 00:22:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "The man who changed the Arab world",
@@ -1133,50 +1173,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Runner gored in the face and 12 others injured at Spanish bull-running festival",
-      "description": "A runner was gored in the face during a chaotic bull run at Spain's San Fermin festival on Saturday.",
-      "url": "https://news.sky.com/story/runner-gored-in-the-face-and-12-others-injured-at-san-fermin-bull-running-festival-in-pamplona-13562470",
-      "published": "Sat, 11 Jul 2026 08:38:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "15 Indian tourists killed after speedboat capsizes in southern Vietnam",
       "description": "A boat has capsized in southern Vietnam, killing 15 Indian tourists less than half a kilometer from shore",
       "url": "https://abcnews.com/International/wireStory/15-indian-tourists-killed-after-speedboat-capsized-southern-134671968",
       "published": "Sat, 11 Jul 2026 11:46:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russian attacks kill 6, wound 29, as Ukrainian forces target oil tankers",
-      "description": "Ukraine says it hit 21 tankers, four tugboats, two cargo ships and a dredge.",
-      "url": "https://abcnews.com/International/wireStory/11-wounded-overnight-russian-missile-drone-strikes-kyiv-134672177",
-      "published": "Sat, 11 Jul 2026 12:45:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "One runner gored in the face at Spain's San Fermin bull run festival",
-      "description": "One runner has been gored in the face and many more were fortunate to not be seriously injured during a chaotic bull run at Spain’s San Fermin festival on Saturday",
-      "url": "https://abcnews.com/International/wireStory/runner-gored-face-spains-san-fermin-bull-run-134671158",
-      "published": "Sat, 11 Jul 2026 04:52:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Fire at a shoe factory kills 28 in one of China's deadliest blazes in recent years",
-      "description": "A fire has broken out at a shoe factory in China's Fujian province, killing 28 people",
-      "url": "https://abcnews.com/International/wireStory/fire-shoe-factory-kills-28-chinas-deadliest-blazes-134620508",
-      "published": "Thu, 09 Jul 2026 12:50:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1260,6 +1260,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "description": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 23:41:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1363,30 +1373,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Why the Iran-US ceasefire is falling apart",
-      "description": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 19:27:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Anti-migrant display set alight in Northern Ireland bonfire",
-      "description": "The flags of Palestine, Syria, Sudan and Somalia were draped over a huge bonfire tower before it was set alight.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 19:21:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "News live: Leeser accuses ‘spineless’ university vice-chancellors of failures on antisemitism; Dfat checking if Australians caught in Bangkok fire",
       "description": "Higher education chiefs, academics and students to give evidence at latest block of hearings at royal commission on antisemitism and social cohesion. Follow today’s news live Get our breaking news email , free app or daily news podcast Support for Hanson’s One Nation slips in new poll Pauline Hanson and One Nation’s popularity have slipped since her controversial Press Club speech with support shifting to the Coalition, according to new polling. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
-      "published": "Sun, 12 Jul 2026 23:34:03 GMT",
+      "published": "Mon, 13 Jul 2026 00:15:50 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
@@ -1443,6 +1433,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Massive fire rips through pub, killing at least 27 as patrons flee smoke-filled venue",
+      "description": "Officials said the fire broke out around midnight at a northern Bangkok pub, sending thick smoke through the venue as patrons tried to escape.",
+      "url": "https://www.foxnews.com/world/massive-fire-rips-through-pub-killing-least-27-patrons-flee-smoke-filled-venue",
+      "published": "Sun, 12 Jul 2026 19:48:58 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Migrant sought in American mom's killing was denied asylum but remained in Ireland",
       "description": "A migrant whose asylum claim was rejected fled Ireland to Istanbul before the murder investigation began, sparking an Interpol and Europol manhunt.",
       "url": "https://www.foxnews.com/world/migrant-sought-american-moms-killing-denied-asylum-remained-ireland",
@@ -1493,16 +1493,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nigel Farage resigning from UK Parliament",
-      "description": "Reform UK leader Nigel Farage has resigned from Parliament to force a snap by-election following an ongoing parliamentary investigation into a €5 million gift from a crypto billionaire, which Farage defended as necessary funding for his personal security.",
-      "url": "https://www.foxnews.com/world/nigel-farage-resigning-from-uk-parliament",
-      "published": "Tue, 07 Jul 2026 09:32:27 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
       "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
@@ -1533,20 +1523,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mali and Algeria reopen airspace and reinstate ambassadors, ending a yearlong rift",
-      "description": "Mali and Algeria have reopened their airspace and reinstated ambassadors, ending a diplomatic rift that began over a year ago",
-      "url": "https://abcnews.com/International/wireStory/mali-algeria-reopen-airspace-reinstate-ambassadors-ending-yearlong-134672474",
-      "published": "Sat, 11 Jul 2026 09:29:59 -0400",
+      "title": "US, UK and 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
+      "description": "The United States, United Kingdom and a dozen other Western and Asian countries have reasserted that China’s expansive claims in the South China Sea are illegal",
+      "url": "https://abcnews.com/International/wireStory/us-uk-12-nations-reaffirm-2016-ruling-invalidating-134688444",
+      "published": "Sun, 12 Jul 2026 00:49:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "US, UK and 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
-      "description": "The United States, United Kingdom and a dozen other Western and Asian countries have reasserted that China’s expansive claims in the South China Sea are illegal",
-      "url": "https://abcnews.com/International/wireStory/us-uk-12-nations-reaffirm-2016-ruling-invalidating-134688444",
-      "published": "Sun, 12 Jul 2026 00:49:19 -0400",
+      "title": "Mali and Algeria reopen airspace and reinstate ambassadors, ending a yearlong rift",
+      "description": "Mali and Algeria have reopened their airspace and reinstated ambassadors, ending a diplomatic rift that began over a year ago",
+      "url": "https://abcnews.com/International/wireStory/mali-algeria-reopen-airspace-reinstate-ambassadors-ending-yearlong-134672474",
+      "published": "Sat, 11 Jul 2026 09:29:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1573,6 +1563,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
       "description": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
       "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
@@ -1583,11 +1583,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 23:58:40 GMT",
-      "source": "BBC News",
+      "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
+      "description": "The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 23:29:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1653,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Hong Kong eateries welcome dogs as city relaxes ban",
+      "description": "Hong Kong has relaxed a decades-old rule, allowing dogs in over 900 approved restaurants",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-eateries-dogs-city-relaxes-ban-134640647",
+      "published": "Fri, 10 Jul 2026 01:13:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades",
       "description": "Willie J. Carpenter's DNA entered CODIS after an unrelated arrest, allegedly linking him to biological evidence from the 1988 crime scene in downtown Orlando.",
       "url": "https://www.foxnews.com/us/dna-technology-leads-arrest-1988-killing-orlando-woman-nearly-four-decades",
@@ -1703,20 +1713,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 05:00:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
-      "description": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
-      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 23:27:31 GMT",
+      "title": "How Indian scientists are mapping the brain's last frontier",
+      "description": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
+      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 00:08:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1757,16 +1757,6 @@
       "description": "Oil and gas deals are expected ⁠to be signed as part of a broader push ​for economic, trade and investment cooperation.",
       "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
       "published": "Sun, 12 Jul 2026 19:48:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Friends turned foes: The split reshaping Senegal",
-      "description": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 19:21:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1906,7 +1896,7 @@
       "title": "M 4.1 - 2 km ESE of Frazier Park, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-07-12 10:38:04 UTC 2026-07-12 10:38:04 UTC at epicenter Location 34.813°N 118.926°W Depth 13.09 km (8.13 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291863",
-      "published": "2026-07-12T23:30:40.906Z",
+      "published": "2026-07-13T00:15:08.096Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1993,16 +1983,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "UK police says no evidence of political motive in murder ​of former minister Widdecombe",
-      "description": "Police on Sunday said that there is no evidence that the suspected murder ​of former British government minister Ann Widdecombe was politically motivated. Widdecombe, 78, was found dead at ⁠her home in rural southwest England on Thursday with what police described as \"serious injuries\".",
-      "url": "https://www.france24.com/en/europe/20260712-uk-police-says-no-evidence-of-political-motive-in-murder-of-former-minister-widdecombe",
-      "published": "Sun, 12 Jul 2026 14:12:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
       "description": "Ukrainian prime minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy begins a reshuffle of Ukraine's government.",
       "url": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826",
@@ -2053,30 +2033,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
-      "description": "Japan has conducted a first test flight for its reusable rocket",
-      "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204",
-      "published": "Fri, 10 Jul 2026 22:42:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
       "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
       "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
       "published": "Sun, 12 Jul 2026 04:54:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "More than 1 million evacuated Typhoon Bavi hits China",
-      "description": "It was the second typhoon in a week to impact China in just over a week.",
-      "url": "https://abcnews.com/International/wireStory/taiwan-eastern-china-brace-typhoon-bavi-winds-rain-134670964",
-      "published": "Sat, 11 Jul 2026 12:34:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2053,50 @@
       "severity_level": "Low"
     },
     {
-      "title": "UK police release man arrested over killing of former politician Ann Widdecombe",
-      "description": "British police have released a 26-year-old man arrested in connection with the killing of former politician Ann Widdecombe",
-      "url": "https://abcnews.com/International/wireStory/uk-police-release-man-arrested-killing-former-politician-134671265",
-      "published": "Sat, 11 Jul 2026 08:26:03 -0400",
+      "title": "Mali's military says it's broken a rebel blockade around a strategic northern base",
+      "description": "Mali’s military says it has broken a rebel blockade around a strategic army base in the north as the junta battles a renewed offensive by separatists and al-Qaida-linked militants",
+      "url": "https://abcnews.com/International/wireStory/malis-military-broken-rebel-blockade-strategic-northern-base-134658395",
+      "published": "Fri, 10 Jul 2026 14:32:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Solar-powered tricycles help Cubans navigate fuel shortages and blackouts",
+      "description": "Cuba's vintage cars have largely vanished, but they are now being replaced by small electric tricycles",
+      "url": "https://abcnews.com/International/wireStory/solar-powered-tricycles-cubans-navigate-fuel-shortages-blackouts-134655614",
+      "published": "Fri, 10 Jul 2026 13:24:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "At least 1 million women have lost access to aid after funding cuts, UN says",
+      "description": "The U.N. women's agency says at least 1 million have lost access to access to humanitarian aid and other critical support as a result of budget cuts over the last 18 months",
+      "url": "https://abcnews.com/International/wireStory/1-million-women-lost-access-aid-after-funding-134643131",
+      "published": "Fri, 10 Jul 2026 08:03:38 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
+      "description": "Japan has conducted a first test flight for its reusable rocket",
+      "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204",
+      "published": "Fri, 10 Jul 2026 22:42:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Nicaragua strips lawyers from practicing in ongoing crackdown on dissent",
+      "description": "Nicaragua's government has stripped many lawyers of their licenses to practice, according to a United Nations expert",
+      "url": "https://abcnews.com/International/wireStory/nicaragua-strips-lawyers-practicing-ongoing-crackdown-dissent-134663781",
+      "published": "Fri, 10 Jul 2026 17:25:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
