@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T20:29:08.274626Z",
+  "last_updated": "2026-07-13T20:53:32.321207Z",
   "event_count": 225,
   "events": [
     {
@@ -50,16 +50,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 39,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "'Preventive measures' needed to avoid 'increasingly common' wildfires, says Spanish PM",
-      "description": "Prime Minister Pedro Sanchez urged Spain to strengthen its prevention measures after one of the country's deadliest wildfires in recent history killed 13 people and razed a huge area. The prime minister was visiting the area to meet emergency servies as they worked to extinguish it. FRANCE 24's Sarah Morris tells us more.",
-      "url": "https://www.france24.com/en/preventive-measures-needed-to-avoid-increasingly-common-wildfires-says-spanish-pm",
-      "published": "Mon, 13 Jul 2026 13:36:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -138,16 +128,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 13 Jul 2026 15:04:36 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "'Whenever biodiversity decays, you decay': French biologist Marc-André Selosse",
-      "description": "A leading environmentalist is warning that the destruction of the world's biodiversity is one of the defining challenges of our time – and one that deserves far greater public attention. Marc-André Selosse, a professor at the French National Museum of Natural History and the University of Gdańsk, and author of the new book \"De la biodiversité comme un humanisme\" (Biodiversity as a Form of Humanism), argues that nature should be protected not only for its own sake, but because it is essential to humanity's future. He has also criticised politicians, pointing out that biodiversity accounted for just one percent of the debate during France's 2022 presidential election campaign. He spoke to us on Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260713-whenever-biodiversity-decays-you-decay-french-biologist-marc-andr%C3%A9-selosse",
-      "published": "Mon, 13 Jul 2026 13:30:57 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -273,6 +253,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Two arrested as Fontainebleau forest near Paris ravaged by fire, prompting evacuations",
+      "description": "France on Monday battled to contain a fire that scorched about 1,200 hectares in a forest south of Paris on Monday, as police arrested two people suspected of starting it. The fire erupted Sunday in the sprawling Fontainebleau forest, about 60 kilometres (40 miles) southeast of the capital, a former royal hunting estate that today is dotted with quiet villages. FRANCE 24's Catherine Norris-Trent reports.",
+      "url": "https://www.france24.com/en/two-arrested-as-fontainebleau-forest-near-paris-ravaged-by-fire-prompting-evacuations",
+      "published": "Mon, 13 Jul 2026 19:22:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Army Black Hawks airlift 200-plus stranded campers as Missouri floods trigger more 350 rescues",
       "description": "Video shows Army National Guard Black Hawk helicopters airlifting 202 young campers stranded by floodwaters at Camp Taum Sauk in Reynolds County.",
       "url": "https://www.foxnews.com/us/army-black-hawks-airlift-200-stranded-campers-missouri-floods-trigger-350-rescues",
@@ -348,6 +338,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
       "published": "Mon, 13 Jul 2026 18:57:57 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump reimposes Iran naval blockade, threatens Hormuz fees",
+      "description": "President Donald Trump reimposed a US naval blockade on Iranian ports on Monday and vowed hefty fees for ships transiting the Strait of Hormuz, as Tehran mockingly pledged to charge a lower rate for passage through the strategic waterway. FRANCE 24's Jennie Shin speaks with Aaron David Miller, Senior Fellow at the Carnegie Endowment for International Peace and Former State Department Middle East Analyst.",
+      "url": "https://www.france24.com/en/trump-reimposes-iran-naval-blockade-threatens-hormuz-fees",
+      "published": "Mon, 13 Jul 2026 19:34:08 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -454,7 +454,7 @@
     },
     {
       "title": "Person killed in shooting involving ICE agents in US state of Maine",
-      "description": "State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
+      "description": "State legislator says one person killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
       "url": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
       "published": "Mon, 13 Jul 2026 16:11:38 +0000",
       "source": "Al Jazeera",
@@ -493,9 +493,9 @@
       "severity_level": "High"
     },
     {
-      "title": "People are watching World Cut during work hours. It's leading to a drop in productivity",
+      "title": "People watching the World Cup during work hours is leading to a drop in productivity",
       "description": "The global economy may be suffering from lost productivity as people get swept by World Cup fever, a survey shows. This small business owner would know. She's spent most of her days watching matches.",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5884861/people-are-watching-world-cut-during-work-hours-its-leading-to-a-drop-in-productivity",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5884861/people-watching-the-world-cup-during-work-hours-is-leading-to-a-drop-in-productivity",
       "published": "Mon, 13 Jul 2026 16:02:44 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -583,6 +583,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ebola spreads to more provinces",
+      "description": "In tonight's show, the Ebola outbreak spreads to two more provinces. A Sudanese court sentences paramilitary leader Mohamed Hamdan Daglo and 15 others to death in absentia. Residents of the Niger Delta town of Billé take to the streets to demand government action over catastrophic pollution.",
+      "url": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
+      "published": "Mon, 13 Jul 2026 20:35:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Ally coalition is about 'putting Ukraine in the strongest position possible'",
       "description": "At least 25 heads of state, including Ukrainian leader Volodymyr Zelensky, are attending a meeting of the Coalition of the willing on July 13, which comes the day before France's national public holiday Bastille Day. Moscow dismissed the summit, calling it a 'coalition of warmongers'. FRANCE 24's Angela Diffley tells us more.",
       "url": "https://www.france24.com/en/ally-coalition-is-about-putting-ukraine-in-the-strongest-position-possible",
@@ -653,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Fire in Fontainebleau: Iconic forest south of Paris engulfed in flames",
-      "description": "The wildfire that has burned through 800 hectares of the Fontainebleau Forest, southeast of Paris, \"could have been intentionally set,\" Interior Minister Laurent Nuñez said Monday during a visit to the scene. #Fontainebleau #wildfire #France",
-      "url": "https://www.france24.com/en/video/20260713-fire-in-fontainebleau-iconic-forest-south-of-paris-engulfed-in-flames",
-      "published": "Mon, 13 Jul 2026 14:00:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "British woman becomes 13th person to die after wildfire in Spain, officials say",
       "description": "A British woman who was taken to hospital after a wildfire swept through southern Spain has become the 13th person to die in the tragedy, officials in the Andalusia region have said.",
       "url": "https://news.sky.com/story/british-woman-becomes-13th-person-to-die-after-wildfire-in-spain-officials-say-13562889",
@@ -708,6 +708,16 @@
       "url": "https://www.dw.com/en/sam-neill-jurassic-park-actor-dies-unexpectedly-at-78/a-77927271?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 13 Jul 2026 06:08:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nearly 1,000 hectares burnt in fire near Paris",
+      "description": "A fire raging in the historic and much-visited Fontainebleau forest south of Paris on Monday has prompted evacuations and disrupted train and highway traffic. Authorities say the fire, which has destroyed nearly five percent of the 25,000-hectare forest, could have been started by arson. It comes as the region is endures its third heatwave of the ​summer, with tinder-dry vegetation and ‌high temperatures fuelling blazes. FRANCE 24's Emerald Maxwell reports.",
+      "url": "https://www.france24.com/en/nearly-1-000-hectares-burnt-in-fire-near-paris",
+      "published": "Mon, 13 Jul 2026 19:41:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -933,6 +943,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ukraine and allies set up coalition to tackle Russia ballistic missile threat",
+      "description": "Ukraine and key Western allies on Monday announced an ​air-defence coalition that would include jointly developing a new anti-ballistic missile system as an alternative and cheaper solution to the U.S. Patriot system. FRANCE 24's Gulliver Cragg reports from Ukraine.",
+      "url": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
+      "published": "Mon, 13 Jul 2026 20:01:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "UK Police rearrest the suspect in Ann Widdecombe killing on terrorism suspicion",
       "description": "UK police say a 28-year-old man arrested on suspicion of killing former British politician Ann Widdecombe is now suspected of terrorism",
       "url": "https://abcnews.com/International/wireStory/uk-police-rearrest-suspect-ann-widdecombe-killing-terrorism-134709000",
@@ -993,6 +1013,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "World pays tribute to Qatar’s Father Emir",
+      "description": "From Gaza to India, this is how the world paid tribute to Qatar's Father Emir Sheikh Hamad bin Khalifa Al Thani.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 20:17:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
       "description": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
       "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament?traffic_source=rss",
@@ -1018,16 +1048,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/jul/14/layla-jeffery-13-victorian-town-struggling-alleged-murder-ntwnfb",
       "published": "Mon, 13 Jul 2026 15:00:52 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "World Cup semifinal: will France get their revenge on Spain?",
-      "description": "The French football team arrived in Dallas on July 12 ahead of their semifinal World Cup fixture against Spain. France reached the last four with a 2-0 victory against Morocco while Spain beat Belgium 2-1 in their quarter-final. While France are the favourites by a slim margin, Spain have had the better of Les Bleus in recent encounters, beating them in the 2024 Euros as well as in last year's Nations League semi-finals.",
-      "url": "https://www.france24.com/en/world-cup-semifinal-will-france-get-their-revenge-on-spain",
-      "published": "Mon, 13 Jul 2026 13:04:34 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1078,6 +1098,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 13 Jul 2026 11:52:55 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 20:26:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Gaza man builds roadside library from books buried in rubble",
+      "description": "Bookseller Mohammad Saad lost his son, his home, and his bookstore in the aftermath of Israel’s war on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 20:26:38 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1313,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Despite power returning to Cuba, blackouts are still a regular occurrence",
-      "description": "The Caribbean Island of Cuba is again suffering from blackouts that are causing havoc for the country's nearly ten million residents and the wider economy. Cuba only produces 40% of the fuel it needs and is struggling to receive shipments due to US restrictions. A Russian delivery of 730,000 barrels of Oil in late March ran out at the end of April.",
-      "url": "https://www.france24.com/en/despite-power-returning-to-cuba-blackouts-are-still-a-regular-occurrence",
-      "published": "Mon, 13 Jul 2026 13:42:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "WV town's police department thrown into chaos by evidence room fiasco, but officials say no one was fired",
       "description": "Barrackville's general counsel says the police department's mass firing claim is \"entirely inaccurate\" as an evidence room break-in sparks review.",
       "url": "https://www.foxnews.com/us/wv-town-police-department-thrown-chaos-evidence-room-fiasco-officials-say-no-one-fired",
@@ -1348,6 +1378,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
       "published": "Mon, 13 Jul 2026 18:43:26 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+      "description": "Bradley John Murdoch was convicted of 28-year-old’s murder but remains were never found Get our breaking news email , free app or daily news podcast Northern Territory Police have opened evidence boxes to uncover several previously unseen photographs from the investigation of the murder of British backpacker Peter Falconio and attempted abduction of his girlfriend Joanne Lees. Tuesday is the 25th anniversary of the infamous outback disappearance. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
+      "published": "Mon, 13 Jul 2026 20:34:49 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1543,6 +1583,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
+      "description": "Former NATO analyst says Trump's push for a naval blockade in the Strait of Hormuz would mean a huge military operation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
+      "published": "Mon, 13 Jul 2026 20:23:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1567,16 +1617,6 @@
       "description": "Labor sources say the PM will discuss safety concerns in speech this week but will not provide an update on copyright reforms to protect artists Get our breaking news email , free app or daily news podcast Anthony Albanese will describe the progress of AI as an inflection point for society on par with the renewable energy transition, but is not expected to detail progress on copyright reforms to protect creative industries. The prime minister will deliver a highly anticipated speech in Sydney on Wednesday to address growing concerns around social licence and the necessary policy guardrails for AI, datacentres, and the ability of big tech to profit from Australian intellectual property. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
       "published": "Mon, 13 Jul 2026 15:00:50 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says",
-      "description": "In six months last year, more than 2,000 such complaints were made to eSafety Get our breaking news email , free app or daily news podcast A new report by Australia’s online safety regulator has found “significant gaps” in how major tech platforms tackle online sexual extortion and child sexual exploitation, as “reports of this abuse continue to rise”. The findings come from eSafety’s latest transparency report, examining how tech companies – including Apple, Meta, Google, Microsoft, Snap, Discord and WhatsApp – are addressing child sexual exploitation and abuse. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb",
-      "published": "Mon, 13 Jul 2026 12:00:46 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
@@ -1613,10 +1653,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "description": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:14:01 GMT",
+      "title": "Hungary parliament votes to remove president from office",
+      "description": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 20:39:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1693,16 +1733,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "How Indian scientists are mapping the brain's last frontier",
-      "description": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
-      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:08:11 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
       "description": "Judge rules that US president, Department of Justice misused courts in settlement that led to 'anti-weaponization' fund.",
       "url": "https://www.aljazeera.com/news/2026/7/13/us-judge-voids-trumps-irs-settlement-alleges-self-dealing?traffic_source=rss",
@@ -1727,36 +1757,6 @@
       "description": "England, setting record-breaking target of 457 for victory, are dismissed for 186 shortly before lunch on the final day.",
       "url": "https://www.aljazeera.com/sports/2026/7/13/india-thrash-england-in-historic-first-womens-cricket-test-match-at-lords?traffic_source=rss",
       "published": "Mon, 13 Jul 2026 15:44:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump: US will ‘take over’ Strait of Hormuz",
-      "description": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 15:41:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iraqi PM arrives in US seeking balance between security and economy",
-      "description": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 15:25:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
-      "description": "In a massive corruption crackdown, Iraqi authorities have uncovered 375kg of gold linked to a high-profile case.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
-      "published": "Mon, 13 Jul 2026 15:04:06 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1886,7 +1886,7 @@
       "title": "M 4.3 - 18 km WSW of Johannesburg, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-13 16:40:55 UTC 2026-07-13 16:40:55 UTC at epicenter Location 35.312°N 117.815°W Depth 7.55 km (4.69 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292687",
-      "published": "2026-07-13T20:22:24.022Z",
+      "published": "2026-07-13T20:51:10.148Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2123,16 +2123,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
-      "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
-      "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
-      "published": "Sun, 12 Jul 2026 04:54:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Truck carrying wedding guests struck on Indonesia highway, killing 13 people",
       "description": "A truck carrying wedding guests has been struck on a busy highway in Indonesia, killing 13 people",
       "url": "https://abcnews.com/International/wireStory/truck-carrying-wedding-guests-struck-indonesia-highway-killing-134703365",
@@ -2147,6 +2137,16 @@
       "description": "Jordan says it shot down four missiles launched by Iran",
       "url": "https://abcnews.com/International/wireStory/jordan-shot-missiles-launched-iran-134704228",
       "published": "Mon, 13 Jul 2026 02:56:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
+      "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
+      "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
+      "published": "Sun, 12 Jul 2026 04:54:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
