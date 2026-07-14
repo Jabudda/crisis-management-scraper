@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T18:53:52.725113Z",
-  "event_count": 224,
+  "last_updated": "2026-07-14T19:32:23.289847Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
@@ -48,6 +48,16 @@
       "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
       "published": "Sun, 12 Jul 2026 08:00:12 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "'An open wound': Nice commemorates 10 years since terror attack",
+      "description": "French President Emmanuel Macron on Tuesday attended a solemn ceremony in Nice to mark the tenth anniversary of the July 14, 2016, terror attack on the city's Promenade des Anglais, which killed 86 people and injured more than 400. FRANCE 24's Mark Owen reports from Nice.",
+      "url": "https://www.france24.com/en/an-open-wound-nice-commemorates-10-years-since-terror-attack",
+      "published": "Tue, 14 Jul 2026 19:17:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 35,
       "severity_level": "Critical"
@@ -333,16 +343,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Person killed in ICE-involved shooting in Maine",
-      "description": "US Immigration and Customs Enforcement agents were involved in a fatal shooting in Biddeford, according to Maine's House speaker. It comes days after ICE allegedly shot a man in Texas during a traffic stop.",
-      "url": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 13 Jul 2026 18:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Spain's Lamine Yamal warns France: 'we have no fear' ahead of World Cup semifinal",
       "description": "The 2026 Football World Cup is in its final stretch. Tomorrow, England will take on Argentina for a place in the finals. And this evening, France will play Spain in their semifinals match. French coach Didier Deschamps predicted a “spectacular” match, while Spanish star Lamine Yamal shared a warning to Les Bleus. Our sports reporter Selina Sykes is covering the tournament.",
       "url": "https://www.france24.com/en/spain-s-lamine-yamal-warns-france-we-have-no-fear-ahead-of-world-cup-semifinal",
@@ -426,7 +426,7 @@
       "title": "Colombian national killed by ICE agent during operation in Maine",
       "description": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
       "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 17:33:56 GMT",
+      "published": "Tue, 14 Jul 2026 19:11:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -813,16 +813,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Greece awaits Nolan's 'The Odyssey' with anticipation despite casting controversy",
-      "description": "Christopher Nolan’s film adaptation of Homer’s “The Odyssey” opens July 17 amid international anticipation and controversy over its casting",
-      "url": "https://abcnews.com/International/wireStory/greece-awaits-nolans-odyssey-anticipation-despite-casting-controversy-134704149",
-      "published": "Mon, 13 Jul 2026 10:10:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Ukrainian prime minister resigns in Zelenskyy shake-up",
       "description": "Yulia Svyrydenko resigned as Ukraine's prime minister, with Zelenskyy saying he offered her a new role in relations with a key international partner.",
       "url": "https://www.foxnews.com/world/ukrainian-prime-minister-resigns-zelenskyy-shake-up",
@@ -870,6 +860,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
+      "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -1143,6 +1143,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 19:25:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
       "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
       "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
@@ -1153,30 +1163,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 13:49:42 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "EU bans gold imports from Sudan to curb money financing the war",
       "description": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
       "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 14 Jul 2026 08:32:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 01:29:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1283,10 +1273,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man wanted in UK over Bedfordshire triple murder appears in South African court - as cause of death revealed",
-      "description": "A man suspected of murdering his wife and two children in the UK has appeared in court in South Africa, as their causes of death have been revealed.",
-      "url": "https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-appears-in-south-african-court-on-gun-charges-13562934",
-      "published": "Mon, 13 Jul 2026 08:51:00 +0100",
+      "title": "Why is Trump risking a 'forever war' with Iran?",
+      "description": "👉Listen to This Is Why on your podcast app👈",
+      "url": "https://news.sky.com/story/why-is-trump-risking-a-forever-war-with-iran-13563446",
+      "published": "Tue, 14 Jul 2026 16:22:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
@@ -1307,6 +1297,16 @@
       "description": "The bodies of 15 Indian tourists who died when a speedboat capsized off Vietnam’s Phu Quoc are being flown home",
       "url": "https://abcnews.com/International/wireStory/bodies-15-indian-tourists-killed-vietnam-boat-capsizing-134704496",
       "published": "Tue, 14 Jul 2026 03:14:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Heavy rain collapses roof and kills 11 people in northwest Pakistan",
+      "description": "Officials in northwest Pakistan say 11 people were killed overnight when heavy rain caused the roof of a mud-brick house to collapse",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-collapses-roof-kills-11-people-northwest-134736773",
+      "published": "Tue, 14 Jul 2026 07:26:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1423,6 +1423,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "How Turkey's 2016 coup attempt changed the country for good",
+      "description": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Erdogan. The consequences of the failed coup continue to shape Turkey to this day. A look back.",
+      "url": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 14 Jul 2026 19:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Hungary: Lawmakers pass law to oust Orban ally president",
       "description": "The Hungarian parliament continued its attempts to leave the Viktor Orban era behind the country by moving to oust President Tamas Sulyok.",
       "url": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-xml-mrss",
@@ -1517,16 +1527,6 @@
       "description": "Police in Australia have marked the 25th anniversary of the murder of British backpacker Peter Falconio by releasing previously unseen photographs from their investigation.",
       "url": "https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240",
       "published": "Tue, 14 Jul 2026 07:35:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "<a href=\"https://news.sky.com/story/politics-latest-burnham-starmer-labour-tories-badenoch-farage-12593360?postid=12050554#liveblog-body\">UK proscribes Iran's IRGC after 'threats to life' on British soil</a>",
-      "description": "No description available.",
-      "url": "https://news.sky.com/story/uk-proscribes-irans-irgc-after-threats-to-life-on-british-soil-13563034",
-      "published": "Mon, 13 Jul 2026 13:28:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
@@ -1976,7 +1976,7 @@
       "title": "M 6.2 - 34 km WSW of Sarangani, Philippines",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-07-14 15:49:41 UTC 2026-07-14 15:49:41 UTC at epicenter Location 5.327°N 125.166°E Depth 67.85 km (42.16 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0",
-      "published": "2026-07-14T18:42:02.419Z",
+      "published": "2026-07-14T19:26:17.399Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1986,7 +1986,7 @@
       "title": "M 4.3 - 18 km WSW of Johannesburg, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-07-13 16:40:55 UTC 2026-07-13 16:40:55 UTC at epicenter Location 35.312°N 117.815°W Depth 7.55 km (4.69 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292687",
-      "published": "2026-07-14T18:25:24.744Z",
+      "published": "2026-07-14T19:30:46.249Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2043,6 +2043,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "US troop withdrawal from Iraq set for September, 30",
+      "description": "The planned US withdrawal is linked to the disarmament of influential, Iran-backed militias in Iraq.",
+      "url": "https://www.dw.com/en/us-troop-withdrawal-from-iraq-set-for-september-30/a-77959648?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 14 Jul 2026 18:55:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "T. rex 'Gus' sells for record-breaking $50.1 million",
       "description": "The Tyrannosaurus rex skeleton surpassed its pre-sale estimate and set a new auction record for a dinosaur fossil.",
       "url": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-xml-mrss",
@@ -2068,26 +2078,6 @@
       "url": "https://www.dw.com/en/micronutrients-are-good-a-balanced-diet-is-better/a-77925409?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 14 Jul 2026 11:55:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Gaza Strip: EU conference pledges €900m in donations",
-      "description": "The conference in Brussels was attended by Palestinian representatives. The EU's top diplomat said the bloc's support depends on reforms in the Palestinian Authority.",
-      "url": "https://www.dw.com/en/gaza-strip-eu-conference-pledges-€900m-in-donations/a-77940038?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 13 Jul 2026 16:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Aboard French fighter jets defending European borders from Russia",
-      "description": "As Europe decides how to handle Russian aggression, French Rafale fighter jets are on the front lines. Our colleagues at France 2 headed to Lithuania to film French pilots defending Europe's borders. Constantly patrolling, the French crews deter Russian drones- and sometimes even planes – who enter European airspace.",
-      "url": "https://www.france24.com/en/aboard-french-fighter-jets-defending-european-borders-from-russia",
-      "published": "Tue, 14 Jul 2026 14:45:35 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2123,20 +2113,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU rallies dozens of nations to pledge $1 billion for recovery fund in Gaza",
-      "description": "The European Union has coordinated efforts to raise 900 million euros in aid for Gaza",
-      "url": "https://abcnews.com/International/wireStory/eu-rallies-dozens-nations-pledge-1-billion-recovery-134718152",
-      "published": "Mon, 13 Jul 2026 12:02:11 -0400",
+      "title": "Singapore court postpones French teen’s straw-licking case to July 30",
+      "description": "A court case involving a French teen charged for filming himself licking a straw from a vending machine and then putting it back was postponed Monday",
+      "url": "https://abcnews.com/International/wireStory/singapore-court-postpones-french-teens-straw-licking-case-134705217",
+      "published": "Mon, 13 Jul 2026 05:38:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Singapore court postpones French teen’s straw-licking case to July 30",
-      "description": "A court case involving a French teen charged for filming himself licking a straw from a vending machine and then putting it back was postponed Monday",
-      "url": "https://abcnews.com/International/wireStory/singapore-court-postpones-french-teens-straw-licking-case-134705217",
-      "published": "Mon, 13 Jul 2026 05:38:11 -0400",
+      "title": "EU rallies dozens of nations to pledge $1 billion for recovery fund in Gaza",
+      "description": "The European Union has coordinated efforts to raise 900 million euros in aid for Gaza",
+      "url": "https://abcnews.com/International/wireStory/eu-rallies-dozens-nations-pledge-1-billion-recovery-134718152",
+      "published": "Mon, 13 Jul 2026 12:02:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
