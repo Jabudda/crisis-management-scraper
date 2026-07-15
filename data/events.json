@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T08:50:09.288734Z",
+  "last_updated": "2026-07-15T09:39:48.529506Z",
   "event_count": 223,
   "events": [
     {
@@ -108,6 +108,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 15 Jul 2026 01:03:07 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "description": "At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.",
+      "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 08:55:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -363,6 +373,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+      "description": "Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports.",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 08:44:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico",
       "description": "One social media user described the opening of its first outlet in Monterrey as ‘like the dog teaching a duck to fly’ A US chain’s plan to sell its version of Mexican food to Mexicans with a first branch south of the border has prompted bemusement, skepticism and anger among local people. Chipotle Mexican Grill, known for its customisable burritos, tacos and bowls, has more than 4,000 locations worldwide and announced on Tuesday that it was expanding into Mexico in what it described as a significant milestone. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
@@ -553,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ukraine: Three dead as Russia intensifies attacks on Odesea",
+      "description": "Russian attacks on the port of Odesa have caused more fatalities as Moscow increasingly targets shipping infrastructure. Meanwhile, European Commission President Ursula von der Leyen is visiting Kyiv. DW has more.",
+      "url": "https://www.dw.com/en/ukraine-three-dead-as-russia-intensifies-attacks-on-odesea/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Jul 2026 09:26:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "China investigates mine-safety official for corruption after deadly gas explosion",
       "description": "China's top mine-safety official in a major coal region is under investigation for corruption",
       "url": "https://abcnews.com/International/wireStory/china-investigates-mine-safety-official-corruption-after-deadly-134735751",
@@ -663,36 +693,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Photos: France fireworks fade as Spain march into World Cup final",
-      "description": "France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final.",
-      "url": "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 07:25:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
-      "description": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 02:01:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Spain crashes Paris party by beating France in the World Cup semis",
-      "description": "Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 02:00:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "WHO launches first trial of antiviral to prevent Bundibugyo strain of Ebola",
       "description": "The World Health Organization launched the first clinical trial on Tuesday to test whether an antiviral drug can prevent infection in people exposed to the Bundibugyo strain of Ebola in the Democratic Republic of Congo, as the outbreak continues to outpace response efforts and spread beyond known chains of transmission.",
       "url": "https://www.france24.com/en/africa/20260714-who-launches-first-trial-of-antiviral-to-prevent-bundibugyo-strain-of-ebola",
@@ -723,11 +723,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Iran launches attacks across region as US strikes continue",
+      "description": "Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 09:15:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
       "description": "Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.",
       "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
       "published": "Wed, 15 Jul 2026 07:58:36 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Former Sydney church turned LGBTQ+ arts venue weighs legal action after landlord orders it to stop ‘offensive trade’",
+      "description": "Divine Playhouse promoter and founder says venue faces significant operational, legal and financial challenges Get our breaking news email , free app or daily news podcast A former church turned arts venue at the centre of a culture war is exploring legal action after receiving a notice from its landlord that forced its organisers to close the space and cancel planned events. Divine Playhouse is facing possible eviction, with its landlord ordering the venue’s organisers, Heaps Gay Events, to stop “engaging in offensive trade”, days after religious groups protested its opening night. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/15/divine-playhouse-sydney-lgbtq-church-religious-protest-landlord-ntwnfb",
+      "published": "Wed, 15 Jul 2026 09:15:41 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -883,6 +903,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Running dry: How to store more groundwater for dry seasons",
+      "description": "More frequent weather extremes are leading to water shortages during droughts, and flooding during heavy rain. But groundwater storage can help secure water for dry seasons while mitigating extreme rain.",
+      "url": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Jul 2026 09:24:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Mexico asks US state attorneys general to investigate migrant deaths in ICE custody",
       "description": "Mexico has formally requested that U.S. state attorneys general investigate cases of migrants who have died in Immigration and Customs Enforcement custody or during raids",
       "url": "https://abcnews.com/International/wireStory/mexico-asks-us-state-attorneys-general-investigate-migrant-134761936",
@@ -900,6 +930,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "School in remote SA Indigenous community on list of places where accused paedophile worked",
+      "description": "Police investigating Hamish Tait – who faces 329 child abuse charges – have released list of 55 locations where he worked or attended Get our breaking news email , free app or daily news podcast A federal police investigation into an accused paedophile facing more than 300 child abuse charges has expanded to a remote community in South Australia. Hamish Tait, 35, faces 329 charges of child abuse between 2009 and 2025 while working across 62 centres. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/15/remote-indigenous-school-south-australia-on-list-of-places-where-accused-paedophile-worked-ntwnfb",
+      "published": "Wed, 15 Jul 2026 09:19:38 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -926,8 +966,28 @@
       "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
       "description": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
       "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 08:17:28 GMT",
+      "published": "Wed, 15 Jul 2026 09:06:52 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Watch FIFA World Cup: Spain defeats France to reach final",
+      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "url": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 08:15:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
+      "description": "France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final.",
+      "url": "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 07:25:22 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -967,16 +1027,6 @@
       "description": "Spain beat France 2-0 to reach the World Cup final, shutting down Kylian Mbappe",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss",
       "published": "Wed, 15 Jul 2026 05:25:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Spain fans erupt as team reaches World Cup final",
-      "description": "Fans erupted in celebration after Spain beat France 2-0 in the semifinals, securing their place in the 2026 Finals",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 00:14:35 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1106,7 +1156,7 @@
       "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
       "description": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
       "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 08:25:53 GMT",
+      "published": "Wed, 15 Jul 2026 09:15:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1177,16 +1227,6 @@
       "description": "When Donald Trump meets Iraq's new PM today, they are likely to discuss disarming Iran's allies in Iraq. Some have already pledged to give up their guns. But is that likely? And will it influence the US-Iran war?",
       "url": "https://www.dw.com/en/us-iraq-relations-can-iran-allied-militias-be-disarmed/a-77956078?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 14 Jul 2026 16:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bastille Day: France holds parade with Ukraine in focus",
-      "description": "The celebrations featured troops and warplanes from around Europe in a show of support for Ukraine, as it fends off Russia's ongoing invasion. It was Emmanuel Macron's last Bastille Day as France's president.",
-      "url": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Jul 2026 09:58:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1303,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
-      "description": "In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma. Neill died on Monday in Sydney, according to a statement posted to the actor's social media page.",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
-      "published": "Mon, 13 Jul 2026 03:20:30 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "France’s National Assembly will give final approval to assisted-dying bill",
       "description": "France's National Assembly is set to give final approval to a bill allowing adults with incurable illnesses to receive lethal medication",
       "url": "https://abcnews.com/International/wireStory/frances-national-assembly-give-final-approval-assisted-dying-134771956",
@@ -1343,26 +1373,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
-      "description": "Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 01:23:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "University of Melbourne ‘sharply’ changed protest policies after pro-Palestine sit-ins, commission hears",
-      "description": "Royal commission into antisemitism and social cohesion hears of response of universities to incidents on campus Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The interim vice-chancellor of the University of Melbourne (UoM) says pro-Palestine sit-ins on campus led to the institution “quite sharply” changing its protest policies and that further restrictions could arise. Prof Glyn Davis appeared before the royal commission into antisemitism and social cohesion on Wednesday, which is examining the lived experiences of Jewish students and academics, including the response of universities. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/15/antisemitism-royal-commission-university-of-melbourne-protest-policies-ntwnfb",
-      "published": "Wed, 15 Jul 2026 05:14:10 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
       "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
       "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
@@ -1377,16 +1387,6 @@
       "description": "Hamas is planning to transfer control of Gaza's civilian administration to Palestinian technocrats as part of the fragile US ceasefire. How is that affecting the daily lives of people living in Gaza?",
       "url": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 15 Jul 2026 08:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ukraine targets another 11 Russian ships in Sea of Azov",
-      "description": "Ukraine said it struck tankers and cargo vessels in the Sea of Azov, in the latest strikes on Russian commercial shipping. Moscow's Agriculture Ministry said \"alternative shipping routes\" are being sought.",
-      "url": "https://www.dw.com/en/ukraine-targets-another-11-russian-ships-in-sea-of-azov/a-77949717?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Jul 2026 11:18:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1618,16 +1618,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Melbourne council votes to scrap Lime ebikes for failing to meet ‘bare minimum standards’",
-      "description": "City of Yarra councillors end trial, claiming the company has not done enough to stop dumping and misuse of share bikes Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Shared ebikes will disappear from some inner-city Melbourne streets after a council scrapped its agreement with Australia’s largest electric bike operator. The City of Yarra on Tuesday voted to end its memorandum of understanding with Lime, terminating its almost six-year-long trial. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/15/lime-bikes-cancel-ban-yarra-city-council-melbourne",
-      "published": "Wed, 15 Jul 2026 04:05:43 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1973,6 +1963,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "description": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "published": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
       "description": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
@@ -2003,9 +2003,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why investors are fleeing one of Asia's biggest economies",
-      "description": "Indonesia's status as an emerging economy could be downgraded over populist President Prabowo Subianto's huge spending projects. Will the man who promised to deliver 8% growth rein in his ambitions?",
-      "url": "https://www.dw.com/en/why-investors-are-fleeing-one-of-asia-s-biggest-economies/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Why investors are suddenly fleeing Indonesia",
+      "description": "Indonesia, one of Asia's biggest economies, risks losing its emerging-market status as President Prabowo Subianto's spending plans rattle investors. Will the man who promised to deliver 8% growth rein in his ambitions?",
+      "url": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 15 Jul 2026 08:13:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2013,9 +2013,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "India's 'most ambitious' trade deal with UK takes effect",
-      "description": "A landmark free trade agreement allows zero-duty market access for nearly 99% of India's exports to the UK. Meanwhile, US senators have proposed a new bill to impose 100% tariffs on India over Russian oil purchases.",
-      "url": "https://www.dw.com/en/india-s-most-ambitious-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "India news: Landmark trade deal with UK takes effect",
+      "description": "The free trade agreement allows zero-duty market access for nearly 99% of India's exports to the UK. Meanwhile, US senators have proposed a new bill to impose 100% tariffs on India over Russian oil purchases.",
+      "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 15 Jul 2026 07:53:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
