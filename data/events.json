@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-17T19:28:01.141912Z",
+  "last_updated": "2026-07-17T19:54:01.473594Z",
   "event_count": 226,
   "events": [
     {
-      "title": "Magnitude 7.3 quake hits Mexican coast near Guatemala, triggering tsunami alert",
-      "description": "A powerful earthquake struck the southern Mexican Pacific coast on Friday, prompting residents to evacuate buildings in neighbouring Guatemala and El Salvador – and triggering an alert from the US Tsunami Warning System. There were no immediate reports of damage or casualties.",
+      "title": "Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted",
+      "description": "A powerful earthquake struck the southern Mexican Pacific coast on Friday, prompting residents to evacuate buildings in neighbouring Guatemala and El Salvador – and triggering an alert from the US Tsunami Warning System that was later lifted. There were no immediate reports of damage or casualties.",
       "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
       "published": "Fri, 17 Jul 2026 16:42:17 GMT",
       "source": "France24",
@@ -43,16 +43,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Canada wildfires: Smoke choking major US cities",
-      "description": "Air quality warnings have been issued in major US cities due to dense wildfire smoke from Canada. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
-      "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 18:38:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
       "description": "More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167971",
@@ -88,6 +78,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
       "published": "Thu, 16 Jul 2026 08:13:50 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Canada wildfires: Smoke choking major US cities",
+      "description": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tarrifs on the US neighbor. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
+      "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 17 Jul 2026 18:38:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -163,11 +163,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
+      "description": "World Cup organisers are monitoring the situation 'closely', with US and FIFA presidents meeting on Friday.",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "published": "Fri, 17 Jul 2026 19:39:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
       "description": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kampala on Thursday triggered the start of a 42-day countdown required by the World Health Organization before Uganda can officially be declared Ebola-free, provided no new infections are detected. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
       "published": "Thu, 16 Jul 2026 11:33:27 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump blames Canada as US 'invaded by filthy air' from wildfires that could impact World Cup final",
+      "description": "US President Donald Trump has blamed Canada for the impact of wildfire smoke that could impact the World Cup final.",
+      "url": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -186,7 +206,7 @@
       "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
       "description": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread again over huge swathes of the US, affecting about 109 million people across the midwest, mid-Atlantic and north-east. The pungent wildfire blanketed cities such as Chicago and Detroit , where residents on Friday were warned to stay indoors and reduce activity levels after the air quality index reached a “hazardous” 361, according to the government website AirNow . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "published": "Fri, 17 Jul 2026 18:39:51 GMT",
+      "published": "Fri, 17 Jul 2026 19:38:52 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 22,
@@ -533,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Wildfires force thousands to evacuate as smoke darkens skies over major cities",
-      "description": "Thousands of people have been told to leave more than a million acres of wilderness as wildfires spread.",
-      "url": "https://news.sky.com/story/wildfires-force-thousands-to-evacuate-as-skies-darken-over-us-and-canadian-cities-13563962",
-      "published": "Thu, 16 Jul 2026 11:17:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Europe's early heat wave led to a spike in deaths, may have killed over 10,000",
       "description": "Heat that hit Europe exceptionally early and hard this year appears to have led to a spike in deaths, with well over 10,000 more people dying at the height of the heat wave than would normally have been expected, according to figures that are still eme...",
       "url": "https://abcnews.com/International/wireStory/europes-early-heat-wave-led-spike-deaths-killed-134841091",
@@ -588,6 +598,16 @@
       "url": "https://www.dw.com/en/west-indies-cricket-legend-sir-garfield-sobers-dies/a-78013119?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 17 Jul 2026 15:50:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
+      "description": "In a week that’s seen rare wartime demonstrations in Ukraine protesting the ousting of Defence Minister Mykhailo (Misha) Fedorov after six months in a job in which he’s been credited with making a difference on the battlefield and in an anti-corruption drive. But he had reportedly clashed with Ukraine’s commander-in-chief, Oleksandr Syrskyi, over how the war should be waged.",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+      "published": "Fri, 17 Jul 2026 18:31:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -687,16 +707,6 @@
       "description": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.",
       "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
       "published": "Fri, 17 Jul 2026 16:40:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Uganda school bus crash kills 20 children and 1 adult",
-      "description": "Uganda halts school trips after bus crashes returning from waterfall field trip; at least a dozen also injured.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/uganda-school-bus-crash-kills-20-children-and-1-adult?traffic_source=rss",
-      "published": "Fri, 17 Jul 2026 14:12:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -958,6 +968,16 @@
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
       "published": "Fri, 17 Jul 2026 12:50:10 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump administration's border barrier project sparks environmental concerns in Texas national park",
+      "description": "The Trump administration’s waiver of environmental laws to speed up border barrier construction in Texas’s Big Bend National Park has sparked an outcry from local residents and authorities.",
+      "url": "https://www.france24.com/en/americas/20260717-border-barrier-project-sparks-environmental-concerns-texas-national-park",
+      "published": "Fri, 17 Jul 2026 17:21:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1233,16 +1253,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Missouri teen girl shot and killed at home, and now 3 friends face charges",
-      "description": "Three juveniles face charges after 16-year-old Gabbriana Boyster was shot and left inside her Hillsboro, Missouri, home for hours before her mother found the body.",
-      "url": "https://www.foxnews.com/us/missouri-teen-girl-shot-killed-home-3-friends-face-charges",
-      "published": "Thu, 16 Jul 2026 11:14:58 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "China hits out at British Steel nationalisation",
       "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
@@ -1298,6 +1308,16 @@
       "url": "https://www.dw.com/en/merz-and-macron-a-franco-german-week-of-harmony/a-78007779?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 17 Jul 2026 13:47:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Jon Culshaw on the art of imitation",
+      "description": "Downing Street’s Larry the Cat is about to get a new housemate, his seventh in ten years. Andy Burnham says he will do things differently, that he’s focused on driving growth in every postcode in the country, although we’re yet to hear any detail of how from the about-to-be-parachuted-in PM after Sir Keir Starmer gave his swan song in Westminster on Wednesday at the House of Commons, delivering his last Prime Minister’s Questions.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-jon-culshaw-on-the-art-of-imitation",
+      "published": "Fri, 17 Jul 2026 17:22:01 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1836,7 +1856,7 @@
       "title": "M 7.3 - 58 km WSW of Puerto Madero, Mexico",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.604°N 92.952°W Depth 18.58 km (11.55 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
-      "published": "2026-07-17T19:23:07.980Z",
+      "published": "2026-07-17T19:52:20.473Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1993,36 +2013,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Replay: Andy Burnham addresses Labour MPs as he becomes new party leader",
-      "description": "Rewatch Andy Burnham's address to Labour as he officially becomes the new party leader, and is a few days awat from becoming the new British prime minister.",
-      "url": "https://www.france24.com/en/replay-andy-burnham-addresses-labour-mps-as-he-becomes-new-party-leader",
-      "published": "Fri, 17 Jul 2026 12:54:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Project 'Afrika’: Inside Russia's propaganda machine",
-      "description": "After a leak of confidential documents revealed how Russian agents have been placing hundreds of articles in French-speaking media outlets in West and Central Africa, FRANCE 24 travelled to Dakar, Senegal, to investigate this secret operation.",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260717-project-afrika-inside-russia-propaganda-machine",
-      "published": "Fri, 17 Jul 2026 11:39:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "🔴 UK’s Andy Burnham named Labour leader ahead of taking over as PM",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20260717-uk-s-andy-burnham-named-labour-leader-ahead-of-taking-over-as-pm",
-      "published": "Fri, 17 Jul 2026 11:16:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "'Shameless' fraudster who stole £300k from vulnerable pensioner led away by police",
       "description": "This is the moment a \"shameless\" fraudster who stole £300,000 from a vulnerable pensioner is led away by police, after Sky News tracked her down to Tenerife.",
       "url": "https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444",
@@ -2148,6 +2138,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167956",
       "published": "Thu, 16 Jul 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fox News Campus Radicals Newsletter: Intro to biology, dancing on graves and AI backlash",
+      "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter",
+      "published": "Fri, 17 Jul 2026 15:38:58 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
