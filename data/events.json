@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T06:14:14.991196Z",
+  "last_updated": "2026-07-18T07:09:35.174378Z",
   "event_count": 227,
   "events": [
     {
@@ -38,6 +38,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 18:12:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Germany news: Minister warns of high terror threat",
+      "description": "Germany’s interior minister has warned of a heightened security threat, saying an attack could be imminent. Meanwhile, a train security guard was critically injured after falling from a moving train. DW has the latest.",
+      "url": "https://www.dw.com/en/germany-news-minister-warns-of-high-terror-threat/live-78016025?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 18 Jul 2026 06:46:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 36,
       "severity_level": "Critical"
@@ -257,16 +267,6 @@
       "description": "As voters head to the polls, Sao Tome and Principe is attracting international scrutiny. A military agreement with Russia has heightened interest in the strategically located archipelago.",
       "url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 18 Jul 2026 06:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ukraine: Several killed and injured in Russian strikes",
-      "description": "Russia carried out deadly strikes across Ukraine overnight that hit residential areas, while Ukraine said drone strikes in the Black Sea hit 12 Russian vessels.",
-      "url": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 12:00:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
@@ -953,27 +953,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "description": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 02:15:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "description": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 20:42:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "World Cup: Deschamps set for bittersweet end to France job as Zidane waits",
+      "title": "France vs England: Deschamps set for final World Cup match as Zidane waits",
       "description": "Deschamps, who led France to the 2018 World Cup title, bids farewell after Saturday's third-place playoff with England.",
       "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss",
       "published": "Sat, 18 Jul 2026 06:01:26 +0000",
@@ -983,9 +963,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "England carry ‘scars’ of World Cup heartbreak into third-place playoff",
-      "description": "England face France in a third-place playoff on Saturday, shortly after suffering a late semifinal defeat to Argentina.",
-      "url": "https://www.aljazeera.com/news/2026/7/18/england-france-fifa-world-cup-third-place-playoff-tuchel?traffic_source=rss",
+      "title": "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff",
+      "description": "England coach Thomas Tuchel says his side carry the pain of defeat into third-place playoff against France.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/england-france-fifa-world-cup-third-place-playoff-tuchel-france?traffic_source=rss",
       "published": "Sat, 18 Jul 2026 05:00:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
@@ -1043,7 +1023,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Disappointed France and England face off for third place World Cup match",
+      "title": "Disappointed France and England to face off in third place World Cup match",
       "description": "France and England meet for their final World Cup match on Saturday competing for third place after failing to reach Sunday's final. Neither of the disappointed teams seems to relish the prospect of the clash: \"The best thing for France and England would be for this match not to exist,\" said France coach Didier Deschamps.",
       "url": "https://www.france24.com/en/sport/20260718-disappointed-france-and-england-face-off-for-third-place-world-cup-match",
       "published": "Sat, 18 Jul 2026 05:56:10 GMT",
@@ -1553,6 +1533,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+      "description": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 21:29:22 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1697,6 +1687,16 @@
       "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
       "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 22:12:54 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 07:05:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1973,20 +1973,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "UK: Andy Burnham confirmed as Labour Party leader",
-      "description": "The ruling center-left Labour Party has selected Andy Burnham as its new leader, clearing the way for him to replace Keir Starmer as British prime minister.",
-      "url": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 12:04:00 GMT",
+      "title": "India news: CJP to call for Modi's resignation after Sonam Wangchuk 'forcefully' shifted to hospital",
+      "description": "Abhijeet Dipke said the Cockroach Janta Party (CJP) will now demand the resignation of Prime Minister Narendra Modi after Sonam Wangchuk was forcibly shifted to a hospital by police. DW has more.",
+      "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 18 Jul 2026 06:28:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Meet Andy Burnham, Britain's next prime minister",
-      "description": "Andy Burnham was confirmed as Keir Starmer's successor as British prime minister. The former Manchester mayor became a leading figure in the Labour Party and one of the UK's most popular politicians.",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 11:51:00 GMT",
+      "title": "UK: Andy Burnham confirmed as Labour Party leader",
+      "description": "The ruling center-left Labour Party has selected Andy Burnham as its new leader, clearing the way for him to replace Keir Starmer as British prime minister.",
+      "url": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 17 Jul 2026 12:04:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
