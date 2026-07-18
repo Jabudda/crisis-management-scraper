@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:19:03.403930Z",
+  "last_updated": "2026-07-18T22:47:44.699558Z",
   "event_count": 222,
   "events": [
     {
@@ -140,16 +140,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Canada wildfires: Smoke choking major US cities",
-      "description": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tariffs on the US neighbor. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
-      "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 18:38:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -467,6 +457,16 @@
       "description": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission to travel to the US, according to his official Facebook page. Otero Alcántara, designated a prisoner of conscience by Amnesty International, was sentenced to five years in prison in 2022 for insulting national symbols, contempt and disturbing the public order. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
       "published": "Fri, 17 Jul 2026 22:28:42 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: ski fields reach July temperature high; diesel prices surge",
+      "description": "Follow the latest updates live Get our breaking news email , free app or daily news podcast It was a remarkably warm day in the Australian alps yesterday, with several ski fields reaching temperatures that look set to be record-breaking (the records are yet to be confirmed by the Bureau of Meteorology’s climate team). Mount Hotham reached 11.1C. That’s 2.4C higher than the previous July record of 8.7C set in 1994. Big slow moving high pressure systems creating large areas of descending & warming air hitting a radiation inversion = warm air trapped above the ground. Plus climate change… Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
+      "published": "Sat, 18 Jul 2026 22:39:29 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
@@ -803,16 +803,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-      "description": "Towering plumes of smoke rose over Kuwait after Iranian strikes hit multiple locations in Mangaf.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
-      "published": "Sat, 18 Jul 2026 15:35:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "description": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had started on an outline of a skull. Heavy J was creating a poster, but not as you might have expected for a horror film. Instead, it was for the animated fairytale The Little Mermaid. The man with the knife wasn’t a killer but the film’s kind-hearted prince, Eric. The skull was also unrelated to the story. “We add more to make people interested,” said Heavy J, whose real name is Jeaurs Affutu. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
@@ -953,6 +943,16 @@
       "severity_level": "High"
     },
     {
+      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
+      "description": "While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
+      "published": "Sat, 18 Jul 2026 22:41:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
       "description": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
       "url": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
@@ -1033,7 +1033,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "France-England live: Les Bleus' humiliation deepens as Saka scores twice",
+      "title": "France-England live: Follow Les Bleus' dramatic revival after Mbappé's brace",
       "description": "France and England meet in the third-place playoff at the World Cup in Miami, with Didier Deschamps preparing for his final match as France manager after 14 years at the helm. Les Bleus and the Three Lions seek redemption following their semi-final heartbreak. Follow our liveblog for minute-to-minute commentary.",
       "url": "https://www.france24.com/en/sport/20260718-france-england-live-deschamps-final-bow-in-third-place-playoff",
       "published": "Sat, 18 Jul 2026 19:54:25 GMT",
@@ -1353,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "NSW woman arrested over movements of Dezi Freeman – as it happened",
-      "description": "This blog is now closed Get our breaking news email , free app or daily news podcast Pauline Hanson has been called “un-Australian” over her appearance on a podcast with far-right UK activist, Tommy Robinson. The Greens senator Sarah Hanson-Young told ABC RN Hanson must return to Australia and apologise. This is so appalling, and frankly, it’s unAustralian. To go overseas to hang out with a criminal thug … to be laughing on his show about multiculturalism back here in Australia – which are our communities, Australian citizens, and the people who make this country great, Pauline Hanson is the most unAustralian politician in the parliament, and she should come home, face the music, and apologise. I‘m not sure where Ms Hanson is getting her figures from, but they’ve never been provided to me as the minister for disability and the minister for the NDIS. I suspect they don’t exist. I’m loath to respond to a podcast between Ms Hanson and this convicted criminal, who frankly has been disowned by so many leading figures on the right. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
-      "published": "Fri, 17 Jul 2026 08:34:00 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Israel: How real is threat of gender segregation on street?",
       "description": "An Israeli city, with a large ultra-Orthodox Jewish population, wants to separate men and women on certain streets. Israeli politicians voted to allow university courses to do the same.",
       "url": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
@@ -1438,6 +1428,16 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "published": "Fri, 17 Jul 2026 12:17:14 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Cuban dissident artist arrives in US after 5 years in prison",
+      "description": "Luis Manuel Otero Alcantara, a prominent Cuban artist and dissident, was detained in July 2021 as he attempted to join unprecedented mass protests across the communist island.",
+      "url": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 18 Jul 2026 22:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
