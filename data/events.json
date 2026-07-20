@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T23:49:02.537916Z",
-  "event_count": 221,
+  "last_updated": "2026-07-20T00:40:50.617633Z",
+  "event_count": 216,
   "events": [
     {
       "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 46,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Middle East live: US launches strikes to 'punish' Iran after troops killed",
+      "description": "The United States began a new round of airstrikes early Monday targeting Iran after announcing the death of another American service member, and Iran fired missiles toward Jordan that risked widening the conflict into neighboring Israel. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+      "published": "Sun, 19 Jul 2026 22:47:08 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -70,16 +80,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "description": "The U.S. military is reporting the first U.S. troop deaths from direct Iranian fire since the war's early days",
-      "url": "https://abcnews.com/International/wireStory/iran-suspending-commitments-interim-deal-us-exchange-attacks-134869749",
-      "published": "Sat, 18 Jul 2026 17:30:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -143,6 +143,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Iran war live: US military carries out another wave of strikes on Iran",
+      "description": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
       "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
       "description": "Three U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
@@ -150,16 +160,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Venezuela earthquakes death toll surpasses 5,000",
-      "description": "The number of injured remains unchanged at 16,740, government says.",
-      "url": "https://abcnews.com/International/wireStory/venezuela-earthquakes-death-toll-surpasses-5000-134873069",
-      "published": "Sat, 18 Jul 2026 10:26:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
-      "description": "On Wednesday, the Security Council heard an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing was held as the ICC faces mounting pressure: this week, US Secretary of State Marco Rubio launched a campaign to “dismantle” the Court, which prosecutes individuals for genocide, war crimes, crimes against humanity and the crime of aggression. Follow full live coverage below.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167945",
-      "published": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
       "description": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kampala on Thursday triggered the start of a 42-day countdown required by the World Health Organization before Uganda can officially be declared Ebola-free, provided no new infections are detected. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
@@ -218,26 +208,6 @@
       "url": "https://www.france24.com/en/middle-east/20260719-us-announces-death-of-another-service-member-jordan-summons-iranian-envoy-over-attacks",
       "published": "Sun, 19 Jul 2026 20:25:41 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Trump blames Canada as US 'invaded by filthy air'",
-      "description": "US President Donald Trump has blamed Canada for wildfire smoke that could impact the World Cup final.",
-      "url": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
-      "published": "Fri, 17 Jul 2026 14:00:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8",
-      "description": "Rescue crews are racing against the clock to find survivors after a landslide in the southwestern Chinese city of Chongqing killed at least eight people and left 34 missing",
-      "url": "https://abcnews.com/International/wireStory/rescuers-race-find-survivors-rain-after-landslide-china-134869169",
-      "published": "Sat, 18 Jul 2026 06:41:36 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -273,21 +243,31 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Spain: Emergency crews battle wildfire north of Madrid",
-      "description": "More than 25 firefighting planes have been deployed to battle the blaze in central Spain, which has been raging for three days.",
-      "url": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 19 Jul 2026 15:27:00 GMT",
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "description": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+      "published": "Sun, 19 Jul 2026 23:49:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war: US conducts strikes for 9th night in a row",
+      "description": "The US has launched another wave of attacks against Iran, this time reportedly hitting targets in the northwestern city of Tabriz. DW has more.",
+      "url": "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 19 Jul 2026 23:54:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
     },
     {
-      "title": "Middle East live: US launches strikes to 'punish' Iran after troops killed",
-      "description": "The United States and Iran traded missiles and airstrikes on Sunday as Washington sought to \"punish\" Tehran for the US military's first losses since open hostilities in the Middle East war resumed. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
-      "published": "Sun, 19 Jul 2026 22:47:08 GMT",
-      "source": "France24",
+      "title": "Spain: Emergency crews battle wildfire north of Madrid",
+      "description": "More than 25 firefighting planes have been deployed to battle the blaze in central Spain, which has been raging for three days.",
+      "url": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 19 Jul 2026 15:27:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -314,7 +294,7 @@
     },
     {
       "title": "US strikes Iran after 2 service members killed in Jordan",
-      "description": "The US military struck Iran after two US soldiers were reported killed in an Iranian attack on a US base in Jordan. Meanwhile, Kuwait and Bahrain reported fresh Iranian attacks. DW has the latest.",
+      "description": "The US military struck Iran after two US soldiers were reported killed in an Iranian attack on a US base in Jordan. Meanwhile, Kuwait and Bahrain reported fresh Iranian attacks.",
       "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 18 Jul 2026 17:28:00 GMT",
       "source": "Deutsche Welle",
@@ -348,6 +328,16 @@
       "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
       "published": "Fri, 17 Jul 2026 08:35:56 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ukraine: UN condemns overnight attack on Kyiv",
+      "description": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+      "published": "Sun, 19 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -393,10 +383,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukrainian prosecutors release video of Monaco bombing that injured tycoon",
-      "description": "The suspect, Anastasiia Berezovska, was found dead in Ukraine a few days later.",
-      "url": "https://abcnews.com/International/wireStory/ukrainian-prosecutors-release-video-monaco-bombing-injured-tycoon-134876071",
-      "published": "Sat, 18 Jul 2026 12:22:24 -0400",
+      "title": "Centuries-old festival brings Shinto traditions and towering floats to the streets",
+      "description": "In Japan, the Gion Matsuri festival brings towering floats to the streets in Shinto religious processions that are rooted in rituals dating back more than 1,000 years and that were intended to ward off epidemics",
+      "url": "https://abcnews.com/International/wireStory/centuries-festival-japan-brings-shinto-traditions-towering-floats-134887455",
+      "published": "Sun, 19 Jul 2026 03:36:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -413,11 +403,31 @@
       "severity_level": "High"
     },
     {
+      "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
+      "description": "ISIS fighters in Syria may have grown from 2,000 to 10,000 as the U.S. prepares to complete its Iraq withdrawal by Sept. 30, an expert warns.",
+      "url": "https://www.foxnews.com/world/isis-poised-exploit-historic-us-iraq-exit-terror-group-actively-waiting-gaps-expert-warns",
+      "published": "Sun, 19 Jul 2026 20:04:59 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
       "description": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagers Get our breaking news email , free app or daily news podcast The Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning. It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals, including the Australian backpackers Bianca Jones and Holly Morton-Bowles. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
       "published": "Fri, 17 Jul 2026 21:36:05 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump says World Cup made US a 'soccer country' as he presents trophy to Spain",
+      "description": "President Donald Trump presented Spain with the World Cup 2026 trophy after its victory over Argentina on Sunday, declaring the tournament showed the United States had become \"a soccer country.\" The final capped more than a year of logistical planning by US, Canadian and Mexican hosts amid controversy over US immigration restrictions on some fans.",
+      "url": "https://www.france24.com/en/sport/20260720-trump-world-cup-spain-us-soccer",
+      "published": "Mon, 20 Jul 2026 00:26:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -477,16 +487,6 @@
       "description": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
       "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
       "published": "Sun, 19 Jul 2026 20:11:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "At least 50 Malian soldiers killed in attack on military convoy",
-      "description": "At least 50 Malian soldiers were killed after a joint Malian army and Russia's Africa Corps convoy was ambushed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
-      "published": "Sun, 19 Jul 2026 18:27:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -563,7 +563,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Spain-Argentina live: La Roja claim second World Cup title in extra time",
+      "title": "Spain-Argentina: La Roja claim second World Cup title in extra time",
       "description": "Spain defeated Argentina 1-0 in extra time at MetLife Stadium in New Jersey to win the World Cup, completing a historic Euro-World Cup double. Ferran Torres' late strike sealed victory for a dominant Spanish side against a 10-man Argentina, ending Lionel Messi's World Cup career on a bittersweet note. Relive our liveblog for minute-by-minute commentary.",
       "url": "https://www.france24.com/en/sport/20260719-spain-argentina-live-defending-champions-face-european-powerhouse-for-the-crown",
       "published": "Sun, 19 Jul 2026 17:47:38 GMT",
@@ -583,21 +583,21 @@
       "severity_level": "High"
     },
     {
+      "title": "7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported",
+      "description": "A strong earthquake has struck the southern Mexican Pacific coast, right on the border with Guatemala",
+      "url": "https://abcnews.com/International/wireStory/73-earthquake-hits-mexico-guatemala-border-immediate-damage-134853792",
+      "published": "Fri, 17 Jul 2026 14:10:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "description": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had started on an outline of a skull. Heavy J was creating a poster, but not as you might have expected for a horror film. Instead, it was for the animated fairytale The Little Mermaid. The man with the knife was not a killer but the film’s kind-hearted prince, Eric. The skull was also unrelated to the story. “We add more to make people interested,” said Heavy J, whose real name is Jeaurs Affutu. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
       "published": "Sat, 18 Jul 2026 04:00:47 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ukraine drones target Russian warehouses and oil sites",
-      "description": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing nine people and injuring over 80 more. Kyiv said its strikes targeted suppliers for Moscow's ongoing invasion of Ukraine.",
-      "url": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 18 Jul 2026 16:37:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -700,6 +700,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Opponents say Japan's law to punish national flag vandals is a threat to free speech",
+      "description": "Japan on Friday enacted a controversial new law prohibiting desecration of the national flag, a key right-wing agenda pushed by Prime Minister Sanae Takaichi",
+      "url": "https://abcnews.com/International/wireStory/japan-enacts-law-punish-national-flag-vandals-opponents-134840135",
+      "published": "Fri, 17 Jul 2026 04:18:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -846,7 +856,7 @@
       "title": "Spain win World Cup for second time after beating Argentina 1-0",
       "description": "After a 16 year wait, Spain have claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain are now men’s and women’s world champions.",
       "url": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 19 Jul 2026 22:02:00 GMT",
+      "published": "Sun, 19 Jul 2026 23:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
@@ -933,50 +943,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
-      "description": "British runner Josh Kerr has broken the 27-year-old world record for the mile in front of a sell-out crowd in London.",
-      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
-      "published": "Sat, 18 Jul 2026 15:41:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Hunger striker taken to hospital as police launch 'chilling crackdown'",
-      "description": "Police have forcibly removed hunger striker Sonam Wangchuk from a student protest site in India.",
-      "url": "https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607",
-      "published": "Sat, 18 Jul 2026 10:24:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "FIFA to hand World Cup winners US-style championship rings",
-      "description": "The winners of Sunday's World Cup final between Argentina and Spain will receive a championship ring for the first time, FIFA said.",
-      "url": "https://news.sky.com/story/fifa-to-hand-winners-of-argentina-v-spain-world-cup-final-us-style-championship-rings-13564329",
-      "published": "Fri, 17 Jul 2026 11:42:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Women amputees in South America train to be World Cup soccer contenders",
       "description": "Women amputees from several South American countries are training in Bolivia for the 2027 Women's Amputee Football World Cup",
       "url": "https://abcnews.com/International/wireStory/women-amputees-south-america-train-world-cup-soccer-134866145",
       "published": "Fri, 17 Jul 2026 20:59:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mount Olympus, home of ancient Greek gods, is a candidate for the World Heritage List",
-      "description": "Mount Olympus, the mythological home of ancient Greece’s 12 Olympian gods, may soon join UNESCO’s World Heritage List",
-      "url": "https://abcnews.com/International/wireStory/mount-olympus-home-ancient-greek-gods-candidate-unesco-134869541",
-      "published": "Sat, 18 Jul 2026 05:22:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1017,16 +987,6 @@
       "description": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
       "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 20:00:54 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "description": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 23:59:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1107,6 +1067,36 @@
       "description": "France has commemorated the Vel d’Hiv roundup, a mass arrest of Jews by French police in 1942",
       "url": "https://abcnews.com/International/wireStory/france-commemorates-vel-dhiv-roundup-after-paris-plaque-134888156",
       "published": "Sun, 19 Jul 2026 06:45:09 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russian missile attack on Kyiv exposes holes in air defenses",
+      "description": "Russia has attacked Kyiv overnight with ballistic missiles and other weapons.",
+      "url": "https://abcnews.com/International/wireStory/1-killed-8-injured-overnight-russian-attack-kyiv-134886832",
+      "published": "Sun, 19 Jul 2026 08:55:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
+      "description": "Health workers in northern Nigeria say more children are relapsing into malnutrition and cite knock-on effects from the war in the Middle East",
+      "url": "https://abcnews.com/International/wireStory/nigerian-children-pay-price-iran-war-malnutrition-poverty-134887200",
+      "published": "Sun, 19 Jul 2026 10:57:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Parents of teens killed by tainted liquor in Laos are angry at expected charges",
+      "description": "Australia’s government and the families of two teenagers who died from methanol poisoning in Laos are criticizing the charges expected against those accused of being responsible",
+      "url": "https://abcnews.com/International/wireStory/parents-australian-teens-killed-tainted-liquor-laos-angry-134840381",
+      "published": "Fri, 17 Jul 2026 06:58:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1213,10 +1203,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "News live: Lee Hanson says her mother’s comments about the White Australia policy were ‘misinterpreted’",
-      "description": "One Nation leader’s comments were made on podcast interview hosted by far-right British activist Tommy Robinson. Follow today’s news live The use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy. As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers have begun work to draw up new rules to ensure safety is built into AI processes inside government, prioritising fairness, accuracy and transparency. I know who Pauline is, Mum is, and I know that’s not what her intention was in any way. I do think snippets of it was misinterpreted. Under no way, shape, or form did she say she wished the White Australia policy hadn’t have been changed. She does not support it and she does not want it back. So I do believe it’s been taken out of context. We know that media grabbed their snippets and their grabs, and it’s all about clickbait, and then Labor’s obviously jumped on it, and so are the Liberals, right? That’s how they try to better themselves, by picking out a little slogan when she was talking about the history of immigration and the change that has occurred. Continue reading...",
+      "title": "News live: Joyce denies One Nation wants White Australia policy; Lee Hanson says mother’s comments were ‘misinterpreted’",
+      "description": "One Nation MP suggests his party would deport people seeking medical care after overstaying their visas. Follow today’s news live The use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy. As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers have begun work to draw up new rules to ensure safety is built into AI processes inside government, prioritising fairness, accuracy and transparency. I know who Pauline is, Mum is, and I know that’s not what her intention was in any way. I do think snippets of it was misinterpreted. Under no way, shape, or form did she say she wished the White Australia policy hadn’t have been changed. She does not support it and she does not want it back. So I do believe it’s been taken out of context. We know that media grabbed their snippets and their grabs, and it’s all about clickbait, and then Labor’s obviously jumped on it, and so are the Liberals, right? That’s how they try to better themselves, by picking out a little slogan when she was talking about the history of immigration and the change that has occurred. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-      "published": "Sun, 19 Jul 2026 23:39:12 GMT",
+      "published": "Mon, 20 Jul 2026 00:13:18 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1238,6 +1228,16 @@
       "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
       "published": "Sun, 19 Jul 2026 03:27:59 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Chinese company demands compensation from the UK over British Steel nationalization",
+      "description": "Jingye Group, the former owner of British Steel, has demanded compensation from the U.K. government for investment losses after the company's nationalization last week",
+      "url": "https://abcnews.com/International/wireStory/chinese-company-demands-compensation-uk-british-steel-nationalization-134887645",
+      "published": "Sun, 19 Jul 2026 04:22:45 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1293,6 +1293,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "description": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 00:19:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "description": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters. The aid workers are the first known people to quarantine at the facility, which has sparked huge opposition in Kenya and is at the heart of a legal case in which a court has ordered the work to be ⁠suspended. Construction continued, however, according to US officials and satellite imagery reviewed by Reuters. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
@@ -1328,26 +1338,6 @@
       "url": "https://www.france24.com/en/sport/20260719-denmark-s-jonas-vingegaard-withdraws-from-tour-de-france-after-fall",
       "published": "Sun, 19 Jul 2026 15:04:08 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran executes a man convicted of killing a security force member during 2022 protests",
-      "description": "Iranian authorities have executed a man convicted of killing a security force member during 2022 protests",
-      "url": "https://abcnews.com/International/wireStory/iran-executes-man-convicted-killing-security-force-member-134872472",
-      "published": "Sat, 18 Jul 2026 10:09:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike",
-      "description": "Authorities have forcibly transferred activist Sonam Wangchuk to a hospital in New Delhi after his health deteriorated during a 20-day hunger strike",
-      "url": "https://abcnews.com/International/wireStory/indian-police-forcibly-hospitalize-prominent-cockroach-party-activist-134869540",
-      "published": "Sat, 18 Jul 2026 06:41:34 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1408,16 +1398,6 @@
       "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 19 Jul 2026 15:51:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mali rebels ambush army convoy, killing or capturing scores of soldiers",
-      "description": "Both the regional al-Qaida affiliate and separatist FLA claimed responsibility.",
-      "url": "https://abcnews.com/International/wireStory/mali-rebels-ambush-army-convoy-killing-capturing-scores-134873385",
-      "published": "Sat, 18 Jul 2026 16:42:01 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1518,16 +1498,6 @@
       "url": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 18 Jul 2026 18:45:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Eight-month expedition to study the impact of climate change",
-      "description": "As Christopher Nolan's The Odyssey, an adaptation of Homer's epic poem, arrives in cinemas, a very different odyssey is about to begin. Next month, a team of scientists will travel to the remote Arctic town of Kirkenes in Norway to board the floating laboratory Tara Polar Station for an eight-month expedition. The mission will study the impact of climate change and pollution on the Arctic Ocean. For more, we're joined by Marcel Babin, Scientific Director of the Tara Polaris I expedition.",
-      "url": "https://www.france24.com/en/video/20260719-eight-month-expedition-to-study-the-impact-of-climate-change",
-      "published": "Sun, 19 Jul 2026 12:56:18 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1683,16 +1653,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-      "description": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
-      "url": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
-      "published": "Sun, 19 Jul 2026 18:24:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1803,7 +1763,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australian and NZ safety assurances about asbestos in play sand were based on supplier’s own assessment",
+      "title": "Parents were told asbestos in play sand was low risk unless ‘pulverised’. But regulators hadn’t tested it themselves",
       "description": "Exclusive: ACCC updates some recall notices to say products ‘may cause risk to health’, contrary to previous claims Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Schools, retailers and government agencies assured parents that asbestos-contaminated play sand posed a low risk to their children’s health based on a supplier’s own assessment which was not independently verified, the Guardian can reveal. The now-contested public messaging spread quickly after a range of Educational Colours children’s sand products were pulled from shelves in November 2025 after samples were found to contain asbestos , which was followed by more than 20 similar recalls across different brands and retailers. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
       "published": "Sun, 19 Jul 2026 15:00:30 GMT",
@@ -1973,26 +1933,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "'Shameless' fraudster who stole £300k from vulnerable pensioner led away by police",
-      "description": "This is the moment a \"shameless\" fraudster who stole £300,000 from a vulnerable pensioner is led away by police, after Sky News tracked her down to Tenerife.",
-      "url": "https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444",
-      "published": "Fri, 17 Jul 2026 15:36:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why Britain is getting a new prime minister without a general election",
-      "description": "Veteran Labour Party politician Andy Burnham is set to become Britain’s next prime minister on Monday",
-      "url": "https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513",
-      "published": "Sat, 18 Jul 2026 00:26:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "What to know about the challenges Andy Burnham will face as UK prime minister",
       "description": "The U.K.'s Andy Burnham enters 10 Downing Street on Monday with enthusiasm behind him, but major challenges ahead",
       "url": "https://abcnews.com/International/wireStory/challenges-andy-burnham-face-uk-prime-minister-134887196",
@@ -2003,20 +1943,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's top court denies request for Argentina's Milei to visit Bolsonaro under house arrest",
-      "description": "A Brazilian Supreme Court justice has rejected a request from lawyers for former President Jair Bolsonaro for him to be visited under house arrest by Argentine President Javier Milei",
-      "url": "https://abcnews.com/International/wireStory/brazils-top-court-denies-request-argentinas-milei-visit-134874602",
-      "published": "Sat, 18 Jul 2026 11:06:11 -0400",
+      "title": "A Brazilian bay’s surprise shark nursery sparks conservation project",
+      "description": "Scientists have discovered that a cove in Brazil's Ilha Grande bay is a nursery for pregnant blacktip sharks",
+      "url": "https://abcnews.com/International/wireStory/brazilian-bays-surprise-shark-nursery-sparks-conservation-project-134846149",
+      "published": "Fri, 17 Jul 2026 09:18:51 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Hungary’s president signs a constitutional amendment ending his term",
-      "description": "Hungary's president has signed a constitutional amendment ending his term, resolving a dispute with the new government",
-      "url": "https://abcnews.com/International/wireStory/hungarys-president-signs-constitutional-amendment-ending-term-134880699",
-      "published": "Sat, 18 Jul 2026 17:05:58 -0400",
+      "title": "Japan's parliament enshrines male-only succession for the shrinking imperial family",
+      "description": "Japan’s parliament has enacted a historic revision to the 19th-century Imperial House Law by insisting only paternal-lineage men can become emperor",
+      "url": "https://abcnews.com/International/wireStory/japans-parliament-enshrines-male-succession-shrinking-imperial-family-134835377",
+      "published": "Fri, 17 Jul 2026 01:29:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Andy Burnham is poised to become Britain's next prime minister",
+      "description": "Andy Burnham is about to become Britain’s 59th prime minister, following the sudden downfall of Labour Prime Minister Keir Starmer",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-mayor-englands-north-poised-become-britains-134838932",
+      "published": "Fri, 17 Jul 2026 07:29:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
+      "description": "Andy Burnham has been officially declared leader of Britain’s governing Labour Party, clearing his final hurdle to taking office as prime minister next week",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-declared-leader-britains-labour-party-become-134840790",
+      "published": "Fri, 17 Jul 2026 09:22:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2048,6 +2008,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167956",
       "published": "Thu, 16 Jul 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bulldog's drowning sparks police probe at dog resort marketed as the 'Disneyland for dogs'",
+      "description": "Bruce, a 1-year-old English bulldog, allegedly drowned at Camp Canine in Santa Barbara after ending up in a large-dog yard with unfenced pools.",
+      "url": "https://www.foxnews.com/us/bulldogs-drowning-sparks-police-probe-dog-resort-marketed-disneyland-dogs",
+      "published": "Sun, 19 Jul 2026 20:16:33 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2133,16 +2103,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Alabama mom charged with murder after toddler bound, left to suffocate for 12 hours: cops",
-      "description": "Sierra Hadaway faces murder charges after 2-year-old Madilynn was found bound and face-down on a bed for over 12 hours in Lanett, Alabama.",
-      "url": "https://www.foxnews.com/us/alabama-mom-charged-murder-toddler-bound-left-suffocate-12-hours-cops",
-      "published": "Fri, 17 Jul 2026 15:57:18 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump administration touts more than $1B in UN budget cuts as reform push gains momentum",
       "description": "The Trump administration says it secured over $1 billion in U.N. budget cuts in six months, including a $550 million peacekeeping budget reduction.",
       "url": "https://www.foxnews.com/world/trump-administration-touts-1-billion-un-budget-cuts-reform-push-gains-momentum",
@@ -2197,16 +2157,6 @@
       "description": "Ambassador Mike Waltz says the Trump administration is replacing traditional foreign aid with private investment and trade to create jobs, cut dependency.",
       "url": "https://www.foxnews.com/world/trump-officials-unveil-private-sector-blueprint-life-after-usaid",
       "published": "Wed, 15 Jul 2026 08:50:54 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
-      "description": "James Cox Chambers Jr., estranged heir to the $27 billion Cox empire, was detained in Spain for alleged money laundering and Hamas support.",
-      "url": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
-      "published": "Tue, 14 Jul 2026 17:49:03 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
