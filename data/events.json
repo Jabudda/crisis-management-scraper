@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T20:53:38.265747Z",
+  "last_updated": "2026-07-20T21:27:36.089757Z",
   "event_count": 219,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 43,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 25 killed as floods and landslides hit northern India",
-      "description": "Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:17:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -140,6 +130,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 21:09:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -273,16 +273,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least six dead after earthquake hits Peru's Andes",
-      "description": "In the Andes, a 5.5 magnitude earthquake has hit Peru. At least six people died in the quake and more than 30 have been injured, according to local authorities. Damage was compounded by the area's rustic constructions - adding to that that the earthquake's epicenter was close to the surface.",
-      "url": "https://www.france24.com/en/at-least-six-dead-after-earthquake-hits-peru-s-andes",
-      "published": "Mon, 20 Jul 2026 11:54:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Netanyahu fires back at NYC Mayor Mamdani's vow to enforce 'bogus arrest warrant'",
       "description": "Benjamin Netanyahu's office accuses Zohran Mamdani of attacking the Jewish state to distract from the damage his policies have caused New York.",
       "url": "https://www.foxnews.com/world/netanyahu-fires-back-nyc-mayor-mamdani-vow-enforce-bogus-arrest-warrant",
@@ -290,6 +280,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
+      "description": "Rescue teams are racing to reach Nuristan province as devastation continues across the region.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 20:29:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -363,11 +363,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Trump warns Iran will pay 'many times over' for deaths of US soldiers",
-      "description": "The US president spoke just hours after the two warring sides exchanged strikes for the ninth consecutive day.",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:14:57 GMT",
-      "source": "BBC News",
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "description": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 20:50:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: US launches fresh strikes as Trump vows revenge",
+      "description": "The US has launched strikes on Iran for a 10th consecutive night as both sides vie for control of the Strait of Hormuz. US President Trump has promised revenge over the deaths of fallen American troops. DW has more.",
+      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 20 Jul 2026 20:46:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -390,6 +400,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
+      "description": "As the U.S-Iran war ramps up again, hundreds of diplomats are in limbo. The State Department drew down staffing due to Iran's attacks on Gulf states. It's unclear if they'll return to normal business.",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
+      "published": "Mon, 20 Jul 2026 16:55:53 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Senegalese president assumes ECOWAS leadership",
+      "description": "In tonight's edition, the Senegalese President Bassirou Diomaye Faye takes the helm of ECOWAS. Also, in Nigeria nearly 19 million Nigerian children are out of school, with the threat of kidnapping keeping many classrooms empty. And Tangier is celebrating the art of visual storytelling with the International Photography Festival.",
+      "url": "https://www.france24.com/en/senegalese-president-assumes-ecowas-leadership",
+      "published": "Mon, 20 Jul 2026 20:17:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -478,16 +508,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 20 Jul 2026 14:02:31 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "description": "An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:12:07 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -583,31 +603,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Israeli air strike injures 14 in Gaza City",
-      "description": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:45:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-      "description": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-      "published": "Sun, 19 Jul 2026 05:14:38 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
       "description": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
       "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 20 Jul 2026 16:26:40 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "description": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 21:06:42 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -658,16 +668,6 @@
       "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
       "published": "Mon, 20 Jul 2026 06:36:08 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran war: US launches fresh strikes as Trump vows revenge",
-      "description": "The US has launched strikes on Iran for a 10th consecutive night as both sides vie for control of the Strait of Hormuz. DW has more.",
-      "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-as-trump-vows-revenge/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 20 Jul 2026 20:46:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -783,6 +783,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "King of Spain celebrates World Cup winners in Madrid",
+      "description": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 21:01:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "A tournament of contradictions: What did we learn at World Cup 2026?",
       "description": "A look back at the World Cup's moments of glory and controversy, and their impact on fans, teams and the sport.",
       "url": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026?traffic_source=rss",
@@ -797,16 +807,6 @@
       "description": "Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The 'dark arts'?",
       "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss",
       "published": "Mon, 20 Jul 2026 17:31:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Spain team arrives home after winning the World Cup",
-      "description": "World champions Spain have landed home carrying the World Cup trophy a day after defeating Argentina in the final.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:47:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -863,11 +863,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain wins second World Cup after beating Argentina in final",
-      "description": "After a 16-year wait, Spain has claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain is now men's and women's world champions.",
-      "url": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 19 Jul 2026 23:49:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "World Cup 2026: Pedro Sanchez and King Felipe VI welcome La Roja",
+      "description": "Spain's newly crowned World Cup champions were welcomed by King Felipe VI and Prime Minister Pedro Sanchez.",
+      "url": "https://www.france24.com/en/video/20260720-world-cup-2026-pedro-sanchez-and-king-felipe-vi-welcome-la-roja",
+      "published": "Mon, 20 Jul 2026 20:18:06 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -993,16 +993,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Philippine sailor injured during clash with Chinese coast guard",
-      "description": "A member of China’s coast guard is accused of injuring a Philippine sailor after striking him with a wooden baton.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:31:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1028,6 +1018,16 @@
       "url": "https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next",
       "published": "Mon, 20 Jul 2026 15:56:49 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump White House announces fresh tariffs on Canada in ramping of trade war",
+      "description": "The move is the latest trade escalation between the US and its northern neighbor under the Trump administration.",
+      "url": "https://www.dw.com/en/trump-white-house-announces-fresh-tariffs-on-canada-in-ramping-of-trade-war/a-78042667?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 20 Jul 2026 21:21:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1163,6 +1163,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Man arrested after fire outside New York immigration court",
+      "description": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 20:45:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1186,16 +1196,6 @@
       "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
       "description": "AMWU calls for wealth and inheritance taxes, free education and more revenue from gas companies as it outlines ‘working-class agenda’ Get our breaking news email , free app or daily news podcast A new tax rate for the highest income earners, introducing wealth and inheritance taxes and extracting more revenue from gas companies form part of a new leftwing manifesto circulating ahead of the Labor party’s national conference . The extra tax revenue could help raise the jobseeker rate, make education – including university – free, and nationalise aged care under what the Australian Manufacturing Workers’ Union (AMWU) calls a blueprint for a “working-class agenda”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
-      "published": "Mon, 20 Jul 2026 15:00:44 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight ‘uncontrolled immigration’",
-      "description": "One Nation leader posts network’s proposal to travel to UK to explore what Australia faces ‘if we don’t take back control of who comes to our country’ Get our breaking news email , free app or daily news podcast A Seven producer urged Pauline Hanson to travel to Britain to meet Nigel Farage and film a Spotlight special highlighting so-called “uncontrolled immigration”, according to a pitch posted to social media by the One Nation leader. The pitch also suggested that Seven might cover some of the travel costs for the One Nation leader and her team and that the program wanted the Reform UK leader to “invite Ms Hanson to Britain”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
       "published": "Mon, 20 Jul 2026 15:00:44 GMT",
       "source": "The Guardian World",
       "type": "rss",
@@ -1353,6 +1353,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ortega insists no more elections for Nicaragua",
+      "description": "The Central American state's longtime leader intends to block the opposition from challenging his rule.",
+      "url": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 20:49:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1433,16 +1443,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-      "description": "Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 16:13:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1506,7 +1506,7 @@
       "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
       "description": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
       "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:52:49 GMT",
+      "published": "Mon, 20 Jul 2026 21:03:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1553,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "description": "Gaza residents weigh in on election of new Hamas leader",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "published": "Mon, 20 Jul 2026 20:53:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
       "description": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
       "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
@@ -1567,16 +1577,6 @@
       "description": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
       "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
       "published": "Mon, 20 Jul 2026 17:40:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
-      "description": "US judge hands life sentence to Ismael Zambada for leading one of Mexico's most violent drug cartels for decades.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 17:05:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1697,6 +1697,16 @@
       "description": "Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has found Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Most refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despite the Australian government spending the equivalent of more than $9m per person last financial year. The group of more than 100 people have been sent indefinitely to the tiny Pacific island while they wait for their asylum claims to be processed. Many of the cohort say they are skipping meals to make ends meet, according to a new survey by the Asylum Seeker Resource Centre (ASRC) advocacy group. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
       "published": "Mon, 20 Jul 2026 04:43:37 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia news live: Barnaby Joyce dogged by Tommy Robinson questions – and also by a dog – in spiky ABC interview",
+      "description": "One Nation MP grilled in 7.30 interview about Pauline Hanson’s podcast interview by far-right activist. Follow today’s news live Get our breaking news email , free app or daily news podcast Good morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Steph Convery with the main action. We start with Barnaby Joyce’s rather unusual interview with the ABC’s 7.30 last night, in which he attempted to defend some of the more controversial aspects of his leader’s trip to Europe, in particular Pauline Hanson’s podcast with Tommy Robinson , while simultaneously trying to fend off an apparently misbehaving dog. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "published": "Mon, 20 Jul 2026 21:09:10 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1927,16 +1937,6 @@
       "description": "Keir Starmer leaves Downing Street Monday, July 20th, passing the keys to former Mayor of Greater Manchester, Andy Burnham. He came to victory with a huge majority in 2024, but just two years later his popularity ratings had sunk to record lows.",
       "url": "https://www.france24.com/en/video/20260720-what-is-outgoing-prime-minister-keir-starmer-s-legacy",
       "published": "Mon, 20 Jul 2026 13:08:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Replay: Andy Burnham gives first speech as UK Prime Minister",
-      "description": "Rewatch Andy Burnham's first speech since becoming the new UK Prime Minister.",
-      "url": "https://www.france24.com/en/video/20260720-replay-andy-burnham-gives-first-speech-as-uk-prime-minister-1",
-      "published": "Mon, 20 Jul 2026 12:01:47 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
