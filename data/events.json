@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-23T10:18:07.788519Z",
+  "last_updated": "2026-07-23T11:16:09.064281Z",
   "event_count": 222,
   "events": [
+    {
+      "title": "Could Iran become America's next 'forever war'?",
+      "description": "The ceasefire has collapsed, attacks are escalating and shipping in the Strait of Hormuz remains under threat. Is the US drifting into another open-ended conflict with no clear way out?",
+      "url": "https://www.dw.com/en/could-iran-become-america-s-next-forever-war/a-78081276?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 23 Jul 2026 10:16:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical"
+    },
     {
       "title": "Climate change has intensified Europe's risk of drought, scientists say",
       "description": "Human-caused climate change has intensified Europe's drought by making extreme heat, rather than low rainfall, the main driver of exceptionally dry conditions, an international team of scientists said on Thursday, warning that a warmer atmosphere is sharply increasing drought and wildfire risks.",
@@ -30,16 +40,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 37,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Five soldiers killed in southern Thailand checkpoint attack",
-      "description": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
-      "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 03:53:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -73,16 +73,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Trump threatens Iranian infrastructure over Strait of Hormuz attacks",
-      "description": "US President Donald Trump warned on Wednesday that the US would destroy an Iranian bridge or power plant every time Tehran attacked shipping in the Strait of Hormuz. The threat came as Washington and Iran exchanged fresh strikes, regional missile alerts sounded and diplomatic efforts remained stalled.",
-      "url": "https://www.france24.com/en/middle-east/20260722-trump-threatens-iranian-infrastructure-over-strait-of-hormuz-attacks",
-      "published": "Wed, 22 Jul 2026 21:23:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
       "description": "Flash floods have killed at least 26 people across eastern Afghanistan, including 23 in the mountainous province of Nuristan, where homes, markets and roads were swept away and search teams continued looking for people reported missing.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167996",
@@ -90,6 +80,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Spain battles spreading wildfires fuelled by climate-change driven heat",
+      "description": "Wildfires in Spain have forced authorities to evacuate several districts around the city of Toledo, 75 miles from the Spanish capital Madrid. It's one of many wildfires ravaging across western Europe as parts of southern France and Italy are also ablaze. In 2025, more than 393,000 hectares had been consumed by flames in Spain, according to the European Forest Fire Information System. It is the worst toll in the country's recent history, fuelled by extreme temperatures cause by climate change.",
+      "url": "https://www.france24.com/en/spain-battles-spreading-wildfires-fuelled-by-climate-change-driven-heat",
+      "published": "Thu, 23 Jul 2026 10:59:33 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -123,21 +123,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Ebola outbreak kills over 1,000 people in DR Congo",
-      "description": "In tonight's edition, the Ebola outbreak in the DRC has crossed a devastating threshold, with more than 1,000 lives lost. Also, in Kenya, human rights groups warn that political “goons” are increasingly being used to disrupt rallies ahead of elections next year. And, in Senegal, four years after devastating floods threatened the famous Pink Lake’s unique ecosystem, the lake is slowly regaining its iconic colour.",
-      "url": "https://www.france24.com/en/congo-s-ebola-outbreak-has-killed-over-1-000-people",
-      "published": "Wed, 22 Jul 2026 20:41:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Husic says Labor ‘allergic to dissent’ as he breaks ranks on key government positions at party conference",
       "description": "Criticism comes as prime minister frames unity as point of difference to political opponents, saying ALP chooses ‘progress over protest’ Get our breaking news email , free app or daily news podcast Outspoken Labor MP Ed Husic claims the party has become “allergic” to dissent and dispute, warning the unity on show at its tightly controlled national conference could backfire. The former industry minister broke ranks with the government on the first day of Labor’s 50th party conference to support a gas export tax, endorse Indigenous truth-telling and press for more criticism of Israel’s conduct in Gaza. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/23/ed-husic-dissent-labor-party-national-conference-anthony-albanese-ntwnfb",
       "published": "Thu, 23 Jul 2026 08:08:23 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Thailand: 5 soldiers killed in attack on security checkpoint",
+      "description": "The attackers stole three AK-47 rifles, three bullet proof vests and three mobile phones from the soldiers. A low-level conflict has been simmering in Thailand's southern provinces for two decades.",
+      "url": "https://www.dw.com/en/thailand-5-soldiers-killed-in-attack-on-security-checkpoint/a-78082955?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 23 Jul 2026 10:32:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -333,6 +333,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Crucial salt trade revives as Pink Lake slowly recovers from floods",
+      "description": "Salt harvesters in Senegal are once again seeing the world through rose tinted glasses. The famous Pink Lake is slowly finding its rosy colours four years after flooding almost destroyed its delicate ecosystem and the economy built around it.",
+      "url": "https://www.france24.com/en/crucial-salt-trade-revives-as-pink-lake-slowly-recovers-from-floods",
+      "published": "Thu, 23 Jul 2026 10:08:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Global hunger declines again but progress remains uneven across regions",
       "description": "Global hunger declined for a third consecutive year in 2025 showing that progress is possible, but gains remain fragile and far too slow to achieve the Sustainable Development Goals (SDGs) by the 2030 deadline.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167987",
@@ -403,6 +413,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Norway to make formal complaint to FIFA over Balogun red card saga",
+      "description": "FIFA overturned the suspension for a red card for the USA forward at the World Cup after a request from President Trump.",
+      "url": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 10:51:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
+      "description": "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal.",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
+      "published": "Thu, 23 Jul 2026 06:45:56 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
       "description": "NPR has confirmed a deal that would allow the U.S. to transfer nuclear technology to Saudi Arabia and allow the country to begin enriching uranium for civilian use.",
       "url": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
@@ -417,16 +447,6 @@
       "description": "Ukraine's soldiers and civilians welcomed the appointment of Mykhailo Drapaty as the new army chief on Wednesday, but many said they still wanted former defence minister Mykhailo Fedorov restored after his surprise removal sparked the largest war-related protests since Russia's 2022 invasion.",
       "url": "https://www.france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister",
       "published": "Wed, 22 Jul 2026 22:27:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "US announces nuclear cooperation pact with Saudi Arabia",
-      "description": "The United States on Wednesday announced that it had reached a civilian nuclear cooperation deal with Saudi Arabia, with Energy Secretary Chris Wright signing the pact and a separate bilateral safeguards deal alongside Saudi Energy Minister Prince Abdulaziz bin Salman. FRANCE 24's Fraser Jackson reports from Washington.",
-      "url": "https://www.france24.com/en/us-announces-nuclear-cooperation-pact-with-saudi-arabia",
-      "published": "Wed, 22 Jul 2026 21:18:53 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 16,
@@ -456,7 +476,7 @@
       "title": "Thousands evacuated in France fires",
       "description": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 08:56:36 GMT",
+      "published": "Thu, 23 Jul 2026 10:53:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -633,11 +653,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
-      "description": "Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests",
-      "published": "Wed, 22 Jul 2026 04:46:42 -0400",
-      "source": "NPR World News",
+      "title": "Is DZ Mafia a French drug cartel, an illicit 'brand', or a drug trafficking 'franchise'?",
+      "description": "Stuart Norval is pleased to welcome Yann Bisiou, Senior Lecturer in Private Law and Criminal Law at Paul-Valéry University. The threats against the mayor of Arles illustrate how criminal networks are becoming increasingly brazen, challenging authority head-on. Rather than focusing solely on the violence, public drug policy specialist Bissiot argues that the incident exposes an institutional failure. He asserts that DZ Mafia is not a policing problem but rather the predictable consequence of a prohibition model failing to reduce a lucrative illicit drug trade.",
+      "url": "https://www.france24.com/en/video/20260723-is-dz-mafia-more-of-a-brand-or-drug-trafficking-franchise-rather-than-a-french-drug-cartel",
+      "published": "Thu, 23 Jul 2026 10:37:58 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -647,16 +667,6 @@
       "description": "A new era will begin on Tuesday for 'Les Bleus'. Zinedine Zidane is expected to be officially appointed as the head coach of the French national team on Tuesday. The 54-year-old coach will sign a four-year contract, until the 2030 World Cup. He will bring an end to the Didier Deschamps era, who has been in charge of Les Bleus since 2012.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260723-zinedine-zidane-to-be-officially-appointed-as-france-manager-on-tuesday",
       "published": "Thu, 23 Jul 2026 05:14:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "'Mykhailo Fedorov was fired for his successes in fighting corruption in the defense sector'",
-      "description": "François Picard is pleased to welcome Daria Kaleniuk, Executive Director of the Anti-corruption Action Centre. Ukraine's wartime challenge is no longer only military, but institutional. Ms. Kaleniuk contends that battlefield success and democratic resilience are inseparable from deep reform of the defence establishment. While welcoming President Zelensky's replacement of the commander-in-chief with a younger, reform-oriented military leader, she argues that this represents only \"half\" of the necessary changes. The more consequential battle, in her view, concerns governance.",
-      "url": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
-      "published": "Wed, 22 Jul 2026 19:45:02 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 14,
@@ -708,6 +718,26 @@
       "url": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather",
       "published": "Wed, 22 Jul 2026 03:48:04 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "description": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security.",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+      "published": "Thu, 23 Jul 2026 06:55:44 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Open AI models go rogue, ecape and and hack online AI sharing hub",
+      "description": "In the world of artificial intelligence, frontier models are displaying ever-more sophisticated autonomous behaviour. Industry giant OpenAI has revealed that one of its new agentic models managed to escape what should have been an isolated testing environment to access the internet where it then proceeded to hack a popular AI sharing and testing hub as it sought answers that would help it to pass its OpenAI test. The incident, once again underlining the growing threat advanced AIs pose to cybersecurity.",
+      "url": "https://www.france24.com/en/open-ai-models-go-rogue-ecape-and-and-hack-online-ai-sharing-hub",
+      "published": "Thu, 23 Jul 2026 10:52:42 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -783,6 +813,16 @@
       "severity_level": "High"
     },
     {
+      "title": "More than 1,000 people killed in Ebola outbreak",
+      "description": "More than 1,000 people have died in the Ebola outbreak in the Democratic Republic of Congo (DRC), health officials said.",
+      "url": "https://news.sky.com/story/ebola-more-than-1000-people-killed-in-dr-congo-outbreak-13566201",
+      "published": "Thu, 23 Jul 2026 09:27:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Congo's Ebola outbreak has killed nearly 1,000 people",
       "description": "At least 999 people have died from the Ebola outbreak in eastern Congo, according to official data published overnight into Wednesday, a grim toll in what’s already been declared the fastest Ebola outbreak in history",
       "url": "https://abcnews.com/International/wireStory/congos-ebola-outbreak-killed-1000-people-134975873",
@@ -823,21 +863,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Guyana ferry disaster: families demand answers as around 100 feared dead",
-      "description": "Officials say 76 of the roughly 179 people believed to have been aboard survived, and 53 bodies have been found so far.",
-      "url": "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 04:17:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
+      "description": "The agreement between the U.S. and Saudi Arabia gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
+      "published": "Thu, 23 Jul 2026 06:46:02 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -858,6 +898,16 @@
       "url": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 22 Jul 2026 23:39:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "India's police accused of exercising 'absolute brutality' against peaceful protesters",
+      "description": "Indian Prime Minister Narendra Modi has vowed \"stringent punishment\" for those involved in exam fraud that fuelled student anger. Those are his first direct comments tied to the major protests challenging his government. Meanwhile, the movement has spread from the capital city to other major cities. FRANCE 24's Sarah Jacob tells us about the latest.",
+      "url": "https://www.france24.com/en/india-s-police-accused-of-exercising-absolute-brutality-against-peaceful-protesters",
+      "published": "Thu, 23 Jul 2026 10:48:03 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -933,7 +983,7 @@
       "severity_level": "High"
     },
     {
-      "title": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
+      "title": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
       "description": "National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.",
       "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
       "published": "Thu, 23 Jul 2026 09:18:37 +0000",
@@ -958,16 +1008,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/jul/23/pauline-hanson-said-domestic-violence-prevented-police-from-dealing-with-real-in-2025-podcast-ntwnfb",
       "published": "Thu, 23 Jul 2026 08:34:12 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "France recorded 5,700 more deaths than usual during its historic June heat wave",
-      "description": "France recorded at least 5,700 more deaths than usual during a historic heatwave last month, the public health agency said Wednesday, sharply increasing its estimates of the feared toll from record-shattering temperatures. FRANCE 24's James Vasina reports.",
-      "url": "https://www.france24.com/en/france-recorded-5-700-more-deaths-than-usual-during-its-historic-june-heat-wave",
-      "published": "Wed, 22 Jul 2026 21:20:55 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1123,6 +1163,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
+      "description": "Secretary of state says US has 'a head for an eye' policy as strikes hit Iran for a 12th straight night.",
+      "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 10:19:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
       "description": "Palestinian's sudden return alive after family held his funeral highlights suffering of those still waiting for answers.",
       "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
@@ -1217,16 +1267,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
       "published": "Thu, 23 Jul 2026 05:38:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
-      "description": "François Picard is pleased to welcome Dana Thomas, Paris-based journalist, specialising in fashion and culture, and author of \"Deluxe: How Luxury Lost Its Luster\". For decades, allegations of sexual exploitation in the fashion industry, spanning the globe, have resurfaced, often surrounding powerful figures whose deaths have complicated any semblance of accountability. In the wake of Daniel Siad's sudden death, Thomas offers a scathing indictment of the systemic failures within French law enforcement, the modelling industry, and the highest echelons of power.",
-      "url": "https://www.france24.com/en/video/20260722-sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t-done-anything-by-now-1",
-      "published": "Wed, 22 Jul 2026 19:33:44 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1383,11 +1423,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "France approves blanket social media ban for under-15s",
-      "description": "France has approved a blanket ban on under-15 children using social media, the first European country to introduce such a restriction.",
-      "url": "https://news.sky.com/story/france-approves-blanket-social-media-ban-for-under-15s-13565790",
-      "published": "Tue, 21 Jul 2026 20:53:00 +0100",
-      "source": "Sky News World",
+      "title": "US citizens are ramping up pressure on data centers",
+      "description": "Rapid data center construction across the US fueled by AI comes with serious threats to the environment, public health and energy supply. Local opposition has blocked or delayed dozens of projects.",
+      "url": "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 23 Jul 2026 11:11:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1503,9 +1543,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US-China AI rivalry reaches critical flashpoint",
+      "title": "US-China AI rivalry heats up as Chinese models gain ground",
       "description": "China's AI platforms are rapidly closing the gap with their US counterparts, prompting fresh threats from the Trump administration. With accusations of intellectual property theft, could tensions boil over?",
-      "url": "https://www.dw.com/en/us-china-ai-rivalry-reaches-critical-flashpoint/a-77899558?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 23 Jul 2026 10:02:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1518,6 +1558,16 @@
       "url": "https://www.dw.com/en/india-modi-orders-fast-track-courts-for-paper-leaks-amid-protests/live-78078283?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 23 Jul 2026 05:04:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Systemic use of 'goons' in Kenya amplifies political repression",
+      "description": "With one year to go before Kenya's 2027 presidential election, human rights organizations are sounding the alarm. They are denouncing the rise of “goons”—henchmen recruited by political leaders to infiltrate rallies, sow chaos, and intimidate opponents. This is a long-standing phenomenon that has worsened significantly since the large-scale protests against William Ruto’s government.",
+      "url": "https://www.france24.com/en/systemic-use-of-goons-in-kenya-amplifies-political-repression",
+      "published": "Thu, 23 Jul 2026 10:02:37 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1653,16 +1703,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "'It's all literally rubble': Lebanese poet returns to see what has become of her home",
-      "description": "A village destroyed. A home erased. One poet returns to remember what was lost.",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5883746/its-all-literally-rubble-lebanese-poet-returns-to-see-what-has-become-of-her-home",
-      "published": "Wed, 22 Jul 2026 04:47:16 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "From the General Assembly to Harlem: Mandela’s call to action endures",
       "description": "Sixty-seven minutes. That is how long volunteers spent serving lunch to people experiencing food insecurity at Refettorio Harlem in New York City last week – one for every year Nelson Mandela gave to public service.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167981",
@@ -1723,6 +1763,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
+      "description": "Thai sailors sue owners of cargo ship hit in Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 09:45:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
       "description": "For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.",
       "url": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
@@ -1737,16 +1787,6 @@
       "description": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
       "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
       "published": "Thu, 23 Jul 2026 05:15:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
-      "description": "The incident was witnessed by the daughter of Ahmed Nejib Chebbi, another prominent political prisoner.",
-      "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 03:53:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1913,11 +1953,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Group of Indigenous Taiwanese row over 100 miles to recreate their ancestors' journey",
-      "description": "Indigenous people in Taiwan complete a journey to the Philippines in a traditional rowboat, recreating a journey their ancestors made thousands of years ago.",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5871201/group-of-indigenous-taiwanese-row-over-100-miles-to-recreate-their-ancestors-journey",
-      "published": "Wed, 22 Jul 2026 04:47:02 -0400",
-      "source": "NPR World News",
+      "title": "EU imposes €890 million competition fine on Google over its Play app store and search",
+      "description": "The European Commission said it found that Google had preferenced its search engine and app store in ways that unfairly harmed competition.",
+      "url": "https://www.dw.com/en/eu-imposes-€890-million-competition-fine-on-google-over-its-play-app-store-and-search/a-78082850?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 23 Jul 2026 10:19:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1967,46 +2007,6 @@
       "description": "For the first time in a decade, the United Nations will soon choose a new Secretary-General. DW takes a look at the six candidates, what they stand for and the challenges they and the UN will face.",
       "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 22 Jul 2026 17:52:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "DW correspondent Alican Uludag released, ordered not to leave Turkey",
-      "description": "Alican Uludag was freed Wednesday, a day after being taken back into custody on new charges. The arrest had come just two months after he was released pending trial in a separate case.",
-      "url": "https://www.dw.com/en/dw-correspondent-alican-uludag-released-ordered-not-to-leave-turkey/a-78075380?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Jul 2026 15:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany: Merz replaces key figure following surrogacy row",
-      "description": "Thorsten Frei, a close confidant of German Chancellor Friedrich Merz, is taking over the role as parliamentary group leader for the conservative CDU/CSU bloc. The position is a powerful one.",
-      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Jul 2026 15:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany's growing interest in Africa: A win for both sides?",
-      "description": "Germany is deepening its footprint across Africa, as Foreign Minister Johann Wadephul embarks on his third trip to the continent in 2026. His top-level talks will focus on security, skills development and investment.",
-      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Jul 2026 14:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Female coaches want more representation in African football",
-      "description": "Female head coaches will be a rare sight at the Women’s African Cup of Nations. However, there are some promising signs.",
-      "url": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Jul 2026 14:17:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2123,8 +2123,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Border K9 sniffs out 99 pounds of prohibited meat, plants and monitor lizard in suitcase from Thailand",
-      "description": "K9 Maisy discovered 50 pounds of raw meat, mangoes and 16 pounds of Bengal monitor lizard in luggage from Thailand, prompting a wildlife seizure.",
+      "title": "Border K-9 sniffs out 99 pounds of prohibited meat, plants and monitor lizard in suitcase from Thailand",
+      "description": "K-9 Maisy discovered 50 pounds of raw meat, mangoes and 16 pounds of Bengal monitor lizard in luggage from Thailand, prompting a wildlife seizure.",
       "url": "https://www.foxnews.com/us/border-k9-sniffs-99-pounds-prohibited-meat-plants-monitor-lizard-suitcase-thailand",
       "published": "Wed, 22 Jul 2026 23:59:10 -0400",
       "source": "Fox News US",
