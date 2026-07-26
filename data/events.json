@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T06:02:43.956842Z",
+  "last_updated": "2026-07-26T07:23:39.752984Z",
   "event_count": 217,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: Wildfire raging through France’s southwest scorches 42,000 hectares of land",
+      "description": "The main wildfire raging through France’s southwest Gironde region has burned some 42,000 hectares of land, the regional prefecture said Sunday, making it one of the biggest the country has faced since World War II. More than 300,000 people have fled powerful wildfires across France and Spain as overstretched firefighters struggle to contain the infernos. Follow our liveblog for all the latest updates.",
+      "url": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+      "published": "Sat, 25 Jul 2026 22:57:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -40,16 +50,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 37,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Live: Bordeaux evacuates 55,000 more as fires worsen in France and Spain",
-      "description": "More than 300,000 people fled wildfires raging across France and Spain on Saturday as worsening conditions forced fresh evacuations and authorities warned of a \"difficult night\". Fire-generated whirlwinds fuelled blazes near Bordeaux, while Spain battled expanding infernos threatening areas near Madrid. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
-      "published": "Sat, 25 Jul 2026 22:57:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -283,16 +283,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 00:54:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "French wildfires trigger mass evacuations around Bordeaux",
       "description": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
@@ -368,16 +358,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 25 Jul 2026 02:23:09 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-      "description": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Iran also vie for control of the vital Strait of Hormuz. DW has more.",
-      "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 25 Jul 2026 00:50:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -463,11 +443,41 @@
       "severity_level": "High"
     },
     {
+      "title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
+      "description": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 07:04:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
       "description": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
       "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
       "published": "Sun, 26 Jul 2026 01:52:56 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "'Firefighters are hoping that more of those fires don't join up': Spain steps up wildfire response",
+      "description": "FRANCE 24's Madrid correspondent Sarah Morris reports on what authorities have called a \"difficult night\" for the firefighters struggling to tackle the spreading wildfires near Madrid and Toledo.",
+      "url": "https://www.france24.com/en/firefighters-are-hoping-that-more-of-those-fires-don-t-join-up-spain-steps-up-wildfire-response",
+      "published": "Sun, 26 Jul 2026 06:45:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "US holds fire against Iran as media reports say Washington's stockpiles are dwindling",
+      "description": "Another night has passed without further US air strikes on Iran after nearly two weeks of nightly bombardments. US media reports that Washington's concerns over dwindling stockpiles of Patriot interceptors and other air defence munitions could be behind the pause in fighting.",
+      "url": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
+      "published": "Sun, 26 Jul 2026 05:47:09 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -513,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
-      "description": "The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
-      "url": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 21:59:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "description": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year. Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, claiming they were in Angola for cultural and business activities. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
@@ -563,26 +563,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Venezuela honors thousands of victims one month since earthquakes",
-      "description": "Venezuelans across the quake zone and in the capital Caracas held a minute of silence Friday to honor victims of the tremors that struck one month ago.",
-      "url": "https://www.france24.com/en/venezuela-honors-thousands-of-victims-one-month-since-earthquakes",
-      "published": "Sat, 25 Jul 2026 12:39:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ukraine: Kyiv protests continue after Zelensky fires defense minister",
-      "description": "Protesters in ​Kyiv on Friday announced an open ended rally demanding that President Volodymyr Zelensky reappoint ousted defence minister Mykhailo Fedorov after a badly explained government reshuffle escalated into a political crisis.",
-      "url": "https://www.france24.com/en/ukraine-kyiv-protests-continue-after-zelensky-fires-defense-minister",
-      "published": "Sat, 25 Jul 2026 12:31:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "European tourists found alive after speedboat sinks in Indonesia",
       "description": "Rescuers have found 11 European tourists and a local crew member alive after a speedboat went missing before sinking in Indonesia.",
       "url": "https://news.sky.com/story/european-tourists-found-alive-after-speedboat-sinks-in-indonesia-13566846",
@@ -593,21 +573,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Jul 2026 00:06:53 GMT",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 07:21:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "description": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 22:07:36 +0000",
-      "source": "Al Jazeera",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Jul 2026 00:06:53 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -893,16 +873,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
-      "description": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create a \"media behemoth\" that would harm the US entertainment industry.",
-      "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 24 Jul 2026 22:40:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
       "description": "Amar Bendjama, Permanent Representative of Algeria to the UN, was elected on Thursday to serve as the next president of the UN’s Economic and Social Council (ECOSOC).",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168008",
@@ -1123,16 +1093,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
-      "description": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
-      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-      "published": "Sat, 25 Jul 2026 22:31:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1163,6 +1123,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "description": "The van ramming at a Berlin CSD event is only the most recent incident on a long list of cases of vehicles being used as weapons. The US and China saw similar attacks in recent years.",
+      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 26 Jul 2026 07:05:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
       "description": "Industry boss Tanja Gönner says the situation is critical but offers opportunity. Meanwhile, politicians head to the Bayreuth Festival and security services warn of racist fight clubs. Follow DW for the latest.",
       "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-xml-mrss",
@@ -1178,16 +1148,6 @@
       "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 25 Jul 2026 03:29:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ukrainians back ousted defence minister as political crisis brews",
-      "description": "Peter Zalmayev, Director of the Eurasia Democracy Initiative, is our guest.",
-      "url": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
-      "published": "Sat, 25 Jul 2026 12:28:17 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1393,6 +1353,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israeli settlers set fire to mosque in occupied West Bank",
+      "description": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 07:12:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
       "description": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agency (UKHSA) said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
@@ -1408,6 +1378,16 @@
       "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
       "published": "Sat, 25 Jul 2026 21:05:45 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "India news: Home minister backs Pradhan after resignation",
+      "description": "Hours after India's education minister resigned amid youth protests, India's home minister spoke out in his defense. Meanwhile, Cockroach party's leader thanked 'cockroaches' across India. DW has more.",
+      "url": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 26 Jul 2026 06:48:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1568,6 +1548,16 @@
       "url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
       "published": "Wed, 22 Jul 2026 09:26:09 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "'He may be armed and dangerous': Manhunt continues after man drives vehicle into Berlin Pride event",
+      "description": "FRANCE 24 correspondent Nick Holdsworth reports from Berlin after a vehicle was driven into a crowd during the city's Pride event, killing one person and wounding 16 more.",
+      "url": "https://www.france24.com/en/he-may-be-armed-and-dangerous-manhunt-continues-after-man-drives-vehicle-into-berlin-pride-event",
+      "published": "Sun, 26 Jul 2026 06:43:45 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1748,6 +1738,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 25 Jul 2026 23:30:07 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "description": "Anthony Joshua survives two knockdowns by Albania's Kristian Prenga before winning the fight in the second round.",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 06:37:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
