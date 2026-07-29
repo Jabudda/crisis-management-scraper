@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T18:28:28.177242Z",
+  "last_updated": "2026-07-29T18:53:39.027262Z",
   "event_count": 221,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 56,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan",
+      "description": "Soldiers and emergency workers are combing through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 18 people in southwestern Japan",
+      "url": "https://abcnews.com/International/wireStory/death-toll-rises-18-rescuers-comb-quake-rubble-135176500",
+      "published": "Wed, 29 Jul 2026 08:57:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 49,
       "severity_level": "Critical"
     },
     {
@@ -303,16 +313,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russia charges Telegram founder with aiding terrorism and puts him on wanted list",
-      "description": "Russia has charged Pavel Durov, founder of Telegram, with aiding terrorism and placed him on an international wanted list",
-      "url": "https://abcnews.com/International/wireStory/russia-charges-telegram-founder-pavel-durov-aiding-terrorism-135179973",
-      "published": "Wed, 29 Jul 2026 07:14:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
       "description": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168047",
@@ -443,16 +443,6 @@
       "severity_level": "High"
     },
     {
-      "title": "A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France’s wildfire rages on",
-      "description": "A massive wildfire in southwest France has forced over 220,000 people to evacuate",
-      "url": "https://abcnews.com/International/wireStory/247-alert-rabbit-220000-evacuees-frances-wildfire-rages-135178809",
-      "published": "Wed, 29 Jul 2026 02:17:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
       "description": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
       "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
@@ -528,6 +518,16 @@
       "url": "https://www.france24.com/en/video/20260729-fifa-private-investor-plans-spark-backlash-uefa-fury",
       "published": "Wed, 29 Jul 2026 12:43:40 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "The deaths of 15 elephants in Kenya's Amboseli National Park spark investigation",
+      "description": "Kenya’s wildlife authorities are investigating the deaths of 15 elephants over the past month in Amboseli National Park",
+      "url": "https://abcnews.com/International/wireStory/deaths-15-elephants-kenyas-amboseli-national-park-spark-135167842",
+      "published": "Tue, 28 Jul 2026 16:10:15 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -613,6 +613,16 @@
       "severity_level": "High"
     },
     {
+      "title": "ICE arrests more than 900 suspected human traffickers during FIFA World Cup, rescues 180 victims: DHS",
+      "description": "DHS says more than 900 suspected human traffickers were arrested and 180 victims rescued during the 2026 FIFA World Cup, including 30 children.",
+      "url": "https://www.foxnews.com/us/ice-arrests-900-suspected-human-traffickers-fifa-world-cup-rescues-180-victims-dhs",
+      "published": "Wed, 29 Jul 2026 14:21:24 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Seattle police chief snaps over Chicago home questions, absence from city after mass shooting",
       "description": "Seattle Police Chief Shon Barnes was in Dallas when the Bite of Seattle mass shooting killed three, sparking scrutiny over his frequent travel.",
       "url": "https://www.foxnews.com/us/seattle-police-chief-snaps-chicago-home-questions-absence-city-mass-shooting",
@@ -658,6 +668,16 @@
       "url": "https://www.france24.com/en/drones-and-bulldozers-how-the-army-is-helping-battle-the-blaze-in-france-s-southwest",
       "published": "Wed, 29 Jul 2026 13:42:27 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
+      "description": "The number of survivors of a cargo ship that sank off a Chinese-occupied shoal in the South China Sea has risen to 48 as search and rescue crews hunt for more people who went down with the vessel",
+      "url": "https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274",
+      "published": "Tue, 28 Jul 2026 06:22:40 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -718,16 +738,6 @@
       "url": "https://www.france24.com/en/video/20260729-comoros-welcomes-addition-of-centuries-old-medinas-to-unesco-list",
       "published": "Wed, 29 Jul 2026 13:14:08 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Norwegian teenager convicted for his role in murder-for-hire ordered by Iran-linked crime gang",
-      "description": "A Norwegian teenager has been convicted of traveling to Britain to carry out a contract killing on behalf of an international crime gang linked to Iran",
-      "url": "https://abcnews.com/International/wireStory/norwegian-teenager-convicted-role-murder-hire-ordered-iran-135193057",
-      "published": "Wed, 29 Jul 2026 11:12:55 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -953,16 +963,6 @@
       "severity_level": "High"
     },
     {
-      "title": "After Venezuela's quakes, experts say environmental and health risks have just begun",
-      "description": "More than a month after Venezuela's devastating earthquakes, public health experts tell The Associated Press the coming weeks are critical to prevent secondary crises from contaminants",
-      "url": "https://abcnews.com/International/wireStory/after-venezuelas-quakes-experts-environmental-health-risks-begun-135188972",
-      "published": "Wed, 29 Jul 2026 11:26:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Two Florida inmates die in rare double execution after SCOTUS denies stays",
       "description": "The Supreme Court denied stays of execution for two Florida death row inmates, clearing the way for the state's first double execution since 1964.",
       "url": "https://www.foxnews.com/us/two-florida-inmates-die-rare-double-execution-after-scotus-denies-stays",
@@ -1023,10 +1023,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Ugandan opposition figure Besigye collapses in the dock during treason trial",
-      "description": "An opposition leader facing treason charges in Uganda appeared to collapse in court as he protested what he has long felt is personal injustice in the trial that is riveting this East African country",
-      "url": "https://abcnews.com/International/wireStory/ugandan-opposition-figure-besigye-collapses-dock-treason-trial-135190862",
-      "published": "Wed, 29 Jul 2026 11:13:03 -0400",
+      "title": "Ebola cases in Congo top 3,200, nearing record of the country's worst outbreak",
+      "description": "The Ebola outbreak in eastern Congo has surpassed 3,200 cases",
+      "url": "https://abcnews.com/International/wireStory/ebola-cases-congo-top-3200-nearing-record-countrys-135144491",
+      "published": "Tue, 28 Jul 2026 06:50:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "S. Korean officials order evacuation after reported white phosphorus leak at US base",
+      "description": "South Korean authorities briefly ordered evacuations on Tuesday due to what they said was a white phosphorus leak at a U.S. military base near Seoul",
+      "url": "https://abcnews.com/International/wireStory/south-korean-officials-order-residents-evacuate-after-reported-135147408",
+      "published": "Tue, 28 Jul 2026 08:58:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -1153,30 +1163,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Forensic teams search a suspected mass grave from the Kosovo war",
-      "description": "Kosovo authorities are excavating part of a village after discovering human remains believed to be from the 1998-1999 Kosovo war",
-      "url": "https://abcnews.com/International/wireStory/forensic-teams-search-suspected-mass-grave-kosovo-war-135189107",
-      "published": "Wed, 29 Jul 2026 11:13:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A heat wave threatens to reignite France’s mega-fire near Bordeaux",
-      "description": "Fire crews in southwest France are battling a massive blaze four times the size of Paris",
-      "url": "https://abcnews.com/International/wireStory/heat-wave-threatens-reignite-frances-mega-fire-bordeaux-135180714",
-      "published": "Wed, 29 Jul 2026 08:58:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Vietnam’s biggest company, Vingroup, goes global as its home market slows",
       "description": "Vietnam’s biggest conglomerate, Vingroup, is expanding into global markets as business at home slows",
       "url": "https://abcnews.com/International/wireStory/vietnams-biggest-company-vingroup-expands-overseas-home-market-135178832",
       "published": "Wed, 29 Jul 2026 06:58:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Protesters storm key Libya energy complex as blackout fears grow",
+      "description": "Protesters have stormed a key energy complex in western Libya during an ongoing anti-government demonstrations over power outages",
+      "url": "https://abcnews.com/International/wireStory/protesters-storm-key-libya-energy-complex-blackout-fears-135144918",
+      "published": "Tue, 28 Jul 2026 08:58:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1293,10 +1293,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man killed in landslide at Solomon Islands gold mine, police say",
-      "description": "Officials have recovered a man's body from a landslide at a gold mine in the Solomon Islands",
-      "url": "https://abcnews.com/International/wireStory/man-killed-landslide-solomon-islands-gold-mine-police-135178544",
-      "published": "Wed, 29 Jul 2026 02:18:34 -0400",
+      "title": "Death toll from Chongqing landslide in southwestern China climbs to 41",
+      "description": "Teams in southwestern China have identified 30 more victims from a recent landslide, bringing the death toll in Chongqing to 41",
+      "url": "https://abcnews.com/International/wireStory/death-toll-chongqing-landslide-southwestern-china-climbs-41-135157619",
+      "published": "Tue, 28 Jul 2026 11:56:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1563,20 +1563,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Myanmar courts sentence activists up to 37 years over election boycott protest",
-      "description": "Courts in Myanmar have sentenced nine activists to up to 37 years in prison for a protest against last December's elections, according to an activist group",
-      "url": "https://abcnews.com/International/wireStory/myanmar-courts-sentence-activists-37-years-election-boycott-135195224",
-      "published": "Wed, 29 Jul 2026 12:59:43 -0400",
+      "title": "Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting",
+      "description": "Ukraine says its forces have hit two of Russia’s major oil refineries in their latest long-range strikes",
+      "url": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
+      "published": "Wed, 29 Jul 2026 08:42:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting",
-      "description": "Ukraine says its forces have hit two of Russia’s major oil refineries in their latest long-range strikes",
-      "url": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
-      "published": "Wed, 29 Jul 2026 08:42:07 -0400",
+      "title": "Myanmar courts sentence activists up to 37 years over election boycott protest",
+      "description": "Courts in Myanmar have sentenced nine activists to up to 37 years in prison for a protest against last December's elections, according to an activist group",
+      "url": "https://abcnews.com/International/wireStory/myanmar-courts-sentence-activists-37-years-election-boycott-135195224",
+      "published": "Wed, 29 Jul 2026 12:59:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1608,6 +1608,16 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Guyana police file murder charges against captain and crew mates in deadly ferry capsizing",
+      "description": "Police in Guyana have filed murder charges against the captain and two crew members of a state ferry that capsized, killing over 70 people",
+      "url": "https://abcnews.com/International/wireStory/guyana-police-file-murder-charges-captain-crew-mates-135160886",
+      "published": "Tue, 28 Jul 2026 13:22:14 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1673,16 +1683,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Savannah Guthrie's emotional plea to mom's kidnapper may signal 'new line of communication': report",
-      "description": "Savannah Guthrie's emotional Instagram video may signal a new line of communication as she appears to appeal directly to her mother's kidnapper.",
-      "url": "https://www.foxnews.com/us/savannah-guthrie-emotional-plea-moms-kidnapper-may-signal-new-line-communication-report",
-      "published": "Tue, 28 Jul 2026 07:55:44 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1707,6 +1707,16 @@
       "description": "Lebanese lawyers have filed a complaint against local banker Antoun Sehnaoui for meeting Israeli Prime Minister Benjamin Netanyahu this week in Washington",
       "url": "https://abcnews.com/International/wireStory/lebanese-lawyers-file-complaint-banker-met-israels-netanyahu-135192200",
       "published": "Wed, 29 Jul 2026 11:12:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China hits back at criticism over excess industrial capacity as more US tariffs loom",
+      "description": "China has rejected criticism that its huge trade surplus reflects excessive manufacturing capacity",
+      "url": "https://abcnews.com/International/wireStory/china-hits-back-criticism-excess-industrial-capacity-us-135147885",
+      "published": "Tue, 28 Jul 2026 08:10:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -2064,7 +2074,7 @@
     },
     {
       "title": "How a Ugandan lost 20 years of her life to xenophobia",
-      "description": "After decades of building lives in South Africa, renewed anti-immigrant tensions in 2026 forced hundreds of African migrants to leave. A Ugandan who spent two decades in South Africa shared with DW how she's coping.",
+      "description": "After decades of building lives in South Africa, hundreds of African migrants were forced to leave by renewed anti-immigrant tensions. A Ugandan who spent two decades in South Africa shared with DW how she's coping.",
       "url": "https://www.dw.com/en/how-a-ugandan-lost-20-years-of-her-life-to-xenophobia/a-78144564?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 29 Jul 2026 14:05:00 GMT",
       "source": "Deutsche Welle",
@@ -2103,36 +2113,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Copenhagen’s famed Noma restaurant to reopen without founder Redzepi at helm",
-      "description": "Denmark’s iconic Noma restaurant is reopening on August 5 without its founder, René Redzepi, at the helm",
-      "url": "https://abcnews.com/International/wireStory/copenhagens-famed-noma-restaurant-reopen-founder-redzepi-helm-135195261",
-      "published": "Wed, 29 Jul 2026 12:59:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Dominican Republic's zoo offers home for confiscated animals as seizures soar",
-      "description": "Confiscated illegal and smuggled animals are finding a new life in the Dominican Republic",
-      "url": "https://abcnews.com/International/wireStory/dominican-republics-zoo-offers-home-confiscated-animals-seizures-135193495",
-      "published": "Wed, 29 Jul 2026 12:58:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Saudi Arabia executes 5 Ethiopians over drug-related charges, rights group says",
-      "description": "Human Rights Watch says Saudi Arabia executed five Ethiopians this week on drug-related charges after a trial that allegedly lacked due process",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-executes-5-ethiopians-drug-related-charges-135190365",
-      "published": "Wed, 29 Jul 2026 11:13:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "New UK leader Burnham vows to fix a 'broken' social care system",
       "description": "British Prime Minister Andy Burnham pledges to fix the \"broken\" social care system",
       "url": "https://abcnews.com/International/wireStory/new-uk-leader-burnham-vows-fix-broken-social-135183249",
@@ -2143,10 +2123,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
+      "description": "Iraq’s new prime minister, Ali al-Zaidi, has arrived in Turkey for talks expected to include a pipeline to reduce Iraq’s exposure to Gulf tensions",
+      "url": "https://abcnews.com/International/wireStory/iraqs-new-prime-minister-visits-turkey-talks-pipeline-135147189",
+      "published": "Tue, 28 Jul 2026 09:03:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "16th century bell foundry adds modern technology to keep casting process alive",
       "description": "Austria's Grassmayr Bell Foundry has been casting massive bells for churches and cathedrals around the globe for more than 400 years",
       "url": "https://abcnews.com/International/wireStory/austrias-16th-century-bell-foundry-adds-modern-technology-135179503",
       "published": "Wed, 29 Jul 2026 07:22:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Saudi Arabia executes 5 Ethiopians over drug-related charges, rights group says",
+      "description": "Human Rights Watch says Saudi Arabia executed five Ethiopians this week on drug-related charges after a trial that allegedly lacked due process",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-executes-5-ethiopians-drug-related-charges-135190365",
+      "published": "Wed, 29 Jul 2026 11:13:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
