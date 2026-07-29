@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T18:53:39.027262Z",
+  "last_updated": "2026-07-29T19:31:11.532287Z",
   "event_count": 221,
   "events": [
     {
@@ -60,16 +60,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 40,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Thousands sheltering in key Sudan city under threat again as fighting escalates",
-      "description": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 05:01:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -303,13 +293,23 @@
       "severity_level": "Critical"
     },
     {
-      "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
+      "title": "How two wars and El Nino could fuel world hunger",
       "description": "The wars in Ukraine and the Middle East haven't yet crippled global food supplies. Add a powerful weather pattern like El Nino, however, and the risks multiply.",
-      "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 29 Jul 2026 08:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Bordeaux wildfire battle continues amid extreme heat",
+      "description": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:42:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -323,8 +323,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation'",
-      "description": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements, while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
+      "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
+      "description": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
       "published": "Wed, 29 Jul 2026 12:00:00 +0000",
       "source": "UN News",
@@ -421,6 +421,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "description": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:34:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
@@ -783,20 +793,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 13:48:41 GMT",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 15:33:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 15:33:14 GMT",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 13:48:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -854,7 +864,7 @@
     },
     {
       "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
-      "description": "A woman is stopped for buying groceries alone. The shopkeeper who served her is slapped and hauled in for questioning. A teacher is turned away from her own classroom for the wrong cloak.",
+      "description": "A woman is stopped for buying groceries alone. The shopkeeper who served her is slapped and hauled in for questioning. A teacher is turned away from her own classroom for wearing the wrong cloak.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168039",
       "published": "Tue, 28 Jul 2026 12:00:00 +0000",
       "source": "UN News",
@@ -983,16 +993,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-      "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
-      "url": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:58:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "The Slovak village questioning its UNESCO status",
       "description": "The picturesque village of Vlkolinec in Slovakia has been on UNESCO's World Heritage List since 1993. Vlkolinec was recently in the headlines for wanting to be taken off the list. DW visited the village to find out why.",
       "url": "https://www.dw.com/en/the-slovak-village-questioning-its-unesco-status/a-78141298?maca=en-rss-en-all-1573-xml-mrss",
@@ -1053,6 +1053,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 17:21:57 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump administration bans new Chinese humanoid robots",
       "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
       "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
@@ -1087,16 +1097,6 @@
       "description": "'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
       "published": "Wed, 29 Jul 2026 14:09:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-      "description": "FIFA's president lobbies for latest, and heavily criticised, proposal for investment in football's governing body.",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:15:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1210,6 +1210,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1723,20 +1733,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 17:58:42 GMT",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct",
+      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 17:04:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 17:04:42 GMT",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 17:58:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1773,18 +1783,18 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why Wimbledon is serving Indian ice cream and Bollywood beats",
-      "description": "Departing from tradition, Wimbledon shed its restraint to target new audiences in cricket-crazy India.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 22:05:26 GMT",
-      "source": "BBC News",
+      "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "description": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:49:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
       "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
-      "description": "Elevated inflation partly reflects supply shocks that that have increased prices, including of energy, the Fed said.",
+      "description": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.",
       "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
       "published": "Wed, 29 Jul 2026 18:07:55 +0000",
       "source": "Al Jazeera",
@@ -1827,16 +1837,6 @@
       "description": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
       "published": "Wed, 29 Jul 2026 14:04:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How are AI models able to autonomously hack others?",
-      "description": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.",
-      "url": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:19:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2054,7 +2054,7 @@
     },
     {
       "title": "Germany news: Temperatures to soar amid new heatwave",
-      "description": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up — triggered by a surrogacy scandal — was formalized in a series of ministerial appointments. DW has more.",
+      "description": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up — triggered by a surrogacy scandal — was formalized in a series of ministerial appointments.",
       "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 29 Jul 2026 14:30:00 GMT",
       "source": "Deutsche Welle",
