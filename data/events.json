@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T01:37:22.305207Z",
+  "last_updated": "2026-08-02T03:07:28.256640Z",
   "event_count": 221,
   "events": [
     {
@@ -170,16 +170,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 9 people killed in Russian missile attacks on Kyiv",
-      "description": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 17:45:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -373,16 +363,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening",
-      "description": "A massive explosion ripped through Aeon Mall in Kumamoto just weeks after its grand reopening, leaving up to 30 employees unaccounted for.",
-      "url": "https://www.foxnews.com/world/japan-mall-rebuilt-after-deadly-earthquake-destroyed-major-temblor-weeks-after-fresh-start-reopening",
-      "published": "Tue, 28 Jul 2026 16:05:52 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Russian forces strike targets in Ukraine's Odesa, Mykolaiv ports",
       "description": "Russia said on Saturday its forces had struck fuel storage facilities in the Ukrainian port of Odesa and a tugboat used by the Ukrainian military in Mykolaiv. Russia and Ukraine have intensified attacks in recent weeks on Black Sea shipping routes, rattling global grain markets.",
       "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
@@ -433,11 +413,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Three die in Moscow restaurant bombing",
+      "title": "Moscow restaurant bombing kills three",
       "description": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
       "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 18:22:35 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australia news live: concept images of controversial 2032 Brisbane Olympics precinct revealed",
+      "description": "Community members concerned about loss of community green space and areas of cultural importance. Follow updates Get our breaking news email , free app or daily news podcast Yolngu leaders in north-east Arnhem Land have announced a powerful new Dilak Land Council, declaring land rights are “coming home” to traditional owners, AAP reports . On a national stage at the Garma festival, revered elder Djawa Yunupingu told leaders, politicians and visitors from across the country on Saturday real power must sit “fully into the hands of landowners”. There will be a new land council in Arnhem Land and it will be called the Dilak Land Council, and it will be the power for our future. Icac should be allowed to go through its processes free of political interference, free of commentary from politicians, and be allowed to run its course. Writing the review into the 2022 election, we specifically said that each division needs to make sure that its constitution is fit for purpose and that that its membership is match-fit to fight elections. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+      "published": "Sun, 02 Aug 2026 03:00:04 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -518,6 +508,16 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "published": "Thu, 30 Jul 2026 22:48:02 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "13 killed in tourist plane crash in Peru",
+      "description": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru.",
+      "url": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 1 Aug 2026 20:36:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -643,20 +643,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Greece battles raging wildfires as flames appear to ease in France",
-      "description": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 20:24:19 +0000",
+      "title": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+      "description": "Move comes after Iran's top diplomat warned of a 'decisive response' to any US-Israeli 'aggression'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 00:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-      "description": "More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 17:57:18 +0000",
+      "title": "Greece battles raging wildfires as flames appear to ease in France",
+      "description": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 20:24:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -687,16 +687,6 @@
       "description": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles.",
       "url": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 1 Aug 2026 10:16:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Why Europe's wildfires are getting harder to stop",
-      "description": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe's biggest blazes.",
-      "url": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 31 Jul 2026 16:10:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
@@ -763,10 +753,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
-      "description": "Iran's Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 00:00:00 +0000",
+      "title": "Gunman kills several at Idaho fast-food restaurant",
+      "description": "Multiple deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 01:26:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 14,
@@ -828,16 +818,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 23:57:30 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Australia news live: Hume sidesteps question over Taylor’s Icac mention saying ‘this is so distant from him’",
-      "description": "Meanwhile, cut to fuel excise to due end at midnight. Follow updates Get our breaking news email , free app or daily news podcast Yolngu leaders in north-east Arnhem Land have announced a powerful new Dilak Land Council, declaring land rights are “coming home” to traditional owners, AAP reports . On a national stage at the Garma festival, revered elder Djawa Yunupingu told leaders, politicians and visitors from across the country on Saturday real power must sit “fully into the hands of landowners”. There will be a new land council in Arnhem Land and it will be called the Dilak Land Council, and it will be the power for our future. Icac should be allowed to go through its processes free of political interference, free of commentary from politicians, and be allowed to run its course. Writing the review into the 2022 election, we specifically said that each division needs to make sure that its constitution is fit for purpose and that that its membership is match-fit to fight elections. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
-      "published": "Sun, 02 Aug 2026 01:27:27 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -973,6 +953,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "description": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch.",
+      "url": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 2 Aug 2026 02:16:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month",
       "description": "US President Donald Trump's posts on his Truth Social platform can move markets with a few keystrokes. Starting Saturday, for a fee of $100,000 a month, Wall Street traders can access his \"Truth API\" service to have high-speed access to the president's announcements about economic policy and global affairs.",
       "url": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month",
@@ -1043,16 +1033,6 @@
       "severity_level": "High"
     },
     {
-      "title": "13 dead after small tourist plane crashes in Peru",
-      "description": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru.",
-      "url": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 1 Aug 2026 20:36:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Ceuta enclave \"almost\" back to normal after migrant influx",
       "description": "Almost all of the migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants entered Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt. Spain has announced plans to install a 500-metre-long containment barrier along the sea border. Meanwhile, a majority of EU countries have called for emergency talks in an open letter to the bloc’s interior ministers. Catherine Viette reports.",
       "url": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1",
@@ -1071,6 +1051,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+      "description": "Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 01:46:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1353,6 +1343,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+      "description": "Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
+      "url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
+      "published": "Sat, 01 Aug 2026 21:59:24 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "NATO member scrambles fighter jets as Russian attack on Ukraine kills 8",
       "description": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered its airspace during a massive barrage of over 70 missiles and 280 drones.",
       "url": "https://www.foxnews.com/world/nato-member-scrambles-fighter-jets-russian-attack-ukraine-kills-8",
@@ -1360,6 +1360,26 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 03:05:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+      "description": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran 'hard'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 02:24:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1387,16 +1407,6 @@
       "description": "The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.",
       "url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 19:08:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Care for a dirty soda? How this drink trend became a US obsession",
-      "description": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 17:37:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1743,16 +1753,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 02:21:29 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
       "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
       "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
@@ -1763,20 +1763,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "New York Times reveals Trump administration subpoena over North Korea story",
-      "description": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 23:42:44 +0000",
+      "title": "Is criticism of Spain on border management legitimate or politics?",
+      "description": "Tens of thousands of migrants briefly cross into Spain's north African territory of Ceuta from Morocco.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 02:55:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "description": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "published": "Sat, 01 Aug 2026 17:48:41 +0000",
+      "title": "New York Times reveals Trump administration subpoena over North Korea story",
+      "description": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 23:42:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
