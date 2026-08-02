@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T15:49:48.443955Z",
+  "last_updated": "2026-08-02T16:23:01.026300Z",
   "event_count": 220,
   "events": [
     {
@@ -243,6 +243,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Ukrainian drone strikes kill at least five in Russia, set another Wildberries warehouse ablaze",
+      "description": "Ukrainian drone strikes killed at least five people across Russia overnight into Sunday, hitting industrial sites and another warehouse belonging to e-commerce giant Wildberries as Kyiv pressed its long-range campaign to disrupt Moscow's economy while Russia continued its own attacks on Ukraine.",
+      "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+      "published": "Sun, 02 Aug 2026 16:06:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Multiple people killed in shooting at Idaho In-N-Out restaurant, suspect dead",
       "description": "A gunman opened fire at an In-N-Out Burger in Twin Falls, Idaho, leaving multiple fatalities before the suspected shooter was found deceased nearby.",
       "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
@@ -278,16 +288,6 @@
       "url": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 2 Aug 2026 09:20:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "'A giant of the industry, Purja leaves behind a legacy that inspired a generation to climb higher'",
-      "description": "Renowned mountaineer Nirmal Purja and his nine climbing companions were killed by an avalanche in Pakistan during an ascent of one of the world's highest mountains, his expedition company said on Saturday, as rescuers tackled treacherous conditions to recover their bodies. A giant of the industry, Purja leaves behind a legacy that inspired a generation to climb higher. Click on this video report by Charlotte Lam for more.",
-      "url": "https://www.france24.com/en/video/20260801-a-giant-of-the-industry-purja-leaves-behind-a-legacy-that-inspired-a-generation-to-climb-higher",
-      "published": "Sat, 01 Aug 2026 17:49:50 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -523,6 +523,16 @@
       "severity_level": "High"
     },
     {
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 15:50:59 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Gironde megafire contained: Nearly 3,000 firefighters remain deployed",
       "description": "Meanwhile, France’s vast wildfire near Bordeaux remains contained. Most of the 200,000 people who were told to evacuate have now returned home, although parts of the fire are still burning. The blaze has scorched an area four times the size of Paris. James Andre has the latest.",
       "url": "https://www.france24.com/en/gironde-megafire-contained-nearly-3-000-firefighters-remain-deployed",
@@ -560,6 +570,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 15:48:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -687,16 +707,6 @@
       "description": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
       "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 02 Aug 2026 15:21:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 15:18:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -840,16 +850,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 15:02:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -1084,7 +1084,7 @@
     },
     {
       "title": "Bryan Kohberger's former defense expert calls for death penalty, says investigators missed key evidence",
-      "description": "A defense expert hired by Bryan Kohberger now says cell phone data shows evidence of stalking, contradicting his own earlier expert report in the case.",
+      "description": "A defense expert hired by Bryan Kohberger now says cellphone data shows evidence of stalking, contradicting his own earlier expert report in the case.",
       "url": "https://www.foxnews.com/us/bryan-kohberger-former-defense-expert-calls-death-penalty-investigators-missed-key-evidence",
       "published": "Sun, 02 Aug 2026 11:15:43 -0400",
       "source": "Fox News US",
@@ -1103,20 +1103,20 @@
       "severity_level": "High"
     },
     {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 10:11:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 10:11:26 GMT",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:23:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1493,20 +1493,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tourist plane crashes in Peru, killing 13 on sightseeing flight",
-      "description": "A small plane carrying tourists crashed in a field outside the city of Nazca.",
-      "url": "https://abcnews.com/International/wireStory/tourist-plane-crashes-peru-killing-13-nazca-lines-135294691",
-      "published": "Sat, 01 Aug 2026 16:50:31 -0400",
+      "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9",
+      "description": "Russia has launched a barrage of ballistic missiles and drones into Kyiv, killing at least nine people and injuring 22",
+      "url": "https://abcnews.com/International/wireStory/russia-hits-ukrainian-capital-ballistic-missiles-drones-killing-135279886",
+      "published": "Sat, 01 Aug 2026 02:57:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9",
-      "description": "Russia has launched a barrage of ballistic missiles and drones into Kyiv, killing at least nine people and injuring 22",
-      "url": "https://abcnews.com/International/wireStory/russia-hits-ukrainian-capital-ballistic-missiles-drones-killing-135279886",
-      "published": "Sat, 01 Aug 2026 02:57:12 -0400",
+      "title": "Tourist plane crashes in Peru, killing 13 on sightseeing flight",
+      "description": "A small plane carrying tourists crashed in a field outside the city of Nazca.",
+      "url": "https://abcnews.com/International/wireStory/tourist-plane-crashes-peru-killing-13-nazca-lines-135294691",
+      "published": "Sat, 01 Aug 2026 16:50:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1537,16 +1537,6 @@
       "description": "Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
       "published": "Sun, 02 Aug 2026 13:40:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
-      "description": "Indigenous people protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
-      "published": "Sun, 02 Aug 2026 11:09:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1618,16 +1608,6 @@
       "url": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
       "published": "Fri, 31 Jul 2026 16:22:54 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Caribbean and Gulf of Mexico beaches swathed in record levels of seaweed",
-      "description": "Swaths of sargassum are blanketing the Caribbean and Gulf of Mexico, suffocating shorelines and snuffing out marine life while spooking visitors in areas that depend heavily on tourism",
-      "url": "https://abcnews.com/International/wireStory/caribbean-gulf-mexico-beaches-swathed-record-levels-seaweed-135269046",
-      "published": "Fri, 31 Jul 2026 14:42:07 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1768,6 +1748,16 @@
       "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 02 Aug 2026 07:58:51 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israeli settlers shoot Palestinian child during farm raid",
+      "description": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+      "published": "Sun, 02 Aug 2026 15:36:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2083,6 +2073,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Britain's new leader shifts power from Downing Street to Manchester with 'No. 10 North'",
+      "description": "Prime Minister Andy Burnham has shifted some of Britain's political power from London to Manchester with \"No_ 10 North.\"",
+      "url": "https://abcnews.com/International/wireStory/britains-new-leader-shifts-power-downing-street-manchester-135281168",
+      "published": "Sat, 01 Aug 2026 02:37:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "'I just want a chance': Moroccans sought better future in collective crossing to Spain territory",
       "description": "When he heard that the border was breached, Abdulah Buji jumped on his motorbike and rode as fast as he could to join the tens of thousands of other Moroccans who swam en masse to reach Spanish territory",
       "url": "https://abcnews.com/International/wireStory/chance-moroccans-sought-future-collective-crossing-spain-territory-135281351",
@@ -2093,10 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Britain's new leader shifts power from Downing Street to Manchester with 'No. 10 North'",
-      "description": "Prime Minister Andy Burnham has shifted some of Britain's political power from London to Manchester with \"No_ 10 North.\"",
-      "url": "https://abcnews.com/International/wireStory/britains-new-leader-shifts-power-downing-street-manchester-135281168",
-      "published": "Sat, 01 Aug 2026 02:37:05 -0400",
+      "title": "Bank of England keeps key rate at 3.75% for the fifth time this year",
+      "description": "The Bank of England kept its key interest rate on hold for the fifth time this year after a bigger-than-expected drop in the inflation rate last month gave policymakers breathing space to assess the fallout from renewed fighting in Iran",
+      "url": "https://abcnews.com/International/wireStory/bank-england-key-rate-375-time-year-135219562",
+      "published": "Thu, 30 Jul 2026 08:50:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
