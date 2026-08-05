@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T14:16:58.011553Z",
+  "last_updated": "2026-08-05T15:17:02.929214Z",
   "event_count": 220,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 48,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Security Council LIVE: Briefing on continuing ISIL terror threat",
+      "description": "The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”. Moreover, they are using artificial intelligence and other emerging technologies to expand their reach, recruit and mobilise resources. Follow live updates below.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168080",
+      "published": "Wed, 05 Aug 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -183,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "India’s severe monsoon season causes more than 100 deaths since July",
-      "description": "Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:10:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
       "description": "A homemade explosive device killed three people at a Moscow restaurant, and injured many more on Saturday night, Russian officials said.",
       "url": "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
@@ -313,16 +313,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-      "description": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
-      "published": "Thu, 30 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
       "description": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.",
       "url": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
@@ -330,6 +320,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Boxer Chapman recovering after emergency surgery for brain bleed",
+      "description": "Featherweight Raven Chapman collapsed while sparring on July 24 and was rushed to surgery, her team says.",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 13:58:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -357,16 +357,6 @@
       "description": "On the anniversary of the atomic bombings, survivors and activists tell DW Japan's military buildup risks eroding its longstanding commitment to pacifism.",
       "url": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 5 Aug 2026 12:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Sudan: How climate change can result in toxic water",
-      "description": "Years of flooding have resulted in disastrous water pollution in South Sudan's main oil region. As communities, scientists and health workers scramble for solutions, the long-term impacts of the crisis is yet to emerge.",
-      "url": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 4 Aug 2026 14:46:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 18,
@@ -663,6 +653,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+      "description": "Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 14:31:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -713,26 +713,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Middle East: India says commercial ship sunk off Yemen",
-      "description": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections.",
-      "url": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 4 Aug 2026 18:03:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Donald Trump says oil execs have made too much money since blockade of Hormuz Strait",
-      "description": "As a consequence of the Iran war and the blockade of the Strait of Hormuz, oil prices have soared. The profits of the industry's biggest companies have also skyrocketed, and US President Donald Trump believes they're making far too much money. He's calling on them to lower prices. With the midterm elections just three months away, he's potentially concerned about growing anger among Americans. Story by Charlotte Hughes and France 2.",
-      "url": "https://www.france24.com/en/donald-trump-says-oil-execs-have-made-too-much-money-since-blockade-of-hormuz-strait",
-      "published": "Wed, 05 Aug 2026 09:05:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
       "description": "New UN-partnered centres will serve eastern Democratic Republic of the Congo (DRC) as confirmed Ebola cases continued to climb sharply over the weekend in the largest-ever outbreak of the highly contagious disease in the country.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168064",
@@ -757,16 +737,6 @@
       "description": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
       "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
       "published": "Wed, 05 Aug 2026 11:31:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
-      "description": "Cape Verde's World Cup goalkeeper Vozinha has been officially unveiled as the newest signing for Chilean club Colo-Colo.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:50:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -798,6 +768,16 @@
       "url": "https://www.npr.org/2026/08/05/nx-s1-5919736/unrest-mounts-in-kashmir-as-pakistani-security-crackdown-stokes-reform-movement",
       "published": "Wed, 05 Aug 2026 04:44:31 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of 'blatant' ceasefire violation",
+      "description": "Israel's military says it is conducting \"precision strikes\" against Hezbollah in southern Lebanon, after calling on residents of Mansouri to evacuate. DW has more.",
+      "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 5 Aug 2026 14:36:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -873,11 +853,41 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-      "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
-      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 23:13:04 GMT",
-      "source": "BBC News",
+      "title": "War on Iran: US-Iran deal edges closer",
+      "description": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 15:12:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+      "description": "A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 14:08:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+      "description": "The decision of the 78-year-old ousted leader comes despite her facing the death penalty in Bangladesh.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/ex-pm-sheikh-hasina-announces-her-plan-to-return-to-bangladesh?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 13:54:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+      "description": "The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 13:48:22 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1203,6 +1213,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Leftist El-Sayed narrowly wins high-profile Michigan Democratic Senate primary",
+      "description": "Progressive candidate Abdul El-Sayed narrowly won Michigan's Democratic US Senate primary, US media projected, handing the party's left wing a significant victory in a pivotal battleground state. The upset over establishment-backed Haley Stevens is expected to sharpen debate over the Democrats' direction on economic populism, healthcare and support for Israel ahead of November's midterm elections.",
+      "url": "https://www.france24.com/en/americas/20260805-democrat-el-sayed-narrowly-wins-high-profile-michigan-us-senate-primary",
+      "published": "Wed, 05 Aug 2026 14:21:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Takeaways from crucial primary elections across the country and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/takeaways-from-crucial-primary-elections-across-country-more-top-headlines",
@@ -1293,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "India's Gen Z protest enters a new online battle",
+      "description": "The streets are quiet, but a fight over the legacy of the Cockroach Janta Party movement is intensifying across Instagram, memes and social media.",
+      "url": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 5 Aug 2026 14:59:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Four-tonne piece of Space X rocket believed to have crashed on Moon",
       "description": "A four-tonne piece of a SpaceX rocket is believed to have unintentionally crashed into the Moon on August 5, a collision that posed no danger to Earth but is expected to leave behind a lunar crater. While there is not yet official confirmation that the Falcon 9 upper stage struck the lunar surface, it had been expected to make impact at approximately 06:35 GMT.",
       "url": "https://www.france24.com/en/video/20260805-four-tonne-piece-of-space-x-rocket-believed-to-have-crashed-on-moon",
@@ -1343,6 +1373,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "El-Sayed's victory sends tremors through Democratic Party",
+      "description": "El-Sayed's win sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
+      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 14:54:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1363,20 +1403,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "High-stakes Michigan Democratic primary pits progressive against moderates",
-      "description": "It's a fight between two Democrats over who will be the party's choice to try and win Michigan's Senate seat in November. But it is also bigger than that. The primary pits progressives against moderates – and is seen as a moment of reckoning for the Democratic Party on how to proceed in swing states for the 2028 Presidential election. Details by FRANCE 24 correspondent in Washington, Fraser Jackson.",
-      "url": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates",
-      "published": "Wed, 05 Aug 2026 10:16:43 GMT",
+      "title": "Woman arrested after four stabbed in London's popular Covent Garden",
+      "description": "Four people were stabbed in central London and a woman has been arrested in a suspected \"mental health related incident\", the Metropolitan Police said Wednesday. The stabbings took place around lunchtime in Covent Garden, a bustling area frequented by tourists.",
+      "url": "https://www.france24.com/en/europe/20260805-woman-arrested-after-four-stabbed-in-london-s-popular-covent-garden",
+      "published": "Wed, 05 Aug 2026 14:37:51 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "New round of talks about Israeli withdrawal from south of Lebanon",
-      "description": "Lebanon and Israel held a new round of direct talks, brokered by the United States, in Rome. It builds on earlier negotiations in Washington where both sides agreed to a framework deal that involves the disarmament of Hezbollah and a gradual withdrawal of Israeli forces from southern Lebanon. Hezbollah chief rejected the talks, which it views as humiliation for Lebanon. Story by Yuka Royer.",
-      "url": "https://www.france24.com/en/new-round-of-talks-about-israeli-withdrawal-from-south-of-lebanon",
-      "published": "Wed, 05 Aug 2026 09:10:23 GMT",
+      "title": "High-stakes Michigan Democratic primary pits progressive against moderates",
+      "description": "It's a fight between two Democrats over who will be the party's choice to try and win Michigan's Senate seat in November. But it is also bigger than that. The primary pits progressives against moderates – and is seen as a moment of reckoning for the Democratic Party on how to proceed in swing states for the 2028 Presidential election. Details by FRANCE 24 correspondent in Washington, Fraser Jackson.",
+      "url": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates",
+      "published": "Wed, 05 Aug 2026 10:16:43 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -1543,20 +1583,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 13:36:38 GMT",
+      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 15:05:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 14:03:48 GMT",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 14:32:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1564,9 +1604,19 @@
     },
     {
       "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "description": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
       "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 05 Aug 2026 12:33:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+      "description": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 14:58:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1613,11 +1663,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "How to avoid the worst of the Italian heat",
-      "description": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
-      "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 18:21:00 GMT",
-      "source": "BBC News",
+      "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+      "description": "An airport employee spotted the object carrying what authorities described as 'an unknown explosive device'.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 14:40:32 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1657,56 +1707,6 @@
       "description": "Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.",
       "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
       "published": "Wed, 05 Aug 2026 11:48:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-      "description": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 11:01:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israeli raid deepens fears across West Bank refugee camps",
-      "description": "Israeli raid deepens fears across West Bank refugee camps",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:30:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-      "description": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:09:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
-      "description": "Nigel Farage's party says 'Operation Fortress' would stop migrants 'invading', but experts slam proposal as unrealistic.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:07:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Football star Mohamed Salah sends first message to Trabzonspor fans",
-      "description": "Egyptian football star Mohamed Salah has addressed Trabzonspor supporters for the first time.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-mo-salah-trabzon-clip?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 10:07:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1856,7 +1856,7 @@
       "title": "M 6.3 - 32 km SW of Sarangani, Philippines",
       "description": "PAGER - GREEN ShakeMap - VII DYFI? - VII Time 2026-08-05 04:14:06 UTC 2026-08-05 04:14:06 UTC at epicenter Location 5.181°N 125.276°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x",
-      "published": "2026-08-05T13:52:16.672Z",
+      "published": "2026-08-05T14:31:18.960Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1894,7 +1894,7 @@
     },
     {
       "title": "My sleep deprivation is your natural short sleep",
-      "description": "Every so often we hear of high-ranking politicians or CEOs claiming to get by on very little sleep — some as little as three hours a night. If they’re not Natural Short Sleepers, chances are they’re heading for trouble.",
+      "description": "Every so often we hear of high-ranking politicians or CEOs claiming to get by on very little sleep — some as little as three hours a night. If they’re not natural short sleepers, chances are they’re heading for trouble.",
       "url": "https://www.dw.com/en/my-sleep-deprivation-is-your-natural-short-sleep/a-78247228?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 5 Aug 2026 12:14:00 GMT",
       "source": "Deutsche Welle",
@@ -1963,6 +1963,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Democrat El-Sayed narrowly wins high-profile Michigan US Senate primary",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/americas/20260805-democrat-el-sayed-narrowly-wins-high-profile-michigan-us-senate-primary",
+      "published": "Wed, 05 Aug 2026 14:22:16 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Outrage in Libya over a video of a woman being publicly flogged for adultery",
       "description": "A rare video filmed on July 21 in Sabha, Libya shows a woman accused of adultery being sentenced to 100 lashes. Shared on social media, it has sparked outrage for various reasons: Some are appalled by the fact that the punishment was carried out in a public space, whilst others are shocked by the ongoing existence of a law on extramarital relationships.",
       "url": "https://www.france24.com/en/africa/20260805-libya-woman-flogged-adultery",
@@ -1987,16 +1997,6 @@
       "description": "German authorities launched a major security operation overnight after an explosives-laden drone was found on the tarmac near a Ukrainian cargo plane at Leipzig-Halle Airport, forcing flight diversions and prompting the deployment of a bomb disposal robot. A cargo aircraft that aborted its landing also struck an unidentified object mid-air before landing safely.",
       "url": "https://www.france24.com/en/europe/20260805-alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident",
       "published": "Wed, 05 Aug 2026 11:13:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ghana's cocoa farmers at risk of 20-year prison sentence under new legislation",
-      "description": "Ghana's parliament passed a bill that could send cocoa farmers to prison for up to 20 years if they convert their farms to other uses without government approval. The new measure was passed on July 30, but the contents of the law were not made public until late August 2. The legislation would give all cocoa farms protected status, making it a criminal offense to repurpose them for anything else without authorization, drawing criticism from farmers.",
-      "url": "https://www.france24.com/en/video/20260805-ghana-s-cocoa-farmers-at-risk-of-20-year-prison-sentence-under-new-legislation",
-      "published": "Wed, 05 Aug 2026 09:21:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
