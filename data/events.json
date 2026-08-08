@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T21:09:34.997191Z",
+  "last_updated": "2026-08-08T21:42:37.500081Z",
   "event_count": 217,
   "events": [
     {
@@ -58,6 +58,16 @@
       "url": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
       "published": "Sat, 08 Aug 2026 19:48:21 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
+      "description": "British Columbia has declared a state of emergency as a fast-moving wildfire forced more than 20,000 people from communities in western Canada, destroying homes as it raced toward towns along Okanagan Lake",
+      "url": "https://abcnews.com/International/wireStory/fast-moving-wildfire-forces-20000-people-evacuate-western-135483600",
+      "published": "Sat, 08 Aug 2026 17:30:08 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -198,16 +208,6 @@
       "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
       "published": "Sat, 08 Aug 2026 05:00:37 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
-      "description": "More than 20,000 people have been ordered to leave their homes in western Canada overnight as a fast-moving wildfire grew rapidly and raced toward towns along British Columbia’s Okanagan Lake, destroying homes in its path",
-      "url": "https://abcnews.com/International/wireStory/fast-moving-wildfire-forces-20000-people-evacuate-western-135483600",
-      "published": "Sat, 08 Aug 2026 12:56:00 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -1603,6 +1603,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump’s Former Lawyer Is Now Attorney General",
+      "description": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 21:04:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What are the challenges facing the Mecca agreement?",
       "description": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
@@ -1667,16 +1677,6 @@
       "description": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
       "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 15:42:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
-      "description": "However, UEFA says a 'departure payment' was made to a female employee when Infantino was the body's general-secretary.",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 13:59:21 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
