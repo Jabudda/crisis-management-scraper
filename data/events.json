@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T21:42:37.500081Z",
+  "last_updated": "2026-08-08T22:08:09.545937Z",
   "event_count": 217,
   "events": [
     {
@@ -63,16 +63,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
-      "description": "British Columbia has declared a state of emergency as a fast-moving wildfire forced more than 20,000 people from communities in western Canada, destroying homes as it raced toward towns along Okanagan Lake",
-      "url": "https://abcnews.com/International/wireStory/fast-moving-wildfire-forces-20000-people-evacuate-western-135483600",
-      "published": "Sat, 08 Aug 2026 17:30:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
       "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
       "description": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
       "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
@@ -110,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "20,000 flee wildfires as British Columbia declares state of emergency",
+      "description": "More than 100 wildfires burned across the province, nearly half out of control.",
+      "url": "https://abcnews.com/International/wireStory/fast-moving-wildfire-forces-20000-people-evacuate-western-135483600",
+      "published": "Sat, 08 Aug 2026 17:50:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "title": "Nigeria's largest rescue operation frees 308 hostages held by militants in Kwara State",
-      "description": "Victims of a six-month jihadi kidnapping in Nigeria's Kwara State describe starvation, forced births, and burying fellow captives in a forest hideout.",
+      "description": "Victims of a six-month jihadi kidnapping in Nigeria's Kwara State describe starvation, forced births and the burying of fellow captives in a forest hideout.",
       "url": "https://www.foxnews.com/world/nigerias-largest-rescue-operation-frees-308-hostages-held-militants-kwara-state",
       "published": "Sat, 08 Aug 2026 10:33:38 -0400",
       "source": "Fox News World",
@@ -496,7 +496,7 @@
       "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
       "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 21:06:48 GMT",
+      "published": "Sat, 08 Aug 2026 22:01:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -548,6 +548,16 @@
       "url": "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032",
       "published": "Sat, 08 Aug 2026 16:10:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine honors 'collector of souls' killed while recovering the war dead",
+      "description": "He spent two decades recovering bodies of soldiers and civilians killed by war.",
+      "url": "https://abcnews.com/International/wireStory/ukraine-honors-collector-souls-volunteer-killed-recovering-war-135479170",
+      "published": "Sat, 08 Aug 2026 17:52:11 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -734,7 +744,7 @@
     },
     {
       "title": "Slain California fire captain’s wife admits murder after Mexico capture, serving time for killing first spouse",
-      "description": "Surveillance footage captured Cal Fire captain Rebecca Marodi fleeing before the fatal stabbing at the couple's San Diego County home in Ramona.",
+      "description": "Surveillance footage captured Cal Fire Capt. Rebecca Marodi fleeing before the fatal stabbing at the couple's San Diego County home in Ramona.",
       "url": "https://www.foxnews.com/us/slain-california-fire-captain-wife-admits-murder-mexico-capture-serving-time-killing-first-spouse",
       "published": "Sat, 08 Aug 2026 10:00:12 -0400",
       "source": "Fox News US",
@@ -1038,16 +1048,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 20:40:56 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 28",
-      "description": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 14:09:02 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1383,16 +1383,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "More than 178,000 immigrants have suddenly fled or been deported from South Africa. Here's why",
-      "description": "A crackdown on undocumented migration and sometimes violent anti-immigration protests have resulted in more than 178,000 immigrants leaving South Africa in recent months",
-      "url": "https://abcnews.com/International/wireStory/178000-immigrants-suddenly-fled-deported-south-africa-135482769",
-      "published": "Sat, 08 Aug 2026 12:56:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
       "description": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
       "url": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
@@ -1598,6 +1588,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 23:23:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+      "description": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 21:28:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
