@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T15:08:51.675069Z",
+  "last_updated": "2026-08-08T15:42:44.852470Z",
   "event_count": 217,
   "events": [
     {
@@ -160,6 +160,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+      "description": "In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 14:58:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -593,16 +603,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
-      "description": "Catania international airport services the eastern part of Sicily, one of Italy's most popular tourist destinations.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 10:10:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -650,6 +650,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 15:15:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "description": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "published": "Sat, 08 Aug 2026 15:01:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -1173,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Young activists in the Maldives confront climate threats to their island nation",
-      "description": "A new wave of young activists in the Maldives is tackling issues like coastal erosion and plastic pollution in the Indian Ocean island nation",
-      "url": "https://abcnews.com/International/wireStory/young-activists-maldives-confront-climate-threats-island-nation-135444248",
-      "published": "Fri, 07 Aug 2026 04:12:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1248,6 +1258,16 @@
       "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 7 Aug 2026 19:34:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out",
+      "description": "Former U.S. President Joe Biden’s prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues",
+      "url": "https://abcnews.com/International/wireStory/hunter-biden-fathers-prostate-cancer-causing-pain-continues-135480251",
+      "published": "Sat, 08 Aug 2026 11:20:34 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1333,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Why Mexican avocado exports to the US have once again been stopped",
-      "description": "Mexico has sent 1,500 more troops to Michoacan after the U.S. suspended avocado inspections due to a threat",
-      "url": "https://abcnews.com/International/wireStory/mexican-avocado-exports-us-stopped-135438180",
-      "published": "Thu, 06 Aug 2026 23:46:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1358,16 +1368,6 @@
       "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "published": "Thu, 06 Aug 2026 15:41:29 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "More than a decade after 43 students vanished in Mexico, ex-governor arrested, accused of cover-up",
-      "description": "Mexican authorities have arrested the former governor of the southern state Guerrero for his alleged involvement in the disappearance of 43 students in 2014",
-      "url": "https://abcnews.com/International/wireStory/decade-after-43-students-vanished-mexico-governor-arrested-135437342",
-      "published": "Thu, 06 Aug 2026 23:22:38 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1603,16 +1603,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 18:53:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
       "description": "However, UEFA says a 'departure payment' was made to a female employee when Infantino was the body's general-secretary.",
       "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
@@ -1667,16 +1657,6 @@
       "description": "Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.",
       "url": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
       "published": "Sat, 08 Aug 2026 10:13:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
-      "description": "Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
-      "published": "Sat, 08 Aug 2026 09:38:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1816,7 +1796,7 @@
       "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
       "description": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
-      "published": "2026-08-08T14:59:50.108Z",
+      "published": "2026-08-08T15:37:40.496Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1978,6 +1958,26 @@
       "url": "https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253",
       "published": "Thu, 06 Aug 2026 07:48:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Spain imposes border checks on Italian travelers in tit-for-tat move over Ceuta migrants row",
+      "description": "The diplomatic spat between Spain and Italy over migrant arrivals at Ceuta has escalated after Madrid announced border controls on Italian travelers after Rome had earlier imposed similar sanctions on visitors from Spain",
+      "url": "https://abcnews.com/International/wireStory/spain-imposes-border-checks-italian-travelers-tit-tat-135479832",
+      "published": "Sat, 08 Aug 2026 11:20:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Lebanon detains Assad-era general and weighs his handover to Syria over alleged crimes",
+      "description": "Lebanese authorities have detained a former senior Syrian military officer who commanded an army division under ousted President Bashar Assad",
+      "url": "https://abcnews.com/International/wireStory/lebanon-detains-assad-era-general-weighs-handover-syria-135479652",
+      "published": "Sat, 08 Aug 2026 11:13:44 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
