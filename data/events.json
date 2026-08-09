@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T16:09:26.816693Z",
+  "last_updated": "2026-08-09T16:45:35.300337Z",
   "event_count": 218,
   "events": [
     {
@@ -233,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "As the world rediscovers 'The Odyssey,' disabled actors in Greece explore the pain of war",
-      "description": "As Christopher Nolan’s “The Odyssey” renews global interest in Homer’s epic, Greece’s ancient Epidaurus theater is presenting another side of the Trojan War",
-      "url": "https://abcnews.com/International/wireStory/world-rediscovers-odyssey-disabled-actors-greece-explore-pain-135495244",
-      "published": "Sun, 09 Aug 2026 04:37:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Ceuta migrant surge exposes Spain-Morocco tensions as Islamist groups reportedly seek to exploit border crisis",
       "description": "Spain reports 72 deaths as the Ceuta migrant crisis deepens, with intelligence officials saying Morocco allowed border controls to gradually relax.",
       "url": "https://www.foxnews.com/world/ceuta-migrant-surge-exposes-spain-morocco-tensions-islamist-groups-reportedly-seek-exploit-border-crisis",
@@ -313,26 +303,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 23:59:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Indonesia closes national park in East Java as wildfire expands",
-      "description": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 13:13:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Indonesia: Mount Bromo wildfire grows, spurs park closure",
       "description": "Indonesian authorities have closed a popular national park until further notice. Strong winds and rough terrain are making it difficult for firefighters to extinguish the blaze.",
       "url": "https://www.dw.com/en/indonesia-mount-bromo-wildfire-grows-spurs-park-closure/a-78293431?maca=en-rss-en-all-1573-xml-mrss",
@@ -388,6 +358,16 @@
       "url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
       "published": "Sun, 09 Aug 2026 11:33:01 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Girl, 12, dies after Thailand school shooting, bringing the death toll to at least 8",
+      "description": "A schoolgirl has died from critical wounds after a student opened fire at a high school and his home outside Bangkok the day before, raising the death toll to at least eight",
+      "url": "https://abcnews.com/International/wireStory/families-retrieve-bodies-after-14-year-killed-7-135478375",
+      "published": "Sat, 08 Aug 2026 11:55:25 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -543,6 +523,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Denmark: Several wounded in suspected gang shooting",
+      "description": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
+      "url": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 9 Aug 2026 16:31:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Tehran's seeks withdrawal of US forces from region",
       "description": "Iran’s national security chief has outlined a list of demands for the US to meet before Tehran reopens the Strait of Hormuz. They include lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets. Separately, Iran and Oman say they are close to reaching a deal on managing the strategic waterway. Charlotte Lam reports.",
       "url": "https://www.france24.com/en/tehran-s-seeks-withdrawal-of-us-forces-from-region",
@@ -610,6 +600,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+      "description": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 16:00:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -723,10 +723,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Russia exploits Ukraine's interceptor shortage in ongoing strikes",
-      "description": "Russia and Ukraine exchanged more strikes that killed civilians on both sides.",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-exchange-overnight-strikes-leave-7-dead-135496212",
-      "published": "Sun, 09 Aug 2026 11:38:11 -0400",
+      "title": "IS-linked group kills at least 13 in Congo village",
+      "description": "Militants affiliated with the Islamic State group have attacked a village in Congo near the Uganda border, killing at least 13 people",
+      "url": "https://abcnews.com/International/wireStory/linked-group-kills-13-congo-village-135478971",
+      "published": "Sat, 08 Aug 2026 07:51:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -783,26 +783,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nagasaki marks 81 years since atomic bomb, as mayor says deterrence increases risk",
-      "description": "Nagasaki has marked the 81st anniversary of the U.S. atomic bombing",
-      "url": "https://abcnews.com/International/wireStory/nagasaki-marks-81st-atomic-bomb-anniversary-mayor-nuclear-135495971",
-      "published": "Sun, 09 Aug 2026 08:02:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
-      "description": "Turkey describes the pact as an important step toward regional stability.",
-      "url": "https://abcnews.com/International/wireStory/turkey-defense-pact-saudi-arabia-pakistan-aimed-iran-135488875",
-      "published": "Sat, 08 Aug 2026 17:14:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
       "description": "Gangs in Haiti continue to terrorise communities with the “wanton, intentional infliction of incredible pain” on people who often are just in the wrong place at the wrong time.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168090",
@@ -823,11 +803,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+      "description": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
+      "url": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 16:05:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
       "description": "Ukrainian President Volodymyr Zelenskyy is visiting Serbia, a country that has traditionally been friendly with Moscow, as Russia strikes the Kyiv region once again.",
       "url": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 8 Aug 2026 14:10:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia exploits Ukraine's interceptor shortage in ongoing attacks",
+      "description": "Ukraine's President Volodymyr Zelenskyy is in Serbia for talks on economic ties and security issues",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-kill-4-kyiv-surrounding-region-air-135478347",
+      "published": "Sat, 08 Aug 2026 12:51:35 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -923,6 +923,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Colombia's new president signals energy policy shift, backs oil and gas",
+      "description": "Colombian President Abelardo de la Espriella is pledging to revive the country's oil and gas sector and restore state-owned energy company Ecopetrol",
+      "url": "https://abcnews.com/International/wireStory/colombias-new-president-signals-energy-policy-shift-backs-135474499",
+      "published": "Fri, 07 Aug 2026 21:15:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Food prices edged up in July amid heatwaves and energy price hikes",
       "description": "The cost of key foods edged up last month as searing heatwaves and ongoing geopolitical uncertainty impacted energy prices around the world.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168096",
@@ -944,9 +954,9 @@
     },
     {
       "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "description": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+      "description": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
       "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 15:25:50 GMT",
+      "published": "Sun, 09 Aug 2026 16:09:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -963,11 +973,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 20:40:56 GMT",
-      "source": "BBC News",
+      "title": "How Israel’s occupation fuels resistance",
+      "description": "Israel is trapped in a cycle it created.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 16:19:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -997,16 +1007,6 @@
       "description": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
       "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 13:23:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
-      "description": "While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 11:59:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1173,6 +1173,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1218,16 +1228,6 @@
       "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
       "published": "Fri, 07 Aug 2026 11:41:45 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
-      "description": "Two drones have been spotted flying over a German military base in the western part of the country earlier this week, just two days after a drone carrying explosives was found at a key cargo airport",
-      "url": "https://abcnews.com/International/wireStory/2-drones-spotted-flying-german-military-base-after-135483671",
-      "published": "Sat, 08 Aug 2026 12:55:50 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1288,6 +1288,16 @@
       "url": "https://www.dw.com/en/india-ex-education-minister-pradhan-says-gen-z-misled/live-78293276?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 9 Aug 2026 08:21:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "70 years after South Africa’s women challenged apartheid, some say freedom incomplete",
+      "description": "South Africa is commemorating 70 years since the Women's March of 1956, when around 20,000 women protested apartheid laws in Pretoria",
+      "url": "https://abcnews.com/International/wireStory/70-years-after-south-africas-women-challenged-apartheid-135476190",
+      "published": "Sat, 08 Aug 2026 00:11:56 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1473,6 +1483,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Africa wants more homegrown solar to boost self-reliance, but China's shadow remains",
+      "description": "Africa's largest economies are ramping up efforts to develop their domestic solar manufacturing capacity",
+      "url": "https://abcnews.com/International/wireStory/africa-homegrown-solar-boost-reliance-chinas-shadow-remains-135477288",
+      "published": "Sat, 08 Aug 2026 02:25:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Florida men wielding hatchet and machete clash in Publix parking lot, police say",
       "description": "Two Florida men armed with a machete and hatchet allegedly fought over a love interest in a Panama City Publix parking lot, landing both in the hospital.",
       "url": "https://www.foxnews.com/us/florida-men-wielding-hatchet-machete-clash-publix-parking-lot-police-say",
@@ -1533,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Puerto Rico rations water supplies due to intense drought",
+      "description": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 16:43:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -1548,6 +1578,26 @@
       "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 16:13:45 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+      "description": "Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.",
+      "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 16:08:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+      "description": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+      "published": "Sun, 09 Aug 2026 16:07:23 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1607,36 +1657,6 @@
       "description": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
       "published": "Sun, 09 Aug 2026 13:15:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
-      "description": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 12:51:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "La Liga: Five key talking points heading into the 2026-2027 season",
-      "description": "Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.",
-      "url": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 12:42:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Nigeria mass weddings ease financial burden for couples",
-      "description": "For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss",
-      "published": "Sun, 09 Aug 2026 12:07:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1756,7 +1776,7 @@
       "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
       "description": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
-      "published": "2026-08-09T14:55:42.545Z",
+      "published": "2026-08-09T16:27:41.560Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1824,7 +1844,7 @@
     },
     {
       "title": "German kidnapped in Niger released — Algeria",
-      "description": "Algeria says a German citizen has been released after a \"criminal armed group\" kidnapped him in Niger for two weeks ago.",
+      "description": "Algeria says a German citizen has been released after a \"criminal armed group\" kidnapped him in Niger two weeks ago.",
       "url": "https://www.dw.com/en/german-kidnapped-in-niger-released-algeria/a-78297237?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 9 Aug 2026 16:04:00 GMT",
       "source": "Deutsche Welle",
@@ -1883,18 +1903,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Bulgaria: Unknown drone explodes near Romanian border",
-      "description": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said. Bulgaria summoned the Ukrainian ambassador for consultations.",
-      "url": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 8 Aug 2026 11:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Syria, Russia agree to end military use of key Mediterranean bases",
-      "description": "Syria and Russia have agreed to end Moscow’s use of two strategic Mediterranean bases as military outposts, Syria's foreign ministry said Sunday. Under the deal, Damascus will take control of the Hmeimem air base and part of Tartus port, while the remaining military facilities will be converted into joint training centres.",
+      "description": "Syria and Russia have agreed to end Moscow’s use of two strategic Mediterranean bases as military outposts, Syria's foreign ministry said Sunday. Under the deal, Damascus will take control of the Hmeimem air base and part of Tartous port, while the remaining military facilities will be converted into joint training centres.",
       "url": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
       "published": "Sun, 09 Aug 2026 15:58:21 GMT",
       "source": "France24",
@@ -1993,40 +2003,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases",
-      "description": "Syria and Russia have agreed to end Moscow's use of two strategic Mediterranean coastal bases as military outposts",
-      "url": "https://abcnews.com/International/wireStory/syria-agrees-deal-russia-future-2-key-mediterranean-135499105",
-      "published": "Sun, 09 Aug 2026 11:42:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Alleged Irish organized crime boss extradited to Dublin from Dubai",
-      "description": "He faces charges of running a drug smuggling and money laundering empire.",
-      "url": "https://abcnews.com/International/wireStory/alleged-irish-organized-crime-boss-daniel-kinahan-extradited-135497071",
-      "published": "Sun, 09 Aug 2026 11:38:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Myanmar rebuffs ASEAN call to free Aung San Suu Kyi, questions need for envoy",
-      "description": "Myanmar’s military-backed government has rejected ASEAN's call for the unconditional release of former leader Aung San Suu Kyi",
-      "url": "https://abcnews.com/International/wireStory/myanmar-rebuffs-asean-call-free-aung-san-suu-135495727",
-      "published": "Sun, 09 Aug 2026 04:37:46 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says",
-      "description": "European consumers can expect natural gas from Cyprus to help meet their energy needs by March 2028, Cyprus' energy minister says",
-      "url": "https://abcnews.com/International/wireStory/cyprus-natural-gas-supply-europe-half-2028-minister-135495626",
-      "published": "Sun, 09 Aug 2026 04:40:05 -0400",
+      "title": "High divers take the plunge in the Seine in a new test of Paris’ reclaimed river",
+      "description": "Paris is hosting its first high-diving competition in the Seine, with athletes diving from a 20-meter platform near the Eiffel Tower",
+      "url": "https://abcnews.com/International/wireStory/high-divers-plunge-seine-new-test-paris-reclaimed-135477400",
+      "published": "Sat, 08 Aug 2026 03:39:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2043,20 +2023,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "A Tibetan cooperative keeps a centuries-old weaving tradition alive",
-      "description": "Artisans at a weaving cooperative in Tibet are working to preserve Pulu, a traditional wool fabric that has been used on the Tibetan plateau for centuries",
-      "url": "https://abcnews.com/International/wireStory/tibetan-cooperative-centuries-weaving-tradition-alive-135494418",
-      "published": "Sat, 08 Aug 2026 23:09:06 -0400",
+      "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says",
+      "description": "European consumers can expect natural gas from Cyprus to help meet their energy needs by March 2028, Cyprus' energy minister says",
+      "url": "https://abcnews.com/International/wireStory/cyprus-natural-gas-supply-europe-half-2028-minister-135495626",
+      "published": "Sun, 09 Aug 2026 04:40:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Spain imposes border checks on Italian travelers in tit-for-tat move over Ceuta migrants row",
-      "description": "The diplomatic spat between Spain and Italy over migrant arrivals at Ceuta has escalated after Madrid announced border controls on Italian travelers after Rome had earlier imposed similar sanctions on visitors from Spain",
-      "url": "https://abcnews.com/International/wireStory/spain-imposes-border-checks-italian-travelers-tit-tat-135479832",
-      "published": "Sat, 08 Aug 2026 11:20:24 -0400",
+      "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases",
+      "description": "Syria and Russia have agreed to end Moscow's use of two strategic Mediterranean coastal bases as military outposts",
+      "url": "https://abcnews.com/International/wireStory/syria-agrees-deal-russia-future-2-key-mediterranean-135499105",
+      "published": "Sun, 09 Aug 2026 11:42:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Eastern China braces for Typhoon Dolphin, shutting schools and tourist activities",
+      "description": "Authorities in eastern China are shutting schools and tourist sites as Typhoon Dolphin heads for the coast",
+      "url": "https://abcnews.com/International/wireStory/eastern-china-braces-typhoon-dolphin-shutting-schools-tourist-135475911",
+      "published": "Sat, 08 Aug 2026 16:51:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Myanmar rebuffs ASEAN call to free Aung San Suu Kyi, questions need for envoy",
+      "description": "Myanmar’s military-backed government has rejected ASEAN's call for the unconditional release of former leader Aung San Suu Kyi",
+      "url": "https://abcnews.com/International/wireStory/myanmar-rebuffs-asean-call-free-aung-san-suu-135495727",
+      "published": "Sun, 09 Aug 2026 04:37:46 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
