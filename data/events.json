@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T10:56:27.633326Z",
+  "last_updated": "2026-08-10T11:26:11.356862Z",
   "event_count": 200,
   "events": [
     {
@@ -258,6 +258,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 08 Aug 2026 23:59:23 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+      "description": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+      "published": "Mon, 10 Aug 2026 10:55:38 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -1143,16 +1153,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-      "description": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "published": "Mon, 10 Aug 2026 03:48:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "description": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials fear, as confirmed cases pass 4,000. Africa’s public health watchdog said the time for incremental action was over as they announced plans to scale up every aspect of the response and go “door to door” looking for patients. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
@@ -1733,6 +1733,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
+      "description": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured Swiss executive is counting the numbers and could be hanging by a thread.",
+      "url": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 10 Aug 2026 11:10:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Type 2 diabetes in young women increasingly common",
       "description": "British researchers say rates of type 2 diabetes are growing most among women under 40. The disease is often underdiagnosed in women or diagnosed too late to reverse the condition's progression.",
       "url": "https://www.dw.com/en/type-2-diabetes-in-young-women-increasingly-common/a-78251712?maca=en-rss-en-all-1573-xml-mrss",
@@ -1767,16 +1777,6 @@
       "description": "Israeli Prime Minister Benjamin Netanyahu announced Israel's rejection of US President Donald Trump's 15-point plan for Gaza.",
       "url": "https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 9 Aug 2026 12:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Study: Obesity 'bigger cancer risk' than previously thought",
-      "description": "A new study has found that being significantly overweight could be responsible for more cases of cancer than previously known. Abdominal fat, in particular, increases the risk of cancer — especially among women.",
-      "url": "https://www.dw.com/en/study-obesity-bigger-cancer-risk-than-previously-thought/a-78291063?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 9 Aug 2026 09:00:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -1893,6 +1893,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "OnlyFans model Courtney Clenney settled civil suit before reaching plea deal in boyfriend's killing",
+      "description": "Courtney Clenney settled civil claims from Christian Obumseli's family months before her murder case plea deal, with the broader lawsuit closing days prior.",
+      "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-settled-civil-suit-before-reaching-plea-deal-boyfriends-killing",
+      "published": "Mon, 10 Aug 2026 07:00:27 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
       "description": "Sadie M. Flores faces grooming a minor charges under a Kentucky law that took effect just weeks before her arrest at Graves County Middle School.",
       "url": "https://www.foxnews.com/us/kentucky-middle-school-teacher-accused-crossing-line-student-arrested-under-new-anti-grooming-law",
@@ -1957,16 +1967,6 @@
       "description": "Two St. Pete Beach business owners allegedly spread 1,500 toxic mothballs on sand to stop black skimmers from nesting and are facing felony charges.",
       "url": "https://www.foxnews.com/us/florida-business-owners-allegedly-scattered-1500-mothballs-beach-send-endangered-birds-packing",
       "published": "Sat, 08 Aug 2026 14:00:29 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cornell bans bear butchering after students carved up creature in dorm kitchen",
-      "description": "Cornell University now bans wild game processing in dorm kitchens after two students went viral for butchering a black bear in Ganędagǫ Hall.",
-      "url": "https://www.foxnews.com/us/cornell-bans-bear-butchering-students-carved-creature-dorm-kitchen",
-      "published": "Sat, 08 Aug 2026 13:30:22 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
