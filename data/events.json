@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:49:00.860105Z",
+  "last_updated": "2026-08-13T19:24:53.887624Z",
   "event_count": 223,
   "events": [
     {
@@ -220,16 +220,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Rebuilding Aleppo: Syria's war-torn economic capital enjoys gradual rebirth",
-      "description": "Syria's economic capital Aleppo was left largely in ruins by the fighting that raged there between regime and rebel forces from 2012 to 2016. A 2023 earthquake also caused severe damage to the old city. But reconstruction is now well underway, in particular of Aleppo's treasured historic monuments.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260813-rebuilding-aleppo-syria-s-war-torn-economic-capital-enjoys-gradual-rebirth",
-      "published": "Thu, 13 Aug 2026 13:02:33 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -636,7 +626,17 @@
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
       "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "published": "Thu, 13 Aug 2026 19:20:58 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "description": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 19:08:49 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -898,6 +898,16 @@
       "url": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
       "published": "Wed, 12 Aug 2026 08:36:30 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Eritrea: a rising power along a global shipping artery",
+      "description": "Amid growing tensions and security risks in the Horn of Africa, Eritrea, with its strategically important coastal points on the Red Sea, is emerging as an important player in the region.",
+      "url": "https://www.dw.com/en/eritrea-a-rising-power-along-a-global-shipping-artery/a-78335316?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 13 Aug 2026 11:44:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1213,6 +1223,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US disputes reports of trying conditions on carrier in Gulf",
+      "description": "Defense Secretary Pete Hegseth called reports of poor conditions and mental health strain aboard the USS Abraham Linclon aircrafter carrier in the Middle East \"completely misrepresented.\" Senators want an investigation.",
+      "url": "https://www.dw.com/en/us-disputes-reports-of-trying-conditions-on-carrier-in-gulf/a-78359084?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 13 Aug 2026 19:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "North Korea launches missile amid declaration it must possess capability to counter strikes that would make enemy 'survival impossible'",
       "description": "North Korea has declared it must possess the capability to counter any potential enemy moves with retaliatory strikes that would make their \"survival and recovery impossible\", according to reports.",
       "url": "https://news.sky.com/story/north-korea-launches-missile-amid-declaration-it-must-possess-capability-to-counter-strikes-that-would-make-enemy-survival-impossible-13572179",
@@ -1290,16 +1310,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:05:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1506,7 +1516,7 @@
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 18:36:02 GMT",
+      "published": "Thu, 13 Aug 2026 19:07:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1886,7 +1896,7 @@
       "title": "M 3.8 - 4 km N of San Leandro, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-13 15:30:04 UTC 2026-08-13 15:30:04 UTC at epicenter Location 37.759°N 122.151°W Depth 5.15 km (3.20 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557",
-      "published": "2026-08-13T18:45:51.823Z",
+      "published": "2026-08-13T19:22:28.167Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1953,16 +1963,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Eritrea: Rising political weight along key shipping arteries",
-      "description": "Amid growing tensions and security risks in the Horn of Africa, Eritrea, with its strategically important coastal points on the Red Sea, is emerging as an important player in the region.",
-      "url": "https://www.dw.com/en/eritrea-rising-political-weight-along-key-shipping-arteries/a-78335316?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 13 Aug 2026 11:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Germany: Buildings evacuated over suspected explosive",
       "description": "Rail traffic was suspended in a region of Bavaria and authorities evacuated buildings around a train station after a suspicious object was found on the tracks. Police later confirmed it did not contain explosives.",
       "url": "https://www.dw.com/en/germany-buildings-evacuated-over-suspected-explosive/a-78351636?maca=en-rss-en-all-1573-xml-mrss",
@@ -1977,16 +1977,6 @@
       "description": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position.",
       "url": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 13 Aug 2026 07:15:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mozart tribute ends on sour note after mass figurine theft",
-      "description": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mass theft forced organizers to end the outdoor display early.",
-      "url": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 12 Aug 2026 16:11:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2017,6 +2007,16 @@
       "description": "Zambians went to the polls Thursday in an election focused on economic hardships in the copper-rich nation, where President Hakainde Hichilema is seeking a second term.",
       "url": "https://www.france24.com/en/video/20260813-zambia-voters-weigh-hichilema-s-economic-record",
       "published": "Thu, 13 Aug 2026 14:47:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "'If you can, move!' say Rome's viral dancing seniors",
+      "description": "An elderly dancing duo has become a viral sensation in Italy after one of their street performances was shared online by a social media savvy tour operator. They have won praise from Rome's mayor and have struck a chord with many in Italy – whose population is the oldest in the European Union.",
+      "url": "https://www.france24.com/en/europe/20260813-if-you-can-move-say-rome-s-viral-dancing-seniors",
+      "published": "Thu, 13 Aug 2026 13:55:15 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
