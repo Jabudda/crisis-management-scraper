@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T15:23:04.562053Z",
-  "event_count": 222,
+  "last_updated": "2026-08-13T15:49:17.780539Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Colombia quake leaves more than 110 dead – as it happened",
@@ -40,6 +40,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which erupted more than a decade ago and killed more than 11,000 people. Jean Kaseya, the director general of Africa CDC, said a death had been recorded in the previously unaffected Bas-Uele province. Kaseya said the man had travelled from Isiro, in Haut-Uele province, to Buta, the capital of Bas-Uele, where he died. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "published": "Thu, 13 Aug 2026 15:17:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -183,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "description": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council holds an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between the Yemeni militia and the government. UN News app users can follow our live coverage here.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "published": "Thu, 13 Aug 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
       "description": "Videos show rescue workers combing through rubble as more than 3,000 people remain missing on Tuesday after a 7.4-magnitude earthquake in Colombia.",
       "url": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
@@ -283,6 +283,26 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
+      "description": "Iranian-backed Houthis have attacked a ship off Yemen, killing six people, including three Pakistani nationals",
+      "url": "https://abcnews.com/International/wireStory/pakistan-3-citizens-killed-houthi-attack-ship-developments-135570124",
+      "published": "Wed, 12 Aug 2026 09:25:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "DR Congo: Ebola is killing people before they ever reach a doctor",
+      "description": "More than 1,900 people have died in the Democratic Republic of the Congo's Ebola outbreak – and most of them never made it to a treatment centre. Between 60 and 70 per cent of deaths are happening in communities far from care, a gap that is now central to the World Health Organization's response.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168105",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Russian strike on Ukraine passenger train kills 2",
       "description": "A Russian drone attack on a train carrying hundreds of passengers in southern Ukraine killed two people on Thursday. Our correspondent Emmanuelle Chaze tells us more.",
       "url": "https://www.france24.com/en/video/20260813-russian-strike-on-ukraine-passenger-train-kills-2",
@@ -308,6 +328,26 @@
       "url": "https://www.france24.com/en/video/20260813-earthquake-in-colombia-the-government-didn-t-accept-the-help-from-foreign-rescue-teams",
       "published": "Thu, 13 Aug 2026 11:51:13 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Fastest-growing Ebola outbreak spreads to previously unaffected area",
+      "description": "DR Congo's Ebola outbreak has spread to a sixth province after a death was recorded in the previously unaffected Bas-Uele province.",
+      "url": "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638",
+      "published": "Thu, 13 Aug 2026 15:31:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock",
+      "description": "The search for life in the rubble of Colombia’s powerful earthquake is growing more desperate as search teams push up against a key time threshold to locate survivors before it's too late",
+      "url": "https://abcnews.com/International/wireStory/earthquake-response-strains-colombias-new-government-rescuers-race-135567502",
+      "published": "Thu, 13 Aug 2026 01:52:43 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -433,16 +473,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 22:41:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
       "description": "A quarter of a century after the Ohrid Framework Agreement ended North Macedonia's 2001 conflict, analysts warn that peace between ethnic communities remains fragile.",
       "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-all-1573-xml-mrss",
@@ -463,10 +493,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Canadian wildfire that forced 20,000 to flee may signal ‘new normal’",
-      "description": "British Columbia Premier David Eby says a fast-moving wildfire in western Canada that forced more than 20,000 people from their homes may signal a “new normal” after outpacing official models and giving some residents little time to evacuate",
-      "url": "https://abcnews.com/International/wireStory/canadian-wildfire-forced-20000-flee-signal-new-normal-135596515",
-      "published": "Thu, 13 Aug 2026 04:09:56 -0400",
+      "title": "Kosovo begins excavations at newly found mass graves tied to 1998-99 war missing",
+      "description": "Erblin Ademi has long lost hope that his father, who went missing nearly 30 years ago, could still be alive",
+      "url": "https://abcnews.com/International/wireStory/kosovo-begins-excavations-newly-found-mass-graves-tied-135567592",
+      "published": "Wed, 12 Aug 2026 04:57:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Thai government orders gun control review after 2 deadly shootings near Bangkok",
+      "description": "The Thai government has pledged to tighten gun controls and crack down on illegal firearms after two deadly shootings near Bangkok intensified calls for tougher enforcement",
+      "url": "https://abcnews.com/International/wireStory/thai-government-orders-gun-control-review-after-2-135568615",
+      "published": "Wed, 12 Aug 2026 09:22:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -588,16 +628,6 @@
       "url": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 12 Aug 2026 18:37:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "At least 44 dead after ferry capsizes in Zimbabwean lake",
-      "description": "The number of deaths after a ferry capsized on a lake in Zimbabwe has risen again to 44, officials have said.",
-      "url": "https://news.sky.com/story/at-least-37-dead-after-ferry-capsizes-in-zimbabwes-lake-kariba-13572036",
-      "published": "Tue, 11 Aug 2026 17:58:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -753,36 +783,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Romania begins shutdown of nuclear plant's 2nd reactor amid low water levels on Danube River",
-      "description": "Romania has begun a controlled shutdown of the second reactor at the Cernavoda nuclear power plant",
-      "url": "https://abcnews.com/International/wireStory/romania-begins-shutdown-nuclear-plants-2nd-reactor-amid-135604695",
-      "published": "Thu, 13 Aug 2026 08:27:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Hegseth says Colombia's new president has requested US collaboration in anti-drug efforts",
-      "description": "U_S_ Defense Secretary Pete Hegseth says the government of Colombian President Abelardo de la Espriella has requested U_S_ collaboration in joint military operations in Colombia to combat “narco-terrorism.”",
-      "url": "https://abcnews.com/International/wireStory/hegseth-colombias-new-president-requested-us-collaboration-anti-135596065",
-      "published": "Wed, 12 Aug 2026 23:32:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Hungary's government plans interventions on Danube River to keep nuclear plant running",
-      "description": "Hungary is taking steps to raise the Danube River's level to keep its only nuclear power plant running",
-      "url": "https://abcnews.com/International/wireStory/hungarys-government-plans-interventions-danube-river-nuclear-plant-135578854",
-      "published": "Wed, 12 Aug 2026 10:23:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "WHO chief voices concern over Trump Administration’s executive order on vaccines",
       "description": "The head of the World Health Organization (WHO) on Wednesday upheld the safety of childhood vaccines in response to a new directive from the White House to overhaul the recommended inoculation schedule.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168124",
@@ -811,6 +811,16 @@
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
+    },
+    {
+      "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
+      "description": "In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
+      "published": "Thu, 13 Aug 2026 15:07:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -863,10 +873,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Body of Pakistani climber recovered from Broad Peak 2 weeks after avalanche killed 10",
-      "description": "Officials in Pakistan say a team of local volunteers has recovered the body of a Pakistani climber who was among 10 mountaineers killed in an avalanche on Broad Peak nearly two weeks ago",
-      "url": "https://abcnews.com/International/wireStory/body-pakistani-climber-recovered-broad-peak-2-weeks-135606357",
-      "published": "Thu, 13 Aug 2026 08:02:11 -0400",
+      "title": "Drone strike in western Libya torches a power substation, triggering outages",
+      "description": "A drone strike has ignited a fire at a power plant in western Libya, knocking the facility out of service",
+      "url": "https://abcnews.com/International/wireStory/drone-strike-western-libya-torches-power-substation-triggering-135569481",
+      "published": "Wed, 12 Aug 2026 05:54:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1053,17 +1063,27 @@
       "severity_level": "Medium"
     },
     {
-      "title": "From black boots to pastel suits, Italian premier's wardrobe evolves with her politics",
-      "description": "Italian Prime Minister Giorgia Meloni’s fashion has evolved with her politics",
-      "url": "https://abcnews.com/International/wireStory/black-boots-pastel-suits-italian-premiers-wardrobe-evolves-135601089",
-      "published": "Thu, 13 Aug 2026 05:06:36 -0400",
+      "title": "Tropical storm hits Tokyo area, leaving thousands without power before moving west",
+      "description": "Business in the Tokyo area was almost back to normal after a tropical storm weakened to a depression and left Japan",
+      "url": "https://abcnews.com/International/wireStory/tropical-storm-hits-tokyo-area-leaving-thousands-power-135563072",
+      "published": "Wed, 12 Aug 2026 04:02:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
+      "title": "Lebanon passes a controversial general amnesty law",
+      "description": "Lebanon's parliament has passed a controversial general amnesty law, following the abolition of the death penalty",
+      "url": "https://abcnews.com/International/wireStory/lebanon-passes-controversial-general-amnesty-law-135577268",
+      "published": "Wed, 12 Aug 2026 10:32:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low: OHCHR",
       "description": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
       "published": "Thu, 13 Aug 2026 12:00:00 +0000",
@@ -1183,30 +1203,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "description": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 September, Spain’s interior ministry said in a statement. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "published": "Fri, 07 Aug 2026 21:44:38 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
       "description": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
       "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
       "published": "Wed, 12 Aug 2026 09:38:58 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "description": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "published": "Wed, 12 Aug 2026 06:47:30 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
@@ -1323,6 +1323,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "description": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+      "published": "Thu, 13 Aug 2026 11:18:27 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
       "description": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
       "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
@@ -1353,7 +1363,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Heatwave: European rivers face historic  drought",
+      "title": "Heatwave: European rivers face historic drought",
       "description": "From the Loire to the Danube, via the Rhine and the Po, European rivers are facing exceptionally low water levels. After a start to the summer marked by record temperatures, the drought is threatening river transport, energy production, ecosystems and water supplies.",
       "url": "https://www.france24.com/en/video/20260813-heatwave-european-rivers-face-historic-drought",
       "published": "Thu, 13 Aug 2026 15:17:34 GMT",
@@ -1378,6 +1388,16 @@
       "url": "https://www.france24.com/en/video/20260813-putin-visits-disputed-kuril-islands-1",
       "published": "Thu, 13 Aug 2026 14:39:19 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels",
+      "description": "Russian President Vladimir Putin has threatened retaliation against Western seizures of Russian commercial vessels, calling them \"piracy.\"",
+      "url": "https://abcnews.com/International/wireStory/putin-threatens-retaliation-western-seizures-russian-commercial-vessels-135570787",
+      "published": "Wed, 12 Aug 2026 21:54:03 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1448,6 +1468,16 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ex-Chinese Premier Zhu Rongji, architect of growth, dies of illness at 98",
+      "description": "Former Chinese Premier Zhu Rongji has died, according to state media",
+      "url": "https://abcnews.com/International/wireStory/chinese-premier-zhu-rongji-architect-growth-dies-illness-135570888",
+      "published": "Wed, 12 Aug 2026 23:37:56 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1546,7 +1576,17 @@
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 14:58:09 GMT",
+      "published": "Thu, 13 Aug 2026 15:40:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 15:30:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 2,
@@ -1563,20 +1603,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Human Rights Watch says the Taliban detained 6 staff of a women’s and children’s rights group",
-      "description": "Human Rights Watch says Taliban authorities in Afghanistan have forcibly disappeared six staff members from a local organization focused on women's and children's rights",
-      "url": "https://abcnews.com/International/wireStory/human-rights-watch-taliban-detained-6-staff-womens-135605256",
-      "published": "Thu, 13 Aug 2026 08:27:27 -0400",
+      "title": "Nigel Farage faces off against Count Binface in special election denounced as a stunt",
+      "description": "A special election is taking place Thursday in the seaside town of Clacton, just east of London",
+      "url": "https://abcnews.com/International/wireStory/nigel-farage-faces-off-count-binface-special-election-135600658",
+      "published": "Thu, 13 Aug 2026 07:37:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
     },
     {
-      "title": "Nigel Farage faces off against Count Binface in special election denounced as a stunt",
-      "description": "A special election is taking place Thursday in the seaside town of Clacton, just east of London",
-      "url": "https://abcnews.com/International/wireStory/nigel-farage-faces-off-count-binface-special-election-135600658",
-      "published": "Thu, 13 Aug 2026 07:37:59 -0400",
+      "title": "Human Rights Watch says the Taliban detained 6 staff of a women’s and children’s rights group",
+      "description": "Human Rights Watch says Taliban authorities in Afghanistan have forcibly disappeared six staff members from a local organization focused on women's and children's rights",
+      "url": "https://abcnews.com/International/wireStory/human-rights-watch-taliban-detained-6-staff-womens-135605256",
+      "published": "Thu, 13 Aug 2026 08:27:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1707,16 +1747,6 @@
       "description": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
       "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
       "published": "Thu, 13 Aug 2026 11:56:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russell Westbrook announces NBA retirement after 18 seasons",
-      "description": "Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss",
-      "published": "Thu, 13 Aug 2026 10:25:39 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1863,10 +1893,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "M 3.9 - 4 km N of San Leandro, CA",
+      "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-13 15:30:04 UTC 2026-08-13 15:30:04 UTC at epicenter Location 37.759°N 122.151°W Depth 5.15 km (3.20 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557",
+      "published": "2026-08-13T15:47:27.751Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "M 7.4 - 5 km S of San José del Palmar, Colombia",
       "description": "PAGER - RED ShakeMap - VIII DYFI? - VIII Time 2026-08-10 12:34:28 UTC 2026-08-10 12:34:28 UTC at epicenter Location 4.844°N 76.242°W Depth 110.29 km (68.53 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-      "published": "2026-08-13T14:24:50.392Z",
+      "published": "2026-08-13T15:43:32.240Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2033,6 +2073,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Luxon survives another leadership vote months before New Zealand's election",
+      "description": "New Zealand Prime Minister Christopher Luxon has survived a leadership vote among his party’s lawmakers less than three months before an election",
+      "url": "https://abcnews.com/International/wireStory/luxon-survives-leadership-vote-months-new-zealands-election-135563644",
+      "published": "Wed, 12 Aug 2026 22:17:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Mini-Mozart heist blights anniversary tribute as thieves make off with 210 statuettes",
+      "description": "More than 200 gold statuettes of Wolfgang Amadeus Mozart have disappeared from Salzburg, officials said Wednesday",
+      "url": "https://abcnews.com/International/wireStory/mini-mozart-heist-blights-anniversary-tribute-thieves-make-135578166",
+      "published": "Wed, 12 Aug 2026 10:30:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Australian jury convicts former Catholic bishop of sexually abusing 2 men",
       "description": "An Australian jury has convicted former Catholic bishop Christopher Saunders of sexually abusing two young Indigenous men",
       "url": "https://abcnews.com/International/wireStory/australian-jury-convicts-former-catholic-bishop-sexually-abusing-135603815",
@@ -2043,60 +2103,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Japan's Crown Prince Akishino has 'mixed feelings' about male-only succession law",
-      "description": "Japanese Crown Prince says he has “mixed feelings” about the government’s revision to the Imperial House Law that insists only men can become emperor",
-      "url": "https://abcnews.com/International/wireStory/japans-crown-prince-akishino-mixed-feelings-male-imperial-135602863",
-      "published": "Thu, 13 Aug 2026 04:10:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
-      "description": "A drought that is slamming Europe this summer is hitting farmers across Europe hard",
-      "url": "https://abcnews.com/International/wireStory/punishing-european-drought-shrivels-crops-dutch-potatoes-bosnian-135602324",
-      "published": "Thu, 13 Aug 2026 04:09:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zambians cast ballots in a presidential election that tests incumbent's economic reforms",
-      "description": "Zambians have begun casting their votes in a presidential election that will test whether President Hakainde Hichilema’s economic reforms were enough to overcome widespread frustration over the cost of living",
-      "url": "https://abcnews.com/International/wireStory/zambians-cast-ballots-presidential-election-tests-incumbents-economic-135601301",
-      "published": "Thu, 13 Aug 2026 01:49:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Britain to swelter again as it looks poised for a record hot summer",
-      "description": "Large parts of western Europe are sweltering as Britain and France experience their fifth heat wave of the summer",
-      "url": "https://abcnews.com/International/wireStory/britain-swelter-poised-record-hot-summer-135601287",
-      "published": "Thu, 13 Aug 2026 06:42:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ecuador's police seize a cocaine shipment with stickers of Norway's soccer star Erling Haaland",
-      "description": "Police in Ecuador have seized a cocaine shipment featuring soccer star Erling Haaland's face on the packaging",
-      "url": "https://abcnews.com/International/wireStory/ecuadors-police-seize-cocaine-shipment-stickers-norways-soccer-135596418",
-      "published": "Wed, 12 Aug 2026 23:32:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Officials say US forces on track to complete Iraq pullout by Sept. 30",
-      "description": "The U.S. military is on track to pull all its forces out of Iraq by the end of September, marking the end of a presence that started in 2003",
-      "url": "https://abcnews.com/International/wireStory/officials-us-forces-track-complete-iraq-pullout-sept-135584899",
-      "published": "Wed, 12 Aug 2026 15:07:17 -0400",
+      "title": "South Africa seeks reimbursement from African countries for migrant repatriations",
+      "description": "South Africa is asking several African governments to reimburse it for repatriating over 80,000 immigrants",
+      "url": "https://abcnews.com/International/wireStory/south-africa-seeks-reimbursement-african-countries-migrant-repatriations-135571072",
+      "published": "Wed, 12 Aug 2026 07:30:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
