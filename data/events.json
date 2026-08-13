@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:20:08.205623Z",
+  "last_updated": "2026-08-13T16:48:50.772206Z",
   "event_count": 223,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which erupted more than a decade ago and killed more than 11,000 people. Jean Kaseya, the director general of Africa CDC, said a death had been recorded in the previously unaffected Bas-Uele province. Kaseya said the man had travelled from Isiro, in Haut-Uele province, to Buta, the capital of Bas-Uele, where he died. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "published": "Thu, 13 Aug 2026 15:17:13 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -223,6 +213,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "description": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "published": "Thu, 13 Aug 2026 15:17:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "description": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of buildings in major cities including Cali and Pereira. The US and Colombian geological surveys reported that a 7.4-magnitude earthquake struck at 7.34am local time on Monday, with its epicentre in the western department of Chocó. It was felt in neighbouring Venezuela, still reeling from a deadly double earthquake on 24 June. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
@@ -283,8 +283,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Poland detains Russian for 'execution' plot in Warsaw, Tusk says",
-      "description": "Poland has arrested a Russian national who was allegedly planning to kill a Ukrainian-American dual citizen in Warsaw, Prime Minister Donald Tusk said Thursday. Tusk added that this was the first time that “someone on the order of Russia” had sought to attack an American citizen on NATO territory.",
+      "title": "Russian detained over 'execution' plot against Ukrainian-American in Warsaw, Tusk says",
+      "description": "Poland arrested a Russian national who was allegedly planning to kill a Ukrainian-American dual citizen in Warsaw, Prime Minister Donald Tusk said Thursday. Tusk said it was the first time that “someone on the order of Russia” had sought to attack an American citizen on NATO territory.",
       "url": "https://www.france24.com/en/europe/20260813-poland-detains-russian-for-execution-plot-in-warsaw-tusk-says",
       "published": "Thu, 13 Aug 2026 14:54:22 GMT",
       "source": "France24",
@@ -338,6 +338,16 @@
       "url": "https://news.sky.com/story/dr-congos-fastest-growing-ebola-outbreak-reaches-sixth-province-13572638",
       "published": "Thu, 13 Aug 2026 15:31:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "An explosion strikes an ammunition plant near Rome; no injuries reported",
+      "description": "An explosion has struck an ammunition manufacturing plant near Rome, local authorities say",
+      "url": "https://abcnews.com/International/wireStory/explosion-strikes-ammunition-plant-rome-injuries-reported-135617345",
+      "published": "Thu, 13 Aug 2026 12:27:42 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -428,16 +438,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb",
       "published": "Thu, 13 Aug 2026 11:00:57 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Pakistan says troops killed 10 militants, car bomb killed 3 civilians",
-      "description": "Pakistani security forces have clashed with militants in the country’s insurgency-hit southwestern province of Balochistan, killing 10 insurgents",
-      "url": "https://abcnews.com/International/wireStory/pakistan-troops-killed-10-militants-car-bomb-killed-135584824",
-      "published": "Wed, 12 Aug 2026 15:07:44 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -773,20 +773,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Romania begins shutdown of nuclear plant's 2nd reactor amid low water levels on Danube River",
-      "description": "Romania has begun a controlled shutdown of the second reactor at the Cernavoda nuclear power plant",
-      "url": "https://abcnews.com/International/wireStory/romania-begins-shutdown-nuclear-plants-2nd-reactor-amid-135604695",
-      "published": "Thu, 13 Aug 2026 08:27:41 -0400",
+      "title": "Torrential rain near Tokyo causes flooding and paralyzes traffic, killing 1",
+      "description": "Record-breaking heavy rain has pounded eastern Japan, flooding roads and homes, paralyzing traffic, and causing power outages near Tokyo",
+      "url": "https://abcnews.com/International/wireStory/torrential-rain-tokyo-causes-flooding-paralyzes-traffic-killing-135615887",
+      "published": "Thu, 13 Aug 2026 12:30:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "Hegseth says Colombia's new president has requested US collaboration in anti-drug efforts",
-      "description": "U_S_ Defense Secretary Pete Hegseth says the government of Colombian President Abelardo de la Espriella has requested U_S_ collaboration in joint military operations in Colombia to combat “narco-terrorism.”",
-      "url": "https://abcnews.com/International/wireStory/hegseth-colombias-new-president-requested-us-collaboration-anti-135596065",
-      "published": "Wed, 12 Aug 2026 23:32:10 -0400",
+      "title": "Romania begins shutdown of nuclear plant's 2nd reactor amid low water levels on Danube River",
+      "description": "Romania has begun a controlled shutdown of the second reactor at the Cernavoda nuclear power plant",
+      "url": "https://abcnews.com/International/wireStory/romania-begins-shutdown-nuclear-plants-2nd-reactor-amid-135604695",
+      "published": "Thu, 13 Aug 2026 08:27:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -913,10 +913,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 03:28:56 GMT",
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 16:45:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1243,16 +1243,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Oman says the oil spill from a grounded tanker has reached its coastline",
-      "description": "Oil leaking from a tanker grounded off the coast of Oman is not only endangering a nearby island but has now also reached beaches on the Gulf Arab country’s mainland, to the north of the island",
-      "url": "https://abcnews.com/International/wireStory/oman-oil-spill-grounded-tanker-reached-coastline-135592500",
-      "published": "Wed, 12 Aug 2026 17:21:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Texas judge accused of 'doxxing' political critic faces federal lawsuit, growing push to oust him from office",
       "description": "West Texas judge Terry Johnson allegedly posted a critic's Social Security and driver's license numbers on Facebook, sparking a federal lawsuit.",
       "url": "https://www.foxnews.com/us/texas-judge-accused-doxxing-political-critic-faces-federal-lawsuit-growing-push-oust-him-from-office",
@@ -1323,20 +1313,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "description": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-      "published": "Thu, 13 Aug 2026 11:18:27 -0400",
+      "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+      "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+      "published": "Thu, 13 Aug 2026 12:40:26 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "description": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "published": "Wed, 12 Aug 2026 07:25:11 -0400",
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "description": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+      "published": "Thu, 13 Aug 2026 11:18:27 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
@@ -1393,6 +1383,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Passenger train derails and flips in southern England",
+      "description": "Paramedics and fire crews respond to a passenger train derailment in southern England",
+      "url": "https://abcnews.com/International/wireStory/passenger-train-derails-flips-southern-england-135617764",
+      "published": "Thu, 13 Aug 2026 12:30:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Alpine resorts' snowmaking equipment may be put to work fighting summer forest fires",
       "description": "Alpine resorts may have a new way to put their snowmaking equipment to work as Europe bakes through hot summers: helping douse forest fires",
       "url": "https://abcnews.com/International/wireStory/alpine-resorts-snowmaking-equipment-put-work-fighting-summer-135602041",
@@ -1443,16 +1443,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 16:14:08 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1490,6 +1480,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "description": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 16:30:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1556,7 +1556,7 @@
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:40:31 GMT",
+      "published": "Thu, 13 Aug 2026 16:20:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 2,
@@ -1866,7 +1866,7 @@
       "title": "M 3.8 - 4 km N of San Leandro, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-13 15:30:04 UTC 2026-08-13 15:30:04 UTC at epicenter Location 37.759°N 122.151°W Depth 5.15 km (3.20 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557",
-      "published": "2026-08-13T16:14:12.335Z",
+      "published": "2026-08-13T16:44:01.369Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1876,7 @@
       "title": "M 7.4 - 5 km S of San José del Palmar, Colombia",
       "description": "PAGER - RED ShakeMap - VIII DYFI? - VIII Time 2026-08-10 12:34:28 UTC 2026-08-10 12:34:28 UTC at epicenter Location 4.844°N 76.242°W Depth 110.29 km (68.53 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-      "published": "2026-08-13T15:43:32.240Z",
+      "published": "2026-08-13T16:45:33.149Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
