@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T10:49:04.679735Z",
+  "last_updated": "2026-08-14T11:17:26.313631Z",
   "event_count": 223,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ukraine war: Grain attacks raise food price fears",
+      "description": "Ukraine and Russia have been trading attacks on each other’s grain warehouses, raising concerns that the damage to food supplies could push global food prices higher. France 24 International affairs editor Philippe Turle shares more insights on the subject.",
+      "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
+      "published": "Fri, 14 Aug 2026 10:41:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -100,16 +110,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Colombia earthquake: Rescue operation enters 'final phase'",
-      "description": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds missing, and displaced tens of thousands across western Colombia.",
-      "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 13 Aug 2026 07:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -193,6 +193,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+      "description": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators \"Israeli terrorists\" after they besieged a Palestinian American's home near Nablus.",
+      "url": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
+      "published": "Fri, 14 Aug 2026 06:52:42 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Ukraine: Civilian casualties hit highest level since March 2022",
       "description": "Civilian casualties in Ukraine reached their highest monthly level in July, with more people killed and injured than at any time since March 2022, the UN Human Rights Monitoring Mission in the country, HRMMU, said in an update on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168134",
@@ -213,16 +223,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "North Korea fumes over upcoming US-South Korea military drills",
-      "description": "Pyongyang has accused the US of pushing the world 'to the brink of nuclear war'.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 05:40:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Ukraine's monthly civilian casualties highest since 2022",
       "description": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included a Russian drone strike on a train, killing two workers.",
       "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-xml-mrss",
@@ -230,6 +230,16 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "description": "At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "published": "Fri, 14 Aug 2026 10:52:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -453,6 +463,26 @@
       "severity_level": "High"
     },
     {
+      "title": "West Bank: Palestinians families trapped in homes",
+      "description": "Israeli settlers are conducting a campaign of violence and intimidation against the Palestinian village of Qusra in the occupied West Bank. Families have had their electricity and water supplies cut off, in what residents say is an attempt to force them from their homes. According to France 24 correspondent Noga Tarnopolsky, Israel’s Defence Minister is using settler violence for political propaganda, as the army could remove violent settlers but is not ordered to do so due to far-right political pressure. The situation is expected to remain unchanged, with the army standing by as armed settlers intimidate Palestinians.",
+      "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
+      "published": "Fri, 14 Aug 2026 10:43:44 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Global sea temperature reach 21 degrees amid heatwaves",
+      "description": "A large part of Europe is in the grip of its fifth heatwave of the summer, with temperatures in parts of France soaring to 40 degrees Celsius. And the extreme weather is also taking a toll on the world’s oceans: last month, average global sea temperatures reached a record high of 21 degrees Celsius. Antonia Kerrigan has the details.",
+      "url": "https://www.france24.com/en/global-sea-temperature-reach-21-degrees-amid-heatwaves",
+      "published": "Fri, 14 Aug 2026 10:37:27 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Israel sends troops to West Bank homes besieged by settlers",
       "description": "Israeli settlers are conducting a campaign of violence and intimidation against the Palestinian village of Qusra in the occupied West Bank. Families have had their electricity and water supplies cut off in what residents say is an attempt to force them from their homes. The IDF has nominally intervened and condemned the violence, but has failed to deter the settlers, who Palestinians say have long benefitted from soldiers turning a blind eye to such attacks. Meanwhile, Washington has sharply condemned the settlers’ actions. Antonia Kerrigan tells us more.",
       "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
@@ -483,16 +513,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Solar eclipse 2026: Africa witnesses partial eclipse",
-      "description": "Part of the world turned its eyes to the skies this Wednesday. The eclipse was also visible across Africa. In Tabarka, where the phenomenon was most pronounced in Tunisia, 59.06% of the Sun was obscured. The partial eclipse was also visible from Dakar and several regions of Senegal, with a maximum of around 37% of the Sun's disk obscured towards the end of the day. And to make sure they didn't miss the celestial event, our correspondents in Tunisia and Senegal also put on their special eclipse glasses.",
-      "url": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-africa-witnesses-partial-eclipse",
-      "published": "Thu, 13 Aug 2026 16:55:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning",
       "description": "Sen. Ted Cruz says he's deeply concerned about a Board of Peace provision that could cover up to $400 million in debts from Hamas' rule in Gaza.",
       "url": "https://www.foxnews.com/world/cruz-sounds-alarm-over-400m-hamas-era-provision-board-peace-plan-issues-blunt-warning",
@@ -503,11 +523,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Vote counting suspended in Zambia over alleged attacks on polling staff",
+      "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 11:04:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
       "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
       "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 18:45:51 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Seven killed in tunnel accident at Indian hydropower project",
+      "description": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+      "published": "Fri, 14 Aug 2026 10:28:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -733,16 +773,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ceremony held in Zimbabwe to pay tribute to capsized ferry victims",
-      "description": "In tonight's programme: Mourners gather in memory of the 44 people killed in Tuesday's ferry accident on Zimbabwe's Lake Kariba. Also, ballot counting has started in Zambia, where President Hakainde Hichilema is expected to win a second term. Finally, researchers believe that the rising cost of living and changing societal expectations is behind a marked drop in birthrates across North African countries.",
-      "url": "https://www.france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims",
-      "published": "Thu, 13 Aug 2026 20:23:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
       "description": "New satellite assessments show the destruction of buildings in Gaza has climbed by nearly 10 per cent since October’s faltering ceasefire between Hamas and Israeli forces aim to end the two-year war, which reduced cities to rubble and displaced more than one million people, UN agencies said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
@@ -893,16 +923,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Luigi Mangione plea buzz raises potential Paul Manafort problem for prosecutors",
-      "description": "Luigi Mangione's federal case conference Friday sparks plea deal speculation that could trigger New York's double jeopardy law and upend state charges.",
-      "url": "https://www.foxnews.com/us/luigi-mangione-plea-buzz-raises-potential-paul-manafort-problem-prosecutors",
-      "published": "Thu, 13 Aug 2026 06:00:03 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
       "description": "Iran's expected election to a United Nations committee on human rights and counterterrorism is called \"Orwellian\" by UN Watch's Hillel Neuer.",
       "url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
@@ -923,6 +943,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "description": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+      "published": "Fri, 14 Aug 2026 07:02:42 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Zambia suspends vote count after violence",
+      "description": "Zambia has halted the counting and publication of election results after violence targeting poll workers and reports of stolen ballots. The electoral commission says it will reassess the suspension within 24 hours.",
+      "url": "https://www.dw.com/en/zambia-suspends-vote-count-after-violence/a-78368601?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 14 Aug 2026 10:56:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Fireworks light skies over Pakistan’s capital as crowds celebrate Independence Day",
       "description": "Fireworks light up Pakistan’s capital as crowds celebrate the 79th anniversary of independence",
       "url": "https://abcnews.com/International/wireStory/fireworks-light-skies-pakistans-capital-crowds-celebrate-independence-135625730",
@@ -937,16 +977,6 @@
       "description": "South Africa and Ghana claim Africa's two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
       "url": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
       "published": "Fri, 14 Aug 2026 07:44:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-      "description": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
-      "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 05:08:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1033,10 +1063,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-      "description": "Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 07:11:26 +0000",
+      "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "description": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+      "published": "Fri, 14 Aug 2026 11:04:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1163,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "NJ mom’s murder shrouded in secrecy as PI says ‘never seen anything like this’ behind-closed-doors case",
+      "description": "Brooke Hanlon was found stabbed to death in her Chester, New Jersey home, and a private investigator explains why Morris County officials remain silent.",
+      "url": "https://www.foxnews.com/us/nj-moms-murder-shrouded-secrecy-pi-says-never-seen-anything-like-this-behind-closed-doors-case",
+      "published": "Fri, 14 Aug 2026 07:00:47 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Teacher busted under Kentucky's new anti-grooming law as advocate warns schools can't ignore red flags",
       "description": "Kentucky's new grooming law lands its first arrest after a school employee allegedly had an improper relationship with a minor student in Graves County.",
       "url": "https://www.foxnews.com/us/teacher-busted-kentucky-anti-grooming-law-advocate-warns-schools-cant-ignore-red-flags",
@@ -1233,13 +1273,13 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
-      "description": "Draganfly CEO Cameron Chell says drone company leaders are now primary targets as Russia and Ukraine race for battlefield AI and autonomy advantages.",
-      "url": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
-      "published": "Sun, 09 Aug 2026 17:29:47 -0400",
-      "source": "Fox News World",
+      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "description": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "published": "Fri, 14 Aug 2026 11:06:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 8,
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1333,26 +1373,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 08:15:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 07:05:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "What is a ‘ceasefire’ supposed to achieve?",
       "description": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
@@ -1388,16 +1408,6 @@
       "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
       "published": "Thu, 13 Aug 2026 11:18:27 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "India news: Parliament ends turbulent monsoon session",
-      "description": "Prime Minister Narendra Modi was present as the session marked by a fierce standoff over student protests wrapped up.",
-      "url": "https://www.dw.com/en/india-news-parliament-ends-turbulent-monsoon-session/live-78345872?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 13 Aug 2026 08:06:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1533,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-      "description": "US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 06:22:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1653,16 +1653,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lagos: Electric vehicles offer an alternative as fuel prices soar",
-      "description": "If you know Nigeria's city of Lagos, you're surely familiar with the hum of its traffic jams. But a new sound is emerging... or rather, one is disappearing. As soaring fuel prices have hit Nigeria in recent years, some motorists are turning to electric vehicles. But in Africa's biggest oil producer, the transition remains fraught with challenges.",
-      "url": "https://www.france24.com/en/video/20260813-lagos-electric-vehicles-offer-an-alternative-as-fuel-prices-soar",
-      "published": "Thu, 13 Aug 2026 16:56:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Luigi Mangione case in photos: From Brian Thompson’s killing to the courtroom",
       "description": "Photos detail the legal case against Luigi Mangione, from his suspected killing of UnitedHealthcare CEO Brian Thompson in New York City to his moves in court.",
       "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
@@ -1676,7 +1666,7 @@
       "title": "Stolen Matisse artworks recovered by police in Brazil",
       "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
       "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 08:34:19 GMT",
+      "published": "Fri, 14 Aug 2026 10:55:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1718,6 +1708,26 @@
       "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 02:13:27 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "description": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 14:56:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "description": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+      "published": "Fri, 14 Aug 2026 10:32:22 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1797,16 +1807,6 @@
       "description": "Stolen Matisse art found in Brazil",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
       "published": "Fri, 14 Aug 2026 07:47:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "description": "The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 07:07:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1963,11 +1963,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-      "description": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-      "published": "Thu, 13 Aug 2026 02:04:38 -0400",
-      "source": "NPR World News",
+      "title": "Berlin's Russian House: A hub for propaganda and espionage?",
+      "description": "The \"Russian House\" stands in the heart of Berlin. Critics have long said it is used to spread propaganda for Putin's Russia. Now, French authorities accuse it of espionage.",
+      "url": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 14 Aug 2026 10:55:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
