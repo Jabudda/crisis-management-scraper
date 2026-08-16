@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T07:14:23.132491Z",
+  "last_updated": "2026-08-16T07:42:06.046992Z",
   "event_count": 225,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Belgium battles record wildfire at German border",
+      "description": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders.",
+      "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 16 Aug 2026 02:49:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -493,6 +503,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "description": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 04:54:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
       "description": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
@@ -648,16 +668,6 @@
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
       "published": "Sat, 15 Aug 2026 04:29:20 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
-      "description": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds of people to evacuate.",
-      "url": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 16 Aug 2026 02:49:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1343,26 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "description": "Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 04:54:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Why is the latest Ebola outbreak worsening?",
-      "description": "Virus spreading in DRC faster than containment efforts.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-      "published": "Sat, 15 Aug 2026 22:00:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "description": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. The win is significant for Ontario’s premier, Doug Ford, and his government, who have long railed against Toronto’s bike lanes, blaming the protected zones for the city’s traffic ills . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
@@ -1688,6 +1678,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 05:01:13 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+      "description": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 07:04:29 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
