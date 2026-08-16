@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T19:07:35.827740Z",
+  "last_updated": "2026-08-16T19:37:26.384203Z",
   "event_count": 225,
   "events": [
     {
@@ -78,6 +78,16 @@
       "url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
       "published": "Fri, 14 Aug 2026 04:00:16 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "description": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civilian casualties, more than four years after the start of the Russian invasion.",
+      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "published": "Sun, 16 Aug 2026 19:12:31 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -357,16 +367,6 @@
       "description": "A hurricane is forecast to hit the Big Island of Hawaii this weekend, bringing heavy rain and wind. Should it make landfall, Lala would be the first hurricane to hit the island since 1871.",
       "url": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 15 Aug 2026 12:11:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "US: FDA recalls 19 million eggs over salmonella risk",
-      "description": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death.",
-      "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 15 Aug 2026 03:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
@@ -684,9 +684,9 @@
     },
     {
       "title": "Firefighters battle massive Belgian wildfire, forcing hundreds to evacuate",
-      "description": "Firefighters are battling a massive wildfire in eastern Belgium that has burned over 27 square kilometers",
+      "description": "Firefighters are battling wildfires in Belgium and Greece, with a massive blaze scorching a nature reserve in eastern Belgium",
       "url": "https://abcnews.com/International/wireStory/firefighters-battle-massive-belgian-wildfire-forcing-hundreds-evacuate-135684266",
-      "published": "Sun, 16 Aug 2026 10:42:26 -0400",
+      "published": "Sun, 16 Aug 2026 15:14:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -696,7 +696,7 @@
       "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
       "description": "Ukraine has launched hundreds of drones across Russia, killing at least six people in one of Kyiv’s largest aerial attacks of the war",
       "url": "https://abcnews.com/International/wireStory/ukraine-launches-largest-aerial-attacks-war-killing-6-135684169",
-      "published": "Sun, 16 Aug 2026 10:42:17 -0400",
+      "published": "Sun, 16 Aug 2026 14:34:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -783,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+      "description": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday.",
+      "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 16 Aug 2026 19:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
       "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt.",
       "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-xml-mrss",
@@ -803,19 +813,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-      "description": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 11:14:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Climate action doesn't seem to be a priority for Germany — despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+      "title": "In Germany, record heat meets climate action fatigue",
       "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
-      "url": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 15 Aug 2026 14:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1024,7 +1024,7 @@
     },
     {
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "description": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power. Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during the 2018-2022 presidency of his far-right predecessor, Jair Bolsonaro, whose son, Flávio Bolsonaro, Lula will face in October’s presidential election. Continue reading...",
+      "description": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power. Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro , whose son Flávio Bolsonaro will face Lula in October’s presidential election . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
       "published": "Sun, 16 Aug 2026 18:44:41 GMT",
       "source": "The Guardian World",
@@ -1653,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "description": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 19:18:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
       "description": "Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
@@ -1993,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "WAFCON: Malawi and Cameroon face off for historic first crown",
-      "description": "Malawi and Cameroon will face off this Sunday in Rabat at 9pm Paris time in the final of the Women's Africa Cup of Nations. A surprising matchup, with each nation hoping to secure the first continental title in its history.",
-      "url": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown",
-      "published": "Sun, 16 Aug 2026 09:21:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Cristiano Ronaldo says it is 'probably' his last season",
       "description": "Cristiano Ronaldo has said the new football season is \"probably\" his last.",
       "url": "https://news.sky.com/story/cristiano-ronaldo-says-it-is-probably-his-last-season-13573763",
@@ -2046,27 +2046,27 @@
       "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist",
       "description": "The thieves bypassed alarm and security systems at the MuMe museum.",
       "url": "https://abcnews.com/International/wireStory/thieves-steal-4-renaissance-artworks-sicilian-museum-heist-135685153",
-      "published": "Sun, 16 Aug 2026 11:36:37 -0400",
+      "published": "Sun, 16 Aug 2026 15:14:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news",
-      "description": "Adm. Brad Cooper, the top U.S. military commander in the Middle East, has visited the USS Lincoln in the Arabian Sea",
+      "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news",
+      "description": "The top U.S. military commander in the Middle East has visited the long-deployed USS Lincoln in the Arabian Sea",
       "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
-      "published": "Sun, 16 Aug 2026 05:03:10 -0400",
+      "published": "Sun, 16 Aug 2026 15:14:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's Lula and Flávio Bolsonaro kick off their presidential campaigns",
-      "description": "Brazil's presidential candidates have kicked off their campaigns ahead of a tight October election",
+      "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns",
+      "description": "Brazil's presidential candidates have kicked off their campaigns ahead of what is expected to be tight election in October",
       "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-kick-off-presidential-campaigns-135690863",
-      "published": "Sun, 16 Aug 2026 14:17:25 -0400",
+      "published": "Sun, 16 Aug 2026 15:14:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
