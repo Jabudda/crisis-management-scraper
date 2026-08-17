@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T15:39:50.182811Z",
+  "last_updated": "2026-08-17T16:07:11.323209Z",
   "event_count": 224,
   "events": [
     {
@@ -30,16 +30,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
-      "description": "Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefecture At least five people have died in eastern Japan after “unprecedented” heavy rain that left nearly 7,000 stranded at Tokyo’s Narita airport and forced thousands to take refuge in government buildings. The torrential rains hit Chiba prefecture, east of Tokyo, on Thursday night, triggering landslide warnings and power outages. Evacuation orders were issued for more than 400,000 people in Chiba and other areas, and about 45,000 homes lost power, as 115mm of rain fell hourly, approximately the same amount usually recorded for the whole month of August. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
-      "published": "Fri, 14 Aug 2026 13:11:48 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -163,6 +153,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Indonesian mother recounts emergency birth during 7.7-magnitude quake",
+      "description": "As an earthquake tore apart homes, buildings and bridges in eastern Indonesia on Saturday, Maria Florida Nogo Kelen was giving birth to her daughter. The 39-year-old went in for emergency surgery during the quake that killed 68 people.",
+      "url": "https://www.france24.com/en/video/20260817-indonesian-mother-recounts-emergency-birth-during-7-7-magnitude-quake",
+      "published": "Mon, 17 Aug 2026 15:40:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Indonesia earthquake leaves thousands homeless as rescue efforts continue",
       "description": "A 7.7-magnitude earthquake struck Indonesia last week, killing dozens, injuring hundreds and damaging more than 900 buildings. Nearly 13,000 people have been displaced, with many still sheltering in tents as rescue efforts continue and hospitals treat the wounded.",
       "url": "https://www.france24.com/en/indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-continue",
@@ -177,16 +177,6 @@
       "description": "Thousands of people on Indonesia’s Flores Island are still waiting for aid after a powerful magnitude 7.7 earthquake killed at least 68 people, injured more than 200 and damaged more than 1,300 homes",
       "url": "https://abcnews.com/International/wireStory/thousands-indonesia-await-aid-after-quake-kills-54-135699777",
       "published": "Mon, 17 Aug 2026 11:10:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53",
-      "description": "Rescue teams in eastern Indonesia recovered six more bodies a day after a magnitude 7.7 earthquake",
-      "url": "https://abcnews.com/International/wireStory/rescuers-dig-rubble-landslides-after-indonesia-quake-kills-135682965",
-      "published": "Mon, 17 Aug 2026 00:02:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 25,
@@ -283,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several",
+      "description": "Seven devotees were killed and more than a dozen injured in a stampede at a Hindu temple in eastern India's Bihar state",
+      "url": "https://abcnews.com/International/wireStory/temple-stampede-hotel-fire-eastern-india-kill-14-135700067",
+      "published": "Mon, 17 Aug 2026 05:14:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Virginia police seek others who fired shots in Virginia State University shooting that wounded 5",
       "description": "Virginia State University shooting left five wounded as police seek additional shooters and work to determine if they acted in self-defense.",
       "url": "https://www.foxnews.com/us/virginia-police-seek-others-fired-shots-virginia-state-university-shooting-wounded-5",
@@ -363,21 +363,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
-      "description": "The UN delivered aid to Qusra in the West Bank after Israeli settlers cut off several Palestinian families from food, water and electricity. Residents say they have faced months of harassment and attacks, while rights groups accuse settlers of trying to force Palestinians from the area. Critics warn that Israel’s plan to transfer law enforcement powers in the West Bank could further entrench control over the territory.",
-      "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
-      "published": "Mon, 17 Aug 2026 09:18:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
       "description": "Five years since the Taliban seized power in Kabul, life for some Afghans has improved while many others suffer growing hardship.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168135",
       "published": "Thu, 13 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian state economist fired after stark warning about Moscow’s economic future",
+      "description": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
+      "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
+      "published": "Mon, 17 Aug 2026 11:43:35 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -427,6 +427,16 @@
       "description": "Nearly 1,600 aftershocks have hit Indonesia and thousands have been forced out of their homes after a powerful earthquake killed at least 68 people.",
       "url": "https://news.sky.com/story/nearly-1600-aftershocks-hit-indonesia-after-earthquake-kills-at-least-68-people-13573963",
       "published": "Mon, 17 Aug 2026 10:40:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Number of deaths after ferry disaster in Zimbabwe rises to 92",
+      "description": "The number of deaths after a ferry capsized in Zimbabwe has risen to 92.",
+      "url": "https://news.sky.com/story/more-bodies-found-after-lake-kariba-ferry-disaster-in-zimbabwe-as-number-of-deaths-hits-72-13573572",
+      "published": "Sat, 15 Aug 2026 21:22:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 18,
@@ -663,20 +673,40 @@
       "severity_level": "High"
     },
     {
-      "title": "Firefighters battle massive Belgian wildfire, forcing hundreds to evacuate",
-      "description": "Firefighters are battling wildfires in Belgium and Greece, with a massive blaze scorching a nature reserve in eastern Belgium",
-      "url": "https://abcnews.com/International/wireStory/firefighters-battle-massive-belgian-wildfire-forcing-hundreds-evacuate-135684266",
-      "published": "Sun, 16 Aug 2026 15:14:21 -0400",
+      "title": "Ukraine energy company says its facilities seriously damaged after 13 Russian strikes",
+      "description": "Ukraine’s state energy company says Russia has attacked its facilities 13 times over the past week, with nearly 300 attacks this year",
+      "url": "https://abcnews.com/International/wireStory/ukraine-energy-company-facilities-damaged-after-13-russian-135702269",
+      "published": "Mon, 17 Aug 2026 09:38:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Ukraine energy company says its facilities seriously damaged after 13 Russian strikes",
-      "description": "Ukraine’s state energy company says Russia has attacked its facilities 13 times over the past week, with nearly 300 attacks this year",
-      "url": "https://abcnews.com/International/wireStory/ukraine-energy-company-facilities-damaged-after-13-russian-135702269",
-      "published": "Mon, 17 Aug 2026 09:38:37 -0400",
+      "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+      "description": "The Trump administration says it is seeking to expand its lethal campaign of bombing boats off Latin America’s Caribbean and Pacific coasts onto land",
+      "url": "https://abcnews.com/International/wireStory/after-killing-hundreds-boat-strikes-us-military-expands-135700333",
+      "published": "Mon, 17 Aug 2026 04:58:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
+      "description": "Benjamin Franklin's son William was buried in London following his death in 1813, more than three decades after he was forced to leave America",
+      "url": "https://abcnews.com/International/wireStory/ben-franklin-chose-america-son-william-chose-crown-135685341",
+      "published": "Sun, 16 Aug 2026 11:32:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Firefighters battle massive Belgian wildfire, forcing hundreds to evacuate",
+      "description": "Firefighters are battling wildfires in Belgium and Greece, with a massive blaze scorching a nature reserve in eastern Belgium",
+      "url": "https://abcnews.com/International/wireStory/firefighters-battle-massive-belgian-wildfire-forcing-hundreds-evacuate-135684266",
+      "published": "Sun, 16 Aug 2026 15:14:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -713,6 +743,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+      "description": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 14:59:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
       "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
       "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
@@ -737,6 +777,16 @@
       "description": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "published": "Fri, 14 Aug 2026 14:55:17 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "China’s economy showing signs that slowdown may be extending",
+      "description": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity. After the world’s second largest economy posted one of its lowest quarterly growth readings on record in the three months to June, the latest figures suggest it continued to falter in July. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+      "published": "Mon, 17 Aug 2026 15:36:25 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -778,6 +828,16 @@
       "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 16 Aug 2026 17:31:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia’s Supreme Court upholds ban on anti-war party Yabloko",
+      "description": "Russia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were detained outside the court. The decision comes amid a wider crackdown on critics of Moscow’s war in Ukraine.",
+      "url": "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko",
+      "published": "Mon, 17 Aug 2026 15:51:35 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -923,16 +983,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Renaissance paintings stolen on Italian national holiday",
-      "description": "Four Renaissance paintings have been stolen from an Italian museum during the country's summer national holiday.",
-      "url": "https://news.sky.com/story/four-renaissance-paintings-by-antonello-da-messina-stolen-on-italian-national-holiday-13573714",
-      "published": "Sun, 16 Aug 2026 14:55:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
       "description": "Colombia's President Abelardo de la Espriella has asked U.S. President Donald Trump to suspend tariffs to help Colombia recover from a devastating earthquake",
       "url": "https://abcnews.com/International/wireStory/colombian-president-asks-trump-suspend-tariffs-earthquake-recovery-135690740",
@@ -1011,6 +1061,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+      "description": "FairSquare says the FIFA president should not be able to run again under the world football organisation's statutes.",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 15:21:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1103,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
-      "description": "The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 10:57:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1147,16 +1197,6 @@
       "description": "More than 670,000 French taxpayers are being notified after their personal and tax information was stolen and allegedly offered online. Authorities warn the data could be used for scams and identity fraud, while Prime Minister Sébastien Lecornu is holding a meeting on the digital security of government institutions.",
       "url": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack",
       "published": "Mon, 17 Aug 2026 10:50:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US and South Korea begin military drills despite Trump call to scale back",
-      "description": "US and South Korean forces began on Monday joint military drills as planned, despite Donald Trump calling for them to be scaled back. Trump said the exercises were too costly and hostile toward North Korea, while critics warned reducing them could weaken South Korea’s security. The drills are set to continue until August 28.",
-      "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
-      "published": "Mon, 17 Aug 2026 09:22:17 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1213,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Texas dad faces murder charge after estranged wife found dead at suburban home: Police",
+      "description": "Jake Bigoni allegedly killed his estranged wife Eliana during a custody exchange in Plano, Texas, while their two young children were inside the apartment.",
+      "url": "https://www.foxnews.com/us/texas-dad-faces-murder-charge-estranged-wife-found-dead-suburban-home-police",
+      "published": "Mon, 17 Aug 2026 11:55:54 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Tupac Shakur murder trial kicks off as Duane 'Keffe D' Davis faces jury nearly three decades after shooting",
       "description": "Keffe D Davis faces a Las Vegas murder trial for the 1996 drive-by shooting of Tupac Shakur, with his own book and police interview as key evidence.",
       "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
@@ -1240,16 +1290,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 14:59:02 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1338,16 +1378,6 @@
       "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
       "published": "Mon, 17 Aug 2026 12:09:55 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bus crash in Hungary kills 12 people, injures at least 10 others",
-      "description": "Police say a passenger bus traveling on a highway in Hungary early Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others",
-      "url": "https://abcnews.com/International/wireStory/bus-crash-hungary-kills-12-people-injures-10-135684155",
-      "published": "Sun, 16 Aug 2026 05:31:12 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1513,8 +1543,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany's AfD is labeled far-right, populist or extremist",
-      "description": "Right-wing, far-right, fascist: Many terms are being thrown around in the debate about the AfD. What do they mean, and how appropriate are they when discussing the AfD? DW has this glossary.",
+      "title": "Germany's AfD is labeled far right, populist or extremist",
+      "description": "Right wing, far right, fascist: Many terms are being thrown around in the debate about the AfD. What do they mean, and how appropriate are they when discussing the AfD? DW has a glossary.",
       "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 10:51:00 GMT",
       "source": "Deutsche Welle",
@@ -1537,16 +1567,6 @@
       "description": "Lizzie Henderson reportedly moved to Wisconsin near Dodge Correctional Institution, where Chris Watts is serving life for killing his pregnant wife.",
       "url": "https://www.foxnews.com/us/family-killer-chris-watts-seeks-prison-marriage-with-new-love-interest-report",
       "published": "Sun, 16 Aug 2026 08:00:31 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lindsay Clancy murder trial becomes social media obsession as TikTokers, sleuths debate controversial case",
-      "description": "Attorney Peter Elikann calls the Lindsay Clancy murder trial a cultural obsession as TikTokers and social media sleuths dissect the controversial case.",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
-      "published": "Sat, 15 Aug 2026 06:58:07 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -1586,7 +1606,17 @@
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 13:58:38 GMT",
+      "published": "Mon, 17 Aug 2026 16:02:58 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 15:33:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1643,16 +1673,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 17:00:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
       "description": "Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.",
       "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
@@ -1664,7 +1684,7 @@
     },
     {
       "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-      "description": "Twelve people including the captain are on board Kate, the latest vessel attempting to deliver aid.",
+      "description": "Twelve people including the captain are on board 'Kate', the latest vessel attempting to deliver aid.",
       "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 14:12:08 +0000",
       "source": "Al Jazeera",
@@ -2023,46 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Athens cleans its all-marble Olympic stadium for the first time in over a century",
-      "description": "Athens’ iconic Panathenaic Stadium is undergoing its first systematic cleaning in more than a century",
-      "url": "https://abcnews.com/International/wireStory/athens-cleaning-marble-olympic-stadium-time-century-135683788",
-      "published": "Sun, 16 Aug 2026 02:21:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
-      "description": "An extremist official in Prime Minister Benjamin Netanyahu's cabinet has advocated for killing “30 to 40” people in Gaza each night",
-      "url": "https://abcnews.com/International/wireStory/israels-ben-gvir-advocates-killing-30-40-people-135687845",
-      "published": "Sun, 16 Aug 2026 11:30:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist",
-      "description": "The thieves bypassed alarm and security systems at the MuMe museum.",
-      "url": "https://abcnews.com/International/wireStory/thieves-steal-4-renaissance-artworks-sicilian-museum-heist-135685153",
-      "published": "Sun, 16 Aug 2026 15:22:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news",
-      "description": "The top U.S. military commander in the Middle East has visited the long-deployed USS Lincoln in the Arabian Sea",
-      "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
-      "published": "Sun, 16 Aug 2026 15:46:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Japan's economy manages 1.1% growth rate despite headwinds",
       "description": "Japan’s economy grew an annualized rate of 1.1% in the April-June quarter, even as private consumption stayed flat and the growth of exports declined",
       "url": "https://abcnews.com/International/wireStory/japans-economy-manages-11-growth-rate-despite-headwinds-135698570",
@@ -2087,6 +2067,36 @@
       "description": "Brazil's presidential candidates have kicked off their campaigns ahead of what is expected to be tight election in October",
       "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-kick-off-presidential-campaigns-135690863",
       "published": "Sun, 16 Aug 2026 15:14:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
+      "description": "The BBC has asked a U.S. court for help getting documents and testimony from U.S. President Donald Trump's family in connection to his $10-billion defamation lawsuit against the broadcaster",
+      "url": "https://abcnews.com/International/wireStory/bbc-asks-us-court-testimony-trump-family-defamation-135689479",
+      "published": "Sun, 16 Aug 2026 14:17:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
+      "description": "An extremist official in Prime Minister Benjamin Netanyahu's cabinet has advocated for killing “30 to 40” people in Gaza each night",
+      "url": "https://abcnews.com/International/wireStory/israels-ben-gvir-advocates-killing-30-40-people-135687845",
+      "published": "Sun, 16 Aug 2026 11:30:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist",
+      "description": "The thieves bypassed alarm and security systems at the MuMe museum.",
+      "url": "https://abcnews.com/International/wireStory/thieves-steal-4-renaissance-artworks-sicilian-museum-heist-135685153",
+      "published": "Sun, 16 Aug 2026 15:22:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2227,16 +2237,6 @@
       "description": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder's fee remains uncertain.",
       "url": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
       "published": "Fri, 14 Aug 2026 21:09:08 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
-      "description": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.",
-      "url": "https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
-      "published": "Wed, 12 Aug 2026 09:53:19 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
