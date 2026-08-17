@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T09:16:54.220662Z",
+  "last_updated": "2026-08-17T09:46:30.138108Z",
   "event_count": 225,
   "events": [
     {
@@ -120,16 +120,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
-      "description": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further.",
-      "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
-      "published": "Sun, 16 Aug 2026 14:01:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -333,6 +323,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
+      "description": "The UN delivered aid to Qusra in the West Bank after Israeli settlers cut off several Palestinian families from food, water and electricity. Residents say they have faced months of harassment and attacks, while rights groups accuse settlers of trying to force Palestinians from the area. Critics warn that Israel’s plan to transfer law enforcement powers in the West Bank could further entrench control over the territory.",
+      "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
+      "published": "Mon, 17 Aug 2026 09:18:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Ebola outbreak in DR Congo now deadliest ever",
       "description": "The Ebola outbreak in Democratic Republic of Congo is now the deadliest in the country's history, according to the latest government data, with 2,235 reported killed from the virus. Confirmed cases have risen to 4,945, including 101 new cases detected in the last 24 hours, Congo's public health institute said.",
       "url": "https://www.france24.com/en/africa/20260817-ebola-outbreak-in-dr-congo-now-deadliest-ever",
@@ -378,6 +378,16 @@
       "url": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
       "published": "Mon, 17 Aug 2026 04:50:38 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Indonesia: Thousands await aid as quake death toll rises to 54",
+      "description": "Indonesia marked its Independence Day on Monday but celebrations have been overshadowed by an earthquake which has left over 50 people dead and thousands homeless. Residents say they need aid as soon as possible.",
+      "url": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-54/a-78395000?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 17 Aug 2026 09:33:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -753,10 +763,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-      "description": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+      "description": "President says he ‘gets along great’ with dictator but US officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "published": "Mon, 17 Aug 2026 04:07:57 GMT",
+      "published": "Mon, 17 Aug 2026 09:10:24 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -767,16 +777,6 @@
       "description": "At least seven people were killed after a stampede broke out at a Hindu shrine in eastern India. An investigation into the incident is underway.",
       "url": "https://www.dw.com/en/india-temple-stampede-in-bihar-kills-7/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 04:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "In Germany, record heat meets climate action fatigue",
-      "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
-      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 15 Aug 2026 14:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -1023,16 +1023,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "West Bank: Activist recounts life under settler siege in Qusra",
-      "description": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists.",
-      "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
-      "published": "Sun, 16 Aug 2026 14:38:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
@@ -1088,6 +1078,16 @@
       "url": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 07:19:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US and South Korea begin military drills despite Trump call to scale back",
+      "description": "US and South Korean forces began on Monday joint military drills as planned, despite Donald Trump calling for them to be scaled back. Trump said the exercises were too costly and hostile toward North Korea, while critics warned reducing them could weaken South Korea’s security. The drills are set to continue until August 28.",
+      "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
+      "published": "Mon, 17 Aug 2026 09:22:17 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1426,7 +1426,7 @@
       "title": "Labor pledges opt-out register for online gambling ads as Pocock calls out shortfalls in government’s bill",
       "description": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright ban Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Labor government has pledged a new single-service opt-out register for gambling ads – an idea similar to the Do Not Call register for spam calls – as part of amendments to its wagering ad bill, as well as restrictions on inducements and limiting commissions for agents. The communications minister, Anika Wells, has also confirmed gambling companies will face a new levy to pay for the register, a beefed-up measure to curb wagering ads, after concerns were raised through a Senate inquiry that people would struggle to find or complete individual opt-out options on each online service. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia",
-      "published": "Mon, 17 Aug 2026 08:14:20 GMT",
+      "published": "Mon, 17 Aug 2026 09:10:05 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
@@ -1523,16 +1523,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 13:34:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ferrari's first ever electric car sold for record $40m",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
@@ -1543,10 +1533,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 08:35:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 13:34:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1568,6 +1568,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 17:00:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+      "description": "Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 09:03:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "description": "Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 09:01:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1647,26 +1667,6 @@
       "description": "The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.",
       "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 01:13:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-      "description": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 00:11:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-      "description": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 00:05:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
