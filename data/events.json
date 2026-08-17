@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T12:09:16.866434Z",
-  "event_count": 225,
+  "last_updated": "2026-08-17T12:47:08.050959Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
@@ -98,6 +98,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168127",
       "published": "Wed, 12 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
+      "description": "Trump confirmed a direct backchannel with the IRGC for peace talks and issued an extraordinary bombing warning to Oman as the ceasefire expires.",
+      "url": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
+      "published": "Mon, 17 Aug 2026 08:10:59 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -593,9 +603,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-      "description": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting front-line shipments. But experts say it's disrupting Russia's economy.",
-      "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+      "description": "Ukraine has been striking warehouses belonging to Russia's largest online marketplace, saying the attacks disrupt Moscow's military logistics. But experts see wider risks for Russia's economy.",
+      "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 16 Aug 2026 15:45:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -608,6 +618,16 @@
       "url": "https://news.sky.com/story/seven-killed-and-more-than-a-dozen-injured-during-ashok-dham-temple-stampede-in-india-13573934",
       "published": "Mon, 17 Aug 2026 09:25:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine energy company says its facilities seriously damaged after 13 Russian strikes",
+      "description": "Ukraine’s state energy company says Russia has attacked its facilities 13 times over the past week, with nearly 300 attacks this year",
+      "url": "https://abcnews.com/International/wireStory/ukraine-energy-company-facilities-damaged-after-13-russian-135702269",
+      "published": "Mon, 17 Aug 2026 08:38:27 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -723,26 +743,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
-      "description": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti's reliability and China's expanding presence.",
-      "url": "https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
-      "published": "Wed, 12 Aug 2026 09:15:09 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Japan’s economy slows, missing growth forecasts",
-      "description": "GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 06:14:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "US actress Hayden Panettiere dies at 36",
       "description": "Hayden Panettiere's death was announced by her father in a statement to US network ABC news. The actress was known for her roles in TV shows such as \"Nashville\" and \"Heroes.\"",
       "url": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-xml-mrss",
@@ -803,6 +803,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+      "description": "Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:07:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
       "description": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
@@ -833,7 +843,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Five teenagers dead in car crash after vehicle driven wrong way on motorway",
+      "title": "Five teenagers dead in car crash - as police criticise those driving 'recklessly' for 'social media likes'",
       "description": "Five male teenagers have died and more people are seriously injured after a crash on a motorway in County Kildare, Irish police have said.",
       "url": "https://news.sky.com/story/multiple-people-killed-and-others-injured-in-motorway-crash-in-county-kildare-irish-police-say-13573112",
       "published": "Sun, 16 Aug 2026 00:01:00 +0100",
@@ -913,16 +923,6 @@
       "severity_level": "High"
     },
     {
-      "title": "More than 12,000 await aid after deadly Indonesian quake",
-      "description": "More than 12,000 people displaced by a deadly 7.7-magnitude earthquake in eastern Indonesia were awaiting urgent aid on Monday as they sheltered at schools, police stations and government offices, while many remained stranded outside.",
-      "url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
-      "published": "Mon, 17 Aug 2026 04:37:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Renaissance paintings stolen on Italian national holiday",
       "description": "Four Renaissance paintings have been stolen from an Italian museum during the country's summer national holiday.",
       "url": "https://news.sky.com/story/four-renaissance-paintings-by-antonello-da-messina-stolen-on-italian-national-holiday-13573714",
@@ -970,16 +970,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
-      "description": "Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.",
-      "url": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 06:28:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1073,6 +1063,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Jason Arday’s death is institutional murder",
+      "description": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:08:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
       "description": "The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.",
       "url": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
@@ -1127,16 +1127,6 @@
       "description": "US and South Korean forces began on Monday joint military drills as planned, despite Donald Trump calling for them to be scaled back. Trump said the exercises were too costly and hostile toward North Korea, while critics warned reducing them could weaken South Korea’s security. The drills are set to continue until August 28.",
       "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
       "published": "Mon, 17 Aug 2026 09:22:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
-      "description": "US President Donald Trump on Sunday ordered the Pentagon to scale back \"inappropriate and hostile\" military drills with South Korea, claiming that the ally had failed to help with the war against Iran and citing his \"good relationship\" with North Korean leader Kim Jong-un.",
-      "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
-      "published": "Mon, 17 Aug 2026 04:38:01 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1333,6 +1323,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+      "published": "Mon, 17 Aug 2026 12:09:55 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
       "description": "US President Donald Trump on Monday threatened to bomb Oman if they got in the way of a deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. Follow our liveblog for all the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
@@ -1347,16 +1347,6 @@
       "description": "U.S. negotiator Jared Kushner has held a rare meeting with the Hamas chief in Egypt in a push to make progress on the stalled Gaza ceasefire",
       "url": "https://abcnews.com/International/wireStory/kushner-rare-meeting-hamas-leader-gaza-road-map-135691312",
       "published": "Sun, 16 Aug 2026 14:17:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bus crash in Hungary kills 12 people, injures at least 10 others",
-      "description": "Police say a passenger bus traveling on a highway in Hungary early Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others",
-      "url": "https://abcnews.com/International/wireStory/bus-crash-hungary-kills-12-people-injures-10-135684155",
-      "published": "Sun, 16 Aug 2026 05:31:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1403,11 +1393,31 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israel’s religious right is changing the state from within",
+      "description": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:15:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Prominent Mali journalist, influencer jailed for seven years for criticising junta",
+      "description": "A prominent Malian broadcaster and an influencer were on Monday jailed for seven years after criticising the ruling junta. Mohamed Youssouf Bathily was convicted by the Bamaka court of criminal conspiracy and discrediting the state alongside Rokia Doumbia, a noted campaigner.",
+      "url": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
+      "published": "Mon, 17 Aug 2026 12:31:03 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1556,7 +1566,7 @@
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 11:16:31 GMT",
+      "published": "Mon, 17 Aug 2026 12:27:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1564,9 +1574,9 @@
     },
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
       "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 10:57:09 GMT",
+      "published": "Mon, 17 Aug 2026 12:11:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1707,16 +1717,6 @@
       "description": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
       "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 08:13:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
-      "description": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
-      "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 06:02:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1877,16 +1877,6 @@
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-13 15:30:04 UTC 2026-08-13 15:30:04 UTC at epicenter Location 37.755°N 122.150°W Depth 5.55 km (3.45 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557",
       "published": "2026-08-16T05:10:38.692Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "M 7.4 - 5 km S of San José del Palmar, Colombia",
-      "description": "PAGER - RED ShakeMap - VIII DYFI? - VIII Time 2026-08-10 12:34:28 UTC 2026-08-10 12:34:28 UTC at epicenter Location 4.844°N 76.242°W Depth 110.29 km (68.53 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-      "published": "2026-08-16T06:39:57.287Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
