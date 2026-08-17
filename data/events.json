@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T01:32:05.956560Z",
-  "event_count": 205,
+  "last_updated": "2026-08-17T02:29:39.364492Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 76,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+      "description": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images.",
+      "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "published": "Sun, 16 Aug 2026 12:02:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 49,
       "severity_level": "Critical"
     },
     {
@@ -43,6 +53,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Poland-registered bus veers off Hungary highway, killing 12 people",
+      "description": "A crash involving a bus registered in Poland killed 12 people and severely injured at least 10 early Sunday on a Hungary highway, marking the worst accident of its kind in the country in more than 20 years. Poland will send an emergency aircraft to Budapest, Polish Prime Minister Donald Tusk announced.",
+      "url": "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people",
+      "published": "Sun, 16 Aug 2026 12:48:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
       "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
       "description": "Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefecture At least five people have died in eastern Japan after “unprecedented” heavy rain that left nearly 7,000 stranded at Tokyo’s Narita airport and forced thousands to take refuge in government buildings. The torrential rains hit Chiba prefecture, east of Tokyo, on Thursday night, triggering landslide warnings and power outages. Evacuation orders were issued for more than 400,000 people in Chiba and other areas, and about 45,000 homes lost power, as 115mm of rain fell hourly, approximately the same amount usually recorded for the whole month of August. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
@@ -50,6 +70,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "description": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civilian casualties, more than four years after the start of the Russian invasion.",
+      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "published": "Sun, 16 Aug 2026 19:12:31 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -133,11 +163,51 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
+      "description": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further.",
+      "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+      "published": "Sun, 16 Aug 2026 14:01:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+      "description": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah.",
+      "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+      "published": "Sun, 16 Aug 2026 13:00:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Myanmar faces rise in diarrhea as monsoon flooding continue to worsen in many parts of the country",
+      "description": "Myanmar's largest city, Yangon, is seeing a concerning rise in acute diarrhea cases, adding to the country's challenges with flooding and civil war",
+      "url": "https://abcnews.com/International/wireStory/myanmar-faces-rise-diarrhea-monsoon-flooding-continue-worsen-135637892",
+      "published": "Fri, 14 Aug 2026 10:29:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 12:37:21 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia politics live: Greens senator accuses Labor of backing gas industry and billionaires over ‘disabled people and our families’",
+      "description": "Both major parties say current NDIS scheme is unsustainable as Senate debate of legislation continues. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis. It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider. I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life. If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it. This is a deal that doesn’t make any other state worse off, makes sure that there’s the right incentives to deliver productivity and economic growth. And also helps the federal budget bottom line by making sure that we can continue to deliver the royalties and the company tax in particular. WA has a significant resources sector and we need the ability to be able to develop those resources because they lead to national economic growth but also are the national bottom line. We have a pretty significant resource state here in New South Wales too, as does Queensland, as does South Australia. And if the logic that WA is arguing for is to apply across the board, then every other state that’s either developing those resources or looking to are entitled to the same benefit. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "published": "Mon, 17 Aug 2026 02:08:57 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -163,20 +233,20 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53",
-      "description": "Rescue teams in eastern Indonesia recovered six more bodies a day after a magnitude 7.7 earthquake",
-      "url": "https://abcnews.com/International/wireStory/rescuers-dig-rubble-landslides-after-indonesia-quake-kills-135682965",
-      "published": "Sun, 16 Aug 2026 18:10:14 -0400",
-      "source": "ABC News International",
+      "title": "France: Landes wildfire stopped spreading but remains out of control",
+      "description": "Firefighters in southwestern France are continuing to battle a wildfire that has burned 1,700 hectares of forest in the Landes region. The blaze has stopped spreading but remains out of control, with 550 firefighters, military personnel and six water-bombing aircraft working to contain it and allow evacuated residents to return home.",
+      "url": "https://www.france24.com/en/france-landes-wildfire-stopped-spreading-but-remains-out-of-control",
+      "published": "Sun, 16 Aug 2026 10:43:12 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
     },
     {
-      "title": "22 more bodies recovered in Zimbabwe ferry disaster, bringing death toll to 68, police say",
-      "description": "Police say 18 children are among the nearly 70 people killed this week when an overloaded ferry capsized on Lake Kariba in Zimbabwe",
-      "url": "https://abcnews.com/International/wireStory/22-bodies-recovered-zimbabwe-ferry-disaster-bringing-death-135676352",
-      "published": "Sat, 15 Aug 2026 14:10:20 -0400",
+      "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53",
+      "description": "Rescue teams in eastern Indonesia recovered six more bodies a day after a magnitude 7.7 earthquake",
+      "url": "https://abcnews.com/International/wireStory/rescuers-dig-rubble-landslides-after-indonesia-quake-kills-135682965",
+      "published": "Sun, 16 Aug 2026 18:10:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 25,
@@ -223,16 +293,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
-      "description": "Vote to accept state government’s latest pay offer ends year-long negotiations. Follow today’s news live Get our breaking news email , free app or daily news podcast Hume says housing the ‘best indicator of economic security’ in retirement over super The deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis. It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider. I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life. If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it. This is a deal that doesn’t make any other state worse off, makes sure that there’s the right incentives to deliver productivity and economic growth. And also helps the federal budget bottom line by making sure that we can continue to deliver the royalties and the company tax in particular. WA has a significant resources sector and we need the ability to be able to develop those resources because they lead to national economic growth but also are the national bottom line. We have a pretty significant resource state here in New South Wales too, as does Queensland, as does South Australia. And if the logic that WA is arguing for is to apply across the board, then every other state that’s either developing those resources or looking to are entitled to the same benefit. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
-      "published": "Mon, 17 Aug 2026 01:20:13 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
       "description": "African governments have kept a low profile on the international stage during the crisis in the Strait of Hormuz. But that doesn't mean they haven't been engaging with the issue behind the scenes.",
       "url": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-xml-mrss",
@@ -267,16 +327,6 @@
       "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 20:21:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Thailand has a gun problem - 10 million of them",
-      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 22:09:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
@@ -543,11 +593,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
-      "description": "Benjamin Franklin's son William was buried in London following his death in 1813, more than three decades after he was forced to leave America",
-      "url": "https://abcnews.com/International/wireStory/ben-franklin-chose-america-son-william-chose-crown-135685341",
-      "published": "Sun, 16 Aug 2026 11:32:11 -0400",
-      "source": "ABC News International",
+      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "description": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April.",
+      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "published": "Sun, 16 Aug 2026 15:40:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "🔴 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+      "published": "Sun, 16 Aug 2026 09:53:40 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -567,6 +627,36 @@
       "description": "Ukraine has launched hundreds of drones across Russia, killing at least six people in one of Kyiv’s largest aerial attacks of the war",
       "url": "https://abcnews.com/International/wireStory/ukraine-launches-largest-aerial-attacks-war-killing-6-135684169",
       "published": "Sun, 16 Aug 2026 14:34:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
+      "description": "Benjamin Franklin's son William was buried in London following his death in 1813, more than three decades after he was forced to leave America",
+      "url": "https://abcnews.com/International/wireStory/ben-franklin-chose-america-son-william-chose-crown-135685341",
+      "published": "Sun, 16 Aug 2026 11:32:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Taliban leaders mark 5 years in power in Afghanistan as UN official warns of crisis",
+      "description": "Taliban rulers have celebrated the fifth anniversary of their return to power in Afghanistan",
+      "url": "https://abcnews.com/International/wireStory/taliban-leaders-mark-5-years-power-afghanistan-official-135668682",
+      "published": "Sat, 15 Aug 2026 11:38:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Powerful earthquake strikes off Indonesia, killing at least 20 and toppling buildings",
+      "description": "A powerful magnitude 7.7 earthquake has struck off the coast of Indonesia, damaging buildings and homes, killing at least 20 people and causing panic in a region prone to deadly quakes",
+      "url": "https://abcnews.com/International/wireStory/magnitude-77-earthquake-strikes-off-coast-indonesia-usgs-135659935",
+      "published": "Sat, 15 Aug 2026 03:34:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -676,7 +766,7 @@
       "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
       "description": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "published": "Mon, 17 Aug 2026 00:19:53 GMT",
+      "published": "Mon, 17 Aug 2026 01:49:36 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -823,6 +913,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
+      "description": "A top UN official says 'speed, scale, and solidarity' needed 'before this virus gets even further ahead of us'.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 01:41:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
       "description": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
@@ -838,6 +938,26 @@
       "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 16 Aug 2026 06:49:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+      "description": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest.",
+      "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+      "published": "Sun, 16 Aug 2026 15:49:59 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "India: Modi courts youth amid growing criticism",
+      "description": "Indian Prime Minister Narendra Modi put young people at the heart of his development agenda in a speech marking India’s Independence Day on Saturday. He announced free online coaching for competitive exams and plans to train 10 million young people in artificial intelligence over the next year. The speech comes amid growing criticism of Modi’s Hindu nationalist policies and recent youth-led protests against his government, as analyzed by FRANCE 24's, Jamie Smith-Maillet.",
+      "url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+      "published": "Sun, 16 Aug 2026 14:44:11 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -883,6 +1003,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "West Bank: Activist recounts life under settler siege in Qusra",
+      "description": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists.",
+      "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+      "published": "Sun, 16 Aug 2026 14:38:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
@@ -918,6 +1048,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 13:41:09 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+      "description": "UN Special Rapporteur Albanese warns that Israel is 'using settlers to advance ethnic cleansing' in the West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 01:28:13 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1017,16 +1157,6 @@
       "description": "Authorities have lifted a U.S. security alert that halted avocado exports from Michoacán, Mexico's main avocado-producing state",
       "url": "https://abcnews.com/International/wireStory/avocado-pickers-mexico-restart-exports-us-security-fears-135683981",
       "published": "Sun, 16 Aug 2026 02:22:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-      "description": "Britain's prime minister has called for reflection after the sudden death of Jason Arday, a Black professor at Cambridge University who faced plagiarism accusations",
-      "url": "https://abcnews.com/International/wireStory/uks-leader-calls-reflection-after-death-former-cambridge-135673948",
-      "published": "Sat, 15 Aug 2026 14:10:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1133,16 +1263,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality's throne",
-      "description": "Liechtenstein’s royal house says the tiny country’s rules of succession will be changed so that a woman could in the future inherit the principality’s throne",
-      "url": "https://abcnews.com/International/wireStory/liechtenstein-rules-women-inherit-alpine-principalitys-throne-135670564",
-      "published": "Sat, 15 Aug 2026 13:06:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
       "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
@@ -1193,11 +1313,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next",
-      "description": "U.S. negotiator Jared Kushner has held a rare meeting with the Hamas chief in Egypt in a push to make progress on the stalled Gaza ceasefire",
-      "url": "https://abcnews.com/International/wireStory/kushner-rare-meeting-hamas-leader-gaza-road-map-135691312",
-      "published": "Sun, 16 Aug 2026 14:17:11 -0400",
-      "source": "ABC News International",
+      "title": "Senegal: Saint-Louis’ centuries-old pirogue racing tradition",
+      "description": "In Saint-Louis, Senegal, traditional pirogue races are keeping alive a centuries-old tradition dating back nearly 200 years. Held in the fishing district of Guet Ndar, the 3.5-kilometre race brings together dozens of rowers and huge crowds, turning the event into both a major sporting competition and a celebration of local culture. But despite the race's popularity and the money it generates, competitors are not paid and are calling for greater recognition for the sport.",
+      "url": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+      "published": "Sun, 16 Aug 2026 15:51:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ukraine: Russian strike destroys Kyiv book market",
+      "description": "Kyiv was hit by Russian strikes on Sunday, killing at least four people and injuring six, while a popular outdoor book market was destroyed. Vendors rushed to the scene to assess the damage, with some saying they had lost their shops and their livelihoods.",
+      "url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+      "published": "Sun, 16 Aug 2026 14:40:52 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1207,6 +1337,16 @@
       "description": "Police say a passenger bus traveling on a highway in Hungary early Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others",
       "url": "https://abcnews.com/International/wireStory/bus-crash-hungary-kills-12-people-injures-10-135684155",
       "published": "Sun, 16 Aug 2026 05:31:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next",
+      "description": "U.S. negotiator Jared Kushner has held a rare meeting with the Hamas chief in Egypt in a push to make progress on the stalled Gaza ceasefire",
+      "url": "https://abcnews.com/International/wireStory/kushner-rare-meeting-hamas-leader-gaza-road-map-135691312",
+      "published": "Sun, 16 Aug 2026 14:17:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1393,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Bonnie Tyler fans line streets of Welsh village as her coffin is brought home",
-      "description": "The Grammy-nominated Welsh pop star died last month in a hospital in Portugal.",
-      "url": "https://abcnews.com/International/wireStory/bonnie-tyler-fans-line-streets-welsh-village-coffin-135675210",
-      "published": "Sat, 15 Aug 2026 14:58:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
       "description": "Larry Montes is facing multiple charges after allegedly striking a congregant and headbutting a security team member during Shabbat services at Central Synagogue in New York City.",
       "url": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
@@ -1427,6 +1557,16 @@
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
       "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 02:22:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1537,26 +1677,6 @@
       "description": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 20:02:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "description": "After meeting with the US envoy, Hamas says it called on the Board of Peace to ‘compel’ Israel to accept the plan.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 19:23:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-      "description": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 19:18:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1803,6 +1923,76 @@
       "severity_level": "Low"
     },
     {
+      "title": "🔴 Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
+      "published": "Sun, 16 Aug 2026 21:03:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
+      "description": "Cameroon defeated tournament debutant Malawi in the final of the Women’s Africa Cup of Nations on Sunday, winning the trophy for the first time. The Indomitable Lionesses, who failed to qualify for the previous edition of the tournament, had lost on their last three appearances in the final – all to 10-time winner Nigeria.",
+      "url": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
+      "published": "Sun, 16 Aug 2026 21:02:44 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
+      "published": "Sun, 16 Aug 2026 18:01:29 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
+      "description": "French swimming star Léon Marchand won the 400m freestyle final at the European swimming championships Sunday in Saint-Denis, near Paris.",
+      "url": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
+      "published": "Sun, 16 Aug 2026 17:57:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "WAFCON final: Women's sport seeks greater recognition",
+      "description": "The Women's Africa Cup of Nations final takes place tonight in Rabat, with Malawi facing Cameroon in a historic showdown. Speaking to FRANCE 24, sports journalist Charlotte Richardson discussed the growing popularity of women's sport, but also the persistent gaps in media coverage, funding and infrastructure compared with men's competitions. She also highlighted the WAFCON's last-minute postponement earlier this year, saying such a decision would be unthinkable in men's football.",
+      "url": "https://www.france24.com/en/wafcon-final-women-s-sport-seeks-greater-recognition",
+      "published": "Sun, 16 Aug 2026 13:00:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+      "description": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza.",
+      "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+      "published": "Sun, 16 Aug 2026 11:33:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil election: Lula and the new face of Bolsonaro's right",
+      "description": "Brazil's October presidential election is shaping up as another battle between the Lula and Bolsonaro camps, with incumbent Luiz Inácio Lula da Silva seeking a fourth term and Flávio Bolsonaro stepping in for his imprisoned father. The two frontrunners are running close in the polls, as Lula focuses on Brazil's sovereignty amid tensions with Washington, while Flávio leans on his family's far-right support and ties to Donald Trump.",
+      "url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
+      "published": "Sun, 16 Aug 2026 10:46:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Cristiano Ronaldo says it is 'probably' his last season",
       "description": "Cristiano Ronaldo has said the new football season is \"probably\" his last.",
       "url": "https://news.sky.com/story/cristiano-ronaldo-says-it-is-probably-his-last-season-13573763",
@@ -1823,30 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
-      "description": "Moroccan security forces have arrested hundreds of migrants trying to reach the Spanish enclave of Ceuta by land and sea",
-      "url": "https://abcnews.com/International/wireStory/moroccan-security-forces-arrest-300-migrants-reach-spains-135692740",
-      "published": "Sun, 16 Aug 2026 15:50:49 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns",
-      "description": "Brazil's presidential candidates have kicked off their campaigns ahead of what is expected to be tight election in October",
-      "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-kick-off-presidential-campaigns-135690863",
-      "published": "Sun, 16 Aug 2026 15:14:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
-      "description": "The BBC has asked a U.S. court for help getting documents and testimony from U.S. President Donald Trump's family in connection to his $10-billion defamation lawsuit against the broadcaster",
-      "url": "https://abcnews.com/International/wireStory/bbc-asks-us-court-testimony-trump-family-defamation-135689479",
-      "published": "Sun, 16 Aug 2026 14:17:34 -0400",
+      "title": "Athens cleans its all-marble Olympic stadium for the first time in over a century",
+      "description": "Athens’ iconic Panathenaic Stadium is undergoing its first systematic cleaning in more than a century",
+      "url": "https://abcnews.com/International/wireStory/athens-cleaning-marble-olympic-stadium-time-century-135683788",
+      "published": "Sun, 16 Aug 2026 02:21:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1883,10 +2053,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "Athens cleans its all-marble Olympic stadium for the first time in over a century",
-      "description": "Athens’ iconic Panathenaic Stadium is undergoing its first systematic cleaning in more than a century",
-      "url": "https://abcnews.com/International/wireStory/athens-cleaning-marble-olympic-stadium-time-century-135683788",
-      "published": "Sun, 16 Aug 2026 02:21:03 -0400",
+      "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
+      "description": "Moroccan security forces have arrested hundreds of migrants trying to reach the Spanish enclave of Ceuta by land and sea",
+      "url": "https://abcnews.com/International/wireStory/moroccan-security-forces-arrest-300-migrants-reach-spains-135692740",
+      "published": "Sun, 16 Aug 2026 15:50:49 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns",
+      "description": "Brazil's presidential candidates have kicked off their campaigns ahead of what is expected to be tight election in October",
+      "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-kick-off-presidential-campaigns-135690863",
+      "published": "Sun, 16 Aug 2026 15:14:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
+      "description": "The BBC has asked a U.S. court for help getting documents and testimony from U.S. President Donald Trump's family in connection to his $10-billion defamation lawsuit against the broadcaster",
+      "url": "https://abcnews.com/International/wireStory/bbc-asks-us-court-testimony-trump-family-defamation-135689479",
+      "published": "Sun, 16 Aug 2026 14:17:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Nigel Farage beats Count Binface in widely mocked election",
+      "description": "Nigel Farage beat trash-can wearing comic candidate Count Binface on Friday, regaining a seat in Parliament he quit a month ago to trigger the widely mocked special election",
+      "url": "https://abcnews.com/International/wireStory/nigel-farage-beats-count-binface-widely-mocked-election-135633476",
+      "published": "Fri, 14 Aug 2026 02:48:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
