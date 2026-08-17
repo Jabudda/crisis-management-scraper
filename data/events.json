@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:47:08.050959Z",
+  "last_updated": "2026-08-17T13:18:39.951538Z",
   "event_count": 224,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "International help arrives as wildfires rage across Belgium",
+      "description": "Belgium is battling its worst wildfires in over a century, with hundreds of firefighters fighting flames in the Hautes Fagnes nature reserve. Germany, Sweden, Norway and the Netherlands have sent reinforcements, including helicopters, as several towns are evacuated.",
+      "url": "https://www.france24.com/en/international-help-arrives-as-wildfires-rage-across-belgium",
+      "published": "Mon, 17 Aug 2026 12:56:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -148,16 +158,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 12:37:21 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-      "description": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
-      "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 16 Aug 2026 05:57:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -313,6 +313,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
       "description": "Thousands remain displaced after a magnitude 7.7 earthquake struck East Nusa Tenggara province on Saturday.",
       "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
@@ -418,6 +428,16 @@
       "url": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-68/a-78395000?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 09:33:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Europe’s wildfires: How prepared are we for the next fire?",
+      "description": "Massive wildfires are burning across Europe, from Belgium and Greece to Spain, Italy and France. Alexander Held, Senior Expert at the European Forest Institute, explains why fires are spreading into unexpected areas and whether Europe is facing a new normal. He also looks at how citizens can help prevent and limit wildfires, while stressing the need for greater resilience and better funded government support to deal with increasingly extreme fire seasons.",
+      "url": "https://www.france24.com/en/europe-s-wildfires-how-prepared-are-we-for-the-next-fire",
+      "published": "Mon, 17 Aug 2026 12:52:20 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -573,10 +593,10 @@
       "severity_level": "High"
     },
     {
-      "title": "At least seven people killed in Ukrainian air attacks on Russia",
-      "description": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 08:00:05 +0000",
+      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+      "description": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:44:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -588,6 +608,16 @@
       "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
       "published": "Sun, 16 Aug 2026 06:12:09 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Wildfires: Belgium battles blaze, France's Lecornu jeered",
+      "description": "Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves and drought that studies say are driven by human-induced climate change.",
+      "url": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 17 Aug 2026 12:55:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -793,30 +823,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 11:14:39 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
       "description": "Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.",
       "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 12:07:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
-      "description": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 08:18:05 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -1063,6 +1073,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Trump scales down war games with South Korea: Why it matters",
+      "description": "US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:20:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Jason Arday’s death is institutional murder",
       "description": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
       "url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
@@ -1104,7 +1124,7 @@
     },
     {
       "title": "India's testing agency in focus after more exams canceled",
-      "description": "Months after canceling the medical entrance exam, India's testing agency has canceled three other exams prompting outrage among opposition leaders. In Bihar, several people were killed in a temple stampede. DW has more",
+      "description": "Months after canceling the medical entrance exam, India's testing agency has canceled three other exams prompting outrage among opposition leaders. In Bihar, several people were killed in a temple stampede.",
       "url": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 07:19:00 GMT",
       "source": "Deutsche Welle",
@@ -1283,7 +1303,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+      "title": "How China-India border tensions are rising again over encroachment claims",
       "description": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
       "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 10:51:49 +0000",
@@ -1327,16 +1347,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
       "published": "Mon, 17 Aug 2026 12:09:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-      "description": "US President Donald Trump on Monday threatened to bomb Oman if they got in the way of a deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. Follow our liveblog for all the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-      "published": "Mon, 17 Aug 2026 04:45:34 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
@@ -1633,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Will Europe hear a landmark Russian climate change case?",
+      "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren't giving up.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 12:19:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
       "description": "Does Guimaraes complete the midfield? Can they finally win the Champions League? And who is set for a breakout season?",
       "url": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
@@ -1707,16 +1727,6 @@
       "description": "Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.",
       "url": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 08:18:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Kushner meets Netanyahu to push Trump Gaza plan",
-      "description": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 08:13:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1967,16 +1977,6 @@
       "description": "US envoy Jared Kushner is due to meet Israeli Prime Minister Benjamin Netanyahu on Monday after holding talks with Hamas leaders in Egypt aimed at reviving a US-backed Gaza peace plan that Israel has so far rejected. Noga Tarnopolsky, FRANCE 24's correspondent in Israel, has more on the stakes related to this visit.",
       "url": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
       "published": "Mon, 17 Aug 2026 09:00:36 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lens defeat Paris Saint-Germain to claim second title this year",
-      "description": "RC Lens won the Champions' Trophy (French Super Cup) against Paris Saint-Germain (1-0). With Zinédine Zidane watching on, the Lens side held out for an hour despite being a man down.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
-      "published": "Mon, 17 Aug 2026 05:44:25 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
