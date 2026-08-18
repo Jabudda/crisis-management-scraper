@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T09:11:46.857323Z",
+  "last_updated": "2026-08-18T09:43:54.848224Z",
   "event_count": 224,
   "events": [
     {
@@ -183,26 +183,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Thailand has a gun problem - 10 million of them",
-      "description": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 22:09:04 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Two students killed in Philippine school shooting",
-      "description": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 02:51:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
       "description": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un ‘Inane, haphazard decision’ by Trump to gut South Korea alliance South Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills. On Sunday night, Trump instructed the Pentagon to “substantially reduce” this week’s joint military exercises with South Korea, saying the nuclear-armed North “has been unthreatening and respectful” and that the US president had a “very good relationship with Kim Jong-un”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
@@ -270,6 +250,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 18 Aug 2026 09:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -428,6 +418,16 @@
       "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
       "published": "Fri, 14 Aug 2026 16:21:39 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Syria sentences to death Assad's detained cousin for war crimes",
+      "description": "Wassim al-Assad, a cousin of overthrown long-time Syrian ruler Bashar al-Assad, was convicted of multiple murders and murder accompanied by torture and brutality. A Damascus court issued a death sentence on Tuesday.",
+      "url": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
+      "published": "Tue, 18 Aug 2026 09:24:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -643,16 +643,6 @@
       "severity_level": "High"
     },
     {
-      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
-      "description": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 23:09:39 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -743,11 +733,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "description": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 09:33:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Indian student leader ends hunger strike after 16 days",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 07:27:32 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Videos show deadly school shooting in Philippines",
+      "description": "A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 09:31:56 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -843,7 +853,17 @@
       "severity_level": "High"
     },
     {
-      "title": "Kevin Lamour sacked from FIFA after publicly criticising Infantino's plan",
+      "title": "Zambia's election marred by irregularities and 'militia' arrests",
+      "description": "Zambia is gripped by allegations of armed plots, intimidation and electoral interference. As President Hakainde Hichilema leads the count, concerns are growing over the state of the country's democracy.",
+      "url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 18 Aug 2026 09:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Kevin Lamour sacked by FIFA after publicly criticising Infantino's plan",
       "description": "FIFA has reportedly sacked the organisation chief operating officer, who last month, published scathing criticism of Gianni Infantino's now-shelved plan to sell a stake in the World Cup to private equity. Frenchman Kevin Lamour has now departed the world football governing body, which was confirmed by FIFA on Monday. The FIFA president is still holding on though despite a wave of opposition from UEFA and other confederations and a growing number of member countries. Story by Oliver Farry.",
       "url": "https://www.france24.com/en/kevin-lamour-sacked-from-fifa-after-publicly-criticising-infantino-s-plan",
       "published": "Tue, 18 Aug 2026 09:06:21 GMT",
@@ -1104,7 +1124,7 @@
     },
     {
       "title": "Syrian court sentences Wassim al-Assad to death",
-      "description": "The former regime figure was found guilty of charges including premeditated murder and torture.",
+      "description": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture",
       "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 08:23:59 +0000",
       "source": "Al Jazeera",
@@ -1137,26 +1157,6 @@
       "description": "US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.",
       "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
       "published": "Tue, 18 Aug 2026 05:44:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Hichilema wins second term as president of copper-rich Zambia",
-      "description": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 04:07:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-      "description": "Mourners blame relentless and 'racist' media scrutiny for former Cambridge University professor's death.",
-      "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 03:17:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1343,6 +1343,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Visit Rome by night: Italian capital tests new tourism strategy",
+      "description": "In the face of recent heatwaves and the big crowds that saturate the historic tourist sites during the day, this summer, Rome is testing a new way to visit the city: by opening tourist sites at night. This initiative includes museums, parks, archeological sites, monuments, villas, and historic residences. A revolution in the tourist rhythm explained by our correspondent in Rome, Natalia Mendoza, along with Bernard Bedarida and Charlotte Davan Wetton.",
+      "url": "https://www.france24.com/en/visit-rome-by-night-italian-capital-tests-new-tourism-strategy",
+      "published": "Tue, 18 Aug 2026 09:20:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1397,6 +1407,16 @@
       "description": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. The win is significant for Ontario’s premier, Doug Ford, and his government, who have long railed against Toronto’s bike lanes, blaming the protected zones for the city’s traffic ills . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
       "published": "Fri, 14 Aug 2026 21:03:43 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Controversial NDIS bill undergoes ‘substantial’ amendments as Labor and Coalition strike deal",
+      "description": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting hundreds of thousands of participants The government’s controversial NDIS bill will undergo “substantial” amendments after Labor and the Coalition struck a deal, with some of the changes attracting heavy criticism from the Greens, the ACT senator David Pocock and the disability community. Sixty-three government amendments across both houses will be introduced as part of backroom deals to pass the bill on Tuesday night, the NDIS ministers, Mark Butler and Jenny McAllister, revealed. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
+      "published": "Tue, 18 Aug 2026 09:18:47 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
@@ -1513,6 +1533,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "description": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 09:15:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump lashes out at CNN reporter over South Korea question",
       "description": "Trump lashes out at CNN reporter over South Korea question",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
@@ -1538,6 +1568,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pakistan top court orders Imran Khan moved from jail to hospital",
+      "description": "The former Pakistani prime minister's family has repeatedly raised concerns about his deteriorating health in prison. The 73-year-old was jailed in 2023 on corruption charges that he says were politically motivated.",
+      "url": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 18 Aug 2026 09:11:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1573,16 +1613,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany's AfD is labeled far right, populist or extremist",
-      "description": "Right wing, far right, fascist: Many terms are being thrown around in the debate about the AfD. What do they mean, and how appropriate are they when discussing the AfD? DW has a glossary.",
-      "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 17 Aug 2026 10:51:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
       "description": "UN human rights chief Volker Türk on Thursday condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168132",
@@ -1593,21 +1623,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
-      "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
-      "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
-      "published": "Sun, 20 Mar 2022 07:01:50 GMT",
-      "source": "CNN World",
+      "title": "How a goat given as a graduation gift went viral",
+      "description": "Described as calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 23:38:10 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
     },
     {
-      "title": "Alleged victim tells Alan Jones’s barrister he was ‘groomed for 10 years’ and to ‘get real’ during combative cross-examination",
-      "description": "Former broadcaster has pleaded not guilty to 22 indecent assault and sexual touching charges in relation to six men Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Alan Jones allegedly groomed a junior staffer at 2GB for a decade, resulting in the young man sending multiple explicit texts to the broadcaster, a Sydney court has heard. As a young man, Complainant C was a driver for the 2GB star broadcaster when Jones allegedly touched his penis and kissed him, C has told Downing Centre local court. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/alan-jones-trial-alleged-victim-groomed-10-years-cross-examination-indecent-assault-charges-ntwnfb",
-      "published": "Tue, 18 Aug 2026 05:15:27 GMT",
-      "source": "The Guardian World",
+      "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
+      "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
+      "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
+      "published": "Sun, 20 Mar 2022 07:01:50 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1627,16 +1657,6 @@
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 08:07:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 06:40:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1688,6 +1708,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 18:03:23 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "description": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
+      "url": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 04:16:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Drone video shows drought-hit fields in England after driest July on record",
+      "description": "Drone video shows drought-hit fields in England after driest July on record",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
+      "published": "Tue, 18 Aug 2026 09:29:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1896,7 +1936,7 @@
       "title": "M 5.2 - 1 km SW of Otura, Spain",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-08-14 23:04:40 UTC 2026-08-14 23:04:40 UTC at epicenter Location 37.079°N 3.649°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2",
-      "published": "2026-08-17T19:02:20.614Z",
+      "published": "2026-08-18T09:29:06.644Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1973,26 +2013,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Putin visited Kuril Islands to 'punish' Japan over Ukraine stance",
-      "description": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of the territory.",
-      "url": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 17 Aug 2026 11:47:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Tourists seek cooler climates — but at what cost to nature?",
-      "description": "With heat records continually being broken and southern summers getting hotter, travelers are heading north. Fragile ecosystems are paying the price.",
-      "url": "https://www.dw.com/en/tourists-seek-cooler-climates-but-at-what-cost-to-nature/a-78362462?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 17 Aug 2026 11:03:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Senior FIFA official FIFA Kevin Lamour leaves after criticising Gianni Infantino",
       "description": "FIFA's Chief Operating ​Officer Kevin Lamour has been dismissed from his post. He had strongly criticised his boss Gianni Infantino and the latter's plan to set up a commercial company.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260818-fifa-chief-of-operations-kevin-lamour-leaves-after-criticizing-gianni-infatino",
@@ -2017,26 +2037,6 @@
       "description": "Israeli Prime Minister Benjamin Netanyahu and US envoy Jared Kushner agreed Monday that an American general would oversee the disarmament of Hamas, an Israeli official said, as Netanyahu insisted Israel would not withdraw from Gaza until the group gives up its weapons.The understanding comes as President Donald Trump’s administration seeks to revive its Gaza peace plan amid tensions with Netanyahu.",
       "url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
       "published": "Mon, 17 Aug 2026 18:14:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A new generation of Catalans tries to rekindle the independence movement",
-      "description": "Nearly 10 years after the attempted referendum on Catalan independence which led to violent clashes between the public and the police, the political demands of the independence movement have not been met. ENTR travelled to Catalonia in June to meet with young people there who are continuing the fight to preserve Catalan identity – not with politics, but with culture.",
-      "url": "https://www.france24.com/en/europe/20260817-new-generation-catalans-tries-rekindle-independence-movement",
-      "published": "Mon, 17 Aug 2026 13:53:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Sicilian museum hit by €80 million art theft",
-      "description": "Three works by Renaissance painter Antonello da Messina, valued at up to €80 million, were stolen from a museum in Messina, Sicily. Police are investigating the theft, which comes days after Italian authorities recovered three stolen works by Cézanne, Renoir and Matisse.",
-      "url": "https://www.france24.com/en/video/20260817-sicilian-museum-hit-by-%E2%82%AC80-million-art-theft",
-      "published": "Mon, 17 Aug 2026 13:20:15 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
