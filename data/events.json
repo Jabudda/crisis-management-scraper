@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T16:43:47.225102Z",
+  "last_updated": "2026-08-18T17:09:02.707762Z",
   "event_count": 224,
   "events": [
     {
@@ -188,16 +188,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168156",
       "published": "Mon, 17 Aug 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Virginia police seek others who fired shots in Virginia State University shooting that wounded 5",
-      "description": "Virginia State University shooting left five wounded as police seek additional shooters and work to determine if they acted in self-defense.",
-      "url": "https://www.foxnews.com/us/virginia-police-seek-others-fired-shots-virginia-state-university-shooting-wounded-5",
-      "published": "Mon, 17 Aug 2026 11:20:52 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -773,6 +763,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Penn State frat coke ring's alleged ringleader denied bail after missing arraignment, turning himself in",
+      "description": "Agostino Abbatiello of Westbury was denied bail after turning himself in as the alleged ringleader of a Penn State fraternity cocaine trafficking ring.",
+      "url": "https://www.foxnews.com/us/penn-state-frat-coke-ring-alleged-ringleader-denied-bail-missing-arraignment-turning-himself",
+      "published": "Tue, 18 Aug 2026 13:03:51 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
       "description": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
       "url": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
@@ -1213,16 +1213,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tupac Shakur murder trial kicks off as Duane 'Keffe D' Davis faces jury nearly three decades after shooting",
-      "description": "Keffe D Davis faces a Las Vegas murder trial for the 1996 drive-by shooting of Tupac Shakur, with his own book and police interview as key evidence.",
-      "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
-      "published": "Mon, 17 Aug 2026 10:34:18 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
       "description": "Jared Kushner warned Hamas it must disarm within 60 to 90 days or face Israel finishing the job, following a rare face-to-face meeting in Cairo.",
       "url": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
@@ -1316,7 +1306,7 @@
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
       "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 10:59:22 GMT",
+      "published": "Tue, 18 Aug 2026 17:00:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1573,6 +1563,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Masked menace films himself chasing residents as terrified victims scream for help: Police",
+      "description": "Surveillance video shows a masked man in a doll mask chasing and assaulting people near Philadelphia City Hall before fleeing into a train station.",
+      "url": "https://www.foxnews.com/us/masked-menace-films-himself-chasing-residents-terrified-victims-scream-help-police",
+      "published": "Tue, 18 Aug 2026 12:41:41 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
@@ -1604,7 +1604,7 @@
     },
     {
       "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "description": "The network accuses the administration of retaliation against ABC, as it \"disapproves of what ABC broadcasts\".",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
       "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 16:22:54 GMT",
       "source": "BBC News",
@@ -1914,7 +1914,7 @@
     },
     {
       "title": "Dressed for power: Giorgia Meloni and the language of fashion",
-      "description": "From Giorgia Meloni’s shift from dark suits to pastels to Angela Merkel’s signature jackets, politicians have long used clothing to shape how voters see them. In this day and age, power dressing has evolved.",
+      "description": "From Giorgia Meloni's shift from dark suits to pastels to Angela Merkel's signature jackets, politicians have long used clothing to shape how voters see them. In this day and age, power dressing has evolved.",
       "url": "https://www.dw.com/en/dressed-for-power-giorgia-meloni-and-the-language-of-fashion/a-78413559?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 18 Aug 2026 14:30:00 GMT",
       "source": "Deutsche Welle",
