@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T17:08:41.881177Z",
+  "last_updated": "2026-08-19T17:40:08.737421Z",
   "event_count": 225,
   "events": [
     {
@@ -58,16 +58,6 @@
       "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
       "published": "Wed, 19 Aug 2026 05:29:40 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Two workers killed, several injured after explosions tear through Ohio recycling facility",
-      "description": "Two workers were killed after two explosions tore through Brent Industries’ recycling facility in Toledo, Ohio, sparking a massive fire early Tuesday.",
-      "url": "https://www.foxnews.com/us/two-workers-killed-several-injured-explosions-tear-ohio-recycling-facility",
-      "published": "Tue, 18 Aug 2026 16:12:30 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -283,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+      "description": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 17:14:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "India news: Several killed in Kolkata hotel fire",
       "description": "At least nine people have died, including some Bangladeshi nationals, authorities said. Meanwhile, the building's owner was reportedly absconding. DW has more.",
       "url": "https://www.dw.com/en/india-news-several-killed-in-kolkata-hotel-fire/live-78421640?maca=en-rss-en-all-1573-xml-mrss",
@@ -383,10 +383,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "title": "US marshals survive deck collapse while serving warrant at sex offender's home",
+      "description": "Video captures members of a U.S. Marshals task force plunging to the ground when a deck collapsed as they served a warrant at the Missouri home of a sex offender.",
+      "url": "https://www.foxnews.com/us/us-marshals-survive-deck-collapse-serving-warrant-sex-offender-home",
+      "published": "Wed, 19 Aug 2026 13:07:13 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
       "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 15:50:22 GMT",
+      "published": "Wed, 19 Aug 2026 17:16:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -450,16 +460,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Dozens killed after gold mine collapse in Central African Republic",
-      "description": "Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 12:38:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -598,16 +598,6 @@
       "url": "https://www.france24.com/en/video/20260819-turkey-slams-israel-s-untenable-claims-after-strikes-on-syrian-base",
       "published": "Wed, 19 Aug 2026 14:35:12 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Two planes blow tires while landing at major US airport hours apart, FAA investigating",
-      "description": "The FAA is investigating after American Airlines and United Airlines planes suffered tire damage hours apart at Chicago O'Hare International Airport.",
-      "url": "https://www.foxnews.com/us/two-planes-blow-tires-landing-major-us-airport-hours-apart-faa-investigating",
-      "published": "Tue, 18 Aug 2026 16:32:57 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -1043,6 +1033,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US pressure on Israel needed for peace in Syria",
+      "description": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
+      "url": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 17:12:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Why aid entering Gaza may not reach those who need it",
       "description": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
       "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
@@ -1057,16 +1057,6 @@
       "description": "US war on Iran puts Cambodian children’s education at risk",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 12:56:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
-      "description": "'Busification', the term describing being captured on the street, is engulfed by abuse and corruption.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 11:47:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1556,7 +1546,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 11:00:21 GMT",
+      "published": "Wed, 19 Aug 2026 17:23:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1663,6 +1653,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+      "description": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 17:32:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+      "description": "New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 16:55:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Why extreme heat is much more dangerous for the elderly than we realised",
       "description": "Human heat tolerance limits are lower than previously thought, and age is a major risk, Stanford researchers say.",
       "url": "https://www.aljazeera.com/news/2026/8/19/why-extreme-heat-is-much-more-dangerous-for-the-elderly-than-we-realised?traffic_source=rss",
@@ -1717,26 +1727,6 @@
       "description": "Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.",
       "url": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 13:00:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-      "description": "The UAE announced the embargo, accusing Iran of launching missiles into its territory.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 12:37:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-      "description": "Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 11:47:35 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2148,6 +2138,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168146",
       "published": "Sat, 15 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Derek Chauvin targets George Floyd murder conviction with new claims his prosecution was unlawful",
+      "description": "Derek Chauvin's attorneys claim Tim Walz unlawfully assigned Keith Ellison to prosecute the George Floyd murder case, citing structural errors.",
+      "url": "https://www.foxnews.com/us/derek-chauvin-targets-george-floyd-murder-conviction-new-claims-his-prosecution-unlawful",
+      "published": "Wed, 19 Aug 2026 12:57:06 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
