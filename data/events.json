@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T18:09:51.291774Z",
-  "event_count": 223,
+  "last_updated": "2026-08-20T18:46:26.766255Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Russian strikes kill at least 12 in Kyiv, surrounding region",
@@ -273,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Peru: Strong earthquake shakes southern Andes",
+      "description": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysics Institute puts the figure at 7.2. There are no immediate reports of casualties.",
+      "url": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 20 Aug 2026 18:43:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
       "description": "From the frontlines of the deadliest-ever Ebola outbreak in Democratic Republic of the Congo (DRC), the UN World Health Organization (WHO) shared details on Tuesday of a massive push for community engagement, a day after yet another ambulance attack.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168157",
@@ -428,6 +438,16 @@
       "url": "https://abcnews.com/International/wireStory/liberia-charges-former-vice-president-drug-trafficking-offenses-135786616",
       "published": "Wed, 19 Aug 2026 17:18:19 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Irish authorities seek extradition warrant for suspect in murder of American mom Jamey Carney: report",
+      "description": "Ireland's DPP reviews murder charges against a Jordanian asylum seeker who allegedly killed Jamey Carney before fleeing to Istanbul and then Jordan.",
+      "url": "https://www.foxnews.com/us/irish-authorities-seek-extradition-warrant-suspect-murder-american-mom-jamey-carney",
+      "published": "Thu, 20 Aug 2026 14:04:20 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -623,16 +643,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 09:13:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
       "description": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
       "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
@@ -743,16 +753,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
-      "description": "Diego Garcia supports U.S. carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics.",
-      "url": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
-      "published": "Sun, 16 Aug 2026 20:38:23 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
@@ -844,7 +844,7 @@
     },
     {
       "title": "FBI arrests woman who allegedly plotted attack on New York state Capitol building",
-      "description": "No description available.",
+      "description": "An Albany woman accused of pledging allegiance to ISIS plotted to bomb the New York State Capitol, kill state senators and disguise the explosive as a food delivery, the FBI alleges.",
       "url": "https://www.foxnews.com/us/fbi-arrests-woman-who-allegedly-plotted-attack-new-york-state-capitol-building",
       "published": "Thu, 20 Aug 2026 13:53:54 -0400",
       "source": "Fox News US",
@@ -860,16 +860,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
-      "description": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 14:36:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -913,10 +903,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Third body found in Minneapolis in three days as police investigate string of deaths: report",
-      "description": "Three bodies were found in Minneapolis in three days near Stone Arch Bridge, East River Flats Park and Bde Maka Ska Lake. It's unclear if the bodies are connected to a crime.",
-      "url": "https://www.foxnews.com/us/third-body-found-minneapolis-three-days-police-investigate-string-deaths-report",
-      "published": "Wed, 19 Aug 2026 18:13:04 -0400",
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Hometown Judge backs Harvard, tosses antisemitism suit",
+      "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hometown-judge-backs-harvard-tosses-antisemitism-suit",
+      "published": "Thu, 20 Aug 2026 14:21:31 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 10,
@@ -1067,16 +1057,6 @@
       "description": "UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.",
       "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 15:36:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
-      "description": "Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 14:10:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1453,16 +1433,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about the outbreak of a rare kind of Ebola",
-      "description": "An Ebola outbreak in Congo has surpassed 5,000 confirmed cases",
-      "url": "https://abcnews.com/International/wireStory/outbreak-rare-kind-ebola-135774557",
-      "published": "Wed, 19 Aug 2026 13:40:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Driver accused of killing 2 college cyclists in Tennessee crash allegedly failed to brake: court docs",
       "description": "John Alexander Benfield showed no evidence of braking before striking Milligan University cyclists, killing two, according to a Tennessee court affidavit.",
       "url": "https://www.foxnews.com/us/driver-accused-killing-2-college-cyclists-tennessee-crash-allegedly-failed-brake-court-docs",
@@ -1573,6 +1543,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Cameroon's President Biya returns after a long stay abroad raises health concerns",
+      "description": "President Paul Biya has returned to Cameroon after more than two months abroad",
+      "url": "https://abcnews.com/International/wireStory/cameroons-president-biya-returns-after-long-stay-abroad-135814923",
+      "published": "Thu, 20 Aug 2026 14:11:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Togo detains French filmmakers over alleged immigration violations, advocacy group says",
       "description": "Media freedom group Reporters Without Borders says that two French filmmakers and their Togolese fixer have been jailed in Togo after more than three weeks in custody",
       "url": "https://abcnews.com/International/wireStory/togo-detains-french-filmmakers-alleged-immigration-violations-advocacy-135807968",
@@ -1593,6 +1573,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
+      "description": "China launched seasonal container service to Europe via Russia's Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
+      "url": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
+      "published": "Thu, 20 Aug 2026 14:22:17 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
+      "description": "Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 18:16:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1600,6 +1600,16 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "description": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 18:40:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -1658,6 +1668,26 @@
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 23:11:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "description": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 18:13:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
+      "description": "Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati.",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+      "published": "Thu, 20 Aug 2026 18:06:14 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1727,16 +1757,6 @@
       "description": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
       "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
       "published": "Thu, 20 Aug 2026 14:55:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-      "description": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-      "published": "Thu, 20 Aug 2026 13:39:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1873,6 +1893,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "M 6.7 - 38 km NW of Upahuacho, Peru",
+      "description": "PAGER - GREEN ShakeMap - VII DYFI? - V Time 2026-08-20 18:00:15 UTC 2026-08-20 18:00:15 UTC at epicenter Location 14.626°S 73.616°W Depth 66.67 km (41.42 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81",
+      "published": "2026-08-20T18:44:45.510Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "M 6.9 - 15 km NNW of Pematangsiantar, Indonesia",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-08-15 10:54:51 UTC 2026-08-15 10:54:51 UTC at epicenter Location 3.086°N 99.015°E Depth 172.53 km (107.20 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
@@ -1896,7 +1926,7 @@
       "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
       "description": "PAGER - YELLOW ShakeMap - VIII DYFI? - VIII Time 2026-08-14 21:58:21 UTC 2026-08-14 21:58:21 UTC at epicenter Location 8.310°S 121.352°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
-      "published": "2026-08-20T01:03:03.831Z",
+      "published": "2026-08-20T18:43:34.759Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1973,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
-      "description": "A Chinese court ordered the former billionaire's assets to be confiscated and fined Evergrande-related companies billions of dollars.",
-      "url": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 20 Aug 2026 07:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ceuta: FRANCE 24 brings you up to speed",
       "description": "🇪🇸 🌍 🔎 In Ceuta, the fate of migrants who crossed into the Spanish enclave at the end of July remains murky, but the trauma of the precarious journey remains. Most of the migrants who remain are forced to sleep in dangerous conditions, many among them unaccompanied minors. Meanwhile, the families of those who attempted the crossing have little to no news of what happened to their loved ones. FRANCE 24’s Hamza Hahboub, back from the enclave, brings you up-to-speed on the situation.",
       "url": "https://www.france24.com/en/video/20260820-ceuta-france-24-brings-you-up-to-speed",
@@ -2053,6 +2073,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pakistan may consider private hospital treatment for imprisoned ex-PM, minister says",
+      "description": "A senior Pakistani Cabinet minister says the government could consider allowing imprisoned former Prime Minister Imran Khan to receive treatment at a private hospital or abroad if adequate medical care is unavailable at a government facility",
+      "url": "https://abcnews.com/International/wireStory/pakistan-private-hospital-treatment-imprisoned-pm-khan-minister-135814473",
+      "published": "Thu, 20 Aug 2026 14:11:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Express train hits and kills 4 workers at a railway station in Japan",
       "description": "Four people working on a railway track in Japan died after an express train hit them",
       "url": "https://abcnews.com/International/wireStory/express-train-hits-kills-4-workers-railway-station-135802589",
@@ -2087,16 +2117,6 @@
       "description": "Syria's Interior Ministry says that Lebanon has extradited a former military officer from Lebanon to Syrian authorities",
       "url": "https://abcnews.com/International/wireStory/lebanon-extradites-assad-general-syria-trial-alleged-crimes-135785994",
       "published": "Wed, 19 Aug 2026 17:18:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canadian official condemns Israel’s 'unlawful invasion' and announces new aid to Lebanon",
-      "description": "A Canadian official has condemned what he called Israel’s “unlawful invasion” of Lebanon",
-      "url": "https://abcnews.com/International/wireStory/canadian-official-condemns-israels-unlawful-invasion-announces-new-135772258",
-      "published": "Wed, 19 Aug 2026 10:40:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2153,7 +2173,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "New judge has days to decide whether Karmelo Anthony's conviction and 35-year sentence survive",
+      "title": "Untapped Karmelo Anthony evidence cache showed he stalked ex-girlfriend, had 'knives' obsession: prosecutors",
       "description": "Karmelo Anthony's new trial motion faces a Monday deadline as retired Judge Michael Chitty must decide whether to overturn the murder conviction.",
       "url": "https://www.foxnews.com/us/new-judge-days-decide-whether-carmelo-anthony-conviction-35-year-sentence-survive",
       "published": "Thu, 20 Aug 2026 09:52:48 -0400",
@@ -2187,16 +2207,6 @@
       "description": "Harvard University agreed to pay $53 million to settle lawsuits after former morgue manager Cedric Lodge stole and sold donated human remains.",
       "url": "https://www.foxnews.com/us/harvard-agrees-53m-settlement-families-donated-body-parts-stolen-sold-black-market",
       "published": "Wed, 19 Aug 2026 20:41:00 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Florida woman accused of hiding thousands in stolen cash inside body after allegedly scamming senior",
-      "description": "Moniquie Love Turnbull allegedly posed as a bank representative to scam a senior citizen then entered jail with $3,200 in cash hidden in her body.",
-      "url": "https://www.foxnews.com/us/florida-woman-accused-hiding-thousands-stolen-cash-inside-body-allegedly-scamming-senior",
-      "published": "Wed, 19 Aug 2026 18:10:54 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
