@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T13:20:32.866231Z",
+  "last_updated": "2026-08-21T13:47:00.584360Z",
   "event_count": 224,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
+      "description": "Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities",
+      "url": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 13:30:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -83,13 +93,13 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Colombia: 13 dead in illegal gold mine collapse",
-      "description": "Another seven people were injured and all those missing have been accounted for. Accidents at unregulated mines are fairly common in Colombia.",
-      "url": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 20 Aug 2026 16:11:00 GMT",
+      "title": "What to do when wildfires trigger trauma",
+      "description": "The wildfires this summer have broken records in Germany and are unlikely to subside in future. Psychologists say post-traumatic stress disorder caused by such disasters is serious but can be treated if people seek help.",
+      "url": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 21 Aug 2026 13:36:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
-      "severity_score": 24,
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -153,16 +163,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Indonesia warns against starting open blazes as haze from wildfires spreads to Malaysia",
-      "description": "Indonesian authorities warn they will take legal action against anyone starting open fires, as huge blazes on Borneo and elsewhere created a choking haze that blankets cities",
-      "url": "https://abcnews.com/International/wireStory/indonesia-warns-starting-open-blazes-haze-wildfires-spreads-135831582",
-      "published": "Fri, 21 Aug 2026 08:30:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
       "description": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are “far from over,” the UN warned on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168163",
@@ -188,16 +188,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 13:10:39 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-      "description": "German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:10:52 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -423,6 +413,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Sweden: Several wounded in school sword attack",
+      "description": "Police say they have arrested an individual who stabbed several people with a sword at a high school in central Sweden.",
+      "url": "https://www.dw.com/en/sweden-several-wounded-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 21 Aug 2026 13:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
       "description": "Amnesty International said they ‘must be released immediately and unconditionally’.",
       "url": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
@@ -498,6 +498,16 @@
       "url": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 21 Aug 2026 11:06:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian missile barrage across Ukraine's capital kills at least 12 and wounds 33",
+      "description": "A Russian missile barrage has killed at least 12 people in Ukraine's capital",
+      "url": "https://abcnews.com/International/wireStory/russian-missile-barrage-ukraines-capital-kills-12-wounds-135796638",
+      "published": "Thu, 20 Aug 2026 02:41:30 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -613,20 +623,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Japan executes a man convicted of setting fire that killed 5",
-      "description": "Japan says it has executed a man convicted of killing five people after setting fire to a pachinko parlor in 2009",
-      "url": "https://abcnews.com/International/wireStory/japan-executes-man-convicted-setting-fire-killed-5-135828887",
-      "published": "Fri, 21 Aug 2026 01:36:20 -0400",
+      "title": "More bodies recovered after Central African Republic mine collapse kills over 100",
+      "description": "Hopes of finding survivors from a collapsed gold mine in Central African Republic are fading as local workers say the recovery efforts lack equipment and expertise",
+      "url": "https://abcnews.com/International/wireStory/rescuers-recover-bodies-after-central-african-republic-mine-135799464",
+      "published": "Thu, 20 Aug 2026 06:58:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "More bodies recovered after Central African Republic mine collapse kills over 100",
-      "description": "Hopes of finding survivors from a collapsed gold mine in Central African Republic are fading as local workers say the recovery efforts lack equipment and expertise",
-      "url": "https://abcnews.com/International/wireStory/rescuers-recover-bodies-after-central-african-republic-mine-135799464",
-      "published": "Thu, 20 Aug 2026 06:58:10 -0400",
+      "title": "Japan executes a man convicted of setting fire that killed 5",
+      "description": "Japan says it has executed a man convicted of killing five people after setting fire to a pachinko parlor in 2009",
+      "url": "https://abcnews.com/International/wireStory/japan-executes-man-convicted-setting-fire-killed-5-135828887",
+      "published": "Fri, 21 Aug 2026 01:36:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -693,16 +703,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Philippines floods fuel anger over alleged corruption",
-      "description": "Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:01:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -743,6 +743,16 @@
       "severity_level": "High"
     },
     {
+      "title": "New opposition group plans protest in Tunisia after extreme heat-driven power and water cuts",
+      "description": "Tunisians are facing water and electricity shortages amid extreme heat, fueling anger at the country's leadership",
+      "url": "https://abcnews.com/International/wireStory/new-opposition-group-plans-protest-tunisia-after-extreme-135803464",
+      "published": "Thu, 20 Aug 2026 09:21:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Magnitude 6.7 earthquake shakes Peru’s southern Andes, USGS says",
       "description": "A magnitude 6.7 earthquake shook Peru’s southern Andes Mountains on Thursday",
       "url": "https://abcnews.com/International/wireStory/magnitude-67-earthquake-shaken-perus-southern-andes-usgs-135816218",
@@ -757,16 +767,6 @@
       "description": "A magnitude 6.7 earthquake has shaken Peru’s southern Andes, USGS says",
       "url": "https://abcnews.com/International/wireStory/magnitude-67-earthquake-shaken-perus-southern-andes-usgs-135815893",
       "published": "Fri, 21 Aug 2026 02:21:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "New opposition group plans protest in Tunisia after extreme heat-driven power and water cuts",
-      "description": "Tunisians are facing water and electricity shortages amid extreme heat, fueling anger at the country's leadership",
-      "url": "https://abcnews.com/International/wireStory/new-opposition-group-plans-protest-tunisia-after-extreme-135803464",
-      "published": "Thu, 20 Aug 2026 09:21:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1003,6 +1003,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Weddings in Gaza offer rare moments of joy amid genocide",
+      "description": "In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 13:29:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US allies in Asia wary as Trump moves military assets for Iran war",
       "description": "Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.",
       "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
@@ -1037,16 +1047,6 @@
       "description": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 11:12:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-      "description": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:59:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1117,16 +1117,6 @@
       "description": "Record-low water levels at Lake Velence have made boating difficult and closed swimming beaches, offering a stark view of Hungary’s worsening water crisis",
       "url": "https://abcnews.com/International/wireStory/hungary-drained-waters-generations-now-drought-exposing-cost-135829141",
       "published": "Fri, 21 Aug 2026 01:33:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US, South Korean militaries wrapping up drills early",
-      "description": "The U.S. and South Korean militaries are wrapping their annual drills six days earlier than initially scheduled in a conciliatory gesture toward North Korea",
-      "url": "https://abcnews.com/International/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829040",
-      "published": "Fri, 21 Aug 2026 01:34:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1243,16 +1233,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: Powerful storms turn deadly",
-      "description": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated money to the far-right AfD.",
-      "url": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 20 Aug 2026 14:38:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1293,10 +1273,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hong Kong court convicts 2 former Tiananmen vigil organizers in national security case",
-      "description": "Hong Kong court convicts 2 former Tiananmen vigil organizers in national security case",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-court-convicts-2-former-tiananmen-vigil-135827106",
-      "published": "Fri, 21 Aug 2026 02:16:33 -0400",
+      "title": "What to know about the trial of former Tiananmen vigil organizers before a verdict",
+      "description": "Two activists who organized Hong Kong's annual Tiananmen Square vigil are likely to hear a verdict in their case brought under a China-imposed national security law",
+      "url": "https://abcnews.com/International/wireStory/trial-former-tiananmen-vigil-organizers-verdict-135792930",
+      "published": "Thu, 20 Aug 2026 02:34:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1307,6 +1287,16 @@
       "description": "Two former organizers of Hong Kong’s decades-old vigil in remembrance of the 1989 Tiananmen Square crackdown have been convicted in a national security case",
       "url": "https://abcnews.com/International/wireStory/hong-kong-court-deliver-verdict-2-prominent-former-135823115",
       "published": "Fri, 21 Aug 2026 01:22:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hong Kong court convicts 2 former Tiananmen vigil organizers in national security case",
+      "description": "Hong Kong court convicts 2 former Tiananmen vigil organizers in national security case",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-court-convicts-2-former-tiananmen-vigil-135827106",
+      "published": "Fri, 21 Aug 2026 02:16:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1503,6 +1493,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Liverpool preview: Five key questions heading into 2026-27 season",
+      "description": "Liverpool's new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 13:29:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1553,20 +1553,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Cameroon's President Biya returns after a long stay abroad raises health concerns",
-      "description": "President Paul Biya has returned to Cameroon after more than two months abroad",
-      "url": "https://abcnews.com/International/wireStory/cameroons-president-biya-returns-after-long-stay-abroad-135814923",
-      "published": "Thu, 20 Aug 2026 14:11:02 -0400",
+      "title": "Togo detains French filmmakers over alleged immigration violations, advocacy group says",
+      "description": "Media freedom group Reporters Without Borders says that two French filmmakers and their Togolese fixer have been jailed in Togo after more than three weeks in custody",
+      "url": "https://abcnews.com/International/wireStory/togo-detains-french-filmmakers-alleged-immigration-violations-advocacy-135807968",
+      "published": "Thu, 20 Aug 2026 10:58:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
     },
     {
-      "title": "Togo detains French filmmakers over alleged immigration violations, advocacy group says",
-      "description": "Media freedom group Reporters Without Borders says that two French filmmakers and their Togolese fixer have been jailed in Togo after more than three weeks in custody",
-      "url": "https://abcnews.com/International/wireStory/togo-detains-french-filmmakers-alleged-immigration-violations-advocacy-135807968",
-      "published": "Thu, 20 Aug 2026 10:58:01 -0400",
+      "title": "Cameroon's President Biya returns after a long stay abroad raises health concerns",
+      "description": "President Paul Biya has returned to Cameroon after more than two months abroad",
+      "url": "https://abcnews.com/International/wireStory/cameroons-president-biya-returns-after-long-stay-abroad-135814923",
+      "published": "Thu, 20 Aug 2026 14:11:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1683,6 +1683,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "El Nino set to be most intense ‘for over a century’: UK forecasters",
+      "description": "Met Office predicts 'unprecedented' sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+      "published": "Fri, 21 Aug 2026 13:12:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "South Korea footballers urge safety after extreme heat statistics",
       "description": "South Korea professional football association urges stronger heat protections in face of rising temperatures.",
       "url": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
@@ -1727,16 +1737,6 @@
       "description": "The sister of Pakistan’s former prime minister Imran Khan says he told her he was being tortured in jail.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-clip-imran-khan-sister-pk?traffic_source=rss",
       "published": "Fri, 21 Aug 2026 12:00:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Serie A: Key talking points heading into the new 2026-27 season",
-      "description": "Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.",
-      "url": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
-      "published": "Fri, 21 Aug 2026 10:56:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1913,6 +1913,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Swiss tourist jailed in Bali for insulting Hindu holiday",
+      "description": "The 26-year-old was given a one-year prison sentence for offensive remarks posted on Instagram. During the trial, he apologized to the Balinese people for denigrating the Day of Silence and said he regretted his actions.",
+      "url": "https://www.dw.com/en/swiss-tourist-jailed-in-bali-for-insulting-hindu-holiday/a-78459089?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 21 Aug 2026 13:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany investigates arms cache found in woods near Berlin",
       "description": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
       "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
@@ -1967,16 +1977,6 @@
       "description": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than ​three years behind bars since being removed from office in 2022.",
       "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 20 Aug 2026 21:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Drought in Germany and Europe are driving up costs",
-      "description": "Ongoing drought in Europe is causing rivers to dry up and crops to fail. Transport costs are rising and the price of food has exploded. Is inflation due to extreme weather?",
-      "url": "https://www.dw.com/en/drought-in-germany-and-europe-are-driving-up-costs/a-78447266?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 20 Aug 2026 16:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2073,20 +2073,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "First group of deportees arrives in troubled Haiti after US ends TPS program",
-      "description": "The U.S. has deported more than 160 people to Haiti for the first time since the Trump administration won a legal battle to end Temporary Protected Status for some 350,000 Haitians",
-      "url": "https://abcnews.com/International/wireStory/group-deportees-arrives-troubled-haiti-after-us-ends-135827934",
-      "published": "Fri, 21 Aug 2026 02:15:24 -0400",
+      "title": "Pakistan may consider private hospital treatment for imprisoned ex-PM, minister says",
+      "description": "A senior Pakistani Cabinet minister says the government could consider allowing imprisoned former Prime Minister Imran Khan to receive treatment at a private hospital or abroad if adequate medical care is unavailable at a government facility",
+      "url": "https://abcnews.com/International/wireStory/pakistan-private-hospital-treatment-imprisoned-pm-khan-minister-135814473",
+      "published": "Thu, 20 Aug 2026 14:11:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "US Treasury sanctions Ecuador-to-US cocaine trafficking network",
-      "description": "The U.S. Treasury has sanctioned 15 people involved in a network allegedly shipping cocaine from Ecuador through Mexico to the U.S. The operation uses Ecuador-based fishing vessels to transfer cocaine to power boats heading north",
-      "url": "https://abcnews.com/International/wireStory/us-treasury-sanctions-ecuador-us-cocaine-trafficking-network-135825298",
-      "published": "Fri, 21 Aug 2026 07:28:24 -0400",
+      "title": "A historic boat emerges in Serbia as Europe's rivers run dry from drought and heat",
+      "description": "The wreck of a steam tugboat from the early 1900s has emerged from shrinking waters in Serbia",
+      "url": "https://abcnews.com/International/wireStory/historic-boat-emerges-serbia-europes-rivers-run-dry-135797113",
+      "published": "Thu, 20 Aug 2026 03:36:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2103,20 +2103,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pakistan may consider private hospital treatment for imprisoned ex-PM, minister says",
-      "description": "A senior Pakistani Cabinet minister says the government could consider allowing imprisoned former Prime Minister Imran Khan to receive treatment at a private hospital or abroad if adequate medical care is unavailable at a government facility",
-      "url": "https://abcnews.com/International/wireStory/pakistan-private-hospital-treatment-imprisoned-pm-khan-minister-135814473",
-      "published": "Thu, 20 Aug 2026 14:11:48 -0400",
+      "title": "Express train hits and kills 4 workers at a railway station in Japan",
+      "description": "Four people working on a railway track in Japan died after an express train hit them",
+      "url": "https://abcnews.com/International/wireStory/express-train-hits-kills-4-workers-railway-station-135802589",
+      "published": "Thu, 20 Aug 2026 21:54:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Express train hits and kills 4 workers at a railway station in Japan",
-      "description": "Four people working on a railway track in Japan died after an express train hit them",
-      "url": "https://abcnews.com/International/wireStory/express-train-hits-kills-4-workers-railway-station-135802589",
-      "published": "Thu, 20 Aug 2026 21:54:14 -0400",
+      "title": "First group of deportees arrives in troubled Haiti after US ends TPS program",
+      "description": "The U.S. has deported more than 160 people to Haiti for the first time since the Trump administration won a legal battle to end Temporary Protected Status for some 350,000 Haitians",
+      "url": "https://abcnews.com/International/wireStory/group-deportees-arrives-troubled-haiti-after-us-ends-135827934",
+      "published": "Fri, 21 Aug 2026 02:15:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
