@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:09:18.122973Z",
+  "last_updated": "2026-08-22T05:40:46.609538Z",
   "event_count": 222,
   "events": [
     {
@@ -336,7 +336,7 @@
       "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
       "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 03:17:29 GMT",
+      "published": "Sat, 22 Aug 2026 05:15:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
@@ -410,16 +410,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Key European leaders demand Israel halt West Bank settlement project",
-      "description": "France, Italy, Britain and Germany on Thursday piled on mounting international condemnation of a major settlement project in the occupied West Bank, after Israeli authorities opened bidding for more than 1,200 homes in the area. The E1 plan was green-lit by Israel last year and would further separate east Jerusalem, occupied and annexed by Israel and predominantly inhabited by Palestinians, from the West Bank. FRANCE 24's International Affairs Editor Philip Turle tells us more.",
-      "url": "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "published": "Fri, 21 Aug 2026 11:32:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -1293,7 +1283,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
       "description": "Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.",
       "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 04:02:32 +0000",
@@ -1324,10 +1314,20 @@
     },
     {
       "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-      "description": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trade deal by the deadline of midnight on Friday. Canadian officials had worked hard in good faith but “last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal”, Carney said in a statement. Continue reading...",
+      "description": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trade deal by the deadline of midnight on Friday. Canadian officials had worked hard in good faith but “last-minute changes in the US proposed terms were unfair, uneconomic and called into question the reliability of any deal”, Carney said in a statement. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "published": "Sat, 22 Aug 2026 04:23:38 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Carney says Canada will match US tariffs 'dollar for dollar' after failed trade negotiations",
+      "description": "Canadian Prime Minister Mark Carney vowed that his country will match the US tariffs \"dollar for dollar to protect our workers and businesses\", after hefty US tariffs on some Canadian products took effect on Saturday following days of failed negotiations.",
+      "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
+      "published": "Sat, 22 Aug 2026 04:29:13 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1923,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Germany investigates arms cache found in woods near Berlin",
+      "description": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
+      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 22 Aug 2026 04:31:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
       "description": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. Canada's Mark Carney said the terms proposed were \"unfair.\"",
       "url": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-xml-mrss",
@@ -1947,16 +1957,6 @@
       "description": "The 26-year-old was given a one-year prison sentence for offensive remarks posted on Instagram. During the trial, he apologized to the Balinese people for denigrating the Day of Silence and said he regretted his actions.",
       "url": "https://www.dw.com/en/swiss-tourist-jailed-in-bali-for-insulting-hindu-holiday/a-78459089?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 21 Aug 2026 13:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany investigates arms cache found in woods near Berlin",
-      "description": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
-      "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 21 Aug 2026 12:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
