@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:07:56.460727Z",
+  "last_updated": "2026-08-22T19:38:20.297507Z",
   "event_count": 202,
   "events": [
     {
@@ -23,10 +23,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "A moderate earthquake of magnitude 5.9 shakes eastern Japan. No tsunami alert is issued",
+      "title": "A moderate, magnitude 5.9 earthquake shakes eastern Japan. No tsunami alert is issued",
       "description": "A moderate earthquake with a preliminary magnitude of 5.9 has rattled eastern Japan, including the Tokyo area, but no tsunami warning was issued",
       "url": "https://abcnews.com/International/wireStory/moderate-earthquake-magnitude-59-shakes-eastern-japan-tsunami-135870135",
-      "published": "Sat, 22 Aug 2026 15:01:35 -0400",
+      "published": "Sat, 22 Aug 2026 15:19:47 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 41,
@@ -123,16 +123,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-      "description": "Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 14:37:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
       "description": "As the deadliest Ebola outbreak in DR Congo’s history continued spreading on Friday, UN responders renewed their urgent appeal for immediate international support, with existing funding for lifesaving work critically low.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168182",
@@ -208,6 +198,16 @@
       "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 13:44:43 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+      "description": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:18:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -536,7 +536,7 @@
       "title": "Scores of people kidnapped from a mosque as armed groups attacked multiple villages in Nigeria",
       "description": "Police in Nigeria report that a number of people have been kidnapped from a mosque in Niger state",
       "url": "https://abcnews.com/International/wireStory/scores-people-kidnapped-mosque-armed-groups-attacked-multiple-135870436",
-      "published": "Sat, 22 Aug 2026 15:00:43 -0400",
+      "published": "Sat, 22 Aug 2026 15:08:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -550,6 +550,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+      "description": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:24:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -598,6 +608,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 18:09:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
+      "description": "In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine's 'most vulnerable' economic sectors.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:24:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -793,6 +813,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Cargo vessel sinks off Indian coast",
+      "description": "The Panama‑flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carrying iron ore from India to Singapore.",
+      "url": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 22 Aug 2026 19:24:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Congo receives more than 16,000 doses of Ebola vaccine amid unprecedented outbreak",
       "description": "Congo has received more than 16,000 doses of the Ervebo vaccine as the country grapples with the fastest Ebola outbreak in history, the country’s health minister said",
       "url": "https://abcnews.com/International/wireStory/congo-receives-16000-doses-ebola-vaccine-grapples-unprecedented-135860726",
@@ -933,26 +963,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-      "description": "Iran says production is ongoing, but details will not be revealed during war conditions.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 14:19:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-      "description": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 13:44:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -997,16 +1007,6 @@
       "description": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"",
       "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 21 Aug 2026 18:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran's president: Time to end war in 'position of strength'",
-      "description": "Iranian media cite Masoud Pezeshkian as saying it would be a good time to end the war with the US, \"as we are in a position of strength and dignity.\" He also said Tehran would never \"bow to intimidation.\"",
-      "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 21 Aug 2026 15:37:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1313,16 +1313,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-      "description": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:45:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1463,16 +1453,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Man Utd humiliated at Hull to open Premier League account",
-      "description": "Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 13:54:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1573,6 +1553,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
+      "description": "Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:29:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "description": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:13:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "description": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 19:00:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
       "description": "Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
@@ -1637,16 +1647,6 @@
       "description": "Designed to stop heatstroke in its tracks, the \"Do Hiemon Box\" delivers rapid, targeted cooling during extreme weather.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
       "published": "Sat, 22 Aug 2026 15:48:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-      "description": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 15:30:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1786,7 +1786,7 @@
       "title": "M 3.9 - 1 km WSW of Hope, Alaska",
       "description": "ShakeMap - III DYFI? - IV Time 2026-08-22 07:42:40 UTC 2026-08-22 07:42:40 UTC at epicenter Location 60.911°N 149.666°W Depth 31.30 km (19.45 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qoynpe",
-      "published": "2026-08-22T19:01:23.735Z",
+      "published": "2026-08-22T19:15:57.115Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
