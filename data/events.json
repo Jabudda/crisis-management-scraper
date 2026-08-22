@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T12:07:28.325949Z",
+  "last_updated": "2026-08-22T12:46:39.034355Z",
   "event_count": 221,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 12:36:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -70,26 +80,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 10:01:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russian strikes in Ukraine kill at least four a day after deadly drone attack on shopping centre",
-      "description": "At least four people, including two children, were reported dead early Saturday by local authorities, after Russian strikes on Ukraine. The strikes came after a series of Russian bombings killed at least 20 people in Ukraine on Friday, including 16 in a daytime drone attack on a busy shopping centre in President Volodymyr Zelensky's hometown of Kryvyi Rih.",
-      "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others",
-      "published": "Sat, 22 Aug 2026 06:02:27 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -183,6 +173,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
+      "description": "A US federal judge has overturned a Trump administration policy suspending immigrant visa processing for nationals of 75 countries, ruling that the measure was \"contrary to law\" and exceeded the State Department’s legal authority. The decision on Friday marks a setback to Trump's immigration crackdown, though the government can appeal.",
+      "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
+      "published": "Sat, 22 Aug 2026 12:44:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Russian strikes Zelensky's hometown in Ukraine, killing 15 people, wounding 130",
       "description": "Russian drones struck a shopping centre in the city of Kryvyi Rih in central Ukraine this Friday. 14 people were killed. Authorities reported that children were among the scores of people injured in the strikes, which targeted President Volodymyr Zelensky’s hometown. Details by Nick Rushworth.",
       "url": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130",
@@ -208,16 +208,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 21:03:24 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-      "description": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 04:30:20 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -373,6 +363,16 @@
       "severity_level": "High"
     },
     {
+      "title": "100 former French and British ambassadors accuse Israel of ethnic cleansing",
+      "description": "Former British and French diplomats are urging action over what they say is Israel’s ‘erasure’ of Palestine. More than 100 of those diplomats have penned a letter to the French President and the British Prime Minister, calling for a ban on trade and arms sales to press Israel to accept a Palestinian state. The unprecedented joint letter directly accuses Israel of ethnic cleansing and warns that the world no longer sees it as a genuine democracy. Our correspondent in Jerusalem Noga Tarnopolsky tells us about the significance of this letter.",
+      "url": "https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing",
+      "published": "Sat, 22 Aug 2026 12:30:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Russian and Ukrainian attacks kill 5 a day after deadly shopping mall drone strike",
       "description": "Authorities say that Russian and Ukrainian drone and missile strikes have killed at least five people",
       "url": "https://abcnews.com/International/wireStory/russian-ukrainian-attacks-kill-5-people-day-after-135860467",
@@ -428,16 +428,6 @@
       "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
       "published": "Thu, 20 Aug 2026 00:14:17 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Marseille kick off new Ligue 1 season by thrashing Strasbourg at home",
-      "description": "Algerian international striker Amine Gouiri scored a second-half double for Marseille, who powered to a 4-0 victory over Strasbourg in the curtain-raiser for the new Ligue 1 season on Friday evening.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260822-marseille-kick-off-new-ligue-1-season-by-thrashing-strasbourg-at-home",
-      "published": "Sat, 22 Aug 2026 08:38:16 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -703,6 +693,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+      "description": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+      "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 12:09:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
       "description": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
       "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
@@ -727,16 +727,6 @@
       "description": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia’s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia’s Pacific fleet said on Thursday that it had fired Bastion surface-to-ship missiles from Etorofu, the largest island in the disputed archipelago, simulating an attack on enemy vessels, hitting all of its targets approximately 300km away. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
       "published": "Fri, 21 Aug 2026 04:54:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-      "description": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea’s eastern waters. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "published": "Thu, 20 Aug 2026 10:25:29 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -1003,6 +993,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Chinese robot beats Usain Bolt's 100m world record",
+      "description": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race.",
+      "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 22 Aug 2026 12:41:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "FIFA sanctions Argentina over brawl at World Cup final game",
       "description": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee. Story by Nick Rushworth.",
       "url": "https://www.france24.com/en/fifa-sanctions-argentina-over-brawl-at-world-cup-final-game",
@@ -1058,6 +1058,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 22 Aug 2026 03:43:26 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+      "description": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+      "published": "Sat, 22 Aug 2026 11:58:55 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1353,16 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Canada vows to match US tariffs 'dollar for dollar' after failed trade negotiations",
-      "description": "Canadian Prime Minister Mark Carney vowed that his country will match the US tariffs \"dollar for dollar to protect our workers and businesses\", after hefty US tariffs on some Canadian products took effect on Saturday following days of failed negotiations.",
-      "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
-      "published": "Sat, 22 Aug 2026 04:29:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Hong Kong's Tiananmen vigil organisers convicted by court",
       "description": "Two organisers of Hong Kong's decades-old vigil commemorating the 1989 Tiananmen Square crackdown have been convicted under a controversial national security law.",
       "url": "https://news.sky.com/story/hong-kongs-tiananmen-vigil-organisers-convicted-by-court-13575225",
@@ -1418,16 +1418,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 16:20:55 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Nigeria and the Sahel: A growing security divide",
-      "description": "A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
-      "published": "Sat, 22 Aug 2026 04:30:07 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1543,6 +1533,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "100 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
+      "description": "Former British and French diplomats are urging action over what they say is Israel’s \"erasure\"of Palestine. More than 100 of those diplomats have penned a letter to the French President and the British Prime Minister calling for a ban on trade and arms sales to press Israel to accept a Palestinian state. Among the signatories: Sir Vincent Fean, British former Consul-General Jerusalem and current trustee of the Britain Palestine Project. What does he hope the letter will achieve? He answered our questions.",
+      "url": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
+      "published": "Sat, 22 Aug 2026 12:32:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Woman’s alleged ISIS radicalization unfolded online before Capitol bomb plot: court docs",
       "description": "Jessica Bowie allegedly scouted the New York State Capitol five times and bought bomb-making materials before FBI informants helped end her plot.",
       "url": "https://www.foxnews.com/us/womans-alleged-isis-radicalization-unfolded-online-before-capitol-bomb-plot-court-docs",
@@ -1653,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
+      "description": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police. A worker on Japan’s highest mountain discovered the child sitting alone on a bench near the sixth station of the Fujinomiya trail at an altitude of more than 2,000 metres (6,500 feet) on Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
+      "published": "Sat, 22 Aug 2026 12:25:16 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Sorrow as community pays tribute to ‘shining light’ Lily Hooper after NSW hiking tragedy",
       "description": "The 18-year-old remembered as a talented athlete with an infectious smile and ‘one of those people who everyone simply liked’ Get our breaking news email , free app or daily news podcast Tributes have flowed for 18-year-old Lily Hooper, remembered as an adventurous, multitalented athlete with an infectious smile, after her body was found on Thursday afternoon, eight days after she disappeared while hiking in the New South Wales southern highlands. The teenager was a fixture across local sporting and community groups in the Wollondilly region, training in martial arts, alongside her job as a Sydney BridgeClimb guide. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy",
@@ -1696,7 +1706,7 @@
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 11:21:05 GMT",
+      "published": "Sat, 22 Aug 2026 12:20:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2003,16 +2013,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Panama Canal to cap ship transits due to El Nino drought",
-      "description": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.",
-      "url": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 21 Aug 2026 12:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "TikTok settles children's privacy case with $400 million payment",
       "description": "Tiktok has reached an agreement with the US Department of Justice in its privacy case against the social media platform. The company had been accused of violating the Children's Online Privacy Protection Act, which requires services aimed at children under the age of 13 to obtain parental consent before collecting their personal information. The social media giant has agreed to pay $300 million immediately with a further $100 million due, according to the settlement. Story by Camille Corcoran.",
       "url": "https://www.france24.com/en/tiktok-settles-children-s-privacy-case-with-400-million-payment",
@@ -2123,6 +2123,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Charles Manson's granddaughter reveals moment she discovered dark family secret: 'It was devastating'",
+      "description": "Sophia Maddox was living in Los Angeles when a phone call from her father revealed Charles Manson was her grandfather, sending her on a painful quest.",
+      "url": "https://www.foxnews.com/us/charles-manson-granddaughter-reveals-moment-discovered-dark-family-secret-devastating",
+      "published": "Sat, 22 Aug 2026 08:00:24 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Late-night bull run ends with a little cowboy know-how on busy California highway",
       "description": "A loose bull ran along Highway 35 for hours before Half Moon Bay ranch foreman Samuel Ramos Palomino answered the late-night call for help.",
       "url": "https://www.foxnews.com/us/late-night-bull-run-ends-little-cowboy-know-how-busy-california-highway",
@@ -2167,16 +2177,6 @@
       "description": "Karmelo Anthony's new trial hearing centers on an unwritten agreement that kept him from testifying in the Austin Metcalf murder case in Frisco.",
       "url": "https://www.foxnews.com/us/carmelo-anthony-fights-new-trial-lawyers-clash-unwritten-deal-shaped-case",
       "published": "Fri, 21 Aug 2026 11:00:01 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lindsay Clancy's ex-husband has quietly remarried and started over amid her murder trial",
-      "description": "Patrick Clancy testified about his children as Lindsay Clancy's defense argues postpartum psychosis.",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial",
-      "published": "Fri, 21 Aug 2026 00:00:47 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
