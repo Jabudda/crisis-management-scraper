@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T19:08:01.266625Z",
+  "last_updated": "2026-08-23T19:38:25.977602Z",
   "event_count": 222,
   "events": [
     {
@@ -63,26 +63,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Moderate earthquake shakes Japan, injuring more than 30 in the Tokyo region",
-      "description": "A moderate earthquake with a preliminary magnitude of 5.9 has rattled eastern Japan, including the Tokyo area, but no tsunami warning was issued",
-      "url": "https://abcnews.com/International/wireStory/moderate-earthquake-magnitude-59-shakes-eastern-japan-tsunami-135870135",
-      "published": "Sun, 23 Aug 2026 07:35:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 37,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-      "description": "A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 17:55:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
       "title": "New initiative launched to shield terrorism victims from online harm",
       "description": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168186",
@@ -108,6 +88,16 @@
       "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
       "published": "Sun, 23 Aug 2026 12:30:37 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
+      "description": "The wildfires burning across Europe this summer have exposed a potentially deadly threat lurking beneath the blackened landscape: rusty bombs and mines from World War I and II",
+      "url": "https://abcnews.com/International/wireStory/wildfires-expose-detonate-buried-bombs-mines-wwi-wwii-135860099",
+      "published": "Sat, 22 Aug 2026 05:59:51 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -233,6 +223,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+      "description": "Authorities said the fire was caused by humans.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 17:55:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
       "description": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
       "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-xml-mrss",
@@ -303,6 +303,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Uncontained brush fire in Nevada reportedly triggered by human activity; inferno grows to 13K acres",
+      "description": "Nevada Gov. Joe Lombardo declared a state of emergency as the Hawk Fire exploded across 13,000 acres, threatening 1,000 homes outside of Reno.",
+      "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+      "published": "Sun, 23 Aug 2026 08:18:27 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts",
       "description": "Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.",
       "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
@@ -363,16 +373,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-      "description": "Iran's president claims the world has accepted that Iran has won its conflict with the United States",
-      "url": "https://abcnews.com/International/wireStory/iran-world-accepted-defeated-us-middle-east-developments-135861227",
-      "published": "Sat, 22 Aug 2026 05:55:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Russian and Ukrainian attacks kill 5 a day after deadly shopping mall drone strike",
       "description": "Authorities say that Russian and Ukrainian drone and missile strikes have killed at least five people",
       "url": "https://abcnews.com/International/wireStory/russian-ukrainian-attacks-kill-5-people-day-after-135860467",
@@ -383,11 +383,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Nevada brush fire spreads to 10,500 acres as governor declares state of emergency",
-      "description": "Nevada Gov. Joe Lombardo declared a state of emergency as the Hawk Fire exploded across 10,500 acres, threatening 1,000 homes outside of Reno.",
-      "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
-      "published": "Sun, 23 Aug 2026 08:18:27 -0400",
-      "source": "Fox News US",
+      "title": "Russian attacks on Ukraine kill 2 a day after deadly shopping mall drone strike",
+      "description": "Russian drone and missile strikes killed at least two people overnight in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-ukraine-kill-2-people-day-after-135860466",
+      "published": "Sat, 22 Aug 2026 06:47:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
+      "description": "Iran's president claims the world has accepted that Iran has won its conflict with the United States",
+      "url": "https://abcnews.com/International/wireStory/iran-world-accepted-defeated-us-middle-east-developments-135861227",
+      "published": "Sat, 22 Aug 2026 05:55:52 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -470,6 +480,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Zhou Bo: China’s alternative to Western power",
+      "description": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.",
+      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 19:00:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -693,10 +713,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "description": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 13:20:57 +0000",
+      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+      "description": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 18:47:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -753,16 +773,6 @@
       "severity_level": "High"
     },
     {
-      "title": "2 rescued off India's eastern coast after distress alert from Panama-flagged cargo ship",
-      "description": "A search and rescue operation is underway off India’s eastern coast after a distress alert and loss of contact with a Panama-flagged cargo ship",
-      "url": "https://abcnews.com/International/wireStory/2-rescued-off-indias-eastern-coast-after-distress-135879344",
-      "published": "Sun, 23 Aug 2026 06:18:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
       "description": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel's resolve after the Abu al-Duhur airbase strike in Syria.",
       "url": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
@@ -796,7 +806,7 @@
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "published": "Sun, 23 Aug 2026 19:11:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
@@ -938,16 +948,6 @@
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 23 Aug 2026 13:35:06 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Dozens of attacks in southern Thailand wound three people",
-      "description": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 13:08:37 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1153,20 +1153,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
-      "description": "At least two people have died and around 12 are missing after a boat carrying migrants capsized off southern Tunisia",
-      "url": "https://abcnews.com/International/wireStory/2-bodies-recovered-12-missing-after-migrant-boat-135871958",
-      "published": "Sat, 22 Aug 2026 16:48:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
-      "description": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl",
-      "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
-      "published": "Sat, 22 Aug 2026 09:54:21 -0400",
+      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
+      "description": "Somali pirates have hijacked an oil tanker off Yemen, marking a resurgence in piracy",
+      "url": "https://abcnews.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915",
+      "published": "Sat, 22 Aug 2026 06:16:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1183,10 +1173,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
-      "description": "Somali pirates have hijacked an oil tanker off Yemen, marking a resurgence in piracy",
-      "url": "https://abcnews.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915",
-      "published": "Sat, 22 Aug 2026 06:16:16 -0400",
+      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
+      "description": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl",
+      "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
+      "published": "Sat, 22 Aug 2026 09:54:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1643,6 +1633,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Former Hong Kong vigil organizer strives to mark Tiananmen crackdown despite convictions",
+      "description": "Years after Hong Kong’s annual vigil for the Tiananmen Square crackdown ended, former organizer Tang Ngok-kwan still discreetly visits former memorial sites in the city",
+      "url": "https://abcnews.com/International/wireStory/former-hong-kong-vigil-organizer-strives-mark-tiananmen-135856760",
+      "published": "Fri, 21 Aug 2026 22:41:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Georgia Walmart shopper picks up $30 from the floor, local police launch search for him",
       "description": "The Albany Police Department's public search for a man who pocketed $30 inside a Walmart sparked widespread ridicule before the cash was returned.",
       "url": "https://www.foxnews.com/us/georgia-walmart-shopper-picks-up-30-floor-local-police-launches-search",
@@ -1713,7 +1713,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "LIVE: Elche vs Barcelona – La Liga",
+      "title": "Elche vs Barcelona LIVE: La Liga",
       "description": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 16:50:00 +0000",
@@ -2003,30 +2003,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Migrants clash with police and cut through fence at Greek detention center",
-      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
-      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
-      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zelenskyy details rift with dismissed defense minister",
-      "description": "Ukrainian president says some of minister's actions were wrong.",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
-      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
-      "description": "Polls have opened in Kazakhstan for parliamentary elections expected to strengthen President Kassym-Jomart Tokayev's power",
-      "url": "https://abcnews.com/International/wireStory/kazakhstan-votes-parliamentary-election-expected-strengthen-presidents-grip-135879339",
-      "published": "Sun, 23 Aug 2026 05:30:33 -0400",
+      "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
+      "description": "Ranchers in northern Mexico are preparing to resume cattle exports to the U.S. as a yearlong ban ends",
+      "url": "https://abcnews.com/International/wireStory/mexico-resumes-livestock-sales-us-tight-controls-screwworm-135861458",
+      "published": "Sat, 22 Aug 2026 06:17:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2043,10 +2023,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
+      "description": "Polls have opened in Kazakhstan for parliamentary elections expected to strengthen President Kassym-Jomart Tokayev's power",
+      "url": "https://abcnews.com/International/wireStory/kazakhstan-votes-parliamentary-election-expected-strengthen-presidents-grip-135879339",
+      "published": "Sun, 23 Aug 2026 05:30:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
       "description": "Japanese Prime Minister Sanae Takaichi has been increasingly seen secluding herself at home",
       "url": "https://abcnews.com/International/wireStory/japans-leader-takaichi-explains-spends-long-hours-seclusion-135866663",
       "published": "Sat, 22 Aug 2026 10:39:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zelenskyy details rift with dismissed defense minister",
+      "description": "Ukrainian president says some of minister's actions were wrong.",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
+      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2063,10 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
-      "description": "Ranchers in northern Mexico are preparing to resume cattle exports to the U.S. as a yearlong ban ends",
-      "url": "https://abcnews.com/International/wireStory/mexico-resumes-livestock-sales-us-tight-controls-screwworm-135861458",
-      "published": "Sat, 22 Aug 2026 06:17:14 -0400",
+      "title": "Migrants clash with police and cut through fence at Greek detention center",
+      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
+      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
+      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
