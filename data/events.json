@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T16:41:09.265705Z",
+  "last_updated": "2026-08-23T17:07:10.871779Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 55,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+      "description": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight.",
+      "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+      "published": "Sun, 23 Aug 2026 15:54:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -493,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-      "description": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
-      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 11:00:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
       "description": "Iran's president has defended a memorandum of understanding with the U.S. as the best way to end a stalled conflict",
       "url": "https://abcnews.com/International/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879438",
@@ -580,6 +580,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+      "description": "Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions.",
+      "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 16:12:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -768,16 +778,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 23 Aug 2026 05:46:43 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Explosion injures 13 in Taiwan",
-      "description": "Explosion injures 13 in Taiwan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 11:06:38 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1033,16 +1033,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 03:43:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Can Nigeria cash in on Iran war?",
       "description": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
       "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
@@ -1153,16 +1143,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "South Korea tests Arctic route with a first container shipped to Europe",
-      "description": "Reaching Europe from Asia via the Arctic is nothing new... Russia and China have used this route for years. But yesterday, South Korea sent its first container ship along this path to avoid the traffic blockade in the Middle East. Experts warn the shift could further accelerate the melting of polar ice.",
-      "url": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe",
-      "published": "Sun, 23 Aug 2026 09:03:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
       "description": "At least two people have died and around 12 are missing after a boat carrying migrants capsized off southern Tunisia",
       "url": "https://abcnews.com/International/wireStory/2-bodies-recovered-12-missing-after-migrant-boat-135871958",
@@ -1240,6 +1220,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 16:57:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1363,7 +1353,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran government signals fuel price hike on eve of new US sanctions",
+      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
       "description": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
       "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 15:38:16 +0000",
@@ -1593,6 +1583,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Nordic FAs lose confidence in Gianni Infantino and raise 'serious concerns' with FIFA chief",
+      "description": "The six Nordic football associations have announced they have lost confidence in Gianni Infantino - intensifying pressure on the FIFA president.",
+      "url": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
+      "published": "Sun, 23 Aug 2026 16:07:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
       "description": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
       "url": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
@@ -1718,6 +1718,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 22:36:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "LIVE: Elche vs Barcelona – La Liga",
+      "description": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 16:50:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1997,16 +2007,6 @@
       "description": "He likes a baldy gag, we learned that much.",
       "url": "https://news.sky.com/story/infantino-likes-a-baldy-joke-but-the-fans-will-see-it-as-bare-faced-cheek-13575678",
       "published": "Sat, 22 Aug 2026 05:01:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Body of Australian hiker recovered - day after officials said she had been found alive",
-      "description": "The body of an 18-year-old hiker has been recovered from the Australian bush, a day after authorities incorrectly announced she had been found alive.",
-      "url": "https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273",
-      "published": "Fri, 21 Aug 2026 08:51:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
