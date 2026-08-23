@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T18:44:02.222796Z",
+  "last_updated": "2026-08-23T19:08:01.266625Z",
   "event_count": 222,
   "events": [
     {
@@ -130,16 +130,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Spain battles forest fire a short drive from flash flood",
-      "description": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations after floods trapped residents in cars and homes.",
-      "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 22 Aug 2026 14:35:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -1908,6 +1898,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81",
       "published": "2026-08-21T18:10:00.399Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Greece: Migrants clash with police at detention center",
+      "description": "Clashes broke out between police and people at a migrant detention center in northern Greece, with 35 having escaped the facility before half of them were detained again.",
+      "url": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 23 Aug 2026 18:42:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
