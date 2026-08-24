@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:16:57.919981Z",
+  "last_updated": "2026-08-24T05:45:51.167673Z",
   "event_count": 222,
   "events": [
     {
@@ -63,6 +63,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Moderate earthquake shakes Japan, injuring more than 30 in the Tokyo region",
+      "description": "A moderate earthquake with a preliminary magnitude of 5.9 has rattled eastern Japan, including the Tokyo area, but no tsunami warning was issued",
+      "url": "https://abcnews.com/International/wireStory/moderate-earthquake-magnitude-59-shakes-eastern-japan-tsunami-135870135",
+      "published": "Sun, 23 Aug 2026 07:35:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
       "title": "New initiative launched to shield terrorism victims from online harm",
       "description": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168186",
@@ -88,16 +98,6 @@
       "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
       "published": "Sun, 23 Aug 2026 12:30:37 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
-      "description": "The wildfires burning across Europe this summer have exposed a potentially deadly threat lurking beneath the blackened landscape: rusty bombs and mines from World War I and II",
-      "url": "https://abcnews.com/International/wireStory/wildfires-expose-detonate-buried-bombs-mines-wwi-wwii-135860099",
-      "published": "Sat, 22 Aug 2026 05:59:51 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -253,6 +253,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+      "description": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions.",
+      "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 24 Aug 2026 05:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
       "description": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
       "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-xml-mrss",
@@ -318,16 +328,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
       "published": "Mon, 24 Aug 2026 02:55:39 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian and Ukrainian attacks kill 5 a day after deadly shopping mall drone strike",
-      "description": "Authorities say that Russian and Ukrainian drone and missile strikes have killed at least five people",
-      "url": "https://abcnews.com/International/wireStory/russian-ukrainian-attacks-kill-5-people-day-after-135860467",
-      "published": "Sat, 22 Aug 2026 06:47:33 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -526,7 +526,7 @@
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 00:34:59 GMT",
+      "published": "Mon, 24 Aug 2026 05:31:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -683,16 +683,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Russia’s missile tests around disputed islands anger Japan",
-      "description": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia’s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia’s Pacific fleet said on Thursday that it had fired Bastion surface-to-ship missiles from Etorofu, the largest island in the disputed archipelago, simulating an attack on enemy vessels, hitting all of its targets approximately 300km away. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
-      "published": "Fri, 21 Aug 2026 04:54:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
       "description": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
@@ -823,10 +813,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 05:00:12 GMT",
+      "published": "Mon, 24 Aug 2026 05:16:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 10,
@@ -838,16 +828,6 @@
       "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 23 Aug 2026 05:46:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Congo receives more than 16,000 doses of Ebola vaccine amid unprecedented outbreak",
-      "description": "Congo has received more than 16,000 doses of the Ervebo vaccine as the country grapples with the fastest Ebola outbreak in history, the country’s health minister said",
-      "url": "https://abcnews.com/International/wireStory/congo-receives-16000-doses-ebola-vaccine-grapples-unprecedented-135860726",
-      "published": "Sat, 22 Aug 2026 06:15:37 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -917,6 +897,16 @@
       "description": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known as Little LA . The nickname is about more than appearances, however. In recent years, this corner of the metropolis has become a haven for many Mexicans deported from the US, particularly those who spent years or decades living across the border and for whom Mexico feels like a foreign country. In Little LA, they have found a more familiar place to belong. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
       "published": "Fri, 21 Aug 2026 10:00:31 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "New Zealand to consider banning children under 16 from social media",
+      "description": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban children ⁠under ​16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance. The bill would ⁠require social media platforms to take reasonable steps to verify users’ ages, including by utilising existing account information, facial technology and ⁠digital identity documents. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+      "published": "Mon, 24 Aug 2026 05:22:19 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1083,10 +1073,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hungary drained its waters for generations. Now drought is exposing the cost",
-      "description": "Record-low water levels at Lake Velence have made boating difficult and closed swimming beaches, offering a stark view of Hungary’s worsening water crisis",
-      "url": "https://abcnews.com/International/wireStory/hungary-drained-waters-generations-now-drought-exposing-cost-135829141",
-      "published": "Fri, 21 Aug 2026 01:33:07 -0400",
+      "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
+      "description": "At least two people have died and around 12 are missing after a boat carrying migrants capsized off southern Tunisia",
+      "url": "https://abcnews.com/International/wireStory/2-bodies-recovered-12-missing-after-migrant-boat-135871958",
+      "published": "Sat, 22 Aug 2026 16:48:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
+      "description": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl",
+      "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
+      "published": "Sat, 22 Aug 2026 09:54:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1536,7 +1536,7 @@
       "title": "Australia news live: Albanese promises ‘no change’ to WA’s share of GST; five arrested as police raid CFMEU headquarters",
       "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, with a series of witnesses expected to give evidence at Sydney’s Downing Centre local court before Judge Glenn Walsh . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "published": "Mon, 24 Aug 2026 04:59:42 GMT",
+      "published": "Mon, 24 Aug 2026 05:27:57 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
@@ -1558,16 +1558,6 @@
       "url": "https://news.sky.com/story/robots-could-harvest-lava-from-volcanic-eruptions-to-make-concrete-of-the-future-13576172",
       "published": "Sun, 23 Aug 2026 03:30:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Former Hong Kong vigil organizer strives to mark Tiananmen crackdown despite convictions",
-      "description": "Years after Hong Kong’s annual vigil for the Tiananmen Square crackdown ended, former organizer Tang Ngok-kwan still discreetly visits former memorial sites in the city",
-      "url": "https://abcnews.com/International/wireStory/former-hong-kong-vigil-organizer-strives-mark-tiananmen-135856760",
-      "published": "Fri, 21 Aug 2026 22:41:45 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1603,7 +1593,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 24 Aug 2026 05:01:17 GMT",
@@ -1963,18 +1953,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "description": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 23 Aug 2026 04:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "French centre-left candidate launches presidential bid amid divided left",
-      "description": "Centre-left politician Raphaël Glucksmann on Sunday launched his bid for the French presidency, aiming to unite moderate left-wing voters and challenge Jean-Luc Mélenchon’s influence ahead of France’s 2027 election. With Marine Le Pen leading first-round polls, Glucksmann is seeking to position himself as a pro-European, pro-Ukraine alternative to both the far right and hard left.",
+      "title": "French MEP Glucksmann seeks to unite the left in bid for French presidency",
+      "description": "Centre-left politician Raphaël Glucksmann on Sunday launched his bid for the French presidency, aiming to unite moderate left-wing voters and challenge far-left leader Jean-Luc Mélenchon ahead of France’s 2027 election. With Marine Le Pen leading first-round polls, Glucksmann is seeking to position himself as a pro-European, pro-Ukraine alternative to both the far right and hard left.",
       "url": "https://www.france24.com/en/france/20260823-glucksmann-launches-french-presidential-bid-as-left-seeks-to-challenge-far-right",
       "published": "Sun, 23 Aug 2026 19:38:57 GMT",
       "source": "France24",
@@ -2013,30 +1993,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "The sunhat is everywhere in Athens as crowds grow larger at ancient sites",
-      "description": "Athens is turning to hats as Europe’s heat intensifies",
-      "url": "https://abcnews.com/International/wireStory/sunhat-athens-crowds-grow-larger-ancient-sites-135878601",
-      "published": "Sun, 23 Aug 2026 02:04:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
-      "description": "Polls have opened in Kazakhstan for parliamentary elections expected to strengthen President Kassym-Jomart Tokayev's power",
-      "url": "https://abcnews.com/International/wireStory/kazakhstan-votes-parliamentary-election-expected-strengthen-presidents-grip-135879339",
-      "published": "Sun, 23 Aug 2026 05:30:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zelenskyy details rift with dismissed defense minister",
-      "description": "Ukrainian president says some of minister's actions were wrong.",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
-      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
+      "title": "What to know about Iceland's vote on whether to restart talks to join the EU",
+      "description": "Icelanders are voting Saturday on whether to restart talks about joining the European Union",
+      "url": "https://abcnews.com/International/wireStory/icelands-vote-restart-talks-join-eu-135894597",
+      "published": "Mon, 24 Aug 2026 01:43:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,16 +2013,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Migrants clash with police and cut through fence at Greek detention center",
-      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
-      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
-      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",
       "description": "The U.S. special envoy to Syria and ambassador to Turkey has clarified his comments on Israel's occupation of the Golan Heights",
       "url": "https://abcnews.com/International/wireStory/us-envoy-clarifies-comments-golan-heights-contradicted-trumps-135887479",
@@ -2073,10 +2023,60 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
-      "description": "Ranchers in northern Mexico are preparing to resume cattle exports to the U.S. as a yearlong ban ends",
-      "url": "https://abcnews.com/International/wireStory/mexico-resumes-livestock-sales-us-tight-controls-screwworm-135861458",
-      "published": "Sat, 22 Aug 2026 06:17:14 -0400",
+      "title": "Migrants clash with police and cut through fence at Greek detention center",
+      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
+      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
+      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zelenskyy details rift with dismissed defense minister",
+      "description": "Ukrainian president says some of minister's actions were wrong.",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
+      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
+      "description": "Polls have opened in Kazakhstan for parliamentary elections expected to strengthen President Kassym-Jomart Tokayev's power",
+      "url": "https://abcnews.com/International/wireStory/kazakhstan-votes-parliamentary-election-expected-strengthen-presidents-grip-135879339",
+      "published": "Sun, 23 Aug 2026 05:30:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The sunhat is everywhere in Athens as crowds grow larger at ancient sites",
+      "description": "Athens is turning to hats as Europe’s heat intensifies",
+      "url": "https://abcnews.com/International/wireStory/sunhat-athens-crowds-grow-larger-ancient-sites-135878601",
+      "published": "Sun, 23 Aug 2026 02:04:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
+      "description": "Japanese Prime Minister Sanae Takaichi has been increasingly seen secluding herself at home",
+      "url": "https://abcnews.com/International/wireStory/japans-leader-takaichi-explains-spends-long-hours-seclusion-135866663",
+      "published": "Sat, 22 Aug 2026 10:39:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "7 people, including 2 police officers, die following a head-on collision in northeast England",
+      "description": "Seven people, including two police officers, have died in a head-on collision in the northeast of England following a pursuit",
+      "url": "https://abcnews.com/International/wireStory/7-people-including-2-police-officers-die-head-135864314",
+      "published": "Sat, 22 Aug 2026 10:32:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
