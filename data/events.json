@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T02:27:47.635141Z",
+  "last_updated": "2026-08-25T02:52:03.255226Z",
   "event_count": 222,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+      "description": "Tens of thousands of people faced another night away from home on Monday as a wind-driven wildfire threatened Reno, Nevada, blanketing the city in smoke and closing schools. About 24,000 people remained under evacuation orders, down from more than 40,000 at the peak, while tens of thousands more were on alert.",
+      "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
+      "published": "Tue, 25 Aug 2026 02:45:28 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -277,16 +287,6 @@
       "description": "A ceasefire verification mission comprised of representatives from DR Congo's government, the Rwanda-backed AFC/M23 rebel group, and observers from the International Conference on the Great Lakes Region (ICGLR) member nations arrived in South Kivu on Monday. The deployment came a day after the DRC and AFC/M23 agreed on a Switzerland-mediated roadmap for peace talks.",
       "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
       "published": "Mon, 24 Aug 2026 16:04:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Guinea searches for survivors after landfill landslides kill 30",
-      "description": "In Guinea, a landslide at a garbage dump outside the capital Conakry has claimed the lives of at least 30 people. The government of the West African country says it has mobilised significant resources to try and find survivors that may still be trapped under massive piles of waste. Less than a week ago, that same government had announced plans to close the Dar-es-Salam landfill due to dangerous conditions there.",
-      "url": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30",
-      "published": "Mon, 24 Aug 2026 12:42:59 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 18,
@@ -604,7 +604,7 @@
     },
     {
       "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
-      "description": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” after police in Canberra pulled guns on an Indigenous teenager they mistook for a suspect in an aggravated burglary. The scathing investigation, released on Tuesday, made eight recommendations to the Australian federal police (AFP) and ACT Policing after investigating the November 2025 incident. ACT Policing sits under the AFP as the community policing arm. Continue reading...",
+      "description": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The commonwealth and ACT ombudsman has criticised the Australian federal police for failing to clearly define “racial profiling” after police in Canberra pulled guns on an Indigenous teenager they mistook for a suspect in an aggravated burglary. The scathing investigation, released on Tuesday, made eight recommendations to the Australian federal police (AFP) and ACT policing after investigating the November 2025 incident. ACT policing sits under the AFP as the community policing arm. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
       "published": "Tue, 25 Aug 2026 01:45:55 GMT",
       "source": "The Guardian World",
@@ -953,20 +953,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 02:08:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "description": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 09:47:22 GMT",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 13:56:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1526,8 +1526,18 @@
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "description": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
       "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 00:40:06 GMT",
+      "published": "Tue, 25 Aug 2026 02:49:22 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Muslims celebrate Prophet Muhammad’s birthday",
+      "description": "Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 02:11:08 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1567,16 +1577,6 @@
       "description": "A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
       "published": "Mon, 24 Aug 2026 20:45:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
-      "description": "Fabinho joined ​Saudi Arabia's Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
-      "published": "Mon, 24 Aug 2026 20:03:48 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1723,10 +1723,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
-      "description": "Supermarket chain says growth slumped amid ‘competitor’s collectibles campaign’. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year The number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year. The waitlist has sat [at] around 70,000 since May. Anyone reading that as stability should look at what is happening inside that number. Urgent need is growing six times faster than general need on this register. Every month, a bigger share of the people waiting are people who cannot afford to wait. These changes reflect our intent to remain dynamic and promote the human nature of artistry in what is – to say the least – a rapidly developing space. Artists already use AI tools in their work, the Charts can and should evolve to keep room for that, but music generated wholesale by services built on artists’ recordings is a different matter. … This gives everyone who releases music in Australia a clear rule to work to. Continue reading...",
+      "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
+      "description": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year The number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year. The waitlist has sat [at] around 70,000 since May. Anyone reading that as stability should look at what is happening inside that number. Urgent need is growing six times faster than general need on this register. Every month, a bigger share of the people waiting are people who cannot afford to wait. These changes reflect our intent to remain dynamic and promote the human nature of artistry in what is – to say the least – a rapidly developing space. Artists already use AI tools in their work, the Charts can and should evolve to keep room for that, but music generated wholesale by services built on artists’ recordings is a different matter. … This gives everyone who releases music in Australia a clear rule to work to. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "published": "Tue, 25 Aug 2026 02:07:54 GMT",
+      "published": "Tue, 25 Aug 2026 02:44:12 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
