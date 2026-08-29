@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T10:34:54.134929Z",
+  "last_updated": "2026-08-29T11:09:26.212459Z",
   "event_count": 223,
   "events": [
     {
@@ -103,16 +103,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Niger's government mobilises troops as gunfire reported near presidential palace",
-      "description": "Sustained gunfire and explosions rang out early Saturday across several areas of Niger's capital, including the airport and near the presidency, in what multiple sources said was an attack by mutinous soldiers. Authorities in Niamey called for calm and said the government was mobilising security forces.",
-      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Nepal: Families cling to hope as nearly 1,000 remain missing",
       "description": "Nepal's confirmed death toll has risen to at least 538, but families are still searching hospitals and disaster zones in the hope their loved ones will be found alive, with nearly 1,000 people still missing. More than 3,700 people have been rescued so far, though destroyed roads, bridges and thick mud continue to hamper search efforts.",
       "url": "https://www.france24.com/en/nepal-families-cling-to-hope-as-nearly-1-000-remain-missing",
@@ -180,6 +170,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
+      "description": "Zelenskyy says a warehouse was struck outside Kyiv, 'followed by a detonation', triggering a major fire and explosions.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "published": "Sat, 29 Aug 2026 10:36:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -333,6 +333,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Niger's military regime 'gradually regaining control' from mutinous soldiers",
+      "description": "Niger's military regime said Saturday it was \"gradually regaining control\" after mutineers held soldiers hostage at a military base next to the capital's airport. Sustained gunfire and explosions were reported across several areas of Niamey, including the airport and near the presidential palace.",
+      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
       "title": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
       "description": "No description available.",
       "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
@@ -378,16 +388,6 @@
       "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
       "published": "Fri, 28 Aug 2026 06:54:22 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Hundreds evacuate after Russian strike on warehouse near Kyiv kills at least 27",
-      "description": "A Russian drone strike on a warehouse on the outskirts of Ukraine's capital Kyiv on Friday killed at least 27 people and forced hundreds to evacuate, Ukrainian authorities said Saturday.",
-      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
-      "published": "Sat, 29 Aug 2026 08:57:05 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -563,16 +563,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US revises statements suggesting Chinese hackers attacked agencies",
-      "description": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 00:46:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors",
       "description": "Aid has begun to reach survivors of the catastrophic flash floods that swept through the mountainous border region between Nepal and China",
       "url": "https://abcnews.com/International/wireStory/agency-warns-17000-children-urgent-assistance-aid-reaches-136033465",
@@ -623,6 +613,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Hundreds evacuate after Russian strike on depot near Kyiv kills at least 27",
+      "description": "A Russian drone strike on a depot on the outskirts of Ukraine's capital Kyiv on Friday killed at least 27 people and forced hundreds to evacuate, Ukrainian authorities said Saturday.",
+      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
+      "published": "Sat, 29 Aug 2026 08:57:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
       "description": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older people Taking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found. Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high cholesterol, to prevent them from having a major heart event such as a heart attack, stroke, or from requiring heart surgery. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial",
@@ -658,16 +658,6 @@
       "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
       "published": "Sat, 29 Aug 2026 10:00:24 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Norway mourns King Harald as Haakon prepares to take the throne",
-      "description": "Norway is mourning King Harald V after the country's longest-serving monarch died at the age of 89, with tributes pouring in from across Europe. His death paves the way for Crown Prince Haakon to become king, as the royal family faces renewed scrutiny over Crown Princess Mette-Marit's reported past ties to Jeffrey Epstein and the conviction of her son for rape.",
-      "url": "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne",
-      "published": "Fri, 28 Aug 2026 16:31:12 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -738,6 +728,16 @@
       "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 28 Aug 2026 23:23:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Several killed in Israeli strikes on Gaza and West Bank",
+      "description": "Israeli strikes in Gaza have killed five people, local hospital officials said Friday. Two brothers and another relative died in a strike on the family’s home outside Khan Younis, officials at Nasser Hospital said. Two separate Israeli strikes killed one person each in Gaza City, according to health officials at Shifa hospital.",
+      "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank",
+      "published": "Sat, 29 Aug 2026 10:34:58 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -1103,10 +1103,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-      "description": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 00:53:56 +0000",
+      "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "description": "Iran's president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "published": "Sat, 29 Aug 2026 10:09:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1273,8 +1273,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the institute has advised.",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
       "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 08:48:34 GMT",
       "source": "BBC News",
@@ -1327,16 +1327,6 @@
       "description": "Norwegians are saying goodbye to King Harald V, Europe’s oldest reigning monarch.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
       "published": "Sat, 29 Aug 2026 04:14:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
-      "description": "The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 00:19:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1678,6 +1668,16 @@
       "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 19:57:50 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Far-right commentator Milo Yiannopoulos detained by ICE",
+      "description": "Far-right commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss",
+      "published": "Sat, 29 Aug 2026 10:10:23 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
