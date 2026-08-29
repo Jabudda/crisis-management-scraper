@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T09:35:16.919109Z",
+  "last_updated": "2026-08-29T10:10:26.790001Z",
   "event_count": 223,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 63,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "TV signal down after gunfire, explosions heard across Niger's capital",
-      "description": "National television service was cut in Niger on Saturday after a night of gunfire and explosions reported by residents in the capital Niamey, including around a military base near an international airport that was attacked twice this year by rival jihadist groups.",
-      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 42,
       "severity_level": "Critical"
     },
     {
@@ -50,16 +40,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Trump signs executive order to rename Lake Ontario as Lake America",
-      "description": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada. The order directs federal agencies to adopt the name-change on US maps, documents and databases. But Trump has no authority to rename Canada’s portion of the lake, nor to compel Canada, international legal bodies, international mapmakers or the rest of the world to adopt a new name. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "published": "Thu, 27 Aug 2026 22:55:04 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -98,6 +78,16 @@
       "url": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 29 Aug 2026 08:06:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Niger's government mobilises troops as gunfire reported near presidential palace",
+      "description": "Sustained gunfire and explosions rang out early Saturday across several areas of Niger's capital, including the airport and near the presidency in what multiple sources said was an attack by mutinous soldiers. Authorities in Niamey called for calm and said the government was mobilising security forces.",
+      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical"
@@ -423,6 +413,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "description": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 09:38:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "description": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war. For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting Meareg’s lawsuit against the company in Kenya. These posts included photos of his father and his home address. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
@@ -543,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
+      "description": "Officials say at least 27 people have been killed in a Russian attack on the Bucha district near Kyiv",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346",
+      "published": "Sat, 29 Aug 2026 05:59:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors",
       "description": "Aid has begun to reach survivors of the catastrophic flash floods that swept through the mountainous border region between Nepal and China",
       "url": "https://abcnews.com/International/wireStory/agency-warns-17000-children-urgent-assistance-aid-reaches-136033465",
@@ -613,11 +623,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 01:14:13 GMT",
-      "source": "BBC News",
+      "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+      "description": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers. They also stripped off their heavy tactical vests, field packs and camouflage uniforms, which were each piled into a bonfire to mark the beginning of a new life away from an armed conflict that has claimed nearly half a million lives in the last six decades. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+      "published": "Sat, 29 Aug 2026 10:00:24 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1057,16 +1067,6 @@
       "description": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
       "published": "Sat, 29 Aug 2026 00:53:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
-      "description": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 00:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1663,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Norway mourns King Harald as new era begins under Haakon VIII",
+      "description": "King Harald, Europe's oldest monarch, was viewed as a reformer who embraced inclusivity.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
+      "published": "Sat, 29 Aug 2026 09:45:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
       "description": "Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
       "url": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
@@ -1673,7 +1683,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "LIVE: Liverpool vs Nottingham Forest – Premier League",
+      "title": "Liverpool vs Nottingham Forest LIVE: Premier League",
       "description": "Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
       "published": "Sat, 29 Aug 2026 08:33:04 +0000",
@@ -2057,16 +2067,6 @@
       "description": "Mauritania says it intercepted a boat carrying 161 migrants trying to reach Europe",
       "url": "https://abcnews.com/International/wireStory/mauritania-intercepts-migrant-boat-161-aboard-including-17-136013559",
       "published": "Fri, 28 Aug 2026 02:30:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US defense review presses NATO allies to prove they are taking the lead in Europe",
-      "description": "The Pentagon is pressing NATO allies to show how they're upping their defense of Europe as the U.S. focuses on security challenges elsewhere",
-      "url": "https://abcnews.com/International/wireStory/us-defense-review-presses-nato-allies-prove-taking-136013093",
-      "published": "Fri, 28 Aug 2026 02:31:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
