@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T04:38:05.143986Z",
+  "last_updated": "2026-08-30T05:11:56.195067Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 63,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nepal-Tibet floods live: At least 750 dead as death toll rises",
+      "description": "At least 750 people have died and more than 3,000 remain missing after devastating floods struck Nepal and Tibet near the Chinese border, local authorities said Sunday. Rescue efforts are entering a fifth day, with thousands rescued but hundreds of foreign nationals and hydropower workers still unaccounted for. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises",
+      "published": "Sun, 30 Aug 2026 04:59:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 48,
       "severity_level": "Critical"
     },
     {
@@ -130,16 +140,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
-      "description": "Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 20:05:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -307,16 +307,6 @@
       "description": "Most arrive with nothing except the clothes they are wearing. As rescue efforts in communities buried by catastrophic flash floods along the border between Nepal and China entered their fourth day Saturday, authorities continued finding survivors and transporting them to safety. At relief centers, as some arrive, families wait anxiously for news of their loved ones as the death toll and the number of people unaccounted for continued to rise.",
       "url": "https://www.france24.com/en/rescue-operations-ongoing-as-death-toll-continues-to-rise",
       "published": "Sat, 29 Aug 2026 12:37:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Nepal army races to rescue more than 100 trapped in hydropower tunnel after floods",
-      "description": "Nepali army rescue teams were using drilling equipment on Saturday seeking to rescue more than 100 people trapped inside a hydropower tunnel, three days after devastating floods struck the site.",
-      "url": "https://www.france24.com/en/nepal-army-races-to-rescue-more-than-100-trapped-in-hydropower-tunnel-after-floods",
-      "published": "Sat, 29 Aug 2026 08:50:06 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 25,
@@ -913,6 +903,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Protests as India’s Hindu nationalists take centre stage in New York",
+      "description": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 04:31:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -951,6 +951,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "World's youngest reigning traditional monarch dies aged 34",
@@ -1037,16 +1047,6 @@
       "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
       "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 19:05:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:45:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1263,8 +1263,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Voting closes in Iceland’s knife-edge EU referendum",
-      "description": "Iceland's leadership has promised to honour whatever the country's people decide.",
+      "title": "Vote count under way in Iceland’s knife-edge EU referendum",
+      "description": "Iceland's leadership has promised to honour the country's decision in the vote, which is currently too close to call.",
       "url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
       "published": "Sat, 29 Aug 2026 23:33:03 +0000",
       "source": "Al Jazeera",
@@ -1393,16 +1393,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-      "description": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 20:07:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US, Ecuador forces strike alleged drug smuggling boat",
       "description": "Tackling drug trafficking in Latin America is a key priority for Washington. In March, Ecuador joined a US-led coalition to combat the drug trade in the region.",
       "url": "https://www.dw.com/en/us-ecuador-forces-strike-alleged-drug-smuggling-boat/a-78555711?maca=en-rss-en-all-1573-xml-mrss",
@@ -1451,6 +1441,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
+      "description": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 04:50:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1886,7 +1886,7 @@
       "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
       "description": "Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates live Get our breaking news email , free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas. No it’s not. … Short-term visa stay and things such as the Palm scheme, and Pauline’s quite right, are not counted in the net overseas migration number, overwhelmingly – small portion are – because they don’t stay for 12 months. They stay generally for a period of nine. So it’s like saying to someone, how many sheep have you got. You go, ‘well, I’ve got, you know, 5000.’ Oh, yes, and how many cattle have you got? ‘Oh, well, I’ve got 2000.’ Oh, so you’ve got 7000 all up. So, no, no. Two different things. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
-      "published": "Sun, 30 Aug 2026 04:10:22 GMT",
+      "published": "Sun, 30 Aug 2026 04:50:41 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
