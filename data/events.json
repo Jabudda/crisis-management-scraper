@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T06:44:04.938092Z",
+  "last_updated": "2026-08-30T07:12:53.074567Z",
   "event_count": 222,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 48,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Nepal issues fresh flood warning as 3,000 still missing",
+      "description": "Rescuers are trying to reach dozens of hydropower workers trapped in flooded tunnels, but have been hampered by further rainfall.",
+      "url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 30 Aug 2026 06:59:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 45,
       "severity_level": "Critical"
     },
     {
@@ -148,6 +158,16 @@
       "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
       "published": "Fri, 28 Aug 2026 07:01:11 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least one dead, five injured in shooting at rave in Switzerland",
+      "description": "One person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
+      "url": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
+      "published": "Sun, 30 Aug 2026 06:52:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -373,6 +393,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+      "description": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:05:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "description": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war. For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting Meareg’s lawsuit against the company in Kenya. These posts included photos of his father and his home address. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
@@ -423,7 +453,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Manhunt under way after deadly shooting at 'rave' in Switzerland",
+      "title": "Manhunt under way after deadly shooting at rave in Switzerland",
       "description": "A manhunt is under way after one person was killed and five others were injured after a shooting at an event in Switzerland, police say.",
       "url": "https://news.sky.com/story/manhunt-under-way-after-deadly-shooting-at-rave-in-switzerland-13578925",
       "published": "Sun, 30 Aug 2026 06:51:00 +0100",
@@ -458,6 +488,16 @@
       "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
       "published": "Sun, 30 Aug 2026 06:00:48 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Swiss police report 1 dead, 5 injured  in Aarau shooting",
+      "description": "The shooting happened outside a rave in the northern Swiss town of Aarau. Police said they were still searching for the perpetrators.",
+      "url": "https://www.dw.com/en/swiss-police-report-1-dead-5-injured-in-aarau-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 30 Aug 2026 06:49:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -583,16 +623,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Swiss police report one dead, five injured  in Aarau shooting",
-      "description": "The shooting reportedly happened outside a rave in the northern Swiss town of Aarau.",
-      "url": "https://www.dw.com/en/swiss-police-report-one-dead-five-injured-in-aarau-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 30 Aug 2026 06:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Niger's junta says 'regaining control' after clashes in capital",
       "description": "Niger's ​defense ​ministry said the armed forces were ​progressively ‌retaking ⁠control ‌of sites targeted in ⁠an overnight attack on ​the ‌capital Niamey, according to a ‌statement read ​on state television, which resumed broadcasting ​on ​Saturday after ​temporarily going ​offline.",
       "url": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
@@ -653,21 +683,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Hundreds evacuate after Russian strike on depot near Kyiv kills at least 37",
-      "description": "A Russian drone strike on a depot on the outskirts of Ukraine's capital Kyiv on Friday killed at least 37 people and forced hundreds to evacuate, Ukrainian authorities said Saturday.",
-      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
-      "published": "Sat, 29 Aug 2026 08:57:05 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "One dead and five injured in Swiss shooting, police say",
-      "description": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 06:27:12 GMT",
-      "source": "BBC News",
+      "title": "Iran war live: Khamenei calls for Muslim world to confront ‘real enemy’",
+      "description": "Iran’s Supreme Leader Mojtaba Khamenei has urged against any action that could divide Muslims.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -753,16 +773,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US, Venezuela announce 'historic' oil deal",
-      "description": "US President Donald Trump has announced an agreement with Venezuela to take control of 65 billion barrels of oil. The South American country has the world's largest proven oil reserves, but production has long stalled.",
-      "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 28 Aug 2026 23:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Several killed in Israeli strikes on Gaza and West Bank",
       "description": "Israeli strikes in Gaza have killed five people, local hospital officials said Friday. Two brothers and another relative died in a strike on the family’s home outside Khan Younis, officials at Nasser Hospital said. Two separate Israeli strikes killed one person each in Gaza City, according to health officials at Shifa hospital.",
       "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank",
@@ -833,7 +843,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+      "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
       "description": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
       "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
       "published": "Sun, 30 Aug 2026 05:09:11 +0000",
@@ -1097,16 +1107,6 @@
       "description": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
       "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
       "published": "Sun, 30 Aug 2026 00:16:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war live: Khamenei warns of US, Israeli plans to sow Muslim discord",
-      "description": "Iran’s Supreme Leader Mojtaba Khamenei has urged against any action that could divide Muslims.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 00:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1613,7 +1613,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
       "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
       "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 00:17:25 GMT",
