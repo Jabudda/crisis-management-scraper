@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T21:10:27.506575Z",
+  "last_updated": "2026-08-30T21:35:19.812340Z",
   "event_count": 222,
   "events": [
     {
@@ -33,16 +33,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "News live: number of Australians missing in Nepal floods rises; Penny Wong announces $3m additional aid for disaster",
-      "description": "Nepali and Chinese authorities confirmed an updated death toll of at least 810 on Sunday. Follow the day’s news live Get our breaking news email , free app or daily news podcast The government will send $3 million in additional aid to Nepal, the foreign affairs minister Penny Wong has announced, bringing the total package to $8 million. Of this additional aid, the Australian defence force will coordinate $2m worth of hygiene kits, solar lighting and other emergency supplies following a request from Nepal’s government. The Royal Australian Air Force (RAAF) will transport the first of these supplies from Queensland in the coming days. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-      "published": "Sun, 30 Aug 2026 20:58:25 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 42,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670; nearly 3,000 missing",
       "description": "Nepal's flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
       "url": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
@@ -57,6 +47,16 @@
       "description": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surge Nepal-Tibet flash flood – latest updates Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? Rescuers searching for survivors of deadly flash floods on the Nepal-Tibet border have resumed their efforts after suspending operations when a debris dam burst its bank on Friday, increasing the risk of fresh flooding. Residents in Nepal’s Rasuwa district, on the border with Tibet, were seen rushing up hillsides ⁠on Friday to escape a possible surge in the river, ⁠according to witnesses. Fears of another flood came as authorities in Nepal and China said that at least 543 people had been killed in the disaster. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
       "published": "Fri, 28 Aug 2026 10:17:07 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "News live: number of Australians missing in Nepal floods rises; Penny Wong announces $3m additional aid for disaster",
+      "description": "Nepali and Chinese authorities confirmed an updated death toll of at least 810 on Sunday. Follow the day’s news live Get our breaking news email , free app or daily news podcast Australian personnel still unable to access Nepal flood zone Australian personnel has not been able to get access to the Nepal flood zone yet, the assistant minister for immigration, Matt Thistlethwaite , confirmed. There has been about eight power stations that have been affected as well, so it’s very difficult to get into the area. They’ve said at this stage they don’t require that support. The Royal Australian Air Force (RAAF) will transport the first of these supplies from Queensland in the coming days. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "published": "Sun, 30 Aug 2026 21:10:17 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 38,
@@ -423,16 +423,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran war: US military strikes Iran's Larak Island — reports",
-      "description": "The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliation. DW has the latest.",
-      "url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island-reports/live-78566992?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 30 Aug 2026 21:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "As the Himalayas melt, deadly floods become the new normal",
       "description": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border, Dipesh Chapagain was discussing with a colleague just how devastating such a disaster could be.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168227",
@@ -473,6 +463,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 21:15:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
@@ -488,6 +488,16 @@
       "url": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
       "published": "Sun, 30 Aug 2026 20:25:15 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran war: US military strikes Iran's Larak Island",
+      "description": "The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliation. DW has the latest.",
+      "url": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 30 Aug 2026 21:00:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -643,16 +653,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Two missing after fishing boat sinks in Channel",
-      "description": "Two people are missing and three others have been rescued after a French-registered fishing boat sank in the English Channel.",
-      "url": "https://news.sky.com/story/two-missing-after-fishing-vessel-sinks-in-channel-13578966",
-      "published": "Sun, 30 Aug 2026 10:22:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "South Carolina police officer killed, another wounded in gunfight with suspect who had extensive record",
       "description": "Officer Christopher DeLong, 29, was killed while responding to a domestic dispute call in Columbia, South Carolina. He leaves behind a wife and two young children.",
       "url": "https://www.foxnews.com/us/south-carolina-police-officer-killed-another-wounded-gunfight-suspect-who-had-extensive-record",
@@ -743,6 +743,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli strike kills 3-year-old child in Gaza",
+      "description": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 21:02:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
       "description": "The Federal Communications Commission under Trump has tried to target news outlets for spreading 'fake' news.",
       "url": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
@@ -754,7 +764,7 @@
     },
     {
       "title": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
-      "description": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners Get our breaking news email , free app or daily news podcast Home insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes. The corporate regulator is calling for “realistic” bigger payouts, warning the practice could cause “unfair outcomes” for people already in vulnerable positions. Continue reading...",
+      "description": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Home insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes. The corporate regulator is calling for “realistic” bigger payouts, warning the practice could cause “unfair outcomes” for people already in vulnerable positions. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
       "published": "Sun, 30 Aug 2026 15:01:00 GMT",
       "source": "The Guardian World",
@@ -1093,6 +1103,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Coastguard suspends search for two missing crew after fishing boat sinks in Channel",
+      "description": "The search for two missing crew members from a French-registered fishing boat which sank in the English Channel has been suspended.",
+      "url": "https://news.sky.com/story/two-missing-after-fishing-vessel-sinks-in-channel-13578966",
+      "published": "Sun, 30 Aug 2026 10:22:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Migrant dies and 72 others rescued from small boat trying to reach UK",
       "description": "One migrant has died and 72 others have been rescued from a small boat trying to reach the UK from France.",
       "url": "https://news.sky.com/story/migrant-dies-and-72-others-rescued-from-small-boat-trying-to-reach-uk-13578501",
@@ -1207,16 +1227,6 @@
       "description": "Bruno Fernandes's hat-trick inspires Manchester United's comeback 5-2 win against Ipswich Town in the Premier League.",
       "url": "https://www.aljazeera.com/sports/2026/8/30/fernandes-hat-trick-fires-man-utd-in-seven-goal-thriller-with-ipswich?traffic_source=rss",
       "published": "Sun, 30 Aug 2026 18:33:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Rival Libya factions sign deal to hold national elections within two years",
-      "description": "Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 16:38:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1597,16 +1607,6 @@
       "description": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
       "url": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 23:03:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
-      "description": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 00:35:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
