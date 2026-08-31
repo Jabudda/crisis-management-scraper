@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T03:16:48.780509Z",
+  "last_updated": "2026-08-31T03:41:43.400492Z",
   "event_count": 222,
   "events": [
     {
@@ -180,6 +180,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "description": "Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 03:25:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -453,16 +463,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "description": "Iran says the attack killed several civilians and is the first known US strike on Iran since late July.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 23:53:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
@@ -633,10 +633,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: new regulations planned for smartglasses will include ‘right to erasure’, Rowland says",
+      "title": "Australia news live: Rowland says no plans to ban import of smart glasses; Queensland’s e-bike laws begin",
       "description": "Australians ‘increasingly concerned about how their data is being collected, used, and shared,’ attorney general says. Follow the day’s news live Get our breaking news email , free app or daily news podcast The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins , Matt Thistlethwaite says. Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table. Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he’s returned to Australia safely. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-      "published": "Mon, 31 Aug 2026 02:49:40 GMT",
+      "published": "Mon, 31 Aug 2026 03:26:40 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 16,
@@ -830,6 +830,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran targets Jordan after first US attack in a month",
+      "description": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "published": "Mon, 31 Aug 2026 03:06:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -1263,16 +1273,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-      "description": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 19:33:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1401,6 +1401,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "description": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "published": "Mon, 31 Aug 2026 03:08:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1583,16 +1593,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-      "description": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 19:06:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1663,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+      "description": "Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+      "published": "Mon, 31 Aug 2026 03:11:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US plans to sanction another bank to keep economic pressure on Iran",
       "description": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
       "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
@@ -1727,16 +1737,6 @@
       "description": "Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss",
       "published": "Sun, 30 Aug 2026 20:12:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-      "description": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 19:50:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
