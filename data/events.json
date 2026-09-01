@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T12:19:59.149328Z",
+  "last_updated": "2026-09-01T12:44:34.653357Z",
   "event_count": 219,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 59,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900",
+      "description": "Rescuers are trying to find trapped workers in hydroelectric plant tunnels after catastrophic flooding in Nepal and Tibet killed at least 900 people and left more than 4,700 missing",
+      "url": "https://abcnews.com/International/wireStory/rescue-efforts-intensify-after-nepal-tibet-flooding-deaths-136080484",
+      "published": "Mon, 31 Aug 2026 06:26:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 46,
       "severity_level": "Critical"
     },
     {
@@ -33,6 +43,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Expert warns of 'hotter summers, more wildfires, more drought and more floods'",
+      "description": "One of the world's leading climate scientists has spoken to FRANCE 24 about the extreme heat events of this summer, and in the wake of the catastrophic flooding in Nepal, how other similar events are all but inevitable. Diana Ürge-Vorsatz is professor of environmental studies at the Central European University and vice-chair of the UN's Intergovernmental Panel on Climate Change.",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260901-expert-warns-of-hotter-summers-more-wildfires-more-drought-and-more-floods",
+      "published": "Tue, 01 Sep 2026 12:24:19 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
       "title": "'Glaciers in Himalayas retreating': Nepal floods triggered by 'glacier collapse & massive landslide'",
       "description": "Annette Young is pleased to welcome Joseph Shea, Glaciologist and Associate Professor at the University of Northern BC. Shea argues that the catastrophe should be understood as a compound event in which a glacier failure and a massive landslide occurred together. His analysis places the disaster within the broader, well-established transformation of the Himalayas under climate change. As warming changes high-mountain environments, scientists may increasingly need to identify subtle precursors to rare but potentially devastating cascading hazards.",
       "url": "https://www.france24.com/en/video/20260901-glaciers-in-himalayas-retreating-nepal-floods-triggered-by-glacier-collapse-massive-landslide",
@@ -40,6 +60,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Two killed in explosion of ammunition-laden vehicle in Syria’s Idlib",
+      "description": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 11:43:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +223,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "'Sea change: Much of the world's economic GDP has moved to the Asia-Pacific region'",
-      "description": "François Picard is pleased to welcome Rana Mitter, historian, author and ST Lee Chair in US-Asia Relations at the Harvard Kennedy School. He discusses the significance of the Shanghai Cooperation Organisation (SCO) as it pertains to the evolution of a changing international system, this as the bloc holds a summit in Kyrgyzstan's capital Bishkek.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260901-sea-change-much-of-the-world-s-economic-gdp-has-moved-to-the-asia-pacific-region-rana-mitter",
-      "published": "Tue, 01 Sep 2026 05:22:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "US and Iran trade strikes for first time in weeks",
       "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
@@ -277,16 +297,6 @@
       "description": "Congo’s authorities report that the fastest-growing Ebola outbreak in history has topped 6,000 cases with 2,911 deaths",
       "url": "https://abcnews.com/International/wireStory/congo-authorities-report-6000-confirmed-ebola-cases-3000-136086056",
       "published": "Tue, 01 Sep 2026 00:02:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "An upcoming election could produce modern Germany's 1st far-right state governor",
-      "description": "An election in eastern Germany on Sunday could produce the first far-right state governor in the country’s post-World War II history",
-      "url": "https://abcnews.com/International/wireStory/upcoming-election-produce-modern-germanys-1st-state-governor-136080574",
-      "published": "Mon, 31 Aug 2026 02:50:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 24,
@@ -463,11 +473,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-      "description": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 07:25:54 +0000",
-      "source": "Al Jazeera",
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "description": "Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years ago The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing president, João Goulart, as a way of countering the supposed communist threat sweeping a region the US considered its back yard. Historians say that in the lead-up to the vote, the CIA and the Department of State secretly channelled millions of dollars to opposition candidates and a group tasked with spreading rightwing propaganda and stirring up unrest. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+      "published": "Tue, 01 Sep 2026 12:00:57 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -653,6 +663,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Pakistan urged to declare femicide emergency amid surge in killings",
+      "description": "The brutal killing of Pakistani media professional Hina Javed has caused uproar over violence against women.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-pakistan-femicide-sv?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 12:23:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
       "description": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last month’s massive border crossing into Ceuta but accused Israel and Russia of spreading disinformation. As many as 141 people are thought to have died trying to enter the Spanish enclave at the end of July. The influx of about 70,000 men, women and children unleashed a political crisis, a humanitarian emergency and reignited tensions within the EU over immigration . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
@@ -673,20 +693,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Suspect arrested after shooting at rave in Switzerland that left 1 person dead",
-      "description": "Police say a suspect has been arrested after a weekend shooting at a rave in northern Switzerland that left one person dead and five wounded",
-      "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-shooting-rave-switzerland-left-1-136083761",
-      "published": "Mon, 31 Aug 2026 13:19:41 -0400",
+      "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves",
+      "description": "Russian forces have relentlessly battered Kyiv and nearby cities for a fifth straight day, hitting warehouse facilities as Ukraine reels from attacks with jet-powered drones",
+      "url": "https://abcnews.com/International/wireStory/russias-jet-powered-drones-bring-empty-kyiv-supermarket-136082421",
+      "published": "Mon, 31 Aug 2026 08:02:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves",
-      "description": "Russian forces have relentlessly battered Kyiv and nearby cities for a fifth straight day, hitting warehouse facilities as Ukraine reels from attacks with jet-powered drones",
-      "url": "https://abcnews.com/International/wireStory/russias-jet-powered-drones-bring-empty-kyiv-supermarket-136082421",
-      "published": "Mon, 31 Aug 2026 08:02:30 -0400",
+      "title": "Suspect arrested after shooting at rave in Switzerland that left 1 person dead",
+      "description": "Police say a suspect has been arrested after a weekend shooting at a rave in northern Switzerland that left one person dead and five wounded",
+      "url": "https://abcnews.com/International/wireStory/suspect-arrested-after-shooting-rave-switzerland-left-1-136083761",
+      "published": "Mon, 31 Aug 2026 13:19:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -727,16 +747,6 @@
       "description": "The Fort Worth Fire Department shared photos and detailed the rescue of an individual from the cab of a towering crane in the Lone Star State.",
       "url": "https://www.foxnews.com/us/texas-fire-department-makes-save-crane-22-stories-air",
       "published": "Mon, 31 Aug 2026 13:38:47 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Carolina woman accused of stabbing Lyft driver 11 times claims mental health crisis",
-      "description": "A South Carolina woman's attorney says schizophrenia and paranoia triggered a psychiatric emergency before she allegedly stabbed her Lyft driver 11 times.",
-      "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
-      "published": "Mon, 31 Aug 2026 11:41:26 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
@@ -918,6 +928,26 @@
       "url": "https://www.france24.com/en/russia-fired-over-2-800-drones-at-ukraine-in-august-amid-war-tactic-change",
       "published": "Tue, 01 Sep 2026 09:49:22 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Schools resume classes in Congo’s Ebola epicenter despite concerns from parents and teachers",
+      "description": "A new academic year has started across Congo despite concerns by parents and teachers that the country’s Ebola outbreak still poses risks to children in the epicenter",
+      "url": "https://abcnews.com/International/wireStory/schools-resume-classes-congos-ebola-epicenter-despite-concerns-136111658",
+      "published": "Tue, 01 Sep 2026 08:25:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Teen arrested in girl's murder one year after police said she accidentally shot herself while recording video",
+      "description": "Zytina Mason-Brown's family says an arrest brings relief after months of insisting the 14-year-old's Washington, D.C., shooting was not self-inflicted.",
+      "url": "https://www.foxnews.com/us/teen-arrested-girls-murder-one-year-after-police-said-she-accidentally-shot-herself-while-recording-video",
+      "published": "Tue, 01 Sep 2026 08:32:59 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1153,16 +1183,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Teen faces life over livestream of San Diego mosque attack",
-      "description": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 06:39:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1183,20 +1203,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
-      "description": "Russia's finance minister is at the G20 meeting in Asheville but some key US press corps members are not. The mood was already tense amid the lengthy Iran war and Trump's renewed beef with neighbor Canada.",
-      "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 1 Sep 2026 10:23:00 GMT",
+      "title": "Will Bangladesh join the Mecca defense pact?",
+      "description": "While Bangladesh is weighing the risks of joining the Mecca mutual defense alliance, experts warn that any move to join the pact could complicate relations with neighboring India.",
+      "url": "https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-pact/a-78613944?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 1 Sep 2026 12:40:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Germany news: FM says Algeria can provide gas supplies",
-      "description": "The top diplomat called for Germany to further diversify its energy sources given the crisis in the Strait of Hormuz and its impact on fuel prices. He said Algeria could become an important supplier of gas in the future.",
-      "url": "https://www.dw.com/en/germany-news-fm-says-algeria-can-provide-gas-supplies/live-78583741?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 1 Sep 2026 10:07:00 GMT",
+      "title": "US irks Germany, Europe with Russian G20 invite, press bans",
+      "description": "Russia's finance minister is at the G20 meeting in Asheville but some key US press corps members are not. The mood was already tense amid the lengthy Iran war and Trump's renewed beef with neighbor Canada.",
+      "url": "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 1 Sep 2026 10:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1238,16 +1258,6 @@
       "url": "https://news.sky.com/story/suspect-in-fatal-stabbing-of-british-woman-in-germany-detainedin-psychiatric-hospital-13579374",
       "published": "Mon, 31 Aug 2026 11:00:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "China warns of 'consequences' for Taiwan after Taipei envoys attend leaders summit",
-      "description": "China has warned of consequences for Taiwan after officials from Beijing and Taipei attended a Pacific leaders summit",
-      "url": "https://abcnews.com/International/wireStory/china-warns-consequences-taiwan-after-taipei-envoys-attend-136109572",
-      "published": "Tue, 01 Sep 2026 06:34:18 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1423,20 +1433,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Moment motorcyclist flies through bus door, avoiding deadly crash",
-      "description": "This is the moment a motorcyclist slammed into the side of a bus at a busy intersection in western Colombia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/moment-motorcyclist-flies-through-bus-door-avoiding-deadly-crash?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 07:42:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
-      "description": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
-      "url": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 07:02:25 +0000",
+      "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
+      "description": "The Permanent Court of Arbitration says the treaty remains binding. But India has rejected the findings.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 12:25:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1453,31 +1453,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran retaliates, condemns US strikes on Larak Island",
-      "description": "The Revolutionary Guards carried out strikes in Jordan and the UAE in response to the US strikes on Iran earlier.",
-      "url": "https://www.dw.com/en/iran-retaliates-condemns-us-strikes-on-larak-island/live-78566992?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 31 Aug 2026 12:47:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Mobile phone ban greets French teenagers going back to high school",
       "description": "Millions of teenagers are going back to school in France, with one major change: mobile phones are now banned in high school, in a bid by the government to improve pupils to focus on their study, as it is concerned that passing too much time on their phone is arresting their development. But for schools, a major issue is how the measure can effectively be implemented.",
       "url": "https://www.france24.com/en/mobile-phone-ban-greets-french-teenagers-going-back-to-high-school",
       "published": "Tue, 01 Sep 2026 10:00:22 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russia cements its role as Africa junta protector after helping quell Niger's mutiny",
-      "description": "Niger's junta faced a major internal threat when renegade soldiers staged a mutiny over the weekend",
-      "url": "https://abcnews.com/International/wireStory/russia-cements-role-africa-junta-protector-after-helping-136082633",
-      "published": "Mon, 31 Aug 2026 07:22:30 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1553,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump announces new US oil agreement with Venezuela",
-      "description": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been brokered “through a partnership with ⁠private business” by his secretary of state, Marco Rubio, and defense secretary, Pete Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
-      "published": "Fri, 28 Aug 2026 23:34:36 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
       "description": "On the shores of Nkondo, in Uganda’s Kikuube district, the day begins before sunrise. Fishers enter the lake to fish, while families around Lake Albert rely on its waters for food, income and daily survival.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168228",
@@ -1583,7 +1553,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Luxembourg drops approval for Israel bonds issue: What that means",
+      "title": "Luxembourg drops approval for Israel Bonds issue: What that means",
       "description": "Israel’s future borrowing in EU markets remains uncertain as Luxembourg moves to let bond prospectus expire.",
       "url": "https://www.aljazeera.com/economy/2026/9/1/luxembourg-drops-approval-for-israel-bonds-issue-what-that-means?traffic_source=rss",
       "published": "Tue, 01 Sep 2026 08:08:49 +0000",
@@ -1653,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Damascus goes car-free for 24 hours",
+      "description": "Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 11:53:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1706,7 +1686,7 @@
       "title": "Zambia's president sworn in for second term while opponent detained",
       "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
       "url": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:51:23 GMT",
+      "published": "Tue, 01 Sep 2026 12:37:36 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1753,6 +1733,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "DRC: Ebola fears grow as children return to school",
+      "description": "Parents fear school could fuel Ebola spread as authorities shift high-risk pupils to home learning.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/drc-ebola-fears-grow-as-children-return-to-school?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 12:12:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
       "description": "Live updates and news from all signings as Premier League targets Alvarez, Balogun and Gakpo are expected to move.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
@@ -1767,16 +1757,6 @@
       "description": "The Sweden Democrats also posted advertisements on buses suggesting Swedes with Somali heritage apply for repatriation.",
       "url": "https://www.aljazeera.com/news/2026/9/1/not-welcome-how-swedens-far-right-took-over-stockholm-central-station?traffic_source=rss",
       "published": "Tue, 01 Sep 2026 08:43:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "White House unveils more details of Trump’s Venezuela oil deal",
-      "description": "Venezuela's interim president gives new US company 100-year rights to more than 17 oil fields.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 07:39:52 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1953,9 +1933,29 @@
       "severity_level": "Low"
     },
     {
-      "title": "Apple's new CEO John Ternus makes AI top priority",
+      "title": "Norway's new King Haakon VIII takes oath in parliament",
+      "description": "The new king swore to uphold the constitution in parliament in Oslo, the first major institutional step of his reign. Haakon VIII's wife Queen Mette-Marit had to skip the event in the aftermath of her lung transplant.",
+      "url": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 1 Sep 2026 12:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany news: Explosive device found near power plant",
+      "description": "Police say they found an \"unconventional explosive and incendiary device\" near the Jänschwalde power plant in Brandenburg. Meanwhile, Germany's top diplomat says Algeria could become an important supplier of gas.",
+      "url": "https://www.dw.com/en/germany-news-explosive-device-found-near-power-plant/live-78583741?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 1 Sep 2026 10:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Can new Apple CEO John Ternus fix the tech giant's AI woes?",
       "description": "John Ternus is just the third Apple CEO in 30 years. His primary challenge is to correct the company's faltering AI strategy to preserve its position as a big tech leader.",
-      "url": "https://www.dw.com/en/apple-s-new-ceo-john-ternus-makes-ai-top-priority/a-78575898?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/can-new-apple-ceo-john-ternus-fix-the-tech-giant-s-ai-woes/a-78575898?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 1 Sep 2026 09:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2003,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
-      "description": "ChatGPT, Reddit and Roblox now have over 45 million average monthly users in Europe, making them subject to the Digital Services Act.",
-      "url": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 31 Aug 2026 13:36:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Former gang member found guilty of murdering rapper Tupac Shakur",
       "description": "A jury found Duane “Keffe D” Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans and lingered in the public imagination for decades. Davis could be sentenced to life in prison following that verdict. FRANCE 24's Wassim Cornet tells us more about the verdict.",
       "url": "https://www.france24.com/en/former-gang-member-found-guilty-of-murdering-rapper-tupac-shakur",
@@ -2043,6 +2033,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
+      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
+      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
+      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Seoul court sentences Unification Church leader Hak Ja Han to 2 years in prison",
+      "description": "A court in Seoul, South Korea, has sentenced Unification Church leader Hak Ja Han to two years in prison",
+      "url": "https://abcnews.com/International/wireStory/seoul-court-sentences-unification-church-leader-hak-ja-136080587",
+      "published": "Mon, 31 Aug 2026 08:34:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
       "description": "The election campaign to replace Emmanuel Macron as France's president is gaining momentum",
       "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
@@ -2053,20 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "In a scorching Spain, the traditional folding hand fan is having a moment",
-      "description": "In Spain, the traditional folding hand fan, or abanico, is having a moment due to the summer's intense heat",
-      "url": "https://abcnews.com/International/wireStory/scorching-spain-traditional-folding-hand-fan-moment-136106887",
-      "published": "Tue, 01 Sep 2026 07:06:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Carney’s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
-      "description": "Canadian Prime Minister Mark Carney’s Liberals swept three special elections in a result that showed voters backing Carney for standing up for Canada against U.S. President Donald Trump",
-      "url": "https://abcnews.com/International/wireStory/carneys-liberals-sweep-3-special-elections-canada-voters-136106661",
-      "published": "Tue, 01 Sep 2026 05:33:53 -0400",
+      "title": "China’s factory activity contracts in August despite an uptick in export demand",
+      "description": "An official survey shows China's factory activity improved in August, with export demand holding strong",
+      "url": "https://abcnews.com/International/wireStory/chinas-factory-activity-contracts-august-despite-uptick-export-136079610",
+      "published": "Mon, 31 Aug 2026 01:54:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2083,20 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
-      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
-      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
-      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
+      "title": "Carney’s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
+      "description": "Canadian Prime Minister Mark Carney’s Liberals swept three special elections in a result that showed voters backing Carney for standing up for Canada against U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/carneys-liberals-sweep-3-special-elections-canada-voters-136106661",
+      "published": "Tue, 01 Sep 2026 05:33:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Seoul court sentences Unification Church leader Hak Ja Han to 2 years in prison",
-      "description": "A court in Seoul, South Korea, has sentenced Unification Church leader Hak Ja Han to two years in prison",
-      "url": "https://abcnews.com/International/wireStory/seoul-court-sentences-unification-church-leader-hak-ja-136080587",
-      "published": "Mon, 31 Aug 2026 08:34:21 -0400",
+      "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "description": "Chinese markets are booming with new public share listings driven by the craze for artificial intelligence",
+      "url": "https://abcnews.com/International/wireStory/ai-robotics-drive-ipo-boom-china-shein-lists-136080158",
+      "published": "Mon, 31 Aug 2026 01:39:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
