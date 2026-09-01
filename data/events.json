@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T21:11:35.101471Z",
+  "last_updated": "2026-09-01T21:35:21.207623Z",
   "event_count": 219,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 59,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 12 killed and over a dozen injured in Russian strikes on Kyiv",
-      "description": "Russian air attacks killed 12 people and injured many more in Kyiv and the surrounding region early on September 1, authorities said, marking the sixth straight day of intense strikes on the Ukrainian capital. Those injured three children, just as Ukrainian pupils return to school. In a new tactic, Moscow has sent swarms of new jet-powered drones to ⁠plague Kyiv and nearby areas day and night, killing residents and damaging homes and warehouses.",
-      "url": "https://www.france24.com/en/at-least-12-killed-and-over-a-dozen-injured-in-russian-strikes-on-kyiv",
-      "published": "Tue, 01 Sep 2026 14:56:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 46,
       "severity_level": "Critical"
     },
     {
@@ -203,6 +193,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 21:32:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
       "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
@@ -220,16 +220,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
-      "description": "Trump says the US attacks were 'large and powerful' and warns that Iran would be hit 'much harder' if it retaliates.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 16:45:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -333,16 +323,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "description": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:59:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
       "description": "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran's uranium enrichment capabilities after two wars.",
       "url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
@@ -383,6 +363,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Global bond selloff deepens as US launches fresh attacks on Iran",
+      "description": "Oil prices rose, stocks fell and bond yields spiked after the US launched fresh attacks on Iranian targets. Japan's 10-year bond yield hit 3% for the first time since 1996. The deepening global selloff comes amid fears over rising inflation and concern over mounting government debt - which in the US has risen above 40 trillion dollars. Meanwhile, in the single-currency Eurozone, inflation rose to the highest level in three years in August, driven by higher energy prices.",
+      "url": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran",
+      "published": "Tue, 01 Sep 2026 20:56:44 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Capsized ferry disaster kills at least eight, as search for survivors continues",
       "description": "An anxious wait for news continues in northern Cyprus with nearly 20 people still missing after a ferry capsized.",
       "url": "https://news.sky.com/story/capsized-cyprus-ferry-disaster-kills-at-least-eight-as-search-for-survivors-continues-13579345",
@@ -400,6 +390,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+      "description": "International aid organisations are struggling for money as the United States has led a sharp cut in Western donations.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 20:40:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -473,20 +473,30 @@
       "severity_level": "High"
     },
     {
-      "title": "Police arrest 34 after a fatal shooting in a rural Dutch village",
-      "description": "Police in the Netherlands have arrested 34 suspects after a fatal shooting in Overasselt, southeast of Amsterdam",
-      "url": "https://abcnews.com/International/wireStory/police-arrest-34-after-fatal-shooting-rural-dutch-136117554",
-      "published": "Tue, 01 Sep 2026 11:53:18 -0400",
+      "title": "Indonesia doubles down on coal to power its aluminum expansion",
+      "description": "The Iran war has dented global supplies of aluminum, raising production costs for the metal used in buildings, cars and airplanes, among other things",
+      "url": "https://abcnews.com/International/wireStory/indonesia-doubles-coal-power-aluminum-expansion-136108176",
+      "published": "Tue, 01 Sep 2026 06:14:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
     },
     {
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
-      "description": "The Iran war has dented global supplies of aluminum, raising production costs for the metal used in buildings, cars and airplanes, among other things",
-      "url": "https://abcnews.com/International/wireStory/indonesia-doubles-coal-power-aluminum-expansion-136108176",
-      "published": "Tue, 01 Sep 2026 06:14:37 -0400",
+      "title": "School starts soon in Lebanon but thousands still shelter in them during war",
+      "description": "Families sheltering in a school in Lebanon's city of Tyre are some of the hundreds of thousands of people displaced by the latest conflict between Israel and Hezbollah",
+      "url": "https://abcnews.com/International/wireStory/school-starts-lebanon-thousands-shelter-war-136081906",
+      "published": "Mon, 31 Aug 2026 06:41:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Police arrest 34 after a fatal shooting in a rural Dutch village",
+      "description": "Police in the Netherlands have arrested 34 suspects after a fatal shooting in Overasselt, southeast of Amsterdam",
+      "url": "https://abcnews.com/International/wireStory/police-arrest-34-after-fatal-shooting-rural-dutch-136117554",
+      "published": "Tue, 01 Sep 2026 11:53:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
@@ -508,6 +518,16 @@
       "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 15:48:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iranian state media announces numerous US strikes on the country",
+      "description": "Iranian state television has reported numerous strikes on Iranian territory on Tuesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 20:38:43 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -573,11 +593,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "description": "Germany on Tuesday blamed Russia for an attempted \"hybrid attack\" involving an explosive-laden drone at a strategic airport last month and announced diplomatic counter-measures. The European Union expressed \"full solidarity\" with Germany, NATO assured that it would defend its members and countries including Britain, Estonia and Poland offered strong backing. Germany will close Russia's consulate in the former capital Bonn later this month, and cancel the contract for the Russian House, a cultural centre in Berlin, said Foreign Minister Johann Wadephul. FRANCE 24's Carys Garland reports.",
+      "url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+      "published": "Tue, 01 Sep 2026 20:58:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "AI data centers become surprise issue in US midterm elections",
       "description": "The boom of data centers to power artificial intelligence was a topic of discussion at the G20 summit on Tuesday in North Carolina. Elon Musk told member countries that US companies need to find new energy sources outside of China to power these massive data centers. That same issue is also creating a backlash in the United States ahead of the midterm elections in November. Donald Trump is doubling down, calling those who are against the data centers, “backwards and poor.” FRANCE 24's Monte Francis explains.",
       "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
       "published": "Tue, 01 Sep 2026 19:35:25 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves",
+      "description": "Russian forces have relentlessly battered Kyiv and nearby cities for a fifth straight day, hitting warehouse facilities as Ukraine reels from attacks with jet-powered drones",
+      "url": "https://abcnews.com/International/wireStory/russias-jet-powered-drones-bring-empty-kyiv-supermarket-136082421",
+      "published": "Mon, 31 Aug 2026 08:02:30 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -620,26 +660,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-      "description": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.",
-      "url": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 17:25:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
-      "description": "Departed Labour Party leader now plans to focus on international affairs.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 16:56:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -703,6 +723,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+      "description": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 20:59:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "South African airline defends dramatic low-level flyby before rugby union clash",
       "description": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the estimated crowd of 56,000 people, but also sparked a major debate over safety risks. The flyby by two Embraer jets, operated by the local airline Airlink, happened on Saturday before the second rugby union Test between South Africa and New Zealand in Cape Town. The flight tracking service Flightradar24 estimated that the lead jet passed just 41-46 feet (12-14 metres) above the roof of Cape Town Stadium, with the crowd and the world’s top-ranked rugby teams below. The second jet, which was very close behind, flew through a cloud of pink dust that shot up from the stadium roof as part of the show. Continue reading...",
       "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
@@ -738,16 +768,6 @@
       "url": "https://www.france24.com/en/africa/20260901-what-russia-helping-niger-junta-stop-mutiny-means-for-its-sovereignty",
       "published": "Tue, 01 Sep 2026 15:16:08 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "UN report finds Syria was building a nuclear reactor in Deir el-Zour under former President Assad",
-      "description": "Inspectors with the U.N. nuclear watchdog visited several sites in Syria in August",
-      "url": "https://abcnews.com/International/wireStory/report-finds-syria-building-nuclear-reactor-deir-el-136120506",
-      "published": "Tue, 01 Sep 2026 13:43:34 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -853,6 +873,16 @@
       "severity_level": "High"
     },
     {
+      "title": "This principal in Nepal evacuated 900 students before flooding swept away their school",
+      "description": "School principal Rajendra Dawadi's quick decision to evacuate his school saved at least 900 students from devastating flash floods in Nepal last week",
+      "url": "https://abcnews.com/International/wireStory/principal-nepal-evacuated-900-students-flooding-swept-school-136082728",
+      "published": "Mon, 31 Aug 2026 07:45:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Grand Canyon water pipeline damaged again as flooding complicates repairs",
       "description": "Flash flooding forced park closures and water restrictions at Grand Canyon as the $200 million pipeline repair project faces major new complications.",
       "url": "https://www.foxnews.com/us/grand-canyon-water-pipeline-damaged-flooding-complicates-repairs",
@@ -860,6 +890,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Sinabung volcano on Indonesia’s Sumatra island erupts without reports of casualties",
+      "description": "Mount Sinabung on Indonesia has erupted, spewing a column of black ash and smoke 3,500 meters from the top of the mountain into the sky over Sumatra island",
+      "url": "https://abcnews.com/International/wireStory/sinabung-volcano-indonesias-sumatra-island-erupts-reports-casualties-136082118",
+      "published": "Mon, 31 Aug 2026 06:58:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1013,6 +1053,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+      "description": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 21:03:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Deadly car bomb attack at Colombia police station",
+      "description": "Deadly car bomb attack at Colombia police station",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 21:01:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UN food agency cuts aid in West Bank amid funding crisis",
       "description": "UN food agency cuts aid in West Bank amid funding crisis",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
@@ -1143,10 +1203,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nigeria confirms planned withdrawal of US troops sent to help tackle insecurity crisis",
-      "description": "Nigeria has confirmed the withdrawal of U.S. troops sent to help tackle its security crisis",
-      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-planned-withdrawal-us-troops-tackle-insecurity-136122055",
-      "published": "Tue, 01 Sep 2026 15:04:02 -0400",
+      "title": "Japanese automakers Nissan and Honda agree to work together on software for cars",
+      "description": "Japanese automakers Nissan and Honda are going to jointly develop computer parts and software for vehicles set to enter the market in fiscal 2029",
+      "url": "https://abcnews.com/International/wireStory/japanese-automakers-nissan-honda-agree-work-software-cars-136082026",
+      "published": "Mon, 31 Aug 2026 07:46:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1157,16 +1217,6 @@
       "description": "The German government has blamed Russia for an attempted attack at Leipzig/Halle Airport last month using a drone laden with explosives",
       "url": "https://abcnews.com/International/wireStory/germany-blames-russia-months-attempted-drone-attack-leipzig-136117900",
       "published": "Tue, 01 Sep 2026 12:42:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "China warns of 'consequences' for Taiwan after Taipei envoys attend leaders summit",
-      "description": "China has warned of consequences for Taiwan after officials from Beijing and Taipei attended a Pacific leaders summit",
-      "url": "https://abcnews.com/International/wireStory/china-warns-consequences-taiwan-after-taipei-envoys-attend-136109572",
-      "published": "Tue, 01 Sep 2026 06:34:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1313,16 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Australia news live: PM announces $600m package against drug-smuggling; Chanel Contos urges action on ‘manosphere’",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Australia will step up its support to fight trans-national drug trafficking flowing through the Pacific, with a $600m package. Anthony Albanese announced the new investment at the Pacific Islands Forum in Palau, which aims to stop the contraband arriving in Australia. This is crucial, and the detail in any reform will determine its success – as will be the overall strength of the proposed Digital Duty of Care reforms that are needed in their own right. It is too easy for Big Tech to design schemes that appear as structural reform but actually suit them just fine. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-      "published": "Tue, 01 Sep 2026 21:00:09 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Trump's plan for economic D-day for Iran has one big hole: China",
       "description": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.",
       "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
@@ -1348,16 +1388,6 @@
       "url": "https://www.france24.com/en/video/20260901-lindsay-clancy-the-trial-putting-postpartum-mental-illness-in-the-spotlight",
       "published": "Tue, 01 Sep 2026 17:11:37 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A series of heatwaves leads Britain to record its hottest summer",
-      "description": "Britain's summer has been the hottest on record, according to provisional data from the national weather service",
-      "url": "https://abcnews.com/International/wireStory/series-heatwaves-leads-britain-record-hottest-summer-136116577",
-      "published": "Tue, 01 Sep 2026 11:01:20 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1443,16 +1473,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Controversial designer John Galliano cancels Met exhibition after backlash",
-      "description": "John Galliano has cancelled an upcoming major exhibition celebrating his work as a fashion designer after it prompted criticism due to his previous conviction for making antisemitic remarks. In 2011, a French court found the designer guilty of antisemitic and racist rants at a Parisian bar. He was also fired by Dior as creative director that same year after a video surfaced of him declaring a love for Hitler.",
-      "url": "https://www.france24.com/en/controversial-designer-john-galliano-cancels-met-exhibition-after-backlash",
-      "published": "Tue, 01 Sep 2026 14:28:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘Stop trying to be tough’: Carney fires back at Trump as US-Canada trade fight escalates",
       "description": "Canadian Prime Minister Mark Carney says the Trump administration needs to “stop doing memes, stop throwing shade and stop trying to be tough.”",
       "url": "https://abcnews.com/International/wireStory/stop-tough-carney-fires-back-trump-us-canada-136119678",
@@ -1503,16 +1523,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-      "description": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 16:59:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1543,11 +1553,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "King Haakon VIII pledges an oath of allegiance to Norway's constitution as his father lies in state",
-      "description": "King Haakon VIII has pledged an oath of allegiance to Norway's constitution in parliament",
-      "url": "https://abcnews.com/International/wireStory/norways-king-haakon-pledges-oath-allegiance-constitution-father-136110584",
-      "published": "Tue, 01 Sep 2026 09:06:21 -0400",
-      "source": "ABC News International",
+      "title": "Football: Europe's top clubs scramble for last-minute signings",
+      "description": "The football transfer window is entering its final hours. After a lot of last-minute negotiations, Manchester City are reported to have reached an agreement with Chelsea to sign Argentinian midfielder Enzo Fernandez for 125 million pounds – the biggest fee in a 3.3 billion euro spending frenzy by the top clubs. Meanwhile Aston Villa have signed 18-year-old winger Ibrahim Mbaye from PSG for 55 million euros.",
+      "url": "https://www.france24.com/en/video/20260901-football-europe-s-top-clubs-scramble-for-last-minute-signings",
+      "published": "Tue, 01 Sep 2026 20:45:50 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1593,6 +1603,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Dramatic low flyby by passenger jets over South African stadium sparks safety debate",
+      "description": "A pregame stunt involving two passenger jets flying dramatically low over a sports stadium in South Africa has sparked a major debate over safety risks",
+      "url": "https://abcnews.com/International/wireStory/dramatically-low-flyby-passenger-jets-packed-south-african-136087343",
+      "published": "Mon, 31 Aug 2026 12:34:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Parkgoer airlifted after Batman roller coaster incident leaves man with fractures to both legs",
       "description": "A 49-year-old visitor was airlifted to a hospital after suffering fractures in both legs on a Batman-themed roller coaster in Spain, lcoal reports say.",
       "url": "https://www.foxnews.com/world/parkgoer-airlifted-after-batman-roller-coaster-incident-leaves-man-fractures-both-legs",
@@ -1618,26 +1638,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Child sex abuse scandals loom over France as pupils head back to school",
-      "description": "In France, children headed back to school on September 1. But this year, parents had more to worry about than packing backpacks and getting them there on time. Several months ago, news broke of hundreds of sexual assault and rape allegations against monitors at schools and childcare centres in Paris. Monitors are employed by local authorities for after-school care and also look after the children before classes begin and during breaks. Parents want the government to provide safety guarantees.",
-      "url": "https://www.france24.com/en/child-sex-abuse-scandals-loom-over-france-as-pupils-head-back-to-school",
-      "published": "Tue, 01 Sep 2026 14:54:18 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Thailand's Pattaya anticipates USS Abraham Lincoln visit",
-      "description": "Thailand's coastal city of Pattaya is preparing for a visit by the USS Abraham Lincoln, as the aircraft carrier makes its way back to the U.S. following a grueling deployment in the Middle East",
-      "url": "https://abcnews.com/International/wireStory/thailands-pattaya-anticipates-uss-abraham-lincoln-visit-middle-136107716",
-      "published": "Tue, 01 Sep 2026 05:22:21 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1733,6 +1733,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+      "description": "Several foreign suspects were among those arrested, according to prosecutors.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
+      "published": "Tue, 01 Sep 2026 20:45:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What’s driven the defence deal between Israel and Greece?",
       "description": "Two countries sign $3.5bn weapons agreement.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
@@ -1777,26 +1787,6 @@
       "description": "Vanuatu says French control of islands is relic of colonial past, as France’s far right uses case as a political weapon.",
       "url": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss",
       "published": "Tue, 01 Sep 2026 18:21:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The US military began striking targets in Iran, CENTCOM says",
-      "description": "The US military said it has begun striking targets in Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 17:39:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-      "description": "Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 17:36:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1917,6 +1907,16 @@
       "description": "Hong Kong flotation at $26bn by firm once valued at $100bn follows failure to list in US and UK Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its long-anticipated trading debut on the Hong Kong stock exchange. The Singapore-headquartered company, once valued at almost $100bn (£74bn), went public on Tuesday pricing shares at HK$48.56, valuing the business at just over $26bn. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
       "published": "Tue, 01 Sep 2026 07:11:16 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia news live: PM announces $600m package against drug-smuggling; Chanel Contos urges action on ‘manosphere’",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Drug testing to resume at NSW music festivals Drug testing will resume at New South Wales music festivals from October, but will not be rolled out into the wider community despite calls from peak health and harm reduction groups. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+      "published": "Tue, 01 Sep 2026 21:14:50 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2063,10 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Guinea-Bissau voters back a sweeping power shift, boosting the president and shrinking parliament",
-      "description": "Guinea-Bissau has voted to expand presidential powers and reduce the legislature",
-      "url": "https://abcnews.com/International/wireStory/guinea-bissau-voters-back-sweeping-power-shift-boosting-136121231",
-      "published": "Tue, 01 Sep 2026 13:43:31 -0400",
+      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
+      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
+      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
+      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,20 +2093,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "In a scorching Spain, the traditional folding hand fan is having a moment",
-      "description": "In Spain, the traditional folding hand fan, or abanico, is having a moment due to the summer's intense heat",
-      "url": "https://abcnews.com/International/wireStory/scorching-spain-traditional-folding-hand-fan-moment-136106887",
-      "published": "Tue, 01 Sep 2026 08:42:14 -0400",
+      "title": "Seoul court sentences Unification Church leader Hak Ja Han to 2 years in prison",
+      "description": "A court in Seoul, South Korea, has sentenced Unification Church leader Hak Ja Han to two years in prison",
+      "url": "https://abcnews.com/International/wireStory/seoul-court-sentences-unification-church-leader-hak-ja-136080587",
+      "published": "Mon, 31 Aug 2026 08:34:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Carney’s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
-      "description": "Canadian Prime Minister Mark Carney’s Liberals swept three special elections in a result that showed voters backing Carney for standing up for Canada against U.S. President Donald Trump",
-      "url": "https://abcnews.com/International/wireStory/carneys-liberals-sweep-3-special-elections-canada-voters-136106661",
-      "published": "Tue, 01 Sep 2026 09:38:14 -0400",
+      "title": "Guinea-Bissau voters back a sweeping power shift, boosting the president and shrinking parliament",
+      "description": "Guinea-Bissau has voted to expand presidential powers and reduce the legislature",
+      "url": "https://abcnews.com/International/wireStory/guinea-bissau-voters-back-sweeping-power-shift-boosting-136121231",
+      "published": "Tue, 01 Sep 2026 13:43:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China’s factory activity contracts in August despite an uptick in export demand",
+      "description": "An official survey shows China's factory activity improved in August, with export demand holding strong",
+      "url": "https://abcnews.com/International/wireStory/chinas-factory-activity-contracts-august-despite-uptick-export-136079610",
+      "published": "Mon, 31 Aug 2026 01:54:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2117,16 +2127,6 @@
       "description": "Farmers in arid Burkina Faso have begun growing pineapples to reduce reliance on imports and adapt to climate challenges",
       "url": "https://abcnews.com/International/wireStory/pineapples-thrive-africas-sahel-burkina-faso-farmer-answer-136106448",
       "published": "Tue, 01 Sep 2026 02:10:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
-      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
-      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
-      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
