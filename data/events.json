@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T21:10:58.408925Z",
+  "last_updated": "2026-09-02T21:36:02.386310Z",
   "event_count": 220,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 50,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Australia news live: Jim Chalmers weighs in on One Nation WA byelection win; $2m for Indigenous racism online register",
-      "description": "Treasurer says he acknowledges concerns about inflation, cost of living and real wages were on voters’ minds. Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia will deploy a team of specialist drone operators to help the search and rescue effort in the deadly Nepal-Tibet floods. Operators, including those from Fire and Rescue New South Wales and the Queensland fire department, will head to the disaster-struck region in the coming days. While we await the committee’s final report, we are not waiting to act. This investment will strengthen the important work of Call It Out and support efforts to collate rigorous data. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
-      "published": "Wed, 02 Sep 2026 20:59:26 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -143,16 +133,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian attacks wound 8 civilians as Moscow and Kyiv threaten to raise the stakes",
-      "description": "Russian aerial attacks have killed two civilians and wounded six in central Ukraine, according to local officials",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-wound-8-ukrainian-civilians-moscow-kyiv-136137663",
-      "published": "Wed, 02 Sep 2026 08:34:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Response must outpace spread of Ebola: UN relief chief",
       "description": "The world must move faster to contain an Ebola outbreak in the Democratic Republic of the Congo (DRC) that is growing exponentially, the UN’s Emergency Relief Coordinator warned on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168246",
@@ -203,11 +183,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+      "description": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:59:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Bank of America vice president killed in Times Square stabbing",
       "description": "A Bank of America vice president has been fatally stabbed in New York City's Times Square in a seemingly random and unprovoked attack.",
       "url": "https://news.sky.com/story/bank-of-america-vice-president-killed-in-times-square-stabbing-13580026",
       "published": "Tue, 01 Sep 2026 20:21:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Air raid alert shatters first day of school in Kyiv after Russian missile strikes",
+      "description": "Ukrainian schools are adapting to wartime conditions as the conflict with Russia continues",
+      "url": "https://abcnews.com/International/wireStory/air-raid-alert-shatters-day-school-kyiv-after-136136349",
+      "published": "Wed, 02 Sep 2026 06:44:58 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -313,6 +313,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Australia news live: Jim Chalmers weighs in on One Nation WA byelection win; $2m for Indigenous racism online register",
+      "description": "Treasurer says he acknowledges concerns about inflation, cost of living and real wages were on voters’ minds. Follow the day’s news live. Get our breaking news email , free app or daily news podcast Good morning, Nick Visser here, welcome to Thursday. Let’s see what the day holds. Australia will deploy a team of specialist drone operators to help the search and rescue effort in the deadly Nepal-Tibet floods. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+      "published": "Wed, 02 Sep 2026 21:15:42 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
       "description": "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran's uranium enrichment capabilities after two wars.",
       "url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
@@ -363,21 +373,21 @@
       "severity_level": "High"
     },
     {
+      "title": "Blast near police station on Colombia's border with Venezuela leaves 1 dead and 11 injured",
+      "description": "At least one civilian was killed and 11 other people, including several police officers, were injured after a car packed with explosives was detonated outside a police station in northeastern Colombia",
+      "url": "https://abcnews.com/International/wireStory/blast-police-station-colombias-border-venezuela-leaves-1-136114770",
+      "published": "Tue, 01 Sep 2026 10:01:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 17:33:45 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "At least 22 killed in a passenger bus crash in Egypt’s Sinai Peninsula",
-      "description": "At least 22 people, including Egyptians and Jordanians, have been killed in a passenger bus crash in Egypt’s Sinai Peninsula",
-      "url": "https://abcnews.com/International/wireStory/22-killed-passenger-bus-crash-egypts-sinai-peninsula-136138393",
-      "published": "Wed, 02 Sep 2026 07:33:35 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -423,6 +433,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Indonesia doubles down on coal to power its aluminum expansion",
+      "description": "The Iran war has dented global supplies of aluminum, raising production costs for the metal used in buildings, cars and airplanes, among other things",
+      "url": "https://abcnews.com/International/wireStory/indonesia-doubles-coal-power-aluminum-expansion-136108176",
+      "published": "Tue, 01 Sep 2026 06:14:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Police arrest 34 after a fatal shooting in a rural Dutch village",
+      "description": "Police in the Netherlands have arrested 34 suspects after a fatal shooting in Overasselt, southeast of Amsterdam",
+      "url": "https://abcnews.com/International/wireStory/police-arrest-34-after-fatal-shooting-rural-dutch-136117554",
+      "published": "Tue, 01 Sep 2026 11:53:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Nepal families hold symbolic funerals, thousands still missing",
       "description": "Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
@@ -447,16 +477,6 @@
       "description": "EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.",
       "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
       "published": "Wed, 02 Sep 2026 19:06:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
-      "description": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 17:43:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -544,7 +564,7 @@
     },
     {
       "title": "We’re purchasing EVs instead of holidaying in Europe – and what else we learned from Australia’s national accounts",
-      "description": "ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’ Get our breaking news email , free app or daily news podcast The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter, and what’s happening under the hood. Here are the three things you need to know. Continue reading...",
+      "description": "ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter, and what’s happening under the hood. Here are the three things you need to know. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays",
       "published": "Wed, 02 Sep 2026 15:00:27 GMT",
       "source": "The Guardian World",
@@ -633,6 +653,16 @@
       "severity_level": "High"
     },
     {
+      "title": "UN report finds Syria was building a nuclear reactor in Deir el-Zour under former President Assad",
+      "description": "Inspectors with the U.N. nuclear watchdog visited several sites in Syria in August",
+      "url": "https://abcnews.com/International/wireStory/report-finds-syria-building-nuclear-reactor-deir-el-136120506",
+      "published": "Tue, 01 Sep 2026 13:43:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Ohio man accused of vandalizing JD Vance’s home pleads guilty",
       "description": "The Ohio man was detained by Secret Service agents after allegedly using a hammer to attack JD Vance’s residence and a federal vehicle.",
       "url": "https://www.foxnews.com/us/ohio-man-accused-vandalizing-jd-vances-home-pleads-guilty",
@@ -686,7 +716,7 @@
       "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
       "description": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada. The Apple Maps app now displays the controversial new name for the lake, which sits between New York state and the Canadian province of Ontario, for users in the US. Apple users outside the country will still see the Lake Ontario name. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "published": "Wed, 02 Sep 2026 19:06:39 GMT",
+      "published": "Wed, 02 Sep 2026 21:15:12 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -698,6 +728,16 @@
       "url": "https://www.dw.com/en/cargo-ship-with-10-crew-sinks-off-turkey-coast-authorities/a-78676617?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 2 Sep 2026 06:42:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Schools resume classes in Congo’s Ebola epicenter despite concerns from parents and teachers",
+      "description": "A new academic year has started across Congo despite concerns by parents and teachers that the country’s Ebola outbreak still poses risks to children in the epicenter",
+      "url": "https://abcnews.com/International/wireStory/schools-resume-classes-congos-ebola-epicenter-despite-concerns-136111658",
+      "published": "Tue, 01 Sep 2026 09:06:28 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -858,16 +898,6 @@
       "url": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 2 Sep 2026 15:21:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Tensions tied to Ceuta migrant crisis overshadow a date usually reserved for celebration",
-      "description": "The Spanish city of Ceuta on the northern African coast normally celebrates its official holiday on Sept. 2 all on its own",
-      "url": "https://abcnews.com/International/wireStory/tensions-tied-ceuta-migrant-crisis-overshadow-date-reserved-136142375",
-      "published": "Wed, 02 Sep 2026 11:15:52 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1043,16 +1073,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Dutch central bank shifts billions in gold to London in 'crisis preparedness' move",
-      "description": "The Dutch central bank has moved billions of dollars worth of its gold reserves from North America to London",
-      "url": "https://abcnews.com/International/wireStory/dutch-central-bank-shifts-billions-gold-london-crisis-136145175",
-      "published": "Wed, 02 Sep 2026 11:15:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
       "description": "The European Union is grappling with how to respond to an attempted drone attack at a German airport blamed on Russia",
       "url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530",
@@ -1063,10 +1083,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nigeria confirms planned withdrawal of US troops sent to help tackle insecurity crisis",
-      "description": "Nigeria has confirmed the withdrawal of U.S. troops sent to help tackle its security crisis",
-      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-planned-withdrawal-us-troops-tackle-insecurity-136122055",
-      "published": "Tue, 01 Sep 2026 15:04:02 -0400",
+      "title": "Dutch central bank shifts billions in gold to London in 'crisis preparedness' move",
+      "description": "The Dutch central bank has moved billions of dollars worth of its gold reserves from North America to London",
+      "url": "https://abcnews.com/International/wireStory/dutch-central-bank-shifts-billions-gold-london-crisis-136145175",
+      "published": "Wed, 02 Sep 2026 11:15:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+      "description": "The German government has blamed Russia for an attempted attack at Leipzig/Halle Airport last month using a drone laden with explosives",
+      "url": "https://abcnews.com/International/wireStory/germany-blames-russia-months-attempted-drone-attack-leipzig-136117900",
+      "published": "Tue, 01 Sep 2026 12:42:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1213,26 +1243,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-      "description": "Joshua Wong has pleaded guilty to conspiracy to collude with foreign forces to endanger national security under a Beijing-imposed law that has effectively stifled Hong Kong’s once-thriving pro-democracy movement",
-      "url": "https://abcnews.com/International/wireStory/prominent-hong-kong-activist-joshua-wong-pleads-guilty-136132039",
-      "published": "Wed, 02 Sep 2026 02:58:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Prominent Hong Kong pro-democracy activist Joshua Wong pleads guilty",
-      "description": "Prominent Hong Kong pro-democracy activist Joshua Wong pleads guilty to conspiracy to endanger national security",
-      "url": "https://abcnews.com/International/wireStory/prominent-hong-kong-pro-democracy-activist-joshua-wong-136131864",
-      "published": "Tue, 01 Sep 2026 22:46:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Man allegedly brandishes edged weapon at Harvard-area coffee shop, prompting campus shelter-in-place",
       "description": "Harvard University issued a shelter-in-place order after a man allegedly brandished an edged weapon at a Harvard Square coffee shop on Tuesday morning.",
       "url": "https://www.foxnews.com/us/shelter-in-place-issued-harvard-police-arrest-man-armed-edged-weapon",
@@ -1328,6 +1338,16 @@
       "url": "https://news.sky.com/story/tiger-woods-gets-five-year-driving-ban-and-fine-after-entering-plea-deal-over-charges-related-to-car-crash-13580365",
       "published": "Wed, 02 Sep 2026 13:21:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "'Stop trying to be tough': Carney fires back at Trump as US-Canada trade fight escalates",
+      "description": "Canadian Prime Minister Mark Carney says the Trump administration needs to “stop doing memes, stop throwing shade and stop trying to be tough.”",
+      "url": "https://abcnews.com/International/wireStory/stop-tough-carney-fires-back-trump-us-canada-136119678",
+      "published": "Tue, 01 Sep 2026 18:48:34 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1563,26 +1583,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "South Africa aviation regulator probes low jet flypast over Cape Town stadium",
-      "description": "South Africa’s aviation authority is reviewing a dramatic passenger jet flypast over Cape Town's DHL Stadium",
-      "url": "https://abcnews.com/International/wireStory/south-africa-aviation-regulator-probes-low-jet-flypast-136147456",
-      "published": "Wed, 02 Sep 2026 13:30:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pattaya, once Thailand's 'Sin City,' beckons weary sailors from USS Abraham Lincoln",
-      "description": "Pattaya, a seaside resort city in Thailand once notorious for sex tourism, is hosting sailors and Marines from the USS Abraham Lincoln for rest and recuperation",
-      "url": "https://abcnews.com/International/wireStory/pattaya-thailands-sin-city-beckons-weary-sailors-uss-136134793",
-      "published": "Wed, 02 Sep 2026 07:14:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ex-Indiana deputy charged with felony for allegedly using Flock cameras to stalk girlfriend",
       "description": "Skylar Thompson allegedly ran over 2,000 Flock camera searches on his girlfriend's license plate, falsely listing them as city planning duties.",
       "url": "https://www.foxnews.com/us/ex-indiana-deputy-charged-felony-allegedly-using-flock-cameras-stalk-girlfriend",
@@ -1633,10 +1633,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "title": "South African airline behind daring stadium stunt cancels next flyby",
       "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
       "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 16:58:59 GMT",
+      "published": "Wed, 02 Sep 2026 21:21:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1923,6 +1923,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Malta: Businessman acquitted of journalist's murder",
+      "description": "Yorgen Fenech was suspected to have masterminded the murder of investigative journalist Daphne Caruana Galizia, whose family continue to demand justice for her killing.",
+      "url": "https://www.dw.com/en/malta-businessman-acquitted-of-journalist-s-murder/a-78814305?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 2 Sep 2026 21:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany: How to woo voters with an immigrant background",
       "description": "The number of voters in Germany with an immigrant background is rising. Yet the established parties barely manage to reach them. Why not?",
       "url": "https://www.dw.com/en/germany-how-to-woo-voters-with-an-immigrant-background/a-78790775?maca=en-rss-en-all-1573-xml-mrss",
@@ -1947,16 +1957,6 @@
       "description": "Fix leaks, or ban pools? As European countries prepare for hotter, drier years to come, here's what the data says about how to really save water.",
       "url": "https://www.dw.com/en/what-really-helps-europe-deal-with-drought/a-78577712?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 2 Sep 2026 07:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
-      "description": "The prominent activist pleaded guilty to colluding with foreign entities. He faces a lengthy prison sentence.",
-      "url": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 2 Sep 2026 02:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2063,60 +2063,60 @@
       "severity_level": "Low"
     },
     {
+      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
+      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
+      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
+      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zambia president inaugurated for second term after disputed vote, opposition arrests",
+      "description": "Zambian President Hakainde Hichilema has been inaugurated for his second term after a disputed election",
+      "url": "https://abcnews.com/International/wireStory/zambia-president-inaugurated-term-after-disputed-vote-opposition-136113490",
+      "published": "Tue, 01 Sep 2026 09:45:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
+      "description": "The election campaign to replace Emmanuel Macron as France's president is gaining momentum",
+      "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
+      "published": "Tue, 01 Sep 2026 06:58:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Guinea-Bissau voters back a sweeping power shift, boosting the president and shrinking parliament",
+      "description": "Guinea-Bissau has voted to expand presidential powers and reduce the legislature",
+      "url": "https://abcnews.com/International/wireStory/guinea-bissau-voters-back-sweeping-power-shift-boosting-136121231",
+      "published": "Tue, 01 Sep 2026 13:43:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Can pineapples thrive in Africa's Sahel? A Burkina Faso farmer says the answer is yes",
+      "description": "Farmers in arid Burkina Faso have begun growing pineapples to reduce reliance on imports and adapt to climate challenges",
+      "url": "https://abcnews.com/International/wireStory/pineapples-thrive-africas-sahel-burkina-faso-farmer-answer-136106448",
+      "published": "Tue, 01 Sep 2026 02:10:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Jury in Malta acquits businessman in killing of investigative journalist",
       "description": "A jury has acquitted the Maltese businessman accused of masterminding the 2017 car bomb killing of journalist Daphne Caruana Galizia",
       "url": "https://abcnews.com/International/wireStory/jury-malta-acquits-businessman-killing-investigative-journalist-136150504",
       "published": "Wed, 02 Sep 2026 16:02:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkey's relations with Russia, China don't mean turning its back on the West, Erdogan says",
-      "description": "Turkish President Recep Tayyip Erdogan says Turkey is not backing away from the West as it seeks deeper ties with the East as he returns from a Shanghai Cooperation Organization summit",
-      "url": "https://abcnews.com/International/wireStory/turkeys-relations-russia-china-turning-back-west-erdogan-136143296",
-      "published": "Wed, 02 Sep 2026 11:15:46 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "German authorities probe suspected sabotage after 2 power substation disruptions",
-      "description": "Two incidents that disrupted power distribution systems in the west and east of Germany are being investigated as possible sabotage",
-      "url": "https://abcnews.com/International/wireStory/german-authorities-probe-suspected-sabotage-after-2-power-136137398",
-      "published": "Wed, 02 Sep 2026 08:34:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkish cargo ship sinks after collision off Istanbul's coast and 10 crew are feared dead",
-      "description": "A Turkish cargo ship with 10 crew members sank Wednesday after colliding with a tanker off Istanbul",
-      "url": "https://abcnews.com/International/wireStory/turkey-launches-search-cargo-ship-after-vessels-collide-136136256",
-      "published": "Wed, 02 Sep 2026 06:58:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "description": "China’s President Xi Jinping visits Egypt this week for the first time in a decade",
-      "url": "https://abcnews.com/International/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131092",
-      "published": "Wed, 02 Sep 2026 09:14:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The USS Abraham Lincoln arrives in Thailand following its Middle East deployment",
-      "description": "The USS Abraham Lincoln aircraft carrier has docked in eastern Thailand after its grueling deployment in the Middle East",
-      "url": "https://abcnews.com/International/wireStory/uss-abraham-lincoln-arrives-thailand-middle-east-deployment-136130620",
-      "published": "Wed, 02 Sep 2026 08:34:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
