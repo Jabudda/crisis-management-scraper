@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T04:40:21.107150Z",
+  "last_updated": "2026-09-02T05:12:56.622233Z",
   "event_count": 217,
   "events": [
     {
@@ -20,16 +20,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Relief as five Australians missing in Nepal-Tibet flood disaster found alive",
-      "description": "Several missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38 Australians missing in the Nepal floods: what we know so far A total of five Australians missing after devastating floods ravaged the Nepal-Tibet border last week have been found. Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, and three outside the crisis-hit area. The total number still missing is 38. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
-      "published": "Wed, 02 Sep 2026 01:59:06 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -54,7 +44,7 @@
     },
     {
       "title": "Middle East live: Iran says latest US strikes kill 11 people",
-      "description": "Iranian state media has reported that US strikes have killed 11 people in two separate attacks, including four at a wedding in the south of the country. This comes after the United States struck what it says were Iranian military targets Tuesday, as Tehran fired missiles and drones at sites across the Middle East, further escalating hostilities after a month-long lull. Follow our liveblog for the latest developments.",
+      "description": "Iranian state media has reported that US strikes have killed 11 people in two separate attacks, including four at a wedding in the south of the country. This comes after the United States struck what it says were Iranian military targets Tuesday, as Tehran fired missiles and drones at sites across the Middle East, further escalating hostilities following a month-long lull. Follow our liveblog for the latest developments.",
       "url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
       "published": "Wed, 02 Sep 2026 01:38:58 GMT",
       "source": "France24",
@@ -110,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+      "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 05:12:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -383,16 +383,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-      "description": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 03:19:44 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea",
       "description": "Ship has been plagued by reports of deteriorating living conditions and poor mental health because of lengthy deployment The USS Abraham Lincoln, an US aircraft carrier at the centre of a row over conditions on board after months at sea as part of Donald Trump’s war against Iran, has arrived off a Thai port. Reports of deteriorating living conditions and poor mental health on the vessel, including attempted suicides , have made headlines around the world, provoking criticism of the president’s actions in the Middle East. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea",
@@ -513,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
-      "description": "The Iran war has dented global supplies of aluminum, raising production costs for the metal used in buildings, cars and airplanes, among other things",
-      "url": "https://abcnews.com/International/wireStory/indonesia-doubles-coal-power-aluminum-expansion-136108176",
-      "published": "Tue, 01 Sep 2026 06:14:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Police arrest 34 after a fatal shooting in a rural Dutch village",
       "description": "Police in the Netherlands have arrested 34 suspects after a fatal shooting in Overasselt, southeast of Amsterdam",
       "url": "https://abcnews.com/International/wireStory/police-arrest-34-after-fatal-shooting-rural-dutch-136117554",
@@ -533,20 +513,20 @@
       "severity_level": "High"
     },
     {
+      "title": "Indonesia doubles down on coal to power its aluminum expansion",
+      "description": "The Iran war has dented global supplies of aluminum, raising production costs for the metal used in buildings, cars and airplanes, among other things",
+      "url": "https://abcnews.com/International/wireStory/indonesia-doubles-coal-power-aluminum-expansion-136108176",
+      "published": "Tue, 01 Sep 2026 06:14:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
       "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
       "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 16:11:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 15:48:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -703,6 +683,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+      "description": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
       "description": "UN watchdog says Syria 'failed to report nuclear material, facilities and activities' under Bashar al-Assad's rule.",
       "url": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss",
@@ -717,16 +707,6 @@
       "description": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
       "published": "Wed, 02 Sep 2026 00:47:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-      "description": "IAEA says lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 21:28:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -850,6 +830,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 04:23:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -983,21 +973,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "description": "Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage shooters in the 18 May attack.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:26:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "South Korean police officer admits to closing missing person cases to avoid work",
-      "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
-      "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 05:47:21 GMT",
-      "source": "BBC News",
+      "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+      "description": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 04:43:57 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1023,16 +1003,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-      "description": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
-      "published": "Tue, 01 Sep 2026 21:03:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1047,6 +1017,16 @@
       "description": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was openly dismissive of the president’s 27 August executive order directing federal agencies to refer to the smallest of the Great Lakes as “Lake America” amid a trade spat with Canada, leapfrogged rivals Google Maps and Apple Maps to top the most-downloaded list, as first reported by TechCrunch . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
       "published": "Tue, 01 Sep 2026 13:49:33 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Off-grid UK-Australian couple given more access to children who were removed from home in Italy",
+      "description": "Decision marks a significant turning point in a case that sparked a national debate in Italy A British-Australian couple will be allowed to spend more time with their three children after the ⁠youngsters were removed from the family’s off-grid woodland home in central Italy last year, their lawyer said on Tuesday. The juvenile court ⁠of L’Aquila in Italy has ⁠approved a ​staged process under the supervision of social services that could ultimately allow the children to leave the residential care facility ⁠where they have been living since November. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/02/off-grid-uk-australian-couple-italy-given-more-access-to-children-court-ntwnfb",
+      "published": "Wed, 02 Sep 2026 04:36:50 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1153,20 +1133,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
-      "description": "The German government has blamed Russia for an attempted attack at Leipzig/Halle Airport last month using a drone laden with explosives",
-      "url": "https://abcnews.com/International/wireStory/germany-blames-russia-months-attempted-drone-attack-leipzig-136117900",
-      "published": "Tue, 01 Sep 2026 12:42:54 -0400",
+      "title": "Nigeria confirms planned withdrawal of US troops sent to help tackle insecurity crisis",
+      "description": "Nigeria has confirmed the withdrawal of U.S. troops sent to help tackle its security crisis",
+      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-planned-withdrawal-us-troops-tackle-insecurity-136122055",
+      "published": "Tue, 01 Sep 2026 15:04:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Nigeria confirms planned withdrawal of US troops sent to help tackle insecurity crisis",
-      "description": "Nigeria has confirmed the withdrawal of U.S. troops sent to help tackle its security crisis",
-      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-planned-withdrawal-us-troops-tackle-insecurity-136122055",
-      "published": "Tue, 01 Sep 2026 15:04:02 -0400",
+      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+      "description": "The German government has blamed Russia for an attempted attack at Leipzig/Halle Airport last month using a drone laden with explosives",
+      "url": "https://abcnews.com/International/wireStory/germany-blames-russia-months-attempted-drone-attack-leipzig-136117900",
+      "published": "Tue, 01 Sep 2026 12:42:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1213,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Tyler Robinson hearing could decide death penalty fate, finally see plea in Charlie Kirk case",
-      "description": "Tyler Robinson's preliminary hearing could determine whether the aggravated murder charge and death penalty remain on the table in Charlie Kirk's killing.",
-      "url": "https://www.foxnews.com/us/tyler-robinson-hearing-decide-death-penalty-fate-finally-see-plea-charlie-kirk-case",
-      "published": "Tue, 01 Sep 2026 00:00:04 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Germany blames Russia after explosive-laden drone found near Ukrainian cargo planes at major airport",
       "description": "Germany closed Russia's Bonn consulate after linking Moscow to a failed drone attack at Leipzig/Halle Airport targeting a Ukrainian cargo aircraft.",
       "url": "https://www.foxnews.com/world/germany-blames-russia-explosive-laden-drone-found-near-ukrainian-cargo-planes-major-airport",
@@ -1263,20 +1233,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "description": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:24:28 GMT",
+      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+      "description": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 04:29:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:28:49 GMT",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "description": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 20:24:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1336,7 +1306,7 @@
       "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
       "description": "Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a national security charge that carries a maximum life sentence. Prosecutors have accused Wong, 29, of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "published": "Wed, 02 Sep 2026 04:23:43 GMT",
+      "published": "Wed, 02 Sep 2026 04:57:27 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1413,6 +1383,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Tiger Woods to change plea after crash arrest",
+      "description": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 00:26:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
       "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
       "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
@@ -1426,17 +1406,7 @@
       "title": "Australia news live: Victorian premier calls statues of state leaders ‘stupid waste of money’ after Daniel Andrews tribute scrapped",
       "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Ride share driver charged on allegations of committing sexual acts during booking A ride share driver will face court in Sydney today over multiple allegations of sexual acts, including one allegedly committed in the city’s CBD last weekend. They’re sick and tired of the feminisation of our curriculum and the lack of direction and leadership that they’re given. Maybe we should look at getting more male teachers in. That used to be an agenda. I don’t know what’s happened to that, but maybe we should have more male role models in schools. I just know young boys often feel that they don’t get any kind of instruction, leadership. They’re not cherished there. They’re patronised. They’re full of testosterone. … I just worry some of the solutions here don’t really understand what goes in a young boy’s mind. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-      "published": "Wed, 02 Sep 2026 04:05:29 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "More than a third of prenatal reports to NSW protective services not investigated, ombudsman finds",
-      "description": "Other families have been unlawfully compelled to be case-managed without consent, watchdog finds Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast More than a third of all reports raising concerns about the future welfare of unborn children were closed due to a shortage of allocated caseworkers, while families were unlawfully compelled to take part in prenatal case work, the New South Wales ombudsman has found. In its findings after investigating the Department of Communities and Justice’s practice of responding to prenatal reports, which were released on Friday, the watchdog raised concerns about the number of reports about particularly high-risk children that were not referred on to further support services or a dedicated case manager due to a lack of resources. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-unborn-children-prenatal-caseworker-ombudsman-ntwnfb",
-      "published": "Wed, 02 Sep 2026 00:00:17 GMT",
+      "published": "Wed, 02 Sep 2026 05:03:31 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
@@ -1523,11 +1493,31 @@
       "severity_level": "Low"
     },
     {
+      "title": "Jury in Bruce Lehrmann’s Queensland rape trial may face questions about prior knowledge of case",
+      "description": "Lehrmann, 31, is accused of raping a woman in 2021 and will stand trial in Toowoomba in November. He intends to contest the charges Jurors in the pending trial of Bruce Lehrmann for alleged rape could be questioned about their prior knowledge of him and the case. Lehrmann, 31, is set to stand trial from November 2, accused of twice raping a woman at a house in regional Queensland in 2021. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/02/bruce-lehrmann-queensland-rape-trial-jury-prior-knowledge-ntwnfb",
+      "published": "Wed, 02 Sep 2026 05:02:08 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "Football: Europe's top clubs scramble for last-minute signings",
       "description": "The football transfer window is entering its final hours. After a lot of last-minute negotiations, Manchester City are reported to have reached an agreement with Chelsea to sign Argentinian midfielder Enzo Fernandez for 125 million pounds – the biggest fee in a 3.3 billion euro spending frenzy by the top clubs. Meanwhile Aston Villa have signed 18-year-old winger Ibrahim Mbaye from PSG for 55 million euros.",
       "url": "https://www.france24.com/en/video/20260901-football-europe-s-top-clubs-scramble-for-last-minute-signings",
       "published": "Tue, 01 Sep 2026 20:45:50 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "King Haakon VIII pledges an oath of allegiance to Norway's constitution as his father lies in state",
+      "description": "King Haakon VIII has pledged an oath of allegiance to Norway's constitution in parliament",
+      "url": "https://abcnews.com/International/wireStory/norways-king-haakon-pledges-oath-allegiance-constitution-father-136110584",
+      "published": "Tue, 01 Sep 2026 09:06:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1643,30 +1633,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 05:00:34 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 15:33:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:05:23 GMT",
+      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+      "description": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 02:42:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1683,10 +1653,40 @@
       "severity_level": "Low"
     },
     {
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 15:33:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pistol in a lake gives hope for French cold case",
       "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
       "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 16:33:29 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 20:05:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "description": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 01:32:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1713,11 +1713,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:01:26 GMT",
-      "source": "BBC News",
+      "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
+      "description": "High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 04:26:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1913,10 +1913,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Is flying a shark drone a boring job? Possibly – until suddenly it isn’t",
-      "description": "Taha Kafil-Hussain flies a drone above Coogee beach. Mostly he zooms in on seaweed or turtles – but occasionally he spots a shark and clears the water Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast “Hey Taha, what’s the visibility like?” shouts a man with a towel slung over his shoulder. “Uh, nice,” says Surf Life Saving New South Wales drone operator Taha Kafil-Hussain. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/sydneys-beaches-enter-the-drone-age-to-get-swimmers-back-in-the-water-after-spate-of-shark-attacks",
-      "published": "Tue, 01 Sep 2026 16:00:07 GMT",
+      "title": "Ray Hadley used homophobic slur against Alan Jones after 2GB withdrew offer of $4m breakfast radio gig, court hears",
+      "description": "Hadley is giving evidence in trial of former 2GB rival Jones, 85, who has pleaded not guilty to 22 indecent assault and sexual touching charges Broadcaster Ray Hadley has told a Sydney court he used a homophobic slur and derogatory names when talking about his colleague Alan Jones, after 2GB withdrew a secret offer of a $4m contract to take over Jones’s coveted breakfast slot. Hadley agreed under cross-examination by defence barrister Gabrielle Bashir SC that he told police in 2019 that Jones had recruited colleagues at 2GB to “dig up some dirt” on him. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/02/ray-hadley-used-homophobic-slur-against-alan-jones-2gb-ntwnfb",
+      "published": "Wed, 02 Sep 2026 04:49:12 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1993,20 +1993,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Google Maps changes Lake Ontario to ‘Lake America’ as MapQuest downloads surge",
-      "description": "Lake Ontario is now appearing as “Lake America” on Google Maps for US users, following Donald Trump’s executive order to rename the lake. Canadians still see “Lake Ontario”, while users elsewhere see both names. But the change is far from universal: Apple Maps and MapQuest continue to use Lake Ontario. MapQuest has remained defiant against the move and since surged to the top of the US App Store download charts.",
-      "url": "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america",
-      "published": "Tue, 01 Sep 2026 19:37:48 GMT",
+      "title": "US aircraft carrier arrives in Thailand after months at sea",
+      "description": "A US aircraft carrier at the centre of controversy over conditions on board arrived in Thailand on Wednesday for its first port call in nine months.",
+      "url": "https://www.france24.com/en/live-news/20260902-us-aircraft-carrier-approaches-thai-port-after-months-at-sea",
+      "published": "Wed, 02 Sep 2026 02:37:13 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Germany set to blame Russia for airport explosive-laden drone incident",
-      "description": "Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian intelligence service of being behind the incident. It would be the first time Germany formally blames Moscow for an incident like this one.",
-      "url": "https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident",
-      "published": "Tue, 01 Sep 2026 15:35:40 GMT",
+      "title": "Google Maps changes Lake Ontario to ‘Lake America’ as MapQuest downloads surge",
+      "description": "Lake Ontario is now appearing as “Lake America” on Google Maps for US users, following Donald Trump’s executive order to rename the lake. Canadians still see “Lake Ontario”, while users elsewhere see both names. But the change is far from universal: Apple Maps and MapQuest continue to use Lake Ontario. MapQuest has remained defiant against the move and since surged to the top of the US App Store download charts.",
+      "url": "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america",
+      "published": "Tue, 01 Sep 2026 19:37:48 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2043,20 +2043,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "The living care for ancestors, wandering spirits at Malaysia's Hungry Ghost Festival",
-      "description": "The Hungry Ghost Festival is observed during the seventh month of the lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the relationship between the living and the dead",
-      "url": "https://abcnews.com/International/wireStory/living-care-ancestors-wandering-spirits-malaysias-hungry-ghost-136106797",
-      "published": "Tue, 01 Sep 2026 01:43:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zambia president inaugurated for second term after disputed vote, opposition arrests",
-      "description": "Zambian President Hakainde Hichilema has been inaugurated for his second term after a disputed election",
-      "url": "https://abcnews.com/International/wireStory/zambia-president-inaugurated-term-after-disputed-vote-opposition-136113490",
-      "published": "Tue, 01 Sep 2026 09:45:06 -0400",
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "description": "China’s President Xi Jinping visits Egypt this week for the first time in a decade",
+      "url": "https://abcnews.com/International/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131092",
+      "published": "Tue, 01 Sep 2026 23:06:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2073,40 +2063,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "A series of heat waves leads Britain to record its hottest summer",
+      "description": "Britain's summer has been the hottest on record",
+      "url": "https://abcnews.com/International/wireStory/series-heatwaves-leads-britain-record-hottest-summer-136116577",
+      "published": "Tue, 01 Sep 2026 22:26:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zambia president inaugurated for second term after disputed vote, opposition arrests",
+      "description": "Zambian President Hakainde Hichilema has been inaugurated for his second term after a disputed election",
+      "url": "https://abcnews.com/International/wireStory/zambia-president-inaugurated-term-after-disputed-vote-opposition-136113490",
+      "published": "Tue, 01 Sep 2026 09:45:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
       "description": "The election campaign to replace Emmanuel Macron as France's president is gaining momentum",
       "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
       "published": "Tue, 01 Sep 2026 06:58:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Can pineapples thrive in Africa's Sahel? A Burkina Faso farmer says the answer is yes",
-      "description": "Farmers in arid Burkina Faso have begun growing pineapples to reduce reliance on imports and adapt to climate challenges",
-      "url": "https://abcnews.com/International/wireStory/pineapples-thrive-africas-sahel-burkina-faso-farmer-answer-136106448",
-      "published": "Tue, 01 Sep 2026 02:10:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "description": "China’s President Xi Jinping visits Egypt this week for the first time in a decade",
-      "url": "https://abcnews.com/International/wireStory/xi-visits-egypt-china-seeks-deeper-influence-mideast-136131092",
-      "published": "Tue, 01 Sep 2026 23:06:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Carney’s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
-      "description": "Canadian Prime Minister Mark Carney’s Liberals swept three special elections in a result that showed voters backing Carney for standing up for Canada against U.S. President Donald Trump",
-      "url": "https://abcnews.com/International/wireStory/carneys-liberals-sweep-3-special-elections-canada-voters-136106661",
-      "published": "Tue, 01 Sep 2026 09:38:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2123,11 +2103,31 @@
       "severity_level": "Low"
     },
     {
+      "title": "Carney’s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
+      "description": "Canadian Prime Minister Mark Carney’s Liberals swept three special elections in a result that showed voters backing Carney for standing up for Canada against U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/carneys-liberals-sweep-3-special-elections-canada-voters-136106661",
+      "published": "Tue, 01 Sep 2026 09:38:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
       "description": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
       "published": "Thu, 27 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Haitian college student in Ohio dies by apparent suicide after losing TPS status, family says",
+      "description": "A Haitian-born college student in Ohio died in what his family believes to be a suicide after he was stripped of his temporary protected status.",
+      "url": "https://www.foxnews.com/us/haitian-college-student-ohio-dies-apparent-suicide-losing-tps-status-family-says",
+      "published": "Wed, 02 Sep 2026 00:48:37 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
