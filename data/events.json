@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T00:36:48.956690Z",
+  "last_updated": "2026-09-03T01:28:12.567600Z",
   "event_count": 220,
   "events": [
     {
@@ -30,16 +30,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Minneapolis apartment shooting leaves one dead, six injured",
-      "description": "At least one person was killed and six others wounded in a shooting at an apartment building in downtown Minneapolis on Wednesday, officials said. Two Minneapolis police officers were among those injured. Hennepin County Medical Center said it received seven patients, including one who died. Police urged people to avoid the area.",
-      "url": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
-      "published": "Thu, 03 Sep 2026 00:01:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -193,11 +183,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "US: At least 1 killed in downtown Minneapolis shooting",
-      "description": "At least one person was killed and six others injured in a shooting at a downtown Minneapolis apartment building.",
-      "url": "https://www.dw.com/en/us-at-least-1-killed-in-downtown-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 3 Sep 2026 00:25:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Iran, US trade threats as Tehran blames Washington for wedding strike",
+      "description": "Iran and the United States traded threats on Wednesday after their heaviest military exchanges in weeks. Tehran accused Washington of striking a wedding party and called the attack a war crime. President Donald Trump threatened further US strikes, while Iran’s security chief warned Washington would face a “new strategy.”",
+      "url": "https://www.france24.com/en/middle-east/20260903-iran-us-trade-threats-wedding-strike",
+      "published": "Thu, 03 Sep 2026 01:22:27 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical"
@@ -223,6 +213,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Minneapolis apartment shooting leaves three dead, multiple injured",
+      "description": "Two people were killed and a suspect died after a shooting at a downtown Minneapolis apartment building on Wednesday, police said. Three police officers were injured, including two who suffered gunshot wounds, and were in stable condition. One victim died at the scene and another at a hospital.",
+      "url": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
+      "published": "Thu, 03 Sep 2026 00:01:52 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
       "description": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168222",
@@ -233,11 +233,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "3 dead, including suspected gunman, and 3 officers injured in Minneapolis shooting",
+      "description": "Police in Minneapolis responded to a shooting in the city's downtown area that injured three police officers and four other victims. Seven victims were transported to hospitals.",
+      "url": "https://www.foxnews.com/us/police-officers-shot-among-multiple-victims-downtown-minneapolis-shooting",
+      "published": "Wed, 02 Sep 2026 18:25:13 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
       "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
       "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 11:51:46 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+      "description": "Iran's health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -323,16 +343,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "2 police officers among 'multiple victims' shot in downtown Minneapolis",
-      "description": "Police in Minneapolis are responding to a shooting in the city's downtown area that injured two officers and multiple other victims.",
-      "url": "https://www.foxnews.com/us/police-officers-shot-among-multiple-victims-downtown-minneapolis-shooting",
-      "published": "Wed, 02 Sep 2026 18:25:13 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
       "description": "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran's uranium enrichment capabilities after two wars.",
       "url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
@@ -350,16 +360,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-      "description": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 19:16:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -663,6 +663,16 @@
       "severity_level": "High"
     },
     {
+      "title": "US: 3 dead including suspect in Minneapolis shooting",
+      "description": "The motive for the shooting is still unclear. Local authorities and the FBI are responding to the incident.",
+      "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 3 Sep 2026 00:45:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
       "description": "Ukraine urged the UN aviation agency to call for a full ban on flights through Russian airspace, after President Volodymyr Zelensky warned it was becoming unsafe. Kyiv plans increased retaliation against intensified Russian strikes but would target only military facilities, Zelensky said, citing growing Ukrainian drone activity over Russia.",
       "url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine",
@@ -878,16 +888,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 19:05:31 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-      "description": "The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1343,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US says it will use regional body to isolate Nicaragua",
-      "description": "Move comes after Nicaragua's lawmakers change constitution to ban most political opposition.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 19:12:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1378,16 +1368,6 @@
       "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
       "published": "Mon, 31 Aug 2026 11:54:16 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Egypt welcomes Xi as Beijing expands influence in region",
-      "description": "Egyptian ​President Abdel Fattah al-Sisi welcomed China's Xi Jinping to Cairo on Wednesday, opening a visit that highlights Cairo's deepening ties with Beijing as regional turmoil prompts U.S. allies to reassess longstanding security relationships.",
-      "url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
-      "published": "Wed, 02 Sep 2026 15:33:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1693,6 +1673,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "US Congress rejects constitutional amendment to restrict Supreme Court size",
+      "description": "Republican Mike Johnson slams Democrats for voting against 'defending the integrity' of the court.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-congress-rejects-constitutional-amendment-to-restrict-supreme-court-size?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 01:06:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
+      "description": "Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 00:52:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
+      "description": "Ruling follows a 6-3 decision from the Supreme Court that found Trump's effort to limit birthright citizenship illegal.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 00:33:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Did DOGE ruin America’s food safety system?",
       "description": "Food safety scares raise questions over whether Trump’s cuts weakened US food safety monitoring.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/aje-onl-nf_did-doge-ruin-americas-food-safety-system-020926?traffic_source=rss",
@@ -1727,16 +1737,6 @@
       "description": "Justice Department had argued Google could not be trusted to run the online advertising exchange.",
       "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
       "published": "Wed, 02 Sep 2026 20:06:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
-      "description": "Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.",
-      "url": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 19:35:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1856,17 +1856,17 @@
       "title": "Australia news live: Marles says US relationship ‘transcends governments of the day’; Sydney to get new ferry stop",
       "description": "Meanwhile investors fret that soaring oil prices will reignite inflationary pressures. Follow the day’s news live. Get our breaking news email , free app or daily news podcast Shadow treasurer says tobacco plans would bring in extra billions and stop people buying from the ‘black market’ Tim Wilson, the shadow treasurer, said the tobacco proposal would bring in an extra $2bn a year as it would stop people “buying products from the black market”. We’ve been looking at this policy for a long time , but what we’ve been looking at is how do you break it down for the different parts of the market so that we can actually break the illegal tobacco trade? … We’ve got a government, we’ve got a One Nation position which is focused solely on tax cuts. What we’re looking at is how do we stop the black market, both with enforcement and with reduction in the excise, so that we actually get the outcome Australians want. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
-      "published": "Thu, 03 Sep 2026 00:18:11 GMT",
+      "published": "Thu, 03 Sep 2026 01:19:23 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Teenager charged after ‘near-complete amputation’ of boy’s hand in Sydney",
+      "title": "Boy charged after teenager's hand nearly cut off in Sydney",
       "description": "NSW police called to Redfern on Wednesday night found a 17-year-old with a partially severed hand Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A teenage boy will face court today after a “near-complete amputation” of a boy’s hand during an alleged assault in Sydney on Wednesday night. New South Wales police were called to Redfern about 6pm last night and found a 17-year-old with a partially severed hand. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/03/teenager-charged-after-near-complete-amputation-of-boys-hand-in-sydney-ntwnfb",
-      "published": "Thu, 03 Sep 2026 00:08:43 GMT",
+      "published": "Thu, 03 Sep 2026 00:24:33 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
