@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T05:11:37.198595Z",
+  "last_updated": "2026-09-05T05:35:16.086456Z",
   "event_count": 221,
   "events": [
     {
@@ -98,6 +98,16 @@
       "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
       "published": "Fri, 04 Sep 2026 13:50:43 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Middle East live: Israeli strikes on south and east Lebanon kill three people",
+      "description": "Israeli strikes in southern and eastern Lebanon late on Friday killed at least three people and wounded 23 more despite a ceasefire between Israel and Hezbollah, the Lebanese health ministry said. The ministry said in a statement that strikes hit five locations in the southern Tyre and Nabatieh regions and the Beqaa region in the east. Follow our liveblog for all the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+      "published": "Sat, 05 Sep 2026 05:01:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -293,7 +303,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
       "description": "US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain \"very soon\".",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
       "published": "Sat, 05 Sep 2026 00:00:00 +0000",
@@ -513,6 +523,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+      "description": "US envoys Steve Witkoff and Jared Kushner are travelling to Moscow and Kyiv this weekend with what US President Donald Trump says is a new proposal to end the Russia-Ukraine war. Despite Trump's promises to resolve the conflict, Washington's efforts to broker a peace have so far come to nothing.",
+      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+      "published": "Sat, 05 Sep 2026 02:37:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump avoids backing UK over Falklands, saying Britain 'not there to help' in Iran",
       "description": "Donald Trump failed to commit to helping the UK in a potential Falkland Islands conflict - saying it was \"not there to help me\" in the Iran war.",
       "url": "https://news.sky.com/story/trump-avoids-backing-uk-over-falklands-saying-britain-not-there-to-help-in-iran-13581044",
@@ -643,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US deports more than 100 people to Haiti as gang violence persists",
-      "description": "The U.S. government has deported more than 100 people to Haiti as it ramps up such flights to the troubled Caribbean country",
-      "url": "https://abcnews.com/International/wireStory/us-deports-100-people-haiti-gang-violence-persists-136190345",
-      "published": "Fri, 04 Sep 2026 02:52:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
       "description": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168271",
@@ -717,16 +727,6 @@
       "description": "Gavin Lee is pleased to welcome Peter Geoghegan, an award-winning investigative journalist. He's the editor of the Substack Democracy for Sale and the author of the best-selling book \"Democracy for Sale\". Geoghegan explains the significance of the Channel 4 investigation not simply over the conduct allegedly captured on camera, but in the broader question of how political influence is financed and made visible, or invisible, within British democracy.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
       "published": "Fri, 04 Sep 2026 19:52:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian drone strikes Ukraine security service HQ",
-      "description": "A Russian drone struck the headquarters of Ukraine's SBU security services in Kyiv on Friday afternoon, said Ukrainian President Volodymyr Zelensky, injuring five people. The attack followed a series of deadly overnight strikes across Ukraine, including the southern Odesa region.",
-      "url": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
-      "published": "Fri, 04 Sep 2026 13:59:22 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -823,10 +823,10 @@
       "severity_level": "High"
     },
     {
-      "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
-      "description": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
-      "published": "Fri, 04 Sep 2026 21:27:26 +0000",
+      "title": "Families of missing Ecuadorian fishermen allege US involvement",
+      "description": "Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 05:08:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
@@ -847,16 +847,6 @@
       "description": "The Israeli government's forced displacement of the entire populations of three West Bank refugee camps in January 2025 could amount to crimes against humanity, a UN report warned Friday. More than 33,000 Palestinians forced out of the Jenin, Nur Shams and Tulkarm camps have not been permitted to return home. Israel slammed the report for \"spreading misinformation\".",
       "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
       "published": "Fri, 04 Sep 2026 16:26:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "An inside look at Lucas Museum of Narrative Art in Los Angeles",
-      "description": "After years of delays and more than a billion dollars, the long-awaited Lucas Museum of Narrative Art is preparing to open its doors to the public in Los Angeles. The museum, founded by filmmaker George Lucas and his wife, businesswoman Mellody Hobson, will be a new home for visual storytelling spanning the Star Wars universe and beyond. FRANCE 24's correspondent Wassim Cornet reports.",
-      "url": "https://www.france24.com/en/video/20260904-an-inside-look-at-lucas-museum-of-narrative-art-in-los-angeles",
-      "published": "Fri, 04 Sep 2026 13:57:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 10,
@@ -1113,10 +1103,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "What to know about UK-controlled Falkland Islands after Argentina's president stakes claim",
+      "description": "Argentine President Javier Milei has resurrected Argentina’s long-held claim to the nearby U.K.-controlled Falkland Islands and in the process conjured up memories of the bitter war the two countries fought 44 years ago",
+      "url": "https://abcnews.com/International/wireStory/uk-controlled-falkland-islands-after-argentinas-president-stakes-136202613",
+      "published": "Fri, 04 Sep 2026 11:06:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Brazilian Supreme Court justices at odds as election and probe into failed bank loom",
       "description": "Brazil’s Supreme Court has plunged further into an institutional crisis, as two of its best known justices are now requesting major sanctions against each other",
       "url": "https://abcnews.com/International/wireStory/brazilian-supreme-court-justices-odds-election-probe-failed-136215238",
       "published": "Fri, 04 Sep 2026 18:29:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life",
+      "description": "Russian drone and missile attacks in Kyiv have intensified, disrupting daily life with constant air-raid sirens",
+      "url": "https://abcnews.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
+      "published": "Fri, 04 Sep 2026 02:38:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1133,20 +1143,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What to know about UK-controlled Falkland Islands after Argentina's president stakes claim",
-      "description": "Argentine President Javier Milei has resurrected Argentina’s long-held claim to the nearby U.K.-controlled Falkland Islands and in the process conjured up memories of the bitter war the two countries fought 44 years ago",
-      "url": "https://abcnews.com/International/wireStory/uk-controlled-falkland-islands-after-argentinas-president-stakes-136202613",
-      "published": "Fri, 04 Sep 2026 11:06:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life",
-      "description": "Russian drone and missile attacks in Kyiv have intensified, disrupting daily life with constant air-raid sirens",
-      "url": "https://abcnews.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
-      "published": "Fri, 04 Sep 2026 02:38:41 -0400",
+      "title": "Body of convicted war criminal Ratko Mladic to be flown to Serbia, president says",
+      "description": "The body of former Bosnian Serb army commander Ratko Mladic, who died last week while serving a life sentence for genocide, will be flown to Serbia on Thursday",
+      "url": "https://abcnews.com/International/wireStory/body-convicted-war-criminal-ratko-mladic-flown-serbia-136173287",
+      "published": "Thu, 03 Sep 2026 10:05:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1263,20 +1263,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit",
-      "description": "The small Iranian town of Kuhestak is reeling after a barrage of strikes hit a house where dozens of women were gathered to celebrate a wedding",
-      "url": "https://abcnews.com/International/wireStory/women-gathered-small-iranian-town-wedding-deadly-strikes-136207573",
-      "published": "Fri, 04 Sep 2026 14:41:36 -0400",
+      "title": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country",
+      "description": "Kenya's President William Ruto has directed Tata Chemicals to leave the country, accusing the company of failing to generate economic impact",
+      "url": "https://abcnews.com/International/wireStory/kenyas-ruto-orders-indian-company-tata-chemicals-leave-136198674",
+      "published": "Fri, 04 Sep 2026 09:43:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country",
-      "description": "Kenya's President William Ruto has directed Tata Chemicals to leave the country, accusing the company of failing to generate economic impact",
-      "url": "https://abcnews.com/International/wireStory/kenyas-ruto-orders-indian-company-tata-chemicals-leave-136198674",
-      "published": "Fri, 04 Sep 2026 09:43:42 -0400",
+      "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit",
+      "description": "The small Iranian town of Kuhestak is reeling after a barrage of strikes hit a house where dozens of women were gathered to celebrate a wedding",
+      "url": "https://abcnews.com/International/wireStory/women-gathered-small-iranian-town-wedding-deadly-strikes-136207573",
+      "published": "Fri, 04 Sep 2026 14:41:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1463,20 +1463,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Tunisia’s top court upholds opposition convictions in a state security case",
-      "description": "Tunisia’s highest court has upheld the convictions of dozens of opposition figures, lawyers and human rights activists accused of conspiring against state security",
-      "url": "https://abcnews.com/International/wireStory/tunisias-top-court-upholds-opposition-convictions-state-security-136204725",
-      "published": "Fri, 04 Sep 2026 11:05:26 -0400",
+      "title": "Cambodia’s army to resume joint military exercises with the US next year",
+      "description": "Cambodia’s army says it will resume joint military exercises with the United States early next year after a decade-long suspension",
+      "url": "https://abcnews.com/International/wireStory/cambodias-army-resume-joint-military-exercises-us-year-136202268",
+      "published": "Fri, 04 Sep 2026 09:59:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
     },
     {
-      "title": "Cambodia’s army to resume joint military exercises with the US next year",
-      "description": "Cambodia’s army says it will resume joint military exercises with the United States early next year after a decade-long suspension",
-      "url": "https://abcnews.com/International/wireStory/cambodias-army-resume-joint-military-exercises-us-year-136202268",
-      "published": "Fri, 04 Sep 2026 09:59:10 -0400",
+      "title": "Tunisia’s top court upholds opposition convictions in a state security case",
+      "description": "Tunisia’s highest court has upheld the convictions of dozens of opposition figures, lawyers and human rights activists accused of conspiring against state security",
+      "url": "https://abcnews.com/International/wireStory/tunisias-top-court-upholds-opposition-convictions-state-security-136204725",
+      "published": "Fri, 04 Sep 2026 11:05:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -2093,16 +2093,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Meloni celebrates her Italian government's longevity during party rally in Bari",
-      "description": "Italy's Premier Giorgia Meloni has celebrated a milestone for her government",
-      "url": "https://abcnews.com/International/wireStory/meloni-celebrates-italian-governments-longevity-party-rally-bari-136210244",
-      "published": "Fri, 04 Sep 2026 17:38:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Why Mexican cartels are increasingly using car bombs and other explosives",
       "description": "Drug cartels in Mexico are increasingly using car bombs and explosives in drones and roads",
       "url": "https://abcnews.com/International/wireStory/mexican-cartels-increasingly-car-bombs-explosives-136208469",
@@ -2113,10 +2103,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering",
-      "description": "Romanian prosecutors have indicted social media influencer Andrew Tate on charges including trafficking minors and money laundering",
-      "url": "https://abcnews.com/International/wireStory/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-136201398",
-      "published": "Fri, 04 Sep 2026 15:12:44 -0400",
+      "title": "Reckoning looms for golf carts that zip through Rome's crowded historic center",
+      "description": "Rome's historic center is facing a golf cart controversy",
+      "url": "https://abcnews.com/International/wireStory/reckoning-looms-golf-carts-zip-romes-crowded-historic-136194253",
+      "published": "Fri, 04 Sep 2026 01:26:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2133,10 +2123,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Reckoning looms for golf carts that zip through Rome's crowded historic center",
-      "description": "Rome's historic center is facing a golf cart controversy",
-      "url": "https://abcnews.com/International/wireStory/reckoning-looms-golf-carts-zip-romes-crowded-historic-136194253",
-      "published": "Fri, 04 Sep 2026 01:26:58 -0400",
+      "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering",
+      "description": "Romanian prosecutors have indicted social media influencer Andrew Tate on charges including trafficking minors and money laundering",
+      "url": "https://abcnews.com/International/wireStory/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-136201398",
+      "published": "Fri, 04 Sep 2026 15:12:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Meloni celebrates her Italian government's longevity during party rally in Bari",
+      "description": "Italy's Premier Giorgia Meloni has celebrated a milestone for her government",
+      "url": "https://abcnews.com/International/wireStory/meloni-celebrates-italian-governments-longevity-party-rally-bari-136210244",
+      "published": "Fri, 04 Sep 2026 17:38:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
