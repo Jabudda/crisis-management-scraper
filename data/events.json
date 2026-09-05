@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T13:10:30.941009Z",
+  "last_updated": "2026-09-05T13:35:15.808285Z",
   "event_count": 220,
   "events": [
     {
@@ -853,16 +853,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US envoys fly to Russia, then Ukraine with plan 'to end war'",
-      "description": "Jared Kushner and Steve Witkoff have reportedly arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.",
-      "url": "https://www.dw.com/en/us-envoys-fly-to-russia-then-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 5 Sep 2026 10:37:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "How vulnerable is Germany's infrastructure?",
       "description": "The growing number of attacks on substations and railway lines in Germany is raising concern. Experts say that people will have to get used to the likelihood that such incidents will continue.",
       "url": "https://www.dw.com/en/how-vulnerable-is-germany-s-infrastructure/a-78990131?maca=en-rss-en-all-1573-xml-mrss",
@@ -1023,6 +1013,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Greek air force jet crashes at annual aerial show, starts fire",
+      "description": "A Greek air force jet has crashed at an aerial show north of Athens",
+      "url": "https://abcnews.com/International/wireStory/greek-air-force-jet-crashes-annual-aerial-show-136224237",
+      "published": "Sat, 05 Sep 2026 09:26:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UN General Assembly endorses a new world map that shows more accurately Africa's size",
       "description": "The United Nations General Assembly has voted to endorse a new world map that shows Africa's large size more accurately",
       "url": "https://abcnews.com/International/wireStory/general-assembly-endorses-new-world-map-shows-accurately-136217039",
@@ -1083,16 +1083,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Niger accuses France of orchestrating failed military mutiny",
-      "description": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 07:42:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1128,6 +1118,16 @@
       "url": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
       "published": "Sat, 05 Sep 2026 09:15:34 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
+      "description": "Iran has accused the U.S. of attacking an Iranian tanker near Kharg Island in the Persian Gulf",
+      "url": "https://abcnews.com/International/wireStory/iran-accuses-us-targeting-tanker-kharg-island-mideast-136222728",
+      "published": "Sat, 05 Sep 2026 09:22:27 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1303,13 +1303,23 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country",
-      "description": "Kenya's President William Ruto has directed Tata Chemicals to leave the country, accusing the company of failing to generate economic impact",
-      "url": "https://abcnews.com/International/wireStory/kenyas-ruto-orders-indian-company-tata-chemicals-leave-136198674",
-      "published": "Fri, 04 Sep 2026 09:43:42 -0400",
-      "source": "ABC News International",
+      "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
+      "description": "Masked protesters blocked major roads around England’s Port of Dover on Saturday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 13:09:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 6,
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+      "description": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+      "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 13:07:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1318,6 +1328,16 @@
       "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
       "published": "Fri, 04 Sep 2026 09:42:10 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia announces 72-hour pause in strikes amid Ukraine talks",
+      "description": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.",
+      "url": "https://www.dw.com/en/russia-announces-72-hour-pause-in-strikes-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 5 Sep 2026 13:03:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1428,16 +1448,6 @@
       "url": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
       "published": "Fri, 04 Sep 2026 15:53:14 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other Mideast news",
-      "description": "Iranian state media have accused the United States of targeting a tanker near Kharg Island",
-      "url": "https://abcnews.com/International/wireStory/iran-accuses-us-targeting-tanker-kharg-island-mideast-136222728",
-      "published": "Sat, 05 Sep 2026 06:39:18 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1623,16 +1633,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Civil rights groups urge a halt to South Africa data centers boom amid water and power fears",
-      "description": "Civil rights groups in South Africa are calling for a pause on building more data centers until their use of water, land and electricity is investigated",
-      "url": "https://abcnews.com/International/wireStory/civil-rights-groups-urge-halt-south-africa-data-136197407",
-      "published": "Fri, 04 Sep 2026 09:44:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
       "description": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln's arrival, arresting over 50 people as 5,000 sailors hit the resort city.",
       "url": "https://www.foxnews.com/world/thai-resort-city-cracks-down-prostitution-ahead-uss-abraham-lincoln-arrival",
@@ -1777,16 +1777,6 @@
       "description": "By allying with Segalovich in the Israeli vote, Abbas is hoping for greater acceptance in Israeli coalition politics.",
       "url": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count?traffic_source=rss",
       "published": "Sat, 05 Sep 2026 08:40:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
-      "description": "Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 08:07:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2066,7 +2056,7 @@
       "title": "Chimpanzees used for vaccine research get health checks as part of long-term care",
       "description": "Chimpanzees once used in hepatitis B vaccine experiments are getting health checks at their new home in Liberia",
       "url": "https://abcnews.com/International/wireStory/chimpanzees-vaccine-research-health-checks-part-long-term-136222541",
-      "published": "Sat, 05 Sep 2026 06:42:39 -0400",
+      "published": "Sat, 05 Sep 2026 09:22:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2087,6 +2077,16 @@
       "description": "Rome's historic center is facing a golf cart controversy",
       "url": "https://abcnews.com/International/wireStory/reckoning-looms-golf-carts-zip-romes-crowded-historic-136194253",
       "published": "Fri, 04 Sep 2026 01:26:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Serbia's ruling populists propose President Vucic switch to prime minister after election",
+      "description": "Serbia’s governing party has proposed President Aleksandar Vucic as prime minister if they win an early parliamentary election",
+      "url": "https://abcnews.com/International/wireStory/serbias-ruling-populists-propose-president-vucic-switch-prime-136223674",
+      "published": "Sat, 05 Sep 2026 09:26:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
