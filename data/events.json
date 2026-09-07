@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T17:35:33.027263Z",
+  "last_updated": "2026-09-07T18:15:30.071930Z",
   "event_count": 223,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
+      "description": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:31:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -90,6 +100,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+      "description": "Israel on Monday threatened a “full-scale war” against the Palestinian Authority if it believed the West Bank-based body was preparing an attack on Israeli forces or settlements resembling Hamas’s October 7, 2023 assault. The warning was denounced by Palestinian authorities as an attempt to fuel the conflict during the Israeli election season.",
+      "url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+      "published": "Mon, 07 Sep 2026 18:08:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -223,6 +243,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Supporters of Alabama school bus driver charged in deadly accident say she suffered from 'medical crisis'",
+      "description": "Theresa McCloud faces vehicular homicide charges after a fatal Auburn school bus crash, but supporters claim a sudden blood sugar drop caused the accident.",
+      "url": "https://www.foxnews.com/us/supporters-alabama-school-bus-driver-charged-deadly-accident-suffered-medical-crisis",
+      "published": "Mon, 07 Sep 2026 13:45:15 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
       "title": "How far-right AfD breakthrough may ‘cause absolute chaos’ in Germany",
       "description": "Germany’s Alternative for Germany (AfD) came out well ahead in Sunday’s regional elections in the state of Saxony-Anhalt, becoming the first far-right party to come close to gaining power at the regional level since World War II. The lead candidate of the party in the state, Ulrich Siegmund, said Monday that his party had already initiated talks towards building a governing majority.",
       "url": "https://www.france24.com/en/europe/20260907-how-far-right-breakthrough-may-cause-absolute-chaos-in-germany-afd",
@@ -243,10 +273,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Probe begins into why cargo plane overran Miami runway",
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
       "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:54:40 GMT",
+      "published": "Mon, 07 Sep 2026 17:46:25 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 21,
@@ -273,30 +303,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-      "description": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 13:52:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Five dead after Amazon cargo plane overshoots runway in Miami",
       "description": "At least five people died when an Amazon Prime Air cargo flight overran a runway and crashed while landing at Miami International ​Airport on Sunday, local ‌officials said.",
       "url": "https://www.france24.com/en/video/20260907-five-dead-after-amazon-cargo-plane-overshoots-runway-in-miami",
       "published": "Mon, 07 Sep 2026 10:54:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Segregated schools and citizen ‘watch groups’: the AfD’s plans for Saxony-Anhalt",
-      "description": "The Alternative for Germany (AfD) surged into first place in state elections in Saxony-Anhalt on Sunday, exit polls showed, putting a far-right party within reach of power at the state level for the first time since World War Two. So who are the AfD, and what could it mean for voters in the state? Rachael Griffiths has more.",
-      "url": "https://www.france24.com/en/video/20260907-segregated-schools-and-citizen-watch-groups-the-afd-s-plans-for-saxony-anhalt",
-      "published": "Mon, 07 Sep 2026 10:13:55 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 19,
@@ -347,26 +357,6 @@
       "description": "Nepal is holding a day of mourning to remember those killed in the Aug. 26 floods",
       "url": "https://abcnews.com/International/wireStory/nepal-holds-day-mourning-after-floods-kill-1300-136248834",
       "published": "Mon, 07 Sep 2026 10:58:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Nepal flood survivor's family in China relieved after days of anxious waiting",
-      "description": "Lu Haitao’s family can finally breathe a sigh of relief after the Chinese man's rescue from a tunnel that protected him from the Nepal flooding",
-      "url": "https://abcnews.com/International/wireStory/nepal-flood-survivors-family-china-relieved-after-days-136236638",
-      "published": "Sun, 06 Sep 2026 03:02:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative",
-      "description": "Antonella Molina and her nephew Pedro are searching for 18-year-old Andres Molina in La Guaira, Venezuela",
-      "url": "https://abcnews.com/International/wireStory/months-after-venezuela-earthquakes-family-refuses-give-search-136237654",
-      "published": "Sun, 06 Sep 2026 07:48:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -458,6 +448,16 @@
       "url": "https://www.france24.com/en/sport/20260907-this-might-be-the-year-mbapp%C3%A9-embraces-ballon-d-or-talk-after-world-cup-exploits",
       "published": "Mon, 07 Sep 2026 11:57:17 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Body of war criminal Mladic lies in state in Serbian capital ahead of funeral",
+      "description": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried as a hero on Monday in Serbia with military honors and big crowds attending",
+      "url": "https://abcnews.com/International/wireStory/body-war-criminal-mladic-lies-state-serbian-capital-136249114",
+      "published": "Mon, 07 Sep 2026 10:10:20 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -633,6 +633,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
+      "description": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:41:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Former U.S. ambassador to Ukraine on efforts to strike a compromise with Russia",
       "description": "NPR's Leila Fadel asks William Taylor, former U.S. ambassador to Ukraine, about efforts made by U.S. emissaries toward a compromise between Russia and Ukraine.",
       "url": "https://www.npr.org/2026/09/07/nx-s1-5959696/former-u-s-ambassador-to-ukraine-on-efforts-to-strike-a-compromise-with-russia",
@@ -693,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Building collapse in New Delhi kills 1 and traps dozens of others",
+      "description": "A building has collapsed in New Delhi, killing at least one person and trapping dozens of others",
+      "url": "https://abcnews.com/International/wireStory/building-collapse-new-delhi-kills-1-traps-dozens-136238776",
+      "published": "Sun, 06 Sep 2026 10:02:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
       "description": "More than a week after flash floods struck the Bhotekoshi-Trishuli river basin in Nepal, at least 22,000 children urgently need safe drinking water, sanitation and hygiene support, the United Nations Children’s Fund (UNICEF) said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168269",
@@ -713,21 +733,21 @@
       "severity_level": "High"
     },
     {
-      "title": "‘Direction Potocari’: From Srebrenica genocide to a Belgrade football match",
-      "description": "Red Star fans honoured convicted war criminal Ratko Mladic. Analysts say that's nothing new - and that's the problem.",
-      "url": "https://www.aljazeera.com/features/2026/9/7/direction-potocari-from-srebrenica-genocide-to-a-belgrade-football-match?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 14:33:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Carbon capture tech exists. Scaling it up is the hard part",
       "description": "Europe just opened a carbon capture and storage plant billed as the continent's largest. But global climate scenarios call for far more capacity than exists anywhere on Earth.",
       "url": "https://www.dw.com/en/carbon-capture-tech-exists-scaling-it-up-is-the-hard-part/a-79147600?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 14:12:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iranian soccer players who sought asylum in Australia say anthem silence was protest",
+      "description": "Two members of the Iranian women’s soccer team who claimed asylum in Australia have confirmed their pivotal refusal to sing the national anthem during the Women’s Asian Cup in March was a protest against Tehran",
+      "url": "https://abcnews.com/International/wireStory/iranian-soccer-players-sought-asylum-australia-anthem-silence-136249017",
+      "published": "Mon, 07 Sep 2026 04:26:17 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -853,6 +873,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+      "description": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:52:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
       "description": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence.",
       "url": "https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel?traffic_source=rss",
@@ -877,16 +907,6 @@
       "description": "A new book uncovers the role the media played in whitewashing Israel's genocidal war on Gaza.",
       "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
       "published": "Mon, 07 Sep 2026 14:59:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
-      "description": "Analysts warn Iraq faces severe security and political tests as the US-led coalition withdrawal deadline approaches.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 13:30:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -954,7 +974,7 @@
     },
     {
       "title": "India news: Rescue efforts underway in deadly Delhi building collapse",
-      "description": "The building was located in New Delhi's Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble. DW has more.",
+      "description": "The building was located in New Delhi's Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble.",
       "url": "https://www.dw.com/en/india-news-rescue-efforts-underway-in-deadly-delhi-building-collapse/live-79123607?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 07:33:00 GMT",
       "source": "Deutsche Welle",
@@ -988,6 +1008,16 @@
       "url": "https://www.france24.com/en/france/20260907-scorching-summer-pushes-french-wine-harvest-to-new-historic-low",
       "published": "Mon, 07 Sep 2026 11:57:17 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection",
+      "description": "The burial of a young chorister in Bunia highlights the ongoing Ebola crisis in Congo",
+      "url": "https://abcnews.com/International/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247958",
+      "published": "Mon, 07 Sep 2026 06:02:14 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1057,16 +1087,6 @@
       "description": "Video evidence allegedly contradicted the ICE officer's claims about the Minneapolis shooting of Venezuelan man Julio Cesar Sosa-Celis, prosecutors say.",
       "url": "https://www.foxnews.com/us/ice-officer-pleads-not-guilty-lying-minneapolis-shooting-involving-venezuelan-man",
       "published": "Fri, 04 Sep 2026 16:36:54 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Illinois mother charged with murder in death of 2-year-old son in case drawing comparisons to Lindsay Clancy",
-      "description": "Corie Walsh faces three murder charges in her 2-year-old son's death, a Frankfort, Illinois, case that a neighbor says mirrors the Lindsay Clancy trial.",
-      "url": "https://www.foxnews.com/us/illinois-mother-charged-murder-death-2-year-old-son-case-drawing-comparisons-lindsay-clancy",
-      "published": "Fri, 04 Sep 2026 16:01:25 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1168,6 +1188,16 @@
       "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 15:40:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nauru opens embassy in Jerusalem",
+      "description": "Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:36:05 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1378,16 +1408,6 @@
       "url": "https://news.sky.com/story/alternative-for-germany-who-are-the-far-right-party-swept-to-victory-in-saxony-anhalt-13582650",
       "published": "Mon, 07 Sep 2026 08:19:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
-      "description": "The far-right Alternative for Germany party has surged to a resounding victory in a regional election",
-      "url": "https://abcnews.com/International/wireStory/german-region-votes-election-bring-state-governor-power-136236455",
-      "published": "Mon, 07 Sep 2026 04:10:24 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1613,6 +1633,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
+      "description": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:50:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Gaza: Genocide in Real Time?",
+      "description": "B'Tselem Executive Directo",
+      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 17:23:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "When does a family meal become a luxury in Nigeria?",
       "description": "‘5,000 naira used to make a pot of soup, now 10,000 naira isn't enough.’",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/when-does-a-family-meal-become-a-luxury-in-nigeria?traffic_source=rss",
@@ -1677,36 +1717,6 @@
       "description": "Israel’s Chamber of Commerce has opened a new trade office in Banja Luka.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israel-opens-trade-office-in-bosnias-republika-srpska?traffic_source=rss",
       "published": "Mon, 07 Sep 2026 14:57:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
-      "description": "The Witkoff-Kushner visit to Moscow and Kyiv did not produce a breakthrough, but it can help begin a new process.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 14:22:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Breaks my heart’: Yemen jab shortages spark fears for millions of children",
-      "description": "Some five million Yemeni children are deprived of essential routine vaccinations amid disputes.",
-      "url": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 13:46:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
-      "description": "Nicaragua accuses Germany of violating the Genocide Convention by supporting Israel amid its onslaught on Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 13:26:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1933,7 +1943,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU's Von der Leyen pledges $232 million Greenland investment",
+      "title": "EU's von der Leyen pledges $232 million Greenland investment",
       "description": "The EU is preparing a major investment package and closer political ties with the Danish Arctic territory amid Donald Trump's demand for greater US control of the mineral-rich island.",
       "url": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 13:35:00 GMT",
@@ -2003,20 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
-      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
-      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
-      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
-      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
-      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
+      "title": "Serbia's government proposes dissolving Parliament for early election",
+      "description": "The Serbian government has proposed dissolving Parliament, setting in motion a procedure for scheduling a high-stakes early parliamentary election",
+      "url": "https://abcnews.com/International/wireStory/serbias-government-proposes-dissolving-parliament-early-election-136255010",
+      "published": "Mon, 07 Sep 2026 11:22:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2033,6 +2033,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Russia and North Korea open the first road link across shared border",
+      "description": "Russia and North Korea have opened their first road bridge for car traffic, enhancing their growing ties",
+      "url": "https://abcnews.com/International/wireStory/russia-north-korea-open-road-link-shared-border-136254045",
+      "published": "Mon, 07 Sep 2026 12:29:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "EU chief unveils $232M Greenland package as tensions heighten with Trump claims",
       "description": "European Commission President Ursula von der Leyen is offering Greenland a new investment package worth more than $230 million",
       "url": "https://abcnews.com/International/wireStory/eu-chief-unveils-232-million-greenland-package-tensions-136252951",
@@ -2043,30 +2053,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Serbia's government proposes dissolving Parliament for early election",
-      "description": "The Serbian government has proposed dissolving Parliament, setting in motion a procedure for scheduling a high-stakes early parliamentary election",
-      "url": "https://abcnews.com/International/wireStory/serbias-government-proposes-dissolving-parliament-early-election-136255010",
-      "published": "Mon, 07 Sep 2026 11:22:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Former Cuban President Raúl Castro reappears at a military event",
-      "description": "Castro, 95, was seen alongside his bodyguard and grandson.",
-      "url": "https://abcnews.com/International/wireStory/former-cuban-president-ral-castro-reappears-military-event-136241616",
-      "published": "Sun, 06 Sep 2026 14:55:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany fights Gaza genocide claims at the top UN court",
-      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
-      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
-      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
+      "title": "Husband of Tanzania's president dies while undergoing hospital treatment",
+      "description": "Tanzania's President Samia Suluhu Hassan's husband has died while undergoing treatment in Zanzibar",
+      "url": "https://abcnews.com/International/wireStory/husband-tanzanias-president-dies-undergoing-treatment-136250157",
+      "published": "Mon, 07 Sep 2026 08:50:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2083,10 +2073,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Africa’s mother tongues are finding new life as youth connect with roots and relatives",
-      "description": "Growing interest in African languages is creating new business opportunities as people in the diaspora seek to connect with their relatives and roots",
-      "url": "https://abcnews.com/International/wireStory/africas-mother-tongues-finding-new-life-youth-connect-136233683",
-      "published": "Sat, 05 Sep 2026 21:57:55 -0400",
+      "title": "Germany fights Gaza genocide claims at the top UN court",
+      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
+      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
+      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former Cuban President Raúl Castro reappears at a military event",
+      "description": "Castro, 95, was seen alongside his bodyguard and grandson.",
+      "url": "https://abcnews.com/International/wireStory/former-cuban-president-ral-castro-reappears-military-event-136241616",
+      "published": "Sun, 06 Sep 2026 14:55:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
