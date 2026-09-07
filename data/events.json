@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T04:16:19.519547Z",
+  "last_updated": "2026-09-07T04:41:28.191721Z",
   "event_count": 220,
   "events": [
     {
@@ -18,6 +18,16 @@
       "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
       "published": "Sat, 05 Sep 2026 11:26:30 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Wildfires, heatwaves threaten global air quality and health, UN warns",
+      "description": "Wildfires and heatwaves are threatening global efforts to improve air quality and protect human health, the World Meteorological Organisation said on Monday. The UN agency warned that increasingly severe fires are raising exposure to toxic PM2.5 pollution, even as regulations have reduced industrial and transport emissions in Europe and North America.",
+      "url": "https://www.france24.com/en/environment/20260907-wildfires-heatwaves-global-air-quality-health-un",
+      "published": "Mon, 07 Sep 2026 04:16:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 42,
       "severity_level": "Critical"
@@ -136,7 +146,7 @@
       "title": "Explosion of fireworks in central Mexico kills at least 10, injures 64",
       "description": "Mexican authorities say at least 10 people died and another 64 were injured when pyrotechnic material exploded during a patron saint festival in a town in the State of Mexico",
       "url": "https://abcnews.com/International/wireStory/explosion-fireworks-central-mexico-kills-10-injures-64-136243489",
-      "published": "Sun, 06 Sep 2026 17:06:17 -0400",
+      "published": "Mon, 07 Sep 2026 00:21:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
@@ -150,16 +160,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:22:41 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -293,16 +293,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
       "description": "Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
@@ -413,20 +403,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal flood survivor's family in China relieved after days of anxious waiting",
-      "description": "Lu Haitao’s family can finally breathe a sigh of relief after the Chinese man's rescue from a tunnel that protected him from the Nepal flooding",
-      "url": "https://abcnews.com/International/wireStory/nepal-flood-survivors-family-china-relieved-after-days-136236638",
-      "published": "Sun, 06 Sep 2026 03:02:59 -0400",
+      "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative",
+      "description": "Antonella Molina and her nephew Pedro are searching for 18-year-old Andres Molina in La Guaira, Venezuela",
+      "url": "https://abcnews.com/International/wireStory/months-after-venezuela-earthquakes-family-refuses-give-search-136237654",
+      "published": "Sun, 06 Sep 2026 07:48:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
     },
     {
-      "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative",
-      "description": "Antonella Molina and her nephew Pedro are searching for 18-year-old Andres Molina in La Guaira, Venezuela",
-      "url": "https://abcnews.com/International/wireStory/months-after-venezuela-earthquakes-family-refuses-give-search-136237654",
-      "published": "Sun, 06 Sep 2026 07:48:43 -0400",
+      "title": "Nepal flood survivor's family in China relieved after days of anxious waiting",
+      "description": "Lu Haitao’s family can finally breathe a sigh of relief after the Chinese man's rescue from a tunnel that protected him from the Nepal flooding",
+      "url": "https://abcnews.com/International/wireStory/nepal-flood-survivors-family-china-relieved-after-days-136236638",
+      "published": "Sun, 06 Sep 2026 03:02:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -763,6 +753,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Australia politics live: Median full-time worker to be $25,000 worse off under Hanson’s super plan, peak body says; PM speaks of ‘horror’ of Nepal floods",
+      "description": "Follow the day’s news live Sign up for Guardian Australia’s Politics, really newsletter here One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost. Pauline Hanson says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "published": "Mon, 07 Sep 2026 04:29:31 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
       "description": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
@@ -843,10 +843,10 @@
       "severity_level": "High"
     },
     {
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 00:53:11 GMT",
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 12:09:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -913,26 +913,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 22:48:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 16:49:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "India's high-stakes exam system faces a crisis of trust",
       "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
       "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
@@ -943,10 +923,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-      "description": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-      "published": "Sun, 06 Sep 2026 18:56:25 +0000",
+      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+      "description": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 03:59:39 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1163,11 +1143,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
-      "description": "German voters headed to the polls on Sunday for a key regional election in the ex-communist east where the far-right, anti-immigrant, Moscow- and Trump-friendly AfD is expected to secure an easy majority. Our correspondent Nick Holdsworth tells us more.",
-      "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote-1",
-      "published": "Sun, 06 Sep 2026 11:54:09 GMT",
-      "source": "France24",
+      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 04:07:23 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium"
@@ -1190,6 +1170,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 23:20:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1233,6 +1223,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Iranian strikes on Jordan test the bonds between the US and one of its staunchest Mideast allies",
+      "description": "Jordan, a staunch U.S. ally that hosts American forces in the Mideast, has paid a price for its relationship with Washington",
+      "url": "https://abcnews.com/International/wireStory/iranian-strikes-jordan-test-bonds-us-staunchest-mideast-136194638",
+      "published": "Fri, 04 Sep 2026 02:17:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Former North Texas police officer given three life sentences for child pornography, solicitation of minor",
       "description": "A North Texas jury convicted Daniel Joseph Bates after he claimed 300-plus explicit child images were part of a secret human trafficking investigation.",
       "url": "https://www.foxnews.com/us/former-north-texas-police-officer-given-three-life-sentences-child-pornography-solicitation-minor",
@@ -1257,6 +1257,16 @@
       "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 23:02:45 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 02:26:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1337,16 +1347,6 @@
       "description": "The far-right Alternative for Germany is projected to win a strong victory in a regional election",
       "url": "https://abcnews.com/International/wireStory/german-region-votes-election-bring-state-governor-power-136236455",
       "published": "Sun, 06 Sep 2026 16:42:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cambodia’s army to resume joint military exercises with the US next year",
-      "description": "Cambodia’s army says it will resume joint military exercises with the United States early next year after a decade-long suspension",
-      "url": "https://abcnews.com/International/wireStory/cambodias-army-resume-joint-military-exercises-us-year-136202268",
-      "published": "Fri, 04 Sep 2026 09:59:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1547,6 +1547,16 @@
       "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
       "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 00:01:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australians will be able to switch off social media algorithms under planned legislation",
+      "description": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 03:40:09 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1817,16 +1827,6 @@
       "description": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting. The defence minister, Gen Paulo Sérgio Nogueira de Oliveira, took out a document from a plastic folder and handed copies to the commanders of the navy, army and air force. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
       "published": "Sat, 05 Sep 2026 10:00:34 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australia politics live: Median full-time worker to be $25,000 worse off under Hanson’s super plan, peak body says",
-      "description": "Follow the day’s news live One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost. Pauline Hanson says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "published": "Mon, 07 Sep 2026 03:58:06 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
