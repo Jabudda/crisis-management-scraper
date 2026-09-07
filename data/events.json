@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T07:02:14.512310Z",
+  "last_updated": "2026-09-07T07:43:37.468013Z",
   "event_count": 220,
   "events": [
     {
@@ -120,6 +120,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "description": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 07:25:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -253,16 +263,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Can AfD form Germany’s first far-right state government since World War II?",
-      "description": "Germany’s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-      "published": "Sun, 06 Sep 2026 20:52:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Israeli strikes on Lebanon kill several despite truce",
       "description": "Lebanon's President Joseph Aoun has appealed to the international community to \"take immediate action to stop these violations\" of the ceasefire agreement between Israel and Lebanon.",
       "url": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-xml-mrss",
@@ -380,6 +380,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+      "description": "Among the 10 killed overnight are children, including a two-month old infant.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 06:58:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -763,10 +773,10 @@
       "severity_level": "High"
     },
     {
-      "title": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
-      "description": "North Korea says leader Kim Jong Un has commissioned his second naval destroyer and called for building a more reliable nuclear deterrent",
+      "title": "North Korea adds 2nd naval destroyer as US, South Korea and Japan hold military drill",
+      "description": "North Korea says leader Kim Jong Un has put his second naval destroyer into service and called for building a more reliable nuclear deterrent",
       "url": "https://abcnews.com/International/wireStory/north-korea-commissions-2nd-naval-destroyer-us-south-136246537",
-      "published": "Sun, 06 Sep 2026 21:39:28 -0400",
+      "published": "Mon, 07 Sep 2026 03:36:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -843,16 +853,6 @@
       "severity_level": "High"
     },
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 12:09:54 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -923,6 +923,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "India teams search for survivors after Delhi building collapse kills six",
+      "description": "Rescue teams work to locate survivors after New Delhi building collapse.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 07:04:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
       "description": "Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.",
       "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
@@ -983,20 +993,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
-      "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
-      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 6 Sep 2026 22:22:00 GMT",
+      "title": "India news: Rescue efforts underway in deadly Delhi building collapse",
+      "description": "The building was located in New Delhi's Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble. DW has more.",
+      "url": "https://www.dw.com/en/india-news-rescue-efforts-underway-in-deadly-delhi-building-collapse/live-79123607?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 7 Sep 2026 07:33:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "US envoys meet with Putin, leave Russia for Kyiv",
-      "description": "Jared Kushner and Steve Witkoff met with Russian President Vladimir Putin in Moscow to try to revive talks to end the war in Ukraine. The US envoys are also scheduled to visit Kyiv on Sunday.",
-      "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 5 Sep 2026 22:45:00 GMT",
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+      "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
+      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 6 Sep 2026 22:22:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1183,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Anti-immigration protesters clash with police in UK after boat arrival",
       "description": "Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
@@ -1216,7 +1216,7 @@
       "title": "Australia politics live: Coalition targets Labor over ‘plummeting’ Sydney house prices; two die in Queensland light plane crash",
       "description": "Follow the day’s news live Sign up for Guardian Australia’s Politics, really newsletter here One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost. Pauline Hanson says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "published": "Mon, 07 Sep 2026 06:43:45 GMT",
+      "published": "Mon, 07 Sep 2026 07:19:49 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
@@ -1243,8 +1243,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hundreds of protesters gather after small boat arrival - as 'thuggish' behaviour condemned",
-      "description": "Protesters have clashed with police after hundreds of demonstrators gathered in Portsmouth after the arrival of a small boat carrying migrants.",
+      "title": "'Thuggish' behaviour at anti-migrant protest condemned - as hundreds of demonstrators gather after small boat arrival",
+      "description": "Protesters have clashed with police after hundreds of demonstrators gathered in Portsmouth following the arrival of a small boat carrying migrants.",
       "url": "https://news.sky.com/story/140-migrants-in-one-small-boat-intercepted-in-english-channel-sky-news-understands-13582562",
       "published": "Sun, 06 Sep 2026 20:45:00 +0100",
       "source": "Sky News World",
@@ -1553,10 +1553,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 20:52:12 GMT",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 05:31:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1597,6 +1597,16 @@
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 09:12:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 06 Sep 2026 20:52:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1677,16 +1687,6 @@
       "description": "Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.",
       "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
       "published": "Sun, 06 Sep 2026 21:46:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Susan Sarandon says she still loses film roles over support for Palestine",
-      "description": "Susan Sarandon says she still loses film roles over support for Palestine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
-      "published": "Sun, 06 Sep 2026 20:40:52 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2023,20 +2023,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
-      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
-      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
-      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
+      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
+      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
+      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
-      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
-      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
+      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
+      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
+      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
+      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
