@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T12:45:28.028656Z",
+  "last_updated": "2026-09-07T13:14:05.436602Z",
   "event_count": 222,
   "events": [
     {
@@ -88,16 +88,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168268",
       "published": "Wed, 02 Sep 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Rescuers use ziplines to transport trapped citizens after devastating Nepal floods decimate country's bridges",
-      "description": "Video shows rescue workers using cable cars and ziplines to ferry stranded citizens across flooded rivers in Nepal after the deadly mudslide.",
-      "url": "https://www.foxnews.com/world/rescuers-ziplines-transport-trapped-citizens-devastating-nepal-floods-decimate-countrys-bridges",
-      "published": "Wed, 02 Sep 2026 13:07:15 -0400",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical"
@@ -293,6 +283,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "'We’re all in crisis': Populist far-right 'trend' sweeping across Europe",
+      "description": "Annette Young is pleased to welcome our international affairs editor, Philip Turle, and Sylvie Bermann, France's first female ambassador to three member countries of the United Nations Security Council: China, the United Kingdom and Russia. The AfD’s breakthrough in Saxony-Anhalt should be understood, according to Sylvie Bermann, as part of a wider transformation of European politics rather than as an isolated German electoral shock. Brexit and Donald Trump’s victories helped normalise political positions previously regarded as outside the governing mainstream, while successive economic and geopolitical crises have weakened confidence in established parties.",
+      "url": "https://www.france24.com/en/video/20260907-we-re-all-in-crisis-populist-far-right-trend-sweeping-across-europe-1",
+      "published": "Mon, 07 Sep 2026 12:41:06 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Germany seeks to dismiss Nicaragua's Gaza genocide case at top UN court",
       "description": "Germany is set to ask the International Court of Justice on Monday to dismiss a case accusing Berlin of \"facilitating genocide\" in Gaza by supporting Israel after the deadly October 7, 2023 attacks by Hamas militants. The details of the case, filed by Nicaragua in 2024, have not yet been made public.",
       "url": "https://www.france24.com/en/europe/20260907-germany-seeks-dismissal-of-nicaragua-s-gaza-genocide-case-at-top-un-court",
@@ -307,16 +307,6 @@
       "description": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
       "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
       "published": "Mon, 07 Sep 2026 06:58:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ten killed and dozens injured in Mexico fireworks blast",
-      "description": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 04:56:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
@@ -423,16 +413,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal flood survivor's family in China relieved after days of anxious waiting",
-      "description": "Lu Haitao’s family can finally breathe a sigh of relief after the Chinese man's rescue from a tunnel that protected him from the Nepal flooding",
-      "url": "https://abcnews.com/International/wireStory/nepal-flood-survivors-family-china-relieved-after-days-136236638",
-      "published": "Sun, 06 Sep 2026 03:02:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative",
       "description": "Antonella Molina and her nephew Pedro are searching for 18-year-old Andres Molina in La Guaira, Venezuela",
       "url": "https://abcnews.com/International/wireStory/months-after-venezuela-earthquakes-family-refuses-give-search-136237654",
@@ -508,6 +488,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 07:03:44 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Serbia holds funeral for convicted war criminal Ratko Mladic",
+      "description": "The funeral of convicted war criminal Ratko Mladic has been held in Serbia’s capital with state honours.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/serbia-holds-funeral-for-convicted-war-criminal-ratko-mladic?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 12:55:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Body of war criminal Mladic lies in state in Serbian capital ahead of funeral",
+      "description": "The body of Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, lay in state on Monday",
+      "url": "https://abcnews.com/International/wireStory/body-war-criminal-mladic-lies-state-serbian-capital-136249114",
+      "published": "Mon, 07 Sep 2026 07:06:20 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -616,18 +616,8 @@
       "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
       "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
       "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 10:45:28 GMT",
+      "published": "Mon, 07 Sep 2026 13:06:04 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Six children among 11 people killed in Indonesian market fire",
-      "description": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
-      "published": "Mon, 07 Sep 2026 05:37:32 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -823,6 +813,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iranian soccer players who sought asylum in Australia say anthem silence was protest",
+      "description": "Two members of the Iranian women’s soccer team who claimed asylum in Australia have confirmed their pivotal refusal to sing the national anthem during the Women’s Asian Cup in March was a protest against Tehran",
+      "url": "https://abcnews.com/International/wireStory/iranian-soccer-players-sought-asylum-australia-anthem-silence-136249017",
+      "published": "Mon, 07 Sep 2026 04:26:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
       "description": "President Sandu's national security advisor, Stanislav Secrieru, says Russia's strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.",
       "url": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
@@ -878,6 +878,16 @@
       "url": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
       "published": "Sun, 06 Sep 2026 17:06:46 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Driverless taxi services are rolling out fast across the world",
+      "description": "From Austin to London, the current robotaxi boom is raising hard questions about safety and jobs. We take a closer look in this edition of Tech 24.",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260907-driverless-taxi-services-are-rolling-out-fast-across-the-world",
+      "published": "Mon, 07 Sep 2026 12:29:33 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1013,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "French wine yields drop to new historic low after searing summer heat",
+      "description": "French wine production is expected to suffer its worst harvest in some 70 years with the agriculture ministry on Monday forecasting a 6 percent drop in output after a summer of scorching temperatures, heatwaves and drought. France last week announced more than €1 billion in emergency support for farmers.",
+      "url": "https://www.france24.com/en/france/20260907-scorching-summer-pushes-french-wine-harvest-to-new-historic-low",
+      "published": "Mon, 07 Sep 2026 11:57:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Signs of progress after US envoys Witkoff and Kushner hold talks in Ukraine?",
       "description": "US peace envoys Jared Kushner and Steve Witkoff heralded new momentum in peace talks after meeting Ukrainian President Volodymyr Zelenskiy in Kyiv on Sunday as the Trump administration renewed its push to end Russia's four-and-a-half-year war in Ukraine. But while there maybe some tentative signs that the proposals from the US team are more to Ukraine’s liking than those previously put forward, what Moscow thinks is still unclear, says France 24’s Oliver Farry.",
       "url": "https://www.france24.com/en/video/20260907-signs-of-progress-after-us-envoys-witkoff-and-kushner-hold-talks-in-ukraine",
@@ -1023,20 +1043,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Two far-right activists go on trial in Paris over 2022 killing of Argentine rugby star Aramburu",
-      "description": "Two-far activists go on trial in Paris on Monday over the shooting of Argentine rugby star Federico Martin Aramburu. Loik Le Priol and Romain Bouvier have been charged with murder and attempted murder respectively, and risk up to life in jail if they are found guilty.",
-      "url": "https://www.france24.com/en/sport/20260907-two-far-right-activists-go-on-trial-in-paris-over-2022-killing-of-argentine-rugby-star-aramburu",
-      "published": "Mon, 07 Sep 2026 06:56:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel",
-      "description": "The death toll from a mudslide in eastern China has risen to three after days of torrential rain brought by Typhoon Saudel",
-      "url": "https://abcnews.com/International/wireStory/mudslide-death-toll-china-rises-3-after-heavy-136236639",
-      "published": "Sun, 06 Sep 2026 03:02:57 -0400",
+      "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection",
+      "description": "The burial of a young chorister in Bunia highlights the ongoing Ebola crisis in Congo",
+      "url": "https://abcnews.com/International/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247958",
+      "published": "Mon, 07 Sep 2026 06:02:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1356,7 +1366,7 @@
       "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
       "description": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
       "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 7 Sep 2026 06:36:00 GMT",
+      "published": "Mon, 7 Sep 2026 12:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
@@ -1393,30 +1403,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Who could form a coalition with Germany's AfD after election victory?",
+      "description": "Germany's far-right AfD won a landslide victory in a key regional election Sunday in the ex-communist east, a result seen as a stinging rebuke for Chancellor Friedrich Merz, but looked set to miss out on an absolute majority to govern alone. The big question now is who, if anyone, will be willing to form a coalition with the party, says France 24's correspondent Nick Holdsworth.",
+      "url": "https://www.france24.com/en/video/20260907-who-could-form-a-coalition-with-germany-s-afd-after-election-victory",
+      "published": "Mon, 07 Sep 2026 12:23:19 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
       "title": "'Jubilation and pain': German far right marches to victory in key state election",
       "description": "PRESS REVIEW – Monday, September 7: The far right marches to victory in a German state election: what does this mean for the future of Germany and Europe at large? Also: the Daily Telegraph publishes an exclusive interview with the sons of former Pakistani PM Imran Khan about his imprisonment conditions in Pakistan. Plus the US Open descends into chaos after influencers, weed and disruptions stir controversy.",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
       "published": "Mon, 07 Sep 2026 10:05:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "🔴 Germany: Victory of far-right AfD in state election 'very worrying', says Polish FM",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20260907-live-europe-reacts-to-germany-far-right-afd-worrying-electoral-victory",
-      "published": "Mon, 07 Sep 2026 06:55:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Live: Germany’s Merz 'deeply shocked' by far-right AfD's historic electoral victory",
-      "description": "German Chancellor Friedrich Merz told the press on Monday that he was \"deeply shocked\" by the far-right AfD's historic victory in Saxony-Anhalt's state election a day earlier. The AfD is labelled a \"right-wing extremist\" group by Germany's domestic intelligence agency, and some of its staff are former members of a since-banned neo-Nazi organisation. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/europe/20260907-live-europe-reacts-to-germany-far-right-afd-worrying-electoral-victory",
-      "published": "Mon, 07 Sep 2026 06:30:19 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -1428,16 +1428,6 @@
       "url": "https://news.sky.com/story/alternative-for-germany-who-are-the-far-right-party-swept-to-victory-in-saxony-anhalt-13582650",
       "published": "Mon, 07 Sep 2026 08:19:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
-      "description": "The far-right Alternative for Germany party has surged to a resounding victory in a regional election",
-      "url": "https://abcnews.com/International/wireStory/german-region-votes-election-bring-state-governor-power-136236455",
-      "published": "Mon, 07 Sep 2026 04:10:24 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1658,6 +1648,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 00:17:05 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trial opens in Paris over murder of Argentina rugby star Federico Aramburu",
+      "description": "Two ⁠former members of a violent far-right group will face trial on murder and ​attempted murder charges.",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/trial-opens-in-paris-over-murder-of-argentina-rugby-star-federico-aramburu?traffic_source=rss",
+      "published": "Mon, 07 Sep 2026 12:47:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1943,9 +1943,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Von der Leyen in Greenland with EU investments amid Trump pressure",
+      "title": "EU's Von der Leyen pledges $232 million Greenland investment",
       "description": "The EU is preparing a major investment package and closer political ties with the Danish Arctic territory amid Donald Trump's demand for greater US control of the mineral-rich island.",
-      "url": "https://www.dw.com/en/von-der-leyen-in-greenland-with-eu-investments-amid-trump-pressure/a-79109197?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 03:58:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1993,16 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ligue 1: Paris FC and Sinayoko beat Marseille and climb to second place",
-      "description": "Paris FC beat Olympique de Marseille 3–2 at the Vélodrome thanks to a hat-trick from Lassine Sinayoko. Paris FC sit second while OM remain stuck in 10th place in the table.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260907-ligue-1-paris-fc-and-sinayoko-beat-marseille-and-climb-to-2nd",
-      "published": "Mon, 07 Sep 2026 05:18:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "FIFA confirms Infantino to stand for re-election as president",
       "description": "FIFA has confirmed Gianni Infantino is standing for re-election next year after the president declined Sky News questions on his future in the job, now insisting \"nothing has changed\".",
       "url": "https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281",
@@ -2033,40 +2023,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
-      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
-      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
+      "title": "EU chief unveils $232M Greenland package as tensions heighten with Trump claims",
+      "description": "European Commission President Ursula von der Leyen is offering Greenland a new investment package worth more than $230 million",
+      "url": "https://abcnews.com/International/wireStory/eu-chief-unveils-232-million-greenland-package-tensions-136252951",
+      "published": "Mon, 07 Sep 2026 08:45:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
-      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
-      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
-      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Former Cuban President Raúl Castro reappears at a military event",
-      "description": "Castro, 95, was seen alongside his bodyguard and grandson.",
-      "url": "https://abcnews.com/International/wireStory/former-cuban-president-ral-castro-reappears-military-event-136241616",
-      "published": "Sun, 06 Sep 2026 14:55:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany fights Gaza genocide claims at the top UN court",
-      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
-      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
-      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
+      "title": "Husband of Tanzania's president dies while undergoing hospital treatment",
+      "description": "Tanzania's President Samia Suluhu Hassan's husband has died while undergoing treatment in Zanzibar",
+      "url": "https://abcnews.com/International/wireStory/husband-tanzanias-president-dies-undergoing-treatment-136250157",
+      "published": "Mon, 07 Sep 2026 08:42:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2083,10 +2053,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Africa’s mother tongues are finding new life as youth connect with roots and relatives",
-      "description": "Growing interest in African languages is creating new business opportunities as people in the diaspora seek to connect with their relatives and roots",
-      "url": "https://abcnews.com/International/wireStory/africas-mother-tongues-finding-new-life-youth-connect-136233683",
-      "published": "Sat, 05 Sep 2026 21:57:55 -0400",
+      "title": "Germany fights Gaza genocide claims at the top UN court",
+      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
+      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
+      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former Cuban President Raúl Castro reappears at a military event",
+      "description": "Castro, 95, was seen alongside his bodyguard and grandson.",
+      "url": "https://abcnews.com/International/wireStory/former-cuban-president-ral-castro-reappears-military-event-136241616",
+      "published": "Sun, 06 Sep 2026 14:55:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
+      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
+      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2188,6 +2178,16 @@
       "url": "https://www.foxnews.com/us/black-widow-allegedly-attempted-murder-romantic-partner-69-met-online",
       "published": "Sat, 05 Sep 2026 08:00:23 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "UN agency accused of Hamas ties sees another European nation cut funding",
+      "description": "Finland will discontinue UNRWA funding by end of 2026, following the Trump administration and Sweden in cutting ties with the Hamas-linked UN agency.",
+      "url": "https://www.foxnews.com/world/un-agency-accused-hamas-ties-sees-another-european-nation-cut-funding",
+      "published": "Mon, 07 Sep 2026 08:46:51 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
