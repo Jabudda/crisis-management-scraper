@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T05:13:17.489793Z",
+  "last_updated": "2026-09-08T05:37:56.265784Z",
   "event_count": 223,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 42,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+      "description": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. Kyiv's city military administration said at least two people were killed and seven wounded. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s envoys Steve Witkoff and Jared Kushner, who were holding talks aimed at ending the war. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+      "published": "Tue, 08 Sep 2026 02:00:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -233,16 +243,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israeli strikes on southern Lebanon kill 11",
-      "description": "Israeli strikes ⁠on a ​southern Lebanese town early on Monday killed at least 11 people including two children ​and two medics, Lebanon's state news agency said. Israel has intensified its bombardment of south Lebanon in recent days despite a June ceasefire that was meant ​to halt fighting ‌between the Israeli military and Lebanese armed ⁠group Hezbollah.",
-      "url": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11",
-      "published": "Mon, 07 Sep 2026 14:10:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Hawaii braces for Hurricane Lowell",
       "description": "Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.",
       "url": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
@@ -253,11 +253,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Russia renews Kyiv strikes after three-day pause",
-      "description": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s envoys Steve Witkoff and Jared Kushner, who were holding talks aimed at ending the war. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
-      "published": "Tue, 08 Sep 2026 02:00:01 GMT",
-      "source": "France24",
+      "title": "Andrew Hastie threatens One Nation with ‘costly’ fight over claims he is a ‘traitor’ to Australia",
+      "description": "Liberal MP says One Nation is trying to unseat him because he gave evidence against Victoria Cross recipient Ben Roberts-Smith Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Andrew Hastie has threatened Pauline Hanson and One Nation strategist James Ashby with a “costly” fight over claims he is a traitor to Australia, labelling his critics “cowards” who don’t believe in the rule of law. In some of the Liberal MP’s strongest comments yet about attacks from Hanson and her insurgent party, the Liberal MP said One Nation was trying to unseat him at the next election because he gave evidence against Victoria Cross recipient Ben Roberts-Smith in a failed defamation case against the Nine newspapers. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/andrew-hastie-threatens-one-nation-pauline-hanson-traitor-to-australia-ntwnfb",
+      "published": "Tue, 08 Sep 2026 05:12:51 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -423,6 +423,16 @@
       "severity_level": "High"
     },
     {
+      "title": "What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs",
+      "description": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods take effect Tuesday, turning its escalating trade war with President Donald Trump into a test watched far beyond the border: Can a country much smaller than the United States stand u...",
+      "url": "https://abcnews.com/International/wireStory/canadas-escalating-trade-war-us-carney-retaliates-tariffs-136264220",
+      "published": "Tue, 08 Sep 2026 01:20:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "El Niño is surging. Months of extreme heat could follow",
       "description": "Fuelled by exceptionally warm Pacific waters, the El Niño climate pattern is intensifying and has yet to peak. Forecasters are almost certain it will persist through February 2027 – with unusually warm conditions expected across much of the world in the coming months.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168265",
@@ -488,16 +498,6 @@
       "url": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 18:57:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "What now for Germany's Merz after AfD win?",
-      "description": "The far-right AfD's triumph in the eastern state of Saxony-Anhalt marks a defeat for German Chancellor Friedrich Merz and sends a warning to other European leaders battling the same mixture of slow growth and disillusion with mainstream politics. In an increasingly polarized political system, Merz, whose personal approval ratings have sunk ‌to record lows, was one of the main targets of voter ire over the cost of living, pensions and economic insecurity. France 24’s Philip Turle takes a look at what the AfD’s victory means for the German leader and for Europe.",
-      "url": "https://www.france24.com/en/video/20260907-what-now-for-germany-s-merz-after-afd-win",
-      "published": "Mon, 07 Sep 2026 14:01:30 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -713,6 +713,16 @@
       "severity_level": "High"
     },
     {
+      "title": "🔴 Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+      "published": "Tue, 08 Sep 2026 05:25:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
       "description": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168288",
@@ -893,8 +903,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
-      "description": "Israel launched a wave of airstrikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
+      "title": "Israel intensifies south Lebanon strikes, killing 13 after weeks-long lull",
+      "description": "Israel launched a wave of air strikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
       "url": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
       "published": "Mon, 07 Sep 2026 21:32:03 GMT",
       "source": "France24",
@@ -1013,20 +1023,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection",
-      "description": "The burial of a young chorister in Bunia highlights the ongoing Ebola crisis in Congo",
-      "url": "https://abcnews.com/International/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247958",
-      "published": "Mon, 07 Sep 2026 06:02:14 -0400",
-      "source": "ABC News International",
+      "title": "Canada's counter-tariffs take effect on several US goods as trade war reignites",
+      "description": "Canada's counter-tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the two countries heated up. Ottawa's pushback comes weeks after US President Donald Trump imposed 50-percent tariffs on a similar value of Canadian products, over what Washington deemed as \"discriminatory treatment\" against US alcohol, automobile and dairy industries.",
+      "url": "https://www.france24.com/en/americas/20260908-canada-s-counter-tariffs-take-effect-on-several-us-goods-as-trade-war-reignites",
+      "published": "Tue, 08 Sep 2026 04:03:13 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "description": "The U.S. military says it has struck three Iranian oil tankers after Navy warships were targeted with missiles",
-      "url": "https://abcnews.com/International/wireStory/us-military-hits-3-iranian-oil-tankers-after-136225526",
-      "published": "Sat, 05 Sep 2026 10:21:23 -0400",
+      "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection",
+      "description": "The burial of a young chorister in Bunia highlights the ongoing Ebola crisis in Congo",
+      "url": "https://abcnews.com/International/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247958",
+      "published": "Mon, 07 Sep 2026 06:02:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1543,16 +1553,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "‘Forced out with nowhere to go’: First Nations families face eviction as council sells homes over charity’s unpaid rates",
-      "description": "Mount Isa city council to auction off first of 24 homes after Aboriginal and Torres Strait Islander Corporation for Welfare Services accrues almost $1m in unpaid debts Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A rural Queensland council is auctioning off 24 homes to recover unpaid rates, potentially forcing First Nations families into homelessness. Residents claim they were left in the dark about the debt, which stretches back years, until five months ago. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/first-nations-families-face-eviction-as-mount-isa-council-sells-homes-ntwnfb",
-      "published": "Tue, 08 Sep 2026 03:25:18 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Tunisians tell the story of their summer of shortages",
       "description": "Frequent water and power cuts, long queues for bottled water, poultry farms destroyed by the heat: these have been the scenes across Tunisia this summer as millions of people were affected by shortages in electricity and water. Our Observers say this is the result of years of underinvestment in infrastructure while the Tunisian president, for his part, blames \"deliberate and planned acts of sabotage”.",
       "url": "https://www.france24.com/en/africa/20260907-tunisians-tell-story-their-summer-shortages",
@@ -1836,7 +1836,7 @@
       "title": "Australian politics live: Wilson claims Labor taxes delivered ‘trifecta of housing failures’ as Butler accuses opposition of copying One Nation policy",
       "description": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-      "published": "Tue, 08 Sep 2026 04:55:48 GMT",
+      "published": "Tue, 08 Sep 2026 05:24:02 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1973,20 +1973,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
-      "description": "Not enough to win outright but enough to shake Germany and Europe to their core: the far-right Alterniv für Deutschland trouncing the ruling conservatives in the impoverished former East German region of Saxony-Anhalt. We’ll ask about the consequences of voting for an anti-immigrant, pro-Russian party that wants schools to teach less about the ills of Hitler and more the glory of Bismarck.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
-      "published": "Mon, 07 Sep 2026 19:38:44 GMT",
+      "title": "Before Champions League, Kylian Mbappé campaigns for Ballon d'Or",
+      "description": "As the Champions League resumes, Real Madrid are hosting Inter Milan. Speaking at a press conference, Kylian Mbappé believes he has every chance of winning the Ballon d’Or.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260908-before-champions-league-kylian-mbapp%C3%A9-campaigns-for-ballon-d-or",
+      "published": "Tue, 08 Sep 2026 05:22:03 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Céline Dion and Jay-Z bring their hits to Paris",
-      "description": "In this edition of our arts24 music show, Jennifer Ben Brahim brings us a roundup of some of the week's most anticipated Paris concerts. From Céline Dion kicking off her 16 sold-out shows at La Défense Arena, to American rapper Jay-Z celebrating his 30-year career at the Stade de France, we've got you covered.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260907-c%C3%A9line-dion-and-jay-z-bring-their-hits-to-paris",
-      "published": "Mon, 07 Sep 2026 14:05:13 GMT",
+      "title": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+      "description": "Not enough to win outright but enough to shake Germany and Europe to their core: the far-right Alterniv für Deutschland trouncing the ruling conservatives in the impoverished former East German region of Saxony-Anhalt. We’ll ask about the consequences of voting for an anti-immigrant, pro-Russian party that wants schools to teach less about the ills of Hitler and more the glory of Bismarck.",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
+      "published": "Mon, 07 Sep 2026 19:38:44 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
