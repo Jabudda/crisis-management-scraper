@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T10:13:42.435090Z",
+  "last_updated": "2026-09-08T10:37:17.428145Z",
   "event_count": 223,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 46,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Rescuers search for people trapped in New Delhi building collapse as death toll rises",
+      "description": "Search and rescue teams are combing through the debris of a collapsed building in New Delhi",
+      "url": "https://abcnews.com/International/wireStory/rescuers-search-people-trapped-new-delhi-building-collapse-136248698",
+      "published": "Mon, 07 Sep 2026 07:06:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 42,
       "severity_level": "Critical"
     },
     {
@@ -78,6 +88,16 @@
       "url": "https://www.foxnews.com/us/amazon-cargo-jet-overruns-miami-airport-runway-triggering-massive-emergency-response",
       "published": "Sun, 06 Sep 2026 15:26:13 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Is the Iran-backed terrorist movement Hezbollah on the ropes in Lebanon?",
+      "description": "Israel's capture of the Ali al-Taher ridge dealt a severe blow to Iran's Axis of Resistance, but experts warn Hezbollah is still rebuilding.",
+      "url": "https://www.foxnews.com/world/iran-backed-terrorist-movement-hezbollah-ropes-lebanon",
+      "published": "Tue, 08 Sep 2026 06:19:58 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -163,16 +183,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian barrage and Ukrainian strike kill 4 people, ending pause in attacks",
-      "description": "Ukrainian officials say two people were killed when Russia bombarded the Ukrainian capital Kyiv with drones and missiles overnight",
-      "url": "https://abcnews.com/International/wireStory/russian-drone-missile-strikes-ukrainian-capital-kill-2-136265341",
-      "published": "Tue, 08 Sep 2026 05:39:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
       "description": "Lawyers also argue commonwealth does not have the power to ban a political party, as the high court ruled in 1951 over attempt to ban the Communist party Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Lawyers for an outlawed neo-Nazi political party have argued anti-hate laws passed after the Bondi terror attack rely on the opinion of a politician and are “authoritarian in nature”. The White Australia party, formerly known as the National Socialist Network (NSN), was designated as an illegal hate group in May after the Australian Security and Intelligence Organisation passed on its recommendation to the home affairs minister, Tony Burke. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
@@ -227,16 +237,6 @@
       "description": "Russia's Yasen-M submarines and militarized Kola Peninsula are forcing NATO to confront a growing undersea threat across the GIUK Gap and Arctic, expert warns.",
       "url": "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
       "published": "Mon, 07 Sep 2026 16:19:44 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tens of thousands flood streets to protest Spain border crisis",
-      "description": "Tens of thousands protested Pedro Sanchez across Spain as 50,000 marched in Madrid over the migrant crisis in Ceuta following July's border surge.",
-      "url": "https://www.foxnews.com/world/tens-thousands-flood-streets-protest-spain-border-crisis",
-      "published": "Thu, 03 Sep 2026 08:39:42 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
@@ -306,7 +306,7 @@
       "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say",
       "description": "Houthi attacks have ignited fires at several oil facilities and utilities in Saudi Arabia’s southern region and wounded more than 70 people",
       "url": "https://abcnews.com/International/wireStory/houthi-attacks-saudi-arabia-wound-73-people-officials-136263886",
-      "published": "Tue, 08 Sep 2026 04:26:39 -0400",
+      "published": "Tue, 08 Sep 2026 06:26:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -350,6 +350,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nepal holds a day of mourning after floods kill at least 1,300 people",
+      "description": "Nepal is holding a day of mourning to remember those killed in the Aug. 26 floods",
+      "url": "https://abcnews.com/International/wireStory/nepal-holds-day-mourning-after-floods-kill-1300-136248834",
+      "published": "Mon, 07 Sep 2026 10:58:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -448,16 +458,6 @@
       "url": "https://www.npr.org/2026/09/08/nx-s1-5951962/world-food-programmes-carl-skau-discusses-yemens-food-insecurity-crisis",
       "published": "Tue, 08 Sep 2026 04:41:54 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs",
-      "description": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods take effect Tuesday, turning its escalating trade war with President Donald Trump into a test watched far beyond the border: Can a country much smaller than the United States stand u...",
-      "url": "https://abcnews.com/International/wireStory/canadas-escalating-trade-war-us-carney-retaliates-tariffs-136264220",
-      "published": "Tue, 08 Sep 2026 01:20:48 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -793,6 +793,16 @@
       "severity_level": "High"
     },
     {
+      "title": "North Korea adds 2nd naval destroyer as US, South Korea and Japan hold military drill",
+      "description": "North Korea says leader Kim Jong Un has put his second naval destroyer into service and called for building a more reliable nuclear deterrent",
+      "url": "https://abcnews.com/International/wireStory/north-korea-commissions-2nd-naval-destroyer-us-south-136246537",
+      "published": "Mon, 07 Sep 2026 11:06:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
       "description": "More than a week after flash floods struck the Bhotekoshi-Trishuli river basin in Nepal, at least 22,000 children urgently need safe drinking water, sanitation and hygiene support, the United Nations Children’s Fund (UNICEF) said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168269",
@@ -888,6 +898,16 @@
       "url": "https://news.sky.com/story/investigation-launched-after-female-eiffel-tower-staff-hidden-from-hindu-delegation-13583042",
       "published": "Tue, 08 Sep 2026 08:13:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "World's most endangered tigers born in Greece as zoos build a safety net",
+      "description": "Three Sumatran tiger cubs born at a zoo near Athens are offering hope for one of the world’s most endangered big cats",
+      "url": "https://abcnews.com/International/wireStory/worlds-endangered-tigers-born-greece-zoos-build-safety-136267137",
+      "published": "Tue, 08 Sep 2026 06:34:37 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1163,6 +1183,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "German chancellor faces pressure after far-right party wins in state election",
+      "description": "German Chancellor Friedrich Merz has doubled down on pushing through unpopular reforms to Europe’s largest economy after a far-right party surged to a landslide victory in a regional election, with a very good chance of forming the first far-right stat...",
+      "url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211",
+      "published": "Tue, 08 Sep 2026 02:34:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Kenya offers amnesty for migrants after Burundians rush to leave",
       "description": "Government spokesman urges undocumented nationals from other East African countries to formally register at embassies.",
       "url": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave?traffic_source=rss",
@@ -1193,10 +1223,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hungary orders 10 Russian diplomats to leave country over 'unacceptable' activities",
-      "description": "Hungary has ordered 10 Russian diplomats to leave the country over activities deemed unacceptable",
-      "url": "https://abcnews.com/International/wireStory/hungary-orders-10-russian-diplomats-leave-country-activities-136266498",
-      "published": "Tue, 08 Sep 2026 05:41:58 -0400",
+      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
+      "description": "Lebanon’s Health Ministry says Israel’s air force carried out two strikes early Monday on a southern Lebanese village, killing at least nine people, including children",
+      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-village-southern-lebanon-kill-12-people-136249459",
+      "published": "Tue, 08 Sep 2026 03:06:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1293,6 +1323,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Eiffel Tower reopens after strike over limits on women staff during Hindu delegation visit",
+      "description": "The Eiffel Tower has reopened to the public after a strike closed it for a day",
+      "url": "https://abcnews.com/International/wireStory/eiffel-tower-reopens-after-strike-limits-women-staff-136266886",
+      "published": "Tue, 08 Sep 2026 06:26:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
       "description": "Video captured a Phantom F-4 jet crashing into the ground during a low-altitude maneuver at Tanagra Air Force Base as thousands witnessed it.",
       "url": "https://www.foxnews.com/world/fighter-jet-crashes-air-show-killing-2-pilots-thousands-spectators-watching",
@@ -1358,16 +1398,6 @@
       "url": "https://news.sky.com/story/alternative-for-germany-who-are-the-far-right-party-swept-to-victory-in-saxony-anhalt-13582650",
       "published": "Mon, 07 Sep 2026 08:19:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "German vote shows rise of far-right in Europe, but it hasn’t been a steady march",
-      "description": "The victory of a far-right party in a German state election has raised alarm across Europe",
-      "url": "https://abcnews.com/International/wireStory/german-vote-shows-rise-europe-hasnt-steady-march-136266267",
-      "published": "Tue, 08 Sep 2026 04:36:43 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1566,7 +1596,7 @@
       "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
       "description": "All foreigners without proper documents in Kenya are urged to register through their embassies.",
       "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 08:28:01 GMT",
+      "published": "Tue, 08 Sep 2026 10:19:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1913,9 +1943,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
       "description": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute majority?",
-      "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 7 Sep 2026 16:09:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1994,7 +2024,7 @@
     },
     {
       "title": "Paintings worth millions stolen from museum",
-      "description": "Thieves have stolen three paintings by the French impressionist Renoir worth millions of euros from the Renoir Museum in the South of France, police have said.",
+      "description": "Thieves have stolen two paintings by the French impressionist Renoir worth millions of euros from the Renoir Museum in the South of France, police have said.",
       "url": "https://news.sky.com/story/thieves-steal-three-paintings-from-renoir-museum-on-french-riviera-13581407",
       "published": "Fri, 04 Sep 2026 17:42:00 +0100",
       "source": "Sky News World",
@@ -2033,30 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mexico trial begins of men charged with killing of Australian surfers and American",
-      "description": "Three men are on trial in Mexico for the 2024 murders of two Australian brothers and their American friend",
-      "url": "https://abcnews.com/International/wireStory/mexico-trial-begins-men-charged-killing-australian-surfers-136265161",
-      "published": "Tue, 08 Sep 2026 04:26:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US sinks an Ecuadorian boat in the Pacific it alleges is tied to drug trafficking",
-      "description": "The U.S. Southern Command has sunk another Ecuadorian vessel that the U.S. alleged was linked to the criminal group Los Choneros",
-      "url": "https://abcnews.com/International/wireStory/us-sinks-ecuadorian-boat-pacific-alleges-tied-drug-136262785",
-      "published": "Tue, 08 Sep 2026 02:34:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
-      "description": "Pope Leo XIV has returned to a sanctuary where he prayed just after his election",
-      "url": "https://abcnews.com/International/wireStory/pope-returns-sanctuary-prayed-after-election-unveils-fresco-136257345",
-      "published": "Mon, 07 Sep 2026 19:19:49 -0400",
+      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+      "description": "Russia’s Foreign Ministry has announced the closure of the German consulate in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/russia-announces-closure-german-consulate-st-petersburg-136254797",
+      "published": "Mon, 07 Sep 2026 12:34:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2073,26 +2083,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
-      "description": "Russia’s Foreign Ministry has announced the closure of the German consulate in St. Petersburg",
-      "url": "https://abcnews.com/International/wireStory/russia-announces-closure-german-consulate-st-petersburg-136254797",
-      "published": "Mon, 07 Sep 2026 12:34:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russia and North Korea open the first road link across shared border",
-      "description": "Russia and North Korea have opened their first road bridge for car traffic, enhancing their growing ties",
-      "url": "https://abcnews.com/International/wireStory/russia-north-korea-open-road-link-shared-border-136254045",
-      "published": "Tue, 08 Sep 2026 04:18:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "EU chief unveils $232M Greenland package as tensions heighten with Trump claims",
       "description": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment",
       "url": "https://abcnews.com/International/wireStory/eu-chief-unveils-232-million-greenland-package-tensions-136252951",
@@ -2103,10 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Husband of Tanzania's president dies while undergoing hospital treatment",
-      "description": "Tanzania's President Samia Suluhu Hassan's husband has died while undergoing treatment in Zanzibar",
-      "url": "https://abcnews.com/International/wireStory/husband-tanzanias-president-dies-undergoing-treatment-136250157",
-      "published": "Mon, 07 Sep 2026 08:50:19 -0400",
+      "title": "Germany fights Gaza genocide claims at the top UN court",
+      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
+      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
+      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2117,6 +2107,16 @@
       "description": "Jamaica is pushing for Britain to pay reparations for the trans-Atlantic slave trade",
       "url": "https://abcnews.com/International/wireStory/jamaica-takes-case-reparations-britains-role-slavery-king-136249552",
       "published": "Mon, 07 Sep 2026 10:10:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Husband of Tanzania's president dies while undergoing hospital treatment",
+      "description": "Tanzania's President Samia Suluhu Hassan's husband has died while undergoing treatment in Zanzibar",
+      "url": "https://abcnews.com/International/wireStory/husband-tanzanias-president-dies-undergoing-treatment-136250157",
+      "published": "Mon, 07 Sep 2026 08:50:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
