@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T17:11:03.961942Z",
+  "last_updated": "2026-09-09T17:35:34.423825Z",
   "event_count": 222,
   "events": [
     {
@@ -438,6 +438,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168293",
       "published": "Tue, 08 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "NYPD chief: 9/11 heroes’ legacy lives on in every generation of officers",
+      "description": "The NYPD memorial wall at One Police Plaza honors 23 officers killed on 9/11 and hundreds more lost to World Trade Center-related illnesses.",
+      "url": "https://www.foxnews.com/us/nypd-chief-911-heroes-legacy-lives-every-generation-officers",
+      "published": "Wed, 09 Sep 2026 13:28:05 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -903,16 +913,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 23:11:41 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "78 people including newborn rescued in Mediterranean",
       "description": "At least 78 people including a newborn baby were rescued from the Mediterranean Sea.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
@@ -1087,16 +1087,6 @@
       "description": "Monique Harris says she had no idea \"being my normal natural self\" would go viral after catching a baby on a United Airlines flight from Newark.",
       "url": "https://www.foxnews.com/us/united-flight-attendant-makes-quick-save-catching-baby-fall-exhausted-moms-lap",
       "published": "Tue, 08 Sep 2026 13:55:57 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bryan Kohberger's bid to oust judge and undo guilty plea moves forward with new court date set",
-      "description": "Bryan Kohberger's new lawyers challenge Judge Steven Hippler's impartiality as the convicted Idaho murders killer fights to undo his guilty plea.",
-      "url": "https://www.foxnews.com/us/bryan-kohberger-bid-oust-judge-undo-guilty-plea-moves-forward-new-court-date-set",
-      "published": "Tue, 08 Sep 2026 10:50:50 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1623,6 +1613,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Europe's royalty pay respects to King Harald V in Norway",
       "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
       "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
@@ -1658,6 +1658,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 21:46:31 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+      "description": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
+      "url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
+      "published": "Wed, 09 Sep 2026 17:04:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1717,16 +1727,6 @@
       "description": "US Republicans are hosting their first ever midterm convention, but why?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
       "published": "Wed, 09 Sep 2026 12:41:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How has Israel hit back against sanctions by the UK, others?",
-      "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-      "published": "Wed, 09 Sep 2026 12:17:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
