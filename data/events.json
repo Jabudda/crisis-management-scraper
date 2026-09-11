@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:13:01.848917Z",
+  "last_updated": "2026-09-11T10:37:04.960356Z",
   "event_count": 221,
   "events": [
     {
@@ -373,16 +373,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Anthropic claims Claude AI used for missile projects, global espionage",
-      "description": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
-      "published": "Fri, 11 Sep 2026 04:48:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Israel strike on Hezbollah tunnel triggers earthquake-like tremor",
       "description": "Israel has destroyed a network of Hezbollah tunnels in southern Lebanon - triggering a 4.1 magnitude tremor in the area.",
       "url": "https://news.sky.com/story/41-magnitude-tremor-recorded-after-israel-destroys-hezbollah-tunnel-network-in-southern-lebanon-13584236",
@@ -620,16 +610,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-      "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 09:20:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -973,6 +953,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "description": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:33:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
       "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
@@ -987,16 +977,6 @@
       "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
       "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 05:53:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:13:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1253,8 +1233,8 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "description": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "description": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
       "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 06:28:42 GMT",
       "source": "BBC News",
@@ -1350,6 +1330,26 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Jimmy Kimmel says interview with Democrat won't air on TV, cites regulator 'threats'",
+      "description": "The White House denies Kimmel's allegations regarding his interview with James Talarico, accusing the TV host of \"play acting\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyrv39n4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 23:04:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
+      "description": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 10:11:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1884,7 +1884,7 @@
     },
     {
       "title": "The 'end of an era' as Goethe-Institut in Russia closes",
-      "description": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow’s decision to close its offices, all employees will have to stop working by September 13.",
+      "description": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow's decision to close its offices, all employees will have to stop working by September 13.",
       "url": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 11 Sep 2026 09:39:00 GMT",
       "source": "Deutsche Welle",
