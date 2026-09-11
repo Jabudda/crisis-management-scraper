@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T09:14:04.644693Z",
+  "last_updated": "2026-09-11T09:38:08.191360Z",
   "event_count": 220,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 48,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Did the War on Terror succeed? Or did Washington fall into al Qaeda’s trap?",
+      "description": "PRESS REVIEW: Friday, September 11– 25 years on from 9/11, the international press reflects on the war on terror, its legacy and its failings. In France, the far-right National Rally party tries desperately to distance itself from the overtly racist comments of one of its security officials, made while on duty for his day job as a police officer. Finally, a fossilised feather may give us new insights into why birds survived the asteroid that killed the dinosaurs.",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260911-did-the-war-on-terror-succeed-or-did-washington-fall-into-al-qaeda-s-trap",
+      "published": "Fri, 11 Sep 2026 09:16:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -313,16 +323,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
-      "description": "The Iran-backed Houthi rebel group on Thursday took over Yemen’s port city of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 80 kilometers (50 miles) from the Bab el-Mandeb Strait, a waterway that connects the Red Sea and the Gulf of Aden and through which about 12% of the world’s goods are typically shipped. FRANCE 24's Nick Rushworth reports.",
-      "url": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
-      "published": "Thu, 10 Sep 2026 19:18:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Five killed and 40 injured in Swiss Alps coach crash",
       "description": "Five people have been killed and 40 others injured in a Dutch tour bus crash in eastern Switzerland, police said.",
       "url": "https://news.sky.com/story/several-killed-and-injured-as-dutch-tour-bus-overturns-in-swiss-alps-13584148",
@@ -443,16 +443,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran raises fuel prices for heavy users",
-      "description": "The rise of the price of fuel is an issue for both the United States and Iran in this conflict. US president Donald Trump has conceded that prices will not fall before the midterm elections where the US voters could hold him to account. Meanwhile in Iran where many communities have been bombed since February 28th, there's now the added problem of incresing fuel prices. FRANCE 24's Ali al Basha sent this report.",
-      "url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
-      "published": "Thu, 10 Sep 2026 18:48:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "As Trump squeezes the International Criminal Court, more countries are leaving",
       "description": "The United States is increasing pressure on the International Criminal Court, leading to more countries leaving the institution",
       "url": "https://abcnews.com/International/wireStory/trump-squeezes-international-criminal-court-countries-leaving-136357417",
@@ -490,6 +480,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Keeping the memory of 9/11 alive for the younger generation",
+      "description": "On 11 September 2001, millions remember how they saw the World Trade Centre towers being struck by airplanes. But, 25 years after the attacks, how is the memory being passed on to the younger generation who were not around to witness them?",
+      "url": "https://www.france24.com/en/video/20260911-keeping-the-memory-of-9-11-alive-for-the-younger-generation",
+      "published": "Fri, 11 Sep 2026 09:13:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -623,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "High school stabbing in Croatia leaves 2 wounded and attacker detained",
+      "description": "Authorities in Zagreb, Croatia, say a high school student has stabbed another student and a janitor",
+      "url": "https://abcnews.com/International/wireStory/high-school-stabbing-croatia-leaves-2-wounded-attacker-136359139",
+      "published": "Fri, 11 Sep 2026 05:27:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Patrol sergeant accused of murdering sheriff’s captain in yearslong romantic dispute over woman they dated",
       "description": "Sgt. Nekime Matu Oxendine is accused of fatally shooting Cumberland County Sheriff’s Capt. Adam Bean after a confrontation outside a woman’s home.",
       "url": "https://www.foxnews.com/us/patrol-sergeant-accused-murdering-sheriffs-captain-yearslong-romantic-dispute-woman-dated",
@@ -636,7 +646,7 @@
       "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
       "description": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
       "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:15:47 GMT",
+      "published": "Fri, 11 Sep 2026 09:20:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -693,9 +703,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Germany's connection to the September 11 attacks",
+      "title": "Germany's connection to the 9/11 attacks",
       "description": "The 9/11 plot, including the twin tower attacks, was partly planned by the so-called Hamburg cell. A look at how Germany's national security was reshaped.",
-      "url": "https://www.dw.com/en/germany-s-connection-to-the-september-11-attacks/a-79202918?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 11 Sep 2026 06:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1113,7 +1123,17 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Vance tries to label Democrats as 'party of hatred' as he seizes MAGA spotlight",
+      "title": "'Clashing narratives': How are young Americans today taught about 9/11?",
+      "description": "An estimated 100 million Americans, almost a third of the population, were either not yet born or were too young to remember the September 11 attacks. Now, as the US marks the 25th anniversary of 9/11, how are young people in America being taught about what happened that day and its consequences? France 24's Douglas Herbert takes a look.",
+      "url": "https://www.france24.com/en/video/20260911-clashing-narratives-how-are-young-americans-today-taught-about-9-11",
+      "published": "Fri, 11 Sep 2026 09:24:52 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Vance calls Democrats 'party of hatred' as he seizes MAGA spotlight",
       "description": "US Vice President JD Vance launched a virulent attack on the Democratic Party Thursday, accusing them of being the \"party of hatred\" at day two of the Republican convention ahead of the November midterm elections. With public support for President Donald Trump at record lows, Republican figures are increasingly trying to frame their opponents as dangerous political extremists.",
       "url": "https://www.france24.com/en/americas/20260911-vance-tries-label-democrats-as-party-of-hatred-seizes-maga-spotlight",
       "published": "Fri, 11 Sep 2026 06:45:36 GMT",
@@ -1157,16 +1177,6 @@
       "description": "Police say a Dutch tour bus has overturned in eastern Switzerland, resulting in several deaths and injuries",
       "url": "https://abcnews.com/International/wireStory/dutch-tour-bus-overturns-switzerland-leaving-people-dead-136347712",
       "published": "Fri, 11 Sep 2026 02:33:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Rubio pledges US won't take unilateral action against drug trafficking despite recent strikes",
-      "description": "Secretary of State Marco Rubio has pledged that the U.S. wouldn't take military action against drug traffickers in Latin American countries without the approval of its allies",
-      "url": "https://abcnews.com/International/wireStory/rubio-pledges-us-unilateral-action-drug-trafficking-despite-136337738",
-      "published": "Fri, 11 Sep 2026 02:42:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1258,16 +1268,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 06:28:42 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "BRICS red carpet sparks anger in India’s capital",
-      "description": "New Delhi is rolling out the red carpet for BRICS, but blocked roads, evictions and restrictions have caused anger.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss",
-      "published": "Fri, 11 Sep 2026 04:37:48 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1493,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "'No facts': Morocco denies involvement in deadly Ceuta migrant rush",
-      "description": "Moroccan authorities said on Thursday there were \"no facts\" establishing its involvement in the migrant rush into Spain's North African exclave of Ceuta in July. It was the kingdom's first official response to a Spanish police report accusing its security forces of \"total permissiveness\" when the mass crossing took place.",
-      "url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
-      "published": "Thu, 10 Sep 2026 19:32:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
       "description": "Andy Burnham's UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu's ministers and U.S. lawmakers.",
       "url": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
@@ -1598,6 +1588,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 16:48:37 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+      "description": "The countries are not opposed to a new map per se; they're testy about the colour shades.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 09:11:42 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
