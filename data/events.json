@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T10:11:19.493078Z",
+  "last_updated": "2026-09-12T10:35:10.837303Z",
   "event_count": 222,
   "events": [
     {
@@ -88,6 +88,16 @@
       "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
       "published": "Wed, 09 Sep 2026 22:19:25 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "3 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
+      "description": "Russian strikes have killed three civilians and wounded dozens in Ukraine, according to local officials",
+      "url": "https://abcnews.com/International/wireStory/3-killed-russian-strikes-ukraine-putin-warns-europe-136385728",
+      "published": "Sat, 12 Sep 2026 06:33:29 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical"
@@ -453,6 +463,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Prison riot and fire in northern Syrian town kill at least 7",
+      "description": "A fire and riot in a prison in a predominantly Kurdish town in northern Syria has killed at least seven people",
+      "url": "https://abcnews.com/International/wireStory/prison-riot-fire-northern-syrian-town-kills-7-136385827",
+      "published": "Sat, 12 Sep 2026 06:34:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
       "description": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168309",
@@ -653,20 +673,20 @@
       "severity_level": "High"
     },
     {
-      "title": "High school stabbing in Croatia leaves 2 wounded and attacker detained",
-      "description": "Authorities in Zagreb, Croatia, say a high school student has stabbed another student and a janitor",
-      "url": "https://abcnews.com/International/wireStory/high-school-stabbing-croatia-leaves-2-wounded-attacker-136359139",
-      "published": "Fri, 11 Sep 2026 06:34:19 -0400",
+      "title": "Police say 5 dead, 40 injured in tour bus crash in eastern Switzerland",
+      "description": "Police say five people have died and 40 others were injured after a Dutch tour bus slammed into a roadside crash barrier and overturned in eastern Switzerland",
+      "url": "https://abcnews.com/International/wireStory/police-5-dead-40-injured-tour-bus-crash-136358336",
+      "published": "Fri, 11 Sep 2026 05:14:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Police say 5 dead, 40 injured in tour bus crash in eastern Switzerland",
-      "description": "Police say five people have died and 40 others were injured after a Dutch tour bus slammed into a roadside crash barrier and overturned in eastern Switzerland",
-      "url": "https://abcnews.com/International/wireStory/police-5-dead-40-injured-tour-bus-crash-136358336",
-      "published": "Fri, 11 Sep 2026 05:14:35 -0400",
+      "title": "High school stabbing in Croatia leaves 2 wounded and attacker detained",
+      "description": "Authorities in Zagreb, Croatia, say a high school student has stabbed another student and a janitor",
+      "url": "https://abcnews.com/International/wireStory/high-school-stabbing-croatia-leaves-2-wounded-attacker-136359139",
+      "published": "Fri, 11 Sep 2026 06:34:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -1243,6 +1263,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Anthropic blocks efforts to use AI to research weapons development and carry out cyber attacks",
+      "description": "Anthropic says it has blocked efforts to use its artificial intelligence models to carry out cyber attacks and research which could have led to the creation of biological weapons.",
+      "url": "https://news.sky.com/story/anthropic-blocks-effort-to-use-ai-to-research-potential-biological-weapons-13584258",
+      "published": "Fri, 11 Sep 2026 09:13:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iraq confirms attacks on Saudi pipeline originated from Iraqi territory and other Mideast news",
       "description": "Iraq's government says attacks on a key Saudi oil pipeline were launched from Iraqi territory, pledging to investigate further",
       "url": "https://abcnews.com/International/wireStory/iraq-confirms-attacks-saudi-pipeline-originated-iraqi-territory-136385214",
@@ -1263,10 +1293,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Poland warns Russia likely to intensify provocations against European countries",
-      "description": "Polish Prime Minister Donald Tusk has warned of potential intensified Russian provocations at Ukraine's border crossings with Europe",
-      "url": "https://abcnews.com/International/wireStory/poland-warns-russia-intensify-provocations-ukraines-borders-european-136362040",
-      "published": "Fri, 11 Sep 2026 08:42:10 -0400",
+      "title": "Uganda set to bury onetime 'boy king' whose death has sparked a succession battle",
+      "description": "The funeral is underway in western Uganda for a traditional monarch who ascended the throne of the Tooro Kingdom as an infant in 1995 and died last month at 34",
+      "url": "https://abcnews.com/International/wireStory/uganda-set-bury-onetime-boy-king-death-sparked-136385357",
+      "published": "Sat, 12 Sep 2026 06:28:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1403,31 +1433,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump in Ireland for two-day visit as major security operation under way",
-      "description": "Donald Trump has arrived in Ireland amid what's being described as one of the biggest security operations ever implemented by the country's police.",
-      "url": "https://news.sky.com/story/trump-due-to-arrive-in-ireland-as-major-security-operation-under-way-13584681",
-      "published": "Sat, 12 Sep 2026 03:06:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Norway's Princess Astrid dies two days after funeral of her brother, the late King Harald",
       "description": "Norway's ‌Princess Astrid, an older sister ‌of the late King ​Harald, died on Friday at ​the ‌age of 94, the royal palace ​said in a statement.",
       "url": "https://news.sky.com/story/norways-princess-astrid-dies-two-days-after-funeral-of-her-brother-the-late-king-harald-13584441",
       "published": "Fri, 11 Sep 2026 14:22:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "3 Tiananmen vigil organizers set to be sentenced in Hong Kong national security case",
-      "description": "A Hong Kong court has sentenced three activists who for years organized vigils in remembrance of China’s 1989 Tiananmen Square crackdown to prison terms of about 5 to 7 years",
-      "url": "https://abcnews.com/International/wireStory/3-tiananmen-vigil-organizers-set-sentenced-hong-kong-136351311",
-      "published": "Fri, 11 Sep 2026 02:56:18 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1724,7 +1734,7 @@
     },
     {
       "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "description": "Art crime investigators and security experts say museum thefts across Europe are becoming more brazen.",
+      "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
       "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 00:24:08 GMT",
       "source": "BBC News",
@@ -2053,10 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump will meet with Ireland's leaders before heading to his golf club in Doonbeg",
-      "description": "President Donald Trump is landing in Dublin on Saturday for talks with Ireland's president and prime minister",
-      "url": "https://abcnews.com/International/wireStory/trump-meet-irelands-leaders-heading-golf-club-doonbeg-136383910",
-      "published": "Sat, 12 Sep 2026 01:59:31 -0400",
+      "title": "Myanmar's Min Aung Hlaing visits Cambodia as he seeks to restore ASEAN engagement",
+      "description": "Myanmar’s military-backed president is in Cambodia to meet its leaders",
+      "url": "https://abcnews.com/International/wireStory/myanmars-min-aung-hlaing-visits-cambodia-seeks-restore-136354958",
+      "published": "Fri, 11 Sep 2026 02:36:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2073,30 +2083,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump will meet with Ireland's leaders before heading to his golf club in Doonbeg",
+      "description": "President Donald Trump is landing in Dublin on Saturday for talks with Ireland's president and prime minister",
+      "url": "https://abcnews.com/International/wireStory/trump-meet-irelands-leaders-heading-golf-club-doonbeg-136383910",
+      "published": "Sat, 12 Sep 2026 01:59:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Emma Bonino, leader of abortion and divorce battles that changed Italy, dies at 78",
       "description": "Emma Bonino, a prominent Italian politician known for her work with the Radical Party, has died at 78",
       "url": "https://abcnews.com/International/wireStory/emma-bonino-leader-abortion-divorce-battles-changed-italy-136358233",
       "published": "Fri, 11 Sep 2026 09:49:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "What to know about Sunday's election in Sweden, NATO's newest member",
-      "description": "Sweden is holding an election Sunday that will determine whether a conservative leader remains in charge and a hard-right party wins ministerial jobs for the first time, or whether the center-left returns to power",
-      "url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765",
-      "published": "Fri, 11 Sep 2026 08:42:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Myanmar's Min Aung Hlaing visits Cambodia as he seeks to restore ASEAN engagement",
-      "description": "Myanmar’s military-backed president is in Cambodia to meet its leaders",
-      "url": "https://abcnews.com/International/wireStory/myanmars-min-aung-hlaing-visits-cambodia-seeks-restore-136354958",
-      "published": "Fri, 11 Sep 2026 02:36:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
