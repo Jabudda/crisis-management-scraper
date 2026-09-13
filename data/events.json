@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T15:35:19.932739Z",
+  "last_updated": "2026-09-13T16:12:24.003914Z",
   "event_count": 221,
   "events": [
     {
@@ -180,16 +180,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 15:09:55 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -453,16 +443,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Prison riot and fire in northern Syrian town kill at least 7",
-      "description": "A fire and riot in a prison in a predominantly Kurdish town in northern Syria has killed at least seven people",
-      "url": "https://abcnews.com/International/wireStory/prison-riot-fire-northern-syrian-town-kills-7-136385827",
-      "published": "Sat, 12 Sep 2026 06:34:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
       "description": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168309",
@@ -488,6 +468,16 @@
       "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 11:23:42 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "World leaders gather in New Delhi for final day of BRICS summit",
+      "description": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 15:40:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -563,7 +553,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
       "description": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
       "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
       "published": "Sun, 13 Sep 2026 06:31:10 -0400",
@@ -683,6 +673,16 @@
       "severity_level": "High"
     },
     {
+      "title": "France's far-right Marine Le Pen kicks off 2027 presidential campaign",
+      "description": "In France, Marine Le Pen has launched her presidential campaign with a rally in Hénin-Beaumont this Sunday, despite wearing an electronic tag following her recent conviction. On FRANCE 24, international affairs editor Oliver Farry explains why she remains the frontrunner in the polls despite her weakened legal position, pointing to her long-standing national profile, the appeal of her \"national preference\" agenda, and the left's struggle to unite behind a convincing candidate.",
+      "url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
+      "published": "Sun, 13 Sep 2026 15:41:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "UK: Police probe £72 million donation to Reform UK",
       "description": "British police have opened a criminal investigation into a £72 million donation to Nigel Farage's Reform UK, amid questions over whether the funds breached rules on foreign political donations. The probe comes as anti-immigration protests and counter-demonstrations intensify across England, highlighting growing tensions over immigration and national identity.",
       "url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
@@ -707,16 +707,6 @@
       "description": "A look back at some of the week's key news stories and the most striking images, from commemorations marking 25 years since the 9/11 attacks to the breakthrough win for Germany's far-right AfD party and the lightening offensive that has left Yemen's Iran-backed Houthi rebels in control of the country's Red Sea coast.",
       "url": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
       "published": "Sun, 13 Sep 2026 10:48:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Swedes vote in close general election that could usher far right into government",
-      "description": "Swedes are heading to the polls Sunday for a general election that will either bring a far right party into government for the first time or shift the country back towards the liberalism it has long been known for. The centre-left opposition holds a narrow lead over the ruling right-wing bloc but Prime ⁠Minister Ulf Kristersson's four-party alliance – which includes the far right Sweden Democrats – has been catching up in the final weeks of campaigning.",
-      "url": "https://www.france24.com/en/europe/20260913-swedes-vote-in-close-general-election-that-could-usher-far-right-into-government",
-      "published": "Sun, 13 Sep 2026 06:16:49 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
@@ -778,6 +768,16 @@
       "url": "https://www.france24.com/en/sport/20260913-olympic-rematch-us-and-france-to-meet-for-women-s-fiba-world-cup-title",
       "published": "Sun, 13 Sep 2026 06:48:15 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump calls on Zelenskyy to halt Ukraine strikes on Russian diesel, saying attacks are causing a shortage",
+      "description": "Trump calls on Zelenskyy to halt Ukraine strikes on Russian diesel, saying attacks are causing a shortage",
+      "url": "https://abcnews.com/International/wireStory/trump-calls-zelenskyy-halt-ukraine-strikes-russian-diesel-136402455",
+      "published": "Sun, 13 Sep 2026 11:37:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -860,6 +860,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 15:30:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1177,16 +1187,6 @@
       "description": "French authorities are investigating whether sabotage caused a train derailment in Normandy that injured 44 people",
       "url": "https://abcnews.com/International/wireStory/train-derails-france-injures-44-authorities-investigate-sabotage-136386095",
       "published": "Sat, 12 Sep 2026 07:48:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq",
-      "description": "Iraq's government is investigating after Iran-backed militias there are accused of attacking a key Saudi oil pipeline",
-      "url": "https://abcnews.com/International/wireStory/iraq-races-fallout-after-local-iran-backed-militias-136385727",
-      "published": "Sat, 12 Sep 2026 13:22:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1643,20 +1643,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 14:01:44 GMT",
+      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 15:42:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 16:55:31 GMT",
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 14:01:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1673,21 +1673,31 @@
       "severity_level": "Low"
     },
     {
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
-      "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 00:24:08 GMT",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 17:36:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "description": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 17:36:20 GMT",
+      "title": "Has Trump won over voters with his midterm convention?",
+      "description": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:16:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+      "description": "As part of Delcy Rodriguez's 'Venezuela reborn' campaign, murals of leaders like Hugo Chavez are being removed.",
+      "url": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 15:22:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1737,26 +1747,6 @@
       "description": "Follow our live team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
       "published": "Sun, 13 Sep 2026 12:06:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A kingdom within a republic: Inside Uganda’s Buganda",
-      "description": "The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 10:12:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "description": "New chief of staff appointed after failed mutiny tested military rulers' grip on power.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 08:54:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2038,6 +2028,16 @@
       "url": "https://news.sky.com/story/trump-would-love-to-see-irish-reunification-and-claims-it-will-happen-eventually-13584741",
       "published": "Sat, 12 Sep 2026 10:57:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Kosovo gets new government but political impasse persists",
+      "description": "Kosovo lawmakers have voted in a new government led by Prime Minister Albin Kurti",
+      "url": "https://abcnews.com/International/wireStory/kosovo-gets-new-government-political-impasse-persists-136404108",
+      "published": "Sun, 13 Sep 2026 11:36:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
