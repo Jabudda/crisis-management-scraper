@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T10:36:48.885968Z",
+  "last_updated": "2026-09-13T11:09:38.118144Z",
   "event_count": 221,
   "events": [
     {
@@ -150,6 +150,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+      "description": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
+      "url": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 13 Sep 2026 10:55:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -323,20 +333,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
-      "description": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 00:00:40 +0000",
+      "title": "Israeli attack on Gaza kills two Palestinians",
+      "description": "Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.",
+      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 10:22:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
     },
     {
-      "title": "Death toll from Philippine ferry fire rises to 76",
-      "description": "The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing",
-      "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-      "published": "Sat, 12 Sep 2026 23:50:03 +0000",
+      "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
+      "description": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 00:00:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
@@ -533,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "description": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 09:42:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
@@ -543,11 +563,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "description": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 09:42:08 GMT",
-      "source": "BBC News",
+      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.",
+      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 10:47:19 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -568,6 +588,16 @@
       "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
       "published": "Wed, 09 Sep 2026 04:46:23 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "description": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
+      "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+      "published": "Sun, 13 Sep 2026 06:31:10 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -613,16 +643,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Russia's drone war comes to Moldova and Romania",
-      "description": "Incursions by Russian drones into Moldovan and Romanian airspace are increasingly common. This week the Ukrainian president's plane was stopped from taking off from Chisinau. Observers suspect the attacks are deliberate.",
-      "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 12 Sep 2026 06:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Kenya: Crocodiles pushed towards homes by rising lakes",
       "description": "Climate change is forcing Kenya's wildlife officers to go on a crocodile hunt on the shores of Lake Baringo in a bid to curb growing human-wildlife conflict. Lakes in Kenya's Rift Valley have risen to levels not seen in at least half a century, pushing the reptiles towards human homes. Officers are tasked with trapping the animals and relocating them — an operation as tricky as it is dangerous.",
       "url": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
@@ -646,7 +666,7 @@
       "title": "Search underway for over 100 people missing after Indonesian passenger ship overturns",
       "description": "Indonesian rescuers say about 130 passengers and crew are missing after a ferry carrying more than 240 people overturned in bad weather in the Java Sea",
       "url": "https://abcnews.com/International/wireStory/search-underway-indonesian-passenger-ship-carrying-240-people-136398224",
-      "published": "Sun, 13 Sep 2026 06:18:20 -0400",
+      "published": "Sun, 13 Sep 2026 06:42:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -710,6 +730,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "The week in pictures: 9/11 anniversary, far-right win in Germany and Houthis' Yemen offensive",
+      "description": "A look back at some of the week's key news stories and the most striking images, from commemorations marking 25 years since the 9/11 attacks to the breakthrough win for Germany's far-right AfD party and the lightening offensive that has left Yemen's Iran-backed Houthi rebels in control of the country's Red Sea coast.",
+      "url": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
+      "published": "Sun, 13 Sep 2026 10:48:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -1043,16 +1073,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Teen rescued after clinging to boat for two days off Alaska",
-      "description": "A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-      "published": "Sat, 12 Sep 2026 23:56:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1097,16 +1117,6 @@
       "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
       "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
       "published": "Fri, 11 Sep 2026 15:39:35 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-      "description": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-      "published": "Fri, 11 Sep 2026 03:32:27 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
@@ -1173,6 +1183,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Pope commemorates 9/11 attacks with prayers for peace and for those who died",
+      "description": "Pope Leo XIV, the first American pope, has called for a renewed commitment to peace as he marked the 25th anniversary of the Sept. 11 attacks in the U.S. Speaking from St. Peter’s Square on Sunday, he offered prayers for victims and those still affecte...",
+      "url": "https://abcnews.com/International/wireStory/pope-commemorates-911-attacks-prayers-peace-died-136401078",
+      "published": "Sun, 13 Sep 2026 06:58:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia",
       "description": "Iran-backed Houthis in Yemen have claimed new attacks on Saudi Arabia, escalating tensions in the region",
       "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-yemen-claim-new-attacks-saudi-136400892",
@@ -1207,16 +1227,6 @@
       "description": "Iraq's government is investigating after Iran-backed militias there are accused of attacking a key Saudi oil pipeline",
       "url": "https://abcnews.com/International/wireStory/iraq-races-fallout-after-local-iran-backed-militias-136385727",
       "published": "Sat, 12 Sep 2026 13:22:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Uganda set to bury onetime 'boy king' whose death has sparked a succession battle",
-      "description": "The funeral is underway in western Uganda for a traditional monarch who ascended the throne of the Tooro Kingdom as an infant in 1995 and died last month at 34",
-      "url": "https://abcnews.com/International/wireStory/uganda-set-bury-onetime-boy-king-death-sparked-136385357",
-      "published": "Sat, 12 Sep 2026 06:28:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1317,16 +1327,6 @@
       "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 10:00:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Watch: Americans remember what they were doing on 9/11",
-      "description": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
-      "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 02:48:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1626,7 +1626,7 @@
       "title": "Beijing bans drone possession in the city after earlier moves to tighten rules",
       "description": "Beijing is tightening its drone ban to include possession within city limits",
       "url": "https://abcnews.com/International/wireStory/beijing-bans-drone-possession-city-after-earlier-moves-136400514",
-      "published": "Sun, 13 Sep 2026 06:18:28 -0400",
+      "published": "Sun, 13 Sep 2026 06:50:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1640,6 +1640,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 07:06:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -2017,16 +2027,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260912-has-trump-left-mbs-hanging-over-yemen",
       "published": "Sat, 12 Sep 2026 18:49:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "'The excitement is just too much!': Céline Dion poised for emotional comeback in Paris",
-      "description": "Celine Dion was set to make her long-awaited return to the stage in Paris on Saturday after years of battling a rare neurological disorder, with anticipation among fans reaching fever pitch. \"The excitement is just too much!\" a fan told our journalist Jennifer Ben Brahim.",
-      "url": "https://www.france24.com/en/video/20260912-the-excitement-is-just-too-much-celine-dion-poised-for-emotional-comeback-in-paris",
-      "published": "Sat, 12 Sep 2026 15:49:05 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
