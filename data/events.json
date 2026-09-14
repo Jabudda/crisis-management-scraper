@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:12:17.772346Z",
+  "last_updated": "2026-09-14T11:36:54.281478Z",
   "event_count": 221,
   "events": [
     {
@@ -30,16 +30,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability",
-      "description": "Indian Prime Minister Narendra Modi has warned that rising geopolitical tensions, supply chain disruptions and climate crises are affecting people worldwide",
-      "url": "https://abcnews.com/International/wireStory/brics-indias-modi-warns-geopolitical-tensions-supply-chain-136400348",
-      "published": "Sun, 13 Sep 2026 07:22:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 36,
       "severity_level": "Critical"
     },
     {
@@ -140,6 +130,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Carney pitches Canada to global investors as Trump tries to pull investment south",
+      "description": "Canadian Prime Minister Mark Carney is courting some of the world’s biggest investors as he tries to reduce Canada’s economic dependence on the United States during an escalating trade war with President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/carney-pitches-canada-global-investors-trump-pull-investment-136414852",
+      "published": "Mon, 14 Sep 2026 02:42:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -383,16 +383,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia",
-      "description": "The conflict in Yemen is intensifying, as government forces launch attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fire into neighboring Saudi Arabia, which supports Yemen’s government",
-      "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-yemen-claim-new-attacks-saudi-136400892",
-      "published": "Mon, 14 Sep 2026 01:54:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Four Wisconsin cops injured after suspected drunk driver barrels toward crowd, sparks police chase",
       "description": "Four Wisconsin police officers were injured after a car drove toward a crowd at a Green Bay food truck disturbance, prompting an officer to fire.",
       "url": "https://www.foxnews.com/us/four-wisconsin-cops-injured-after-suspected-drunk-driver-barrels-toward-crowd-sparks-police-chase",
@@ -623,16 +613,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Search underway for about 130 people after Indonesian passenger ship overturns",
-      "description": "Indonesian rescuers say about 129 passengers and crew are missing after a ferry carrying more than 240 people overturned in bad weather in the Java Sea",
-      "url": "https://abcnews.com/International/wireStory/search-underway-indonesian-passenger-ship-carrying-240-people-136398224",
-      "published": "Sun, 13 Sep 2026 23:30:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Maryland dad blamed 'Satan' after 2-month-old daughter died from horrific head trauma",
       "description": "A Maryland father blamed \"Satan\" for his 2-month-old daughter's fatal head trauma that led to her death, as he and the child's mother are facing child abuse charges.",
       "url": "https://www.foxnews.com/us/maryland-dad-blamed-satan-2-month-old-daughter-died-horrific-head-trauma",
@@ -683,10 +663,30 @@
       "severity_level": "High"
     },
     {
+      "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
+      "description": "Brent crude crosses $107 as Hormuz disruptions and Saudi pipeline shutdown threaten global oil supply.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+      "published": "Mon, 14 Sep 2026 11:06:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Sweden's next government uncertain with thin lead for left-wing opposition",
       "description": "Sweden’s next government remains uncertain as the national election inches toward a final result",
       "url": "https://abcnews.com/International/wireStory/swedens-government-uncertain-thin-lead-left-wing-opposition-136415510",
       "published": "Mon, 14 Sep 2026 04:18:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russians are still fleeing abroad, citing fears of a new mobilization and a loss of freedom",
+      "description": "Some Russians have left the country this year amid rumors of a new mobilization of troops for the war in Ukraine as well as a crackdown on their personal freedoms",
+      "url": "https://abcnews.com/International/wireStory/russians-fleeing-abroad-citing-fears-new-mobilization-loss-136414671",
+      "published": "Mon, 14 Sep 2026 04:10:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -708,6 +708,16 @@
       "url": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 14 Sep 2026 05:19:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Road crash involving multiple vehicles in S. Africa kills at least 21, officials say",
+      "description": "A road crash involving two minibus taxis and an SUV in South Africa has killed at least 21 people",
+      "url": "https://abcnews.com/International/wireStory/road-crash-involving-multiple-vehicles-south-africa-kills-136416056",
+      "published": "Mon, 14 Sep 2026 07:06:27 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -748,6 +758,16 @@
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Boat with migrants stranded in southern Greece with 1 dead and 20 missing",
+      "description": "A migrant has died and at least 20 more are believed missing after a boat traveling from Libya to the island of Crete took on water and became stranded",
+      "url": "https://abcnews.com/International/wireStory/boat-migrants-stranded-southern-greece-1-dead-20-136417323",
+      "published": "Mon, 14 Sep 2026 07:27:59 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -818,6 +838,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 21:25:28 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "South Korea’s new manager Robert Moreno dismisses ‘AI coaching’ allegations",
+      "description": "The Spanish manager has been appointed South Korea's interim head coach following a disastrous World Cup campaign.",
+      "url": "https://www.aljazeera.com/sports/2026/9/14/south-koreas-new-manager-robert-moreno-dismisses-ai-coaching-allegations?traffic_source=rss",
+      "published": "Mon, 14 Sep 2026 11:03:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -973,16 +1003,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-      "description": "Deadly violence marred the elections one day before the polls opened in the southern Philippine region.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 01:59:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1043,20 +1063,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "More than 30 missing from ferry that sank in Vanuatu",
-      "description": "A search in waters off the Pacific Island nation of Vanuatu is continuing for more than 30 people who officials said were missing after a passenger ferry sank",
-      "url": "https://abcnews.com/International/wireStory/30-missing-ferry-sank-vanuatu-136413839",
-      "published": "Mon, 14 Sep 2026 04:10:25 -0400",
+      "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea",
+      "description": "The search for survivors of a capsized ferry in Indonesia has intensified as 17 ships and aircraft from the military, police and other agencies were deployed",
+      "url": "https://abcnews.com/International/wireStory/indonesia-searches-129-people-missing-after-ferry-capsizes-136414032",
+      "published": "Mon, 14 Sep 2026 06:10:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea",
-      "description": "The search for survivors of a capsized ferry in Indonesia has intensified as 17 ships and aircraft from the military, police and other agencies were deployed",
-      "url": "https://abcnews.com/International/wireStory/indonesia-searches-129-people-missing-after-ferry-capsizes-136414032",
-      "published": "Mon, 14 Sep 2026 06:10:15 -0400",
+      "title": "More than 30 missing from ferry that sank in Vanuatu",
+      "description": "A search in waters off the Pacific Island nation of Vanuatu is continuing for more than 30 people who officials said were missing after a passenger ferry sank",
+      "url": "https://abcnews.com/International/wireStory/30-missing-ferry-sank-vanuatu-136413839",
+      "published": "Mon, 14 Sep 2026 04:10:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1077,16 +1097,6 @@
       "description": "The pope spoke from St. Peter's Square.",
       "url": "https://abcnews.com/International/wireStory/pope-commemorates-911-attacks-prayers-peace-died-136401078",
       "published": "Sun, 13 Sep 2026 07:46:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What to know as a Philippine region with a history of conflict holds its first parliamentary polls",
-      "description": "Voters in an autonomous southern Philippine region will cast their ballots Monday in the region's first parliamentary elections",
-      "url": "https://abcnews.com/International/wireStory/philippine-region-history-conflict-holds-parliamentary-polls-136398215",
-      "published": "Sat, 12 Sep 2026 23:11:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1223,7 +1233,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Fugitive developer brags about holding 52% of NSW government’s power in tapped call played to Icac",
+      "title": "Fugitive developer Jean Nassif brags about holding 52% of NSW government’s power in tapped call played to Icac",
       "description": "Jean Nassif tells inquiry his statements were ‘all talk’ borne from frustration with former building commissioner David Chandler and 2GB radio shockjock Ray Hadley Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The fugitive property developer Jean Nassif has bragged about taking down his political foes and bolstering the right wing of the Liberal party in calls played to the New South Wales corruption watchdog, as he vowed to “speak [his] heart” at his much-anticipated appearance. Nassif, 58, appeared on Monday at the NSW Independent Commission Against Corruption inquiry via video link from Lebanon. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/14/sydney-mayor-threatened-secretly-recorded-after-refusing-to-step-down-icac-ntwnfb",
       "published": "Mon, 14 Sep 2026 07:59:07 GMT",
@@ -1263,20 +1273,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
-      "description": "Sweden’s national election was too close to call early Monday with preliminary results giving the left-wing opposition a narrow three-seat advantage over Prime Minister Ulf Kristersson’s right-wing coalition",
-      "url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161",
-      "published": "Mon, 14 Sep 2026 03:46:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Prosecutors charge German-Ukrainian woman with aiding Russian intelligence",
       "description": "Germany's federal prosecutor's office has filed charges against a German-Ukrainian woman suspected of working for Russian intelligence",
       "url": "https://abcnews.com/International/wireStory/prosecutors-charge-german-ukrainian-woman-aiding-russian-intelligence-136417317",
-      "published": "Mon, 14 Sep 2026 06:34:24 -0400",
+      "published": "Mon, 14 Sep 2026 06:50:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1290,16 +1290,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
-      "description": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 05:34:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1327,16 +1317,6 @@
       "description": "Israeli Culture Minister Miki Zohar labels Gaza genocide film 'vile' after it wins Venice Film Festival recognition.",
       "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
       "published": "Mon, 14 Sep 2026 03:50:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Protests erupt across Syria over sharp fuel price hikes",
-      "description": "Protests have erupted in Syria after the government raised fuel prices.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 01:08:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1383,10 +1363,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "A road crash involving multiple vehicles in South Africa kills at least 21 people, authorities say",
+      "description": "A road crash involving multiple vehicles in South Africa kills at least 21 people, authorities say",
+      "url": "https://abcnews.com/International/wireStory/road-crash-involving-multiple-vehicles-south-africa-kills-136415967",
+      "published": "Mon, 14 Sep 2026 05:38:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "North Korea says its recent live-fire drill demonstrated 'huge destructive power'",
       "description": "North Korea says it has conducted a joint live-fire drill involving missiles, artillery and drones that it claimed demonstrated “the huge destructive power of concentrated fire.”",
       "url": "https://abcnews.com/International/wireStory/north-korea-recent-live-fire-drill-demonstrated-huge-136412674",
       "published": "Mon, 14 Sep 2026 00:26:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Brazil Supreme Court justice unseals probe into Bolsonaro biopic, citing suspected criminal funding",
+      "description": "A Brazilian Supreme Court justice has unsealed an investigation into a film about former President Jair Bolsonaro",
+      "url": "https://abcnews.com/International/wireStory/brazil-supreme-court-justice-unseals-probe-bolsonaro-biopic-136408889",
+      "published": "Sun, 13 Sep 2026 18:10:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1466,7 +1466,7 @@
       "title": "Electric mobility brings Africa’s energy transition into the wild",
       "description": "Electric motorcycles are bringing Africa’s energy transition into Kenya’s Maasai Mara game reserve, where rangers are using solar-charged bikes to patrol wildlife areas more quietly, and to pursue suspected poachers",
       "url": "https://abcnews.com/International/wireStory/electric-mobility-brings-africas-energy-transition-wild-136413194",
-      "published": "Mon, 14 Sep 2026 03:54:19 -0400",
+      "published": "Mon, 14 Sep 2026 07:14:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1517,6 +1517,16 @@
       "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
       "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 14 Sep 2026 08:58:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:20:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1593,6 +1603,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump says China 'spies' on US after new report and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/trump-says-china-spies-us-after-new-report-more-top-headlines",
+      "published": "Mon, 14 Sep 2026 07:09:53 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports",
       "description": "A female passenger on American Airlines Flight 1779 reportedly undressed and performed indecent acts mid-flight, prompting law enforcement at Miami.",
       "url": "https://www.foxnews.com/us/female-passenger-undresses-american-airlines-flight-engages-indecent-acts-crew-reports",
@@ -1608,16 +1628,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Beijing bans drone possession in the city after earlier moves to tighten rules",
-      "description": "Beijing is tightening its drone ban to include possession within city limits",
-      "url": "https://abcnews.com/International/wireStory/beijing-bans-drone-possession-city-after-earlier-moves-136400514",
-      "published": "Sun, 13 Sep 2026 06:50:27 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1693,6 +1703,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "Tom Aspinall vacates UFC heavyweight title due to eye injury",
+      "description": "Despite vacating the belt, Aspinall stressed that he was not retiring and remained determined to compete again.",
+      "url": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss",
+      "published": "Mon, 14 Sep 2026 11:11:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+      "description": "Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
+      "published": "Mon, 14 Sep 2026 10:58:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US may be ‘forced to intervene’ in the Red Sea",
+      "description": "US may be 'forced to intervene' in the Red Sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
+      "published": "Mon, 14 Sep 2026 10:56:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "South Korean officials decry ‘worst ever’ Asian Games accommodation",
       "description": "Organisers in Japan say they had 'neither the manpower nor the budget' to deal with the accommodation shortage.",
       "url": "https://www.aljazeera.com/sports/2026/9/14/south-korean-officials-decry-worst-ever-asian-games-accommodation?traffic_source=rss",
@@ -1727,36 +1767,6 @@
       "description": "Turkish police raid LGBTQ groups across major cities, detaining at least 63 in a major crackdown.",
       "url": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss",
       "published": "Mon, 14 Sep 2026 03:47:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
-      "description": "Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 03:38:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
-      "description": "A Russian drone struck a train near Ukraine-Poland border, shortly after Former UK PM Boris Johnson left the station.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 03:37:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Niger mutiny exposes growing reliance on Russia",
-      "description": "The attempted power grab has exposed deep grievances within the army and tested Niger’s ties with its Sahelian allies.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/niger-mutiny-exposes-growing-reliance-on-russia?traffic_source=rss",
-      "published": "Mon, 14 Sep 2026 02:02:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2083,20 +2093,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Giotto's famed fresco cycle depicting St. Francis of Assisi restored in Florence",
-      "description": "A cycle of frescoes by Italian 14th-century master Giotto, depicting key moments in the life of St. Francis of Assisi, has been unveiled after a four-year restoration",
-      "url": "https://abcnews.com/International/wireStory/giottos-famed-fresco-cycle-depicting-st-francis-assisi-136399141",
-      "published": "Sun, 13 Sep 2026 03:51:22 -0400",
+      "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments",
+      "description": "Yemen's Houthi rebels have seized the strategic islands of Greater and Lesser Hanish in the southern Red Sea",
+      "url": "https://abcnews.com/International/wireStory/houthis-seize-2-strategic-red-sea-islands-mideast-136416872",
+      "published": "Mon, 14 Sep 2026 07:27:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Brazil is in fashion, as Brazilians like to say. Here's why",
-      "description": "Brazil is experiencing a cultural surge as celebrities and tourists embrace its vibrant culture",
-      "url": "https://abcnews.com/International/wireStory/brazil-fashion-brazilians-heres-136400252",
-      "published": "Sun, 13 Sep 2026 08:50:16 -0400",
+      "title": "Arctic thaw opens shipping routes as Russian buildup stokes security fears",
+      "description": "Top European leaders are meeting in Finland to focus on the Arctic",
+      "url": "https://abcnews.com/International/wireStory/european-leaders-meet-arctic-thaw-opens-shipping-routes-136416631",
+      "published": "Mon, 14 Sep 2026 07:14:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russian drone hits train in Ukraine soon after visiting officials left",
+      "description": "The officials included the former prime ministers of the U.K. and Sweden.",
+      "url": "https://abcnews.com/International/wireStory/russian-drone-hits-train-ukraine-poland-border-after-136407004",
+      "published": "Mon, 14 Sep 2026 00:26:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2107,16 +2127,6 @@
       "description": "Kosovo lawmakers have voted in a new government led by Prime Minister Albin Kurti",
       "url": "https://abcnews.com/International/wireStory/kosovo-gets-new-government-political-impasse-persists-136404108",
       "published": "Sun, 13 Sep 2026 11:36:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Benin bets on turning its cotton crop into clothes at home",
-      "description": "The fabrics made by Fatoumata Dosso carry the tag “Made in Benin.”",
-      "url": "https://abcnews.com/International/wireStory/benin-bets-turning-cotton-crop-clothes-home-136399234",
-      "published": "Sun, 13 Sep 2026 08:18:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2157,16 +2167,6 @@
       "description": "Security video shows Matthew Exton thrusting a handgun at point-blank range near his ex-wife's head inside a Toledo restaurant before a waiter acted.",
       "url": "https://www.foxnews.com/us/ohio-man-convicted-trying-shoot-ex-wife-point-blank-range-inside-restaurant-chilling-video",
       "published": "Sat, 12 Sep 2026 15:40:14 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lindsay Clancy DA rarely does plea deals, but her case could be the 'exception,' veteran attorney says",
-      "description": "Lindsay Clancy's mistrial sparks plea deal speculation as a veteran attorney says the Plymouth County DA's office may break its no-deal norm.",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-da-rarely-plea-deals-case-could-exception-veteran-attorney-says",
-      "published": "Sat, 12 Sep 2026 06:00:52 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
