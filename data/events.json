@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T14:14:12.493366Z",
+  "last_updated": "2026-09-15T14:38:18.980324Z",
   "event_count": 221,
   "events": [
     {
@@ -70,6 +70,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Army veteran paratrooper who deployed to Iraq, Afghanistan before helping rescue Fox News reporter dead at 50",
+      "description": "Sean Michael Lee's cancer was linked to burn pits in Iraq and Afghanistan, ending a life devoted to rescuing thousands from war zones and disasters.",
+      "url": "https://www.foxnews.com/us/army-veteran-paratrooper-deployed-iraq-afghanistan-helping-rescue-fox-news-reporter-dead-50",
+      "published": "Tue, 15 Sep 2026 10:09:54 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -158,16 +168,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168318",
       "published": "Fri, 11 Sep 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "70 Americans still unaccounted for after catastrophic Nepal flooding",
-      "description": "Officials say 70 Americans remain unaccounted for after catastrophic flooding along the Nepal-China border, while warning the region remains too dangerous for travelers.",
-      "url": "https://www.foxnews.com/world/70-americans-still-unaccounted-catastrophic-nepal-flooding",
-      "published": "Tue, 08 Sep 2026 15:53:48 -0400",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -673,9 +673,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Saudi Arabia faces tough choices as Houthis gain in Yemen",
-      "description": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy amid an escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
-      "url": "https://www.dw.com/en/saudi-arabia-faces-tough-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+      "description": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy during its escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
+      "url": "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 15 Sep 2026 14:03:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -914,7 +914,7 @@
     },
     {
       "title": "US confirms it has weapons in space",
-      "description": "The US Space Force justified the weapons deployment by citing its two biggest geopolitical rivals — Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
+      "description": "The Space Force justified the weapons deployment by citing the US's two biggest geopolitical rivals: Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
       "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 15 Sep 2026 11:04:00 GMT",
       "source": "Deutsche Welle",
@@ -963,20 +963,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea",
-      "description": "The search for survivors of a capsized ferry in Indonesia has intensified as 17 ships and aircraft from the military, police and other agencies were deployed",
-      "url": "https://abcnews.com/International/wireStory/indonesia-searches-129-people-missing-after-ferry-capsizes-136414032",
-      "published": "Mon, 14 Sep 2026 06:10:15 -0400",
+      "title": "In parts of Africa, rainmakers face cruel violence by farmers as climate change vexes many",
+      "description": "African rainmakers have long served as spiritual leaders in their communities, performing rituals to implore the deities for rainfall",
+      "url": "https://abcnews.com/International/wireStory/parts-africa-rainmakers-face-cruel-violence-farmers-climate-136452985",
+      "published": "Tue, 15 Sep 2026 02:05:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "In parts of Africa, rainmakers face cruel violence by farmers as climate change vexes many",
-      "description": "African rainmakers have long served as spiritual leaders in their communities, performing rituals to implore the deities for rainfall",
-      "url": "https://abcnews.com/International/wireStory/parts-africa-rainmakers-face-cruel-violence-farmers-climate-136452985",
-      "published": "Tue, 15 Sep 2026 02:05:20 -0400",
+      "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea",
+      "description": "The search for survivors of a capsized ferry in Indonesia has intensified as 17 ships and aircraft from the military, police and other agencies were deployed",
+      "url": "https://abcnews.com/International/wireStory/indonesia-searches-129-people-missing-after-ferry-capsizes-136414032",
+      "published": "Mon, 14 Sep 2026 06:10:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1103,7 +1103,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
       "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
       "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 11:49:33 GMT",
@@ -1344,7 +1344,7 @@
     },
     {
       "title": "The London hospital funded by donors who invested in the slave trade",
-      "description": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls. The Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans. Today, many of those donors are commemorated in acrylic gold paint on the boards. Continue reading...",
+      "description": "Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls. The Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans. Today, many of those donors are commemorated in acrylic gold paint on the boards. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
       "published": "Mon, 14 Sep 2026 13:00:58 GMT",
       "source": "The Guardian World",
@@ -1388,16 +1388,6 @@
       "url": "https://abcnews.com/International/wireStory/electric-mobility-brings-africas-energy-transition-wild-136413194",
       "published": "Mon, 14 Sep 2026 07:30:33 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Georgia killer who murdered two suburban real estate agents faces execution after 23-year wait for justice",
-      "description": "Lori Brown's mother recalls the 2003 Powder Springs murders of two real estate agents as Stacey Ian Humphreys' Georgia execution date nears.",
-      "url": "https://www.foxnews.com/us/georgia-killer-murdered-two-suburban-real-estate-agents-faces-execution-after-23-year-wait-justice",
-      "published": "Sun, 13 Sep 2026 08:00:15 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1483,6 +1473,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Lindsay Clancy judge indefinitely impounds juror names, citing safety and 'divisive' attention",
+      "description": "Judge William Sullivan sealed juror names in the Lindsay Clancy mistrial case, citing safety concerns and unauthorized identification of jurors.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-judge-indefinitely-impounds-juror-names-citing-safety-divisive-attention",
+      "published": "Tue, 15 Sep 2026 10:28:58 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Lindsay Clancy juror says panel saw case as chance to 'make it better for other women'",
       "description": "A Lindsay Clancy juror says the panel saw the case as a chance to help other women, a stance one trial attorney calls problematic for deliberations.",
       "url": "https://www.foxnews.com/us/lindsay-clancy-juror-says-panel-saw-case-chance-make-it-better-other-women",
@@ -1497,16 +1497,6 @@
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/trump-says-china-spies-us-after-new-report-more-top-headlines",
       "published": "Mon, 14 Sep 2026 07:09:53 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports",
-      "description": "A female passenger on American Airlines Flight 1779 reportedly undressed and performed indecent acts mid-flight, prompting law enforcement at Miami.",
-      "url": "https://www.foxnews.com/us/female-passenger-undresses-american-airlines-flight-engages-indecent-acts-crew-reports",
-      "published": "Sun, 13 Sep 2026 12:00:53 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -2168,6 +2158,16 @@
       "url": "https://www.foxnews.com/us/charlie-kirk-statue-defaced-red-paint-jesus-crossed-out-days-after-1-year-mark-assassination",
       "published": "Sun, 13 Sep 2026 15:28:17 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Europe’s left courts Muslim voters as anti-Israel politics reshape continent",
+      "description": "Europe’s far left is finding common ground with Islamist-linked networks on anti-Israel politics, creating a growing challenge for Jewish communities and voters.",
+      "url": "https://www.foxnews.com/world/europes-left-courts-muslim-voters-anti-israel-politics-reshape-continent",
+      "published": "Tue, 15 Sep 2026 10:08:48 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
