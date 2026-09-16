@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T22:11:46.273467Z",
+  "last_updated": "2026-09-16T22:35:45.546767Z",
   "event_count": 219,
   "events": [
     {
@@ -38,6 +38,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 17:16:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+      "description": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 34,
       "severity_level": "Critical"
@@ -93,18 +103,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "WHO sees 'encouraging signs' in DR Congo Ebola response but says outbreak 'far from over'",
-      "description": "The World Health Organization said Wednesday that the fight against the Ebola outbreak in DR Congo was showing “encouraging signs\" but that the epidemic was \"far from over\". More than 7,000 cases have been reported across seven provinces as of September 11.",
-      "url": "http://www.france24.com/en/africa/20260916-who-sees-encouraging-signs-in-dr-congo-ebola-response-but-says-outbreak-far-from-over",
-      "published": "Wed, 16 Sep 2026 15:29:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
-      "description": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council meets Wednesday to hear the latest updates, including from a civil society representative who said being born as a woman in the country “is a crime”.",
+      "description": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council met Wednesday to hear latest developments, including from a civil society representative who said being born as a woman in the country “is a crime”. Follow full coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168347",
       "published": "Wed, 16 Sep 2026 12:00:00 +0000",
       "source": "UN News",
@@ -263,16 +263,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Former Philippine President Rodrigo Duterte is expected in court in The Hague",
-      "description": "Former Philippine President Rodrigo Duterte has attended a hearing at the International Criminal Court, where he faces charges of crimes against humanity, including murder and attempted murder, related to his so-called war on drugs while in office",
-      "url": "https://abcnews.com/International/wireStory/former-philippine-president-rodrigo-duterte-expected-court-hague-136484626",
-      "published": "Wed, 16 Sep 2026 08:42:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
       "description": "Saudi Arabia accused Yemen’s Houthis on Wednesday of launching an attack on the holy city of Mecca, which the Iran-backed rebels denied. Saudi Arabia, a US ally which has been the target of large-scale Houthi strikes since early September, declared Mecca a “red line” as it slid deeper into the new front of the Iran war.",
       "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
@@ -374,7 +364,7 @@
     },
     {
       "title": "Labor seats get more than 90% of funding distributed under controversial multimillion-dollar grants program",
-      "description": "Guardian Australia analysis adds to concerns over the federal scheme, which is to be the subject of a Senate inquiry Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast Federal Labor seats have received over 90% of funds already awarded in the first five months of a controversial multimillion-dollar grants program, adding to concerns over the scheme’s selection process. The $568m community grants scheme will be the subject of a Senate inquiry after a report by the Centre for Public Integrity last week revealed the scheme favoured projects in notionally Labor-held electorates, including a $6m grant for a golf club in Anthony Albanese’s electorate . Continue reading...",
+      "description": "Guardian Australia analysis adds to concerns over the federal scheme, which is to be the subject of a Senate inquiry Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast Federal Labor seats have received more than 90% of funds already awarded in the first five months of a controversial multimillion-dollar grants program, adding to concerns over the scheme’s selection process. The $568m community grants scheme will be the subject of a Senate inquiry after a report by the Centre for Public Integrity last week revealed the scheme favoured projects in notionally Labor-held electorates, including a $6m grant for a golf club in Anthony Albanese’s electorate . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/16/community-grants-scheme-senate-inquiry-funding-favours-labor",
       "published": "Wed, 16 Sep 2026 15:00:24 GMT",
       "source": "The Guardian World",
@@ -388,6 +378,16 @@
       "url": "https://www.dw.com/en/us-charges-5-people-over-russia-backed-plots/a-79285863?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 16 Sep 2026 10:29:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "US Federal Reserve defies Trump with interest rate hike",
+      "description": "The US Federal Reserve has raised its key interest rates for the first time in three years, as it seeks to bring down high inflation. The policy decision sets up a potential confrontation between Chairman Kevin Warsh and President Donald Trump, who has repeatedly called on the central bank to cut interest rates. Also in the show - France extends fuel subsidies as fishermens' protests gather momentum, and Hong Kong seeks to fall in line with Beijing's economic vision.",
+      "url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
+      "published": "Wed, 16 Sep 2026 21:38:45 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -503,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-      "description": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "published": "Mon, 14 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Injured Louisiana boy hailed a 'superhero' for seeking help during deadly stabbing rampage",
       "description": "A 6-year-old Houma, Louisiana, boy fled to a neighbor's door after a mass stabbing that killed four Verret family members before passing out inside.",
       "url": "https://www.foxnews.com/us/injured-louisiana-boy-hailed-superhero-seeking-help-deadly-stabbing-rampage",
@@ -566,7 +556,7 @@
       "title": "Australian politics live: Labor says people with child support debts to be banned from leaving Australia; Burke to reveal new immigration rules",
       "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting. Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. He [Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony – Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club … What I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing. I will be watching this with absolute fascination and some trepidation, and I’ll be waiting for Jim Chalmers to explain his new budget. I was on polling booths with my colleagues like Sally Sitou . I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physically talking to or giving information to voters. I would think secretly paying known rightwing figures to disrupt events and pretend that they are just disgruntled citizens having their say is certainly immoral, if it’s not illegal. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-      "published": "Wed, 16 Sep 2026 22:04:51 GMT",
+      "published": "Wed, 16 Sep 2026 22:16:36 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -578,16 +568,6 @@
       "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 16 Sep 2026 18:24:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "In conversation with artist Nora Chipaumire",
-      "description": "Between dance, installation work, music making and more, artist Nora Chipaumire brings her ideas to Paris, hosted by the Résidence Tallard. Chipaumire is also leading performances and workshops at the Festival d'Automne, a contemporary arts festival in the French capital. At the heart of her work, she tells FRANCE 24, is a will to \"shift the world into a much more positive, joyful\" and equitable place.",
-      "url": "http://www.france24.com/en/in-conversation-with-artist-nora-chipaumire-1",
-      "published": "Wed, 16 Sep 2026 15:19:36 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -833,31 +813,21 @@
       "severity_level": "High"
     },
     {
+      "title": "Encouraging signs in DR Congo Ebola fight",
+      "description": "In tonight's edition, signs of a welcome slowdown in DR Congo's Ebola outbreak. Also, about 20,000 Ethiopian university students in the northern region of Tigray will be relocated to other campuses across the country. And in northern Senegal, scientists are using fish to keep their food stoicks and communtites healthy.",
+      "url": "http://www.france24.com/en/encouraging-signs-in-dr-congo-ebola-fight",
+      "published": "Wed, 16 Sep 2026 20:42:27 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump administration plans to send powerful bombs to Israel in $2.8 billion weapons sale",
       "description": "The Trump administration is planning to deliver powerful 2,000-pound bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago. France 24's Philip Turle tells us more.",
       "url": "http://www.france24.com/en/video/20260916-trump-administration-plans-to-send-powerful-bombs-to-israel-in-2-8-billion-weapons-sale",
       "published": "Wed, 16 Sep 2026 15:45:44 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Sanders, Bannon warn of AI dangers in rare US left-right alignment",
-      "description": "Left-wing US Senator Bernie Sanders and Steve Bannon, a former adviser to President Donald Trump, warned against the dangers of artificial intelligence and its promoters on Tuesday, a sign that growing AI concern is scrambling political lines. we discuss that with our guest Bernard Benhamou, secretary general, Institute of digital soreignty.",
-      "url": "http://www.france24.com/en/video/20260916-sanders-bannon-warn-of-ai-dangers-in-rare-us-left-right-alignment",
-      "published": "Wed, 16 Sep 2026 15:19:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Sudan president fires head of electoral body months before first election",
-      "description": "South Sudan President Salva Kiir has announced the head of the electoral body was removed from the position just three months before the country’s first election",
-      "url": "https://abcnews.com/International/wireStory/south-sudan-president-fires-head-electoral-body-months-136491063",
-      "published": "Wed, 16 Sep 2026 08:42:35 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1063,6 +1033,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Russia touts candidates who fought in Ukraine for its wartime parliamentary election",
+      "description": "Nearly 200 men who took part in the war in Ukraine are among the candidates for this week’s parliamentary election in Russia",
+      "url": "https://abcnews.com/International/wireStory/russia-touts-candidates-fought-ukraine-wartime-parliamentary-election-136483924",
+      "published": "Wed, 16 Sep 2026 03:22:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Hague court to deliver verdict in war crimes trial of Kosovo’s former President Thaci",
       "description": "A European Union-backed court has convicted former Kosovo President Hashim Thaci of four counts of war crimes during Kosovo's war for independence from Serbia",
       "url": "https://abcnews.com/International/wireStory/hague-court-deliver-verdict-war-crimes-trial-kosovos-136484817",
@@ -1073,10 +1053,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia touts candidates who fought in Ukraine for its wartime parliamentary election",
-      "description": "Nearly 200 men who took part in the war in Ukraine are among the candidates for this week’s parliamentary election in Russia",
-      "url": "https://abcnews.com/International/wireStory/russia-touts-candidates-fought-ukraine-wartime-parliamentary-election-136483924",
-      "published": "Wed, 16 Sep 2026 03:22:18 -0400",
+      "title": "In parts of Africa, rainmakers face cruel violence by farmers as climate change vexes many",
+      "description": "African rainmakers have long served as spiritual leaders in their communities, performing rituals to implore the deities for rainfall",
+      "url": "https://abcnews.com/International/wireStory/parts-africa-rainmakers-face-cruel-violence-farmers-climate-136452985",
+      "published": "Tue, 15 Sep 2026 02:05:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1183,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US interest rates raised for first time in three years",
-      "description": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 21:02:11 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US limits visas for South African officials over alleged anti-white discrimination",
       "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
       "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
@@ -1203,7 +1173,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US removes Venezuela from list of drug transit, production countries",
+      "title": "US removes Venezuela from drug list, Trump says",
       "description": "Trump says the country has made progress against narcotics since Maduro's removal, may also remove Colombia and Bolivia.",
       "url": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
       "published": "Wed, 16 Sep 2026 20:53:02 +0000",
@@ -1273,16 +1243,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Belarus frees 25 prisoners in exchange for the US lifting some sanctions, envoy says",
-      "description": "The U.S. special envoy for Belarus says that the country’s authorities have agreed to release 25 prisoners as part of a deal that includes the lifting of U.S. sanctions against some Belarusian companies",
-      "url": "https://abcnews.com/International/wireStory/belarus-frees-25-prisoners-exchange-us-lifting-sanctions-136490057",
-      "published": "Wed, 16 Sep 2026 08:42:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Taxpayer funds meant for LA homeless allegedly spent on Tahiti trip, nightclub, luxury cars: feds",
       "description": "Three defendants face federal charges in a Los Angeles homeless services fraud crackdown involving alleged wire fraud, bribery and money laundering.",
       "url": "https://www.foxnews.com/us/taxpayer-funds-meant-la-homeless-allegedly-spent-tahiti-trip-nightclub-luxury-cars-feds",
@@ -1333,20 +1293,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "EU plans new firefighting fleet after deadly summer heat wave",
-      "description": "European Commission President Ursula von der Leyen says a scorching summer has shown the EU needs new tools to tackle climate change",
-      "url": "https://abcnews.com/International/wireStory/eu-plans-new-firefighting-fleet-after-deadly-summer-136486778",
-      "published": "Wed, 16 Sep 2026 07:21:05 -0400",
+      "title": "Police detain dozens at an Istanbul courthouse protest over LGBTQ+ crackdown",
+      "description": "Police have detained dozens of demonstrators outside a courthouse in Istanbul",
+      "url": "https://abcnews.com/International/wireStory/police-detain-dozens-istanbul-courthouse-protest-lgbtq-crackdown-136462233",
+      "published": "Wed, 16 Sep 2026 00:10:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Police detain dozens at an Istanbul courthouse protest over LGBTQ+ crackdown",
-      "description": "Police have detained dozens of demonstrators outside a courthouse in Istanbul",
-      "url": "https://abcnews.com/International/wireStory/police-detain-dozens-istanbul-courthouse-protest-lgbtq-crackdown-136462233",
-      "published": "Wed, 16 Sep 2026 00:10:22 -0400",
+      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
+      "description": "NATO says its fighter jets have shot down a drone that entered Lithuanian airspace",
+      "url": "https://abcnews.com/International/wireStory/nato-jets-shoot-drone-lithuania-russian-ship-fires-136454318",
+      "published": "Wed, 16 Sep 2026 02:05:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1428,6 +1388,26 @@
       "url": "https://www.dw.com/en/germany-news-conservative-state-premiers-rally-behind-merz/live-79289786?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 16 Sep 2026 11:14:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+      "description": "Ed Sheeran's tour of North and South America has been roiled by the decision this week to drop Macklemore as an opener because of the rapper's onstage pro-Palestinian comments. Since then, all of Sheeran's other supporting acts have dropped out, including a group that plays with Sheeran during part of the show. FRANCE 24's Monte Francis speaks with David Jackson, Professor of Political Science at Bowling Green State University.",
+      "url": "http://www.france24.com/en/tv-shows/a-propos/20260916-ed-sheeran-s-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore",
+      "published": "Wed, 16 Sep 2026 21:33:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+      "description": "Ed Sheeran's tour of North and South America has been roiled by the decision this week to drop Macklemore as an opener because of the rapper's onstage pro-Palestinian comments. Since then, all of Sheeran's other supporting acts have dropped out, including a group that plays with Sheeran during part of the show. FRANCE 24's Monte Francis speaks with David Jackson, Professor of Political Science at Bowling Green State University.",
+      "url": "http://www.france24.com/en/ed-sheeran-s-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore",
+      "published": "Wed, 16 Sep 2026 21:31:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1517,16 +1497,6 @@
       "description": "Sweden's centre-left opposition has defeated the incumbent right-wing governing bloc by the slimmest of margins, public broadcaster ​SVT ‌said on Wednesday, after 99% ⁠of the votes in Sunday's parliamentary election had been counted. FRANCE 24's Paul Rhys reports.",
       "url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says",
       "published": "Wed, 16 Sep 2026 19:21:05 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Marie-Antoinette: France’s last queen and first influencer?",
-      "description": "This year, several French landmarks are paying tribute to France’s last queen, Marie-Antoinette. Despite her public execution taking place more than 230 years ago, the monarch continues to fascinate both at home and abroad. Our reporters dive into the reasons behind the lasting interest and explore why she could be considered France’s first influencer.",
-      "url": "http://www.france24.com/en/tv-shows/france-in-focus/20260916-marie-antoinette-france-s-last-queen-and-first-influencer",
-      "published": "Wed, 16 Sep 2026 15:29:38 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 3,
@@ -1623,6 +1593,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "US interest rates raised for first time in three years",
+      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 22:16:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "EU chief backs plan for Canada to become 'associate member'",
       "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
       "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
@@ -1683,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+      "description": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 22:18:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Displaced Syrians dig through hills of garbage to make a living",
       "description": "Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
@@ -1737,16 +1727,6 @@
       "description": "Trump administration falling for misinformation from 'fringe groups' alleging discrimination against white Afrikaners.",
       "url": "https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss",
       "published": "Wed, 16 Sep 2026 17:13:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Neturei Karta: Opposing Zionism",
-      "description": "Inside Neturei Karta, the ultra-Orthodox Jewish group that rejects Zionism, supports Palestinians fighting occupation.",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2023,30 +2003,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Argentine judge orders halt to Falklands oil project as tensions with Britain rise",
-      "description": "An Argentine judge has ordered British and Israeli companies to stop developing an oilfield off the British-controlled Falkland Islands",
-      "url": "https://abcnews.com/International/wireStory/argentine-judge-orders-halt-falklands-oil-project-tensions-136508108",
-      "published": "Wed, 16 Sep 2026 17:18:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites",
-      "description": "The Trump administration has announced that it will impose travel bans on officials it claims are responsible for discrimination against whites and other minority groups in South Africa",
-      "url": "https://abcnews.com/International/wireStory/trump-administration-hits-south-africa-new-sanctions-alleged-136487689",
-      "published": "Wed, 16 Sep 2026 07:21:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Former Muslim rebels lead results in first election held in southern Philippine region",
-      "description": "Candidates from two rival parties linked to a former rebel group have led the first elections in a predominantly Muslim region in the southern Philippines",
-      "url": "https://abcnews.com/International/wireStory/former-muslim-rebels-lead-results-election-held-southern-136485281",
-      "published": "Wed, 16 Sep 2026 08:49:06 -0400",
+      "title": "Indigenous leader Raoni receives palliative care in Brazil after cancer diagnosis",
+      "description": "Renowned Indigenous Chief Raoni Metuktire is receiving palliative care at home in the Brazilian heartland after being diagnosed with cancer at age 94, his institute says",
+      "url": "https://abcnews.com/International/wireStory/indigenous-leader-raoni-receives-palliative-care-brazil-after-136446486",
+      "published": "Tue, 15 Sep 2026 02:09:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2063,20 +2023,60 @@
       "severity_level": "Low"
     },
     {
-      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
-      "description": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168337",
-      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "title": "Former Muslim rebels lead results in first election held in southern Philippine region",
+      "description": "Candidates from two rival parties linked to a former rebel group have led the first elections in a predominantly Muslim region in the southern Philippines",
+      "url": "https://abcnews.com/International/wireStory/former-muslim-rebels-lead-results-election-held-southern-136485281",
+      "published": "Wed, 16 Sep 2026 08:49:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Argentine judge orders halt to Falklands oil project as tensions with Britain rise",
+      "description": "An Argentine judge has ordered British and Israeli companies to stop developing an oilfield off the British-controlled Falkland Islands",
+      "url": "https://abcnews.com/International/wireStory/argentine-judge-orders-halt-falklands-oil-project-tensions-136508108",
+      "published": "Wed, 16 Sep 2026 17:18:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Thailand and Cambodia begin UN conciliation process over disputed maritime claims",
+      "description": "Thailand and Cambodia started talks Tuesday to resolve a sea border dispute under a U.N. maritime law agreement",
+      "url": "https://abcnews.com/International/wireStory/thailand-cambodia-begin-conciliation-process-disputed-maritime-claims-136453110",
+      "published": "Tue, 15 Sep 2026 02:06:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "As the last US troops pack up in Iraq, militias signal their weapons will stay",
+      "description": "Iraq faces two major deadlines at the end of September",
+      "url": "https://abcnews.com/International/wireStory/us-troops-pack-iraq-militias-signal-weapons-stay-136452987",
+      "published": "Tue, 15 Sep 2026 02:04:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Repression continues in Venezuela in the face of ‘appalling’ human rights violations",
+      "description": "In Venezuela’s El Rodeo maximum security prison, some of those detained for political reasons are subject to forced intubation – and prolonged confinement in a sealed underground cistern.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168351",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
-      "description": "Voluntary self-regulation by companies developing frontier artificial intelligence (AI) is “nowhere near sufficient” to address existing harms and prevent advanced autonomous AI models from circumventing human safeguards, UN human rights chief Volker Türk wrote on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168326",
-      "published": "Mon, 14 Sep 2026 12:00:00 +0000",
+      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+      "description": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 1,
