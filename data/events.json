@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:11:08.359079Z",
+  "last_updated": "2026-09-16T17:35:43.404154Z",
   "event_count": 221,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "description": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 13:28:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -40,6 +30,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 17:16:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -273,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Former Philippine President Rodrigo Duterte is expected in court in The Hague",
+      "description": "Former Philippine President Rodrigo Duterte has attended a hearing at the International Criminal Court, where he faces charges of crimes against humanity, including murder and attempted murder, related to his so-called war on drugs while in office",
+      "url": "https://abcnews.com/International/wireStory/former-philippine-president-rodrigo-duterte-expected-court-hague-136484626",
+      "published": "Wed, 16 Sep 2026 08:42:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Iran's regime came for teenage twins. Their fate offers a glimpse of Tehran's widening death campaign",
       "description": "Iranian twins Taraneh and Romina Rahimi face execution and decades in prison after joining protests, as Iran's death penalty surge draws global alarm.",
       "url": "https://www.foxnews.com/world/irans-regime-came-teenage-twins-fate-offers-glimpse-tehrans-widening-death-campaign",
@@ -288,16 +298,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 09:49:48 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-      "description": "Djibouti's interior minister has warned that number of people arriving in the country already exceeds national capacity.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 15:16:07 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -343,16 +343,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
-      "description": "Dozens of artisanal miners have been killed after a series of adjoining mining shafts collapsed.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 13:15:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
       "description": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide. When Elizabeth “Tsontso” Moselakgomo did not return after going for a run on 9 September, her eight-year-old daughter alerted relatives, who contacted police. The 38-year-old’s body was found on Saturday and identified by relatives on Monday. The news of her disappearance had gone viral. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
@@ -360,6 +350,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
+      "description": "More than 2,500 Yemenis have arrived since last week, with Djibouti warning the number could rise to 10,000.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 15:16:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -683,16 +683,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Investigation launched by police after British man dies in Sicily",
-      "description": "The death of a British man whose body was found in Sicily on Sunday is under investigation, Italian authorities said.",
-      "url": "https://news.sky.com/story/investigation-launched-by-italian-police-after-british-man-dies-in-sicily-13586283",
-      "published": "Tue, 15 Sep 2026 19:12:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
       "description": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
@@ -883,6 +873,16 @@
       "severity_level": "High"
     },
     {
+      "title": "South Sudan president fires head of electoral body months before first election",
+      "description": "South Sudan President Salva Kiir has announced the head of the electoral body was removed from the position just three months before the country’s first election",
+      "url": "https://abcnews.com/International/wireStory/south-sudan-president-fires-head-electoral-body-months-136491063",
+      "published": "Wed, 16 Sep 2026 08:42:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Escalating conflict drives new displacement in Yemen",
       "description": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168339",
@@ -1043,16 +1043,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
-      "description": "China says the US-Israel war on Iran highlights flaws in the Middle East's 'existing security architecture'.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 13:09:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1113,30 +1103,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia touts candidates who fought in Ukraine for its wartime parliamentary election",
-      "description": "Nearly 200 men who took part in the war in Ukraine are among the candidates for this week’s parliamentary election in Russia",
-      "url": "https://abcnews.com/International/wireStory/russia-touts-candidates-fought-ukraine-wartime-parliamentary-election-136483924",
-      "published": "Wed, 16 Sep 2026 03:22:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "In parts of Africa, rainmakers face cruel violence by farmers as climate change vexes many",
-      "description": "African rainmakers have long served as spiritual leaders in their communities, performing rituals to implore the deities for rainfall",
-      "url": "https://abcnews.com/International/wireStory/parts-africa-rainmakers-face-cruel-violence-farmers-climate-136452985",
-      "published": "Tue, 15 Sep 2026 02:05:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Hague court to deliver verdict in war crimes trial of Kosovo’s former President Thaci",
       "description": "A European Union-backed court has convicted former Kosovo President Hashim Thaci of four counts of war crimes during Kosovo's war for independence from Serbia",
       "url": "https://abcnews.com/International/wireStory/hague-court-deliver-verdict-war-crimes-trial-kosovos-136484817",
       "published": "Wed, 16 Sep 2026 08:42:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia touts candidates who fought in Ukraine for its wartime parliamentary election",
+      "description": "Nearly 200 men who took part in the war in Ukraine are among the candidates for this week’s parliamentary election in Russia",
+      "url": "https://abcnews.com/International/wireStory/russia-touts-candidates-fought-ukraine-wartime-parliamentary-election-136483924",
+      "published": "Wed, 16 Sep 2026 03:22:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1253,6 +1233,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Can the US government punish a university for boycotting Israel?",
+      "description": "The US House passed a bill that could cut universities off from federal student aid if they boycott Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/can-the-us-government-punish-a-university-for-boycotting-israel?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 16:57:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
+      "description": "Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 16:39:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Why are election officials in the US preparing for chaos before midterms?",
       "description": "Trump lashes out at justices who rejected his federal mail ballot plan, raising questions on his next electoral moves.",
       "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
@@ -1333,6 +1333,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Belarus frees 25 prisoners in exchange for the US lifting some sanctions, envoy says",
+      "description": "The U.S. special envoy for Belarus says that the country’s authorities have agreed to release 25 prisoners as part of a deal that includes the lifting of U.S. sanctions against some Belarusian companies",
+      "url": "https://abcnews.com/International/wireStory/belarus-frees-25-prisoners-exchange-us-lifting-sanctions-136490057",
+      "published": "Wed, 16 Sep 2026 08:42:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Japan loses contact with a surveillance drone off the country's northwestern coast",
       "description": "Japan's air force has lost contact with one of its surveillance drones during a flight off the northwestern coast",
       "url": "https://abcnews.com/International/wireStory/japan-loses-contact-surveillance-drone-off-countrys-northwestern-136454707",
@@ -1343,20 +1353,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Steel Across America ends its cross-country 9/11 memorial at NY Giants game",
+      "description": "Tunnel to Towers' Steel Across America tour carried a 16,900-pound South Tower beam across 38 stops before its emotional finale at MetLife Stadium.",
+      "url": "https://www.foxnews.com/us/steel-across-america-ends-cross-country-911-memorial-ny-giants-game",
+      "published": "Wed, 16 Sep 2026 13:27:57 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
       "description": "Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.",
       "url": "https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss",
       "published": "Wed, 16 Sep 2026 16:35:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
-      "description": "From aboard a Djiboutian naval vessel in the Bab al-Mandeb Strait, an Al Jazeera team is monitoring the situation.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 13:23:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1384,10 +1394,20 @@
     },
     {
       "title": "British soldier who died in road crash in Ukraine has been named",
-      "description": "The Ministry of Defence has named Major Paul Wilks as the UK armed forces member who died in Ukraine over the weekend.",
+      "description": "The British armed forces member who died in Ukraine over the weekend has been named as Major Paul Wilks.",
       "url": "https://news.sky.com/story/british-soldier-who-died-in-road-crash-in-ukraine-has-been-named-13585867",
       "published": "Wed, 16 Sep 2026 14:10:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "EU plans new firefighting fleet after deadly summer heat wave",
+      "description": "European Commission President Ursula von der Leyen says a scorching summer has shown the EU needs new tools to tackle climate change",
+      "url": "https://abcnews.com/International/wireStory/eu-plans-new-firefighting-fleet-after-deadly-summer-136486778",
+      "published": "Wed, 16 Sep 2026 07:21:05 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1403,31 +1423,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
-      "description": "NATO says its fighter jets have shot down a drone that entered Lithuanian airspace",
-      "url": "https://abcnews.com/International/wireStory/nato-jets-shoot-drone-lithuania-russian-ship-fires-136454318",
-      "published": "Wed, 16 Sep 2026 02:05:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
       "description": "Poor management of toxic chemicals and hazardous waste threatens “many, if not all, human rights,” the newly appointed independent human rights independent expert on the rising threat told the Human Rights Council on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168329",
       "published": "Mon, 14 Sep 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Seven noncitizens charged in North Texas election-integrity investigation",
-      "description": "The charges come as the Trump administration expands its election-integrity efforts.",
-      "url": "https://www.foxnews.com/us/seven-noncitizens-charged-in-north-texas-election-integrity-investigation",
-      "published": "Tue, 15 Sep 2026 16:14:47 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1473,9 +1473,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "16 months after he became chancellor, Germans are asking whether Friedrich Merz is right for the job",
+      "title": "Chancellor Merz seeks CDU support as AfD encroaches",
       "description": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
-      "url": "https://www.dw.com/en/16-months-after-he-became-chancellor-germans-are-asking-whether-friedrich-merz-is-right-for-the-job/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-as-afd-encroaches/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 16 Sep 2026 16:50:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1603,6 +1603,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Real Madrid defend players' freedom of expression after Mbappe and Vinicius' shirt stance",
+      "description": "Real Madrid have defended their players' right to have differing views after Kylian Mbappe and Vinicius Junior became embroiled in a debate in Spain about migration.",
+      "url": "https://news.sky.com/story/real-madrid-defend-players-freedom-of-expression-after-mbappe-and-vinicius-ceuta-shirt-stance-13588628",
+      "published": "Wed, 16 Sep 2026 15:50:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fellow vet remembers late Army paratrooper who helped Fox News reporter, Afghans and Helene victims: 'Send me'",
+      "description": "Army veteran Sean Michael Lee served with the 82nd Airborne Division and later helped evacuate allies from Afghanistan and set up aid stations in Poland.",
+      "url": "https://www.foxnews.com/us/fellow-vet-remembers-late-army-paratrooper-helped-fox-news-reporter-afghans-helene-victims-send-me",
+      "published": "Wed, 16 Sep 2026 13:29:43 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
       "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
       "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
@@ -1618,6 +1638,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 09:33:40 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
+      "description": "New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 16:45:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1693,6 +1723,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Neturei Karta: Opposing Zionism",
+      "description": "Inside Neturei Karta, the ultra-Orthodox Jewish group that rejects Zionism, supports Palestinians fighting occupation.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
       "description": "The three footballers partially covered up a slogan in solidarity with Ceuta worn by the rest of their teams.",
       "url": "https://www.aljazeera.com/sports/2026/9/16/mbappe-vinicius-and-konate-court-controversy-with-ceuta-solidarity-shirts?traffic_source=rss",
@@ -1747,16 +1787,6 @@
       "description": "Supporting acts of Sheeran's US tour have quit in solidarity with Macklemore, banned for saying 'Free Palestine'.",
       "url": "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss",
       "published": "Wed, 16 Sep 2026 13:27:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU chief von der Leyen proposes ‘associate member’ status for Canada",
-      "description": "Prime Minister Mark Carney said earlier this week that Canada was seeking a 'unique alliance' with the European Union.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss",
-      "published": "Wed, 16 Sep 2026 13:18:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2023,20 +2053,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Indigenous leader Raoni receives palliative care in Brazil after cancer diagnosis",
-      "description": "Renowned Indigenous Chief Raoni Metuktire is receiving palliative care at home in the Brazilian heartland after being diagnosed with cancer at age 94, his institute says",
-      "url": "https://abcnews.com/International/wireStory/indigenous-leader-raoni-receives-palliative-care-brazil-after-136446486",
-      "published": "Tue, 15 Sep 2026 02:09:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
-      "description": "A South Korean court has ruled that North Korea should pay the South 44.6 billion won, or about $32.5 million, for blowing up a joint liaison office between the countries in 2020",
-      "url": "https://abcnews.com/International/wireStory/south-korean-court-orders-north-korea-pay-325-136482853",
-      "published": "Wed, 16 Sep 2026 03:22:22 -0400",
+      "title": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites",
+      "description": "The Trump administration has announced that it will impose travel bans on officials it claims are responsible for discrimination against whites and other minority groups in South Africa",
+      "url": "https://abcnews.com/International/wireStory/trump-administration-hits-south-africa-new-sanctions-alleged-136487689",
+      "published": "Wed, 16 Sep 2026 07:21:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,20 +2073,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Thailand and Cambodia begin UN conciliation process over disputed maritime claims",
-      "description": "Thailand and Cambodia started talks Tuesday to resolve a sea border dispute under a U.N. maritime law agreement",
-      "url": "https://abcnews.com/International/wireStory/thailand-cambodia-begin-conciliation-process-disputed-maritime-claims-136453110",
-      "published": "Tue, 15 Sep 2026 02:06:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "As the last US troops pack up in Iraq, militias signal their weapons will stay",
-      "description": "Iraq faces two major deadlines at the end of September",
-      "url": "https://abcnews.com/International/wireStory/us-troops-pack-iraq-militias-signal-weapons-stay-136452987",
-      "published": "Tue, 15 Sep 2026 02:04:10 -0400",
+      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
+      "description": "A South Korean court has ruled that North Korea should pay the South 44.6 billion won, or about $32.5 million, for blowing up a joint liaison office between the countries in 2020",
+      "url": "https://abcnews.com/International/wireStory/south-korean-court-orders-north-korea-pay-325-136482853",
+      "published": "Wed, 16 Sep 2026 03:22:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2127,16 +2137,6 @@
       "description": "Lindsay Clancy's defense team adds Martin Weinberg, the attorney who fought Karen Read's retrial, to argue double jeopardy bars a second trial.",
       "url": "https://www.foxnews.com/us/lindsay-clancy-hires-karen-read-attorney-high-stakes-double-jeopardy-fight-after-murder-mistrial",
       "published": "Tue, 15 Sep 2026 18:49:12 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lindsay Clancy holdout juror ‘looked at the case and he made the call,’ his brother says",
-      "description": "The brother of the lone holdout juror in the Lindsay Clancy murder trial says religion had nothing to do with the decision that led to a mistrial.",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-looked-case-made-call-brother-says",
-      "published": "Tue, 15 Sep 2026 12:09:53 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
