@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T10:37:53.804358Z",
+  "last_updated": "2026-09-18T11:11:31.439166Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+      "description": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:33:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -216,7 +226,7 @@
       "title": "Three dead and eight injured in Philippines school shooting",
       "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:04:43 GMT",
+      "published": "Fri, 18 Sep 2026 11:01:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -224,9 +234,9 @@
     },
     {
       "title": "At least 16 killed in attack on mosque in Pakistan",
-      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC.",
+      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
       "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:13:02 GMT",
+      "published": "Fri, 18 Sep 2026 10:39:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -263,16 +273,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Rising gas prices fuel protests in countries around the world",
-      "description": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971275/rising-gas-prices-fuel-protests-in-countries-around-the-world",
-      "published": "Thu, 17 Sep 2026 04:44:51 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Russian attack on Ukraine's capital injures at least 16",
       "description": "A Russian missile and drone attack on Kyiv and its surrounding region has injured at least 19 people, including children",
       "url": "https://abcnews.com/International/wireStory/russian-attack-ukraines-capital-injures-16-136518271",
@@ -303,11 +303,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 37 suspected illegal miners die in custody in central Nigeria",
-      "description": "Nigerian authorities launched an investigation Thursday after 37 suspected illegal miners died in a civil defence detention facility in central Niger state, with conflicting accounts blaming either a disease outbreak or overcrowding and poor ventilation.",
-      "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
-      "published": "Fri, 18 Sep 2026 00:27:53 GMT",
-      "source": "France24",
+      "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+      "description": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+      "published": "Fri, 18 Sep 2026 06:39:14 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -370,6 +370,26 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nigeria: Protests erupt over deaths of 37 miners in custody",
+      "description": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports cite overcrowding and poor ventilation.",
+      "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 18 Sep 2026 11:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "How will rise of AI impact Africa?",
+      "description": "The threat of catastrophic danger as artificial intelligence develops at high speed has sparked a global debate on how it should be regulated. And Africa is no exception. As governments and businesses look to harness the technology, concerns are growing over jobs, misinformation and the need for safeguards.",
+      "url": "https://www.france24.com/en/video/20260918-how-will-rise-of-ai-impact-africa",
+      "published": "Fri, 18 Sep 2026 11:06:44 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -443,6 +463,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israel is killing the people who could end its wars",
+      "description": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:29:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
       "description": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday. Banji Ajaka, Ondo state’s commissioner for health, said the cases had been reported in the Odigbo and Irele local government areas. A total of 182 people are believed to have been affected and some are being treated in the hospital, he said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
@@ -458,6 +488,16 @@
       "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 17 Sep 2026 23:48:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "The Cameroon civil society groups taking on gender-based violence",
+      "description": "August 2026 has been a particularly tragic month for women in Cameroon, as eight cases of femicides were recorded in eight days. These figures add to the sixty or so cases already recorded since the start of the year by the Ministry of Women's Empowerment and the Family. On the ground, associations are mobilising to provide legal and psychological support to families in a country where a complaint of domestic violence rarely leads to a conviction. Indira Ayuk, Richard and Giresse Ngaana report from Yaoundé.",
+      "url": "https://www.france24.com/en/video/20260918-the-cameroon-civil-society-groups-taking-on-gender-based-violence",
+      "published": "Fri, 18 Sep 2026 10:54:56 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -603,6 +643,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ukraine fires drone barrage as Russia launches elections",
+      "description": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:28:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
       "description": "Officials blame disease outbreak for deaths as survivor suggests they suffocated.",
       "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss",
@@ -743,6 +793,16 @@
       "severity_level": "High"
     },
     {
+      "title": "British man detained in India for nearly nine years 'granted bail'",
+      "description": "A British man who has been detained in India for nearly nine years without conviction has been granted bail - but still faces trial over alleged terror offences.",
+      "url": "https://news.sky.com/story/british-man-granted-bail-after-being-detained-in-india-for-nearly-nine-years-13589212",
+      "published": "Fri, 18 Sep 2026 09:47:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Heavy rain and floods in northern Vietnam submerge homes and disrupt economy",
       "description": "Heavy rain has caused widespread flooding across northern Vietnam",
       "url": "https://abcnews.com/International/wireStory/heavy-rain-floods-northern-vietnam-submerge-homes-disrupt-136519818",
@@ -783,6 +843,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 10:35:59 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "China’s porcelain city carries centuries-old heritage to a new generation",
       "description": "China’s Jingdezhen porcelain sites were inscribed on UNESCO’s World Heritage List in 2026",
       "url": "https://abcnews.com/International/wireStory/chinas-porcelain-city-carries-centuries-heritage-new-generation-136514289",
@@ -803,10 +873,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
-      "description": "A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 05:03:29 +0000",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:14:57 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+      "description": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:49:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -933,18 +1013,18 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "source": "BBC News",
+      "title": "United Nations says US may have committed war crimes in Iran: What it means",
+      "description": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:43:18 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
       "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
-      "description": "This is a breaking news story.",
+      "description": "Attack not immediately claimed, but ISIL and Pakistan Taliban (TTP) active in the region and regularly target troops.",
       "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
       "published": "Fri, 18 Sep 2026 10:18:43 +0000",
       "source": "Al Jazeera",
@@ -967,16 +1047,6 @@
       "description": "Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.",
       "url": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
       "published": "Fri, 18 Sep 2026 06:45:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-      "description": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 05:23:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1253,16 +1323,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nigeria: At least 37 suspected illegal miners die in custody",
-      "description": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports cite overcrowding and poor ventilation.",
-      "url": "https://www.dw.com/en/nigeria-at-least-37-suspected-illegal-miners-die-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 18 Sep 2026 03:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russian birth tourism to Brazil increases",
       "description": "Since Russia's full-scale invasion of Ukraine and stricter regulations in Argentina, more and more Russians are choosing to travel to Brazil to give birth to children, who will obtain Brazilian nationality.",
       "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-all-1573-xml-mrss",
@@ -1283,20 +1343,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
-      "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
-      "url": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
-      "published": "Thu, 17 Sep 2026 08:50:21 -0400",
+      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
+      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
+      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
+      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
     },
     {
-      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
-      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
-      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
-      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
+      "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
+      "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
+      "url": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
+      "published": "Thu, 17 Sep 2026 08:50:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1323,6 +1383,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+      "description": "Asian Games organisers in Japan accidently play North Korea's anthem ahead of South's hockey match with Bangladesh.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 10:59:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
       "description": "Harry Kane could become first Ballon d'Or from England since 2001, but striker focused on Bayern Munich trophies.",
       "url": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
@@ -1337,16 +1407,6 @@
       "description": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
       "url": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
       "published": "Fri, 18 Sep 2026 09:10:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
-      "description": "A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 05:26:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1443,16 +1503,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Juror who blocked Lindsay Clancy verdict disputes fellow jurors' claims: report",
-      "description": "Michael Desronvil, the holdout Lindsay Clancy juror, disputes fellow jurors' claims he expressed doubts about the prosecution's case during deliberations.",
-      "url": "https://www.foxnews.com/us/juror-who-blocked-lindsay-clancy-verdict-disputes-fellow-jurors-claims-report",
-      "published": "Thu, 17 Sep 2026 21:44:13 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Plane passengers scream in harrowing mid-flight video as violent shaking sends cabin ceiling panels flying",
       "description": "A Sepehran Airlines flight in Iran carrying 127 passengers and crew returned to the airport after a reported tire blowout and possible engine damage.",
       "url": "https://www.foxnews.com/world/plane-passengers-scream-harrowing-mid-flight-video-violent-shaking-sends-cabin-ceiling-panels-flying",
@@ -1493,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
-      "description": "A prized 16th-century manuscript chronicling the rise and fall of the Aztec Empire has gone on display in Mexico City, nearly two centuries after it was taken to France, as Mexico continues to press Paris for its permanent return.",
-      "url": "https://www.france24.com/en/americas/20260917-rare-aztec-manuscript-returns-to-mexico-on-loan-after-nearly-two-centuries-in-france",
-      "published": "Thu, 17 Sep 2026 22:56:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Family member of lawyer who coined 'genocide' seeks to strip name from group accusing Israel of atrocity",
       "description": "A relative of \"genocide\" term creator Raphael Lemkin wants a Pennsylvania nonprofit to drop the family name over its accusations against Israel. The institute defends its mission and name.",
       "url": "https://www.foxnews.com/world/family-member-lawyer-who-coined-genocide-seeks-strip-name-from-group-accusing-israel-atrocity",
@@ -1513,10 +1553,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+      "title": "New wild cat species discovered - with only one known living member",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:15:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1543,30 +1583,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Hyrox athlete apologises for continuing race after soiling herself",
       "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
       "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:00:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 10:00:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1647,36 +1677,6 @@
       "description": "Oman’s Sohar port is becoming a popular spot for ship-to-ship oil transfers amid continued Hormuz blockade.",
       "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big?traffic_source=rss",
       "published": "Fri, 18 Sep 2026 06:02:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
-      "description": "United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 05:37:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Australia to detain tourists who overstay visas amid immigration crackdown",
-      "description": "More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 05:02:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Could this economic squeeze sway US voters?",
-      "description": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 04:27:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1843,6 +1843,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "description": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "published": "Fri, 18 Sep 2026 07:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Behind the overture from the European Union to Canada",
       "description": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S.",
       "url": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
@@ -1863,19 +1873,19 @@
       "severity_level": "Low"
     },
     {
-      "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
-      "description": "Despite the lingering questions, China remains optimistic about the summit.",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
-      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "source": "NPR World News",
+      "title": "Germany faces energy tax losses as EV sales rise",
+      "description": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 18 Sep 2026 10:55:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Women's football in Germany in flux",
+      "title": "Women's football in Germany booming but still much to do",
       "description": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
-      "url": "https://www.dw.com/en/women-s-football-in-germany-in-flux/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 18 Sep 2026 10:35:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1937,16 +1947,6 @@
       "description": "In a recent memo, the US government would no longer consider the unintentional killing of protected wildlife as unlawful.",
       "url": "https://www.dw.com/en/us-trump-administration-weakens-endangered-species-act/a-79316188?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 17 Sep 2026 20:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Alexander Ovechkin backs Putin party in campaign video",
-      "description": "Ice hockey legend Alexander Ovechkin has lent Vladimir Putin's party a helping hand in its parliamentary election campaign. That's in keeping with a pattern of support by an athlete who claims not to be political.",
-      "url": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 17 Sep 2026 16:02:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2033,16 +2033,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why Canada courting the EU isn't great news for Great Britain",
-      "description": "👉Listen to This Is Why on your podcast app👈",
-      "url": "https://news.sky.com/story/why-canada-courting-the-eu-isnt-great-news-for-great-britain-13589040",
-      "published": "Thu, 17 Sep 2026 15:35:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
       "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
       "url": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
@@ -2107,6 +2097,16 @@
       "description": "A Minnesota woman's mugshot is going viral after social media users spotted what they call a striking resemblance to pop superstar Jennifer Lopez.",
       "url": "https://www.foxnews.com/us/minnesota-woman-mugshot-goes-viral-social-media-users-spot-resemblance-jennifer-lopez",
       "published": "Fri, 18 Sep 2026 03:31:41 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Lindsay Clancy holdout juror disputes fellow jurors' claims: 'I didn't have any doubts'",
+      "description": "Michael Desronvil, the holdout Lindsay Clancy juror, disputes fellow jurors' claims he expressed doubts about the prosecution's case during deliberations.",
+      "url": "https://www.foxnews.com/us/juror-who-blocked-lindsay-clancy-verdict-disputes-fellow-jurors-claims-report",
+      "published": "Thu, 17 Sep 2026 21:44:13 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
