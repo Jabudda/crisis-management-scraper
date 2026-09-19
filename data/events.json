@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T01:21:56.159790Z",
+  "last_updated": "2026-09-19T01:44:48.743572Z",
   "event_count": 221,
   "events": [
     {
@@ -50,16 +50,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Philippines: At least 3 students killed in school shooting",
-      "description": "Emergency services received reports of gunfire at the Banga National High School in southern Mindanao on Friday afternoon. At least three students were killed, including the suspected gunman.",
-      "url": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 18 Sep 2026 11:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -1838,6 +1828,16 @@
       "url": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
       "published": "Thu, 17 Sep 2026 16:24:33 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump signs broad Russia sanctions bill",
+      "description": "The bill signed by US President Donald Trump targets officials, banks, and a fleet of shadow tankers that transport Russian energy.",
+      "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 19 Sep 2026 01:27:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
