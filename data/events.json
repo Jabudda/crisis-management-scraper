@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T14:11:01.493278Z",
+  "last_updated": "2026-09-20T14:35:23.345863Z",
   "event_count": 222,
   "events": [
     {
@@ -223,8 +223,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Live: Russian election enters final day after Kyiv targets Moscow in massive drone attack",
-      "description": "Ukraine launched what Moscow’s Mayor Sergei Sobyanin described on Sunday as the “largest ever” attack on the Russian capital, killing two people and damaging part of an oil refinery. The major attack comes on the third and final day of voting in Russia’s first wartime parliamentary election. Follow our liveblog for the latest updates.",
+      "title": "Live: Ukraine launches ‘largest ever’ drone attack on Moscow as Russia wraps up elections",
+      "description": "Ukraine launched what Moscow’s Mayor Sergei Sobyanin described on Sunday as the “largest ever” attack on the Russian capital, killing three people and damaging part of an oil refinery. The major attack came on the third and final day of voting in Russia’s first wartime parliamentary elections. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
       "published": "Sun, 20 Sep 2026 05:16:20 GMT",
       "source": "France24",
@@ -313,16 +313,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Man dies in fifth fatal shark attack this year in Australia",
-      "description": "A man has died after being mauled by a shark while swimming at a popular beach in the state of Western Australia.",
-      "url": "https://news.sky.com/story/man-dies-in-fifth-fatal-shark-attack-this-year-in-australia-13589236",
-      "published": "Fri, 18 Sep 2026 11:26:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
       "description": "Khalilur Rahman took the gavel as President of the UN General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served – in one capacity or another – for 35 years.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
@@ -398,6 +388,16 @@
       "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 19 Sep 2026 22:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Iran issues warning after 'learning US plans to resume action' following Strait of Hormuz update",
+      "description": "Iran has issued a warning after reportedly learning that the US is planning to resume military action – after also insisting the Strait of Hormuz will remain closed until its conditions are met.",
+      "url": "https://news.sky.com/story/iran-issues-warning-after-learning-us-plans-to-resume-action-and-insists-strait-of-hormuz-will-remain-closed-for-now-13590068",
+      "published": "Sun, 20 Sep 2026 13:59:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -1003,6 +1003,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
+      "description": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 13:47:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Moscow attacked by more than 1,000 Ukrainian drones",
       "description": "This is the moment a drone exploded as it hit an apartment building in Moscow.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
@@ -1027,26 +1037,6 @@
       "description": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement.",
       "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
       "published": "Sun, 20 Sep 2026 10:23:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
-      "description": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 09:30:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Echoicide: Who decides which truths survive in Gaza?",
-      "description": "From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 08:32:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1158,6 +1148,16 @@
       "url": "https://abcnews.com/International/wireStory/anger-jamaica-deal-accept-migrants-expelled-us-136573881",
       "published": "Fri, 18 Sep 2026 19:15:31 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Police officer, woman shot near Notre Dame after football tailgates",
+      "description": "A single gunshot near Notre Dame's campus wounded a woman and a South Bend police officer during a post-tailgate fight, with the shooter still at large.",
+      "url": "https://www.foxnews.com/us/police-officer-woman-shot-near-notre-dame-football-tailgates",
+      "published": "Sun, 20 Sep 2026 10:11:47 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1280,6 +1280,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 13:50:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1713,11 +1723,31 @@
       "severity_level": "Low"
     },
     {
-      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 23:07:16 GMT",
-      "source": "BBC News",
+      "title": "Humanoid robots fight in cage match in Shanghai",
+      "description": "Humanoid robots fight in cage match in Shanghai",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 14:12:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The pro-Israel censors are starting to lose",
+      "description": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 14:00:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
+      "description": "On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 13:53:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1777,26 +1807,6 @@
       "description": "It seems the new agreement may not be that 'new'.",
       "url": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
       "published": "Sun, 20 Sep 2026 10:49:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league",
-      "description": "Mohamed Salah scored three goals and created the fourth as the Turkish champions were defeated 4–0 by Trabzonspor.",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 09:52:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
-      "description": "India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss",
-      "published": "Sun, 20 Sep 2026 09:36:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1926,7 +1936,7 @@
       "title": "M 6.4 - 49 km NNE of Kainantu, Papua New Guinea",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-09-20 09:17:35 UTC 2026-09-20 09:17:35 UTC at epicenter Location 5.902°S 146.092°E Depth 104.33 km (64.83 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc",
-      "published": "2026-09-20T12:59:22.507Z",
+      "published": "2026-09-20T14:25:12.276Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1936,7 +1946,7 @@
       "title": "M 6.5 - 169 km W of Nikolski, Alaska",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - III Time 2026-09-17 14:19:52 UTC 2026-09-17 14:19:52 UTC at epicenter Location 52.859°N 171.376°W Depth 98.00 km (60.89 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
-      "published": "2026-09-19T14:29:56.499Z",
+      "published": "2026-09-20T14:30:05.516Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2187,16 +2197,6 @@
       "description": "A Minnesota woman's mugshot is going viral after social media users spotted what they call a striking resemblance to pop superstar Jennifer Lopez.",
       "url": "https://www.foxnews.com/us/minnesota-woman-mugshot-goes-viral-social-media-users-spot-resemblance-jennifer-lopez",
       "published": "Fri, 18 Sep 2026 03:31:41 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lindsay Clancy holdout praised as 'American Hero' by lawyer who says he represents him",
-      "description": "Michael Desronvil, the holdout Lindsay Clancy juror, disputes fellow jurors' claims he expressed doubts about the prosecution's case during deliberations.",
-      "url": "https://www.foxnews.com/us/juror-who-blocked-lindsay-clancy-verdict-disputes-fellow-jurors-claims-report",
-      "published": "Thu, 17 Sep 2026 21:44:13 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
