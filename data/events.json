@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T12:19:13.592626Z",
+  "last_updated": "2026-09-21T12:43:42.483207Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC",
+      "description": "The Netherlands is making preparations for the United States to sanction the International Criminal Court, in the last escalation of the Trump Administration’s attacks on the global tribunal",
+      "url": "https://abcnews.com/International/wireStory/netherlands-bracing-potentially-devastating-us-sanctions-icc-136616246",
+      "published": "Mon, 21 Sep 2026 08:31:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -713,16 +723,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
-      "description": "A senior official with the Iran-backed Houthi rebels is warning countries against joining Saudi Arabia in Yemen’s revived civil war",
-      "url": "https://abcnews.com/International/wireStory/iran-backed-houthi-rebels-warn-joining-saudi-arabia-136602219",
-      "published": "Sun, 20 Sep 2026 14:54:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
       "description": "Ambassador Mike Waltz says President Trump will push Gulf leaders and allies to enforce Iran sanctions at the United Nations, warning of consequences for noncompliance.",
       "url": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
@@ -1356,7 +1356,7 @@
       "title": "Three arrested in South Africa over one of nine women's body finds",
       "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
       "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 10:35:01 GMT",
+      "published": "Mon, 21 Sep 2026 12:22:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1456,7 +1456,7 @@
       "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
       "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:42:35 GMT",
+      "published": "Mon, 21 Sep 2026 12:21:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1633,6 +1633,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
+      "description": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:21:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
       "description": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
       "url": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
@@ -1697,16 +1707,6 @@
       "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
       "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 10:00:31 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-      "description": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 06:51:48 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2063,10 +2063,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Tanker hit by projectile as it enters the Strait of Hormuz, and other Mideast developments",
+      "title": "Google hit with $463 million fine for EU location data rule breach",
+      "description": "Google has been fined 403 million euros for breaching the EU's privacy rules by mishandling users' location data",
+      "url": "https://abcnews.com/International/wireStory/google-hit-463-million-fine-eu-location-data-136616042",
+      "published": "Mon, 21 Sep 2026 08:30:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "A projectile hits a tanker as it enters the Strait of Hormuz, and other Mideast developments",
       "description": "The British military says an “unknown projectile” struck a tanker as it entered the Strait of Hormuz",
       "url": "https://abcnews.com/International/wireStory/tanker-hit-projectile-enters-strait-hormuz-mideast-developments-136613611",
-      "published": "Mon, 21 Sep 2026 08:10:19 -0400",
+      "published": "Mon, 21 Sep 2026 08:26:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2086,7 +2096,7 @@
       "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
       "description": "Election officials say the Kremlin's main party has retained its majority in Russia’s parliament",
       "url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904",
-      "published": "Mon, 21 Sep 2026 08:02:24 -0400",
+      "published": "Mon, 21 Sep 2026 08:10:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2137,16 +2147,6 @@
       "description": "It was the second collapse of an informal gold mine in Sudan in a week.",
       "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-northeast-sudan-kills-11-136605439",
       "published": "Sun, 20 Sep 2026 18:42:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Meloni plans to ban burqas and niqabs in Italian schools, and cap foreign students in classrooms",
-      "description": "Italian Prime Minister Giorgia Meloni says she’ll soon introduce a measure to her government that would cap the number of foreign students in classrooms and ban face burqas and niqabs in schools",
-      "url": "https://abcnews.com/International/wireStory/meloni-plans-ban-burqas-niqabs-italian-schools-cap-136601382",
-      "published": "Sun, 20 Sep 2026 21:30:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
