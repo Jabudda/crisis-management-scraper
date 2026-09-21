@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T14:14:47.041960Z",
+  "last_updated": "2026-09-21T14:39:40.470221Z",
   "event_count": 222,
   "events": [
     {
@@ -70,6 +70,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 35,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC",
+      "description": "The Netherlands is making preparations for the United States to sanction the International Criminal Court, in the last escalation of the Trump Administration’s attacks on the global tribunal",
+      "url": "https://abcnews.com/International/wireStory/netherlands-bracing-potentially-devastating-us-sanctions-icc-136616246",
+      "published": "Mon, 21 Sep 2026 08:50:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -253,6 +263,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "US: Man wounded in Texas after being shot by ICE agent",
       "description": "An ICE agent shot and wounded a man in Austin, Texas. The city's mayor has called for an independent investigation into the shooting.",
       "url": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-xml-mrss",
@@ -293,10 +313,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
-      "description": "Authorties say a police officer and a man were wounded in an exchange of gunfire near a synagogue in Ontario as members of the Jewish community marked Yom Kippur",
-      "url": "https://abcnews.com/International/wireStory/man-critically-injured-police-officer-wounded-gunfire-ontario-136610412",
-      "published": "Mon, 21 Sep 2026 03:17:19 -0400",
+      "title": "Poisoning suspected in deaths of 10 lions in Tanzania conservation area",
+      "description": "Authorities in northern Tanzania suspect poison may have caused the deaths of 10 lions inside a protected conservation area and UNESCO World Heritage site",
+      "url": "https://abcnews.com/International/wireStory/poisoning-suspected-deaths-10-lions-tanzania-conservation-area-136612190",
+      "published": "Mon, 21 Sep 2026 06:18:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -307,6 +327,16 @@
       "description": "Ukraine’s book industry is facing its worst crisis yet, driven by targeted Russian attacks on publishing infrastructure",
       "url": "https://abcnews.com/International/wireStory/russian-strikes-destroy-millions-books-ukraines-literary-future-136610595",
       "published": "Mon, 21 Sep 2026 03:17:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "description": "Authorties say a police officer and a man were wounded in an exchange of gunfire near a synagogue in Ontario as members of the Jewish community marked Yom Kippur",
+      "url": "https://abcnews.com/International/wireStory/man-critically-injured-police-officer-wounded-gunfire-ontario-136610412",
+      "published": "Mon, 21 Sep 2026 03:17:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -633,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 13:30:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Israeli attacks on Gaza kill three, including a child",
       "description": "Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.",
       "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
@@ -678,16 +698,6 @@
       "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 21 Sep 2026 13:47:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "AI-pocalypse? Tech leaders, politicians clash over development slowdown",
-      "description": "Insider warnings, hacking scares during tests and a US-China race have split the industry and Washington.",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20260921-ai-pocalypse-tech-leaders-politicians-clash-over-development-slowdowni",
-      "published": "Mon, 21 Sep 2026 08:25:14 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1073,36 +1083,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "North Korea has launched an additional projectile toward the sea, South Korea says",
-      "description": "South Korea says North Korea has conducted an additional launch, firing a projectile toward the sea after launching a short-range ballistic missile earlier in the day",
-      "url": "https://abcnews.com/International/wireStory/north-korea-fires-short-range-ballistic-missile-sea-136595740",
-      "published": "Sun, 20 Sep 2026 05:49:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Macron backs Canada as EU associate member as Carney turns toward Europe",
-      "description": "Macron and Canadian PM Carney deepen ties in space, defense, energy, business.",
-      "url": "https://abcnews.com/International/wireStory/macron-carney-hold-talks-strengthening-canada-france-economic-136596498",
-      "published": "Sun, 20 Sep 2026 21:14:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Families of suspected illegal miners who died in Nigerian detention accuse officials of mistreatment",
-      "description": "Lawan Mohammed is distraught over the death of his 25-year-old son Sulieman who was found dead in the custody of a Nigerian security agency",
-      "url": "https://abcnews.com/International/wireStory/families-suspected-illegal-miners-died-nigerian-detention-accuse-136596663",
-      "published": "Sun, 20 Sep 2026 05:48:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Tourists seeking 'dramatic' photo on isolated beach trapped by incoming tide",
       "description": "Drone footage captures three tourists spelling out \"SOS\" on Oregon's Lost Boy Beach after a rising tide trapped them in the Tillamook County cove.",
       "url": "https://www.foxnews.com/us/tourists-seeking-dramatic-photo-isolated-beach-trapped-incoming-tide",
@@ -1273,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "CNN, MS NOW, Politico to sue Trump administration after White House ban",
+      "description": "US media outlets CNN, MS NOW and Politico announced Monday they were filing suit after US President Donald Trump banned their journalists from the White House last week. The ban on the three outlets marks an escalation in the Trump administration's years-long assault on the country's press freedoms.",
+      "url": "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban",
+      "published": "Mon, 21 Sep 2026 14:34:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Pope Leo to visit a secular France at odds with Catholic views on abortion, euthanasia",
       "description": "Pope Leo XIV on Friday begins a four-day visit to France, where the Catholic Church's views on abortion and euthanasia run counter to the values of a secular country that recently enshrined abortion in its constitution and gave final approval to a bill establishing the right to assisted dying.",
       "url": "https://www.france24.com/en/france/20260921-pope-leo-xiv-in-france-to-find-secular-country-at-odds-with-catholic-views-on-abortion-euthanasia",
@@ -1283,20 +1273,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "In Chile, even beloved hot dogs feel the economic squeeze",
-      "description": "Chileans are feeling the pinch as the cost of living rises, impacting even affordable foods like the completo, the country's version of the hot dog",
-      "url": "https://abcnews.com/International/wireStory/chile-beloved-hot-dogs-feel-economic-squeeze-136597130",
-      "published": "Sun, 20 Sep 2026 06:50:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US",
-      "description": "Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moïse are being extradited to the U.S. It marked the end of a drawn-out judicial process in Haiti for a killing that shocked the troubled Caribbean country",
-      "url": "https://abcnews.com/International/wireStory/18-suspects-accused-july-2021-killing-haitis-president-136602501",
-      "published": "Sun, 20 Sep 2026 20:34:21 -0400",
+      "title": "Pope Leo XIV in France to find secular country at odds with Catholic teaching on life",
+      "description": "Pope Leo XIV opens a four-day visit to France this weekend that is expected to touch on church teaching about the value of all human life",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-france-find-secular-country-odds-136611345",
+      "published": "Mon, 21 Sep 2026 04:10:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1363,16 +1343,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "A state funeral in Hong Kong honors Tung Chee-hwa, the city's first post-colonial leader",
-      "description": "A state funeral was held in Hong Kong on Sunday for the city's first post-colonial leader, Tung Chee-hwa",
-      "url": "https://abcnews.com/International/wireStory/state-funeral-hong-kong-honors-tung-chee-hwa-136593928",
-      "published": "Sun, 20 Sep 2026 01:36:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Women and girls pay high price in DR Congo Ebola outbreak",
       "description": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
@@ -1396,7 +1366,7 @@
       "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
       "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 13:34:20 GMT",
+      "published": "Mon, 21 Sep 2026 14:26:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1463,16 +1433,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe",
-      "description": "Canadian Prime Minister Mark Carney is urgently trying to reduce dependence on the United States as President Donald Trump uses tariffs and economic pressure against America’s longtime ally",
-      "url": "https://abcnews.com/International/wireStory/trump-shattered-canadas-us-relationship-carney-building-new-136610319",
-      "published": "Mon, 21 Sep 2026 03:17:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "What's next for Germany's chancellor after a string of state election defeats",
       "description": "Friedrich Merz says he intends to stay on as the leader of Germany and his party after a string of state election defeats",
       "url": "https://abcnews.com/International/wireStory/germanys-troubled-chancellor-after-string-state-election-defeats-136611999",
@@ -1483,10 +1443,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Merz vows to press ahead with reforms after historic German state election defeat",
-      "description": "Merz plans to stay in office despite his party's losses in two state elections.",
-      "url": "https://abcnews.com/International/wireStory/merz-faces-key-test-2-german-states-hold-136595831",
-      "published": "Sun, 20 Sep 2026 15:22:15 -0400",
+      "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe",
+      "description": "Canadian Prime Minister Mark Carney is urgently trying to reduce dependence on the United States as President Donald Trump uses tariffs and economic pressure against America’s longtime ally",
+      "url": "https://abcnews.com/International/wireStory/trump-shattered-canadas-us-relationship-carney-building-new-136610319",
+      "published": "Mon, 21 Sep 2026 03:17:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1500,16 +1460,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 12:21:02 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1583,6 +1533,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ethiopian opposition groups unite to mount challenge to prime minister Abiy",
+      "description": "Seven opposition groups in Ethiopia have announced the formation of an alliance to remove the government of Prime Minister Abiy Ahmed, according to an announcement made on Sunday",
+      "url": "https://abcnews.com/International/wireStory/ethiopian-opposition-groups-unite-mount-challenge-prime-minister-136618708",
+      "published": "Mon, 21 Sep 2026 09:46:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Gender equality woefully off track, new UN report reveals",
       "description": "At the current rate of progress, gender equality would take 171 years to achieve, a new UN report finds as institutions built to advance gains are being defunded and demobilised.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168360",
@@ -1633,6 +1593,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Russian drones slam a southern Ukraine city after Kyiv's 1,000-drone weekend barrage",
+      "description": "Officials say that Russian drones have blasted Ukraine’s southern city of Zaporizhzhia",
+      "url": "https://abcnews.com/International/wireStory/russian-drones-slam-southern-ukraine-city-after-kyivs-136612440",
+      "published": "Mon, 21 Sep 2026 08:02:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
       "description": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran's delegation movements.",
       "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
@@ -1650,6 +1620,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:30:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -1743,6 +1723,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+      "description": "The use of the Pelican has provoked interest among military analysts as to whether it is a tactical ballistic missile.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
+      "published": "Mon, 21 Sep 2026 14:19:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
       "description": "Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.",
       "url": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
@@ -1787,16 +1777,6 @@
       "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
       "published": "Mon, 21 Sep 2026 10:10:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mourinho holds up images of ‘two clear red cards’ after Atletico defeat",
-      "description": "Jose Mourinho held up images of ‘two clear red card’ challenges he says cost his team the match against Atletico.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mourinho-holds-up-images-of-two-clear-red-cards-after-atletico-defeat?traffic_source=rss",
-      "published": "Mon, 21 Sep 2026 09:47:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1956,7 +1936,7 @@
       "title": "M 6.5 - 169 km W of Nikolski, Alaska",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - III Time 2026-09-17 14:19:52 UTC 2026-09-17 14:19:52 UTC at epicenter Location 52.859°N 171.376°W Depth 98.00 km (60.89 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
-      "published": "2026-09-20T14:30:05.516Z",
+      "published": "2026-09-21T14:29:57.823Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1974,7 +1954,7 @@
     },
     {
       "title": "As US and China talk, middle powers jostle for position",
-      "description": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from talks between him and Donald Trump, Europeans will likely remain stuck between erratic US trade policy and Beijing's export machine.",
+      "description": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing's export machine.",
       "url": "https://www.dw.com/en/as-us-and-china-talk-middle-powers-jostle-for-position/a-79356540?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 21 Sep 2026 12:58:00 GMT",
       "source": "Deutsche Welle",
@@ -2073,26 +2053,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Sound of Music museum opens where the von Trapp story met Hollywood",
-      "description": "An Austrian museum is now alive with “The Sound of Music.”",
-      "url": "https://abcnews.com/International/wireStory/sound-music-museum-opens-von-trapp-story-met-136610960",
-      "published": "Mon, 21 Sep 2026 03:06:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
-      "description": "In Morocco's election race, a rural funeral has become an unexpected campaign stop for candidates aiming to engage disenchanted young voters",
-      "url": "https://abcnews.com/International/wireStory/young-people-morocco-split-politics-deliver-change-election-136609474",
-      "published": "Mon, 21 Sep 2026 03:17:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Pope to retrace missionary footsteps in Peru and finally visit Argentina in November",
       "description": "Pope Leo XIV is set to return to Peru in November, retracing his steps as a missionary priest",
       "url": "https://abcnews.com/International/wireStory/pope-retrace-missionary-footsteps-peru-finally-visit-argentina-136616514",
@@ -2103,20 +2063,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "Gold mine collapse in northeast Sudan kills at least 11",
-      "description": "It was the second collapse of an informal gold mine in Sudan in a week.",
-      "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-northeast-sudan-kills-11-136605439",
-      "published": "Sun, 20 Sep 2026 18:42:52 -0400",
+      "title": "Google hit with $463 million fine for EU location data rule breach",
+      "description": "Google has been fined 403 million euros for breaching the EU's privacy rules by mishandling users' location data",
+      "url": "https://abcnews.com/International/wireStory/google-hit-463-million-fine-eu-location-data-136616042",
+      "published": "Mon, 21 Sep 2026 08:42:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Former husband, in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
-      "description": "A murder trial has begun for the former husband and in-laws of Hong Kong socialite Abby Choi",
-      "url": "https://abcnews.com/International/wireStory/former-husband-laws-hong-kong-socialite-abby-choi-136610689",
-      "published": "Mon, 21 Sep 2026 04:34:14 -0400",
+      "title": "A projectile hits a tanker as it enters the Strait of Hormuz, and other Mideast developments",
+      "description": "The British military says an “unknown projectile” struck a tanker as it entered the Strait of Hormuz",
+      "url": "https://abcnews.com/International/wireStory/tanker-hit-projectile-enters-strait-hormuz-mideast-developments-136613611",
+      "published": "Mon, 21 Sep 2026 08:50:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "3 arrested in relation to one of a series of killings of women in South Africa",
+      "description": "Police in South Africa say they have arrested three suspects in connection with one of a series of killings of women near Johannesburg",
+      "url": "https://abcnews.com/International/wireStory/3-suspects-arrested-relation-series-killings-women-south-136613059",
+      "published": "Mon, 21 Sep 2026 07:54:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
+      "description": "Election officials say the Kremlin's main party has retained its majority in Russia’s parliament",
+      "url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904",
+      "published": "Mon, 21 Sep 2026 08:10:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2133,10 +2113,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "3 arrested in relation to one of a series of killings of women in South Africa",
-      "description": "Police in South Africa say they have arrested three suspects in connection with one of a series of killings of women near Johannesburg",
-      "url": "https://abcnews.com/International/wireStory/3-suspects-arrested-relation-series-killings-women-south-136613059",
-      "published": "Mon, 21 Sep 2026 07:54:20 -0400",
+      "title": "Sound of Music museum opens where the von Trapp story met Hollywood",
+      "description": "An Austrian museum is now alive with “The Sound of Music.”",
+      "url": "https://abcnews.com/International/wireStory/sound-music-museum-opens-von-trapp-story-met-136610960",
+      "published": "Mon, 21 Sep 2026 03:06:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Former husband, in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
+      "description": "A murder trial has begun for the former husband and in-laws of Hong Kong socialite Abby Choi",
+      "url": "https://abcnews.com/International/wireStory/former-husband-laws-hong-kong-socialite-abby-choi-136610689",
+      "published": "Mon, 21 Sep 2026 04:34:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+      "description": "In Morocco's election race, a rural funeral has become an unexpected campaign stop for candidates aiming to engage disenchanted young voters",
+      "url": "https://abcnews.com/International/wireStory/young-people-morocco-split-politics-deliver-change-election-136609474",
+      "published": "Mon, 21 Sep 2026 03:17:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
