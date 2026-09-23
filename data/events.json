@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T21:35:52.430061Z",
+  "last_updated": "2026-09-23T22:12:20.932588Z",
   "event_count": 217,
   "events": [
     {
@@ -33,16 +33,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
-      "description": "Iranian President Masoud Pezeshkian has hit back at US President Donald Trump’s speech in his address to the UN General Assembly. He opened by showing images of Iranian civilians killed in US strikes, saying they demonstrated the impact of US and Israeli military action against Iran. During his speech, the US delegation walked out of the General Assembly hall. France 24 International Affairs Editor Kethevane Gorjestani has more.",
-      "url": "https://www.france24.com/en/iran-s-pezeshkian-tells-un-his-country-is-victim-of-us-terrorism",
-      "published": "Wed, 23 Sep 2026 14:57:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 40,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘My friend’: Anthony Albanese announces $60m more for Ukraine at Zelenskyy meeting",
       "description": "An emotional prime minister says that Kyiv’s cause is ‘an issue for the world’ as he also sets out the need for a new global order Anthony Albanese has announced Australia will provide $60m more in support for Ukraine’s fight against Russia’s invasion during an emotional meeting with Volodymyr ⁠Zelenskyy on the sidelines of the UN meeting in New York. With the prime minister planning to use a key speech in New York to warn that the international world order was “no longer fit for purpose”, he hugged the Ukrainian president as the latter thanked Australia for its support. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
@@ -68,6 +58,16 @@
       "url": "https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 23 Sep 2026 09:26:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
+      "description": "Donald Trump’s UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He claimed the US and Venezuela hold 60% of the world’s oil, despite the numbers not adding up, and he said he had ended the war in Gaza despite ongoing Israeli strikes and deaths since last year's ceasefire. Vedika Bahl fact-checks the speech in Truth or Fake.",
+      "url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
+      "published": "Wed, 23 Sep 2026 20:54:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 33,
       "severity_level": "Critical"
@@ -113,6 +113,26 @@
       "severity_level": "Critical"
     },
     {
+      "title": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
+      "description": "Police and local authorities in South Africa say three gunmen opened fire at a house party and killed 11 people including a pregnant woman",
+      "url": "https://abcnews.com/International/wireStory/mass-shooting-house-south-africa-leaves-11-dead-136675033",
+      "published": "Wed, 23 Sep 2026 08:58:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Families describe grief as Canadian seller linked to suicides worldwide faces sentencing",
+      "description": "Families of people who died after buying lethal products from a Canadian online seller investigated in connection with more than 100 deaths worldwide described lives shattered by grief as he faced sentencing for aiding 14 suicides",
+      "url": "https://abcnews.com/International/wireStory/families-describe-grief-canadian-seller-linked-suicides-worldwide-136698919",
+      "published": "Wed, 23 Sep 2026 17:31:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
       "title": "How El Niño offers a test of whether the world can adapt to a changing climate",
       "description": "El Niño is strengthening in a world that is already hotter, raising the risk of drought, floods and crop losses across some of the world’s most important food-producing regions. But unlike many disasters, this one can be seen coming. UN experts say the months ahead offer countries a chance not only to protect the next harvest and our food security, but to prepare for a more unpredictable climate in the long run.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168404",
@@ -130,6 +150,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Tigray rebels seize airports",
+      "description": "In tonight's edition, concerns about South Africa's high rates of crimes are brought even more into focus this week as 11 are killed in a mass killing at a party. Also, TPLF fighters take over the airport in Tigray amidst escalating conflict with federal troops. And in eastern DR Congo, residents of Bukavu are once again searching through the ruins of their homes after another deadly fire.",
+      "url": "https://www.france24.com/en/tigray-rebels-seize-airports",
+      "published": "Wed, 23 Sep 2026 20:27:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -263,11 +293,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "REPLAY: Iranian President Pezeshkian adresses UNGA",
-      "description": "Iranian President Masoud Pezeshkian is speaking before the UN General Assembly Wednesday in his first speech at the world body since the US and Israel launched the conflict with his country. His address comes a day after US President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell\".",
-      "url": "https://www.france24.com/en/video/20260923-replay-iranian-president-pezeshkian-adresses-unga-1",
-      "published": "Wed, 23 Sep 2026 14:44:13 GMT",
-      "source": "France24",
+      "title": "Australia news live: OECD says Australia will struggle to get inflation below 3%; Qantas staff strike",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute. Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services. We remain focused on reaching an agreement through the bargaining process and continue to engage constructively with the union. The world has become more volatile, more contested and less secure. In this geopolitical environment, it is more important than ever that like-minded partners stand together and deepen their cooperation. Australia and the Netherlands recognise the need to continue investing in our close cooperation to meet current and future challenges. Australia and the Netherlands remain resolute in their commitment to pursuing truth, justice and accountability on behalf of the victims of the downing of MH17 and their next of kin. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "published": "Wed, 23 Sep 2026 22:06:07 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -298,6 +328,16 @@
       "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 23 Sep 2026 17:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "description": "Leaders of some of the world's biggest AI companies urged caution at the United Nations on Wednesday, warning that increasingly autonomous systems could outpace human oversight. Anthropic CEO Dario Amodei pledged to slow development to ensure new AI systems are safe, while OpenAI chief Sam Altman called for 'extreme care'.",
+      "url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "published": "Wed, 23 Sep 2026 21:46:14 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -358,16 +398,6 @@
       "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
       "published": "Tue, 22 Sep 2026 19:09:29 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed five people",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
-      "published": "Tue, 22 Sep 2026 08:10:31 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -457,16 +487,6 @@
       "description": "A former British member of parliament implied that a video filmed from a helicopter on September 11, 2001 shows that no planes actually hit the World Trade Center's south tower, but this claim would be unfounded. The plane that hit the south tower hit the other side of the building, which isn’t visible in the video.",
       "url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
       "published": "Wed, 23 Sep 2026 19:01:33 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "🔴 Watch live: Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
-      "published": "Wed, 23 Sep 2026 14:30:44 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 16,
@@ -633,11 +653,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Federal judge delays ruling on White House media ban",
+      "description": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:53:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
       "description": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
       "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 23 Sep 2026 13:32:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump sparks debate over diesel export ban",
+      "description": "The Trump administration's suggestion that it could ban or limit diesel exports has sparked furious backlash from the American oil industry. Politicians are trying to bring down soaring energy prices ahead of the midterm election in November, but critics say a ban would cause supply problems and higher prices both at home and abroad. Also in this edition - the OECD says the global economy is withstanding the energy shock better than expected, partly thanks to AI investment.",
+      "url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
+      "published": "Wed, 23 Sep 2026 20:38:13 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -774,7 +814,7 @@
     },
     {
       "title": "Property investors may pay less capital gains tax under Labor’s reforms, analysis suggests",
-      "description": "Researcher says public debate since May budget has overstated how much reforms will cost landlords and investors Get our new political email , free app or daily news podcast Most property investors may end up paying less capital gains tax after Labor’s budget reforms , research based on an analysis of historical data suggests. The e61 Institute’s analysis also found half of all landlords would have faced higher costs from the loss of negative gearing over the period from 2008 to 2025 if the new system had been in place, suggesting the tax reforms alone cannot explain a slump in investment demand. Continue reading...",
+      "description": "Researcher says public debate since May budget has overstated how much reforms will cost landlords and investors Get our new political email , free app or daily news podcast Most property investors may end up paying less capital gains tax after Labor’s budget reforms , research based on an analysis of historical data suggests. The e61 Institute’s analysis also found half of all landlords would not have faced higher costs from the loss of negative gearing over the period 2008 to 2025 if the new system had been in place, suggesting the tax reforms alone cannot explain a slump in investment demand. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/24/property-investors-may-pay-less-capital-gains-tax-under-labors-reforms-analysis-suggests",
       "published": "Wed, 23 Sep 2026 15:00:53 GMT",
       "source": "The Guardian World",
@@ -858,6 +898,46 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump and Xi meet at moment of global consequence",
+      "description": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "published": "Wed, 23 Sep 2026 14:23:19 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Colombia's president sends troops to a Caribbean city after an outburst of violence",
+      "description": "Troops are patrolling the streets of Santa Marta, Colombia, as President Abelardo de la Espriella tries to restore order after violence erupted there",
+      "url": "https://abcnews.com/International/wireStory/colombias-president-sends-troops-caribbean-city-after-outburst-136697292",
+      "published": "Wed, 23 Sep 2026 16:54:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ethiopian Airlines cancels flights to Tigray capital as soldiers take over airport",
+      "description": "Regional forces in Tigray, northern Ethiopia, have taken control of the airport, leading Ethiopian Airlines to cancel flights to the region",
+      "url": "https://abcnews.com/International/wireStory/ethiopian-airlines-cancels-flights-tigray-amid-concerns-renewed-136676469",
+      "published": "Wed, 23 Sep 2026 09:38:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pakistani officials say Afghan Taliban shelled Pakistan's border posts. Kabul denies the attack",
+      "description": "Local Pakistani officials say Afghan Taliban forces shelled Pakistani border posts after Pakistani troops foiled a cross-border infiltration attempt by militants",
+      "url": "https://abcnews.com/International/wireStory/pakistani-officials-afghan-taliban-shelled-pakistani-border-kabul-136675751",
+      "published": "Wed, 23 Sep 2026 07:22:20 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1003,30 +1083,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "About 2,000 church sex abuse victims have come forward for reparations in France",
-      "description": "About 2,000 people have sought reparations from a French body addressing church abuse",
-      "url": "https://abcnews.com/International/wireStory/2000-church-sex-abuse-victims-forward-reparations-france-136657602",
-      "published": "Tue, 22 Sep 2026 15:09:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Marlon James, Douglas Stuart may become 5th multiple winner of Booker Prize award",
-      "description": "Marlon James and Douglas Stuart can become the fifth author to win the Booker Prize twice after both were shortlisted for arguably the U.K.’s most prestigious fiction accolade",
-      "url": "https://abcnews.com/International/wireStory/marlon-james-douglas-stuart-chance-become-5th-multiple-136672599",
-      "published": "Tue, 22 Sep 2026 23:46:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
       "description": "President Vladimir Putin says Russia’s first wartime parliamentary election, which further strengthened the Kremlin’s already-overwhelming legislative control, was a sign of public support for his policies",
       "url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040",
       "published": "Wed, 23 Sep 2026 12:29:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russian attacks injure 7 across Ukraine and damage structures",
+      "description": "Russia has launched daylight drone attacks on Kyiv, hours before Ukrainian President Volodymyr Zelenskyy was to address the U.N. General Assembly",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-injure-7-ukraine-damage-structures-136675219",
+      "published": "Wed, 23 Sep 2026 09:38:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1073,16 +1143,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "‘Looksmaxxing’ influencer ‘Clavicular’ charged after teen alleges attack at family’s Cape Cod home",
-      "description": "Braden Peters, the looksmaxxing influencer known as \"Clavicular,\" faces rape and drugging charges after a teen alleged he got her drunk at his Cape Cod home.",
-      "url": "https://www.foxnews.com/us/looksmaxxing-influencer-clavicular-charged-teen-alleges-attack-familys-cape-cod-home",
-      "published": "Tue, 22 Sep 2026 14:31:28 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
       "description": "China's upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
       "url": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
@@ -1103,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
-      "description": "Prime minister says he expressed ‘disappointment’ to chief executive it had taken the company ‘way too long’ to inform his government about the breach Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June. The prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed – though investigations were ongoing. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-      "published": "Wed, 23 Sep 2026 21:11:32 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Backlash against smart glasses grow",
       "description": "Paris prosecutors say they have opened several investigations after receiving complaints about women allegedly filmed on the street without their consent by people wearing so-called “smart glasses”. Calls are growing across Europe for action against what campaigners have dubbed “pervert” smart glasses, after secretly filmed footage of women and girls appeared online. Solange Mougin reports.",
       "url": "https://www.france24.com/en/backlash-against-smart-glasses-grow",
@@ -1120,16 +1170,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 17:40:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1154,7 +1194,7 @@
     },
     {
       "title": "Berlin Airport briefly suspends flights over drone sighting",
-      "description": "Airspace over the German capital was temporarily closed after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
+      "description": "Airspace over the German capital was closed for about 45 minutes after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
       "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 23 Sep 2026 19:43:00 GMT",
       "source": "Deutsche Welle",
@@ -1168,6 +1208,26 @@
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai",
       "published": "Wed, 23 Sep 2026 18:44:11 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Yemen’s factions battling Iran-backed Houthis share a common enemy but not common goals",
+      "description": "Yemen's factions fighting the Iran-backed Houthis are united in opposing the rebels who control the country's north and now its Red Sea coastline",
+      "url": "https://abcnews.com/International/wireStory/yemens-factions-battling-iran-backed-houthis-share-common-136682053",
+      "published": "Wed, 23 Sep 2026 09:14:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "South Sudan president dissolves transitional government ahead of delayed elections",
+      "description": "South Sudan President Salva Kiir has dissolved his country’s transitional government ahead of upcoming elections",
+      "url": "https://abcnews.com/International/wireStory/south-sudan-president-dissolves-transitional-government-ahead-long-136675583",
+      "published": "Wed, 23 Sep 2026 04:49:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1213,6 +1273,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Watch: The arms race in space explained",
+      "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:29:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
       "description": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
       "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
@@ -1228,26 +1298,6 @@
       "url": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 23 Sep 2026 13:39:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
-      "description": "An American military aircraft has crashed at a U.S. air base in western Germany, injuring the pilot",
-      "url": "https://abcnews.com/International/wireStory/us-military-plane-crashes-us-air-base-germany-136650995",
-      "published": "Tue, 22 Sep 2026 11:31:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "European Union strikes a new free trade deal with the Philippines",
-      "description": "The European Union and the Philippines have reached substantial agreement on a new free trade deal",
-      "url": "https://abcnews.com/International/wireStory/european-union-strikes-new-free-trade-deal-philippines-136642538",
-      "published": "Tue, 22 Sep 2026 07:14:18 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1273,31 +1323,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump administration to defend White House ban on news outlets in court",
-      "description": "The news organisations are scheduled to make their case to a US district judge on Wednesday afternoon.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
-      "published": "Wed, 23 Sep 2026 19:26:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump set to greet Xi for high-stakes state visit",
-      "description": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "published": "Wed, 23 Sep 2026 14:23:19 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1368,6 +1398,16 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
+      "description": "Prime minister says he expressed ‘disappointment’ to chief executive it had taken the company ‘way too long’ to inform his government about the breach Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June. Australia’s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+      "published": "Wed, 23 Sep 2026 21:55:30 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1533,16 +1573,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-      "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 11:00:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
       "description": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
       "url": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
@@ -1577,6 +1607,16 @@
       "description": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana.",
       "url": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
       "published": "Wed, 23 Sep 2026 19:32:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US judge leaves Trump administration’s media ban in place for now",
+      "description": "A judge heard arguments on Wednesday but did not rule on the case.",
+      "url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 19:26:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1743,18 +1783,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Good morning, Nick Visser here to grab the blog. Let’s get to it. Albanese pays tribute to Ukraine’s resistance Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-      "published": "Wed, 23 Sep 2026 21:16:25 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Groceries rise by 7% across Coles, Woolworths, IGA and Aldi, Choice finds",
-      "description": "The price of a basket of items at the Australian supermarket chains increased to an average of $43.62, survey says Get our new political email , free app or daily news podcast Groceries have become more expensive at all four of Australia’s major supermarket chains, with the average price of a basket of essentials increasing by 7% between March and June, new analysis has found. The consumer advocacy group Choice on Thursday released its 10th quarterly government-funded survey of supermarket prices, which it assessed by filling a basket with eight common grocery items at 104 different stores in June. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "description": "The price of a basket of items at the Australian supermarket chains increased to an average of $43.62, survey says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Groceries have become more expensive at all four of Australia’s major supermarket chains, with the average price of a basket of essentials increasing by 7% between March and June, new analysis has found. The consumer advocacy group Choice on Thursday released its 10th quarterly government-funded survey of supermarket prices, which it assessed by filling a basket with eight common grocery items at 104 different stores in June. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/24/groceries-rise-by-7-across-australian-supermarket-chains-choice-finds",
       "published": "Wed, 23 Sep 2026 15:01:51 GMT",
       "source": "The Guardian World",
@@ -1783,10 +1813,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "What painter Sliman Mansour told NPR about Palestinian rights and art before he died",
-      "description": "Born a year before Israel's creation, Palestinian artist Sliman Mansour spent his life painting the faces and landscapes of Israeli occupation. He died in August aged 79, and was buried in the occupied West Bank.",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5949930/what-painter-sliman-mansour-told-npr-about-palestinian-rights-and-art-before-he-died",
-      "published": "Wed, 23 Sep 2026 17:18:18 -0400",
+      "title": "Does the UN have a future?",
+      "description": "NPR's Mary Louise Kelly speaks with former U.S. Ambassador to the United Nations Susan Rice about the relevance of the United Nations in 2026.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5976846/does-the-un-have-a-future",
+      "published": "Wed, 23 Sep 2026 17:58:37 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -1913,16 +1943,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Film show: Brad Pitt and his dog take on the wilderness in 'Heart of the Beast'",
-      "description": "Eve Jackson and film critic Emma Jones run through this week's new cinema releases in France. Brad Pitt heads into the Alaskan wilderness with his four-legged co-star in \"Heart of the Beast\". Also, Robert Pattinson takes on a controversial TV host in \"Primetime\", a new generation discovers \"Sense and Sensibility\", and Julia Donaldson and Axel Scheffler's \"The Scarecrows' Wedding\" arrives on the big screen.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260923-film-show-brad-pitt-and-his-dog-take-on-the-wilderness-in-heart-of-the-beast",
-      "published": "Wed, 23 Sep 2026 13:48:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Netherlands to return to Eurovision as it drops boycott over Israel participation",
       "description": "The Netherlands will return to the Eurovision Song Contest in 2027 after abandoning ​a boycott over Israel's participation.",
       "url": "https://news.sky.com/story/netherlands-to-return-to-eurovision-as-it-drops-boycott-over-israel-participation-13591176",
@@ -1933,30 +1953,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "What to know about the agreement signed by President Trump and the leaders of Denmark and Greenland",
-      "description": "U.S. President Donald Trump and the leaders of Denmark and Greenland have signed an agreement about Greenland's status",
-      "url": "https://abcnews.com/International/wireStory/agreement-signed-president-trump-leaders-denmark-greenland-136678876",
-      "published": "Wed, 23 Sep 2026 07:26:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "South Korean court reduces former first lady’s sentence over luxury gifts and favors",
-      "description": "A South Korean appeals court has reduced the prison sentence of the wife of ousted President Yoon Suk Yeol",
-      "url": "https://abcnews.com/International/wireStory/south-korean-appeals-court-reduces-former-ladys-sentence-136642361",
-      "published": "Tue, 22 Sep 2026 05:35:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
-      "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip",
-      "url": "https://abcnews.com/International/wireStory/chinas-alibaba-unveils-new-powerful-chip-ambitious-ai-136641611",
-      "published": "Tue, 22 Sep 2026 06:50:16 -0400",
+      "title": "Jamaica celebrates that its reparations case against Britain referred to final appeals court",
+      "description": "Jamaica says its reparations case against Britain has been referred to the United Kingdom’s highest court of appeal for the Caribbean island",
+      "url": "https://abcnews.com/International/wireStory/jamaica-celebrates-reparations-case-britain-referred-final-appeals-136696573",
+      "published": "Wed, 23 Sep 2026 16:54:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1973,20 +1973,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "A timeline of US President Donald Trump's interest in Greenland",
-      "description": "President Donald Trump’s interest in taking control of Greenland, a semiautonomous territory of NATO ally Denmark, first became publicly known in 2019, but was dismissed as absurd by Denmark's leader",
-      "url": "https://abcnews.com/International/wireStory/timeline-us-president-donald-trumps-interest-greenland-136640631",
-      "published": "Wed, 23 Sep 2026 04:34:15 -0400",
+      "title": "Executive linked to alleged financial misconduct is freed from jail in Myanmar",
+      "description": "An Australian business executive who headed the American Chamber of Commerce in Myanmar has been released after spending more than 100 days in jail over allegations of financial misconduct",
+      "url": "https://abcnews.com/International/wireStory/australian-executive-myanmar-linked-alleged-financial-misconduct-freed-136681760",
+      "published": "Wed, 23 Sep 2026 09:11:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action",
-      "description": "Pope Leo XIV plans to meet with seven survivors of sexual abuse by Catholic clergy during his visit to France",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-meet-french-abuse-survivors-critics-136641086",
-      "published": "Tue, 22 Sep 2026 03:46:15 -0400",
+      "title": "What to know about the agreement signed by President Trump and the leaders of Denmark and Greenland",
+      "description": "U.S. President Donald Trump and the leaders of Denmark and Greenland have signed an agreement about Greenland's status",
+      "url": "https://abcnews.com/International/wireStory/agreement-signed-president-trump-leaders-denmark-greenland-136678876",
+      "published": "Wed, 23 Sep 2026 07:26:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2003,20 +2003,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Executive linked to alleged financial misconduct is freed from jail in Myanmar",
-      "description": "An Australian business executive who headed the American Chamber of Commerce in Myanmar has been released after spending more than 100 days in jail over allegations of financial misconduct",
-      "url": "https://abcnews.com/International/wireStory/australian-executive-myanmar-linked-alleged-financial-misconduct-freed-136681760",
-      "published": "Wed, 23 Sep 2026 09:11:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Jamaica celebrates that its reparations case against Britain referred to final appeals court",
-      "description": "Jamaica says its reparations case against Britain has been referred to the United Kingdom’s highest court of appeal for the Caribbean island",
-      "url": "https://abcnews.com/International/wireStory/jamaica-celebrates-reparations-case-britain-referred-final-appeals-136696573",
-      "published": "Wed, 23 Sep 2026 16:54:44 -0400",
+      "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
+      "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China’s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213",
+      "published": "Wed, 23 Sep 2026 04:52:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2058,6 +2048,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168397",
       "published": "Tue, 22 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "California gunman repeatedly released before deadly rampage, fiery shootout with deputies",
+      "description": "Derek Spencer was arrested three times and released in Sacramento County in the weeks before he allegedly gunned down Cheryl Macy in Placer County.",
+      "url": "https://www.foxnews.com/us/california-gunman-repeatedly-released-deadly-rampage-fiery-shootout-deputies",
+      "published": "Wed, 23 Sep 2026 18:05:29 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
