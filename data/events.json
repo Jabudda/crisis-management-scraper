@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T12:46:26.627301Z",
+  "last_updated": "2026-09-23T13:12:52.441728Z",
   "event_count": 217,
   "events": [
     {
@@ -70,16 +70,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 38,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
-      "description": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations. Nearly 20 active fires are burning across the South American country. Dry conditions have increased fire danger in Colombia as it braces for the effects of El Niño, which can help wildfires spread. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
-      "published": "Mon, 21 Sep 2026 17:13:23 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -223,7 +213,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
       "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
       "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 12:22:53 GMT",
@@ -278,6 +268,16 @@
       "url": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
       "published": "Wed, 23 Sep 2026 07:48:00 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+      "description": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -340,16 +340,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 11 people killed in South Africa township shooting",
-      "description": "Armed men open fire at a house party in a Durban township, killing a pregnant woman and 10 others.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss",
-      "published": "Wed, 23 Sep 2026 07:31:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -918,6 +908,16 @@
       "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 12:54:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pakistan must ‘catch up’ with India in T20 cricket, says coach Hesson",
+      "description": "Pakistan could face India in the knockouts of the Asian Games, where the world champions won gold in 2023.",
+      "url": "https://www.aljazeera.com/sports/2026/9/23/pakistan-must-catch-up-with-india-in-t20-cricket-says-coach-hesson?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 12:46:03 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1563,6 +1563,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 12:31:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
       "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
       "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
@@ -1583,16 +1593,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 21:36:55 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
       "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
       "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
@@ -1607,6 +1607,16 @@
       "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
       "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:18:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 21:36:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1643,11 +1653,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:04:31 GMT",
-      "source": "BBC News",
+      "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
+      "description": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs.",
+      "url": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 12:29:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1697,16 +1707,6 @@
       "description": "Every day, Fidaa Zalbani checks the room of her son, Mohammed, 17, tidying his bed and arranging untouched clothes.",
       "url": "https://www.aljazeera.com/features/2026/9/23/inside-israels-prisons-what-palestinian-children-say-they-endure-in-deten?traffic_source=rss",
       "published": "Wed, 23 Sep 2026 08:42:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pakistan’s latest Trump bet is on drone firm already selling to India",
-      "description": "The company's cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
-      "published": "Wed, 23 Sep 2026 07:18:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1827,6 +1827,16 @@
       "description": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "published": "Wed, 23 Sep 2026 11:08:01 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Venezuela’s Delcy Rodríguez hails ‘historic meeting’ with Donald Trump in New York",
+      "description": "Interim president, who agreed a 65bn-barrel oil deal with the US, did not say whether she would visit her snatched predecessor, Nicolás Maduro, in jail Venezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting with Donald Trump in New York, posing for a smiley photo with the US president less than nine months after he ordered the abduction of her boss, Nicolás Maduro. The former foes met at a five-star hotel in Manhattan a few blocks from Trump Tower late on Tuesday, on the sidelines of the United Nations general assembly. The hotel is about 7 miles from the Brooklyn prison where Maduro has been held since he was snatched during a special forces raid on Caracas. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+      "published": "Wed, 23 Sep 2026 12:54:07 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2063,11 +2073,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ebola vaccine trial begins in DR Congo",
-      "description": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168381",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "New Jersey police pull out 3-foot python from woman's car grille, bodycam video shows",
+      "description": "Body camera footage shows New Jersey police dismantling a car's front bumper to free a 3-foot ball python wedged inside the vehicle's grille.",
+      "url": "https://www.foxnews.com/us/new-jersey-police-pull-3-foot-python-womans-car-grille-bodycam-video-shows",
+      "published": "Wed, 23 Sep 2026 08:55:40 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2127,16 +2137,6 @@
       "description": "Ex-Stockbridge, Georgia Mayor Jayden Williams, 23, who was ousted earlier this month, told WSB-TV that he did not expect to be booted out of office.",
       "url": "https://www.foxnews.com/us/impeached-georgia-mayor-speaks-out-after-sexting-spending-scandals-result-ouster",
       "published": "Tue, 22 Sep 2026 13:11:39 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump to address the United Nations General Assembly and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/trump-address-united-nations-general-assembly-more-top-headlines",
-      "published": "Tue, 22 Sep 2026 07:01:38 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
