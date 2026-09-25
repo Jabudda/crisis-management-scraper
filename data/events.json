@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T15:14:19.535389Z",
+  "last_updated": "2026-09-25T15:37:43.236294Z",
   "event_count": 218,
   "events": [
     {
@@ -106,10 +106,20 @@
       "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
       "description": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "published": "Fri, 25 Sep 2026 15:00:09 GMT",
+      "published": "Fri, 25 Sep 2026 15:12:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "America at 250: From the American dream to book bans and AI",
+      "description": "As the United States marks its 250th anniversary, its founding promises, identity and place in the world are being fiercely debated. As the Festival America in Vincennes gets underway, we're putting that question to two acclaimed novelists: New Yorker Taffy Brodesser-Akner, author of \"Long Island Compromise\", and Lebanese-American writer Rabih Alameddine, whose novel \"The True True Story of Raja the Gullible (and His Mother)\" won the 2025 National Book Award for Fiction.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260925-america-at-250-from-the-american-dream-to-book-bans-and-ai",
+      "published": "Fri, 25 Sep 2026 15:17:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -243,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
-      "description": "In under two years, Bulgaria has become one of the world's most battery-intensive energy markets. Can the surge last — and what will it mean for conventional power generators?",
-      "url": "https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 25 Sep 2026 11:38:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Paris: Pope Leo XIV expected at UNESCO and Notre-Dame",
       "description": "Crowds have already begun gathering outside Notre-Dame Cathedral as Pope Leo XIV prepares for one of the highlights of his Paris visit. Before heading to the cathedral, the pontiff is expected to deliver another speech at UNESCO headquarters, where he is set to address global challenges including peace, culture and international cooperation, as FRANCE 24's Claire Paccalin explains.",
       "url": "https://www.france24.com/en/paris-pope-leo-xiv-expected-at-unesco-and-notre-dame",
@@ -260,16 +260,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ukraine: Deadly Russian drone strike hits central Kyiv",
-      "description": "A Russian drone strike hit central Kyiv before 8am on 25 September, killing a 14-year-old and leaving rescue workers clearing rubble from damaged buildings. Residents said there was little time to react to the air raid sirens, as Russia's increasingly deadly drone attacks also struck logistics facilities and postal infrastructure elsewhere in the city. FRANCE 24's Gulliver Cragg has the details from Kyiv.",
-      "url": "https://www.france24.com/en/video/20260925-ukraine-deadly-russian-drone-strike-hits-central-kyiv",
-      "published": "Fri, 25 Sep 2026 11:24:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -323,10 +313,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Indonesia reflags a former Italian warship as its first aircraft carrier",
-      "description": "Indonesia’s navy has commissioned its first aircraft carrier after acquiring the former Italian vessel to strengthen its maritime defenses and disaster response",
-      "url": "https://abcnews.com/International/wireStory/indonesia-reflags-former-italian-warship-aircraft-carrier-136709810",
-      "published": "Thu, 24 Sep 2026 06:29:07 -0400",
+      "title": "A month after Nepal floods, families await answers about missing Ukrainians",
+      "description": "Olena Kalynychenko is among thousands missing after devastating floods hit the Nepal-China border",
+      "url": "https://abcnews.com/International/wireStory/month-after-nepal-china-floods-families-await-answers-136743295",
+      "published": "Fri, 25 Sep 2026 02:59:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -358,6 +348,16 @@
       "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
       "published": "Fri, 25 Sep 2026 12:09:14 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Bulgaria's battery boom: From zero to global leader",
+      "description": "In under two years, Bulgaria has become one of the world's most battery-intensive energy markets. Can the surge last — and what will it mean for conventional power generators?",
+      "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 25 Sep 2026 11:38:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -403,16 +403,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Police say gunman shouted antisemitic threat before opening fire outside Ontario synagogue",
-      "description": "Police say a former Canadian soldier who opened fire on a police officer outside an Ontario synagogue during Yom Kippur shouted “you’re going to die for the Jews” moments before shooting",
-      "url": "https://abcnews.com/International/wireStory/police-gunman-shouted-antisemitic-threat-opening-fire-ontario-136733330",
-      "published": "Fri, 25 Sep 2026 02:42:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Yemen’s civil war returns and overwhelms hospitals with 'a very dangerous situation'",
       "description": "Hospitals in Yemen are struggling as civil war returns to the Arab world's poorest nation",
       "url": "https://abcnews.com/International/wireStory/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-136744228",
@@ -423,10 +413,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-      "description": "When Iran shut down the Strait of Hormuz at the start of the war, many feared that prices would skyrocket, cratering the world economy",
-      "url": "https://abcnews.com/International/wireStory/gulf-nations-found-ways-oil-flowing-iran-war-136708380",
-      "published": "Thu, 24 Sep 2026 06:34:17 -0400",
+      "title": "Police say gunman shouted antisemitic threat before opening fire outside Ontario synagogue",
+      "description": "Police say a former Canadian soldier who opened fire on a police officer outside an Ontario synagogue during Yom Kippur shouted “you’re going to die for the Jews” moments before shooting",
+      "url": "https://abcnews.com/International/wireStory/police-gunman-shouted-antisemitic-threat-opening-fire-ontario-136733330",
+      "published": "Fri, 25 Sep 2026 02:42:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
@@ -450,16 +440,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
-      "description": "Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 09:54:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -603,6 +583,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
+      "description": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 15:07:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Fire up the grills! Thousands of South Africans try to set a record for the biggest cookout",
       "description": "Thousands of determined and hungry South Africans descended on a sports stadium in an attempt to break the world record for the biggest cookout",
       "url": "https://abcnews.com/International/wireStory/fire-grills-thousands-south-africans-set-record-biggest-136730706",
@@ -633,7 +623,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Why Canada is not ruling out a possible war with the US",
+      "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
       "description": "Trump’s annexation threats have prompted Carney to examine even remote risks to Canada’s sovereignty.",
       "url": "https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss",
       "published": "Fri, 25 Sep 2026 14:05:41 +0000",
@@ -953,16 +943,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
-      "description": "Warmth on display in Washington contrasts significantly with the language Trump has used to characterise Beijing and Xi.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 09:46:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1033,10 +1013,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Renewed fighting in northern Ethiopia effectively shatters peace deal that ended 2022 war",
-      "description": "Renewed fighting in northern Ethiopia has effectively shattered a peace pact that ended a devastating two-year war in 2022",
-      "url": "https://abcnews.com/International/wireStory/renewed-fighting-northern-ethiopia-effectively-shatters-peace-deal-136712016",
-      "published": "Thu, 24 Sep 2026 06:42:31 -0400",
+      "title": "Pope Leo XIV rides through Paris in the popemobile to Notre-Dame",
+      "description": "Watch our special FRANCE 24 coverage of Pope Leo XIV's visit to Paris as the pontiff travelled through the French capital in the popemobile on his way to Notre-Dame Cathedral, where our journalist Claire Paccalin was reporting live. During the special edition, Father Michael Baggot, professor of theology, also analysed the images and explained why Pope Leo XIV has made transhumanism and the ethical challenges of artificial intelligence a recurring theme of his pontificate.",
+      "url": "https://www.france24.com/en/pope-leo-xiv-rides-through-paris-in-the-popemobile-to-notre-dame",
+      "published": "Fri, 25 Sep 2026 15:23:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
+      "description": "Pope Leo XIV warns that a “paradise of machines” could undermine humanity",
+      "url": "https://abcnews.com/International/wireStory/pope-heads-secular-france-appeal-respect-dignity-human-136743766",
+      "published": "Fri, 25 Sep 2026 07:48:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1047,6 +1037,16 @@
       "description": "Authorities in Poland say a stabbing at a Catholic convent has left one person dead and four others wounded in southeastern Poland",
       "url": "https://abcnews.com/International/wireStory/stabbing-catholic-convent-poland-leaves-1-person-dead-136714103",
       "published": "Thu, 24 Sep 2026 09:06:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Renewed fighting in northern Ethiopia effectively shatters peace deal that ended 2022 war",
+      "description": "Renewed fighting in northern Ethiopia has effectively shattered a peace pact that ended a devastating two-year war in 2022",
+      "url": "https://abcnews.com/International/wireStory/renewed-fighting-northern-ethiopia-effectively-shatters-peace-deal-136712016",
+      "published": "Thu, 24 Sep 2026 06:42:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1233,10 +1233,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ugandans plant trees near national park to keep people out of gorillas’ habitat",
-      "description": "Mountain gorillas in Uganda's Bwindi Impenetrable National Park are seeing their population grow, but their forest habitat is not expanding",
-      "url": "https://abcnews.com/International/wireStory/ugandans-plant-trees-national-park-people-gorillas-habitat-136712024",
-      "published": "Thu, 24 Sep 2026 08:11:50 -0400",
+      "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
+      "description": "U.S. President Donald Trump’s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
+      "url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988",
+      "published": "Fri, 25 Sep 2026 06:50:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1247,6 +1247,16 @@
       "description": "A boat heading from Tanzania to Congo on Lake Tanganyika has capsized, leaving at least 41 people dead",
       "url": "https://abcnews.com/International/wireStory/boat-heading-tanzania-congo-lake-tanganyika-capsizes-leaving-136729088",
       "published": "Fri, 25 Sep 2026 02:44:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ugandans plant trees near national park to keep people out of gorillas’ habitat",
+      "description": "Mountain gorillas in Uganda's Bwindi Impenetrable National Park are seeing their population grow, but their forest habitat is not expanding",
+      "url": "https://abcnews.com/International/wireStory/ugandans-plant-trees-national-park-people-gorillas-habitat-136712024",
+      "published": "Thu, 24 Sep 2026 08:11:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1273,6 +1283,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany news: Parliament approves fuel tax cut",
+      "description": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. Meanwhile, students in many cities are set to protest against military conscription. DW has the latest.",
+      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 25 Sep 2026 15:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "DW shows solidarity with Georgians' commitment to democracy",
       "description": "Cultural and media professionals in Georgia remain under threat. A DW panel brings together insiders who share their hopes and fears.",
       "url": "https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-xml-mrss",
@@ -1287,16 +1307,6 @@
       "description": "In a DW interview, Prime Minister Mindaugas Sinkevicius discussed threats to Lithuania from Russia and Belarus, NATO's need for stronger air defense and why military spending alone cannot ensure security.",
       "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 25 Sep 2026 14:34:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Germany news: Parliament approves fuel tax cut",
-      "description": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. Meanwhile, students in many cities are set to protest against military conscription. DW has the latest.",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 25 Sep 2026 08:28:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1321,6 +1331,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
+      "description": "Iraqi Prime Minister Ali Falih Al-Zaidi called for a sovereign state of Palestine at the 81st session of the UNGA.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 15:03:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Man City found guilty on almost all 115 Premier League charges: Report",
@@ -1438,16 +1458,6 @@
       "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 25 Sep 2026 11:35:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "From 'Jungle' to jungles, migrants in Calais continue to dream of UK",
-      "description": "October 2026 marks 10 years since the Calais \"Jungle\" in northern France was dismantled by French police. The camp was home to thousands of migrants who wanted to cross the Channel and reach the UK. A decade on, migrants continue to dream of reaching British shores and the \"Jungle\" has been replaced by many smaller jungles scattered along the northern French coastline. FRANCE 24's Pauline Godart, Claire Paccalin and Mohamed Farhat report.",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260925-from-jungle-to-jungles-migrants-in-calais-continue-to-dream-of-uk",
-      "published": "Fri, 25 Sep 2026 11:30:30 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1853,10 +1863,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "UNGA Day 4: Lebanon calls for peacekeepers to replace UNIFIL",
-      "description": "Lebanon's prime minister has told the UN that the withdrawal of peacekeeping troops risks creating a vacuum. Leaders from Pakistan and Iraq are also speaking on day 4 of a conference dominated by the Middle East.",
+      "title": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
+      "description": "Lebanon's prime minister has told the UN that the withdrawal of peacekeeping troops risks creating a vacuum. Leaders from Pakistan and Iraq are also speaking on day four of a conference dominated by the Middle East.",
       "url": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 25 Sep 2026 15:09:00 GMT",
+      "published": "Fri, 25 Sep 2026 15:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -1893,6 +1903,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pope Leo XIV leads Vespers at Notre-Dame Cathedral in Paris",
+      "description": "Watch our special FRANCE 24 edition as Pope Leo XIV leads Vespers at Notre-Dame Cathedral on September 25 during his visit to Paris. Our journalists followed the event live from outside the cathedral, while guests joined us to analyse the significance of this key moment in the pontiff's four-day visit to France.",
+      "url": "https://www.france24.com/en/pope-leo-xiv-leads-vespers-at-notre-dame-cathedral-in-paris",
+      "published": "Fri, 25 Sep 2026 15:33:08 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "EU vows to pursue €120 million fine on X after US backs Musk's court challenge",
       "description": "The European Union on Friday said it will pursue a €120 million fine against the X social network after the US Justice Department said it supported the efforts of X owner Elon Musk to have the case annulled. The bloc fined the platform in 2025 for breaching EU online transparency rules, notably with its pay-to-play blue \"verification\" checkmark.",
       "url": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
@@ -1923,8 +1943,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Suspect in 2022 Paris Killing of Argentine rugby star Aramburu begs forgiveness",
-      "description": "Loik Le Priol, one of the main suspects in the 2022 killing of Argentine rugby player Federico Martin Aramburu in Paris, asked for forgiveness from the victim's family on Friday. Verdicts are expected to be delivered later in the day in the trial of four people, including Le Priol and Romain Bouvier, who are linked to France’s extreme right.",
+      "title": "Suspect in 2022 Paris murder of Argentine rugby star Aramburu begs forgiveness",
+      "description": "Loik Le Priol, one of the main suspects in the 2022 murder of Argentine rugby player Federico Martin Aramburu, asked forgiveness from the victim's family in a Paris court on Friday. Verdicts in the trial of four suspects – including Le Priol and Romain Bouvier, who both have links to France’s extreme right – are expected later in the day.",
       "url": "https://www.france24.com/en/france/20260925-suspected-paris-killer-of-argentine-rugby-star-begs-forgiveness-from-victim-s-family",
       "published": "Fri, 25 Sep 2026 14:16:07 GMT",
       "source": "France24",
@@ -1963,16 +1983,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "REPLAY : Pope Leo XIV's speech from the Élysée",
-      "description": "Watch the replay of Pope Leo XIV's address in french at the Élysée Palace on 25 September, where he spoke about peace, artificial intelligence, France's challenges and the importance of solidarity. The pontiff also condemned gestational surrogacy, calling for greater protection of human dignity during the first day of his four-day visit to France.",
-      "url": "https://www.france24.com/en/video/20260925-replay-pope-leo-xiv-s-speech-from-the-%C3%A9lys%C3%A9e",
-      "published": "Fri, 25 Sep 2026 11:26:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Man shot during Trump assassination attempt dies",
       "description": "James Copenhaver, one of three people shot during an assassination attempt on Donald Trump at a campaign rally, has died.",
       "url": "https://news.sky.com/story/man-shot-during-trump-assassination-attempt-in-butler-pennsylvania-dies-13591687",
@@ -1993,20 +2003,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says",
-      "description": "The U.S.-created Board of Peace has said the U.N. agency for Palestinian refugees has no place in Gaza",
-      "url": "https://abcnews.com/International/wireStory/board-peace-met-unrwa-despite-gaza-role-agencys-136744594",
-      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
+      "title": "Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search",
+      "description": "Divers in Indonesia have recovered 52 bodies following the capsizing of a ferry in rough seas earlier this month",
+      "url": "https://abcnews.com/International/wireStory/divers-recover-total-52-bodies-capsized-ferry-indonesia-136745410",
+      "published": "Fri, 25 Sep 2026 07:55:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Italy decrees limits on non-Italian speakers and veils in school classrooms",
-      "description": "Italy’s conservative government on Thursday has approved a school decree limiting classrooms to 30% of students with insufficient Italian-language skills and banning full-face Islamic veils, including burqas and niqabs",
-      "url": "https://abcnews.com/International/wireStory/italy-decrees-limits-italian-speakers-veils-school-classrooms-136727322",
-      "published": "Thu, 24 Sep 2026 23:41:50 -0400",
+      "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says",
+      "description": "The U.S.-created Board of Peace has said the U.N. agency for Palestinian refugees has no place in Gaza",
+      "url": "https://abcnews.com/International/wireStory/board-peace-met-unrwa-despite-gaza-role-agencys-136744594",
+      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2023,16 +2033,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal",
-      "description": "Turkey has agreed to gradually withdraw forces from a strategic military base in northern Iraq and hand over control to the Iraqi government",
-      "url": "https://abcnews.com/International/wireStory/turkey-hand-key-base-iraq-gradual-troop-withdrawal-136710723",
-      "published": "Thu, 24 Sep 2026 06:26:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Kenya destroys $63 million meth haul intercepted at sea",
       "description": "Kenyan authorities have destroyed a massive methamphetamine haul worth $63 million",
       "url": "https://abcnews.com/International/wireStory/kenya-destroys-63-million-meth-haul-intercepted-sea-136729639",
@@ -2043,10 +2043,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lourdes: What to know about one of Catholicism’s most famous pilgrimage sites",
-      "description": "Pope Leo XIV plans to visit the Sanctuary of Our Lady of Lourdes in southern France on Sunday",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-heads-lourdes-catholicisms-famous-pilgrimage-sites-136708562",
-      "published": "Thu, 24 Sep 2026 02:18:30 -0400",
+      "title": "Italy decrees limits on non-Italian speakers and veils in school classrooms",
+      "description": "Italy’s conservative government on Thursday has approved a school decree limiting classrooms to 30% of students with insufficient Italian-language skills and banning full-face Islamic veils, including burqas and niqabs",
+      "url": "https://abcnews.com/International/wireStory/italy-decrees-limits-italian-speakers-veils-school-classrooms-136727322",
+      "published": "Thu, 24 Sep 2026 23:41:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
