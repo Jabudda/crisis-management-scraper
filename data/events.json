@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T12:20:08.388258Z",
+  "last_updated": "2026-09-25T12:46:58.132454Z",
   "event_count": 220,
   "events": [
     {
@@ -218,6 +218,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 19:18:12 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+      "description": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 12:30:05 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -493,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
-      "description": "Mexico's southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 06:00:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam",
       "description": "Former Yes musician plays at sanctuary to raise awareness of animals that remain stuck in cages at ‘bile farms’ Rick Wakeman has played to all kinds of people around the globe, but he has now performed to an audience he had never encountered before – an enclosure of 150 bears. The former Yes musician, who has gone on to have a prolific solo career, played the piano at a Vietnamese bear sanctuary. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
@@ -703,11 +703,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 12:44:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
       "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
       "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 19:02:36 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "description": "Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 12:09:14 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -808,6 +828,16 @@
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
       "published": "Mon, 21 Sep 2026 05:00:38 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "War, AI, secularism, surrogacy: what to take away from the Pope's speech",
+      "description": "Pope Leo XIV used his address at the Élysée Palace to touch on some of France's biggest debates, from artificial intelligence and secularism to surrogacy, while calling for peace and solidarity. Our journalist Kethevane Gorjestani breaks down the key takeaways from his speech.",
+      "url": "https://www.france24.com/en/war-ai-secularism-surrogacy-what-to-take-away-from-the-pope-s-speech",
+      "published": "Fri, 25 Sep 2026 12:27:50 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1023,16 +1053,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
-      "description": "Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation's politics.",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 05:59:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1107,16 +1127,6 @@
       "description": "President Donald Trump rolled out an unusually lavish welcome for Chinese President Xi Jinping, praising their personal friendship throughout a White House state dinner and other ceremonial events. While both leaders said they held frank discussions behind closed doors, the visit produced no major breakthroughs, prompting criticism from Democratic lawmakers who argued the pageantry overshadowed pressing issues including Iran, Taiwan, AI and trade.",
       "url": "https://www.france24.com/en/donald-trump-courts-xi-jinping-during-high-profile-white-house-visit",
       "published": "Fri, 25 Sep 2026 09:38:50 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "France's Catholic influencers take faith from social media to real life",
-      "description": "Catholic influencers gathered hundreds of young people for an evening of prayer at Paris's Saint-Sulpice church ahead of Pope Leo XIV's visit, highlighting how social media is becoming a new tool for evangelisation. As youth baptisms rise in France, creators say their goal is to turn online engagement into real-life communities, while Church leaders warn that influencers themselves should not overshadow the faith they promote.",
-      "url": "https://www.france24.com/en/france-s-catholic-influencers-take-faith-from-social-media-to-real-life",
-      "published": "Fri, 25 Sep 2026 08:53:12 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1533,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 09:35:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Jay-Z rape accuser says her allegation was false",
       "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
@@ -1623,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+      "description": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 12:08:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
       "description": "Tehran’s offer comes as high fuel prices put pressure on Trump ahead of the US midterm elections.",
       "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
@@ -1647,16 +1657,6 @@
       "description": "New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
       "published": "Fri, 25 Sep 2026 07:55:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Tata v Tata: What’s behind India’s big boardroom brawl?",
-      "description": "India's most famous conglomerate is knee-deep in feuds over who gets to decide the Tata Group's future.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 05:22:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1913,9 +1913,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "UNGA Day 3: Netanyahu defends Israel as delegates walk out",
-      "description": "Prime Minister Benjamin Netanyahu called accusing Israel of genocide in Gaza the \"greatest lie of the century.\" Many delegates walked out for his General Assembly speech. Mahmoud Abbas also spoke via video.",
-      "url": "https://www.dw.com/en/unga-day-3-netanyahu-defends-israel-as-delegates-walk-out/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "UNGA Day 4: Lebanese on deck after defiant Netanyahu speech",
+      "description": "A day after a divisive speech by Israeli Prime Minister Netanyahu, the prime minister of Lebanon will address the UN General Assembly. Leaders from Pakistan and Iraq are also set to speak on the meeting's 4th day.",
+      "url": "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 24 Sep 2026 19:11:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
