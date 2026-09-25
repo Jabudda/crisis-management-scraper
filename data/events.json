@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T16:15:24.393644Z",
+  "last_updated": "2026-09-25T16:40:40.030436Z",
   "event_count": 219,
   "events": [
     {
@@ -168,16 +168,6 @@
       "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
       "published": "Fri, 25 Sep 2026 10:28:45 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Fatalities on Indian roads: One death reported every three minutes",
-      "description": "India has the second-largest road network in the world, spanning over 6 million kilometres. But these roads are silent killers, with one death reported every three minutes. Every day, headlines are filled with horror stories: drunk drivers mowing people down, school buses hit by speeding trucks killing children, buses with dozens of passengers plunging into gorges.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260925-fatalities-on-indian-roads-one-death-reported-every-three-minutes",
-      "published": "Fri, 25 Sep 2026 11:33:51 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -378,6 +368,16 @@
       "url": "https://www.dw.com/en/bulgaria-s-battery-boom-from-zero-to-global-leader/a-79428289?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 25 Sep 2026 11:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
+      "description": "Enthused believers hailed Pope Leo XIV as he waved to the crowds from a 'popemobile' in the French capital on Friday, after speeches calling for peace and warning against losing humanity in an AI-driven \"paradise of machines\". “He’s extraordinary”, said one person in the crowd just after the pope passed by.",
+      "url": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
+      "published": "Fri, 25 Sep 2026 16:23:03 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -913,26 +913,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-      "description": "Pakistani and Turkish military chiefs head to Riyadh for urgent talks, but both countries remain cautious on involvement",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 11:22:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
-      "description": "The US-Israel war on Iran continues to take centre stage as the UNGA enters its fourth day.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
-      "published": "Fri, 25 Sep 2026 11:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1234,7 +1214,7 @@
     },
     {
       "title": "Xi wraps up US visit with trip to National Archives",
-      "description": "On the last day of his visit to the US, Chinese leader Xi Jinping will visit the National Archives with President Donald Trump, where the Declaration of Independence and the US Constitution are stored. DW has more.",
+      "description": "On the last day of his visit to the US, Chinese leader Xi Jinping visited the National Archives with President Donald Trump, where the Declaration of Independence and the US Constitution are stored. DW has more.",
       "url": "https://www.dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 25 Sep 2026 14:59:00 GMT",
       "source": "Deutsche Welle",
@@ -1410,6 +1390,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ethiopia’s new rebel alliance faces an old problem",
+      "description": "Former enemies have united against Abiy Ahmed, but disputes over territory, power and command could pull them apart.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 16:10:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1618,6 +1608,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 22:01:17 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
+      "description": "UN refugee agency says 400 people a day, about 20 times the previous daily rate, now cross from Sudan into eastern Chad.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss",
+      "published": "Fri, 25 Sep 2026 16:06:45 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
