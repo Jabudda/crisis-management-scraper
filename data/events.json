@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T17:35:56.159196Z",
+  "last_updated": "2026-09-26T18:14:54.043170Z",
   "event_count": 222,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 52,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+      "description": "China's Vice President, Han Zheng, urged the world to defend the postwar international order on Saturday, telling the UN General Assembly that geopolitical conflicts, widening development gaps and mounting global challenges make multilateralism more urgent than ever.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168456",
+      "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 44,
       "severity_level": "Critical"
     },
     {
@@ -110,16 +120,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "7 dead as Russia, Ukraine exchange strikes and aerial war intensifies",
-      "description": "Russian attacks have killed four people across Ukraine as the aerial war between Moscow and Kyiv intensifies",
-      "url": "https://abcnews.com/International/wireStory/7-dead-russia-ukraine-exchange-strikes-aerial-war-136777763",
-      "published": "Sat, 26 Sep 2026 07:33:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -283,6 +283,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 17:47:09 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
       "description": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls. Shadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday. He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
@@ -353,16 +363,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
-      "description": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
-      "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 25 Sep 2026 18:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "British man and Greek wife 'killed in Athens gas leak explosion'",
       "description": "A British man and his Greek wife are believed to be among those killed in a building collapse caused by an explosion from a gas leak in Athens.",
       "url": "https://news.sky.com/story/british-man-and-greek-wife-killed-in-athens-building-collapse-13591977",
@@ -373,20 +373,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12",
-      "description": "A suicide bomber detonated an explosives-laden vehicle at a police checkpoint in northwestern Pakistan, killing at least 12 people and wounding about 35 others",
-      "url": "https://abcnews.com/International/wireStory/gunmen-target-ambulance-pakistan-after-suicide-bombing-checkpoint-136778096",
-      "published": "Sat, 26 Sep 2026 13:15:14 -0400",
+      "title": "A month after Nepal floods, thousands still missing and families face a long recovery",
+      "description": "Thousands in Nepal have lost their homes and livelihoods after last month's devastating floods",
+      "url": "https://abcnews.com/International/wireStory/month-after-nepal-floods-thousands-missing-families-face-136775003",
+      "published": "Sat, 26 Sep 2026 03:28:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
     },
     {
-      "title": "A month after Nepal floods, thousands still missing and families face a long recovery",
-      "description": "Thousands in Nepal have lost their homes and livelihoods after last month's devastating floods",
-      "url": "https://abcnews.com/International/wireStory/month-after-nepal-floods-thousands-missing-families-face-136775003",
-      "published": "Sat, 26 Sep 2026 03:28:28 -0400",
+      "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12",
+      "description": "A suicide bomber detonated an explosives-laden vehicle at a police checkpoint in northwestern Pakistan, killing at least 12 people and wounding about 35 others",
+      "url": "https://abcnews.com/International/wireStory/gunmen-target-ambulance-pakistan-after-suicide-bombing-checkpoint-136778096",
+      "published": "Sat, 26 Sep 2026 13:15:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -443,31 +443,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Inside the Russian classrooms where 'patriotism lessons' prepare children to die for their country",
-      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
-      "url": "https://www.dw.com/en/inside-the-russian-classrooms-where-patriotism-lessons-prepare-children-to-die-for-their-country/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 26 Sep 2026 11:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "Protests against war crimes verdicts add pressure on Kosovo's government",
       "description": "Daily protests in Kosovo against war crimes convictions for former rebel commanders have spread throughout the small Balkan country",
       "url": "https://abcnews.com/International/wireStory/protests-war-crimes-verdicts-add-pressure-kosovos-government-136761249",
       "published": "Fri, 25 Sep 2026 14:15:59 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
-      "description": "Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and described the violence in the West Bank as the work of a few “juvenile delinquents” and rejected accusations of genocide in Gaza as “the greatest lie of the century.”",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168431",
-      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -493,6 +473,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Yemen’s civil war returns and overwhelms hospitals with 'a very dangerous situation'",
+      "description": "Hospitals in Yemen are struggling as civil war returns to the Arab world's poorest nation",
+      "url": "https://abcnews.com/International/wireStory/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-136744228",
+      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "World leaders descend on New York for UNGA — but who really has America’s ear?",
       "description": "Over 100 world leaders descend on the United Nations General Assembly as wars in the Middle East and Ukraine dominate the diplomatic agenda.",
       "url": "https://www.foxnews.com/world/world-leaders-descend-new-york-unga-who-really-has-americas-ear",
@@ -503,30 +493,10 @@
       "severity_level": "High"
     },
     {
-      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-      "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 23:42:39 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Women take up arms as sexual violence ravages eastern DRC",
       "description": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
       "published": "Sat, 26 Sep 2026 16:24:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "The intelligence war is turning against the Houthis",
-      "description": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 13:29:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -603,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "South African police discover body of 10th woman near Johannesburg",
+      "description": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 18:08:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -663,6 +643,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Propaganda in Russian schools prepares students to die",
+      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
+      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 26 Sep 2026 11:55:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Ethiopia risks a wider war. Here are 5 things to know",
       "description": "Renewed fighting in northern Ethiopia is threatening the fragile peace that ended the Tigray war",
       "url": "https://abcnews.com/International/wireStory/ethiopia-risks-wider-war-5-things-136755418",
@@ -708,6 +698,16 @@
       "url": "https://www.dw.com/en/india-news-new-delhi-islamabad-trade-accusations-at-un-general-assembly/live-79440869?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 26 Sep 2026 07:28:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Explosion near Acropolis in Greece injures at least 2 people and collapses a building",
+      "description": "A powerful blast has caused a building to collapse near the ancient Acropolis in Greece",
+      "url": "https://abcnews.com/International/wireStory/explosion-acropolis-greece-injures-2-people-collapses-building-136744794",
+      "published": "Fri, 25 Sep 2026 07:56:32 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -873,20 +873,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Venezuelan government, opposition agree to work towards reform of top court",
-      "description": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 16:42:38 +0000",
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+      "description": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:55:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-      "description": "Seven armed groups have joined forces against Abiy Ahmed’s government, bringing former enemies into the same alliance.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 14:00:43 +0000",
+      "title": "Venezuelan government, opposition agree to work towards reform of top court",
+      "description": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 16:42:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1073,6 +1073,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "description": "The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:22:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1133,20 +1143,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Thousands of students protest German military conscription",
-      "description": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 15:23:38 +0000",
+      "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
+      "description": "Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:27:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-      "description": "Disabled and amputee children in Gaza are unable to get new wheelchairs as Israel refuses to allow them in",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 13:22:33 +0000",
+      "title": "Thousands of students protest German military conscription",
+      "description": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 15:23:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1158,6 +1168,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
       "published": "Sat, 26 Sep 2026 00:12:42 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Europe's data centers may drive digital sovereignty",
+      "description": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy independence.",
+      "url": "https://www.dw.com/en/europe-s-data-centers-may-drive-digital-sovereignty/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 26 Sep 2026 18:08:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1183,20 +1203,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Body of 10th woman found in South Africa as killings investigation continues",
-      "description": "South African police say another woman’s body has been found near Johannesburg, bringing the number of victims in a series of killings under investigation to 10",
-      "url": "https://abcnews.com/International/wireStory/body-10th-woman-found-south-africa-killings-investigation-136781872",
-      "published": "Sat, 26 Sep 2026 11:23:09 -0400",
+      "title": "Congo plane crash kills 14, including 2 senior military officials",
+      "description": "At least 14 people have died in a plane crash in Congo, including two senior military officials, according to the Congolese military",
+      "url": "https://abcnews.com/International/wireStory/congo-plane-crash-kills-14-including-2-senior-136769427",
+      "published": "Fri, 25 Sep 2026 19:04:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Congo plane crash kills 14, including 2 senior military officials",
-      "description": "At least 14 people have died in a plane crash in Congo, including two senior military officials, according to the Congolese military",
-      "url": "https://abcnews.com/International/wireStory/congo-plane-crash-kills-14-including-2-senior-136769427",
-      "published": "Fri, 25 Sep 2026 19:04:07 -0400",
+      "title": "Body of 10th woman found in South Africa as killings investigation continues",
+      "description": "South African police say another woman’s body has been found near Johannesburg, bringing the number of victims in a series of killings under investigation to 10",
+      "url": "https://abcnews.com/International/wireStory/body-10th-woman-found-south-africa-killings-investigation-136781872",
+      "published": "Sat, 26 Sep 2026 11:23:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1221,6 +1241,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "description": "Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:35:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
@@ -1290,16 +1320,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-      "description": "Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 13:32:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1433,16 +1453,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
-      "description": "Manchester City are understood to be ready to appeal any guilty verdict, but could face 'severe penalty' says ex-chair.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 12:59:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1473,8 +1483,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-      "description": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 26 Sep 2026 16:53:32 GMT",
       "source": "BBC News",
@@ -1493,10 +1503,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:46:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1513,20 +1523,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 15:46:40 GMT",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 01:24:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 01:24:31 GMT",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1558,6 +1568,36 @@
       "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 22:12:48 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+      "description": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 18:00:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump rejects combining US-China AI efforts",
+      "description": "The US president said the fears over AI were just 'hoaxes'.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:39:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+      "description": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 17:15:43 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1597,36 +1637,6 @@
       "description": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
       "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
       "published": "Sat, 26 Sep 2026 14:36:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-      "description": "George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 14:17:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
-      "description": "Fully abolishing the veto would require the unlikely agreement of all five permanent Security Council members.",
-      "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 13:17:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The media battle behind Brazil’s election",
-      "description": "A corruption scandal, Bolsonaro’s comeback, and Trump’s influence collide as Brazil heads into elections.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 13:01:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2073,20 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
-      "description": "Pope Leo XIV draws hundreds of thousands to Paris’ Champs-Élysées for a massive outdoor Mass",
-      "url": "https://abcnews.com/International/wireStory/pope-encourages-catholics-deeply-secular-france-persevere-paris-136777307",
-      "published": "Sat, 26 Sep 2026 13:07:05 -0400",
+      "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says",
+      "description": "The U.S.-created Board of Peace has said the U.N. agency for Palestinian refugees has no place in Gaza",
+      "url": "https://abcnews.com/International/wireStory/board-peace-met-unrwa-despite-gaza-role-agencys-136744594",
+      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
-      "description": "U_S_ President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait.”",
-      "url": "https://abcnews.com/International/wireStory/trump-posts-map-showing-trump-strait-off-iran-136776098",
-      "published": "Sat, 26 Sep 2026 06:34:56 -0400",
+      "title": "UN adds 61 companies to settlements blacklist over alleged Palestinian rights violations",
+      "description": "The U.N. human rights office has added 61 more companies to a blacklist for alleged involvement in violating Palestinian rights through business ties to Israeli settlements in the West Bank",
+      "url": "https://abcnews.com/International/wireStory/adds-61-companies-settlements-blacklist-alleged-palestinian-rights-136758208",
+      "published": "Fri, 25 Sep 2026 14:16:51 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2103,30 +2113,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "11-year-old Japanese player Yuki Kurihara wins esports gold medal at the Asian Games",
-      "description": "Yuki Kurihara of Japan has won a gold medal in esports at the Asian Games in Nagoya, Japan",
-      "url": "https://abcnews.com/International/wireStory/11-year-japanese-player-yuki-kurihara-wins-esports-136775823",
-      "published": "Sat, 26 Sep 2026 13:06:17 -0400",
+      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
+      "description": "Pope Leo XIV draws hundreds of thousands to Paris’ Champs-Élysées for a massive outdoor Mass",
+      "url": "https://abcnews.com/International/wireStory/pope-encourages-catholics-deeply-secular-france-persevere-paris-136777307",
+      "published": "Sat, 26 Sep 2026 13:07:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's President Lula bans online betting ahead of presidential election",
-      "description": "Brazil’s President Lula da Silva has signed an order to ban fixed-odds betting",
-      "url": "https://abcnews.com/International/wireStory/brazils-president-lula-bans-online-betting-ahead-presidential-136770762",
-      "published": "Fri, 25 Sep 2026 21:03:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UN adds 61 companies to settlements blacklist over alleged Palestinian rights violations",
-      "description": "The U.N. human rights office has added 61 more companies to a blacklist for alleged involvement in violating Palestinian rights through business ties to Israeli settlements in the West Bank",
-      "url": "https://abcnews.com/International/wireStory/adds-61-companies-settlements-blacklist-alleged-palestinian-rights-136758208",
-      "published": "Fri, 25 Sep 2026 14:16:51 -0400",
+      "title": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
+      "description": "U_S_ President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait.”",
+      "url": "https://abcnews.com/International/wireStory/trump-posts-map-showing-trump-strait-off-iran-136776098",
+      "published": "Sat, 26 Sep 2026 06:34:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
