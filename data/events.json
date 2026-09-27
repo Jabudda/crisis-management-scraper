@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T22:12:26.554788Z",
+  "last_updated": "2026-09-27T22:37:42.936152Z",
   "event_count": 221,
   "events": [
     {
@@ -123,16 +123,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Rescuers pull 2 unconscious from collapsed building near the Acropolis in Greece",
-      "description": "Rescuers are searching for four people after a building collapsed in a blast in Athens' tourist district of Plaka",
-      "url": "https://abcnews.com/International/wireStory/rescuers-pull-2-unconscious-collapsed-building-acropolis-greece-136777217",
-      "published": "Sat, 26 Sep 2026 06:34:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical"
-    },
-    {
       "title": "What's behind South Africa's mass shootings and how they're often different to lone gunman attacks",
       "description": "A total of at least 38 people were killed and nearly 30 were wounded in three separate mass shootings in South Africa this week",
       "url": "https://abcnews.com/International/wireStory/south-africas-mass-shootings-lone-gunman-attacks-136803150",
@@ -150,6 +140,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "5 men arrested near air base used by US in Iran war on suspicion of preparing a terrorist act",
+      "description": "UK police have arrested five men near an air base used by the US during its war against Iran",
+      "url": "https://abcnews.com/International/wireStory/uk-police-evacuate-homes-air-base-us-detain-136793296",
+      "published": "Sun, 27 Sep 2026 11:38:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
-      "description": "Incessant rain has hammered several areas of Thailand’s capital, disrupting traffic and forcing hundreds to evacuate",
-      "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-bangkok-disrupts-traffic-prompts-evacuations-136775006",
-      "published": "Sat, 26 Sep 2026 06:35:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Security Council LIVE: Rising tide of forced displacement",
       "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
@@ -217,6 +207,16 @@
       "description": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength. Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
       "published": "Fri, 25 Sep 2026 10:28:45 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Australians along the east coast are reporting many sightings of endangered bogong moths as the insects continue their long migration towards the country’s alpine regions. Bogong moths, about the size of a bottle cap with a distinctive dark stripe that runs down each wing behind two white spots, used to be incredibly abundant. But populations collapsed by up to 99.5% in the two years before 2019. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+      "published": "Sun, 27 Sep 2026 22:16:51 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 25,
@@ -363,6 +363,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "UK police say 5 men arrested near a U.S. air base are being held on suspicion of preparing a terrorist act",
+      "description": "UK police say 5 men arrested near a U.S. air base are being held on suspicion of preparing a terrorist act",
+      "url": "https://abcnews.com/International/wireStory/uk-police-5-men-arrested-us-air-base-136795657",
+      "published": "Sun, 27 Sep 2026 11:40:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
       "description": "Haiti is at a “watershed moment” in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aimé told the UN General Assembly on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168453",
@@ -388,6 +398,26 @@
       "url": "https://www.france24.com/en/housing-crisis-fuels-madrid-protest",
       "published": "Sun, 27 Sep 2026 11:17:45 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Moscow rejects German calls to de-escalate Ukraine war",
+      "description": "Strikes across Ukraine killed at least six people overnight and on Sunday.",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
+      "published": "Sun, 27 Sep 2026 11:19:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home",
+      "description": "Rain has eased in Thailand’s capital on Sunday, but flooding persisted in several low-lying areas, with thousands forced to evacuate",
+      "url": "https://abcnews.com/International/wireStory/rain-eases-bangkok-persistent-flooding-forces-thousands-leave-136793629",
+      "published": "Sun, 27 Sep 2026 05:29:40 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -423,20 +453,10 @@
       "severity_level": "High"
     },
     {
-      "title": "A month after Nepal floods, thousands still missing and families face a long recovery",
-      "description": "Thousands in Nepal have lost their homes and livelihoods after last month's devastating floods",
-      "url": "https://abcnews.com/International/wireStory/month-after-nepal-floods-thousands-missing-families-face-136775003",
-      "published": "Sat, 26 Sep 2026 03:28:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12",
-      "description": "A suicide bomber detonated an explosives-laden vehicle at a police checkpoint in northwestern Pakistan, killing at least 12 people and wounding about 35 others",
-      "url": "https://abcnews.com/International/wireStory/gunmen-target-ambulance-pakistan-after-suicide-bombing-checkpoint-136778096",
-      "published": "Sat, 26 Sep 2026 13:15:14 -0400",
+      "title": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war",
+      "description": "British police have arrested five men on suspicion of preparing an act of terrorism and explosives offenses outside RAF Fairford, a base in western England operated by the U.S. Air Force",
+      "url": "https://abcnews.com/International/wireStory/air-base-center-uk-terror-probe-us-air-136797598",
+      "published": "Sun, 27 Sep 2026 11:38:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -523,21 +543,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: Chalmers and Gallagher to present final budget outcome; RBA interest rate hike looms",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gallagher says final budget outcome will show $6bn improvement Gallagher and treasurer Jim Chalmers are set to present the final budget outcome today, which she said will show about a $6bn improvement since the federal budget. We do everything we can to make sure that the budget is in as good a shape as it can, acknowledging that we are having to find room to invest in all these areas that the Australian people care about deeply and want to see improved services in. I think this incident really adds weight to the arguments that the PM that has been putting forward about needing to legislate, to provide some protections, some guardrails, and also, you know, have an escalation pathway. I mean, the idea that something happened in June 18th and we weren’t aware of it until the second week of September is just not acceptable. I think we have to have a look at this incident and deal with it on its merits, but the broader question of how we deal with these in the future. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
-      "published": "Sun, 27 Sep 2026 21:54:33 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
       "description": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
       "published": "Sat, 26 Sep 2026 17:13:54 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Separate mass shootings in South Africa townships leave at least 27 people dead",
+      "description": "Two mass shootings hours apart near South Africa’s two largest cities killed at least 27 people, police said",
+      "url": "https://abcnews.com/International/wireStory/separate-mass-shootings-south-africa-townships-leave-27-136793211",
+      "published": "Sun, 27 Sep 2026 11:39:08 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -688,6 +708,16 @@
       "url": "https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 18:47:52 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "At least 12 dead and dozens missing after vessel capsizes in eastern Congo",
+      "description": "A vessel carrying traders has capsized in Lake Kivu in eastern Congo, killing at least 12 people",
+      "url": "https://abcnews.com/International/wireStory/12-dead-dozens-missing-after-vessel-capsized-eastern-136793833",
+      "published": "Sun, 27 Sep 2026 05:36:31 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -923,16 +953,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Helicopter crash near Canadian city of Montreal leaves 4 dead, police say",
-      "description": "Police say a helicopter has crashed southeast of the Canadian city of Montreal, killing all four people on board",
-      "url": "https://abcnews.com/International/wireStory/helicopter-crash-canadian-city-montreal-leaves-4-dead-136788687",
-      "published": "Sat, 26 Sep 2026 18:16:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Africa needs its own AI solutions, not borrowed ones, says expert",
       "description": "Africa should focus its use of technology on solving its own real challenges rather than copying the systems and priorities of other parts of the world.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168440",
@@ -1073,10 +1093,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
-      "description": "China and the U.S. have agreed to set up a channel for handling AI-related incidents and accelerate work on military crisis communications",
-      "url": "https://abcnews.com/International/wireStory/china-us-agree-set-new-ai-safety-channel-136777768",
-      "published": "Sat, 26 Sep 2026 07:16:28 -0400",
+      "title": "Pope blasts assisted dying as 'false compassion'",
+      "description": "Pope Leo XIV has criticized the legalization of medically assisted death.",
+      "url": "https://abcnews.com/International/wireStory/pope-brings-message-protect-life-french-shrine-lourdes-136792931",
+      "published": "Sun, 27 Sep 2026 11:45:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1183,20 +1203,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Venezuela releases dozens of prisoners following meeting between Trump and interim leader",
-      "description": "Human rights groups in Venezuela said that significant numbers of political prisoners were released in the South American country on Saturday, though a total number of those released has still not been established",
-      "url": "https://abcnews.com/International/wireStory/venezuela-releases-dozens-prisoners-meeting-trump-interim-leader-136790060",
-      "published": "Sat, 26 Sep 2026 20:55:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A new European soccer league for amputee players kicked off in Romania’s capital",
-      "description": "A new European soccer league for amputee players has kicked off in Romania’s capital",
-      "url": "https://abcnews.com/International/wireStory/new-european-soccer-league-amputee-players-kicked-off-136776746",
-      "published": "Sat, 26 Sep 2026 06:34:49 -0400",
+      "title": "Voters in Switzerland decide on right-wing party's proposal to tighten neutrality rules",
+      "description": "Voters in Switzerland are deciding on a proposal to strengthen the country's neutrality",
+      "url": "https://abcnews.com/International/wireStory/voters-switzerland-decide-wing-partys-proposal-tighten-neutrality-136792739",
+      "published": "Sun, 27 Sep 2026 02:37:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1884,7 +1894,7 @@
     },
     {
       "title": "Serbian President Aleksandar Vucic announces resignation",
-      "description": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap elections slated for next month.",
+      "description": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap parliamentary elections slated for next month.",
       "url": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 27 Sep 2026 19:32:00 GMT",
       "source": "Deutsche Welle",
@@ -2053,26 +2063,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Andy Burnham brings good vibes to Labour’s annual conference but tough choices are coming",
-      "description": "British Prime Minister Andy Burnham has been in office for two months, and his party seems content for now",
-      "url": "https://abcnews.com/International/wireStory/andy-burnham-brings-good-vibes-labours-annual-conference-136791914",
-      "published": "Sun, 27 Sep 2026 01:23:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
-      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
-      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
-      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Serbia’s President Aleksandar Vucic resigns to pursue becoming prime minister in an early parliamentary vote",
       "description": "Serbia’s President Aleksandar Vucic resigns to pursue becoming prime minister in an early parliamentary vote",
       "url": "https://abcnews.com/International/wireStory/serbias-president-aleksandar-vucic-resigns-pursue-becoming-prime-136800944",
@@ -2083,20 +2073,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
-      "description": "Pope Leo XIV draws hundreds of thousands of people to Paris’ Champs-Élysées for a massive outdoor Mass",
-      "url": "https://abcnews.com/International/wireStory/pope-encourages-catholics-deeply-secular-france-persevere-paris-136777307",
-      "published": "Sat, 26 Sep 2026 18:58:13 -0400",
+      "title": "Bus carrying Filipino tourists veers off German highway and overturns, killing 2",
+      "description": "A bus carrying tourists from the Philippines veered off a highway west of Munich and overturned, killing at least two people",
+      "url": "https://abcnews.com/International/wireStory/tourist-bus-carrying-filipino-tourists-veers-off-german-136794116",
+      "published": "Sun, 27 Sep 2026 07:26:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
-      "description": "U_S_ President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait.”",
-      "url": "https://abcnews.com/International/wireStory/trump-posts-map-showing-trump-strait-off-iran-136776098",
-      "published": "Sat, 26 Sep 2026 06:34:56 -0400",
+      "title": "Tensions run high in Northern Ireland after contentious march given go-ahead",
+      "description": "British Prime Minister Andy Burnham has called for calm in Northern Ireland after a contentious parade got approval from the High Court in Belfast",
+      "url": "https://abcnews.com/International/wireStory/tensions-run-high-northern-ireland-after-contentious-march-136793928",
+      "published": "Sun, 27 Sep 2026 11:38:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fuel price spike squeezes French baguette bakers as heating oil costs soar",
+      "description": "Kevin and Sandrine Luce run a bakery in northern France and are struggling with soaring fuel prices",
+      "url": "https://abcnews.com/International/wireStory/crunch-time-fuel-price-spike-squeezes-french-baguette-136793021",
+      "published": "Sun, 27 Sep 2026 02:40:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
