@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T04:41:19.159423Z",
+  "last_updated": "2026-09-27T05:12:48.817255Z",
   "event_count": 222,
   "events": [
     {
@@ -80,16 +80,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 07:21:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -333,6 +323,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "description": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 04:45:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Bangkok declared disaster zone after heavy rains submerge roads",
       "description": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
@@ -523,10 +523,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia news live: AFL grand final breaks records; Marles defends army barracks sell-off amid controversy",
-      "description": "Follow live updates Get our breaking news email , free app or daily news podcast Deaths in Queensland child protection system reach five-year high Queensland has recorded a five-year high of 92 deaths in the child protection system, according to new data. The real alarm bell that was set off this week is the fact that the only reason we knew about this breach of the Medicare archive or data system is because OpenAI told us there was a breach. If they hadn’t told us that there was a breach, would we have known about it at all? That demonstrates that our cyber defences, particularly for Services Australia, were woefully inadequate. Continue reading...",
+      "title": "AFL grand final breaks TV audience records – as it happened",
+      "description": "This blog is now closed. Get our breaking news email , free app or daily news podcast Deaths in Queensland child protection system reach five-year high Queensland has recorded a five-year high of 92 deaths in the child protection system, according to new data. The real alarm bell that was set off this week is the fact that the only reason we knew about this breach of the Medicare archive or data system is because OpenAI told us there was a breach. If they hadn’t told us that there was a breach, would we have known about it at all? That demonstrates that our cyber defences, particularly for Services Australia, were woefully inadequate. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
-      "published": "Sun, 27 Sep 2026 04:16:42 GMT",
+      "published": "Sun, 27 Sep 2026 04:39:16 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -653,9 +653,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Propaganda in Russian schools prepares students to die",
-      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
-      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Russian students: Propaganda in school prepares them to die",
+      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future.",
+      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 26 Sep 2026 11:55:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -738,16 +738,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168439",
       "published": "Fri, 25 Sep 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iowa teacher, 10-year-old student die during fifth grade school field trip at Lake Macbride State Park",
-      "description": "A fifth grade field trip to Lake Macbride State Park turned fatal as authorities recovered two victims from waters near the Coralville Reservoir spillway.",
-      "url": "https://www.foxnews.com/us/iowa-teacher-10-year-old-student-die-fifth-grade-school-field-trip-lake-macbride-state-park",
-      "published": "Thu, 24 Sep 2026 15:54:16 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -2108,6 +2098,16 @@
       "url": "https://abcnews.com/International/wireStory/brazils-president-lula-bans-online-betting-ahead-presidential-136770762",
       "published": "Fri, 25 Sep 2026 21:03:36 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Florida man, 76, with suspended license allegedly admits to driving under the influence of rum, cocaine",
+      "description": "Charles Ducking, 76, allegedly showed deputies his rum cup and admitted to doing cocaine minutes before a traffic stop in Polk County, Florida.",
+      "url": "https://www.foxnews.com/us/florida-man-76-suspended-license-allegedly-admits-driving-under-influence-rum-cocaine",
+      "published": "Sun, 27 Sep 2026 00:46:44 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
