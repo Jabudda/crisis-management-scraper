@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T08:41:17.272858Z",
+  "last_updated": "2026-09-27T09:13:23.504525Z",
   "event_count": 222,
   "events": [
     {
@@ -63,8 +63,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 27 dead in two mass shootings in South Africa, police say",
-      "description": "Seventeen people killed at township bar near Johannesburg and 10 killed in separate incident at store near Cape Town, officers say Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said. The South African police service said on Sunday that 17 people had been killed on Saturday night when eight suspects armed with AK-47 rifles and pistols opened fire at a bar in Wedela township, south-west of Johannesburg. At least 15 other people sustained gunshot injuries in that attack, police said. Continue reading...",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "description": "Seventeen people killed at bar near Johannesburg and 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said. The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 rifles and pistols opened fire at a bar in Wedela township, south-west of Johannesburg. At least 15 other people sustained gunshot injuries in that attack, police said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "published": "Sun, 27 Sep 2026 08:19:24 GMT",
       "source": "The Guardian World",
@@ -90,6 +90,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 08:40:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -143,6 +153,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
+      "description": "Incessant rain has hammered several areas of Thailand’s capital, disrupting traffic and forcing hundreds to evacuate",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-bangkok-disrupts-traffic-prompts-evacuations-136775006",
+      "published": "Sat, 26 Sep 2026 06:35:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Security Council LIVE: Rising tide of forced displacement",
       "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
@@ -150,16 +170,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Tenth woman's body found as South Africa police probe killings",
-      "description": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 18:30:04 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -190,16 +200,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "EU unlocks humanitarian aid for crises worldwide",
-      "description": "EU allocates majority of aid to sub-Saharan Africa to fund actions related to migration, conflict and food insecurity.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/eu-unlocks-humanitarian-aid-for-africa-and-other-crisis-hit-regions?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 01:27:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -343,21 +343,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home",
-      "description": "Rain has eased in Thailand’s capital on Sunday, but flooding persisted in several low-lying areas, with thousands forced to evacuate",
-      "url": "https://abcnews.com/International/wireStory/rain-eases-bangkok-persistent-flooding-forces-thousands-leave-136793629",
-      "published": "Sun, 27 Sep 2026 04:22:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
       "description": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "published": "Thu, 24 Sep 2026 15:29:42 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Northern Ireland court allows Orange Order march through Catholic area",
+      "description": "A court in Northern Ireland has allowed a Protestant parade to proceed through a controversial route in a Catholic area for the first time in nearly 30 years. The legal dispute ended in the early hours of Sunday, with counterprotests now underway and police working to keep marchers and protesters apart. The Drumcree parade dispute dates back to the mid-1990s, when tensions over the route led to riots, roadblocks and murders, threatening Northern Ireland’s peace process. Hervé Amoric reports from Portadown.",
+      "url": "https://www.france24.com/en/northern-ireland-court-allows-orange-order-march-through-catholic-area",
+      "published": "Sun, 27 Sep 2026 08:41:07 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -378,6 +378,16 @@
       "url": "https://news.sky.com/story/british-man-and-greek-wife-killed-in-athens-building-collapse-13591977",
       "published": "Sat, 26 Sep 2026 06:12:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "A month after Nepal floods, thousands still missing and families face a long recovery",
+      "description": "Thousands in Nepal have lost their homes and livelihoods after last month's devastating floods",
+      "url": "https://abcnews.com/International/wireStory/month-after-nepal-floods-thousands-missing-families-face-136775003",
+      "published": "Sat, 26 Sep 2026 03:28:28 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -473,6 +483,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "description": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:35:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "At least 27 people killed in two shootings in South African townships",
       "description": "Incidents in Wedela southwest of ​Johannesburg and Lwandle near Cape Town come days after Durban mass shooting.",
       "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
@@ -513,7 +533,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+      "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
       "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 26 Sep 2026 23:04:08 GMT",
@@ -663,6 +683,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
+      "description": "Massive Attack singer arrested over pro-Palestine protest in UK",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:49:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Thousands protest in Madrid against Spain’s housing crisis",
       "description": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
@@ -720,6 +750,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Suicide bombing in northwest Pakistan kills at least 12",
+      "description": "A vehicle laden with explosives rammed into a roadside checkpoint in Pakistan, killing at least a dozen people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:26:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -793,7 +833,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Pope Leo XIV to hold open-air Mass in Lourdes pilgrimage site",
+      "title": "Live: Pope Leo XIV holds open-air Mass at Lourdes pilgrimage site",
       "description": "Pope Leo XIV is visiting the pilgrimage town of Lourdes this weekend as part of his four-day trip to France, the first official papal state visit to the country in 18 years. He is expected to hold an open-air Mass this morning at the Lourdes Sanctuary and will meet privately in the afternoon with victims of clergy sexual abuse. Follow our liveblog for the latest developments.",
       "url": "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site",
       "published": "Sun, 27 Sep 2026 07:44:02 GMT",
@@ -933,6 +973,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
+      "description": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
+      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:49:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
       "description": "Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
@@ -943,7 +993,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Northern Ireland court allows Orange Order march through Catholic area",
+      "title": "Northern Ireland protesters block Catholic area before Orange Order march",
       "description": "Crowd gathers on Garvaghy Road early on Sunday morning to protest against the ruling allowing the march.",
       "url": "https://www.aljazeera.com/news/2026/9/27/northern-ireland-court-allows-orange-order-march-through-catholic-area?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 06:53:31 +0000",
@@ -957,26 +1007,6 @@
       "description": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
       "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 04:59:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-      "description": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 01:59:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan",
-      "description": "US president rejects Iran's seven-day plan to reopen the Strait of Hormuz, saying the deal is not 'acceptable'.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 00:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1163,10 +1193,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Voters in Switzerland decide on right-wing party's proposal to tighten neutrality rules",
-      "description": "Voters in Switzerland are deciding on a proposal to strengthen the country's neutrality",
-      "url": "https://abcnews.com/International/wireStory/voters-switzerland-decide-wing-partys-proposal-tighten-neutrality-136792739",
-      "published": "Sun, 27 Sep 2026 02:37:26 -0400",
+      "title": "A new European soccer league for amputee players kicked off in Romania’s capital",
+      "description": "A new European soccer league for amputee players has kicked off in Romania’s capital",
+      "url": "https://abcnews.com/International/wireStory/new-european-soccer-league-amputee-players-kicked-off-136776746",
+      "published": "Sat, 26 Sep 2026 06:34:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1177,16 +1207,6 @@
       "description": "Human rights groups in Venezuela said that significant numbers of political prisoners were released in the South American country on Saturday, though a total number of those released has still not been established",
       "url": "https://abcnews.com/International/wireStory/venezuela-releases-dozens-prisoners-meeting-trump-interim-leader-136790060",
       "published": "Sat, 26 Sep 2026 20:55:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A new European soccer league for amputee players kicked off in Romania’s capital",
-      "description": "A new European soccer league for amputee players has kicked off in Romania’s capital",
-      "url": "https://abcnews.com/International/wireStory/new-european-soccer-league-amputee-players-kicked-off-136776746",
-      "published": "Sat, 26 Sep 2026 06:34:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1217,16 +1237,6 @@
       "description": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
       "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 03:51:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Powerful storm batters US Northeast disrupting power and travel",
-      "description": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 02:19:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1264,7 +1274,7 @@
     },
     {
       "title": "Thousands march in Madrid to protest eviction of 87-year-old woman",
-      "description": "The eviction of 87-year-old Maricarmen Abascal on Wednesday sparked a thousands-strong protest in the streets of Madrid Saturday, with demonstrators calling for greater protection for tenants. Widespread anger at rising housing costs have put pressure on centre-left Prime Minister Pedro Sanchez, whose government is expected to approve a package of pro-tenant measures in its next cabinet meeting.",
+      "description": "The eviction of 87-year-old Maricarmen Abascal on Wednesday sparked a thousands-strong protest in Madrid Saturday, with demonstrators demanding greater tenant protection. Widespread anger at rising housing costs have put pressure on Prime Minister Pedro Sanchez's government, which is expected to approve pro-tenant measures in its next cabinet meeting.",
       "url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
       "published": "Sat, 26 Sep 2026 17:04:06 GMT",
       "source": "France24",
@@ -1287,16 +1297,6 @@
       "description": "South African police say another woman’s body has been found near Johannesburg, bringing the number of victims in a series of killings under investigation to 10",
       "url": "https://abcnews.com/International/wireStory/body-10th-woman-found-south-africa-killings-investigation-136781872",
       "published": "Sat, 26 Sep 2026 11:23:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Trump calls on Zelenskyy to 'settle with Putin' as new strikes kill 10",
-      "description": "Ukraine continued to target Russian oil refineries and industrial sites.",
-      "url": "https://abcnews.com/International/wireStory/russian-ukrainian-strikes-leave-10-dead-trump-calls-136777763",
-      "published": "Sat, 26 Sep 2026 15:30:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1348,6 +1348,16 @@
       "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
       "published": "Fri, 25 Sep 2026 15:11:47 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Northern Ireland: Pro-UK march to go through Catholic area",
+      "description": "Northern Ireland: Pro-UK march to go through Catholic area",
+      "url": "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 27 Sep 2026 09:00:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1427,16 +1437,6 @@
       "description": "It's the first such meeting since Russia launched the invasion of Ukraine in February 2022. DW has the latest on day 5 of the UN General Assembly debate.",
       "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 26 Sep 2026 15:17:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "South Korea's gender pay gap grows as women get older",
-      "description": "A new report shows how in South Korea, women on average earn less and have fewer employment opportunities throughout their lives.",
-      "url": "https://www.dw.com/en/south-korea-s-gender-pay-gap-grows-as-women-get-older/a-79431285?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 26 Sep 2026 10:44:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
@@ -1533,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo to meet clergy sexual abuse victims in Lourdes",
-      "description": "After two days in Paris where he drew hundreds of thousands of worshippers, Pope Leo XIV will continue his visit to France on Sunday in the southwestern pilgrimage town of Lourdes with a private meeting with victims of clergy sexual abuse. The pope's four-day trip is the first official papal visit to France in nearly two decades.",
-      "url": "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims",
-      "published": "Sat, 26 Sep 2026 13:40:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
       "description": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran's delegation movements.",
       "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
@@ -1633,7 +1623,27 @@
       "severity_level": "Low"
     },
     {
-      "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+      "title": "UK police evacuate homes near air base used by US",
+      "description": "Police say they have arrested several men on suspicion of explosives offences.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:59:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+      "description": "Pope Leo XIV celebrates an open-air mass for hundreds of thousands of believers on the Champs-Elysees.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 08:22:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
       "description": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.",
       "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 08:10:22 +0000",
@@ -1687,26 +1697,6 @@
       "description": "Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.",
       "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
       "published": "Sun, 27 Sep 2026 03:36:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
-      "description": "The releases follow a second round of negotiations between Venezuela's interim government and the opposition.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 01:42:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-      "description": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 00:50:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1943,6 +1933,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "UK police make arrests, evacuate homes in ‘major incident’ near air base used by US forces",
+      "description": "British police said they had evacuated homes Sunday near the air base of Fairford in southwest England used by US air forces and arrested several men over suspected explosives offenses. Fairford, in ⁠Gloucestershire, has been used by the US to launch operations against Iran.",
+      "url": "https://www.france24.com/en/europe/20260927-uk-police-evacuate-homes-near-air-base-used-by-us-arrest-men-on-suspected-explosives-offenses",
+      "published": "Sun, 27 Sep 2026 09:05:06 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pope Leo XIV addresses youth at giant Paris Mass",
       "description": "🇫🇷 🇻🇦 During #Pope Leo XIV's giant Mass at the Place de la Concorde in #Paris on Saturday, he spoke directly to Catholic youth, calling them the \"Church of today\". The pontiff made efforts to connect with young people during his visit, holding a youth vigil at the Stade de #France on Friday.",
       "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-addresses-youth-at-giant-paris-mass",
@@ -1987,16 +1987,6 @@
       "description": "Luke Shrago talks to Father Grégoire Catta.",
       "url": "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris",
       "published": "Sat, 26 Sep 2026 15:19:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Leo XIV visits France: Pope blesses babies on way to giant Paris Mass",
-      "description": "🇫🇷 🇻🇦 While #PopeLeo XIV rode down #Paris's iconic Champs-Élysées avenue to hold Mass, he took the opportunity to bless babies from the \"popemobile",
-      "url": "https://www.france24.com/en/leo-xiv-visits-france-pope-blesses-babies-on-way-to-giant-paris-mass",
-      "published": "Sat, 26 Sep 2026 15:03:34 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2053,36 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "UK police evacuate homes near air base used by US and detain men on suspected explosives offensives",
-      "description": "Police have evacuated homes near an air base in England used by the U.S. and arrested several men over suspected explosives offenses",
-      "url": "https://abcnews.com/International/wireStory/uk-police-evacuate-homes-air-base-us-detain-136793296",
-      "published": "Sun, 27 Sep 2026 04:23:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Fuel price spike squeezes French baguette bakers as heating oil costs soar",
-      "description": "Kevin and Sandrine Luce run a bakery in northern France and are struggling with soaring fuel prices",
-      "url": "https://abcnews.com/International/wireStory/crunch-time-fuel-price-spike-squeezes-french-baguette-136793021",
-      "published": "Sun, 27 Sep 2026 02:40:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope brings message to protect life to French shrine at Lourdes known for miraculous cures",
-      "description": "Pope Leo XIV is taking his opposition to euthanasia and medically assisted dying to Lourdes",
-      "url": "https://abcnews.com/International/wireStory/pope-brings-message-protect-life-french-shrine-lourdes-136792931",
-      "published": "Sun, 27 Sep 2026 02:37:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Andy Burnham brings good vibes to Labour’s annual conference but tough choices are coming",
       "description": "British Prime Minister Andy Burnham has been in office for two months, and his party seems content for now",
       "url": "https://abcnews.com/International/wireStory/andy-burnham-brings-good-vibes-labours-annual-conference-136791914",
@@ -2093,10 +2053,50 @@
       "severity_level": "Low"
     },
     {
+      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
+      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
+      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
+      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
       "description": "Pope Leo XIV draws hundreds of thousands of people to Paris’ Champs-Élysées for a massive outdoor Mass",
       "url": "https://abcnews.com/International/wireStory/pope-encourages-catholics-deeply-secular-france-persevere-paris-136777307",
       "published": "Sat, 26 Sep 2026 18:58:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
+      "description": "U_S_ President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait.”",
+      "url": "https://abcnews.com/International/wireStory/trump-posts-map-showing-trump-strait-off-iran-136776098",
+      "published": "Sat, 26 Sep 2026 06:34:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "11-year-old Japanese player Yuki Kurihara wins esports gold medal at the Asian Games",
+      "description": "Yuki Kurihara of Japan has won a gold medal in esports at the Asian Games in Nagoya, Japan",
+      "url": "https://abcnews.com/International/wireStory/11-year-japanese-player-yuki-kurihara-wins-esports-136775823",
+      "published": "Sat, 26 Sep 2026 13:06:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Fuel price spike squeezes French baguette bakers as heating oil costs soar",
+      "description": "Kevin and Sandrine Luce run a bakery in northern France and are struggling with soaring fuel prices",
+      "url": "https://abcnews.com/International/wireStory/crunch-time-fuel-price-spike-squeezes-french-baguette-136793021",
+      "published": "Sun, 27 Sep 2026 02:40:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
