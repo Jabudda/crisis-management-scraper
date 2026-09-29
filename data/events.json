@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T16:15:48.662192Z",
+  "last_updated": "2026-09-29T16:42:06.448383Z",
   "event_count": 221,
   "events": [
     {
@@ -318,6 +318,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 13:38:06 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
+      "description": "Tu-95 plane crashed during training flight in uninhabited area of Amur region, Defence Ministry says.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
+      "published": "Tue, 29 Sep 2026 16:03:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -693,16 +703,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Sudan takes centre stage on final day of UNGA",
       "description": "Sudan's foreign minister addressed the UNGA as his country faces war, mass displacement and a worsening aid shortfall.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
@@ -797,16 +797,6 @@
       "description": "A Honduran migrant caravan numbered in the hundreds has crossed into Mexico and is moving north as DHS warns the days of catch and release are over.",
       "url": "https://www.foxnews.com/us/dhs-send-ominous-warning-migrant-caravan-heads-toward-us-mexico-border-from-honduras",
       "published": "Mon, 28 Sep 2026 17:53:10 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Police hunt sexually violent predator who vanished after GPS 'tamper mode' alert",
-      "description": "Merle Wakefield had been on conditional release since November 2024 with GPS monitoring. Now, the convicted sex offender is missing in San Diego County.",
-      "url": "https://www.foxnews.com/us/police-hunt-sexually-violent-predator-who-vanished-after-gps-tamper-mode-alert",
-      "published": "Sun, 27 Sep 2026 19:30:46 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 12,
@@ -933,9 +923,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Ethiopia: Fighting continues in Tigray with no regard for civilians",
+      "title": "Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues",
       "description": "Fighting has returned to northern Ethiopia, shattering a fragile peace in the region. DW spoke to civilians caught in the crossfire amid communication blackouts, as rebel and federal forces keep battling for territory.",
-      "url": "https://www.dw.com/en/ethiopia-fighting-continues-in-tigray-with-no-regard-for-civilians/a-79464569?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 29 Sep 2026 16:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -958,6 +948,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 14:50:09 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "LIVE: Spain vs Croatia – Nations League",
+      "description": "Build-up, teams and live text coverage as World champions Spain host Croatia on matchday two of the UEFA Nations League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
+      "published": "Tue, 29 Sep 2026 15:59:10 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1123,6 +1123,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Vape store clerk near Ole Miss campus warned buyer 'people were dying' from kratom pills, affidavit says",
+      "description": "A vape store clerk allegedly warned that \"people were dying\" from kratom sold at the Oxford, Mississippi, shop where an Ole Miss student bought products.",
+      "url": "https://www.foxnews.com/us/vape-store-clerk-ole-miss-campus-warned-buyer-people-dying-kratom-pills-affidavit",
+      "published": "Tue, 29 Sep 2026 12:33:31 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Lindsay Clancy's 'Shooter McGavin' unloads on 'hoodie-wearing lawyer' amid war of words over holdout juror",
       "description": "Kevin Reddington's motion to investigate holdout juror Michael Desronvil in the Lindsay Clancy mistrial may not be on the agenda at key status conference Tuesday.",
       "url": "https://www.foxnews.com/us/lindsay-clancy-push-investigate-holdout-juror-paused-defense-prosecutors-agree-adjourn",
@@ -1283,10 +1293,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
       "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
       "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 15:26:23 GMT",
+      "published": "Tue, 29 Sep 2026 16:23:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1298,16 +1308,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 03:50:40 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Walkouts, clashes and moments that defined UNGA 2026",
-      "description": "From mass walkouts and heated exchanges to protests, this year’s UNGA produced no shortage of memorable moments.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/walkouts-clashes-and-moments-that-defined-unga-2026?traffic_source=rss",
-      "published": "Tue, 29 Sep 2026 13:07:01 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1583,20 +1583,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 14:25:12 GMT",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "description": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 16:09:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Journalist crowned king in Uganda after bitter succession dispute",
-      "description": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 13:24:37 GMT",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 14:25:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1618,6 +1618,26 @@
       "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 08:12:39 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Journalist crowned king in Uganda after bitter succession dispute",
+      "description": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 13:24:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘New path’: UK’s Burnham promises huge expansion of public services",
+      "description": "UK prime minister tells his first Labour Party conference 'fundamental rethink' needed to set Britain on right course.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
+      "published": "Tue, 29 Sep 2026 16:13:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1677,26 +1697,6 @@
       "description": "Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?",
       "url": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories?traffic_source=rss",
       "published": "Tue, 29 Sep 2026 13:20:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkiye arrests president, six members of football refereeing body in probe",
-      "description": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-      "published": "Tue, 29 Sep 2026 12:37:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-      "description": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
-      "published": "Tue, 29 Sep 2026 12:32:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2036,7 +2036,7 @@
       "title": "Andy Burnham pledges a big shakeup for Britain in a high-risk political speech",
       "description": "Prime Minister Andy Burnham has vowed to give Britain “a new social contract for the 21st century.”",
       "url": "https://abcnews.com/International/wireStory/andy-burnham-pledges-big-shakeup-britain-high-risk-136857640",
-      "published": "Tue, 29 Sep 2026 11:53:50 -0400",
+      "published": "Tue, 29 Sep 2026 12:10:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
