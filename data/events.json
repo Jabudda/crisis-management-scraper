@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T06:23:57.305697Z",
+  "last_updated": "2026-09-30T06:56:36.160328Z",
   "event_count": 222,
   "events": [
     {
@@ -60,16 +60,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Hurricane Polo makes landfall in Baja California, 'life-threatening' winds forecast",
-      "description": "As former Hurricane Polo weakened over northwestern Mexico, the storm’s remnants is battering the U.S. Southwest, flooding roadways and leading to residents in small New Mexico towns having to evacuate over concerns about a dam failing",
-      "url": "https://abcnews.com/International/wireStory/hurricane-polo-makes-landfall-baja-california-forecast-life-136845534",
-      "published": "Wed, 30 Sep 2026 00:10:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -188,16 +178,6 @@
       "url": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
       "published": "Wed, 30 Sep 2026 06:05:11 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Global trade weathers Iran, Ukraine and Trump's tariffs",
-      "description": "Over the past six years, COVID, two wars and Donald Trump's tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?",
-      "url": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 29 Sep 2026 10:35:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -493,6 +473,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Australia news live: Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in our cultural institutions in this country. Children should go to school to get evidence-based education, not to be brainwashed by fossil fuel corporations seeking to build social licence. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+      "published": "Wed, 30 Sep 2026 06:52:35 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "British men released on bail after suspected terror plot",
       "description": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
@@ -508,6 +498,16 @@
       "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
       "published": "Sun, 27 Sep 2026 09:01:27 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "El Nino is a 'postcard from the future' — and could cause 451,000 excess heat deaths",
+      "description": "The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.",
+      "url": "https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 30 Sep 2026 06:49:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -536,7 +536,7 @@
       "title": "Right Livelihood Award honors women taking on autocrats, discrimination and unchecked AI",
       "description": "The Right Livelihood Award has been given to two women and two women-led organizations to recognize work against authoritarianism, violence and AI-related harms",
       "url": "https://abcnews.com/International/wireStory/livelihood-award-honors-women-taking-autocrats-discrimination-unchecked-136878052",
-      "published": "Wed, 30 Sep 2026 01:44:19 -0400",
+      "published": "Wed, 30 Sep 2026 02:18:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -604,7 +604,7 @@
     },
     {
       "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
-      "description": "US President Trump touts self-regulation amid the international community's and industry's calls for formal rules.",
+      "description": "US President Trump touts self-regulation amid calls from the international community and industry for formal rules.",
       "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
       "published": "Tue, 29 Sep 2026 23:43:32 +0000",
       "source": "Al Jazeera",
@@ -677,16 +677,6 @@
       "description": "David Perdue’s remarks come after a Taiwanese minister spoke of the ‘severe’ military threat posed by Beijing to the self-ruled island Donald Trump offered to sell weapons to China while hosting its leader, Xi Jinping, last week, the US ambassador to China said on Sunday. David Perdue told Fox News on Sunday: “President Trump continues to say, hey, we sell arms to other people around the world. He actually asked President Xi, would he like to buy some at one point.” Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
       "published": "Mon, 28 Sep 2026 10:40:18 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Australia news live: five-year-old seriously injured after being struck by ebike rider in Sydney",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in our cultural institutions in this country. Children should go to school to get evidence-based education, not to be brainwashed by fossil fuel corporations seeking to build social licence. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
-      "published": "Wed, 30 Sep 2026 06:08:30 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
@@ -1113,16 +1103,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
-      "description": "Wilber Rafael Garces Perez has disputed the government's account of what led to his shooting during a DoorDash delivery.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
-      "published": "Tue, 29 Sep 2026 23:15:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1183,20 +1163,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Romanian lawmakers set to vote on new center-right Cabinet as political crisis drags on",
-      "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
-      "url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572",
-      "published": "Wed, 30 Sep 2026 01:44:01 -0400",
+      "title": "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
+      "description": "The powerful sister of North Korean leader Kim Jong Un has rejected South Korean findings that North Korea planted the land mines that injured three South Korean soldiers last week",
+      "url": "https://abcnews.com/International/wireStory/north-korea-denies-planting-mines-injured-3-south-136874623",
+      "published": "Wed, 30 Sep 2026 01:44:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
-      "description": "The powerful sister of North Korean leader Kim Jong Un has rejected South Korean findings that North Korea planted the land mines that injured three South Korean soldiers last week",
-      "url": "https://abcnews.com/International/wireStory/north-korea-denies-planting-mines-injured-3-south-136874623",
-      "published": "Wed, 30 Sep 2026 01:44:17 -0400",
+      "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
+      "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
+      "url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572",
+      "published": "Wed, 30 Sep 2026 02:49:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1323,16 +1303,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-      "description": "Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-      "published": "Tue, 29 Sep 2026 23:06:53 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1348,16 +1318,6 @@
       "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
       "published": "Tue, 29 Sep 2026 13:17:04 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
-      "description": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
-      "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 29 Sep 2026 11:08:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1463,16 +1423,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "G20 trade officials meet under shadow of tariffs, overcapacity",
-      "description": "G20 trade ministers are set to open talks Wednesday in the United States, in meetings strained by President Donald Trump's tariffs as Washington targets partners regarding forced labor and overcapacity.",
-      "url": "https://www.france24.com/en/live-news/20260930-g20-trade-officials-meet-under-shadow-of-tariffs-overcapacity",
-      "published": "Wed, 30 Sep 2026 05:29:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Argentina threatens UK with legal action over Falklands oil exploration",
       "description": "Argentina's president has threatened the UK with legal action over an oil project off the coast of the Falklands.",
       "url": "https://news.sky.com/story/argentina-threatens-uk-with-legal-action-over-falklands-oil-exploration-13593128",
@@ -1544,7 +1494,7 @@
     },
     {
       "title": "Approval of biggest coal project in NSW planning commission’s history described as ‘infamous betrayal’",
-      "description": "Independent Planning Commission says climate change impacts from Hunter Valley project will be ‘outweighed’ by economic benefits Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The New South Wales independent planner has approved the biggest coalmine project to ever go before it, allowing mining to continue until 2045 at a Hunter Valley project described by climate groups as a “carbon bomb”. The Independent Planning Commission (IPC) has green lit the Hunter Valley Operations Continuation Project after a contentious assessment that drew in climate and environment groups, unions, state authorities and more than 10,000 public submissions. Continue reading...",
+      "description": "Independent Planning Commission says climate change impacts from Hunter Valley project will be ‘outweighed’ by economic benefits Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The New South Wales independent planner has approved the biggest coalmine project to ever go before it, allowing mining to continue until 2045 at a Hunter Valley project described by climate groups as a “carbon bomb”. The Independent Planning Commission (IPC) has greenlit the Hunter Valley Operations (HVO) Continuation Project after a contentious assessment that drew in climate and environment groups, unions, state authorities and more than 10,000 public submissions. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/30/hunter-valley-coal-project-singleton-ipc-planning-decision",
       "published": "Wed, 30 Sep 2026 05:48:20 GMT",
       "source": "The Guardian World",
@@ -1558,6 +1508,16 @@
       "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "published": "Mon, 28 Sep 2026 06:51:25 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US troops exit Iraq after more than a decade",
+      "description": "The current deployment began in 2014 in an effort to combat 'Islamic State' extremists. Iran, which has sought a complete removal of the US military from the Middle East, celebrated the withdrawal.",
+      "url": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 30 Sep 2026 06:22:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1653,6 +1613,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
+      "description": "Fearing outright demolition, Muslims volunteer to take down parts of the city's Shahi Mosque themselves.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 06:25:39 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1728,6 +1698,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 21:09:00 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
+      "description": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 06:29:57 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1886,7 +1866,7 @@
       "title": "M 4.2 - 6 km WNW of Wauna, Washington",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-      "published": "2026-09-30T06:21:20.545Z",
+      "published": "2026-09-30T06:53:19.860Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2023,6 +2003,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "G20 meets in US as Trump’s tariffs loom over talks",
+      "description": "Trade ministers of the Group of 20 are meeting in Milwaukee for two days of talks on Wednesday, but US President Donald Trump’s tariffs are expected to hang heavy over the talks. \"Don't expect any breakthroughs,\" an analyst watching the event said.",
+      "url": "https://www.france24.com/en/americas/20260930-g20-meets-in-us-as-trump-s-tariffs-loom-over-talks",
+      "published": "Wed, 30 Sep 2026 05:29:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
       "description": "US President Donald Trump on Tuesday said the tech executives gathered at the White House to discuss regulating AI had signed a \"morally binding\" commitment to build adequate safeguards on the fast-moving technology. Speaking with FRANCE 24's Monte Francis, Harrison Rolfes, Senior Research Analyst at PitchBook, says that the push for safeguards \"prevents open-source models from taking over the competition as well as new incumbents from coming in with a new frontier model\", explaining that the measures \"build a moat\" around US AI firms.",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
@@ -2097,6 +2087,16 @@
       "description": "Prime Minister Andy Burnham has vowed to give Britain “a new social contract for the 21st century.”",
       "url": "https://abcnews.com/International/wireStory/andy-burnham-pledges-big-shakeup-britain-high-risk-136857640",
       "published": "Tue, 29 Sep 2026 12:10:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "As the last US troops exit Iraq, Kurdish fears rise and militias celebrate",
+      "description": "The last U.S. troops are leaving Iraq under an agreement between Baghdad and Washington",
+      "url": "https://abcnews.com/International/wireStory/us-troops-exit-iraq-kurdish-fears-rise-militias-136879345",
+      "published": "Wed, 30 Sep 2026 02:50:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
