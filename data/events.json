@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T12:24:29.648187Z",
+  "last_updated": "2026-09-30T12:54:47.574177Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 59,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Pilots on UAE-Israel flight hospitalised after cockpit brawl forces emergency landing",
+      "description": "A flight from Dubai to Israel made an emergency landing in Saudi Arabia after a brawl broke out in the cockpit, with the pilots hospitalised due to injuries upon arrival, an airport in the Saudi city of Tabuk said Wednesday. Israel’s far-right National Security Minister Itamar Ben Gvir called the incident an attempted “terrorist” attack in a statement later in the day.",
+      "url": "https://www.france24.com/en/middle-east/20260930-israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots",
+      "published": "Wed, 30 Sep 2026 08:25:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 46,
       "severity_level": "Critical"
     },
     {
@@ -40,16 +50,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "description": "At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 11:47:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -333,16 +333,6 @@
       "severity_level": "High"
     },
     {
-      "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-      "description": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 08:02:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
       "description": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
@@ -536,7 +526,7 @@
       "title": "Right Livelihood Award honors women taking on autocrats, discrimination and unchecked AI",
       "description": "The Right Livelihood Award has been given to two women and two women-led organizations to recognize work against authoritarianism, violence and AI-related harms",
       "url": "https://abcnews.com/International/wireStory/livelihood-award-honors-women-taking-autocrats-discrimination-unchecked-136878052",
-      "published": "Wed, 30 Sep 2026 07:46:17 -0400",
+      "published": "Wed, 30 Sep 2026 08:02:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -583,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Rainwater washes away highway in Nigeria",
+      "description": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:39:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -623,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 12:42:34 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
       "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
       "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
@@ -638,16 +648,6 @@
       "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
       "published": "Wed, 30 Sep 2026 07:13:17 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Pilots on UAE-Israel flight hospitalised after brawl forces emergency landing",
-      "description": "An Israel-bound flight from Dubai was diverted to Saudi Arabia after a brawl broke out in the cockpit, with the pilots hospitalised due to injuries upon arrival, the airport in the Saudi city of Tabuk said Wednesday. The FlyDubai plane transmitted an emergency alert shortly after takeoff.",
-      "url": "https://www.france24.com/en/middle-east/20260930-israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots",
-      "published": "Wed, 30 Sep 2026 08:25:17 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -697,16 +697,6 @@
       "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
       "published": "Wed, 30 Sep 2026 10:29:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-      "description": "Airline says plane experiences an 'incident' en route from Dubai to Tel Aviv, lands safely at Tabuk airport in Saudi Arabia.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 08:00:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -873,21 +863,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-      "description": "The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 07:40:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
+      "description": "Bosnia goes to the polls on October 4 to elect several parliaments and presidents. While voters worry about the economy and emigration, the campaign is focused on ethnicity, exposing the country's political paralysis.",
+      "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 30 Sep 2026 12:45:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1018,6 +1008,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 23:33:34 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Former journalist crowned king of Uganda’s Tooro kingdom",
+      "description": "Edward Rukidi Kijanangoma, a former journalist, has been crowned the king of Uganda’s Tooro Kingdom.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:34:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1293,6 +1293,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Settlers closing in on Ramallah",
+      "description": "Israeli settlers are encroaching ever closer to Ramallah, the de facto capital of the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:43:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+      "description": "Iraq’s security forces held parades in Baghdad and Najaf to celebrate ‘Sovereignty Day’ as US troops withdraw.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:17:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1403,16 +1423,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-      "description": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 07:22:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules",
       "description": "Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
@@ -1438,16 +1448,6 @@
       "url": "https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 30 Sep 2026 08:54:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Indonesia suspends officials over inquiry into luxury prison cells",
-      "description": "Calls for a wider investigation are growing in Indonesia after watchdog investigators uncover an alleged luxury inmate compound inside Cibinong Prison near Jakarta",
-      "url": "https://abcnews.com/International/wireStory/indonesia-suspends-officials-inquiry-luxury-prison-cells-136848886",
-      "published": "Tue, 29 Sep 2026 08:50:46 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1513,8 +1513,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Live: Macron, Sanchez hold joint press conference during French president’s visit to Spain",
-      "description": "French President Emmanuel Macron on Wednesday met Spanish Prime Minister Pedro Sanchez at the Moncloa Palace in Madrid on the second day of a two-day state visit. Watch the press conference live with the player above.",
+      "title": "Macron, Sanchez hold joint press conference during French president’s visit to Spain",
+      "description": "French President Emmanuel Macron on Wednesday met Spanish Prime Minister Pedro Sanchez at the Moncloa Palace in Madrid on the second day of a two-day state visit.",
       "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
       "published": "Wed, 30 Sep 2026 11:49:56 GMT",
       "source": "France24",
@@ -1530,16 +1530,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Hijabi students turned away from school in Azerbaijan",
-      "description": "Female students leave a school in Azerbaijan after reportedly being denied entry for wearing headscarves.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/hijabi-students-turned-away-from-school-in-azerbaijan?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 08:41:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1733,6 +1723,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+      "description": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+      "url": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:40:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How does Iraq’s security change after US forces withdraw?",
+      "description": "Iraq marks US troop withdrawal with 'Sovereignty Days', symbolising a shift after decades of foreign military presence.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 12:33:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Ireland vs Israel Nations League match will go ahead, coach confirms",
       "description": "The Football Association of Ireland says the team will fulfil the second fixture despite public opposition.",
       "url": "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss",
@@ -1767,16 +1777,6 @@
       "description": "UK's PM Andy Burnham is promising a major improvement to public services including social care, housing and energy.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
       "published": "Wed, 30 Sep 2026 08:48:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-      "description": "The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.",
-      "url": "https://www.aljazeera.com/sports/2026/9/30/nigeria-and-ghana-suffer-huge-afcon-2027-qualifying-shocks?traffic_source=rss",
-      "published": "Wed, 30 Sep 2026 07:21:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1906,7 +1906,7 @@
       "title": "M 4.2 - 6 km WNW of Wauna, Washington",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-      "published": "2026-09-30T12:19:00.804Z",
+      "published": "2026-09-30T12:50:47.959Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1977,16 +1977,6 @@
       "description": "Writer Toby Morton is using a new website to amplify allegations in a high-profile sexual assault lawsuit involving seven Cornell students. The reopening of the case is causing an outcry on social media.",
       "url": "https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 29 Sep 2026 14:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",
-      "description": "The Youth Olympics are to be hosted in Africa for the first time ever. The edition in Senegal is also a chance to prove the continent can host a full Olympics in the future.",
-      "url": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 29 Sep 2026 14:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2073,10 +2063,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Hungarian court reduces sentence for German anti-fascist convicted in far-right rally assaults",
+      "description": "A Hungarian appeals court has reduced the sentence of a German anti-fascist activist from eight to seven years",
+      "url": "https://abcnews.com/International/wireStory/hungarian-court-reduces-sentence-german-anti-fascist-convicted-136884266",
+      "published": "Wed, 30 Sep 2026 08:32:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Works by van Gogh and Cézanne up for sale in Sotheby's $450 million auction",
       "description": "A dozen Impressionist and post-Impressionist artworks valued at almost half a billion dollars are going up for auction",
       "url": "https://abcnews.com/International/wireStory/works-van-gogh-czanne-sale-sothebys-450-million-136884081",
-      "published": "Wed, 30 Sep 2026 07:59:57 -0400",
+      "published": "Wed, 30 Sep 2026 08:26:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
