@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T10:39:57.105787Z",
+  "last_updated": "2026-10-02T11:12:35.986289Z",
   "event_count": 219,
   "events": [
     {
@@ -48,16 +48,6 @@
       "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
       "published": "Wed, 30 Sep 2026 13:36:25 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Suspect arrested after alleged plot to attack Texas Capitol: officials",
-      "description": "A Texas man was arrested after allegedly plotting a \"violent attack\" on the Texas Capitol and is now facing a felony terroristic threat charge in the Lone Star State.",
-      "url": "https://www.foxnews.com/us/suspect-arrested-alleged-plot-attack-texas-capitol-officials",
-      "published": "Wed, 30 Sep 2026 21:22:52 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 35,
       "severity_level": "Critical"
@@ -443,6 +433,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Explosions reported near military airport in Syria’s Idlib province",
+      "description": "Two explosions have occurred near Taftanaz military airport in Syria’s Idlib province, sending smoke into the sky.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-syria-explosion-clip?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 11:00:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "France: 400 schools closed as student protests continue",
       "description": "Police have made around 2,000 arrests and scores of people have been injured as student protests spread across France. Ministers have called for a \"day of dialogue\" but students have called for further strike action.",
       "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-xml-mrss",
@@ -530,16 +530,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Student protests in Chile turn to violent clashes with police",
-      "description": "Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
-      "published": "Fri, 02 Oct 2026 04:49:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -643,21 +633,21 @@
       "severity_level": "High"
     },
     {
-      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-      "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
-      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-      "published": "Wed, 30 Sep 2026 07:13:17 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
       "description": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
       "published": "Wed, 30 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Christa Pike’s botched lethal injection takes focus off victim, jeopardizes execution: former police chief",
+      "description": "Christa Pike's botched lethal injection could end capital punishment in Tennessee altogether, warns former Knoxville police chief Phil Keith.",
+      "url": "https://www.foxnews.com/us/christa-pike-botched-lethal-injection-takes-focus-off-victim-jeopardizes-execution-former-police-chief",
+      "published": "Fri, 02 Oct 2026 07:00:26 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -713,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian aerial strikes snarl traffic on 3 Kyiv bridges in a new disruption tactic",
+      "description": "Russian aerial attacks have forced the partial closure of three bridges over the Dnipro River in Kyiv, causing traffic chaos",
+      "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164",
+      "published": "Fri, 02 Oct 2026 07:06:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
       "description": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
@@ -733,16 +733,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal avalanche kills at least 15 expedition workers",
-      "description": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
-      "published": "Fri, 02 Oct 2026 04:53:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -754,7 +744,7 @@
     },
     {
       "title": "Pakistan seizes shipping containers to keep Imran Khan supporters out of capital",
-      "description": "Pakistan's efforts to keep supporters of former prime minister Imran Khan out of the capital have led to a pile-up of shipping containers at the country's main port.",
+      "description": "Pakistan's efforts to keep supporters of jailed former prime minister Imran Khan out of the capital have led to a pile-up of shipping containers at Karachi, the country's main port.",
       "url": "https://news.sky.com/story/imran-khan-supporters-to-be-kept-out-of-pakistans-capital-by-shipping-containers-seized-from-distressed-lorry-drivers-13594249",
       "published": "Fri, 02 Oct 2026 08:31:00 +0100",
       "source": "Sky News World",
@@ -790,16 +780,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "How Switzerland lost 20 percent of its ice in five years",
-      "description": "Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
-      "published": "Fri, 02 Oct 2026 04:59:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -913,6 +893,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Bruce Baird, former federal Liberal MP and NSW minister, dies aged 84",
+      "description": "Baird, father of former NSW premier Mike Baird and journalist Julia Baird, helped win the Olympics for Sydney Get our breaking news email , free app or daily news podcast Bruce Baird, a former federal Liberal MP and deputy leader of the party’s New South Wales branch, has died aged 84. Baird, who also served as the NSW transport minister from 1988 to 1995, is the father of former state premier Mike Baird, the ABC journalist Julia Baird, and the marketing executive Steve Baird. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/02/bruce-baird-former-federal-liberal-mp-and-nsw-minister-dies-aged-84",
+      "published": "Fri, 02 Oct 2026 10:14:32 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Nations League: Zidane returns to face Italy and the Stade de France",
       "description": "Twenty years after the 2006 World Cup final, Zinedine Zidane faces Italy again on Friday, this time as France manager, on matchday three of the Nations League. For his first match in France as coach, he also returns to the Stade de France, where he experienced several defining moments of his career.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261002-nations-league-zidane-returns-to-face-italy-and-the-stade-de-france",
@@ -936,7 +926,7 @@
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 22:28:45 GMT",
+      "published": "Fri, 02 Oct 2026 11:06:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1123,7 +1113,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Flydubai captain 'could not let people die' as he describes fight to open cockpit door",
+      "title": "Flydubai captain describes fight to open cockpit door while being attacked by co-pilot",
       "description": "The Indian pilot stabbed by his colleague mid-air has said he \"could not let people die\" as he described how he fought to open the cockpit door while still being attacked.",
       "url": "https://news.sky.com/story/flydubai-captain-says-he-fought-to-open-cockpit-door-while-still-being-attacked-13594247",
       "published": "Fri, 02 Oct 2026 08:14:00 +0100",
@@ -1343,6 +1333,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Indian authorities clamp down as ‘cockroach’ movement launches new protests",
+      "description": "Demonstrators gather in Mumbai and New Delhi to demand the resignation of Election Commission chief.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 10:46:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Protests disrupt Ireland football match with ‘Palestine tennis balls’",
+      "description": "Protesters interrupted Ireland’s match against Austria with tennis balls and Palestine flags.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 10:35:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Indian police detain politicians at protests over election chief",
       "description": "Police in New Delhi have detained opposition politicians and demonstrators during protests.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss",
@@ -1368,6 +1378,16 @@
       "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
       "published": "Wed, 30 Sep 2026 11:09:52 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv",
+      "description": "One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986255/israels-pm-says-a-pilot-tried-to-crash-a-plane-traveling-to-tel-aviv",
+      "published": "Thu, 01 Oct 2026 06:48:47 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1568,16 +1588,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Excessively violent’: three men charged with assault and choking after Sydney home invasions",
-      "description": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three men have been detained after two women were allegedly assaulted during separate home invasions in Sydney’s south-west, with police saying the gang targeted women living alone with money. New South Wales police were called to a home invasion in Arncliffe at about midnight on Tuesday morning. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
-      "published": "Fri, 02 Oct 2026 04:18:07 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -2007,16 +2017,6 @@
       "description": "Spring has arrived in the Southern Hemisphere, and even Chile's Atacama Desert is blossoming",
       "url": "https://abcnews.com/International/wireStory/spring-southern-hemisphere-chiles-atacama-desert-blossoming-136912676",
       "published": "Thu, 01 Oct 2026 06:48:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Drones outpace Ukrainian defenses as manufacturers race to build new interceptors",
-      "description": "Jet-powered Russian drones are racing across Kyiv's skies, and Ukrainian air defenses are struggling to keep up",
-      "url": "https://abcnews.com/International/wireStory/jet-powered-drones-outpace-ukrainian-defenses-manufacturers-race-136910622",
-      "published": "Thu, 01 Oct 2026 02:52:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
