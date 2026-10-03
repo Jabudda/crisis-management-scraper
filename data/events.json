@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T16:24:27.436371Z",
+  "last_updated": "2026-10-03T17:47:18.333440Z",
   "event_count": 220,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+      "description": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Federal Aviation Administration (FAA) during a flight from Bermuda to Boston early on Saturday morning. In a statement to the Guardian, an FAA spokesperson said that the agency issued a search-and-rescue alert notice for a Gulfstream G-100 at about 1.20am local time on Saturday. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+      "published": "Sat, 03 Oct 2026 17:03:54 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -153,6 +163,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 16:17:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Ethiopian army pushes back Tigrayan rebels",
       "description": "First, Ethiopia and Eritrea have severed ties and now with tensions spreading across the region, the African Union is urging all sides to show restraint. Meanwhile, Ethiopia's army is advancing toward the Tigrayan capital as fighting intensifies and new explosions rock Addis Ababa. Then, from boardrooms to cocoa fields, a growing number of urban Ivorians are turning to agriculture. On weekends, civil servants, entrepreneurs and traders leave Abidjan behind to tend farms in the countryside, seeking extra income. But running a plantation from afar comes with challenges. And, Senegal is counting down to a historic moment. In a few weeks, Dakar will host the 2026 Youth Olympic Games: the first Olympic event ever staged in Africa. But the stakes go far beyond sport. We speak to Senegal’s Minister of Sports, Djirèye Clotilde Coly.",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
@@ -180,16 +200,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
-      "description": "Demonstrators protesting against Spain's housing crisis reacted with fury on Friday after the country's parliament rejected two bills put forward by the government that centre-left Prime Minister Pedro Sanchez hoped would address their concerns. Rents have doubled over the past decade, with average prices now almost equivalent to the average young person's monthly salary.",
-      "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
-      "published": "Fri, 02 Oct 2026 15:12:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -323,7 +333,7 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Protesters across Spain demand action over housing crisis",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 13:34:11 GMT",
@@ -663,16 +673,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Tear gas and fires on French streets as student protests turn violent",
-      "description": "Violent student protests have broken out again across France, where around 400 schools have stayed closed to try to quell the unrest.",
-      "url": "https://news.sky.com/story/tear-gas-and-fires-on-french-streets-as-student-protests-turn-violent-13594370",
-      "published": "Fri, 02 Oct 2026 12:40:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments",
       "description": "The co-pilot suspected in this week’s FlyDubai attack has been identified as an Omani national",
       "url": "https://abcnews.com/International/wireStory/pilot-flydubai-attack-identified-mideast-developments-136968085",
@@ -728,16 +728,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
       "published": "Sat, 03 Oct 2026 15:06:40 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russia strikes another major bridge in Kyiv, says mayor",
-      "description": "The attack on Kyiv's Northern Bridge comes after the Southern Bridge on the Dnipro river was hit multiple times by Russia's drones.",
-      "url": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 3 Oct 2026 08:36:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -850,6 +840,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "description": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 16:16:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1083,6 +1083,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
+      "description": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure.",
+      "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 3 Oct 2026 17:16:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "On German Unity Day, Steinmeier laments 'bitter setbacks'",
       "description": "Germany's president has used his final Unity Day speech to warn the hopes of the reunification era have suffered \"bitter setbacks.\" DW has the latest.",
       "url": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-xml-mrss",
@@ -1108,6 +1118,26 @@
       "url": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 2 Oct 2026 20:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tennessee prisons chief resigns after failed execution of Christa Pike",
+      "description": "Tennessee's prisons chief has resigned after the failed execution of death row prisoner Christa Pike.",
+      "url": "https://news.sky.com/story/prisons-chief-resigns-after-failed-execution-of-christa-pike-in-tennessee-13594688",
+      "published": "Sat, 03 Oct 2026 14:37:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ireland's football media call ends in chaos after question by Israeli journalist",
+      "description": "Republic of Ireland's Nations League press conference descended into chaos after Israeli journalists started asking questions about the flydubai attack and alleged racial abuse of players.",
+      "url": "https://news.sky.com/story/irelands-nations-league-media-call-ends-in-chaos-after-question-by-israeli-journalist-about-flydubai-13594700",
+      "published": "Sat, 03 Oct 2026 15:18:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1220,6 +1250,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1533,16 +1573,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
-      "description": "Latin America correspondent Tom Phillips reports on this Sunday’s historic presidential elections in Brazil, as the son of jailed former president Jair Bolsonaro hopes to take power You would have been forgiven for thinking that when Jair Bolsonaro was convicted in September 2025 of attempting a coup, his political career was finished and his legacy forever tainted. But in the first round of Brazil’s presidential elections this Sunday, another Bolsonaro has genuine hopes of victory – not Jair, but his son Flávio, who ialso campaigning to have his father released released. Continue reading...",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
-      "published": "Fri, 02 Oct 2026 02:00:07 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Brazil: The craze for candidate merch ahead of elections",
       "description": "Nearly 159 million Brazilians will head to the polling booths on Sunday to vote in general elections. They will elect their new MPs, see two-thirds of the Senate change ranks and, most importantly, vote for their next president.Though the vote is held by secret ballot, people wear their support on their sleeve. Candidates and parties are brandished on flags throughout the streets of #RiodeJaneiro, and business is booming for vendors selling merchandise for President Luiz Inacio Lula da Silva and his rival Flavio Bolsonaro.FRANCE 24's Brazil correspondent Jan Onoszko brings you this report.",
       "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
@@ -1576,7 +1606,7 @@
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
       "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
       "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 16:18:04 GMT",
+      "published": "Sat, 03 Oct 2026 16:57:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1593,20 +1623,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 08:51:14 GMT",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 02:23:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 02:23:07 GMT",
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 08:51:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1623,11 +1653,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-      "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 04:21:31 GMT",
-      "source": "BBC News",
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "description": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 16:25:03 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1667,36 +1697,6 @@
       "description": "South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more to reach 100 and took another 18 to hit 150.",
       "url": "https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss",
       "published": "Sat, 03 Oct 2026 12:19:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Palestinians gather for football amid Gaza’s ruins",
-      "description": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 11:08:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How AI is helping Mexico detect breast cancer earlier",
-      "description": "Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 10:55:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "description": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 10:48:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1836,7 +1836,7 @@
       "title": "M 4.2 - 6 km WNW of Wauna, Washington",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-      "published": "2026-10-03T13:53:20.046Z",
+      "published": "2026-10-03T17:37:32.398Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1923,21 +1923,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nations League: France held by Italy despite Olise stunner",
-      "description": "After two wins in two away games, Zinedine Zidane’s return to the Stade de France as coach was not exactly a success, as Les Bleus were held to a 1-1 draw by Italy on Friday in the UEFA Nations League.",
-      "url": "https://www.france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner",
-      "published": "Fri, 02 Oct 2026 20:58:45 GMT",
+      "title": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
+      "description": "The head of Tennessee's prison system has resigned in the first major shake-up since the stunning failed execution of Christa Pike, who is in critical condition after surviving two lethal injections. Tennessee Governor Bill Lee, who previously denied Pike clemency, has halted further executions through the rest of the year while a review is conducted.",
+      "url": "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns",
+      "published": "Sat, 03 Oct 2026 17:24:14 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Remains of 10 infants discovered at former mother and baby home in Ireland",
-      "description": "The remains of a further 10 infants have been found at the site of a former mother and baby home in Ireland.",
-      "url": "https://news.sky.com/story/remains-of-10-infants-discovered-at-former-mother-and-baby-home-in-ireland-13594416",
-      "published": "Fri, 02 Oct 2026 14:38:00 +0100",
-      "source": "Sky News World",
+      "title": "Nations League: France held by Italy despite Olise stunner",
+      "description": "After two wins in two away games, Zinedine Zidane’s return to the Stade de France as coach was not exactly a success, as Les Bleus were held to a 1-1 draw by Italy on Friday in the UEFA Nations League.",
+      "url": "https://www.france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner",
+      "published": "Fri, 02 Oct 2026 20:58:45 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
