@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T13:10:13.638868Z",
+  "last_updated": "2026-10-03T14:43:51.997144Z",
   "event_count": 220,
   "events": [
     {
@@ -98,6 +98,16 @@
       "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 3 Oct 2026 08:17:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Houthis blame Saudi air strikes as loud blasts rock Yemen's capital Sanaa",
+      "description": "Houthi-linked media reported \"Saudi aggession\" on Saturday after loud explosions rocked the Yemeni capital Sanaa, which is controlled by the Iran-backed rebel group. Earlier this week, the Houthis accused Saudi Arabia of bombing Sanaa for the first time since renewed fighting broke out between the two sides in July.",
+      "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
+      "published": "Sat, 03 Oct 2026 14:31:30 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical"
@@ -203,16 +213,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Floods sweep cars through streets after intense rain in Spain",
-      "description": "Floodwaters swept cars through Madrigueras, Spain, after near-record rainfall. One woman was killed and 90 rescued.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:17:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
       "description": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a \"swap market\" of repression in Southeast Asia.",
       "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
@@ -228,16 +228,6 @@
       "url": "https://news.sky.com/story/nepal-plans-to-drain-four-dangerous-glacial-lakes-after-deadly-flash-flood-13594475",
       "published": "Fri, 02 Oct 2026 17:34:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Dual UK-Iranian national released on bail over suspected plot against US-run base",
-      "description": "A dual U.K.-Iranian national arrested on suspicion of plotting a terror attack following a security incident at a U.S.-run military air base in England has been released on bail",
-      "url": "https://abcnews.com/International/wireStory/dual-uk-iranian-national-released-bail-suspected-plot-136969051",
-      "published": "Sat, 03 Oct 2026 07:25:16 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -303,11 +293,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Nepal avalanche toll rises to 15 deaths with discovery of 8 bodies on Mount Himlung",
+      "description": "Rescuers have discovered eight bodies at the base camp of Mount Himlung in Nepal",
+      "url": "https://abcnews.com/International/wireStory/nepal-avalanche-toll-rises-15-deaths-discovery-8-136941238",
+      "published": "Fri, 02 Oct 2026 02:39:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Protesters across Spain demand action over housing crisis",
-      "description": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 12:16:15 GMT",
+      "published": "Sat, 03 Oct 2026 13:34:11 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+      "description": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 12:55:54 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -343,6 +353,16 @@
       "severity_level": "High"
     },
     {
+      "title": "At least 17 people killed in Kenya road crash",
+      "description": "At least 17 people were killed in a road crash involving several vehicles on the highway from the Kenyan coastal city of Mombasa to the capital, Nairobi.",
+      "url": "https://news.sky.com/story/at-least-17-people-killed-in-kenya-road-crash-13594661",
+      "published": "Sat, 03 Oct 2026 12:23:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
       "title": "Hero cop stopped synagogue massacre in Canada as Jewish group calls for armed guards",
       "description": "The Yom Kippur attack outside Sons of Jacob Synagogue in Belleville has intensified demands for armed security at Jewish institutions across Canada.",
       "url": "https://www.foxnews.com/world/hero-armed-cop-stopped-synagogue-massacre-canada-jewish-group-calls-armed-guards",
@@ -357,16 +377,6 @@
       "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 12:59:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 19:38:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -503,16 +513,6 @@
       "severity_level": "High"
     },
     {
-      "title": "\"NAZA\": Israeli military issues statement on film",
-      "description": "The award-winning documentary \"NAZA\" continues to spark controversy in Israel. The Israeli military has now published a multi-page statement calling the film's portrayal \"distorted.\"",
-      "url": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 2 Oct 2026 15:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
       "description": "We sit down with David McAllister, the chair of the European Parliament’s Foreign Affairs Committee. He talks to us about the security threats facing Europe, and what defence gaps the EU urgently needs to close. For McAllister, the EU is \"not at war with the Russian Federation, but we are no longer at peace with Russia\". He also believes that the EU is not, as yet, capable of making sovereign decisions in certain areas of defence \"because we are too dependent on US capabilities.\"",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
@@ -533,20 +533,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Road crash kills 20 people in Nigeria's Plateau state",
-      "description": "A multi-vehicle crash has killed at least 20 people in Nigeria's north-central state of Plateau",
-      "url": "https://abcnews.com/International/wireStory/road-crash-kills-20-people-nigerias-plateau-state-136969241",
-      "published": "Sat, 03 Oct 2026 07:50:58 -0400",
+      "title": "Spain's government dealt a blow after parliament rejects housing measures",
+      "description": "Spain's government has lost key votes on emergency measures to tackle the housing affordability crisis",
+      "url": "https://abcnews.com/International/wireStory/spains-government-dealt-blow-after-parliament-rejects-housing-136943243",
+      "published": "Fri, 02 Oct 2026 12:03:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Spain's government dealt a blow after parliament rejects housing measures",
-      "description": "Spain's government has lost key votes on emergency measures to tackle the housing affordability crisis",
-      "url": "https://abcnews.com/International/wireStory/spains-government-dealt-blow-after-parliament-rejects-housing-136943243",
-      "published": "Fri, 02 Oct 2026 12:03:41 -0400",
+      "title": "Road crash kills 20 people in Nigeria's Plateau state",
+      "description": "A multi-vehicle crash has killed at least 20 people in Nigeria's north-central state of Plateau",
+      "url": "https://abcnews.com/International/wireStory/road-crash-kills-20-people-nigerias-plateau-state-136969241",
+      "published": "Sat, 03 Oct 2026 07:50:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -597,16 +597,6 @@
       "description": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
       "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
       "published": "Sat, 03 Oct 2026 12:18:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Man City whistleblower Pinto to lose witness protection amid death threats",
-      "description": "Pinto says he will go into hiding for an indefinite period following the Premier League's guilty verdict against City.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:05:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -703,16 +693,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Who is the mystery co-pilot behind the Flydubai attack?",
-      "description": "Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 09:25:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Russia strikes another major bridge in Kyiv, says mayor",
       "description": "The attack on Kyiv's Northern Bridge comes after the Southern Bridge on the Dnipro river was hit multiple times by Russia's drones.",
       "url": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
@@ -753,20 +733,20 @@
       "severity_level": "High"
     },
     {
-      "title": "A grim winter ahead? EU states asked to prepare gas and electricity savings",
-      "description": "Alarm bells are ringing about fuel prices across the EU. The average cost of diesel per litre is well above €2, whereas in October of last year it was around €1.50. Even before this latest spike, the cost of living was already biting, and it seems that the conflict in the Middle East is not going to give Europeans much respite as the winter draws closer. We review what EU member states have done to cushion the blow of rising energy prices for ordinary people, and whether those measures have been effective.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings",
-      "published": "Fri, 02 Oct 2026 15:10:40 GMT",
+      "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+      "description": "Tens of thousands of protesters marched in Madrid and other cities in Spain on Saturday to demand affordable housing, fuelled by anger at lawmakers who narrowly rejected measures put forward by the government of Prime Minister Pedro Sanchez to strengthen protection for tenants.",
+      "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+      "published": "Sat, 03 Oct 2026 13:20:35 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
-      "description": "In India, thousands of women have been taking to the streets calling for better protection of female students, following the suspected gang rape of a 17-year-old girl. The alleged incident in an upscale neighbourhood of New Delhi prompted authorities to beef up protective measures, but the women say limiting their access to public spaces is not the answer.",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
-      "published": "Fri, 02 Oct 2026 14:57:07 GMT",
+      "title": "A grim winter ahead? EU states asked to prepare gas and electricity savings",
+      "description": "Alarm bells are ringing about fuel prices across the EU. The average cost of diesel per litre is well above €2, whereas in October of last year it was around €1.50. Even before this latest spike, the cost of living was already biting, and it seems that the conflict in the Middle East is not going to give Europeans much respite as the winter draws closer. We review what EU member states have done to cushion the blow of rising energy prices for ordinary people, and whether those measures have been effective.",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings",
+      "published": "Fri, 02 Oct 2026 15:10:40 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -783,11 +763,11 @@
       "severity_level": "High"
     },
     {
-      "title": "More than 4,000 deaths recorded in DR Congo Ebola outbreak",
-      "description": "More than 4,000 Ebola deaths have been recorded, authorities in the Democratic Republic of Congo (DRC) said as they struggle to contain the virus.",
-      "url": "https://news.sky.com/story/more-than-4000-deaths-recorded-in-dr-congo-ebola-outbreak-13594285",
-      "published": "Fri, 02 Oct 2026 10:14:00 +0100",
-      "source": "Sky News World",
+      "title": "South Korea’s military says North Korea fired projectile toward its eastern waters",
+      "description": "North Korea has fired a ballistic missile toward the sea",
+      "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-eastern-136962514",
+      "published": "Fri, 02 Oct 2026 21:06:27 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -797,16 +777,6 @@
       "description": "A road crash in Kenya has killed seventeen people, most of them pilgrims heading to a prayer site",
       "url": "https://abcnews.com/International/wireStory/17-catholic-pilgrims-killed-road-crash-highway-kenya-136968658",
       "published": "Sat, 03 Oct 2026 06:22:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Korea’s military says North Korea fired projectile toward its eastern waters",
-      "description": "North Korea has fired a ballistic missile toward the sea",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-eastern-136962514",
-      "published": "Fri, 02 Oct 2026 21:06:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -883,21 +853,21 @@
       "severity_level": "High"
     },
     {
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "description": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as producing a funded plan to reduce the forensic backlog for such cases, both within 60 days. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "published": "Wed, 30 Sep 2026 14:16:33 GMT",
-      "source": "The Guardian World",
+      "title": "French high school engulfed in flames as student protests continue",
+      "description": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 12:59:27 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
     },
     {
-      "title": "Russia strikes Kyiv bridge in a new tactic to disrupt life in the Ukrainian capital",
-      "description": "A Russian strike has damaged Kyiv’s Northern Bridge early Saturday, suspending traffic and causing tailbacks for a third day",
-      "url": "https://abcnews.com/International/wireStory/russia-strikes-kyivs-northern-bridge-new-tactic-disrupt-136969028",
-      "published": "Sat, 03 Oct 2026 06:20:50 -0400",
-      "source": "ABC News International",
+      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "description": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as producing a funded plan to reduce the forensic backlog for such cases, both within 60 days. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "published": "Wed, 30 Sep 2026 14:16:33 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -928,16 +898,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 21:13:27 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
-      "description": "Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:36:17 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -986,7 +946,7 @@
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 11:20:21 GMT",
+      "published": "Sat, 03 Oct 2026 14:27:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1133,20 +1093,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
-      "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
-      "url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645",
-      "published": "Sat, 03 Oct 2026 06:19:19 -0400",
+      "title": "‘I was fighting for my life’: Pilot hailed as hero recalls FlyDubai cockpit attack",
+      "description": "The pilot said he fought for his life after his co-pilot stabbed him.",
+      "url": "https://abcnews.com/International/wireStory/fighting-life-indian-pilot-hailed-hero-recalls-flydubai-136942539",
+      "published": "Fri, 02 Oct 2026 06:58:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "‘I was fighting for my life’: Pilot hailed as hero recalls FlyDubai cockpit attack",
-      "description": "The pilot said he fought for his life after his co-pilot stabbed him.",
-      "url": "https://abcnews.com/International/wireStory/fighting-life-indian-pilot-hailed-hero-recalls-flydubai-136942539",
-      "published": "Fri, 02 Oct 2026 06:58:13 -0400",
+      "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
+      "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
+      "url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645",
+      "published": "Sat, 03 Oct 2026 06:19:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1233,6 +1193,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
       "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
@@ -1258,6 +1228,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 05:53:51 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+      "description": "Military, pro-government forces recapture airport in Tigray's capital as fighting also rages in Amhara and Afar regions.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 13:00:57 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1373,31 +1353,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Polls open in Latvia against backdrop of perceived Russia threat",
-      "description": "Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory, but coalition negotiations could be complex.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:21:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Turkish court detains football refereeing chief pending corruption trial",
-      "description": "Seven officials face an investigation over allegations of manipulation of the referee administration process.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:19:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
       "description": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight. Depicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was painted by a group of young volunteers, Rasmet Basma, in Tahrir Square. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
       "published": "Fri, 02 Oct 2026 08:55:42 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Spain: Massive protests after housing bills voted down",
+      "description": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 other Spanish cities.",
+      "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 3 Oct 2026 14:18:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1423,20 +1393,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "China launches anti-dumping probe into chemical compound p-nitrotoluene from the EU",
-      "description": "China has launched an anti-dumping investigation into imports of p-nitrotoluene, a chemical compound used in dyes and pharmaceuticals, from the European Union, as trade tensions between the two sides grow",
-      "url": "https://abcnews.com/International/wireStory/china-launches-anti-dumping-probe-chemical-compound-nitrotoluene-136967994",
-      "published": "Sat, 03 Oct 2026 02:16:55 -0400",
+      "title": "Inside the study for a remedy to fight Congo's deadliest Ebola outbreak",
+      "description": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo",
+      "url": "https://abcnews.com/International/wireStory/inside-study-remedy-fight-congos-deadliest-ebola-outbreak-136967362",
+      "published": "Sat, 03 Oct 2026 02:17:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Inside the study for a remedy to fight Congo's deadliest Ebola outbreak",
-      "description": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo",
-      "url": "https://abcnews.com/International/wireStory/inside-study-remedy-fight-congos-deadliest-ebola-outbreak-136967362",
-      "published": "Sat, 03 Oct 2026 02:17:00 -0400",
+      "title": "'Cockroach' protesters demand India's election chief resign over voter list changes",
+      "description": "Supporters of India's \"Cockroach\" youth movement are protesting in Mumbai, demanding the resignation of the chief election commissioner over voter list revisions",
+      "url": "https://abcnews.com/International/wireStory/cockroach-protesters-demand-indias-election-chief-resign-voter-136942017",
+      "published": "Fri, 02 Oct 2026 11:31:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "China launches anti-dumping probe into chemical compound p-nitrotoluene from the EU",
+      "description": "China has launched an anti-dumping investigation into imports of p-nitrotoluene, a chemical compound used in dyes and pharmaceuticals, from the European Union, as trade tensions between the two sides grow",
+      "url": "https://abcnews.com/International/wireStory/china-launches-anti-dumping-probe-chemical-compound-nitrotoluene-136967994",
+      "published": "Sat, 03 Oct 2026 02:16:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1503,6 +1483,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "What to know about Brazil’s 2026 presidential election",
+      "description": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 14:23:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Defining consent and the psychology behind the ‘Cornell 7’ rape case",
       "description": "How a Cornell student went from blaming herself, to reporting an alleged fraternity rape.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss",
@@ -1563,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Brazil's leading presidential candidates snub TV debate ahead of Sunday's election",
+      "description": "Brazil’s President Luiz Inácio Lula da Silva and opposition candidate Flávio Bolsonaro have snubbed a final chance to debate ahead of the election",
+      "url": "https://abcnews.com/International/wireStory/brazils-leading-presidential-candidates-snub-tv-debate-ahead-136939403",
+      "published": "Thu, 01 Oct 2026 23:25:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "US, Australia suspend consular services in Brazil ahead of election",
       "description": "U.S. consular services and the Australian embassy have closed in Brazil due to security concerns",
       "url": "https://abcnews.com/International/wireStory/us-australia-suspend-consular-services-brazil-ahead-election-136961836",
@@ -1583,16 +1583,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 20:32:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
       "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
       "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
@@ -1607,6 +1597,16 @@
       "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
       "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 08:51:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 20:32:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1638,6 +1638,36 @@
       "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 04:21:31 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel election double standard: Arab leader forced out, far right cleared",
+      "description": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 14:06:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+      "description": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 13:18:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "LIVE: Croatia vs England – UEFA Nations League",
+      "description": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 13:01:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1697,16 +1727,6 @@
       "description": "Lewis Hamilton of Ferrari to start second on the grid in Sepang with Red Bull's ⁠Isack Hadjar third.",
       "url": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss",
       "published": "Sat, 03 Oct 2026 10:03:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "No handshakes and a delayed ceremony as India beat Pakistan at Asian Games",
-      "description": "India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss",
-      "published": "Sat, 03 Oct 2026 08:18:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1846,14 +1866,14 @@
       "title": "M 4.2 - 6 km WNW of Wauna, Washington",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-      "published": "2026-10-03T06:01:54.761Z",
+      "published": "2026-10-03T13:53:20.046Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's big political rematch: What to know",
+      "title": "Brazil's big political rematch: What to know about the Brazilian election",
       "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
       "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
       "published": "Fri, 02 Oct 2026 22:57:07 -0400",
@@ -1933,20 +1953,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nations League: France held by Italy in Zidane's homecoming after Olise stunner",
-      "description": "After two wins in two away games, Zinédine Zidane’s return to the Stade de France as coach was not exactly a success, as Les Bleus were held to a 1-1 draw by Italy on Friday in the UEFA Nations League.",
+      "title": "Nations League: France held by Italy despite Olise stunner",
+      "description": "After two wins in two away games, Zinedine Zidane’s return to the Stade de France as coach was not exactly a success, as Les Bleus were held to a 1-1 draw by Italy on Friday in the UEFA Nations League.",
       "url": "https://www.france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner",
       "published": "Fri, 02 Oct 2026 20:58:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
-      "description": "He was still relatively unknown in Brazil just a few months ago. The 45-year-old senator is now neck and neck with incumbent President Lula in the polls for the upcoming presidential election. Flavio Bolsonaro's victory would add Brazil to the long list of Latin American countries that have shifted to the right or far right in recent months.",
-      "url": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
-      "published": "Fri, 02 Oct 2026 15:06:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -1993,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Botswana has so many elephants it approved the killing of 23 this week for independence celebrations",
-      "description": "Botswana’s government has authorized the killing of 23 elephants for its independence day celebrations this week",
-      "url": "https://abcnews.com/International/wireStory/botswana-elephants-approved-killing-23-week-independence-celebrations-136955285",
-      "published": "Fri, 02 Oct 2026 15:26:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Taiwan receives 2 long-delayed US F-16Vs and awaits additional fighter jets",
       "description": "Taiwan has received the first two F-16V fighter jets from a long-delayed U.S. package, according to the island's air force",
       "url": "https://abcnews.com/International/wireStory/taiwan-receives-2-long-delayed-us-16vs-awaits-136944549",
@@ -2034,7 +2034,7 @@
     },
     {
       "title": "‘Tinder Swindler’ romance fraudster promises ‘safe’ dating app – using intel from con man playbook",
-      "description": "Shimon Hayut, the notorious 'Tinder Swindler' also known as Simon Leviev, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
+      "description": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
       "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
       "published": "Sat, 03 Oct 2026 07:00:49 -0400",
       "source": "Fox News US",
