@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T10:17:11.044976Z",
+  "last_updated": "2026-10-05T10:42:47.648825Z",
   "event_count": 222,
   "events": [
     {
@@ -100,16 +100,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain's Catalonia region",
-      "description": "Authorities warned of extreme danger around Barcelona and Girona, with rivers at risk of overflowing and residents urged to stay indoors.",
-      "url": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Oct 2026 11:36:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -293,6 +283,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Klopp's first Germany internationals: What did we learn?",
+      "description": "Jürgen Klopp has done things a little differently since becoming Germany coach. Casting a wider net for talent and trying to connect with players and country haven't make an immediate impact, but he is not bowed.",
+      "url": "https://www.dw.com/en/klopp-s-first-germany-internationals-what-did-we-learn/a-79547308?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Oct 2026 10:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
       "description": "The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatants on both sides, according to UN figures, and has since become the most active front in the wider Middle East war.",
       "url": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
@@ -303,8 +303,8 @@
       "severity_level": "High"
     },
     {
-      "title": "\"Mum if you see this it's for my future\"",
-      "description": "PRESS REVIEW: Monday, 5 October – more than 400 schools closed on Monday across France, as government fails to assuage the anger of protesting students. In other news, Boulder, Colorado takes on ExxonMobil and Suncor Energy, demanding billions for damage caused by wildfires. And, finally, we take a look at some of nature's most whimsical offerings.",
+      "title": "French high school protests: 'Mum if you see this it's for my future'",
+      "description": "PRESS REVIEW – Monday, 5 October: More than 400 schools are closed this Monday across France, as the government fails to assuage the anger of protesting high school students. In other news, Boulder, Colorado takes on ExxonMobil and Suncor Energy, demanding billions for damage caused by wildfires. Finally, we take a look at some of nature's most whimsical offerings.",
       "url": "https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future",
       "published": "Mon, 05 Oct 2026 08:06:51 GMT",
       "source": "France24",
@@ -473,7 +473,17 @@
       "severity_level": "High"
     },
     {
-      "title": "Yemen war escalates: What’s the latest, as government forces claim gains?",
+      "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
+      "description": "Army of internationally recognised gov't claims key gains near strait before Saudi, Pakistani, Turkish officials meet.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
+      "published": "Mon, 05 Oct 2026 09:40:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Yemen war: What’s the latest, as government forces claim advances?",
       "description": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
       "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
       "published": "Mon, 05 Oct 2026 09:38:26 +0000",
@@ -553,6 +563,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'",
+      "description": "US President Donald Trump has named his National Intelligence Director Jay Clayton as America's \"Super Intelligence\" czar, as fears over AI grow. Also, oil markets react to Houthi attacks as well as export data, and France's fiscal woes drive the euro to a 17-month low.",
+      "url": "https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force",
+      "published": "Mon, 05 Oct 2026 10:09:38 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Thousands of Imran Khan supporters march towards Pakistan's barricaded capital",
       "description": "Supporters of Imran Khan, Pakistan's former prime minister, have started a march towards the capital Islamabad to demand his release from prison.",
       "url": "https://news.sky.com/story/thousands-of-imran-khan-supporters-march-towards-pakistans-barricaded-capital-islamabad-13595103",
@@ -576,7 +596,7 @@
       "title": "Ukraine says attacks knocked out over half of Russia's oil refining capacity",
       "description": "Ukraine says its long-range strikes have neutralized over half of Russia's oil refining capacity",
       "url": "https://abcnews.com/International/wireStory/ukraine-claims-attacks-half-russias-oil-refining-capacity-136996326",
-      "published": "Mon, 05 Oct 2026 06:02:31 -0400",
+      "published": "Mon, 05 Oct 2026 06:18:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -866,7 +886,7 @@
       "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
       "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
       "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:10:27 GMT",
+      "published": "Mon, 05 Oct 2026 10:37:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1086,7 +1106,7 @@
       "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
       "description": "The Nobel Prize in medicine has been awarded to three scientists for their work on how the brain switches nerve cell activity on and off",
       "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
-      "published": "Mon, 05 Oct 2026 06:16:05 -0400",
+      "published": "Mon, 05 Oct 2026 06:18:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1096,7 +1116,7 @@
       "title": "South Korea blames North Korean mines for border blast injuries and urges apology",
       "description": "South Korea’s military says it has concluded North Korea planted mines that injured three South Korean soldiers at their heavily fortified border last month, urging the North to apologize and remove other mines",
       "url": "https://abcnews.com/International/wireStory/south-korea-blames-north-korean-mines-border-blast-136996365",
-      "published": "Mon, 05 Oct 2026 06:09:16 -0400",
+      "published": "Mon, 05 Oct 2026 06:18:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1106,7 +1126,7 @@
       "title": "Former Prince Andrew files legal action to quash warrants that led to searches",
       "description": "Britain’s former Prince Andrew has filed a legal action to quash warrants that led to searches of his residences",
       "url": "https://abcnews.com/International/wireStory/former-prince-andrew-files-legal-action-quash-warrants-136996092",
-      "published": "Mon, 05 Oct 2026 06:10:15 -0400",
+      "published": "Mon, 05 Oct 2026 06:18:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1243,16 +1263,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Rubio visits Iceland ‘to discuss security collaboration’ as US boosts Arctic presence",
-      "description": "US Secretary of State Marco Rubio is set to travel to Iceland on Monday, two weeks after Washington sealed a security pact with Denmark and Greenland on the sidelines of the United Nations General Assembly. Rubio will meet with officials in Reykjavik \"to discuss economic and security collaboration\", according to a statement by the US State Department.",
-      "url": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
-      "published": "Mon, 05 Oct 2026 01:20:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Bolsonaro and Lula to compete in Brazilian presidential run-off",
       "description": "Brazilian Senator Flavio Bolsonaro will face President Luiz Inacio Lula da Silva in the 25 October presidential run-off, the country's electoral authority said on Sunday.",
       "url": "https://news.sky.com/story/bolsonaro-and-lula-to-compete-in-brazilian-presidential-run-off-after-tight-vote-13595195",
@@ -1316,7 +1326,7 @@
       "title": "US air force removes all bombers from British military base RAF Fairford",
       "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 09:20:45 GMT",
+      "published": "Mon, 05 Oct 2026 10:39:09 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1397,16 +1407,6 @@
       "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
       "url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 4 Oct 2026 18:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
-      "description": "The Japanese government has lodged an official protest with Washington after a US Marine was arrested on suspicion of murdering a woman in Okinawa — where incidents involving US service personnel are not uncommon.",
-      "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Oct 2026 11:15:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1546,7 +1546,7 @@
       "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
       "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
       "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 05:28:46 GMT",
+      "published": "Mon, 05 Oct 2026 10:23:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1573,10 +1573,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
-      "description": "Yemeni forces claim to seize key positions near waterway as Pakistani, Saudi and Turkish officials to meet.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
-      "published": "Mon, 05 Oct 2026 09:40:37 +0000",
+      "title": "The Republican consensus on Israel is starting to fracture",
+      "description": "Christian Zionism made support for Israel a Republican cause. America First Republicans are challenging that consensus.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss",
+      "published": "Mon, 05 Oct 2026 10:05:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1627,16 +1627,6 @@
       "description": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
       "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
       "published": "Mon, 05 Oct 2026 04:13:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Yemen gov’t forces commence major combat operation against Houthis",
-      "description": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-      "published": "Mon, 05 Oct 2026 03:11:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1838,6 +1828,16 @@
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
       "published": "Sun, 04 Oct 2026 11:15:09 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
+      "description": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning along ethnic lines.",
+      "url": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Oct 2026 10:23:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
