@@ -1,15 +1,25 @@
 {
-  "last_updated": "2026-10-05T08:27:28.742722Z",
+  "last_updated": "2026-10-05T08:57:35.918060Z",
   "event_count": 222,
   "events": [
     {
-      "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
-      "description": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central high-rise districts can briefly turn into rivers, with rats and cockroaches racing out of sewers and taking temporary refuge on trees and buildings as the subterranean world is flushed out. But every city has a breaking point, and this year rain fell so fast and so hard that whole neighbourhoods of the Thai capital have been transformed, not into rivers, but stagnant lakes. In parts of the city, roughly 300mm of rain – the equivalent of half a year of average rainfall in London – fell in about two days. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
-      "published": "Sat, 03 Oct 2026 02:00:46 GMT",
+      "title": "Extreme heat warnings issued for parts of southern California",
+      "description": "Temperatures in US state forecast to hit high 30s celsius this week, while regions in Indonesia grapple with wildfires The National Weather Service in the US has issued extreme heat warnings for parts of southern California, including Los Angeles, until Thursday, as temperatures are expected to hit the high 30s celsius. Burbank, a suburb north of Los Angeles, recorded 39C on Saturday, a few degrees shy of the October record for the region set in 1987. A persistent area of high pressure will remain in place this week, leading to further hazardous hot weather and increased fire risk. Parts of Indonesia are in the midst of an extreme wildfire season, which has peaked over the past month. Western Kalimantan (Borneo) and southern Sumatra have been particularly badly affected. The lack of rainfall has dried the usually water-logged tropical soils, meaning that fires have been able to spread quickly, above and below the surface. Indonesia’s soils are also extremely rich in peat, meaning that the smoke produced from the fires contain higher levels of toxic gases such as sulphur dioxide and carbon monoxide. Cities in surrounding areas and as far as Malaysia and Singapore have experienced reduced air quality in recent weeks as a result. Drought and wildfires are more common in this part of the world during El Niño events owing to suppressed thunderstorm activity. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
+      "published": "Mon, 05 Oct 2026 08:20:52 GMT",
       "source": "The Guardian World",
       "type": "rss",
-      "severity_score": 50,
+      "severity_score": 51,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israel observes October 7 anniversary with national memorial day",
+      "description": "Israel is holding memorial ceremonies nationwide for those killed in the October 7, 2023 Hamas terror attacks and soldiers who died in the ensuing war.",
+      "url": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Oct 2026 08:38:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 42,
       "severity_level": "Critical"
     },
     {
@@ -60,16 +70,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
-      "description": "From French highschoolers protesting to demand better learning conditions to a Flydubai flight diverted to Saudi Arabia after a flightcrew member's onboard attack and flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
-      "url": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
-      "published": "Sun, 04 Oct 2026 13:35:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -233,6 +233,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Israel's mental health crisis in the wake of Oct. 7 attacks",
+      "description": "More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.",
+      "url": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Oct 2026 08:52:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "US pulls bombers out of UK's Fairford airbase after arrests",
       "description": "Following a suspected terrorist plot targeting the UK's Fairford airbase, the US Air Force withdrew all its B-1 planes from the site.",
       "url": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-xml-mrss",
@@ -250,16 +260,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
-      "description": "Spanish Prime Minister Pedro Sánchez has announced early elections after his government suffered a bruising legislative defeat last week on emergency measures related to the country’s housing crisis",
-      "url": "https://abcnews.com/International/wireStory/spains-prime-minister-calls-early-elections-pressure-mounts-136995932",
-      "published": "Mon, 05 Oct 2026 03:38:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -283,11 +283,21 @@
       "severity_level": "High"
     },
     {
-      "title": "2 people killed in Norway after shooter opens fire on hunting party",
-      "description": "Two people were killed and another seriously injured when a shooter opened fire on a hunting party in southern Norway",
-      "url": "https://abcnews.com/International/wireStory/2-people-killed-norway-after-shooter-opens-fire-136984128",
-      "published": "Sun, 04 Oct 2026 07:30:20 -0400",
-      "source": "ABC News International",
+      "title": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
+      "description": "The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatants on both sides, according to UN figures, and has since become the most active front in the wider Middle East war.",
+      "url": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
+      "published": "Mon, 05 Oct 2026 08:12:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "\"Mum if you see this it's for my future\"",
+      "description": "PRESS REVIEW: Monday, 5 October – more than 400 schools closed on Monday across France, as government fails to assuage the anger of protesting students. In other news, Boulder, Colorado takes on ExxonMobil and Suncor Energy, demanding billions for damage caused by wildfires. And, finally, we take a look at some of nature's most whimsical offerings.",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future",
+      "published": "Mon, 05 Oct 2026 08:06:51 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -303,6 +313,16 @@
       "severity_level": "High"
     },
     {
+      "title": "2 people killed in Norway after shooter opens fire on hunting party",
+      "description": "Two people were killed and another seriously injured when a shooter opened fire on a hunting party in southern Norway",
+      "url": "https://abcnews.com/International/wireStory/2-people-killed-norway-after-shooter-opens-fire-136984128",
+      "published": "Sun, 04 Oct 2026 07:30:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
       "description": "A parking dispute near a youth football event at Leon Day Park in Baltimore turned deadly when two men allegedly opened fire on each other, killing a 12-year-old girl in the crossfire.",
       "url": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded",
@@ -310,6 +330,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+      "description": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+      "published": "Mon, 05 Oct 2026 04:44:06 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -443,16 +473,6 @@
       "severity_level": "High"
     },
     {
-      "title": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
-      "description": "German Chancellor Friedrich Merz visited Ukraine on Sunday to show solidarity after Russian attacks on Kyiv infrastructure, including three bridges. Last month, Germany’s foreign minister called for de-escalation during talks with his Russian counterpart at the UN, drawing criticism from Sergei Lavrov, who urged Berlin to stop arming Ukraine. On Saturday, Moscow called on foreign nationals and diplomats to leave Ukraine. Shirli Sitbon reports.",
-      "url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
-      "published": "Sun, 04 Oct 2026 14:37:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Hero FlyDubai pilot says he was 'fighting for my life' as plane plunged after copilot attack",
       "description": "Capt. Smit Machchhar told PM Narenda Modi he felt the FlyDubai plane plunging as he lay wounded and made one last push to open the cockpit door.",
       "url": "https://www.foxnews.com/world/hero-flydubai-pilot-fighting-life-plane-plunged-copilot-attack",
@@ -553,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Iraq's Iranian-backed militias say it'll cease attacks once U.S. military withdraws",
+      "description": "Iraq's main Iranian-backed militias say they will stop attacks after the U.S. military's withdrawal from the country.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5989380/iraqs-iranian-backed-militias-say-itll-cease-attacks-once-u-s-military-withdraws",
+      "published": "Mon, 05 Oct 2026 04:45:05 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Thousands of Imran Khan supporters march towards Pakistan's barricaded capital",
       "description": "Supporters of Imran Khan, Pakistan's former prime minister, have started a march towards the capital Islamabad to demand his release from prison.",
       "url": "https://news.sky.com/story/thousands-of-imran-khan-supporters-march-towards-pakistans-barricaded-capital-islamabad-13595103",
@@ -643,6 +673,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Up to 500 French schools to be closed Monday as protests continue",
+      "description": "Up to 500 French high ⁠schools will begin a second week of total or partial closures on Monday as protests over dilapidated schools and classrooms, overcrowding and teacher shortages precede a nationwide day of demonstrations on Tuesday. Reporting from outside a high school in the Paris suburb of Aubervilliers, France 24's Luke Shrago says things are relatively calm as of early Monday morning as students seek to rebuild the momentum of last week’s protests following a weekend lull.",
+      "url": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
+      "published": "Mon, 05 Oct 2026 08:46:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Spanish PM Sanchez calls snap election amid housing crisis",
+      "description": "Spanish Prime Minister Pedro Sanchez called ⁠an early election ​for November 29 on Monday, in a bid to strengthen his mandate after a fragmented parliament rejected the government's key housing decrees last week amid widespread protests. France 24's correspondent in Madrid Sarah Morris has the deetails.",
+      "url": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
+      "published": "Mon, 05 Oct 2026 08:42:29 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "US withdraws B-1 bombers from British military base RAF Fairford amid security concerns",
       "description": "The Pentagon confirmed on Sunday that all US B-1 bombers deployed to Britain’s RAF Fairford had returned home following a security incident that prompted nearby evacuations. Police found no explosives after reports of suspicious activity at the base last Sunday. Five London-based British men arrested were subsequently released on bail.",
       "url": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon",
@@ -673,6 +723,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+      "description": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+      "published": "Mon, 05 Oct 2026 08:20:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -693,16 +753,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
-      "description": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168498",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Portland teen faces terrorism, attempted murder charges after school cafeteria chemical scare",
       "description": "A 15-year-old Benson Polytechnic High School student faces 19 counts including domestic terrorism after allegedly mixing toxic chemicals in the cafeteria.",
       "url": "https://www.foxnews.com/us/portland-teen-faces-terrorism-attempted-murder-charges-after-school-cafeteria-chemical-scare",
@@ -716,38 +766,8 @@
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
       "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 06:17:13 GMT",
+      "published": "Mon, 05 Oct 2026 08:29:12 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
-      "description": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
-      "published": "Mon, 05 Oct 2026 00:33:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-      "description": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
-      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Oct 2026 03:48:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Why I quit the movement shaping AI",
-      "description": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New York Times reported this week that one of AI firm Anthropic’s co-founders spent months lobbying religious thinkers on the possibility that AI could be conscious.",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
-      "published": "Sun, 04 Oct 2026 14:30:32 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -943,6 +963,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants",
+      "description": "Britain's disgraced former prince, Andrew Mountbatten-Windsor, filed a legal action on Monday to quash warrants that led to searches of his residences. The police arrested the 66-year-old on February 19 on suspicion of misconduct over his links to the late convicted sex offender Jeffrey Epstein.",
+      "url": "https://www.france24.com/en/europe/20261005-ex-prince-andrew-launches-bid-to-quash-epstein-affair-search-warrants",
+      "published": "Mon, 05 Oct 2026 08:36:27 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Spanish PM Sanchez calls snap election as pressure mounts over housing crisis",
+      "description": "Spanish ​Prime ​Minister ​Pedro Sanchez on Monday called an early ​election ‌for ‌November ​29. Facing the electorate now could be risky, as Sanchez's Socialist Party is trailing in opinion polls.",
+      "url": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29",
+      "published": "Mon, 05 Oct 2026 07:18:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Flydubai co-pilot: Australian links probed after 'axe attack' on captain",
       "description": "Australian authorities are investigating a flydubai co-pilot's \"links to Australia\" after he attacked the captain ​on a Tel Aviv-bound flight.",
       "url": "https://news.sky.com/story/flydubai-co-pilot-australian-links-probed-after-axe-attack-on-captain-13595012",
@@ -953,20 +993,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Former Prince Andrew files legal action to quash warrants that led to searches",
-      "description": "Britain’s Former Prince Andrew has filed a legal action to quash warrants that led to searches of his residences",
-      "url": "https://abcnews.com/International/wireStory/former-prince-andrew-files-legal-action-quash-warrants-136996092",
-      "published": "Mon, 05 Oct 2026 04:03:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The Nobel Prize week is kicking off in Stockholm with the medicine award",
-      "description": "This year’s Nobel Prizes kick off with the awarding of the medicine prize at the Karolinska Institute in Stockholm",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
-      "published": "Mon, 05 Oct 2026 03:38:24 -0400",
+      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+      "description": "German Chancellor Friedrich Merz has arrived in Kyiv to show support as Russia intensifies attacks on Ukrainian cities",
+      "url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124",
+      "published": "Sun, 04 Oct 2026 05:47:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -983,10 +1013,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-      "description": "German Chancellor Friedrich Merz has arrived in Kyiv to show support as Russia intensifies attacks on Ukrainian cities",
-      "url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124",
-      "published": "Sun, 04 Oct 2026 05:47:24 -0400",
+      "title": "The Nobel Prize week is kicking off in Stockholm with the medicine award",
+      "description": "This year’s Nobel Prizes kick off with the awarding of the medicine prize at the Karolinska Institute in Stockholm",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
+      "published": "Mon, 05 Oct 2026 04:10:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Former Prince Andrew files legal action to quash warrants that led to searches",
+      "description": "Britain’s former Prince Andrew has filed a legal action to quash warrants that led to searches of his residences",
+      "url": "https://abcnews.com/International/wireStory/former-prince-andrew-files-legal-action-quash-warrants-136996092",
+      "published": "Mon, 05 Oct 2026 04:10:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1256,7 +1296,7 @@
       "title": "US air force removes all bombers from British military base RAF Fairford",
       "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 07:14:28 GMT",
+      "published": "Mon, 05 Oct 2026 08:28:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1363,26 +1403,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
-      "description": "The woman who alleged that she was drugged and raped by seven male students at a Cornell University fraternity house has been the target of threats, her lawyer told CNN on Sunday. Cornell's president earlier voiced support for an external review of the Ivy League institution facing widespread outcry over its handling of the case.",
-      "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
-      "published": "Sun, 04 Oct 2026 16:25:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Hundreds of schools to shut Monday as France braces for more student protests",
-      "description": "France's education minister said lessons would be \"totally or partly suspended\" at up to 500 high schools on Monday after several days of sometimes violent protests against teacher shortages, dilapidated school buildings and overcrowding in classrooms. The minister said 24 schools had been \"burned or ransacked\" since the start of the protest movement.",
-      "url": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
-      "published": "Sun, 04 Oct 2026 12:50:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "What to expect from school protests rattling France's government",
       "description": "High school students in France are expected to continue their protests this week, challenging President Emmanuel Macron's government",
       "url": "https://abcnews.com/International/wireStory/expect-week-school-protests-rattling-frances-government-136983506",
@@ -1408,26 +1428,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
-      "description": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governors in an election that will determine whether Latin America's biggest nation follows a regional swing to the right championed by US President Donald Trump. France 24 correspondent Jan Onoszko tells us the latest from Rio de Janeiro.",
-      "url": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
-      "published": "Sun, 04 Oct 2026 13:17:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
-      "description": "The ​leader of ​Yemen's Saudi-backed government announced the beginning of a ​major ‌military ⁠operation against the Iran-backed Houthis ‌on Sunday aimed at ⁠recapturing territory under their control. The announcement came as Houthi forces cut off a vital supply route to the besieged government-held city of Taiz, according to several security sources.",
-      "url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
-      "published": "Sun, 04 Oct 2026 12:59:17 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1483,9 +1483,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere across Africa?",
       "description": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
-      "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere-across-africa/a-79476947?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 4 Oct 2026 17:15:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1833,26 +1833,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "U.S. withdrawal from Iraq is complete",
-      "description": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
-      "published": "Sat, 03 Oct 2026 17:57:33 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
-      "description": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose.",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
-      "published": "Sat, 03 Oct 2026 17:57:29 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Germany news: Left Party sues economy minister at top court",
       "description": "The Left Party is taking a case over remarks by the CDU's Katherina Reiche to the Constitutional Court. The coalition could face a new row over working hours reforms. DW has more.",
       "url": "https://www.dw.com/en/germany-news-left-party-sues-economy-minister-at-top-court/live-79542789?maca=en-rss-en-all-1573-xml-mrss",
@@ -1893,11 +1873,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany news: Many believe Merkel more capable than Merz",
-      "description": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany's challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
-      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Oct 2026 08:29:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Bolsonaro in 'very strong position' as Brazil election heads to run-off",
+      "description": "Right-wing senator Flavio Bolsonaro pulled off a surprise first-place finish ahead of President Luiz Inacio Lula da Silva in Sunday's election, which heads to a run-off in three weeks as neither clinched a majority. However, with Bolsonaro gaining 47 percent of the ballet to Lula’s 45 percent, he is in a “very strong position” heading into the decisive vote, says France 24’s correspondent Time Vickery.",
+      "url": "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+      "published": "Mon, 05 Oct 2026 08:44:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "🔴Spanish PM Sanchez calls snap election for November 29",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29",
+      "published": "Mon, 05 Oct 2026 07:19:56 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1927,16 +1917,6 @@
       "description": "Right-wing Senator Flavio Bolsonaro pulled off a surprise first-place finish ahead of President Luiz Inacio Lula da Silva in Sunday's election, which heads to a run-off vote on October 25 as neither clinched a majority.",
       "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
       "published": "Mon, 05 Oct 2026 00:16:05 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil: Lula and Bolsonaro tied in polls",
-      "description": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at Birbeck, University of London, says the tight race reflects the consolidation of two political camps, with many Brazilians voting not out of support for a candidate, but to keep the other out of power. She points to the cost of living, religion and social media echo chambers as key factors shaping the vote, alongside a major banking scandal that has so far had limited impact on Flavio Bolsonaro’s campaign.",
-      "url": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "published": "Sun, 04 Oct 2026 13:19:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -1983,16 +1963,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Dozens detained at Kremlin-friendly Communist Party's Moscow rally, party says",
-      "description": "Police detained about 60 people, mostly young, as the rally was ending.",
-      "url": "https://abcnews.com/International/wireStory/dozens-detained-rally-moscow-held-kremlin-friendly-communist-136988567",
-      "published": "Sun, 04 Oct 2026 14:18:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "US Marine's arrest in a killing on Okinawa triggers outrage in Japan",
       "description": "Japanese police say they have arrested a U.S. Marine accused of robbing and killing a woman on Okinawa",
       "url": "https://abcnews.com/International/wireStory/us-marine-arrested-alleged-murder-woman-okinawa-triggers-136985677",
@@ -2003,10 +1973,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "The Latest: Brazil heads to runoff presidential election between Bolsonaro, Lula",
-      "description": "Polls have closed in Brazil in a pivotal presidential election featuring incumbent Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro",
-      "url": "https://abcnews.com/International/wireStory/latest-brazilians-vote-presidential-election-dominated-lula-bolsonaro-136984414",
-      "published": "Sun, 04 Oct 2026 22:18:22 -0400",
+      "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide",
+      "description": "Milorad Dodik has declared victory for his party in Bosnia's election, which was influenced by economic pressures, EU membership prospects, and ethnic tensions",
+      "url": "https://abcnews.com/International/wireStory/bosnia-votes-pro-russian-politician-looms-large-race-136981747",
+      "published": "Sun, 04 Oct 2026 20:58:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2023,11 +1993,41 @@
       "severity_level": "Low"
     },
     {
+      "title": "Dozens detained at Kremlin-friendly Communist Party's Moscow rally, party says",
+      "description": "Police detained about 60 people, mostly young, as the rally was ending.",
+      "url": "https://abcnews.com/International/wireStory/dozens-detained-rally-moscow-held-kremlin-friendly-communist-136988567",
+      "published": "Sun, 04 Oct 2026 14:18:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The Latest: Brazil heads to runoff presidential election between Bolsonaro, Lula",
+      "description": "Polls have closed in Brazil in a pivotal presidential election featuring incumbent Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro",
+      "url": "https://abcnews.com/International/wireStory/latest-brazilians-vote-presidential-election-dominated-lula-bolsonaro-136984414",
+      "published": "Sun, 04 Oct 2026 22:18:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Bolsonaro and Lula head to a runoff in Brazil's presidential election",
       "description": "Sen. Flávio Bolsonaro, an ally of U.S. President Donald Trump, and Brazil’s veteran President Luiz Inácio Lula da Silva will face off in a runoff for the top job of Latin America’s powerhouse economy",
       "url": "https://abcnews.com/International/wireStory/brazil-presidential-vote-pits-trump-ally-lula-seeking-136982206",
-      "published": "Mon, 05 Oct 2026 03:38:14 -0400",
+      "published": "Mon, 05 Oct 2026 03:46:12 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+      "description": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+      "published": "Mon, 05 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
