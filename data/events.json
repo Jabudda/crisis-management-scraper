@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T04:18:49.689890Z",
+  "last_updated": "2026-10-06T04:43:59.958808Z",
   "event_count": 222,
   "events": [
     {
@@ -210,6 +210,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
+      "description": "Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
+      "published": "Tue, 06 Oct 2026 04:07:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -563,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments",
+      "description": "The co-pilot suspected in this week’s FlyDubai attack has been identified as an Omani national",
+      "url": "https://abcnews.com/International/wireStory/pilot-flydubai-attack-identified-mideast-developments-136968085",
+      "published": "Sat, 03 Oct 2026 09:46:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says",
       "description": "U.S. officials are tracking an unconfirmed report of a fatal pneumonic plague case in Russia’s Irkutsk Oblast while urging transparency from Moscow.",
       "url": "https://www.foxnews.com/world/us-monitoring-suspected-fatal-pneumonic-plague-case-russia-state-department-official-says",
@@ -666,7 +686,7 @@
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "description": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 03:53:45 GMT",
+      "published": "Tue, 06 Oct 2026 04:29:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
@@ -1093,10 +1113,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Boat collision on the Congo River kills at least 30, dozens missing, officials say",
-      "description": "Two boats collided over the weekend on the Congo River, killing at least 30 people and leaving dozens missing",
-      "url": "https://abcnews.com/International/wireStory/boat-collision-congo-river-killed-30-dozens-missing-136998020",
-      "published": "Mon, 05 Oct 2026 09:06:24 -0400",
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "description": "The Nobel Prize in medicine has been awarded to three scientists whose work led to a tool that uses light to help unravel how the brain works",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
+      "published": "Mon, 05 Oct 2026 09:30:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1123,10 +1143,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-      "description": "The Nobel Prize in medicine has been awarded to three scientists whose work led to a tool that uses light to help unravel how the brain works",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
-      "published": "Mon, 05 Oct 2026 09:30:23 -0400",
+      "title": "Boat collision on the Congo River kills at least 30, dozens missing, officials say",
+      "description": "Two boats collided over the weekend on the Congo River, killing at least 30 people and leaving dozens missing",
+      "url": "https://abcnews.com/International/wireStory/boat-collision-congo-river-killed-30-dozens-missing-136998020",
+      "published": "Mon, 05 Oct 2026 09:06:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1233,16 +1253,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "What’s next for Bosnia after elections?",
-      "description": "Bosnia and Herzegovina’s election strengthened nationalist parties.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
-      "published": "Mon, 05 Oct 2026 20:54:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1293,20 +1303,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Colombia launches joint task force to protect pipeline and fight ELN rebels",
-      "description": "Colombian President Abelardo de la Espriella has launched a joint task force that will fight rebel groups and drug gangs in the country's northeast",
-      "url": "https://abcnews.com/International/wireStory/colombia-launches-joint-task-force-protect-pipeline-fight-137020512",
-      "published": "Mon, 05 Oct 2026 22:31:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ethiopia again demands access to the Red Sea as tensions with neighbors escalate",
-      "description": "Ethiopian Prime Minister Abiy Ahmed insists his country must have access to the Red Sea",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-demands-access-red-sea-tensions-neighbors-escalate-137007336",
-      "published": "Mon, 05 Oct 2026 13:58:11 -0400",
+      "title": "Russia hosts consultations on Afghanistan, including with a Taliban delegation",
+      "description": "Russia has hosted consultations on Afghanistan that included a delegation of the country's ruling Taliban government along with officials from China, India, Iran, Pakistan and other nations",
+      "url": "https://abcnews.com/International/wireStory/russia-hosts-consultations-afghanistan-including-taliban-delegation-136999824",
+      "published": "Mon, 05 Oct 2026 08:50:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1323,10 +1323,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia hosts consultations on Afghanistan, including with a Taliban delegation",
-      "description": "Russia has hosted consultations on Afghanistan that included a delegation of the country's ruling Taliban government along with officials from China, India, Iran, Pakistan and other nations",
-      "url": "https://abcnews.com/International/wireStory/russia-hosts-consultations-afghanistan-including-taliban-delegation-136999824",
-      "published": "Mon, 05 Oct 2026 08:50:55 -0400",
+      "title": "Ethiopia again demands access to the Red Sea as tensions with neighbors escalate",
+      "description": "Ethiopian Prime Minister Abiy Ahmed insists his country must have access to the Red Sea",
+      "url": "https://abcnews.com/International/wireStory/ethiopia-demands-access-red-sea-tensions-neighbors-escalate-137007336",
+      "published": "Mon, 05 Oct 2026 13:58:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Colombia launches joint task force to protect pipeline and fight ELN rebels",
+      "description": "Colombian President Abelardo de la Espriella has launched a joint task force that will fight rebel groups and drug gangs in the country's northeast",
+      "url": "https://abcnews.com/International/wireStory/colombia-launches-joint-task-force-protect-pipeline-fight-137020512",
+      "published": "Mon, 05 Oct 2026 22:31:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1356,7 +1366,7 @@
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+      "published": "Tue, 06 Oct 2026 04:25:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1488,16 +1498,6 @@
       "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 5 Oct 2026 17:23:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lao man deported by the US to Eswatini is released after more than a year in prison",
-      "description": "A Lao man deported by the United States to Eswatini under the Trump administration’s immigration crackdown has been released after more than a year in prison",
-      "url": "https://abcnews.com/International/wireStory/immigrant-deported-us-held-african-prison-year-released-136989610",
-      "published": "Sun, 04 Oct 2026 23:46:20 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1914,7 +1914,7 @@
     },
     {
       "title": "Alan Jones corresponded with 13-year-old who asked for financial help, court hears",
-      "description": "Radio host took teenager to lunch, had him visit his apartment, and told him to keep some conversations secret, court hears Get our breaking news email , free app or daily news podcast Alan Jones corresponded extensively with a 13-year-old who had written to him asking for financial help, showering the teenager with praise and asking him to keep some secrets from his mother. The teenager, known as complainant A, posted a letter to Jones after his father left and his single mother was struggling financially, the court heard on the first day of evidence given by complainant A in a closed court. Continue reading...",
+      "description": "Radio host took teenager to lunch, had him visit his apartment, and told him to keep some conversations secret, court hears Get our breaking news email , free app or daily news podcast Alan Jones corresponded extensively with a 13-year-old who had written to him asking for financial help, showering the teenager with praise and asking him to keep some secrets from his mother. The teenager, known as complainant A, posted a letter to Jones after his father left, a family member died and his single mother was struggling financially, the court heard on the first day of evidence given by complainant A in a closed court. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/06/alan-jones-court-financial-help-13-year-old-ntwnfb",
       "published": "Tue, 06 Oct 2026 03:57:47 GMT",
       "source": "The Guardian World",
@@ -2073,20 +2073,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Italy’s Meloni follows pop stars in seeking to trademark her voice to combat AI deepfakes",
-      "description": "Italian Premier Giorgia Meloni has applied to trademark her voice with the European Union intellectual property office in a bid to bolster protections against AI-generated deepfakes",
-      "url": "https://abcnews.com/International/wireStory/italys-meloni-pop-stars-seeking-trademark-voice-combat-137005335",
-      "published": "Mon, 05 Oct 2026 11:48:06 -0400",
+      "title": "Samoa prime minister apologizes for Nazi gesture and saying 'Heil Hitler' in 2007 video",
+      "description": "Samoa’s Prime Minister Laʻauli Leuatea Schmidt has apologized for a 2007 video that showed him saying “Heil Hitler” and making a Nazi gesture",
+      "url": "https://abcnews.com/International/wireStory/samoa-prime-minister-apologizes-nazi-gesture-heil-hitler-136995356",
+      "published": "Mon, 05 Oct 2026 02:58:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Samoa prime minister apologizes for Nazi gesture and saying 'Heil Hitler' in 2007 video",
-      "description": "Samoa’s Prime Minister Laʻauli Leuatea Schmidt has apologized for a 2007 video that showed him saying “Heil Hitler” and making a Nazi gesture",
-      "url": "https://abcnews.com/International/wireStory/samoa-prime-minister-apologizes-nazi-gesture-heil-hitler-136995356",
-      "published": "Mon, 05 Oct 2026 02:58:23 -0400",
+      "title": "Italy’s Meloni follows pop stars in seeking to trademark her voice to combat AI deepfakes",
+      "description": "Italian Premier Giorgia Meloni has applied to trademark her voice with the European Union intellectual property office in a bid to bolster protections against AI-generated deepfakes",
+      "url": "https://abcnews.com/International/wireStory/italys-meloni-pop-stars-seeking-trademark-voice-combat-137005335",
+      "published": "Mon, 05 Oct 2026 11:48:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
