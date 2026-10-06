@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T20:14:45.943584Z",
+  "last_updated": "2026-10-06T20:41:07.223766Z",
   "event_count": 219,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
-      "description": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
-      "published": "Fri, 02 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -186,7 +176,7 @@
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 16:22:37 GMT",
+      "published": "Tue, 06 Oct 2026 20:15:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
@@ -228,6 +218,16 @@
       "url": "https://www.france24.com/en/video/20261006-ukraine-fires-nearly-900-drones-at-russia-says-moscow",
       "published": "Tue, 06 Oct 2026 16:01:42 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "ICC will unseal warrants for 4 Taliban leaders wanted on gender persecution charges",
+      "description": "The International Criminal Court says it is unsealing arrest warrants against four senior Taliban leaders on charges of crimes against humanity",
+      "url": "https://abcnews.com/International/wireStory/icc-unseal-arrest-warrants-4-taliban-leaders-wanted-137005762",
+      "published": "Mon, 05 Oct 2026 11:47:56 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -363,10 +363,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Spain’s gov't approves new urgent housing measures after night of unrest in Barcelona",
-      "description": "Spain's government has approved urgent measures on the country's housing crisis",
-      "url": "https://abcnews.com/International/wireStory/spains-government-approves-new-urgent-housing-measures-after-137027337",
-      "published": "Tue, 06 Oct 2026 08:10:32 -0400",
+      "title": "Romania reports 2 dead and 11 rescued after fire onboard a vessel in Black Sea",
+      "description": "Romanian authorities report that two people have died and 11 crew members were rescued after a commercial vessel caught fire in the Black Sea",
+      "url": "https://abcnews.com/International/wireStory/romania-reports-2-dead-11-rescued-after-fire-137000000",
+      "published": "Mon, 05 Oct 2026 08:58:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -390,16 +390,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-      "description": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 14:50:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -478,16 +468,6 @@
       "url": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 6 Oct 2026 11:14:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Laos names veteran diplomat with international outlook to be new prime minister",
-      "description": "Laos has a new prime minister after the National Assembly elected veteran diplomat Saleumxay Kommasith",
-      "url": "https://abcnews.com/International/wireStory/laos-names-veteran-diplomat-international-outlook-new-prime-137036137",
-      "published": "Tue, 06 Oct 2026 11:41:53 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -578,6 +558,16 @@
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
       "published": "Tue, 06 Oct 2026 19:12:08 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+      "description": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected. Behind those warning signs is an El Niño whose Pacific Ocean temperatures have already surpassed the equivalent measurements during the historic 1997 and 2015 events – part of an unfolding climate pattern being dubbed a “Super El Niño” by some climate watchers.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+      "published": "Tue, 06 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -683,20 +673,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
-      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
-      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
-      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
+      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
+      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
+      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
+      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
-      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
-      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
+      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
+      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
+      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
+      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -748,6 +738,16 @@
       "url": "https://www.france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing",
       "published": "Tue, 06 Oct 2026 19:41:11 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
+      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
+      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
+      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -863,6 +863,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Is there a MAGA after Trump?",
+      "description": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump's second term.",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss",
+      "published": "Tue, 06 Oct 2026 20:07:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Russia denies imposing anti-plague measures after lab worker death",
       "description": "Russia denies plague cases after laboratory technician's death; US demands 'transparency' as WHO monitors situation.",
       "url": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss",
@@ -937,6 +947,16 @@
       "description": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Fuel is being shipped from South Korea to Russia via sanctioned tankers as Moscow scrambles for supplies amid the war in Ukraine, a move one expert said “undermines” Seoul’s public backing for Kyiv. Guardian analysis of port records and ship-tracking data found that in July and August over 176,000 tonnes of fuel, mostly diesel, was loaded at several South Korean ports on to seven tankers that made 14 voyages to Russia’s far east. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
       "published": "Mon, 05 Oct 2026 23:50:12 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
+      "description": "Michael Rowland and Leigh Sales lead tributes to newsreader who read the ABC’s 7pm bulletin for 20 years Get our new political email , free app or daily news podcast Former ABC news presenter Richard Morecroft has been remembered as “one of the great broadcasters of his generation” and “trusted presence” for Australians after his death at the age of 70. Morecroft presented ABC’s 7pm news bulletin for almost 20 years until 2002 and was a fixture on screens. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
+      "published": "Tue, 06 Oct 2026 10:44:48 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1043,16 +1063,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistan provides fuel aid to over 9 million low-income people as Middle East war drives up prices",
-      "description": "Pakistan’s government is providing fuel subsidies to over 9 million low-income people as the U.S.-Iran war drives up energy prices",
-      "url": "https://abcnews.com/International/wireStory/pakistan-fuel-aid-9-million-low-income-people-137039907",
-      "published": "Tue, 06 Oct 2026 15:38:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "A British father asks a Cyprus judge to avoid prison after son's fatal hotel fall",
       "description": "The lawyer for a British man who pleaded guilty to a charge of negligence in the fatal fall of his 3-year-old son from a hotel window in Cyprus has appealed to a judge to avoid a prison sentence",
       "url": "https://abcnews.com/International/wireStory/british-father-asks-cyprus-judge-avoid-prison-after-137032251",
@@ -1067,6 +1077,16 @@
       "description": "Spain has lifted the arrest warrant for Catalan separatist leader Carles Puigdemont, allowing the politician to return home without fear of detention for the first time in nearly a decade",
       "url": "https://abcnews.com/International/wireStory/spain-lifts-arrest-warrant-catalan-separatist-carles-puigdemont-137029649",
       "published": "Tue, 06 Oct 2026 09:23:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "description": "The Nobel Prize in medicine has been awarded to three scientists whose work led to a tool that uses light to help unravel how the brain works",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
+      "published": "Mon, 05 Oct 2026 09:30:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1140,6 +1160,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russian report says Siberian plague institute worker fell ill, died of unknown cause",
+      "description": "Russian authorities say a staffer at a plague research institute in Siberia contracted pneumonia of an unknown cause, and local state TV reported the woman died last week",
+      "url": "https://abcnews.com/International/wireStory/russian-report-worker-siberian-plague-institute-fell-ill-137000129",
+      "published": "Mon, 05 Oct 2026 23:46:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1248,6 +1278,16 @@
       "url": "https://www.france24.com/en/tv-shows/arts24/20261006-paris-fashion-week-nicole-kidman-dua-lipa-and-rihanna-light-up-the-front-row",
       "published": "Tue, 06 Oct 2026 15:56:23 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Russia hosts consultations on Afghanistan, including with a Taliban delegation",
+      "description": "Russia has hosted consultations on Afghanistan that included a delegation of the country's ruling Taliban government along with officials from China, India, Iran, Pakistan and other nations",
+      "url": "https://abcnews.com/International/wireStory/russia-hosts-consultations-afghanistan-including-taliban-delegation-136999824",
+      "published": "Mon, 05 Oct 2026 08:50:55 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1843,20 +1883,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
-      "description": "Michael Rowland and Leigh Sales lead tributes to newsreader who read the ABC’s 7pm bulletin for 20 years Get our new political email , free app or daily news podcast Former ABC news presenter Richard Morecroft has died at the age of 70. Morecroft presented ABC’s 7pm news bulletin for almost 20 years until 2002. Continue reading...",
-      "url": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-      "published": "Tue, 06 Oct 2026 10:44:48 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "M 5.5 - 92 km NNW of Aleneva, Alaska",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-06 18:34:31 UTC 2026-10-06 18:34:31 UTC at epicenter Location 58.802°N 153.609°W Depth 87.60 km (54.43 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
-      "published": "2026-10-06T20:13:37.769Z",
+      "published": "2026-10-06T20:39:17.648Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1906,7 @@
       "title": "M 4.2 - 6 km WNW of Wauna, Washington",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-      "published": "2026-10-06T15:12:26.092Z",
+      "published": "2026-10-06T20:20:12.284Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1973,50 +2003,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Samoa prime minister apologizes for Nazi gesture and saying 'Heil Hitler' in 2007 video",
+      "description": "Samoa’s Prime Minister Laʻauli Leuatea Schmidt has apologized for a 2007 video that showed him saying “Heil Hitler” and making a Nazi gesture",
+      "url": "https://abcnews.com/International/wireStory/samoa-prime-minister-apologizes-nazi-gesture-heil-hitler-136995356",
+      "published": "Mon, 05 Oct 2026 02:58:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What to know about Pedro Sánchez's bid to turn Spain's housing crunch into an electoral victory",
       "description": "Spanish Prime Minister Pedro Sánchez has a reputation as a political survivor who relishes the electoral gambit",
       "url": "https://abcnews.com/International/wireStory/pedro-snchezs-bid-turn-spains-housing-crunch-electoral-137040710",
       "published": "Tue, 06 Oct 2026 13:46:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "3 alleged Iranian spies on trial in London for targeting Persian journalists in UK",
-      "description": "British prosecutors say three Iranian spies conducted surveillance on journalists at a London-based Persian news channel critical of Tehran's government",
-      "url": "https://abcnews.com/International/wireStory/3-alleged-iranian-spies-trial-london-targeting-persian-137038710",
-      "published": "Tue, 06 Oct 2026 12:29:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "What to know as the fighting in Yemen escalates while US-Iran tensions remain high",
-      "description": "Saudi Arabia and its allies in the Yemeni government have launched a military campaign to reclaim territory near the Bab al-Mandeb Strait from Houthi rebels",
-      "url": "https://abcnews.com/International/wireStory/fighting-yemen-escalates-us-iran-tensions-remain-high-137033030",
-      "published": "Tue, 06 Oct 2026 10:01:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Solar power helps Amazon communities ditch diesel and prepare for El Niño drought",
-      "description": "Off-grid solar power is spreading across Brazil’s Amazon, helping remote communities prepare for severe drought while replacing costly, polluting diesel generators",
-      "url": "https://abcnews.com/International/wireStory/solar-power-helps-amazon-communities-ditch-diesel-prepare-137031805",
-      "published": "Tue, 06 Oct 2026 09:23:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on neutrinos",
-      "description": "Belgian-born scientist Francis Halzen has won the Nobel Prize in physics for his work on neutrinos, tiny cosmic particles that offer clues about how the universe evolved",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-physics-awarded-stockholm-137024985",
-      "published": "Tue, 06 Oct 2026 09:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
