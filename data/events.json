@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T23:11:43.994993Z",
+  "last_updated": "2026-10-07T23:38:50.834542Z",
   "event_count": 216,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
+      "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 18:29:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -247,16 +257,6 @@
       "description": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 18:32:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-      "description": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 18:29:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 20,
@@ -793,20 +793,20 @@
       "severity_level": "High"
     },
     {
-      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
-      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
-      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
+      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
+      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
+      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
+      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
-      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
-      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
-      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
+      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
+      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
+      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
+      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -988,6 +988,16 @@
       "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 23:42:35 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
+      "description": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 23:20:01 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1713,16 +1723,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Most Americans oppose Trump’s taxpayer-funded ‘golden age’ ads: Poll",
-      "description": "Trump says he will pay for future ads, but the White House says taxpayers will not be reimbursed for past ones.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/most-americans-oppose-trumps-taxpayer-funded-golden-age-ads-poll?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 18:27:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1973,20 +1973,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mayor of Turkish opposition stronghold defects to Erdogan's party",
-      "description": "A stronghold of Turkey’s opposition has fallen to President Recep Tayyip Erdogan’s ruling party for the first time",
-      "url": "https://abcnews.com/International/wireStory/mayor-turkish-opposition-stronghold-defects-erdogans-party-137059686",
-      "published": "Wed, 07 Oct 2026 08:07:23 -0400",
+      "title": "Colombia's president offers support to veterans extradited to US over Haitian leader's killing",
+      "description": "Colombian president Abelardo de la Espriella has offered legal assistance to a group of Colombian military veterans who were arrested over the 2021 killing of Haitian president Jovenel Moïse",
+      "url": "https://abcnews.com/International/wireStory/colombias-president-offers-support-veterans-extradited-us-haitian-137043837",
+      "published": "Tue, 06 Oct 2026 15:27:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Colombia's president offers support to veterans extradited to US over Haitian leader's killing",
-      "description": "Colombian president Abelardo de la Espriella has offered legal assistance to a group of Colombian military veterans who were arrested over the 2021 killing of Haitian president Jovenel Moïse",
-      "url": "https://abcnews.com/International/wireStory/colombias-president-offers-support-veterans-extradited-us-haitian-137043837",
-      "published": "Tue, 06 Oct 2026 15:27:20 -0400",
+      "title": "Mayor of Turkish opposition stronghold defects to Erdogan's party",
+      "description": "A stronghold of Turkey’s opposition has fallen to President Recep Tayyip Erdogan’s ruling party for the first time",
+      "url": "https://abcnews.com/International/wireStory/mayor-turkish-opposition-stronghold-defects-erdogans-party-137059686",
+      "published": "Wed, 07 Oct 2026 08:07:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
