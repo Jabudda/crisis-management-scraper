@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T11:12:10.477783Z",
+  "last_updated": "2026-10-07T11:40:24.921429Z",
   "event_count": 217,
   "events": [
     {
@@ -153,16 +153,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 15 killed in Ukraine as Zelensky condemns 'vile' large-scale strikes",
-      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:05:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
       "description": "After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a mixture of joy and apprehension: the day they had been waiting for had finally arrived. Almost a year earlier, her then seven-year-old son, Abdiqadir Salah, had been seriously injured, alongside his two siblings, in what a Guardian investigation found was a US drone strike on the village of Jamaame in Somalia that killed at least 12 civilians, including eight children. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
@@ -184,7 +174,7 @@
     },
     {
       "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
-      "description": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT. The US Department of Justice said Tuesday it had detained James Codey Bryant, 30, a resident of western Washington state, on a charge of conspiracy to murder persons in a foreign country. Continue reading...",
+      "description": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT. The US Department of Justice said on Tuesday it had detained James Codey Bryant, 30, a resident of western Washington state, on a charge of conspiracy to murder persons in a foreign country. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
       "published": "Tue, 06 Oct 2026 22:06:04 GMT",
       "source": "The Guardian World",
@@ -210,6 +200,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 11:05:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -283,16 +283,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
-      "description": "Ukraine's air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
       "description": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
       "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
@@ -301,6 +291,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least four Palestinians",
+      "description": "Israeli air strike kills Palestinian Civil Defence rescue volunteer in northern Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 11:13:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
@@ -403,16 +403,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Russian missile strike in Ukraine's capital kills at least 2",
-      "description": "Russia has launched missile attacks on Kyiv and other Ukrainian cities, killing at least eight people",
-      "url": "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060",
-      "published": "Wed, 07 Oct 2026 03:54:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "WHO releases first global guidelines on child obesity as cases surge",
       "description": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
@@ -503,11 +493,11 @@
       "severity_level": "High"
     },
     {
-      "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-      "description": "Iran's oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 06:33:54 +0000",
-      "source": "Al Jazeera",
+      "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+      "description": "Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring its signature goal, of separating the French-speaking province from Canada, much closer – but Canadian unity may not be nearly as threatened as may first seem. The PQ’s victory was both impressive and disappointing. The party added 56 seats to its roster and more than doubled its vote share compared to the 2022 election, giving it its first taste of power in 14 years. Crucially, however, it was left five seats short of a majority, making its promise to hold a referendum after Donald Trump leaves office in 2028 nearly impossible. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+      "published": "Wed, 07 Oct 2026 11:00:08 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -696,7 +686,7 @@
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:23:23 GMT",
+      "published": "Wed, 07 Oct 2026 11:35:36 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -733,16 +723,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Cornell protesters swarm campus to support Jane Doe, call for university president's resignation",
-      "description": "Cornell University faculty push a no confidence vote as student protests erupt over sexual assault allegations tied to a fraternity lawsuit.",
-      "url": "https://www.foxnews.com/us/cornell-protesters-swarm-campus-support-jane-doe-call-university-presidents-resignation",
-      "published": "Tue, 06 Oct 2026 09:42:00 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
       "description": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
       "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
@@ -768,16 +748,6 @@
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
-      "description": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the incumbent, Luiz Inácio Lula da Silva, leaving progressive voters reeling. The 45-year-old rightwing candidate received 56.1m votes to Lula’s 53.8m – 47.03% to 45.16% – meaning the 80-year-old leftwinger has a mountain to climb if he is to bounce back in the second round on 25 October. Never, since the return of democracy to Brazil in 1985, has the first-round runner-up managed to turn the game around and win the second ballot. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
-      "published": "Mon, 05 Oct 2026 20:06:18 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -933,6 +903,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Russian missile strike in Ukraine's capital kills at least 2",
+      "description": "Russian missiles and drones have pounded Kyiv and other Ukrainian regions, killing at least 19 civilians and wounding around 60",
+      "url": "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060",
+      "published": "Wed, 07 Oct 2026 06:58:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "description": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
@@ -1026,7 +1006,7 @@
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:59:13 GMT",
+      "published": "Wed, 07 Oct 2026 11:24:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1036,7 +1016,7 @@
       "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
       "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:04:48 GMT",
+      "published": "Wed, 07 Oct 2026 11:21:49 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1123,6 +1103,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany: Did CDU lawmakers support the far-right AfD?",
+      "description": "Lawmakers of the center-right CDU may have voted for the far-right AfD candidate for parliamentary speaker in Saxony-Anhalt. Germany's Social Democrats warn of a \"unique breach of taboos.\"",
+      "url": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 11:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
       "description": "After a worker at a Russian plague research institute in Siberia died October 2, 2026, nearly 200 of her contacts were under medical observation. But authorities there denied pneumonic plague had caused the death.",
       "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss",
@@ -1137,16 +1127,6 @@
       "description": "A death row inmate who survived a botched execution last week is conscious and talking in hospital, according to her lawyers, who want to commute her death sentence to life imprisonment without parole.",
       "url": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 6 Oct 2026 23:49:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "France's conundrum: How to cut spending amid protests",
-      "description": "Prime Minister Lecornu is pledging to improve schools at a time when the government seeks to save billions. France's dilemma can be seen across the EU: How to cut spending when citizens are demanding more from the state?",
-      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 16:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1224,9 +1204,9 @@
     },
     {
       "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
-      "description": "The Royal Swedish Academy of Sciences will award the Nobel Prize in chemistry",
+      "description": "Henri B",
       "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
-      "published": "Wed, 07 Oct 2026 03:46:25 -0400",
+      "published": "Wed, 07 Oct 2026 07:14:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1378,16 +1358,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168539",
       "published": "Tue, 06 Oct 2026 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Atlanta robbery suspect allegedly steals police cruiser, crashes into tanker truck",
-      "description": "Phelan Thorpe allegedly stole a marked Atlanta police cruiser and crashed it into a tanker truck on I-675 while wanted for a Midtown MARTA robbery.",
-      "url": "https://www.foxnews.com/us/atlanta-robbery-suspect-allegedly-steals-police-cruiser-crashes-tanker-truck",
-      "published": "Tue, 06 Oct 2026 08:41:56 -0400",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1583,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Doha Debates: Should We Trust the News?",
+      "description": "Is today’s news built to serve the truth?",
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 11:14:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
       "description": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
       "url": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
@@ -1620,16 +1600,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How has Israel’s genocide changed Gaza?",
-      "description": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 06:27:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1748,6 +1718,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:00:21 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US military aid to Israel continues three years into Gaza genocide",
+      "description": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 11:23:48 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1954,7 +1934,7 @@
     },
     {
       "title": "Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai",
-      "description": "Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life's chemistry.",
+      "description": "Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life's building blocks.",
       "url": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 7 Oct 2026 09:51:00 GMT",
       "source": "Deutsche Welle",
@@ -2028,6 +2008,26 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
       "published": "Mon, 05 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Declassified docs raise questions about Jack Smith’s Trump trial testimony and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/declassified-docs-raise-questions-about-jack-smiths-trump-trial-testimony-more-top-headlines",
+      "published": "Wed, 07 Oct 2026 07:31:28 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bar named in Cornell rape lawsuit disputes accuser's account, says she was never served alcohol while underage",
+      "description": "An Ithaca, New York, bar disputed the Cornell University gang-rape accuser's claim it served her alcohol underage on the night of the alleged Chi Phi assault.",
+      "url": "https://www.foxnews.com/us/bar-named-cornell-rape-lawsuit-disputes-accusers-account-says-she-was-never-served-alcohol-while-underage",
+      "published": "Wed, 07 Oct 2026 07:07:18 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
