@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T09:16:29.445440Z",
-  "event_count": 219,
+  "last_updated": "2026-10-07T09:43:28.559545Z",
+  "event_count": 218,
   "events": [
     {
       "title": "Police make seventh arrest over UK airbase incident",
@@ -40,16 +40,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russia launches one of its biggest strikes on Ukraine, killing at least 11",
-      "description": "At least 11 people were killed in Ukraine after Russia fired 70 missiles and drones in one of its biggest strikes ‌on the country, President Volodymyr Zelensky ‌said on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport.",
-      "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
-      "published": "Wed, 07 Oct 2026 05:56:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 28,
       "severity_level": "Critical"
     },
     {
@@ -283,6 +273,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
+      "description": "Ukraine's air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
       "description": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
       "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
@@ -293,21 +293,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-      "description": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "France's police fire tear gas and water cannons as school protests sweep the country",
       "description": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
       "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
       "published": "Tue, 06 Oct 2026 14:05:44 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia launches one of its biggest strikes on Ukraine, killing at least 12 civilians",
+      "description": "Russian missiles and drones killed at least 12 people in Ukraine, including three children, in what President Volodymyr Zelensky ‌called a “massive” strike on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport.",
+      "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
+      "published": "Wed, 07 Oct 2026 05:56:19 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -404,12 +404,22 @@
     },
     {
       "title": "WHO releases first global guidelines on child obesity as cases surge",
-      "description": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN’s World Health Organization (WHO).",
+      "description": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
       "published": "Wed, 07 Oct 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
+      "description": "Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 08:53:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -593,6 +603,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Ronaldo stays on under cloud as Messi exits internationals",
+      "description": "Just hours before Lionel Messi played his last match for Argentina, Cristiano Ronaldo posted his latest salvo in a row with Portugal. Ronaldo wants to play on despite the troubles, while Messi bathed in adulation.",
+      "url": "https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 09:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Munich up against at least six competitors for 2036 Olympics",
       "description": "The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.",
       "url": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-xml-mrss",
@@ -640,6 +660,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "What does a year-long ceasefire in Gaza look like?",
+      "description": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 08:55:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -763,20 +793,20 @@
       "severity_level": "High"
     },
     {
-      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
-      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
-      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
+      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
+      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
+      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
+      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
-      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
-      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
-      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
+      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
+      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
+      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
+      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1003,20 +1033,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:42:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1107,16 +1137,6 @@
       "description": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.",
       "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 6 Oct 2026 14:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
-      "description": "Catalan separatist leader Carles Puigdemont fled Spain in 2017 after launching an independence bid. The court's decision means he can return home without fear of arrest after almost a decade in exile.",
-      "url": "https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 14:06:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1357,16 +1377,6 @@
       "description": "French students and teachers protesting school conditions spoke with Al Jazeera about their demands.",
       "url": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 08:32:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Tree nearly as old as US torn down to expand Mexico border wall",
-      "description": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 04:20:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1763,16 +1773,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "What Israeli schools teach",
-      "description": "What Israeli schools teach",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 04:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1967,16 +1967,6 @@
       "description": "Lionel Messi was on the scoresheet as he played his final game for Argentina on an emotional evening in Buenos Aires.",
       "url": "https://news.sky.com/story/messi-scores-in-emotional-farewell-game-for-argentina-13595970",
       "published": "Wed, 07 Oct 2026 02:17:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Spanish PM calls snap election",
-      "description": "Spain's prime minister Pedro Sanchez has called a snap election for next month.",
-      "url": "https://news.sky.com/story/spanish-pm-calls-snap-election-13595243",
-      "published": "Mon, 05 Oct 2026 08:11:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
