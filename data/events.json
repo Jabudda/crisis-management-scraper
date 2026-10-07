@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T02:27:02.669334Z",
+  "last_updated": "2026-10-07T02:55:05.564592Z",
   "event_count": 218,
   "events": [
     {
@@ -60,6 +60,26 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+      "description": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov't said two missiles were fired by the Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 01:59:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Football: Lionel Messi plays final game for Argentina",
+      "description": "Argentinian superstar Lionel Messi bowed out of international football with one last goal for his country. For football in Argentina, and indeed across the world, it's the end of an era.",
+      "url": "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 02:35:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -130,16 +150,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Fact check: Misleading claims spark plague fears in Russia",
-      "description": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
-      "url": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 11:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -533,16 +543,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Kenya reports first-ever Ebola death",
-      "description": "The patient arrived in Kenya over the weekend from the Democratic Republic of Congo before testing positive for the virus. Health authorities are on high alert and monitoring for more cases.",
-      "url": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 11:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Laos names veteran diplomat with international outlook to be new prime minister",
       "description": "Laos has a new prime minister after the National Assembly elected veteran diplomat Saleumxay Kommasith",
       "url": "https://abcnews.com/International/wireStory/laos-names-veteran-diplomat-international-outlook-new-prime-137036137",
@@ -688,6 +688,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 07:43:07 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+      "description": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 02:23:03 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -1003,26 +1013,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
-      "description": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 21:11:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
-      "description": "The top US public health agency's remarks come as the Trump administration said it’s 'closely' watching the incident.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 20:54:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1283,16 +1273,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US Marine arrested in Japan over suspected killing of woman as Tokyo lodges 'strong protest'",
-      "description": "Surveillance footage showed Anna Yagi entering a Naha hotel with Lance Cpl. Devin Jacob Ballard before he later left alone, police reported.",
-      "url": "https://www.foxnews.com/world/us-marine-arrested-japan-suspected-killing-woman-tokyo-lodges-strong-protest",
-      "published": "Sun, 04 Oct 2026 08:38:32 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1387,16 +1367,6 @@
       "description": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
       "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
       "published": "Tue, 06 Oct 2026 23:05:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Tokyo protests US military presence after Okinawa killing",
-      "description": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 21:20:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1583,6 +1553,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Mali: Junta forces retake strategic town of Kidal from separatists",
+      "description": "Mali's military regained control of the strategic town of Kidal after forcing Tuareg separatists and al Queda-linked jihadists to withdraw following an offensive backed by Russia's Africa Corps.",
+      "url": "https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 02:45:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
       "description": "Serbia's election commission has tied overseas voting hours to local time, affecting the Serbian diaspora's ability to vote in the upcoming election later this month",
       "url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218",
@@ -1693,6 +1673,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Why do airport and flight rules exist?",
+      "description": "Everyone follows these rules, but few know why. Each one traces back to an incident that changed aviation security.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 02:20:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia top court rules against coal mine expansion, citing climate harm",
+      "description": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 02:17:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Syrian embassy returns seized passport after 43 years",
       "description": "Syria's embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
@@ -1727,16 +1727,6 @@
       "description": "England's Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.",
       "url": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss",
       "published": "Tue, 06 Oct 2026 21:40:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
-      "description": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 21:23:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2128,6 +2118,16 @@
       "url": "https://www.foxnews.com/us/senate-action-decide-fate-daylight-savings-bill-more-top-headlines",
       "published": "Tue, 06 Oct 2026 07:37:59 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa",
+      "description": "The U.S. military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday.",
+      "url": "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+      "published": "Tue, 06 Oct 2026 22:15:36 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
