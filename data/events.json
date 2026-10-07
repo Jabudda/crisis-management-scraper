@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T06:23:13.411656Z",
+  "last_updated": "2026-10-07T06:57:06.507928Z",
   "event_count": 218,
   "events": [
     {
@@ -13,6 +13,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Yemen’s Houthis claim strikes on Aden, Riyadh airports",
+      "description": "Aden International Airport came under attack as Yemen's war intensified, with the Houthis targeting key transport hubs.",
+      "url": "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 06:49:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Transgender Washington state resident accused of fueling deadly Canadian school massacre that killed 8: DOJ",
       "description": "James Cody Bryant allegedly sent money, offered advice and agreed to livestream the Tumbler Ridge school shooting instead of alerting law enforcement.",
       "url": "https://www.foxnews.com/us/transgender-washington-state-resident-accused-fueling-deadly-canadian-school-massacre-killed-8-doj",
@@ -20,16 +30,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Middle East live: Houthis target airport in Yemen as Israel marks October 7 anniversary",
-      "description": "Two missiles launched by Yemen's Iran-aligned Houthi rebels targeted Aden's international airport early Wednesday, with no casualties reported, as Israel prepared to mark the third anniversary of the October 7, 2023 Hamas attacks. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-      "published": "Wed, 07 Oct 2026 02:46:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -133,8 +133,18 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Trump says he will speak to Putin over reported plague death in Russia",
-      "description": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
+      "title": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
+      "description": "Families gathered at the Nova music festival site and other attack locations in memory of those killed by Hamas on October 7, 2023.",
+      "url": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 06:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump says will speak with Putin over Russia's reported plague death",
+      "description": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported death from plague of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
       "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
       "published": "Tue, 06 Oct 2026 22:51:48 GMT",
       "source": "France24",
@@ -283,6 +293,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+      "description": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "France's police fire tear gas and water cannons as school protests sweep the country",
       "description": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
       "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
@@ -290,26 +310,6 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Germany's far-right AfD makes history again in Saxony-Anhalt",
-      "description": "For the first time since the end of World War II, a German state parliament has chosen parliamentary speaker from the far right: Tobias Rausch of the Alternative for Germany (AfD).",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 13:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
-      "description": "Ethiopia's Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
-      "url": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 13:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -383,10 +383,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Spain’s gov't approves new urgent housing measures after night of unrest in Barcelona",
-      "description": "Spain's government has approved urgent measures on the country's housing crisis",
-      "url": "https://abcnews.com/International/wireStory/spains-government-approves-new-urgent-housing-measures-after-137027337",
-      "published": "Tue, 06 Oct 2026 08:10:32 -0400",
+      "title": "Russian missile strike in Ukraine's capital kills at least 2",
+      "description": "Russia has attacked Ukraine's capital with ballistic missiles, killing two people and damaging civilian infrastructure",
+      "url": "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060",
+      "published": "Wed, 07 Oct 2026 02:47:47 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -453,11 +453,41 @@
       "severity_level": "High"
     },
     {
+      "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+      "description": "Iran's oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:33:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Yemen’s displaced children dream of returning to school",
+      "description": "More than 137,000 students in conflict zones lose access to education, deepening Yemen's already dire schooling crisis.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:15:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Germany news: Government presents plan for railroad revamp",
       "description": "The Transport Ministry has put forward a five-year plan for improving Germany's ailing railroad infrastructure. Chancellor Merz has voiced solidarity with Israel on the anniversary of the October 7 attacks. DW has more.",
       "url": "https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 7 Oct 2026 06:17:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
+      "description": "Israelis on Wednesday began commemorations for the victims of Hamas’s October 7, 2023 attacks, which killed 1,200 people and saw 251 hostages taken. This year – the third anniversary of the attacks – is the first time all the hostages or their remains are home. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+      "published": "Wed, 07 Oct 2026 02:46:40 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -733,20 +763,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
-      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
-      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
-      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
+      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
+      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
+      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
+      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "UK police arrest a 7th man in connection with a security incident at a US-run air base",
-      "description": "British police have arrested a 22-year-old man in London on suspicion of a terror offense linked to Iran",
-      "url": "https://abcnews.com/International/wireStory/uk-police-arrest-7th-man-connection-security-incident-137029907",
-      "published": "Tue, 06 Oct 2026 09:22:53 -0400",
+      "title": "Heavy rains pummel St. Vincent and the Grenadines, forcing school closures",
+      "description": "The government of St. Vincent and the Grenadines has shuttered all schools after heavy rains unleashed flooding and landslides across the eastern Caribbean island",
+      "url": "https://abcnews.com/International/wireStory/heavy-rains-pummel-st-vincent-grenadines-forcing-school-137044762",
+      "published": "Tue, 06 Oct 2026 15:48:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -818,6 +848,26 @@
       "url": "https://www.france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing",
       "published": "Tue, 06 Oct 2026 19:41:11 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
+      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
+      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
+      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "India opposition parties rally for election chief’s exit over voter list changes",
+      "description": "Opposition parties in India are protesting in New Delhi, demanding the resignation of the country's election chief Gyanesh Kumar",
+      "url": "https://abcnews.com/International/wireStory/india-opposition-parties-rally-election-chiefs-exit-voter-137024629",
+      "published": "Tue, 06 Oct 2026 06:55:32 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -983,50 +1033,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+      "description": "Yemeni government says one of the missiles hit Aden airport's runway minutes before a flight from Cairo was due to land.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:41:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
       "description": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 04:43:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-      "description": "Both Democrats and Republicans have expressed outrage at Trump's remarks that cities could be sacrificed in Iran war.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 01:07:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "What’s behind Israel’s growing shift to the right?",
-      "description": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 00:58:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
-      "description": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 00:26:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "South Sudan’s aid crisis deepens as food stocks run low",
-      "description": "More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 00:13:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1148,16 +1168,6 @@
       "url": "https://news.sky.com/story/my-heart-is-broken-michael-flatley-announces-death-of-wife-niamh-obrien-13595593",
       "published": "Tue, 06 Oct 2026 03:18:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pakistan provides fuel aid to 9 million low-income people as Middle East war drives up prices",
-      "description": "Pakistan’s government is providing fuel subsidies to over 9 million low-income people as the U.S.-Iran war drives up energy prices",
-      "url": "https://abcnews.com/International/wireStory/pakistan-fuel-aid-9-million-low-income-people-137039907",
-      "published": "Tue, 06 Oct 2026 21:22:26 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1323,6 +1333,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Kenyan prisoners play chess for fun behind bars and to help with rehabilitation",
+      "description": "Kenya’s Department for Correctional Services has introduced chess across the country’s prisons since 2024, in one of the most prominent institutional carceral chess programs in Africa",
+      "url": "https://abcnews.com/International/wireStory/kenyan-prisoners-play-chess-fun-bars-rehabilitation-137024480",
+      "published": "Tue, 06 Oct 2026 02:09:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Atlanta robbery suspect allegedly steals police cruiser, crashes into tanker truck",
       "description": "Phelan Thorpe allegedly stole a marked Atlanta police cruiser and crashed it into a tanker truck on I-675 while wanted for a Midtown MARTA robbery.",
       "url": "https://www.foxnews.com/us/atlanta-robbery-suspect-allegedly-steals-police-cruiser-crashes-tanker-truck",
@@ -1403,21 +1423,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "description": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 20:40:01 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-      "description": "The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 00:35:57 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1444,7 +1454,7 @@
     },
     {
       "title": "Queensland man charged with murder after three-month-old son dies from ‘significant internal injuries’",
-      "description": "Uneeb Ullah, 28, from Logan, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son, after the boy died in hospital this week. The infant, from the Ipswich area west of Brisbane, died almost a week after being taken to hospital with “significant internal injuries”. The boy had been on life support. Continue reading...",
+      "description": "Uneeb Ullah, 28, from Ipswich, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son, after the boy died in hospital this week. The infant, from the Ipswich area west of Brisbane, died almost a week after being taken to hospital with “significant internal injuries”. The boy had been on life support. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb",
       "published": "Wed, 07 Oct 2026 05:39:57 GMT",
       "source": "The Guardian World",
@@ -1563,6 +1573,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "How has Israel’s genocide changed Gaza?",
+      "description": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:27:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1663,6 +1683,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Finland orders halt to work on Google data centre sites",
+      "description": "Finnish opposition has called for measures to prevent power shortages, soaring energy prices caused by data centres.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:10:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Lionel Messi’s last game for Argentina ends in triumph and tears",
       "description": "Messi scored a goal and created two others as Argentina bid farewell to its most decorated footballer with a 3-0 win.",
       "url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
@@ -1717,16 +1747,6 @@
       "description": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
       "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 02:17:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Syrian embassy returns seized passport after 43 years",
-      "description": "Syria's embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 01:20:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1896,7 @@
       "title": "M 5.5 - 92 km NNW of Aleneva, Alaska",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-06 18:34:31 UTC 2026-10-06 18:34:31 UTC at epicenter Location 58.802°N 153.609°W Depth 87.60 km (54.43 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
-      "published": "2026-10-07T06:03:13.769Z",
+      "published": "2026-10-07T06:44:40.875Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1947,26 +1967,6 @@
       "description": "Spanish Prime Minister Pedro Sánchez has a reputation as a political survivor who relishes the electoral gambit",
       "url": "https://abcnews.com/International/wireStory/pedro-snchezs-bid-turn-spains-housing-crunch-electoral-137040710",
       "published": "Tue, 06 Oct 2026 13:46:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "3 alleged Iranian spies on trial in London for targeting Persian journalists in UK",
-      "description": "British prosecutors say three Iranian spies conducted surveillance on journalists at a London-based Persian news channel critical of Tehran's government",
-      "url": "https://abcnews.com/International/wireStory/3-alleged-iranian-spies-trial-london-targeting-persian-137038710",
-      "published": "Tue, 06 Oct 2026 12:29:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "What to know as the fighting in Yemen escalates while US-Iran tensions remain high",
-      "description": "Saudi Arabia and its allies in the Yemeni government have launched a military campaign to reclaim territory near the Bab al-Mandeb Strait from Houthi rebels",
-      "url": "https://abcnews.com/International/wireStory/fighting-yemen-escalates-us-iran-tensions-remain-high-137033030",
-      "published": "Tue, 06 Oct 2026 10:01:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
