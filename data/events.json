@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T22:13:06.348473Z",
+  "last_updated": "2026-10-08T22:40:37.881796Z",
   "event_count": 223,
   "events": [
     {
@@ -230,26 +230,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Federal agents involved in NYC shooting that leaves one person wounded, NYPD says",
-      "description": "A shooting involving federal law enforcement agents in the Marble Hill neighborhood of the Bronx left one person hospitalized Thursday afternoon, according to the NYPD",
-      "url": "https://www.foxnews.com/us/federal-agents-involved-nyc-shooting-leaves-one-person-wounded-nypd-says",
-      "published": "Thu, 08 Oct 2026 17:50:08 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Bear kills man in home attack near Mongolian capital",
-      "description": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 11:52:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -563,6 +543,16 @@
       "severity_level": "High"
     },
     {
+      "title": "ICE agents involved in Bronx shooting that leaves one person injure: NYPD",
+      "description": "A shooting involving federal law enforcement agents in the Marble Hill neighborhood of the Bronx left one person hospitalized Thursday afternoon, according to the NYPD",
+      "url": "https://www.foxnews.com/us/federal-agents-involved-nyc-shooting-leaves-one-person-wounded-nypd-says",
+      "published": "Thu, 08 Oct 2026 17:50:08 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Armed man shot dead after attempted attack inside Nashville federal courthouse, police say",
       "description": "One person was shot at the federal courthouse in downtown Nashville, police said, as the nearby library closed and U.S. Marshals Service declined comment.",
       "url": "https://www.foxnews.com/us/armed-man-shot-dead-attempted-attack-inside-nashville-federal-courthouse-police-say",
@@ -744,7 +734,7 @@
     },
     {
       "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
-      "description": "Martin and Debra Robinson, the brothers’ parents, will address the court before a Mexican judge hands down the verdict A Mexican judge is expected to hand down his verdict on Thursday in the high-profile murder trial of three men accused of killing two Australian surfers and their American friend in 2024. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in an alleged robbery. Continue reading...",
+      "description": "The brothers’ parents, Martin and Debra Robinson, to address court before a Mexican judge hands down verdict A Mexican judge is expected to hand down his verdict in the high-profile murder trial of three men accused of killing two Australian surfers and their American friend in 2024. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in an alleged robbery. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
       "published": "Thu, 08 Oct 2026 20:40:55 GMT",
       "source": "The Guardian World",
@@ -768,6 +758,16 @@
       "url": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
       "published": "Thu, 08 Oct 2026 04:44:37 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "UK: Two Latvian men arrested for breaking into RAF base",
+      "description": "The men were arrested for breaching a perimeter fence at a UK air base that houses US and NATO intelligence operations. The incident comes after an alleged terror plot at another air base in England was foiled recently.",
+      "url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 8 Oct 2026 22:19:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -903,16 +903,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
-      "description": "Jamaal Howard's attorneys cited Christa Pike's failed lethal injection in Tennessee to argue the pentobarbital drug posed risks, but the Supreme Court rejected it.",
-      "url": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution",
-      "published": "Wed, 07 Oct 2026 23:55:09 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Mother of dead Russian anti-plague institute worker: 'I know the truth'",
       "description": "Svetlana Shipilova, the mother of the anti-plague institute worker who died in Russia, has reportedly spoken out following her daughter's death.",
       "url": "https://www.foxnews.com/world/mother-dead-russian-anti-plague-institute-worker-know-truth",
@@ -1000,6 +990,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 22:21:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1133,16 +1133,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands",
-      "description": "Argentina and the UK once fought a war over the Falkland Islands. Now, the multibillion-dollar Sea Lion oil project has reignited old tensions, with Buenos Aires seeking to put a stop to the plans.",
-      "url": "https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Oct 2026 11:40:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
       "description": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3. Defense Secretary Pete Hegseth said Wednesday the execution would be public. Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base.",
       "url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
@@ -1188,6 +1178,16 @@
       "url": "https://abcnews.com/International/wireStory/nobel-prize-literature-awarded-stockholm-137086895",
       "published": "Thu, 08 Oct 2026 07:06:49 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Las Vegas showgirl allegedly beats tourist with high heel after $20 photo tip sparks brawl",
+      "description": "Video shows showgirls allegedly attacking two North Carolina tourists outside Planet Hollywood on the Las Vegas Strip after a $20 tip dispute escalated.",
+      "url": "https://www.foxnews.com/us/las-vegas-showgirl-allegedly-beats-tourist-high-heel-20-photo-tip-sparks-brawl",
+      "published": "Thu, 08 Oct 2026 18:22:58 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1543,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says",
-      "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 21:55:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
@@ -1583,10 +1573,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:33:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 17:16:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 20:38:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1623,11 +1633,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 20:38:11 GMT",
-      "source": "BBC News",
+      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+      "description": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 22:10:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1687,16 +1697,6 @@
       "description": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
       "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
       "published": "Thu, 08 Oct 2026 18:07:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Two Latvian men arrested inside UK military base after breach",
-      "description": "Police say nothing so far suggests the incident at RAF Molesworth linked ​to events surrounding RAF Fairford last month.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 18:01:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1813,6 +1813,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+      "description": "The offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in decades after investor demand for its much-hyped AI data centre business failed to materialise. A Firmus spokesperson said the board decided that proceeding with the offer was no longer in the best interests of the company and its shareholders. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+      "published": "Thu, 08 Oct 2026 22:17:56 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
       "description": "Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was released into the universe. Astronomers have now detected that flash – a burst of radio waves which travelled for more than 10bn years before reaching Earth – what they believe to be the most distant fast radio burst (FRB) ever recorded. Continue reading...",
       "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
@@ -1827,16 +1837,6 @@
       "description": "Court hears police attended Wood’s Victorian home over a similar allegation about three years ago, but Snezana Wood had not complained then out of ‘fear of retribution’ Get our breaking news email , free app or daily news podcast The wife of former Bachelor star Sam Wood told police she “thought she was going to die” after he allegedly choked and assaulted her, a Queensland court heard on Thursday. The court also heard that police in Victoria had attended Wood’s home in relation to a similar incident about three years ago, but that his wife, Snezana Wood, had not wanted to make a complaint at that time out of “fear of retribution”. Sam Wood, a 46-year-old wellness influencer from Melbourne, was denied bail in a Queensland court on Thursday and will be held in custody indefinitely awaiting trial, after police argued his behaviour was “escalating” and that he posed an unacceptable risk. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb",
       "published": "Thu, 08 Oct 2026 05:58:53 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears",
-      "description": "Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property Get our breaking news email , free app or daily news podcast Listen to the podcast Alan Jones on Trial An alleged teenage victim of Alan Jones has denied his family tried to deceive the broadcaster and get as much money out of him as they could during a tense cross-examination in a Sydney court. Asked whether he was intent on getting as much financial assistance as he could from the former 2GB host, the witness replied: “That is a lie.” Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb",
-      "published": "Thu, 08 Oct 2026 04:48:00 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
