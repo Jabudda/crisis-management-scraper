@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T19:12:03.816085Z",
+  "last_updated": "2026-10-08T19:40:15.662482Z",
   "event_count": 223,
   "events": [
     {
@@ -33,6 +33,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Flights to Saudi capital suspended after Houthis 'attack on airport'",
+      "description": "Explosions were heard in Saudi Arabia's capital, including a large blast at Riyadh's international airport, where flights were subsequently halted.",
+      "url": "https://news.sky.com/story/airlines-suspend-flights-to-saudi-capital-after-houthis-claim-attack-on-airport-13596623",
+      "published": "Thu, 08 Oct 2026 18:23:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Jerusalem Daily: Remembrance and mourning",
       "description": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
@@ -40,16 +50,6 @@
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
-      "description": "Russian strikes in eastern Ukraine have killed 30 people and injured at least 18, according to authorities. The attacks included a strike on a public bus and have worsened power outages in Kyiv.",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-      "published": "Thu, 08 Oct 2026 07:25:28 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -68,6 +68,16 @@
       "url": "https://news.sky.com/story/one-dead-and-two-children-injured-in-polands-second-school-attack-in-two-days-13596420",
       "published": "Thu, 08 Oct 2026 10:16:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+      "description": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical"
@@ -283,16 +293,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nepal ends search for flood victims as family reactions range from anger to relief",
-      "description": "The families of thousands missing after Nepal's catastrophic floods have mixed feelings about the government's decision to stop search efforts",
-      "url": "https://abcnews.com/International/wireStory/nepal-ends-search-thousands-flood-victims-family-reactions-137057994",
-      "published": "Wed, 07 Oct 2026 21:46:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
       "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
       "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
@@ -320,6 +320,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+      "description": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "published": "Thu, 08 Oct 2026 07:25:28 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -373,10 +383,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Mom dies shielding baby in horrific 15-story Bronx fall as police hunt suspect: report",
-      "description": "Angel Carrasco is wanted after Nathaly Ramirez, 23, was allegedly pushed from a 15th-floor Bronx balcony with her baby in a suspected domestic violence attack.",
-      "url": "https://www.foxnews.com/us/mom-dies-shielding-baby-horrific-15-story-bronx-fall-police-hunt-suspect",
-      "published": "Wed, 07 Oct 2026 17:05:10 -0400",
+      "title": "Marine Corps Osprey catches fire during exercise in North Carolina; 4 injured",
+      "description": "An MV-22B Osprey burst into flames after a hard landing near Bladen Lakes State Forest, with at least one person aboard reportedly suffering burns.",
+      "url": "https://www.foxnews.com/us/marine-corps-osprey-catches-fire-during-exercise-north-carolina-4-injured",
+      "published": "Thu, 08 Oct 2026 15:34:14 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
@@ -413,31 +423,11 @@
       "severity_level": "High"
     },
     {
-      "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
-      "description": "Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 14:50:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
       "description": "NGOs in Indonesian Borneo file class action lawsuit calling for government to better manage annual fires and The Indonesian government has been accused of “gross negligence” in a class action lawsuit over its handling of wildfires that have cloaked large parts of South-east Asia in a toxic haze, shuttered schools and caused a spike in respiratory illnesses. The lawsuit, filed by indigenous and civil society groups in the Indonesian part of Borneo, named President Prabowo Subianto and the governor of West Kalimantan among 10 defendants. The case seeks comprehensive recovery and rehabilitation measures that would include covering the healthcare costs of residents. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
       "published": "Thu, 08 Oct 2026 03:54:09 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Seven injured in attack at Polish school, say police",
-      "description": "A man has been arrested after seven people were injured in an attack at a school in Poland.",
-      "url": "https://news.sky.com/story/seven-injured-in-attack-with-sharp-object-at-polish-school-say-police-13596114",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -593,30 +583,10 @@
       "severity_level": "High"
     },
     {
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:18:40 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
       "description": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
       "published": "Thu, 08 Oct 2026 17:07:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-      "description": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 14:43:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -640,6 +610,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -698,6 +678,16 @@
       "url": "https://news.sky.com/story/lithuania-pm-confident-of-huge-nato-response-if-russia-attacks-13596524",
       "published": "Thu, 08 Oct 2026 14:42:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "description": "South Korea says it will recall its ambassador to Ukraine, stepping up its protest of Ukraine President Volodymyr Zelenskyy’s recent revelation of a supposedly secret transfer of two North Korean prisoners of war to South Korea",
+      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
+      "published": "Thu, 08 Oct 2026 07:06:39 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -774,7 +764,7 @@
     },
     {
       "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
-      "description": "Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
+      "description": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
       "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 8 Oct 2026 16:11:00 GMT",
       "source": "Deutsche Welle",
@@ -793,10 +783,30 @@
       "severity_level": "High"
     },
     {
+      "title": "Russia's public health watchdog denies second infection in suspected plague case",
+      "description": "Russia’s public health watchdog has denied that a lab worker who died in Siberia had spread infection to another person as global concerns swirled about suspected pneumonic plague",
+      "url": "https://abcnews.com/International/wireStory/russias-public-health-watchdog-denies-infection-suspected-pneumonic-137088923",
+      "published": "Thu, 08 Oct 2026 07:06:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "A partial building collapse in Istanbul traps at least 7 people, including a child",
       "description": "A seven-story building in Istanbul has partially collapsed, killing two and trapping at least two other people",
       "url": "https://abcnews.com/International/wireStory/partial-building-collapse-istanbul-traps-7-people-including-137086897",
       "published": "Thu, 08 Oct 2026 05:46:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+      "description": "A top official with the World Health Organization says the U.N. health agency doesn’t know how a lab employee in Siberia died amid concerns about plague",
+      "url": "https://abcnews.com/International/wireStory/russia-tight-lid-suspected-case-pneumonic-plague-global-137065277",
+      "published": "Wed, 07 Oct 2026 17:46:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -883,16 +893,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Russian missile strike in Ukraine's capital kills at least 2",
-      "description": "Russian missiles and drones have pounded Kyiv and other Ukrainian regions, killing at least 21 civilians, including four children, and wounding around 60",
-      "url": "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060",
-      "published": "Wed, 07 Oct 2026 08:34:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
       "description": "Jamaal Howard's attorneys cited Christa Pike's failed lethal injection in Tennessee to argue the pentobarbital drug posed risks, but the Supreme Court rejected it.",
       "url": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution",
@@ -973,20 +973,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 14:10:58 GMT",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:23:09 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 16:23:09 GMT",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:10:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1003,10 +1003,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+      "description": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 19:12:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Syria calls for independent probe into sinking of ship in Black Sea",
       "description": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
       "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
       "published": "Thu, 08 Oct 2026 17:27:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
+      "description": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 16:53:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1103,10 +1123,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
-      "description": "Scientists Henri B",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
-      "published": "Wed, 07 Oct 2026 23:22:15 -0400",
+      "title": "Judge says search warrants used to seize property from ex-Prince Andrew were unlawful",
+      "description": "A London judge says police who searched former Prince Andrew's properties in connection to Jeffrey Epstein agreed the search warrants were unlawful",
+      "url": "https://abcnews.com/International/wireStory/uk-judge-hear-opening-salvo-prince-andrews-bid-137088466",
+      "published": "Thu, 08 Oct 2026 09:57:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nobel Prize in literature to be awarded in Stockholm",
+      "description": "Canadian author Anne Carson has won the Nobel Prize in literature for her bold and inventive work",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-literature-awarded-stockholm-137086895",
+      "published": "Thu, 08 Oct 2026 07:06:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1118,16 +1148,6 @@
       "url": "https://abcnews.com/International/wireStory/ukraine-grapples-shortage-troops-front-after-4-years-137087565",
       "published": "Thu, 08 Oct 2026 05:30:16 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
-      "description": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling for an end to the suffering of Israelis and Palestinians alike.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168530",
-      "published": "Mon, 05 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1243,16 +1263,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
-      "description": "New York City’s Mayor Zohran Mamdani was met by crowds calling him a ‘traitor’ for attending a vigil for October 7.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 14:07:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1358,16 +1368,6 @@
       "url": "https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292",
       "published": "Wed, 07 Oct 2026 19:40:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ebola creates new hot spots in Congo as responders describe ‘chaotic’ response",
-      "description": "The Ebola outbreak in Congo is spreading rapidly to new hot spots where patients have little or no support",
-      "url": "https://abcnews.com/International/wireStory/ebola-creates-new-hot-spots-congo-responders-describe-137062715",
-      "published": "Wed, 07 Oct 2026 20:02:19 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1513,6 +1513,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Man City charges: Maresca says players focused on Liverpool test",
+      "description": "Manchester City manager Enzo Maresca claims players unfazed by financial breaches verdict ahead of Liverpool showdown.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 19:17:38 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
       "title": "Man City charges: Haaland says Premier League club must ‘stick together’",
       "description": "Erling Haaland calls on Manchester City to unite as Premier League club appeals more than 100 charges of wrongdoing.",
       "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss",
@@ -1633,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
+      "description": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 19:06:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
       "description": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
       "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
@@ -1657,16 +1677,6 @@
       "description": "The Court of Arbitration for Sport to rule within days on appeal against decision to strip Senegal of AFCON title.",
       "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
       "published": "Thu, 08 Oct 2026 17:08:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
-      "description": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 16:53:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1993,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mayor of Turkish opposition stronghold defects to Erdogan's party",
-      "description": "A stronghold of Turkey’s opposition has fallen to President Recep Tayyip Erdogan’s ruling party for the first time",
-      "url": "https://abcnews.com/International/wireStory/mayor-turkish-opposition-stronghold-defects-erdogans-party-137059686",
-      "published": "Wed, 07 Oct 2026 08:07:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "South Korea test-flies its first domestically developed hypersonic weapon",
       "description": "South Korea has flight-tested its first domestically developed hypersonic weapon",
       "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
@@ -2013,20 +2013,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
-      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
-      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
-      "published": "Thu, 08 Oct 2026 05:46:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Germany's former intelligence chief faces espionage allegations",
-      "description": "German ex-intelligence chief August Hanning faces charges of treasonous espionage",
-      "url": "https://abcnews.com/International/wireStory/espionage-allegations-germanys-former-intelligence-chief-137062477",
-      "published": "Wed, 07 Oct 2026 20:58:18 -0400",
+      "title": "Royal Navy member to appear in court on spying charges",
+      "description": "London police say a Royal Navy member has been charged with spying for an unidentified foreign power",
+      "url": "https://abcnews.com/International/wireStory/royal-navy-member-court-spying-charges-137087372",
+      "published": "Thu, 08 Oct 2026 05:59:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2043,20 +2033,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Man charged in killing of British ex-politician tried to break into Farage's home",
-      "description": "A prosecutor says a man accused of killing former British politician Ann Widdecombe allegedly tried to break into Nigel Farage's home about a year earlier",
-      "url": "https://abcnews.com/International/wireStory/prosecutor-man-charged-killing-british-politician-break-farages-137059775",
-      "published": "Wed, 07 Oct 2026 08:26:20 -0400",
+      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
+      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
+      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
+      "published": "Thu, 08 Oct 2026 05:46:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Former Australian Catholic bishop sentenced for abusing Indigenous men",
-      "description": "A former Australian Catholic bishop has been sentenced to more than six years in prison for sexually abusing two young Indigenous men",
-      "url": "https://abcnews.com/International/wireStory/former-australian-catholic-bishop-sentenced-abusing-indigenous-men-137056174",
-      "published": "Wed, 07 Oct 2026 03:38:41 -0400",
+      "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
+      "description": "Brazilian President Lula da Silva and Sen. Flávio Bolsonaro are both focused on persuading the undecided voters ahead of the Oct. 25 presidential election",
+      "url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911",
+      "published": "Wed, 07 Oct 2026 14:04:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Sri Lanka's former first lady is arrested on corruption allegations",
+      "description": "The wife of Sri Lanka’s former powerful President Mahinda Rajapaksa has been arrested and detained on allegations of misusing donations received into her charity when she was first lady",
+      "url": "https://abcnews.com/International/wireStory/sri-lankas-former-lady-arrested-corruption-allegations-137067542",
+      "published": "Wed, 07 Oct 2026 22:18:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
