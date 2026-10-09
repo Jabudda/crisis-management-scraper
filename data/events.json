@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T08:49:32.058116Z",
+  "last_updated": "2026-10-09T09:18:05.490107Z",
   "event_count": 223,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Lufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital",
+      "description": "Airlines like Lufthansa and Air India have temporarily suspended flights to Saudi Arabia's capital after explosions were reported Thursday, including a large blast at Riyadh's international airport",
+      "url": "https://abcnews.com/International/wireStory/lufthansa-indian-airlines-suspend-riyadh-service-after-explosions-137108326",
+      "published": "Thu, 08 Oct 2026 15:46:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -110,16 +120,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
-      "description": "Ukrainian President Volodymyr Zelensky said Thursday there would be a response to a Russian strike that hit two buses in the frontline city of Kramatorsk, killing 30 people and wounding 18 others. France 24's Andrew Hilliar says it comes a bid a growing number of Russian attacks on civilians in the country, with UN figures showing that more civilians had been killed in Ukraine as of August this year than in all of 2025.",
-      "url": "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
-      "published": "Thu, 08 Oct 2026 17:11:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -283,20 +283,20 @@
       "severity_level": "High"
     },
     {
-      "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
-      "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
-      "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
-      "published": "Thu, 08 Oct 2026 07:06:44 -0400",
+      "title": "15-year-old arrested after attack at Polish school that left 1 dead, 2 wounded",
+      "description": "A teenager allegedly attacked three primary school employees, killing one, in Poland",
+      "url": "https://abcnews.com/International/wireStory/15-year-arrested-after-attack-polish-school-left-137098255",
+      "published": "Thu, 08 Oct 2026 16:24:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
     },
     {
-      "title": "15-year-old arrested after attack at Polish school that left 1 dead, 2 wounded",
-      "description": "A teenager allegedly attacked three primary school employees, killing one, in Poland",
-      "url": "https://abcnews.com/International/wireStory/15-year-arrested-after-attack-polish-school-left-137098255",
-      "published": "Thu, 08 Oct 2026 16:24:11 -0400",
+      "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
+      "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
+      "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
+      "published": "Thu, 08 Oct 2026 07:06:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -317,6 +317,16 @@
       "description": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
       "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
       "published": "Thu, 08 Oct 2026 07:25:28 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+      "description": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+      "published": "Thu, 08 Oct 2026 01:56:02 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 17,
@@ -347,16 +357,6 @@
       "description": "The story is as underreported as it is consequential for the entire planet. Three Turkish-owned cargo ships out of Ukraine have been hit in EU waters by suspected Russian drones. One, the Togo-flagged Alfa Watan, sunk on Tuesday off Bulgaria. Ten Egyptian and Syrian crew members are missing. For its part, Ukraine has been hitting Russian tankers in the Black Sea, with no sign of a return to a UN-brokered deal to allow oil, grain and fertiliser ships to pass.",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover",
       "published": "Thu, 08 Oct 2026 20:42:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "The Russian-occupied town in Ukraine facing starvation",
-      "description": "Trapped and facing starvation, residents of the Russian-occupied town of Oleshky in southern Ukraine risk their lives to travel for hours by foot and bicycle along mine-strewn roads to get food and water. The town near the Ukrainian city of Kherson on the war's southern front has been under Russian control since 2022. Since May, food deliveries have dried up, and now former residents and Ukrainian refugees are trying to sound the alarm.",
-      "url": "https://www.france24.com/en/video/20261008-the-russian-occupied-town-in-ukraine-facing-starvation",
-      "published": "Thu, 08 Oct 2026 17:09:55 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 17,
@@ -523,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-      "description": "Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 01:15:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -573,6 +563,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
+      "description": "Navanethem \"Navi\" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.",
+      "url": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Oct 2026 07:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
       "description": "Judges at the International Criminal Court said Rodrigo Duterte was fit to understand the charges at his trial, which is set to begin in November. His legal team argued that he suffers from cognitive deficiencies.",
       "url": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-all-1573-xml-mrss",
@@ -583,11 +583,31 @@
       "severity_level": "High"
     },
     {
+      "title": "South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize",
+      "description": "Former UN human rights chief and International Court of Justice judge Navanethem \"Navi\" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.",
+      "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+      "published": "Fri, 09 Oct 2026 09:03:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Morocco and Senegal await AFCON final verdict after arbitration hearing",
       "description": "Thursday saw the Court of Arbitration for Sport hold a long-awaited hearing in Lausanne, as sport's highest court considered Senegal's appeal over the decision to award Morocco this year's Africa Cup of Nations title. While Senegal won the match on the pitch in Rabat ten months ago, the Confederation of African Football latter overturned the result because the Teranga Lions had left the pitch in protest mid-game before coming back on. The three-judge panel is expected to issue a verdict soon.",
       "url": "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing",
       "published": "Fri, 09 Oct 2026 05:44:52 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Vehicles torched in South Africa as protests over asylum ruling rage on",
+      "description": "Clashes between South African and foreign nationals in Soweto have led to nine vehicles being set on fire",
+      "url": "https://abcnews.com/International/wireStory/vehicles-torched-south-africa-protests-asylum-ruling-rage-137105122",
+      "published": "Thu, 08 Oct 2026 16:18:27 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -683,20 +703,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 08:28:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 08:28:57 GMT",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -723,9 +743,9 @@
       "severity_level": "High"
     },
     {
-      "title": "India: Cockroach Janta Party leaders allege mass detentions ahead of Delhi protest, decry 'emergency'",
-      "description": "The Cockroach Janta Party claims authorities are carrying out mass arrests ahead of its planned protest on October 10. Founder 'Cockroach' Abhijeet Dipke has accused the Modi government of \"intimidation.\" DW has more.",
-      "url": "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "India: Cockroach party denied permission to protest in Delhi, founder Dipke pushes on",
+      "description": "Train cancellations have been reported in Delhi ahead of CJP’s protest tomorrow. There is heavy security in the capital. Police have denied permission to protest but CJP's leader has vowed to press on with the plan.",
+      "url": "https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Oct 2026 06:04:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -747,6 +767,16 @@
       "description": "Shark attack survivor Mel Ismail jabbed at the eye of the predator that severed his leg in an effort to fight it off before struggling back to shore, the surfer and professional firefighter said in an interview that revealed new details of his near-dea...",
       "url": "https://abcnews.com/International/wireStory/australian-shark-attack-survivor-hit-predators-eye-effort-137115353",
       "published": "Fri, 09 Oct 2026 01:30:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "description": "South Korea says it will recall its ambassador to Ukraine, stepping up its protest of Ukraine President Volodymyr Zelenskyy’s recent revelation of a supposedly secret transfer of two North Korean prisoners of war to South Korea",
+      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
+      "published": "Thu, 08 Oct 2026 07:06:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -823,6 +853,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
+      "description": "Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
+      "published": "Thu, 08 Oct 2026 04:44:37 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "UK: Two Latvian men arrested for breaking into RAF base",
       "description": "The men were arrested for breaching a perimeter fence at a UK air base that houses US and NATO intelligence operations. The incident comes after an alleged terror plot at another air base in England was foiled recently.",
       "url": "https://www.dw.com/en/uk-two-latvian-men-arrested-for-breaking-into-raf-base/a-79606026?maca=en-rss-en-all-1573-xml-mrss",
@@ -843,10 +883,10 @@
       "severity_level": "High"
     },
     {
-      "title": "A partial building collapse in Istanbul traps at least 7 people, including a child",
-      "description": "A seven-story building in Istanbul has partially collapsed, killing two and trapping at least two other people",
-      "url": "https://abcnews.com/International/wireStory/partial-building-collapse-istanbul-traps-7-people-including-137086897",
-      "published": "Thu, 08 Oct 2026 05:46:15 -0400",
+      "title": "Russia's public health watchdog denies second infection in suspected plague case",
+      "description": "Russia’s public health watchdog has denied that a lab worker who died in Siberia had spread infection to another person as global concerns swirled about suspected pneumonic plague",
+      "url": "https://abcnews.com/International/wireStory/russias-public-health-watchdog-denies-infection-suspected-pneumonic-137088923",
+      "published": "Thu, 08 Oct 2026 07:06:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -883,7 +923,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 04:53:50 GMT",
@@ -928,6 +968,16 @@
       "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
       "published": "Thu, 08 Oct 2026 20:05:48 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "South Africa pulls asylum directive after violent protests",
+      "description": "South Africa has withdrawn an asylum directive that sparked widespread protests in the country.",
+      "url": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 8 Oct 2026 18:42:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1033,26 +1083,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "World's largest penguin colony shrinks two-thirds in just 14 years",
-      "description": "The population of a penguin colony that was previously the largest in the world has fallen by almost two-thirds, a new study has revealed - with climate change thought to be a major reason for the decline.",
-      "url": "https://news.sky.com/story/worlds-largest-penguin-colony-shrinks-two-thirds-in-just-14-years-13596336",
-      "published": "Thu, 08 Oct 2026 02:11:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Police fire tear gas at a barricaded Paris school as protests show no sign of ending",
-      "description": "Students in northeastern Paris gathered Thursday to protest outside a high school, with police responding using tear gas",
-      "url": "https://abcnews.com/International/wireStory/police-fire-tear-gas-barricaded-high-school-paris-137088376",
-      "published": "Thu, 08 Oct 2026 14:26:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
       "description": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168546",
@@ -1103,6 +1133,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 09:06:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
       "description": "Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.",
       "url": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
@@ -1127,26 +1167,6 @@
       "description": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
       "published": "Fri, 09 Oct 2026 05:52:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "description": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 00:50:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-      "description": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 00:39:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1193,31 +1213,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ukraine's made battlefield gains, but Russia tipped for large winter offensive",
-      "description": "NPR's Michel Martin speaks with Christina Harward of the Institute for the Study of War about Ukraine's recent battlefield gains and the expectation of a large winter offensive by Russia.",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995245/ukraines-made-battlefield-gains-but-russia-tipped-for-large-winter-offensive",
-      "published": "Fri, 09 Oct 2026 04:24:57 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Norwegian Nobel Committee awards this year's Peace Prize",
       "description": "The Norwegian Nobel Committee have announced that XXX has won this years Nobel Peace Prize.",
       "url": "https://www.npr.org/2026/10/09/nx-s1-5994952/norwegian-nobel-committee-awards-this-years-peace-prize",
       "published": "Fri, 09 Oct 2026 04:23:16 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Nobel Peace Prize 2026 set to be announced",
-      "description": "The committees that award the Nobel prizes do not announce the nominations, and the Nobel statutes ban the judges from discussing their deliberations for 50 years. Follow DW live to find out who they choose this year.",
-      "url": "https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 07:40:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1234,7 +1234,7 @@
     },
     {
       "title": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
-      "description": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3. Defense Secretary Pete Hegseth said Wednesday the execution would be public. Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base.",
+      "description": "The Pentagon said on Thursday the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3 after Defense Secretary Pete Hegseth vowed to make the execution \"public\". Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base.",
       "url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
       "published": "Thu, 08 Oct 2026 22:01:15 GMT",
       "source": "France24",
@@ -1253,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Former UN human rights chief Navi Pillay wins the Nobel Peace Prize",
+      "description": "Navanethem \"Navi\" Pillay, a South African jurist and former UN high commissioner for human rights, has been awarded the 2026 Nobel Peace Prize.",
+      "url": "https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724",
+      "published": "Fri, 09 Oct 2026 10:01:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "US puts inmate to death for first time since botched execution",
       "description": "A Texas death row inmate has been put to death by lethal injection - despite objections following Christa Pike's botched execution last week.",
       "url": "https://news.sky.com/story/us-puts-inmate-to-death-for-first-time-since-botched-execution-of-christa-pike-13596335",
@@ -1263,10 +1273,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ukraine grapples with a shortage of troops at the front after over 4 years of war",
-      "description": "A shortage of combat-ready troops has plagued Ukraine ever since Russia's full-scale invasion in 2022",
-      "url": "https://abcnews.com/International/wireStory/ukraine-grapples-shortage-troops-front-after-4-years-137087565",
-      "published": "Thu, 08 Oct 2026 05:30:16 -0400",
+      "title": "Stigma, funding cuts and the Iran war put contraception out of reach for Africa’s girls",
+      "description": "Zimbabwean teenager Kelly Nhedega once dreamed of finishing school and starting a career before having a family",
+      "url": "https://abcnews.com/International/wireStory/stigma-funding-cuts-iran-war-put-contraception-reach-137119599",
+      "published": "Fri, 09 Oct 2026 01:22:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1413,6 +1423,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "NBA star Wembanyama to French students: ‘I hear you’",
+      "description": "San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 09:01:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "New York police push politician to ground during anti-ICE protest",
+      "description": "New York police push politician to ground during anti-ICE protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 08:59:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Trump says US will not strike Iran before midterm elections",
       "description": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
       "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
@@ -1443,31 +1473,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ukraine has battlefield success with drones, but Russian airstrikes relentless",
-      "description": "A Ukrainian counteroffensive recently pushed back Russian forces with the help of drones and retook territory, but Russia is hitting Ukrainian cities hard.",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995483/ukraine-has-battlefield-success-with-drones-but-russian-airstrikes-relentless",
-      "published": "Fri, 09 Oct 2026 04:25:16 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
       "description": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
       "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
       "published": "Thu, 08 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "South Africa: Anti-migrant protests turn violent",
-      "description": "A court order requiring the government to resume processing asylum applications reignited violent protests against immigration in South Africa.",
-      "url": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Oct 2026 18:42:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1523,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says",
-      "description": "A commander allied with Ethiopia’s government reports Eritrean soldiers entered in Adigrat and Idaga Hamus, with military officers conducting surveillance in Idaga Hamus",
-      "url": "https://abcnews.com/International/wireStory/eritrean-soldiers-entered-northern-ethiopian-towns-government-allied-137086855",
-      "published": "Thu, 08 Oct 2026 03:43:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "US could play role in united Ireland push after Trump's backing, Irish PM says",
       "description": "Irish Prime Minister Micheál Martin said the United States could potentially help in a future push for a united Ireland after Trump backed it.",
       "url": "https://www.foxnews.com/world/us-could-play-role-united-ireland-push-after-trumps-backing-irish-pm-says",
@@ -1548,16 +1548,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 05:00:44 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
-      "description": "Democrat Abdul El-Sayed and Republican Mike Rogers are locked in a toss-up race for the US Senate.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 02:00:31 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1723,6 +1713,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Japan’s Okinawa calls for review of US forces pact after killing",
+      "description": "Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 08:51:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "LeBron James stars in NBA preseason debut but Nets defeat 76ers",
+      "description": "All-time leading scorer LeBron James makes 76ers debut following LA Lakers switch in NBA preseason, but Nets claim win.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 08:25:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
       "description": "The senior rabbi, whose party is in Netanyahu's coalition, has caused uproar in Israel by calling Zionism disastrous.",
       "url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
@@ -1737,16 +1747,6 @@
       "description": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
       "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
       "published": "Fri, 09 Oct 2026 02:05:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "USS Abraham Lincoln returns after record-breaking deployment",
-      "description": "Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 00:57:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1886,7 +1886,7 @@
       "title": "M 6.3 - 102 km NE of Norsup, Vanuatu",
       "description": "PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
-      "published": "2026-10-09T01:11:10.737Z",
+      "published": "2026-10-09T09:08:26.084Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1973,6 +1973,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+      "published": "Fri, 09 Oct 2026 09:04:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US targets Microsoft, Adobe in new visa crackdown",
+      "description": "The Trump administration continues to crack down on immigration, with new restrictions on the H-1B visa programme. US Vice President JD Vance singled out Microsoft as having abused the system to recruit low-cost foreign workers, to the detriment of the American workforce. The tech giant has defended its hiring practices. Also in the show: Germany could join a UK-led fighter jet development programme, months after pulling out of a joint French project.",
+      "url": "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown",
+      "published": "Fri, 09 Oct 2026 08:50:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Canadian poet and author Anne Carson wins Nobel Prize in Literature",
       "description": "Hailed for her \"bold and inventive\" work, \"in playful dialogue with the classical tradition\", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts that have inspired her writing. We also discuss the significance of the prize itself, as the Nobel Academy tries to move beyond past accusations of euro-centrism and sexism.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature",
@@ -1987,16 +2007,6 @@
       "description": "Brazil's right-wing presidential candidate Flavio Bolsonaro secured third-place finisher Augusto Cury's endorsement on Thursday, strengthening his position against incumbent President Luiz Inacio Lula da Silva ahead of the runoff. Cury won nearly three percent in Sunday's first round. A Datafolha poll put Bolsonaro ahead with 52 percent against Lula's 48 percent.",
       "url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula",
       "published": "Fri, 09 Oct 2026 02:34:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
-      "description": "Canadian poet, essayist and translator Anne Carson won the Nobel Prize in literature Thursday for playful, genre-blending works that fuse the classical and the modern. The Toronto-born Carson, 76, draws on themes and stories from ancient Greek and Roman literature for writing that often blends elements of poetry, essay and fiction.",
-      "url": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
-      "published": "Thu, 08 Oct 2026 17:12:57 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2033,20 +2043,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "description": "South Korea has flight-tested its first domestically developed hypersonic weapon",
-      "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
-      "published": "Thu, 08 Oct 2026 07:54:33 -0400",
+      "title": "UK's Labour wins a special election that puts Green Party leader under pressure",
+      "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
+      "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
+      "published": "Fri, 09 Oct 2026 04:06:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
-      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
-      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
-      "published": "Thu, 08 Oct 2026 05:46:13 -0400",
+      "title": "A US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
+      "description": "A U.S. charity in Gaza is worried that teachers at its schools might stray from a curriculum it says promotes peace and tolerance",
+      "url": "https://abcnews.com/International/wireStory/us-charity-plans-ai-monitor-gaza-classrooms-hateful-137119694",
+      "published": "Fri, 09 Oct 2026 01:20:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trial in killings of 3 foreign surfers in Mexico nears verdict",
+      "description": "The trial of three men accused of killing two Australian brothers and their American friend during a 2024 surfing trip to Mexico has entered its final stage",
+      "url": "https://abcnews.com/International/wireStory/trial-killings-3-foreign-surfers-mexico-nears-verdict-137113737",
+      "published": "Thu, 08 Oct 2026 18:40:46 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2063,30 +2083,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Myanmar's military-backed leader seeks closer ties on visit to Malaysia as he pivots to diplomacy",
-      "description": "Myanmar's military-backed leader, Min Aung Hlaing, is focusing on diplomacy and bilateral cooperation during his visit to Malaysia",
-      "url": "https://abcnews.com/International/wireStory/myanmars-military-backed-leader-seeks-closer-ties-visit-137086659",
-      "published": "Thu, 08 Oct 2026 08:38:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK's Labour wins a special election that puts Green Party leader under pressure",
-      "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
-      "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
-      "published": "Fri, 09 Oct 2026 04:06:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Royal Navy member to appear in court on spying charges",
-      "description": "London police say a Royal Navy member has been charged with spying for an unidentified foreign power",
-      "url": "https://abcnews.com/International/wireStory/royal-navy-member-court-spying-charges-137087372",
-      "published": "Thu, 08 Oct 2026 05:59:22 -0400",
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "description": "South Korea has flight-tested its first domestically developed hypersonic weapon",
+      "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
+      "published": "Thu, 08 Oct 2026 07:54:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
