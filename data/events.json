@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T09:18:05.490107Z",
+  "last_updated": "2026-10-09T09:44:21.419048Z",
   "event_count": 223,
   "events": [
     {
@@ -180,6 +180,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Navi Pillay wins Nobel Peace Prize",
+      "description": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 09:28:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -563,8 +573,18 @@
       "severity_level": "High"
     },
     {
+      "title": "South African Human Rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "description": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+      "published": "Fri, 09 Oct 2026 04:23:16 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
-      "description": "Navanethem \"Navi\" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.",
+      "description": "South African judge Navanethem \"Navi\" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.",
       "url": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Oct 2026 07:40:00 GMT",
       "source": "Deutsche Welle",
@@ -573,17 +593,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
-      "description": "Judges at the International Criminal Court said Rodrigo Duterte was fit to understand the charges at his trial, which is set to begin in November. His legal team argued that he suffers from cognitive deficiencies.",
-      "url": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Oct 2026 15:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize",
+      "title": "South Africa's Navi Pillay wins 2026 Nobel Peace Prize",
       "description": "Former UN human rights chief and International Court of Justice judge Navanethem \"Navi\" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.",
       "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
       "published": "Fri, 09 Oct 2026 09:03:34 GMT",
@@ -718,16 +728,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 19:10:06 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "ICE shooting of New York man in car with five-year-old sparks protests",
-      "description": "Mayor, governor and US lawmakers condemn the shooting by immigration officers.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 03:25:33 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -974,9 +974,9 @@
     },
     {
       "title": "South Africa pulls asylum directive after violent protests",
-      "description": "South Africa has withdrawn an asylum directive that sparked widespread protests in the country.",
+      "description": "South Africa has withdrawn a controversial asylum directive that sparked widespread protests in the country.",
       "url": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 8 Oct 2026 18:42:00 GMT",
+      "published": "Fri, 9 Oct 2026 09:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
@@ -1213,16 +1213,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Norwegian Nobel Committee awards this year's Peace Prize",
-      "description": "The Norwegian Nobel Committee have announced that XXX has won this years Nobel Peace Prize.",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5994952/norwegian-nobel-committee-awards-this-years-peace-prize",
-      "published": "Fri, 09 Oct 2026 04:23:16 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US files new torture charges against  Venezuela's Nicolas Maduro and wife Cilia Flores",
       "description": "The United States on Thursday charged ousted Venezuelan president Nicolas Maduro and his wife Cilia Flores with conspiracy to commit torture, adding to drug trafficking and firearms charges. Prosecutors allege detainees, including US citizens, suffered waterboarding, rape and beatings. The pair remain in US custody following a January military raid.",
       "url": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
@@ -1373,6 +1363,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Hegseth says Fort Hood shooter's military execution will be 'livestreamed'",
+      "description": "PRESS REVIEW – Friday, October 9: US Defence Secretary Pete Hegseth announces that the military execution of Fort Hood shooter Nidal Malik Hasan will be \"livestreamed\". But first: we look at reactions in Italy after the country's parliament passes a controversial electoral reform that critics say serves to benefit Prime Minister Giorgia Meloni. Plus, \".fart\" and \".trump\" are among the new domain name applications, as revealed by the US non-profit organisation ICANN.",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261009-hegseth-says-fort-hood-shooter-s-military-execution-will-be-livestreamed",
+      "published": "Fri, 09 Oct 2026 09:39:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Laotian man deported by US to South Sudan leaves for Laos after year in detention",
       "description": "A Laotian man deported by the U.S. to South Sudan has returned to his home country after more than a year in detention",
       "url": "https://abcnews.com/International/wireStory/laotian-man-deported-us-south-sudan-leaves-laos-137105992",
@@ -1410,6 +1410,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:30:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1543,16 +1553,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 05:00:44 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1578,16 +1578,6 @@
       "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 8 Oct 2026 16:20:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel",
-      "description": "Fifteen years after \"The Social Network\", Aaron Sorkin is taking on Facebook again. His new film, \"The Social Reckoning\", looks at what the platform has become and the role it plays in division, extremism and misinformation in America, themes that have fuelled his long-running public feud with Mark Zuckerberg. It tells the true story of Facebook whistleblower Frances Haugen, played by Oscar-nominated actress Mikey Madison (\"Anora\"), who leaked thousands of internal documents to Wall Street Journal reporter Jeff Horwitz, played by Jeremy Allen White (\"The Bear\").",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261008-aaron-sorkin-mikey-madison-jeremy-allen-white-the-director-and-cast-behind-the-facebook-sequel",
-      "published": "Thu, 08 Oct 2026 17:42:24 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1636,7 +1626,7 @@
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
       "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 07:05:05 GMT",
+      "published": "Fri, 09 Oct 2026 09:29:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1713,6 +1703,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Everton’s US owners seek sale of controlling stake in Premier League club",
+      "description": "Premier League club Everton open to selling controlling stake after 'safely' balancing historical financial troubles.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 09:26:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Japan’s Okinawa calls for review of US forces pact after killing",
       "description": "Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.",
       "url": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
@@ -1737,16 +1737,6 @@
       "description": "The senior rabbi, whose party is in Netanyahu's coalition, has caused uproar in Israel by calling Zionism disastrous.",
       "url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
       "published": "Fri, 09 Oct 2026 06:55:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Christa Pike case underscores prevalence of botched executions in US",
-      "description": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
-      "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 02:05:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1918,6 +1908,16 @@
       "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
       "published": "Thu, 08 Oct 2026 12:05:37 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany women's football team: Can Ena Mahmutovic make a case to become Germany's next No.1 goalkeeper?",
+      "description": "The women's friendlies against Australia and Japan present an opportunity for Ena Mahmutovic to make her case for succeeding Ann-Katrin Berger as Germany's first-choice goalkeeper.",
+      "url": "https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Oct 2026 09:23:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
