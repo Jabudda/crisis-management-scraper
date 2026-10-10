@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-10T22:12:41.118290Z",
+  "last_updated": "2026-10-10T22:39:27.001475Z",
   "event_count": 223,
   "events": [
+    {
+      "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+      "description": "Officials said at least 12 people were killed in a strike on King Khalid International Airport in the Saudi capital, Riyadh. The airport had already been targeted multiple times this week.",
+      "url": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Oct 2026 22:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 49,
+      "severity_level": "Critical"
+    },
     {
       "title": "Amid heartache of Nepal flooding disaster, fear remains",
       "description": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
@@ -10,6 +20,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 46,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least 12 killed and hundreds injured in Saudi Arabia airport 'missile attack'",
+      "description": "At least 12 have been killed and hundreds injured in strikes on the King Khalid International Airport in Riyadh, Saudi Arabia, officials have said.",
+      "url": "https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284",
+      "published": "Tue, 14 Jul 2026 10:05:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 44,
       "severity_level": "Critical"
     },
     {
@@ -50,16 +70,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 39,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 12 killed and hundreds injured in Saudi Arabia airport missile strikes",
-      "description": "At least 12 have been killed and hundreds injured in strikes on the King Khalid International Airport in Riyadh, Saudi Arabia, officials have said.",
-      "url": "https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284",
-      "published": "Tue, 14 Jul 2026 10:05:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -110,16 +120,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-      "description": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 18:08:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -328,16 +328,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
       "published": "Sat, 10 Oct 2026 20:43:19 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-      "description": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi rebels and a Saudi-backed coalition.",
-      "url": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 10 Oct 2026 16:52:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -1123,6 +1113,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 22:12:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
       "description": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.",
       "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
@@ -1876,7 +1876,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-10T22:08:14.559Z",
+      "published": "2026-10-10T22:37:00.092Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
