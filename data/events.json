@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T08:20:38.090716Z",
+  "last_updated": "2026-10-11T08:47:21.751802Z",
   "event_count": 203,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 52,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: Houthis renew threats against Saudi airports as Riyadh attack prompts wave of condemnation",
+      "description": "Yemen’s Houthi rebels warned airlines, airport staff and travellers against using Saudi airports after a strike on Riyadh killed at least 12 people and wounded more than 300. The attack drew international condemnation as Saudi Arabia threatened retaliation. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "published": "Sun, 11 Oct 2026 05:04:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 50,
       "severity_level": "Critical"
     },
     {
@@ -50,16 +60,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 40,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Middle East live: Riyadh airport attack 'not acceptable', Trump says",
-      "description": "US President Donald Trump said Saturday that a deadly strike on Riyadh's international airport was \"not acceptable\". Meanwhile, Saudi Arabia vowed to retaliate against Yemen's Houthi rebels after the attack killed at least 12 people and wounded more than 300. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-      "published": "Sun, 11 Oct 2026 05:04:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -180,16 +180,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Lens see off Lyon as Ligue 1 season resumes after international break",
-      "description": "Lens put an end to a four-match winless run by beating Lyon 2-1 on Friday night, in what was the first Ligue 1 fixture after a three-week international break. Paris Saint-Germain head coach Luis Enrique has brushed off concerns about Ousmane Dembélé's recent form, having rested the forward for Saturday's match against promoted side Le Mans.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
-      "published": "Sat, 10 Oct 2026 14:10:33 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -788,6 +778,16 @@
       "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 10 Oct 2026 12:02:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Spanish PM begins vote campaign overshadowed by housing protests",
+      "description": "Spain's Prime Minister Pedro Sanchez aimed to pull off another unlikely comeback as he began campaigning on Saturday for a snap vote dominated by housing protests that have shaken the country. Our correspondent Sarah Morris tells us more.",
+      "url": "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests",
+      "published": "Sun, 11 Oct 2026 08:37:13 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1503,20 +1503,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 05:05:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 17:44:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1736,7 +1736,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-11T07:46:39.620Z",
+      "published": "2026-10-11T08:32:33.569Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
