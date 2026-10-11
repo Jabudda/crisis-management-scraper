@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T16:17:52.025591Z",
+  "last_updated": "2026-10-11T16:43:51.723143Z",
   "event_count": 206,
   "events": [
     {
@@ -53,6 +53,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Saudi Arabia: second strike on Riyadh airport",
+      "description": "Sunday's strike came as the King Khalid International Airport remained closed following a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\"",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 11 Oct 2026 16:24:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
       "description": "The Saudi-led coalition in Yemen said an \"unidentified projectile\" had targeted Riyadh's international airport on Sunday, causing a fire. The incident came hours after the Iran-backed Houthis warned airlines and travellers to stay away from Saudi airports. David Smith, The Guardian's Washington bureau chief, tells us more.",
       "url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
@@ -60,16 +70,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 36,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Yemen's Houthis warn passengers not to use Saudi airports",
-      "description": "The warning from the Iran-backed rebels comes a day after a missile attack on Riyadh airport killed 12 people and injured more than 300. The airport will remain closed until at least Sunday night.",
-      "url": "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 11 Oct 2026 09:35:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical"
     },
     {
@@ -153,16 +153,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Poland on alert amid possible attack on PM, defense minister",
-      "description": "Poland was holding an emergency meeting after police received information about a possible assassination plot against PM Donald Tusk. The meeting comes amid a wave of violence at Polish schools this week.",
-      "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 11 Oct 2026 10:48:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police",
       "description": "Masked agitators clashed with riot police in Brussels as thousands of others marched against Belgium's austerity measures and cost of living crisis.",
       "url": "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
@@ -180,6 +170,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least five people missing as flash floods in Nepal sweep away houses",
+      "description": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+      "published": "Sun, 11 Oct 2026 16:00:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -323,16 +323,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’",
-      "description": "French student protests over school conditions spiral into violent unrest, as experts warn a red-green alliance is fueling a broader revolt,",
-      "url": "https://www.foxnews.com/world/french-school-riots-deepen-experts-point-far-left-alliance-fueling-broader-confrontation",
-      "published": "Wed, 07 Oct 2026 07:40:59 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Protests against voter roll revisions rock capital of world's largest democracy",
       "description": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
       "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
@@ -443,21 +433,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-      "description": "Security officials hold emergency meeting after police receive information about potential attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-      "published": "Sun, 11 Oct 2026 12:09:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
       "description": "NGOs in Indonesian Borneo file class action lawsuit calling for government to better manage annual fires and The Indonesian government has been accused of “gross negligence” in a class action lawsuit over its handling of wildfires that have cloaked large parts of South-east Asia in a toxic haze, shuttered schools and caused a spike in respiratory illnesses. The lawsuit, filed by indigenous and civil society groups in the Indonesian part of Borneo, named President Prabowo Subianto and the governor of West Kalimantan among 10 defendants. The case seeks comprehensive recovery and rehabilitation measures that would include covering the healthcare costs of residents. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
       "published": "Thu, 08 Oct 2026 03:54:09 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Polish leader says school attacks were fueled by online glorification of violence",
+      "description": "Prime Minister Donald Tusk says recent attacks at Polish schools are “spontaneous acts” fueled by the online glorification of violence",
+      "url": "https://abcnews.com/International/wireStory/polish-leader-school-attacks-fueled-online-glorification-violence-137169753",
+      "published": "Sun, 11 Oct 2026 04:48:49 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -537,6 +527,16 @@
       "description": "Pakistani President Asif Ali Zardari has declared a state of emergency in northwestern Khyber Pakhtunkhwa province",
       "url": "https://abcnews.com/International/wireStory/pakistans-president-suspends-provincial-government-led-khans-party-137170035",
       "published": "Sun, 11 Oct 2026 07:45:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump weighs joining fight against Houthis after Riyadh airport struck again",
+      "description": "King Khalid International Airport has been targeted multiple times this week.",
+      "url": "https://abcnews.com/International/wireStory/airport-saudi-capital-attacked-officials-137158067",
+      "published": "Sat, 10 Oct 2026 17:36:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -663,20 +663,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments",
-      "description": "A drone strike in Sudan has killed at least 40 people, including children, according to a rights group",
-      "url": "https://abcnews.com/International/wireStory/drone-strike-sudan-kills-40-lebanon-welcomes-us-137154846",
-      "published": "Sat, 10 Oct 2026 09:22:16 -0400",
+      "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal",
+      "description": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki river",
+      "url": "https://abcnews.com/International/wireStory/villages-evacuated-flash-flood-budhi-gandaki-river-hits-137168729",
+      "published": "Sun, 11 Oct 2026 02:21:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal",
-      "description": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki river",
-      "url": "https://abcnews.com/International/wireStory/villages-evacuated-flash-flood-budhi-gandaki-river-hits-137168729",
-      "published": "Sun, 11 Oct 2026 02:21:42 -0400",
+      "title": "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
+      "description": "A drone strike blamed on Sudan's paramilitaries has killed 41 displaced people near the Ethiopian border",
+      "url": "https://abcnews.com/International/wireStory/rights-group-paramilitary-drone-strike-sudan-killed-41-137155407",
+      "published": "Sat, 10 Oct 2026 07:26:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -943,6 +943,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Poland arrests man over plot to kill PM Donald Tusk",
+      "description": "Prime Minister Donald Tusk confirmed the arrest hours after police received information about a possible assassination plot. Poland is still reeling from a wave of school violence this week.",
+      "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 11 Oct 2026 10:48:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
       "description": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
       "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-xml-mrss",
@@ -1003,26 +1013,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man attacked by tiger after entering enclosure at England wildlife park",
-      "description": "The tigers remained inside the enclosure and there was no danger to the public.",
-      "url": "https://abcnews.com/International/wireStory/man-attacked-tiger-after-entering-enclosure-wildlife-park-137161794",
-      "published": "Sat, 10 Oct 2026 19:06:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Police detain dozens and check 50,000 schools after 2 attacks shake Poland",
-      "description": "A third attack at a Polish school has taken place in less than a week",
-      "url": "https://abcnews.com/International/wireStory/police-detain-76-check-50000-schools-after-2-137155026",
-      "published": "Sat, 10 Oct 2026 09:38:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "In a tent camp in Ceuta, migrants weigh justice, safety and returning home",
       "description": "Migrants in Ceuta face a humanitarian crisis, with some alleging abuse by Spanish soldiers",
       "url": "https://abcnews.com/International/wireStory/tent-camp-ceuta-migrants-weigh-justice-safety-returning-137171385",
@@ -1033,20 +1023,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump says Ukraine should get a new president, blames Zelenskyy for US diesel prices",
-      "description": "He suggested Zelenskyy has not done enough to end Ukraine’s war with Russia.",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-kill-7-ukraine-after-trump-strikes-137153808",
-      "published": "Sat, 10 Oct 2026 17:45:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Spain's slow response to the crisis in Ceuta leaves teen migrants on the streets",
-      "description": "Hundreds of teenage migrants lined up outside a church in Ceuta in early October, hoping for good news from Spain's youth minister",
-      "url": "https://abcnews.com/International/wireStory/spains-slow-response-crisis-ceuta-leaves-teen-migrants-137152515",
-      "published": "Sat, 10 Oct 2026 00:22:03 -0400",
+      "title": "Man attacked by tiger after entering enclosure at England wildlife park",
+      "description": "The tigers remained inside the enclosure and there was no danger to the public.",
+      "url": "https://abcnews.com/International/wireStory/man-attacked-tiger-after-entering-enclosure-wildlife-park-137161794",
+      "published": "Sat, 10 Oct 2026 19:06:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1113,6 +1093,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Italy’s school veil ban exposes Europe’s assimilation fight as expert warns US could be next",
+      "description": "The Italian \"Schools Decree\" caps foreign-born pupils at 30% and bans face coverings, but experts question whether forced assimilation works.",
+      "url": "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
+      "published": "Sun, 11 Oct 2026 06:00:40 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
       "description": "Benjamin Netanyahu warned that Jake Sullivan would \"jump out of his skin\" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.",
       "url": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
@@ -1148,6 +1138,16 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Chinese court sentenced former mayor of Wuhan city to 14 years in prison for bribery",
+      "description": "A former Chinese mayor of a central Chinese city plagued by the coronavirus outbreak more than six years ago has been sentenced to 14 years in prison for corruption",
+      "url": "https://abcnews.com/International/wireStory/chinese-court-sentenced-former-mayor-wuhan-city-14-137155735",
+      "published": "Sat, 10 Oct 2026 09:34:44 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1313,20 +1313,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump says Russia, Ukraine reach ‘energy ceasefire’ but gives no details",
-      "description": "Neither side immediately commented on such an agreement.",
-      "url": "https://abcnews.com/International/wireStory/ukraine-steps-strikes-russias-tech-infrastructure-damaging-data-137169844",
-      "published": "Sun, 11 Oct 2026 11:38:20 -0400",
+      "title": "India's 'Cockroach' protest leaders freed, vow to continue demonstrations",
+      "description": "Leaders of a popular Indian youth movement vow to continue protests.",
+      "url": "https://abcnews.com/International/wireStory/indias-cockroach-protest-movement-leaders-freed-detention-vow-137170034",
+      "published": "Sun, 11 Oct 2026 11:42:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "India's 'Cockroach' protest leaders freed, vow to continue demonstrations",
-      "description": "Leaders of a popular Indian youth movement vow to continue protests.",
-      "url": "https://abcnews.com/International/wireStory/indias-cockroach-protest-movement-leaders-freed-detention-vow-137170034",
-      "published": "Sun, 11 Oct 2026 11:42:11 -0400",
+      "title": "Trump says Russia, Ukraine reach ‘energy ceasefire’ but gives no details",
+      "description": "Neither side immediately commented on such an agreement.",
+      "url": "https://abcnews.com/International/wireStory/ukraine-steps-strikes-russias-tech-infrastructure-damaging-data-137169844",
+      "published": "Sun, 11 Oct 2026 11:38:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1443,10 +1443,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Liverpool vs Man City live: Premier League",
-      "description": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-      "published": "Sun, 11 Oct 2026 12:20:30 +0000",
+      "title": "Football fans speak about City’s charges as they face Liverpool",
+      "description": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+      "published": "Sun, 11 Oct 2026 16:18:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1746,7 +1746,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-11T16:09:17.470Z",
+      "published": "2026-10-11T16:32:41.125Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1823,9 +1823,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Demographic change: Germany's population is declining, but not everywhere",
-      "description": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
-      "url": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany's population is shrinking, but not everywhere",
+      "description": "By 2045, Germany will have more older people, fewer workers and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
+      "url": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 11 Oct 2026 07:21:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1913,10 +1913,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ethiopia tells UN it is acting in self-defense against Eritrea",
-      "description": "Ethiopia has told the United Nations Security Council it is taking self-defense measures against Eritrea",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-tells-acting-defense-eritrea-137153814",
-      "published": "Sat, 10 Oct 2026 03:41:33 -0400",
+      "title": "Pope Leo XIV will undergo surgery to remove a nodule on his lung",
+      "description": "Pope Leo XIV has announced he will undergo surgery to remove a nodular lesion on his lung",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-undergo-surgery-remove-nodule-lung-137170592",
+      "published": "Sun, 11 Oct 2026 07:45:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Cubans turn to free community pharmacies as medicines grow scarce",
+      "description": "In Havana, Laura Mendoza runs a project called “Medicine Is Not for Sale,” providing free medications to Cubans facing severe shortages",
+      "url": "https://abcnews.com/International/wireStory/cubans-turn-free-community-pharmacies-medicines-grow-scarce-137170499",
+      "published": "Sun, 11 Oct 2026 07:32:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1943,20 +1953,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "UK government blocks Northern Ireland march after standoff fueled sectarian tensions",
-      "description": "The British government has blocked a contentious march in Northern Ireland after a two-week standoff",
-      "url": "https://abcnews.com/International/wireStory/uk-government-blocks-northern-ireland-march-after-standoff-137155116",
-      "published": "Sat, 10 Oct 2026 07:23:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope Leo XIV will undergo surgery to remove a nodule on his lung",
-      "description": "Pope Leo XIV has announced he will undergo surgery to remove a nodular lesion on his lung",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-undergo-surgery-remove-nodule-lung-137170592",
-      "published": "Sun, 11 Oct 2026 07:45:50 -0400",
+      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
+      "description": "Palestinians won't head to the polls next month to vote on reviving a dissolved parliament",
+      "url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596",
+      "published": "Sat, 10 Oct 2026 09:33:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
