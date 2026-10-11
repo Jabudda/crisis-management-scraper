@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T12:23:37.889853Z",
-  "event_count": 206,
+  "last_updated": "2026-10-11T12:51:53.792785Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
@@ -20,6 +20,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 50,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Amid heartache of Nepal flooding disaster, fear remains",
+      "description": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 46,
       "severity_level": "Critical"
     },
     {
@@ -73,6 +83,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "description": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Saudi Arabia threatens 'decisive' response after Riyadh airport strike kills at least 12",
       "description": "Saudi Arabia vowed to retaliate against Yemen’s Houthi rebels on Sunday after a strike on Riyadh’s international airport killed a dozen people and wounded more than 300, marking the kingdom's deadliest strike in a decade.",
       "url": "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
@@ -88,6 +108,16 @@
       "url": "https://www.france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1",
       "published": "Sun, 11 Oct 2026 05:16:22 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+      "description": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 36,
       "severity_level": "Critical"
@@ -173,6 +203,26 @@
       "severity_level": "Critical"
     },
     {
+      "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+      "description": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Critical funding gap threatens health response in Yemen",
+      "description": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Poland on alert amid possible attack on PM, defense minister",
       "description": "Poland was holding an emergency meeting after police received information about a possible assassination plot against PM Donald Tusk. The meeting comes amid a wave of violence at Polish schools this week.",
       "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
@@ -203,16 +253,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "description": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-      "published": "Sun, 11 Oct 2026 10:45:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "What the Iran war has done to the world’s energy supply, in charts",
       "description": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
       "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
@@ -233,11 +273,31 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Global trade reaches record $35 trillion despite conflicts",
+      "description": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
       "description": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
       "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
       "published": "Sun, 11 Oct 2026 10:42:35 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘Age must never diminish rights,’ UN independent expert warns",
+      "description": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -263,6 +323,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+      "description": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Behind France's student riots: Communists, unions and a global propaganda network",
       "description": "A transnational pro-communist network funded by Neville Roy Singham is amplifying French student protests, seeking better schools.",
       "url": "https://www.foxnews.com/world/behind-frances-student-riots-communists-unions-global-propaganda-network",
@@ -283,6 +353,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+      "description": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+      "published": "Sun, 11 Oct 2026 10:45:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
       "description": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'.",
       "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
@@ -298,6 +378,36 @@
       "url": "https://www.france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti",
       "published": "Sun, 11 Oct 2026 09:24:40 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+      "description": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+      "description": "The UN Humanitarian Coordinator for Ukraine on Wednesday called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168548",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+      "description": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -323,11 +433,21 @@
       "severity_level": "Critical"
     },
     {
-      "title": "109 dead after ship capsizes off coast of Djibouti, UN agency says",
+      "title": "109 dead, more than 116 missing, after ship capsizes off coast of Djibouti, UN agency says",
       "description": "A ship has capsized off the coast of Djibouti, leaving 109 migrants dead and more than 116 missing, a United Nations agency has reported.",
       "url": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
       "published": "Sun, 11 Oct 2026 11:08:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+      "description": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings updates, go here.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -383,7 +503,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Four dead after Hurricane Isaias crashes into US - as Mexico braces itself for major storm",
+      "title": "Four dead after Hurricane Isaias crashes into US - as Mexico braces itself for Category 4 storm",
       "description": "Four people have died after Hurricane Isaias smashed into the US Gulf Coast.",
       "url": "https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710",
       "published": "Sun, 11 Oct 2026 11:13:00 +0100",
@@ -473,13 +593,23 @@
       "severity_level": "High"
     },
     {
-      "title": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
-      "description": "French Prime Minister Sébastien Lecornu defended the police response after a teen lost his hand and another was blinded amid student protests.",
-      "url": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
-      "published": "Wed, 07 Oct 2026 01:09:27 -0400",
-      "source": "Fox News World",
+      "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+      "description": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+      "description": "Security officials hold emergency meeting after police receive information about potential attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+      "published": "Sun, 11 Oct 2026 12:09:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -743,13 +873,23 @@
       "severity_level": "High"
     },
     {
-      "title": "Flash flood sweeps away buildings in Nepal",
-      "description": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
-      "published": "Sun, 11 Oct 2026 06:34:31 +0000",
-      "source": "Al Jazeera",
+      "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+      "description": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
-      "severity_score": 11,
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+      "description": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -793,11 +933,31 @@
       "severity_level": "High"
     },
     {
-      "title": "Flash flooding destroys homes in Nepal",
+      "title": "Flash flooding triggered by landslide destroys homes in Nepal",
       "description": "Flash flooding has destroyed homes along a river in the central part of Nepal, with residents being evacuated by helicopter.",
       "url": "https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674",
       "published": "Sun, 11 Oct 2026 08:46:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+      "description": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+      "description": "Health authorities in Russia say there is “no plague case” in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -918,6 +1078,16 @@
       "url": "https://www.france24.com/en/tv-shows/sports/20261011-france-s-seixas-claims-il-lombardia-glory-after-world-championship-heartbreak",
       "published": "Sun, 11 Oct 2026 09:13:07 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+      "description": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168546",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1148,6 +1318,16 @@
       "url": "https://abcnews.com/International/wireStory/spains-slow-response-crisis-ceuta-leaves-teen-migrants-137152515",
       "published": "Sat, 10 Oct 2026 00:22:03 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+      "description": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+      "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1506,7 +1686,7 @@
       "title": "Pope Leo to have surgery after lump found on lung",
       "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 11:55:49 GMT",
+      "published": "Sun, 11 Oct 2026 12:32:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1538,6 +1718,16 @@
       "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 21:50:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
+      "description": "Russian research reveals that the protein brazzein could help reduce blood sugar spikes.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
+      "published": "Sun, 11 Oct 2026 12:23:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1577,16 +1767,6 @@
       "description": "Pledge comes days before Mukesh Ambani's low-cost Reliance Jio's parent launches India's largest-ever IPO.",
       "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
       "published": "Sun, 11 Oct 2026 07:57:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-      "description": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-      "published": "Sun, 11 Oct 2026 07:39:16 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1746,7 +1926,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-11T12:17:01.256Z",
+      "published": "2026-10-11T12:34:17.843Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1973,6 +2153,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+      "description": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "NYPD detective gives update on condition after illegal immigrant duo allegedly stabbed him 7 times",
       "description": "Video shows Det. Jose Mercedes covered in blood after two suspects on an e-bike allegedly stabbed him seven times during a Bronx gold chain robbery.",
       "url": "https://www.foxnews.com/us/nypd-detective-gives-update-condition-illegal-immigrant-duo-allegedly-stabbed-7-times",
@@ -2028,6 +2218,16 @@
       "url": "https://www.foxnews.com/us/attorney-former-cornell-fraternity-member-wants-ag-james-off-case-post-supporting-accuser",
       "published": "Fri, 09 Oct 2026 11:41:47 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Abbas delays Palestinian elections again, making more than two decades without vote",
+      "description": "Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame.",
+      "url": "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
+      "published": "Sun, 11 Oct 2026 08:22:06 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
