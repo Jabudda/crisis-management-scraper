@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T21:11:32.842371Z",
+  "last_updated": "2026-10-12T21:39:42.580734Z",
   "event_count": 224,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 44,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Five people missing as fresh flash floods hit central Nepal",
-      "description": "Nepali rescuers searched for five missing people on Monday, a day after new flash floods swept away more than 200 houses and five bridges along the Budhi Gandaki River. The country is still recovering from devastating floods, triggered by a mountain glacial collapse on August 26, which killed more than 1,400 people and left over 5,000 missing.",
-      "url": "https://www.france24.com/en/video/20261012-five-people-missing-as-fresh-flash-floods-hit-central-nepal",
-      "published": "Mon, 12 Oct 2026 14:43:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -123,16 +113,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Rescue helicopters race to flood-hit Nepal villages as 5 reported missing",
-      "description": "Rescue helicopters and ground troops have been deployed to villages along the Budhi Gandaki River in Nepal following flash flooding",
-      "url": "https://abcnews.com/International/wireStory/rescue-helicopters-race-flood-hit-nepal-villages-5-137186058",
-      "published": "Mon, 12 Oct 2026 08:50:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
       "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
       "description": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
@@ -150,6 +130,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "No, these pictures do not show the Houthi attacks on Riyadh King Khalid Airport",
+      "description": "As Saudi Arabia’s King Khalid International Airport has suffered a string of deadly attacks, claimed by the Houthis, a slew of AI-generated or decontextualised videos and photos have been circulating on social media, purporting to show the strikes of the last few days.",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261012-no-these-pictures-do-not-show-the-houthi-attacks-on-riyadh-king-khalid-airport",
+      "published": "Mon, 12 Oct 2026 20:59:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -293,6 +283,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+      "description": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 21:27:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "description": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood . Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
@@ -331,6 +331,16 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
+    },
+    {
+      "title": "Poland's police warn of a possible plot to attack Prime Minister Donald Tusk",
+      "description": "Polish authorities have arrested a man suspected of threatening and planning to attack Prime Minister Donald Tusk",
+      "url": "https://abcnews.com/International/wireStory/polands-police-warn-plot-attack-prime-minister-donald-137170227",
+      "published": "Sun, 11 Oct 2026 11:22:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
     },
     {
       "title": "A magnitude 5.2 earthquake jolts southern Peru coast and residents report light to moderate shaking",
@@ -383,16 +393,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Nine people killed in Pennsylvania shooting; suspected gunman found dead: report",
-      "description": "Erie Police Chief Rick Lorah called the Perry Street mass shooting the worst crime he has encountered in nearly three decades of law enforcement.",
-      "url": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report",
-      "published": "Sat, 10 Oct 2026 08:57:28 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
       "description": "Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the cases South Korea will take legal action if it finds that shipments of fuel from its ports to Russia broke domestic law, the government has said, responding to a Guardian report on the trade . The government, in a statement issued by the foreign and trade ministries and the customs service, said that it is “checking additional information concerning the loading cases reported by the Guardian” and “if the verification establishes that our laws and regulations have been violated, it plans to act in accordance with the law”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
@@ -408,16 +408,6 @@
       "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
       "published": "Sun, 11 Oct 2026 07:28:15 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "SARAB pay homage to war victims in Syria, Gaza on new album",
-      "description": "Franco-Syrian five-piece SARAB, or mirage in Arabic, make what can be described as poetic punk rock, blending guitar-heavy riffs with classical Arabic sounds and socially conscious lyrics. They're on tour with their latest album \"Mit Warde – Cent Roses\", a record dedicated to the victims of war around the world, from Gaza to Syria. We also speak to Tom McFarland from British neo-soul band Jungle, who are on tour with their radiant fifth album \"Sunshine\".",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261012-sarab-pay-homage-to-war-victims-in-syria-gaza-on-new-album",
-      "published": "Mon, 12 Oct 2026 14:24:22 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -463,20 +453,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Blast kills teenager, injures dozens in northern Israel",
-      "description": "A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 16:44:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Australia politics live: Greens at odds about Ukraine weapons; Robert Pether speaks after Iraq prison release",
+      "title": "Australia politics live: Greens urge Albanese to call Trump over execution livestream; Robert Pether speaks after Iraq prison release",
       "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail. Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-      "published": "Mon, 12 Oct 2026 21:00:43 GMT",
+      "published": "Mon, 12 Oct 2026 21:24:39 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -493,10 +473,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Police detain pupil suspected in school shooting in France in which two were wounded",
-      "description": "French police have detained a 14-year-old suspected of shooting his middle school principal and a teacher",
-      "url": "https://abcnews.com/International/wireStory/french-police-detain-pupil-suspected-school-shooting-france-137187441",
-      "published": "Mon, 12 Oct 2026 09:06:14 -0400",
+      "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+      "description": "Saudi authorities said there were injuries in the latest attack on the airport.",
+      "url": "https://abcnews.com/International/wireStory/missile-attack-airport-saudi-arabias-capital-kills-12-137169649",
+      "published": "Mon, 12 Oct 2026 02:18:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -543,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-      "description": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 17:07:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -578,6 +548,16 @@
       "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
       "published": "Mon, 12 Oct 2026 20:23:04 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Pakistan's president suspends provincial government led by Khan’s party ahead of march",
+      "description": "Pakistani President Asif Ali Zardari has declared a state of emergency in northwestern Khyber Pakhtunkhwa province",
+      "url": "https://abcnews.com/International/wireStory/pakistans-president-suspends-provincial-government-led-khans-party-137170035",
+      "published": "Sun, 11 Oct 2026 07:45:58 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -617,16 +597,6 @@
       "description": "The iconic Marché des Enfants-Rouges in Paris was ravaged by fire overnight. Adored by locals and tourists alike, it was believed to be the oldest food market in Paris. There were no casualties, but the market’s vendors have lost everything, and the history is irreplaceable. Details by Charli James.",
       "url": "https://www.france24.com/en/france-fire-destroys-historic-covered-food-market-in-paris",
       "published": "Mon, 12 Oct 2026 16:23:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "India's opposition leader marches with thousands against election chief",
-      "description": "Opposition parties and supporters of the so-called \"cockroach\" youth movement marched towards the country's Supreme Court on Monday, in the latest show of outrage against the recent removal of millions of names from voters lists. Critics say the move is likely to benefit Prime Minister Narendra Modi's ruling party – and are demanding India's election chief step down over what they describe as misconduct. Details by FRANCE 24 correspondent in New Delhi, Navodita Kumari.",
-      "url": "https://www.france24.com/en/india-s-opposition-leader-marches-with-thousands-against-election-chief",
-      "published": "Mon, 12 Oct 2026 15:14:36 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 13,
@@ -673,10 +643,10 @@
       "severity_level": "High"
     },
     {
-      "title": "US federal agents raid home of Democratic congresswoman and Trump critic Ilhan Omar",
-      "description": "US federal agents on Monday launched a raid on ‌the Washington home of Democratic representative Ilhan Omar, an outspoken critic of US President Donald ⁠Trump, officials said. The raid followed a criminal fraud ‌investigation into the Somali-born lawmaker's immigration paperwork submitted by her late father when she ⁠was a child, Fox News reported.",
-      "url": "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar",
-      "published": "Mon, 12 Oct 2026 15:13:20 GMT",
+      "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+      "description": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and raising concerns about food security. FRANCE 24's Selina Sykes reports.",
+      "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+      "published": "Mon, 12 Oct 2026 21:27:53 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -697,6 +667,16 @@
       "description": "South Korea’s military says North Korea fired multiple ballistic missiles toward its eastern waters, adding to a recent streak in weapons demonstrations",
       "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184009",
       "published": "Mon, 12 Oct 2026 04:10:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal",
+      "description": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki River",
+      "url": "https://abcnews.com/International/wireStory/villages-evacuated-flash-flood-budhi-gandaki-river-hits-137168729",
+      "published": "Sun, 11 Oct 2026 23:46:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -763,20 +743,20 @@
       "severity_level": "High"
     },
     {
-      "title": "'A lot of Ukrainians are feeling extremely betrayed' by Trump's Russian diesel deal",
-      "description": "Reporting from central Ukraine, FRANCE 24's Gulliver Cragg says that \"a lot of Ukrainians are feeling extremely betrayed by a country that until recently they saw not only as an ally but as a beacon of freedom and democracy, a country whose values they should aspire to. All of that is falling apart very quickly and Ukrainians' admiration for the United States is disintegrating.\"",
-      "url": "https://www.france24.com/en/a-lot-of-ukrainians-are-feeling-extremely-betrayed-by-trump-s-russian-diesel-deal",
-      "published": "Mon, 12 Oct 2026 19:04:39 GMT",
+      "title": "DR Congo's former president Joseph Kabila to lead new movement with M23 rebels",
+      "description": "Former DR Congo president Joseph Kabila announced a new political-military alliance with Rwanda-backed M23 rebels on Monday, despite being sentenced to death in absentia for alleged complicity with the group. The move comes as debate grows over constitutional changes ahead of President Felix Tshisekedi’s final term ending in 2028.",
+      "url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
+      "published": "Mon, 12 Oct 2026 21:27:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market",
-      "description": "A devastating blaze destroyed the French capital’s oldest covered food market in the early hours of Monday, stripping Paris of a cherished venue popular with locals and tourists alike. Traders and residents said the destruction of the Enfants Rouges market, named after a 16th-century orphanage, had left them feeling “orphaned” themselves.",
-      "url": "https://www.france24.com/en/france/20261012-adieu-aux-enfants-rouges-tears-shock-fire-destroys-paris-oldest-covered-food-market",
-      "published": "Mon, 12 Oct 2026 15:28:36 GMT",
+      "title": "'A lot of Ukrainians are feeling extremely betrayed' by Trump's Russian diesel deal",
+      "description": "Reporting from central Ukraine, FRANCE 24's Gulliver Cragg says that \"a lot of Ukrainians are feeling extremely betrayed by a country that until recently they saw not only as an ally but as a beacon of freedom and democracy, a country whose values they should aspire to. All of that is falling apart very quickly and Ukrainians' admiration for the United States is disintegrating.\"",
+      "url": "https://www.france24.com/en/a-lot-of-ukrainians-are-feeling-extremely-betrayed-by-trump-s-russian-diesel-deal",
+      "published": "Mon, 12 Oct 2026 19:04:39 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
@@ -856,7 +836,7 @@
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 17:32:13 GMT",
+      "published": "Mon, 12 Oct 2026 21:20:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -893,10 +873,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Ethiopian govt forces enter key Tigray town near Eritrea border",
+      "description": "In tonight's edition, Ethiopian forces tighten their grip on Tigray, advancing into the key town of Adwa after rebels withdrew. Also, police arrested 30 people amid violence across South Africa. And we head to Tunisia, where ancient Sufi chants collide with pulsating electronic beats!",
+      "url": "https://www.france24.com/en/ethiopian-govt-forces-enter-key-tigray-town-near-eritrea-border",
+      "published": "Mon, 12 Oct 2026 20:34:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Spain's royals set to visit Ceuta for the first time as migration crisis exposes divisions",
       "description": "Spain's Ceuta, a city in North Africa, is facing a migration crisis that has exposed deep divisions",
       "url": "https://abcnews.com/International/wireStory/spains-royals-set-visit-ceuta-migration-crisis-exposes-137198624",
       "published": "Mon, 12 Oct 2026 14:18:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ethiopian official promises change in Tigray after troops retake regional capital",
+      "description": "A former Tigray leader now advising Ethiopia’s prime minister has promised a “visible change” in the region",
+      "url": "https://abcnews.com/International/wireStory/ethiopian-official-promises-change-tigray-after-troops-retake-137176106",
+      "published": "Sun, 11 Oct 2026 10:46:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1073,10 +1073,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Midterms 2026: Turning Point and the battle for Charlie Kirk’s legacy",
-      "description": "In the year following the death of Charlie Kirk, the number of American universities with Turning Point chapters surged by 64 percent. But at the same time there have been signs of division in the organisation Kirk founded and the MAGA movement more generally: far-right figures are vying for Kirk’s legacy, while conspiracy theories circulate regarding his death. But as the midterms approach, how do activists on the ground see the future of the conservative youth movement? And who, if anyone, can take on Kirk’s mantle? France 24 travelled to the place Turning Point was founded - Phoenix, Arizona - to find out more.",
-      "url": "https://www.france24.com/en/video/20261012-midterms-2026-turning-point-and-the-battle-for-charlie-kirk-s-legacy",
-      "published": "Mon, 12 Oct 2026 15:59:52 GMT",
+      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
+      "description": "President Donald Trump's envoys told ​Ukrainian officials on Friday that a deal to allow Russian diesel exports is part of a bid to draw Russia back to negotiations after the failure of previous efforts to launch sustained talks to end the war, three people familiar with the meeting told Reuters. FRANCE 24's Sharon Gaffney speaks with Grégoire Roos, director of the Europe and Russia and Eurasia Programmes at Chatham House. He says that \"it's clear that Moscow is just playing with Washington because Vladimir Putin knows that Donald Trump lives on borrowed time\".",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
+      "published": "Mon, 12 Oct 2026 21:02:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
+      "description": "President Donald Trump's envoys told ​Ukrainian officials on Friday that a deal to allow Russian diesel exports is part of a bid to draw Russia back to negotiations after the failure of previous efforts to launch sustained talks to end the war, three people familiar with the meeting told Reuters. FRANCE 24's Sharon Gaffney speaks with Grégoire Roos, director of the Europe and Russia and Eurasia Programmes at Chatham House. He says that \"it's clear that Moscow is just playing with Washington because Vladimir Putin knows that Donald Trump lives on borrowed time\".",
+      "url": "https://www.france24.com/en/it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
+      "published": "Mon, 12 Oct 2026 20:58:31 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1093,20 +1103,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Clashes between rival groups in central South Sudan leave scores dead",
-      "description": "Clashes between armed groups from rival communities in central South Sudan have left scores dead and overwhelmed a hospital with wounded people",
-      "url": "https://abcnews.com/International/wireStory/clashes-rival-groups-central-south-sudan-leave-scores-137201915",
-      "published": "Mon, 12 Oct 2026 13:48:19 -0400",
+      "title": "Iran calls latest US response to proposal insufficient, and other Mideast developments",
+      "description": "A senior Iranian official says Tehran finds the latest U_S_ response to a proposal to end the war “insufficient.\"",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-alert-aide-testifies-netanyahu-trial-mideast-137175749",
+      "published": "Sun, 11 Oct 2026 18:18:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Mother's 3-day walk with sick daughter highlights Somalia's child malnutrition emergency",
-      "description": "A Somali mother walked for three days carrying her severely malnourished 3-year-old daughter nearly 90 kilometers to a hospital in Kismayo",
-      "url": "https://abcnews.com/International/wireStory/mothers-3-day-walk-sick-daughter-highlights-somalias-137185689",
-      "published": "Mon, 12 Oct 2026 02:58:26 -0400",
+      "title": "2 months after Spain's worst border crisis, migrants at a Ceuta tent camp weigh their choices",
+      "description": "Migrants in Ceuta face a humanitarian crisis, with some alleging abuse by Spanish soldiers",
+      "url": "https://abcnews.com/International/wireStory/tent-camp-ceuta-migrants-weigh-justice-safety-returning-137171385",
+      "published": "Sun, 11 Oct 2026 12:50:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1233,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
+      "description": "The biennial Paris Motor Show kicks off with a record number of Chinese brands descending on the French capital. European carmakers are fighting back, showcasing their latest models, as the EU announced a deal with China to limit the imports of hybrids. France 24's Charles Pellegrin has been speaking with CEOs of both Chinese and European carmakers.",
+      "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+      "published": "Mon, 12 Oct 2026 21:03:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
       "description": "French presidential candidate Raphaël Glucksmann said Monday that the \"battle begins\" to revive the country's divided left ahead of the 2027 election. The EU lawmaker was elected Sunday as the centre-left candidate with more than 66 percent of the vote.",
       "url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left",
@@ -1273,6 +1293,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 21:01:45 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Thousands march to Indian Supreme Court to demand election chief resign",
       "description": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
       "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
@@ -1297,16 +1327,6 @@
       "description": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
       "published": "Mon, 12 Oct 2026 19:37:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "India’s voter list changes sparks fresh protests",
-      "description": "A controversial voter roll revision has triggered fresh protests in New Delhi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 17:33:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1353,20 +1373,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistani army training aircraft crashes, killing both pilots",
-      "description": "A Pakistani army training aircraft has crashed in southwestern Pakistan, killing both pilots",
-      "url": "https://abcnews.com/International/wireStory/pakistani-army-training-aircraft-crashes-killing-pilots-137189002",
-      "published": "Mon, 12 Oct 2026 08:10:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Lebanon’s PM vows investigation after explosives-laden truck seized at checkpoint",
-      "description": "Lebanon’s Prime Minister Nawaf Salam has vowed to pursue suspected Hezbollah members involved in transporting explosives to Beirut",
-      "url": "https://abcnews.com/International/wireStory/lebanons-pm-vows-investigation-after-explosives-laden-truck-137188021",
-      "published": "Mon, 12 Oct 2026 08:58:18 -0400",
+      "title": "UK prime minister says it's 'clear' Russia interfered in Brexit referendum",
+      "description": "Countries across Europe are facing the same threat, Burnham says.",
+      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-clear-russia-interfered-2016-brexit-137180724",
+      "published": "Sun, 11 Oct 2026 17:55:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1383,20 +1393,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UK prime minister says it's 'clear' Russia interfered in Brexit referendum",
-      "description": "Countries across Europe are facing the same threat, Burnham says.",
-      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-clear-russia-interfered-2016-brexit-137180724",
-      "published": "Sun, 11 Oct 2026 17:55:41 -0400",
+      "title": "Trump says Russia, Ukraine reach ‘energy ceasefire’ but gives no details",
+      "description": "Neither side immediately commented on such an agreement.",
+      "url": "https://abcnews.com/International/wireStory/ukraine-steps-strikes-russias-tech-infrastructure-damaging-data-137169844",
+      "published": "Mon, 12 Oct 2026 02:58:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "France's far-left presidential candidate cheers Gen Z school protests",
-      "description": "French far-left presidential candidate Jean-Luc Mélenchon is celebrating Gen Z protesters driving a school movement shaking France",
-      "url": "https://abcnews.com/International/wireStory/frances-left-presidential-candidate-cheers-gen-school-protests-137180372",
-      "published": "Sun, 11 Oct 2026 17:56:10 -0400",
+      "title": "India's 'Cockroach' protest leaders freed, vow to continue demonstrations",
+      "description": "Leaders of a popular Indian youth movement vow to continue protests.",
+      "url": "https://abcnews.com/International/wireStory/indias-cockroach-protest-movement-leaders-freed-detention-vow-137170034",
+      "published": "Sun, 11 Oct 2026 11:42:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pakistani army training aircraft crashes, killing both pilots",
+      "description": "A Pakistani army training aircraft has crashed in southwestern Pakistan, killing both pilots",
+      "url": "https://abcnews.com/International/wireStory/pakistani-army-training-aircraft-crashes-killing-pilots-137189002",
+      "published": "Mon, 12 Oct 2026 08:10:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1583,11 +1603,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why the US is bringing back firing squads",
-      "description": "The execution of Fort Hood gunman Nidal Hasan would be the first time the US Army had used a firing squad since 1945.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 14:56:43 GMT",
-      "source": "BBC News",
+      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+      "description": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 21:16:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+      "description": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 21:08:08 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1786,7 +1816,7 @@
       "title": "Australia may risk a diplomatic spat with the Trump administration if it limits the viewing of a US execution",
       "description": "A history of tech giant legal challenges and US political criticism shows there’s no easy solution for the eSafety commissioner Get our new political email , free app or daily news podcast Australia’s online safety regulator has a few levers to limit the public seeing the US’s planned live stream of an execution but history suggests it will lead to a very public fight. The US defense secretary, Pete Hegseth, announced last week the planned execution of Fort Hood shooter Nidal Hasan would be livestreamed when the military execution is carried out in early December . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
-      "published": "Mon, 12 Oct 2026 14:00:57 GMT",
+      "published": "Mon, 12 Oct 2026 21:19:46 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1826,7 +1856,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-12T21:06:15.889Z",
+      "published": "2026-10-12T21:34:56.226Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2013,16 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "2026 Paris Motor Show: Western carmakers face steep competition from Chinese rivals",
-      "description": "The Paris Motor Show roars into gear this Monday, with over 200 auto sector brands showcasing their latest models and innovations. Chinese brands like BYD, Xpeng and Zeekr are among those present and getting lots of attention as their market share has surged in the past few years. In this edition, we speak to John Bozzella, CEO of the Alliance for Automotive Innovation, about the challenge these new competitors represent for the European and North American auto sectors.",
-      "url": "https://www.france24.com/en/tv-shows/business/20261012-2026-paris-motor-show-western-carmakers-face-steep-competition-from-chinese-rivals",
-      "published": "Mon, 12 Oct 2026 14:30:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Pope Leo cancels all public events ahead of lung surgery",
       "description": "Pope Leo has cancelled all planned public events until Tuesday 20 October, ahead of surgery to remove a small growth on one of his lungs.",
       "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
@@ -2053,30 +2073,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "Egypt’s Fayoum mummy portraits to travel abroad for first time after restoration",
+      "description": "Egypt has unveiled a restored version of the \"Tondo of the Two Brothers,\" a prized 2nd-century painting from the Fayoum portraits",
+      "url": "https://abcnews.com/International/wireStory/egypts-fayoum-mummy-portraits-travel-abroad-time-after-137172037",
+      "published": "Sun, 11 Oct 2026 23:45:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Czech opposition outpaced the ruling party in first round of Senate election",
+      "description": "Prime Minister Andrej Babiš's political group is facing a strong challenge from the opposition in the Czech Republic’s Senate elections",
+      "url": "https://abcnews.com/International/wireStory/czech-opposition-outpaced-ruling-party-round-senate-election-137170148",
+      "published": "Sun, 11 Oct 2026 07:45:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Rebels set off a car bomb outside toll booth as fighting intensifies in Colombia's Cauca region",
       "description": "A car bomb exploded at a toll booth in southwestern Colombia injuring at least three civilians",
       "url": "https://abcnews.com/International/wireStory/rebels-set-off-car-bomb-toll-booth-fighting-137200026",
       "published": "Mon, 12 Oct 2026 12:42:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Burnham says Russian meddling in Europe shows need for closer UK-EU ties as he seeks a Brexit reset",
-      "description": "Prime Minister Andy Burnham says Russia's attempts to meddle in European politics highlight why Britain must strengthen ties with the European Union",
-      "url": "https://abcnews.com/International/wireStory/uk-eu-confirm-date-summit-after-burnham-russian-137199893",
-      "published": "Mon, 12 Oct 2026 13:06:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "DNA, vehicle-tracking help investigators recover stolen Renoirs and makes arrests",
-      "description": "DNA left on a painting cover has helped investigators recover two stolen Renoirs and uncover plans for another heist, according to a French prosecutor",
-      "url": "https://abcnews.com/International/wireStory/dna-vehicle-tracking-french-investigators-recover-stolen-renoirs-137192770",
-      "published": "Mon, 12 Oct 2026 09:34:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,16 +2113,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Chinese carmakers increasingly rely on overseas markets as September exports surge",
-      "description": "China’s passenger car exports rose 64% in September compared with the year-earlier period, according to a Chinese industry association, as automakers increasingly rely on overseas markets to drive growth amid sluggish domestic sales",
-      "url": "https://abcnews.com/International/wireStory/chinese-carmakers-increasingly-rely-overseas-markets-september-exports-137187155",
-      "published": "Mon, 12 Oct 2026 08:34:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Russell Brand appears in a London court for trial on rape and sexual assault charges",
       "description": "Comedian Russell Brand has appeared in a London court for the opening of his trial on charges of rape and sexual assault",
       "url": "https://abcnews.com/International/wireStory/russell-brand-arrives-london-court-trial-rape-sexual-137186980",
@@ -2113,21 +2123,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Grieving family faces accused Australian in Thai court over teen's killing",
-      "description": "Family members of a 17-year-old Thai girl whose body was found in a suitcase attended a court hearing Monday",
-      "url": "https://abcnews.com/International/wireStory/grieving-family-faces-accused-australian-thai-court-teens-137186594",
-      "published": "Mon, 12 Oct 2026 04:10:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China sanctions Paraguay and Belize officials over ties with Taiwan",
-      "description": "China has sanctioned Paraguay’s communications minister and Belize’s foreign minister over ties with Taiwan, the island democracy Beijing claims as its own",
-      "url": "https://abcnews.com/International/wireStory/china-sanctions-paraguay-belize-officials-ties-taiwan-137186560",
-      "published": "Mon, 12 Oct 2026 04:10:24 -0400",
-      "source": "ABC News International",
+      "title": "Coworker accused of slashing woman’s throat during ride home, victim escaped moving car: police",
+      "description": "A New York man allegedly slashed a coworker's throat during a ride home in Saratoga Springs before she escaped the moving car.",
+      "url": "https://www.foxnews.com/us/coworker-accused-slashing-womans-throat-ride-home-victim-escaped-moving-car-police",
+      "published": "Mon, 12 Oct 2026 17:08:17 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
