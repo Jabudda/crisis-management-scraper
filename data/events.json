@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T18:16:30.306096Z",
+  "last_updated": "2026-10-12T18:46:56.620737Z",
   "event_count": 224,
   "events": [
     {
@@ -108,6 +108,16 @@
       "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "published": "Fri, 09 Oct 2026 16:30:09 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Rescue helicopters race to flood-hit Nepal villages as 5 reported missing",
+      "description": "Rescue helicopters and ground troops have been deployed to villages along the Budhi Gandaki River in Nepal following flash flooding",
+      "url": "https://abcnews.com/International/wireStory/rescue-helicopters-race-flood-hit-nepal-villages-5-137186058",
+      "published": "Mon, 12 Oct 2026 08:50:13 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -323,31 +333,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
-      "description": "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
-      "url": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
-      "published": "Thu, 08 Oct 2026 21:35:44 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
       "description": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
       "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
       "published": "Mon, 12 Oct 2026 02:41:57 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Poland's police warn of a possible plot to attack Prime Minister Donald Tusk",
-      "description": "Polish authorities have arrested a man suspected of threatening and planning to attack Prime Minister Donald Tusk",
-      "url": "https://abcnews.com/International/wireStory/polands-police-warn-plot-attack-prime-minister-donald-137170227",
-      "published": "Sun, 11 Oct 2026 11:22:17 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -503,10 +493,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
-      "description": "Saudi authorities said there were injuries in the latest attack on the airport.",
-      "url": "https://abcnews.com/International/wireStory/missile-attack-airport-saudi-arabias-capital-kills-12-137169649",
-      "published": "Mon, 12 Oct 2026 02:18:19 -0400",
+      "title": "Police detain pupil suspected in school shooting in France in which two were wounded",
+      "description": "French police have detained a 14-year-old suspected of shooting his middle school principal and a teacher",
+      "url": "https://abcnews.com/International/wireStory/french-police-detain-pupil-suspected-school-shooting-france-137187441",
+      "published": "Mon, 12 Oct 2026 09:06:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -578,16 +568,6 @@
       "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 12 Oct 2026 18:05:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Pakistan's president suspends provincial government led by Khan’s party ahead of march",
-      "description": "Pakistani President Asif Ali Zardari has declared a state of emergency in northwestern Khyber Pakhtunkhwa province",
-      "url": "https://abcnews.com/International/wireStory/pakistans-president-suspends-provincial-government-led-khans-party-137170035",
-      "published": "Sun, 11 Oct 2026 07:45:58 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -693,16 +673,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
-      "description": "Less than 24 hours after Donald Trump announced an \"energy ceasefire,\" Ukraine reported Russian strikes on the northeastern city of Kharkiv. The Kremlin says it would only consider a one-day ceasefire for an election.",
-      "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Oct 2026 11:54:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Hurricane Simon batters Mexico's Pacific Coast",
       "description": "Hurricane Simon is currently running parallel to Mexico's Pacific Coast, bringing heavy rainfall and strong winds to vulnerable towns.",
       "url": "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-xml-mrss",
@@ -737,16 +707,6 @@
       "description": "South Korea’s military says North Korea fired multiple ballistic missiles toward its eastern waters, adding to a recent streak in weapons demonstrations",
       "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184009",
       "published": "Mon, 12 Oct 2026 04:10:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal",
-      "description": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki River",
-      "url": "https://abcnews.com/International/wireStory/villages-evacuated-flash-flood-budhi-gandaki-river-hits-137168729",
-      "published": "Sun, 11 Oct 2026 23:46:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -798,6 +758,16 @@
       "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
       "published": "Mon, 12 Oct 2026 10:48:26 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+      "description": "Less than 24 hours after Donald Trump announced an \"energy ceasefire,\" Ukraine reported Russian strikes in Kyiv, Kharkiv and Donetsk. The Kremlin says it would only consider a one-day ceasefire for an election.",
+      "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 12 Oct 2026 11:54:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -933,20 +903,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain's royals set to visit Ceuta as migration crisis exposes divisions",
+      "title": "Spain's royals set to visit Ceuta for the first time as migration crisis exposes divisions",
       "description": "Spain's Ceuta, a city in North Africa, is facing a migration crisis that has exposed deep divisions",
       "url": "https://abcnews.com/International/wireStory/spains-royals-set-visit-ceuta-migration-crisis-exposes-137198624",
-      "published": "Mon, 12 Oct 2026 12:34:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ethiopian official promises change in Tigray after troops retake regional capital",
-      "description": "A former Tigray leader now advising Ethiopia’s prime minister has promised a “visible change” in the region",
-      "url": "https://abcnews.com/International/wireStory/ethiopian-official-promises-change-tigray-after-troops-retake-137176106",
-      "published": "Sun, 11 Oct 2026 10:46:03 -0400",
+      "published": "Mon, 12 Oct 2026 14:18:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -993,10 +953,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "British adventurer returns home after 28-year walk around the world",
+      "description": "Adventurer Karl Bushby swam the English Channel and celebrated with fish and chips after his 28-year, 30,000-mile walk from Chile to England.",
+      "url": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+      "published": "Mon, 12 Oct 2026 14:28:09 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Fridges in French supermarkets hit by cyber attack",
       "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
       "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 16:17:59 GMT",
+      "published": "Mon, 12 Oct 2026 18:31:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1047,16 +1017,6 @@
       "description": "Washington's position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.",
       "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
       "published": "Mon, 12 Oct 2026 15:04:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Why are the Houthis striking Saudi airports?",
-      "description": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 14:23:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1123,6 +1083,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Hundreds of French supermarkets hit by a cyberattack that  defrosted refrigeration systems",
+      "description": "Hundreds of French supermarkets saw their refrigeration systems defrosted, spoiling tons of frozen food. The unprecedented attack has raised serious questions about food security across Europe.",
+      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 12 Oct 2026 18:15:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
       "description": "Franco-British lawyer and author Philippe Sands was awarded the German Book Trade's Peace Prize this weekend. Accepting the award, Sands criticized Germany's \"inappropriate silence\" regarding Israel.",
       "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-xml-mrss",
@@ -1153,20 +1123,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran calls latest US response to proposal insufficient, and other Mideast developments",
-      "description": "A senior Iranian official says Tehran finds the latest U_S_ response to a proposal to end the war “insufficient.\"",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-alert-aide-testifies-netanyahu-trial-mideast-137175749",
-      "published": "Sun, 11 Oct 2026 18:18:14 -0400",
+      "title": "Clashes between rival groups in central South Sudan leave scores dead",
+      "description": "Clashes between armed groups from rival communities in central South Sudan have left scores dead and overwhelmed a hospital with wounded people",
+      "url": "https://abcnews.com/International/wireStory/clashes-rival-groups-central-south-sudan-leave-scores-137201915",
+      "published": "Mon, 12 Oct 2026 13:48:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "2 months after Spain's worst border crisis, migrants at a Ceuta tent camp weigh their choices",
-      "description": "Migrants in Ceuta face a humanitarian crisis, with some alleging abuse by Spanish soldiers",
-      "url": "https://abcnews.com/International/wireStory/tent-camp-ceuta-migrants-weigh-justice-safety-returning-137171385",
-      "published": "Sun, 11 Oct 2026 12:50:22 -0400",
+      "title": "Mother's 3-day walk with sick daughter highlights Somalia's child malnutrition emergency",
+      "description": "A Somali mother walked for three days carrying her severely malnourished 3-year-old daughter nearly 90 kilometers to a hospital in Kismayo",
+      "url": "https://abcnews.com/International/wireStory/mothers-3-day-walk-sick-daughter-highlights-somalias-137185689",
+      "published": "Mon, 12 Oct 2026 02:58:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1250,6 +1220,26 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
+      "description": "Statement comes after criticism of Burnham's initial response ⁠to City being found guilty of serious financial breaches.",
+      "url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 18:15:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+      "description": "Ethiopian Airlines resumed flights to Tigray's capital, Mekelle, on Sunday.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 18:01:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1353,10 +1343,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UK prime minister says it's 'clear' Russia interfered in Brexit referendum",
-      "description": "Countries across Europe are facing the same threat, Burnham says.",
-      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-clear-russia-interfered-2016-brexit-137180724",
-      "published": "Sun, 11 Oct 2026 17:55:41 -0400",
+      "title": "Pakistani army training aircraft crashes, killing both pilots",
+      "description": "A Pakistani army training aircraft has crashed in southwestern Pakistan, killing both pilots",
+      "url": "https://abcnews.com/International/wireStory/pakistani-army-training-aircraft-crashes-killing-pilots-137189002",
+      "published": "Mon, 12 Oct 2026 08:10:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Lebanon’s PM vows investigation after explosives-laden truck seized at checkpoint",
+      "description": "Lebanon’s Prime Minister Nawaf Salam has vowed to pursue suspected Hezbollah members involved in transporting explosives to Beirut",
+      "url": "https://abcnews.com/International/wireStory/lebanons-pm-vows-investigation-after-explosives-laden-truck-137188021",
+      "published": "Mon, 12 Oct 2026 08:58:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1373,30 +1373,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Trump says Russia, Ukraine reach ‘energy ceasefire’ but gives no details",
-      "description": "Neither side immediately commented on such an agreement.",
-      "url": "https://abcnews.com/International/wireStory/ukraine-steps-strikes-russias-tech-infrastructure-damaging-data-137169844",
-      "published": "Mon, 12 Oct 2026 02:58:19 -0400",
+      "title": "UK prime minister says it's 'clear' Russia interfered in Brexit referendum",
+      "description": "Countries across Europe are facing the same threat, Burnham says.",
+      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-clear-russia-interfered-2016-brexit-137180724",
+      "published": "Sun, 11 Oct 2026 17:55:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "India's 'Cockroach' protest leaders freed, vow to continue demonstrations",
-      "description": "Leaders of a popular Indian youth movement vow to continue protests.",
-      "url": "https://abcnews.com/International/wireStory/indias-cockroach-protest-movement-leaders-freed-detention-vow-137170034",
-      "published": "Sun, 11 Oct 2026 11:42:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pakistani army training aircraft crashes, killing both pilots",
-      "description": "A Pakistani army training aircraft has crashed in southwestern Pakistan, killing both pilots",
-      "url": "https://abcnews.com/International/wireStory/pakistani-army-training-aircraft-crashes-killing-pilots-137189002",
-      "published": "Mon, 12 Oct 2026 08:10:24 -0400",
+      "title": "France's far-left presidential candidate cheers Gen Z school protests",
+      "description": "French far-left presidential candidate Jean-Luc Mélenchon is celebrating Gen Z protesters driving a school movement shaking France",
+      "url": "https://abcnews.com/International/wireStory/frances-left-presidential-candidate-cheers-gen-school-protests-137180372",
+      "published": "Sun, 11 Oct 2026 17:56:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1503,16 +1493,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "What are the key matches to watch as the UEFA Champions League returns?",
-      "description": "Atletico vs Man United and Man City vs PSG headline the league's match day two action as the competition returns.",
-      "url": "https://www.aljazeera.com/sports/2026/10/12/champions-league-schedule-teams-matches-players?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 13:43:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1564,7 +1544,7 @@
     },
     {
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and that she \"will not be silenced\".",
+      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 17:09:55 GMT",
       "source": "BBC News",
@@ -1623,6 +1603,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "description": "UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 18:24:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Egypt’s press union chief rejects pressure over detained journalists",
+      "description": "Six journalists from independent platform Matsadaash allege torture in detention, which Egypt denies.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 18:21:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Stolen Renoir paintings found behind wall in France following arrests",
+      "description": "Renoir art heist suspects were planning 'imminent' second robbery, prosecutors say.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
+      "published": "Mon, 12 Oct 2026 18:10:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
       "description": "In-form Atletico host struggling Man United as the Champions League returns for the second set of games.",
       "url": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
@@ -1647,36 +1657,6 @@
       "description": "Backing the genocide case against Myanmar must be followed by concrete action to protect the Rohingya.",
       "url": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss",
       "published": "Mon, 12 Oct 2026 15:46:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-      "description": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 14:25:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
-      "description": "After defending his Japan Open title after returning from injury, Alcaraz never found his rhythm in a scrappy contest.",
-      "url": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 14:14:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50",
-      "description": "Goldberg was a regular Al Jazeera contributor and died after a long battle with colon cancer, his family said.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss",
-      "published": "Mon, 12 Oct 2026 13:44:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1856,7 +1836,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-12T18:05:23.442Z",
+      "published": "2026-10-12T18:40:44.047Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1876,7 +1856,7 @@
       "title": "M 5.5 - 92 km NNW of Aleneva, Alaska",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-06 18:34:31 UTC 2026-10-06 18:34:31 UTC at epicenter Location 58.802°N 153.609°W Depth 87.60 km (54.43 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
-      "published": "2026-10-11T18:44:36.535Z",
+      "published": "2026-10-12T18:44:39.813Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2013,16 +1993,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany: Bas quits as SPD co-chair amid coalition friction",
-      "description": "Bärbel Bas has resigned as labor minister and as co-leader of the Social Democrats as tension grows with Chancellor Merz's CDU.",
-      "url": "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Oct 2026 06:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "The revival of a classic: Citroën unveils new electric version of its 2CV",
       "description": "French car manufacturer Citroën has unveiled a new electric version of its classic 2CV. Although still a concept vehicle, the company says it plans to put the car into production within the next two years.",
       "url": "https://www.france24.com/en/video/20261012-the-revival-of-a-classic-citro%C3%ABn-unveils-new-electric-version-of-its-2cv",
@@ -2093,30 +2063,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Egypt’s Fayoum mummy portraits to travel abroad for first time after restoration",
-      "description": "Egypt has unveiled a restored version of the \"Tondo of the Two Brothers,\" a prized 2nd-century painting from the Fayoum portraits",
-      "url": "https://abcnews.com/International/wireStory/egypts-fayoum-mummy-portraits-travel-abroad-time-after-137172037",
-      "published": "Sun, 11 Oct 2026 23:45:50 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Czech opposition outpaced the ruling party in first round of Senate election",
-      "description": "Prime Minister Andrej Babiš's political group is facing a strong challenge from the opposition in the Czech Republic’s Senate elections",
-      "url": "https://abcnews.com/International/wireStory/czech-opposition-outpaced-ruling-party-round-senate-election-137170148",
-      "published": "Sun, 11 Oct 2026 07:45:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Rebels set off a car bomb outside toll booth as fighting intensifies in Colombia's Cauca region",
       "description": "A car bomb exploded at a toll booth in southwestern Colombia injuring at least three civilians",
       "url": "https://abcnews.com/International/wireStory/rebels-set-off-car-bomb-toll-booth-fighting-137200026",
-      "published": "Mon, 12 Oct 2026 12:35:03 -0400",
+      "published": "Mon, 12 Oct 2026 12:42:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Burnham says Russian meddling in Europe shows need for closer UK-EU ties as he seeks a Brexit reset",
+      "description": "Prime Minister Andy Burnham says Russia's attempts to meddle in European politics highlight why Britain must strengthen ties with the European Union",
+      "url": "https://abcnews.com/International/wireStory/uk-eu-confirm-date-summit-after-burnham-russian-137199893",
+      "published": "Mon, 12 Oct 2026 13:06:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "DNA, vehicle-tracking help investigators recover stolen Renoirs and makes arrests",
+      "description": "DNA left on a painting cover has helped investigators recover two stolen Renoirs and uncover plans for another heist, according to a French prosecutor",
+      "url": "https://abcnews.com/International/wireStory/dna-vehicle-tracking-french-investigators-recover-stolen-renoirs-137192770",
+      "published": "Mon, 12 Oct 2026 09:34:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2133,10 +2103,40 @@
       "severity_level": "Low"
     },
     {
+      "title": "Chinese carmakers increasingly rely on overseas markets as September exports surge",
+      "description": "China’s passenger car exports rose 64% in September compared with the year-earlier period, according to a Chinese industry association, as automakers increasingly rely on overseas markets to drive growth amid sluggish domestic sales",
+      "url": "https://abcnews.com/International/wireStory/chinese-carmakers-increasingly-rely-overseas-markets-september-exports-137187155",
+      "published": "Mon, 12 Oct 2026 08:34:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Russell Brand appears in a London court for trial on rape and sexual assault charges",
       "description": "Comedian Russell Brand has appeared in a London court for the opening of his trial on charges of rape and sexual assault",
       "url": "https://abcnews.com/International/wireStory/russell-brand-arrives-london-court-trial-rape-sexual-137186980",
       "published": "Mon, 12 Oct 2026 13:22:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Grieving family faces accused Australian in Thai court over teen's killing",
+      "description": "Family members of a 17-year-old Thai girl whose body was found in a suitcase attended a court hearing Monday",
+      "url": "https://abcnews.com/International/wireStory/grieving-family-faces-accused-australian-thai-court-teens-137186594",
+      "published": "Mon, 12 Oct 2026 04:10:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China sanctions Paraguay and Belize officials over ties with Taiwan",
+      "description": "China has sanctioned Paraguay’s communications minister and Belize’s foreign minister over ties with Taiwan, the island democracy Beijing claims as its own",
+      "url": "https://abcnews.com/International/wireStory/china-sanctions-paraguay-belize-officials-ties-taiwan-137186560",
+      "published": "Mon, 12 Oct 2026 04:10:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
