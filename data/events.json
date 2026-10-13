@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T12:22:13.971598Z",
-  "event_count": 224,
+  "last_updated": "2026-10-13T12:55:34.444285Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
@@ -68,6 +68,16 @@
       "url": "https://www.france24.com/en/tv-shows/business/20261013-imf-global-economic-forecast-shows-resilience-under-strain",
       "published": "Tue, 13 Oct 2026 09:32:37 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+      "description": "The International Monetary Fund has slightly upgraded its outlook for the world economy for this year, but it's forecasting growth at a still sluggish 3.1%",
+      "url": "https://abcnews.com/International/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214411",
+      "published": "Tue, 13 Oct 2026 05:30:13 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -303,16 +313,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "IMF upgrades 2026 global growth forecast but war and debt threaten outlook",
-      "description": "The IMF has raised its 2026 global growth forecast slightly to 3.1%, citing the resilience of advanced economies despite rising energy prices caused by the Iran war. But it warned that poorer countries that are not benefiting from the AI boom remain particularly vulnerable to energy shocks, economic uncertainty and mounting debt.",
-      "url": "https://www.france24.com/en/business/20261013-imf-upgrades-2026-global-growth-forecast-but-war-and-debt-threaten-outlook",
-      "published": "Tue, 13 Oct 2026 03:57:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Canadian PM Carney makes case for Canadian unity as Alberta referendum nears",
       "description": "Canadian Prime Minister Mark Carney is making the case for Alberta to remain in Canada, warning one week before the province’s referendum that separation would begin a “long and uncertain process” at a dangerous time for the country",
       "url": "https://abcnews.com/International/wireStory/canadian-prime-minister-carney-makes-case-canadian-unity-137206883",
@@ -337,16 +337,6 @@
       "description": "Al-Nassr's AFC Champions League game in Riyadh was delayed for one hour due to a security warning amid Houthi attacks.",
       "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 08:27:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-      "description": "A year after Gaza's ceasefire, Israeli attacks persist as settler violence disrupts West Bank's oil harvest.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 07:45:07 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
@@ -390,6 +380,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Nord Stream: Trial of Ukrainian attack suspect begins in Germany",
+      "description": "A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv's possible role in the explosions. German support for Ukraine is also under scrutiny.",
+      "url": "https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 12:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -466,7 +466,7 @@
       "title": "Ukraine received no intelligence from partners on incoming missile strike on Kyiv",
       "description": "Ukraine received no early warning from its partners about a Russian missile strike on Kyiv, according to President Volodymyr Zelenskyy",
       "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773",
-      "published": "Tue, 13 Oct 2026 08:21:45 -0400",
+      "published": "Tue, 13 Oct 2026 08:21:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
@@ -510,6 +510,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Yemeni families’ search for missing loved ones hindered by new fighting",
+      "description": "Hundreds of people have gone missing in Yemen, with families not knowing whether they were killed in fighting or detained.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 12:25:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -615,8 +625,8 @@
     {
       "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
       "description": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and raising concerns about food security.",
-      "url": "https://www.france24.com/en/video/20261013-hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food",
-      "published": "Tue, 13 Oct 2026 11:13:14 GMT",
+      "url": "https://www.france24.com/en/video/20261013-hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food-1",
+      "published": "Tue, 13 Oct 2026 12:30:30 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 14,
@@ -658,16 +668,6 @@
       "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
       "published": "Mon, 12 Oct 2026 16:56:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "South Korea’s military says North Korea fired a projectile toward the sea",
-      "description": "South Korea’s military says North Korea fired multiple ballistic missiles toward its eastern waters, adding to a recent streak in weapons demonstrations",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184009",
-      "published": "Mon, 12 Oct 2026 04:10:14 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -727,16 +727,6 @@
       "description": "Millions of Ethiopians rely on social media for daily news. But as fighting resumes in the country’s north between federal forces and a coalition of rebel groups, these platforms have become a breeding ground for propaganda and disinformation. Pro-government and pro-rebel accounts are battling to shape the news, while journalists’ limited access to the front lines makes it increasingly difficult to verify what is happening on the ground.",
       "url": "https://www.france24.com/en/ethiopia-social-media-becomes-a-battleground-for-propaganda",
       "published": "Tue, 13 Oct 2026 10:00:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "'A positive step': Hungary removes anti-LGBTQ provisions from Orban-era law",
-      "description": "Hungary's parliament voted on Tuesday to remove anti-LGBTQ provisions from a \"child protection\" law adopted in 2021 under the country's former nationalist leader, in the first significant move to reverse discriminatory legislation since Prime Minister Peter Magyar took power in May.",
-      "url": "https://www.france24.com/en/europe/20261013-a-positive-step-hungary-removes-anti-lgbtq-provisions-from-orban-era-law",
-      "published": "Tue, 13 Oct 2026 05:15:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
@@ -1033,9 +1023,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Critics warn of espionage risks, loss of trust within NATO as Slovakia restores military-diplomatic representation with Russia",
-      "description": "Slovakia is restoring military-diplomatic representation with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+      "description": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
+      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 12:04:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1043,9 +1033,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Germany: Nuremberg airport closed over in-flight emergency",
-      "description": "Police are investigating a suspected in-flight emergency on a Corfu flight. The plane landed safely in Nuremberg after a fighter jet escort.",
-      "url": "https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Nuremberg airport briefly closed after in-flight emergency",
+      "description": "Police are investigating a suspected in-flight emergency on a Corfu flight. After the airport reopened, the airline said they believed the emergency code was a result of a technical malfunction.",
+      "url": "https://www.dw.com/en/nuremberg-airport-briefly-closed-after-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 11:47:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1063,20 +1053,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Poland blames Starlink sabotage on Russia",
-      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
-      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
-      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mother's 3-day walk with sick daughter highlights Somalia's child malnutrition emergency",
-      "description": "A Somali mother walked for three days carrying her severely malnourished 3-year-old daughter nearly 90 kilometers to a hospital in Kismayo",
-      "url": "https://abcnews.com/International/wireStory/mothers-3-day-walk-sick-daughter-highlights-somalias-137185689",
-      "published": "Mon, 12 Oct 2026 02:58:26 -0400",
+      "title": "Spy chief says Iran targeting military sites, suspected plot at RAF base 'not unique’",
+      "description": "The head of MI5 says Iran is trying to hit military sites in the U.K. and the suspected plot to attack a U.S.-run military air base in September is not unique",
+      "url": "https://abcnews.com/International/wireStory/mi5-chief-iran-targeting-military-sites-suspected-plot-137221223",
+      "published": "Tue, 13 Oct 2026 08:26:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1087,6 +1067,26 @@
       "description": "King Felipe VI and Queen Letizia are visiting Ceuta to show solidarity with residents facing a migration crisis",
       "url": "https://abcnews.com/International/wireStory/spains-king-queen-visit-ceuta-territory-grapples-protracted-137218149",
       "published": "Tue, 13 Oct 2026 07:46:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Poland blames Starlink sabotage on Russia",
+      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
+      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
+      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Clashes between rival groups in central South Sudan leave scores dead",
+      "description": "Clashes between armed groups from rival communities in central South Sudan have left scores dead and overwhelmed a hospital with wounded people",
+      "url": "https://abcnews.com/International/wireStory/clashes-rival-groups-central-south-sudan-leave-scores-137201915",
+      "published": "Mon, 12 Oct 2026 13:48:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1263,6 +1263,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Man stabs at least 8 people in South Korean mall",
+      "description": "Police and fire officials in the South Korean city of Incheon say a man stabbed at least eight people at a shopping mall",
+      "url": "https://abcnews.com/International/wireStory/man-stabs-8-people-south-korean-mall-137216769",
+      "published": "Tue, 13 Oct 2026 07:06:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
       "description": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
@@ -1363,44 +1373,14 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pope lung nodule: Could it be cancer?",
-      "description": "The case of Pope Leo shows how small lung nodules are often found during routine health checks. Quick treatment is generally advised before nodules can grow to become larger life-threatening masses.",
-      "url": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Oct 2026 14:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "description": "India’s opposition parties have marched to the Supreme Court to protest a voter list purge they claim favors Prime Minister Narendra Modi's party",
-      "url": "https://abcnews.com/International/wireStory/indias-opposition-parties-march-top-court-protests-voter-137187227",
-      "published": "Mon, 12 Oct 2026 21:46:15 -0400",
+      "title": "A generation of angry young Indians takes to the streets to challenge Modi",
+      "description": "Protests erupted in New Delhi on Saturday as young Indians rallied against a voter list purge they say favors Prime Minister Narendra Modi’s party",
+      "url": "https://abcnews.com/International/wireStory/generation-angry-young-indians-takes-streets-challenge-modi-137214686",
+      "published": "Tue, 13 Oct 2026 01:12:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
-    },
-    {
-      "title": "Pakistani army training aircraft crashes, killing both pilots",
-      "description": "A Pakistani army training aircraft has crashed in southwestern Pakistan, killing both pilots",
-      "url": "https://abcnews.com/International/wireStory/pakistani-army-training-aircraft-crashes-killing-pilots-137189002",
-      "published": "Mon, 12 Oct 2026 08:10:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Emir of Qatar reiterates the need for safety and stability in the region",
-      "description": "Sheikh Tamim bin Hamad Al Thani addresses the Shura Council and emphasises the need for regional stability and safety.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 08:10:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1418,6 +1398,16 @@
       "url": "https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 06:26:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Asia's fertility hub: Thailand emerges as top destination for IVF treatment",
+      "description": "Thailand has become one of Asia's leading fertility hubs. Every year, thousands of foreign patients travel to Bangkok's state-of-the-art private clinics for IVF, egg donation and other fertility treatments. They come from China, South Korea, Europe and across Southeast Asia, looking for what may be harder to find at home: shorter waiting times, lower costs and, in some cases, fewer restrictions.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261013-asia-s-fertility-hub-thailand-emerges-as-top-destination-for-ivf-treatment",
+      "published": "Tue, 13 Oct 2026 12:38:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1488,6 +1478,16 @@
       "url": "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 07:51:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "'Transactional diplomacy': Greece positioning itself as Trump’s most 'reliable ally in the region'",
+      "description": "François Picard is pleased to welcome Petros Konstantinidis, Journalist for TA NEA, Greece's leading daily newspaper, as a financial and investigative reporter. It has all the makings of a reality TV show or a telenovela, or both! “This is diplomacy under Trump turning into lifestyle diplomacy”, explains Konstantinidis.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261013-transactional-diplomacy-greece-positioning-itself-as-the-us-most-reliable-ally-in-the-region",
+      "published": "Tue, 13 Oct 2026 11:41:50 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1598,6 +1598,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 23:18:45 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Australia bowl out South Africa to win first Test in Durban",
+      "description": "Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 12:28:13 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1773,6 +1783,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "M 6.9 - central Mid-Atlantic Ridge",
+      "description": "PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214",
+      "published": "2026-10-13T12:46:00.245Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "M 6.7 - central Mid-Atlantic Ridge",
       "description": "PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
@@ -1826,7 +1846,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-13T11:38:55.885Z",
+      "published": "2026-10-13T12:36:51.687Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2023,20 +2043,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
-      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
-      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
-      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
+      "title": "Prosecutors drop 3 impeachment charges against Philippine VP to speed up trial",
+      "description": "Philippine prosecutors have dropped three of four impeachment charges against Vice President Sara Duterte to speed up her ongoing trial",
+      "url": "https://abcnews.com/International/wireStory/prosecutors-drop-3-impeachment-charges-philippine-vp-duterte-137219772",
+      "published": "Tue, 13 Oct 2026 08:20:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Rebels set off a car bomb outside toll booth as fighting intensifies in Colombia's Cauca region",
-      "description": "A car bomb exploded at a toll booth in southwestern Colombia injuring at least three civilians",
-      "url": "https://abcnews.com/International/wireStory/rebels-set-off-car-bomb-toll-booth-fighting-137200026",
-      "published": "Mon, 12 Oct 2026 12:42:28 -0400",
+      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
+      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
+      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
+      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,40 +2073,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU imposes sanctions on almost 1,600 Russians and companies linked to arms industry",
-      "description": "The European Union has imposed sanctions on nearly 1,600 Russian individuals and companies linked to Russia’s arms industry",
-      "url": "https://abcnews.com/International/wireStory/eu-imposes-sanctions-1600-russians-companies-linked-russian-137188316",
-      "published": "Mon, 12 Oct 2026 08:02:26 -0400",
+      "title": "Congo's ex-President Kabila launches an anti-government front including M23 rebels",
+      "description": "Former Congolese President Joseph Kabila has launched a new political and military coalition against the current government",
+      "url": "https://abcnews.com/International/wireStory/congos-former-president-kabila-launches-anti-government-front-137208186",
+      "published": "Mon, 12 Oct 2026 18:38:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Russell Brand appears in a London court for trial on rape and sexual assault charges",
-      "description": "Comedian Russell Brand has appeared in a London court for the opening of his trial on charges of rape and sexual assault",
-      "url": "https://abcnews.com/International/wireStory/russell-brand-arrives-london-court-trial-rape-sexual-137186980",
-      "published": "Mon, 12 Oct 2026 13:22:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Grieving family faces accused Australian in Thai court over teen's killing",
-      "description": "Family members of a 17-year-old Thai girl whose body was found in a suitcase attended a court hearing Monday",
-      "url": "https://abcnews.com/International/wireStory/grieving-family-faces-accused-australian-thai-court-teens-137186594",
-      "published": "Mon, 12 Oct 2026 04:10:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "DNA, vehicle-tracking help investigators recover stolen Renoirs and makes arrests",
-      "description": "DNA left on a painting cover has helped investigators recover two stolen Renoirs and uncover plans for another heist, according to a French prosecutor",
-      "url": "https://abcnews.com/International/wireStory/dna-vehicle-tracking-french-investigators-recover-stolen-renoirs-137192770",
-      "published": "Mon, 12 Oct 2026 20:18:19 -0400",
+      "title": "Rebels set off a car bomb outside toll booth as fighting intensifies in Colombia's Cauca region",
+      "description": "A car bomb exploded at a toll booth in southwestern Colombia injuring at least three civilians",
+      "url": "https://abcnews.com/International/wireStory/rebels-set-off-car-bomb-toll-booth-fighting-137200026",
+      "published": "Mon, 12 Oct 2026 12:42:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2097,6 +2097,16 @@
       "description": "Prime Minister Andy Burnham says Russia's attempts to meddle in European politics highlight why Britain must strengthen ties with the European Union",
       "url": "https://abcnews.com/International/wireStory/uk-eu-confirm-date-summit-after-burnham-russian-137199893",
       "published": "Mon, 12 Oct 2026 13:06:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "DNA, vehicle-tracking help investigators recover stolen Renoirs and makes arrests",
+      "description": "DNA left on a painting cover has helped investigators recover two stolen Renoirs and uncover plans for another heist, according to a French prosecutor",
+      "url": "https://abcnews.com/International/wireStory/dna-vehicle-tracking-french-investigators-recover-stolen-renoirs-137192770",
+      "published": "Mon, 12 Oct 2026 20:18:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
