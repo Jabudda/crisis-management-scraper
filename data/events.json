@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T18:46:07.026086Z",
+  "last_updated": "2026-10-13T19:10:19.176855Z",
   "event_count": 225,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 37,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
-      "description": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 15:01:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -373,6 +363,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
+      "description": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 18:55:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
       "description": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
       "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
@@ -583,7 +583,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 17:36:43 GMT",
@@ -607,16 +607,6 @@
       "description": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say toppling it is another matter.",
       "url": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 15:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Germany news: Economy set for stronger growth, wine harvest hit by drought",
-      "description": "Germany's economic outlook is looking a little brighter, with the International Monetary Fund almost doubling its growth forecast. However, Germany's winegrowers are facing another disappointing harvest. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-economy-set-for-stronger-growth-wine-harvest-hit-by-drought/live-79647092?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 06:38:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 14,
@@ -668,6 +658,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 18:07:05 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+      "description": "In an interview with NPR, Ukrainian President Volodymyr Zelenskyy said he was informed the U.S. warned it could cut off access to U.S. weapons and intelligence, but that it hasn't happened yet.",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "published": "Tue, 13 Oct 2026 14:51:55 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -853,26 +853,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 21:20:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "description": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 04:04:57 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -953,20 +933,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 17:10:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "description": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:10:50 GMT",
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 05:02:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -988,6 +968,36 @@
       "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 13:23:45 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
+      "description": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 18:45:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Who killed Tupac?",
+      "description": "For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 18:44:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+      "description": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 18:42:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1303,16 +1313,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "description": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 07:31:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
       "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
@@ -1353,10 +1353,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India opposition huddle over tea after thousands march in their Delhi protest",
-      "description": "Congress' Rahul Gandhi hosted oppositon MPs for tea after rallying thousands in Monday's election protest. The 'Cockroach' movement says its leaders have been detained during a flash protest.",
-      "url": "https://www.dw.com/en/india-opposition-huddle-over-tea-after-thousands-march-in-their-delhi-protest/live-79646819?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 06:16:00 GMT",
+      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "description": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
+      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 18:52:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1393,13 +1393,13 @@
       "severity_level": "Low"
     },
     {
-      "title": "What is holding back Cyprus's Schengen ambitions?",
-      "description": "The European Commission says Cyprus is ready to join the Schengen Area. Yet questions relating to the island's division and British military bases could still complicate its path to Europe's border-free travel zone.",
-      "url": "https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 06:26:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Russia arrests Japanese reporter for alleged espionage",
+      "description": "Suspect was arrested on Russia's far-eastern Sakhalin Island before being transferred to Moscow, says Russia's FSB.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 18:49:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 4,
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1503,10 +1503,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "description": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 18:54:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
       "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 18:25:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "description": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 18:54:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1563,10 +1583,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 16:46:49 GMT",
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 23:10:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1637,36 +1657,6 @@
       "description": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 15:44:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US ambassador to Greece resigns amid misconduct allegations",
-      "description": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 15:37:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Sweden’s centre-left leader fails in second bid to form government",
-      "description": "Social Democratic leader Magdalena Andersson says 'conditions not in place' to form government, prolonging deadlock.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 15:37:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
-      "description": "Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 15:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1866,7 +1856,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-13T18:28:54.785Z",
+      "published": "2026-10-13T18:57:31.674Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1923,11 +1913,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-      "description": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
-      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "published": "Mon, 12 Oct 2026 07:29:56 -0400",
-      "source": "NPR World News",
+      "title": "Ukraine and the US: What's next after Trump’s diesel deal with Russia?",
+      "description": "Donald Trump plans to allow the purchase of Russian diesel, drawing criticism at home and abroad. What is behind the US president’s decision and what should Ukraine do next? DW spoke with experts.",
+      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 18:51:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1967,6 +1957,16 @@
       "description": "This over 1,000-page masterpiece offers a panoramic view of society in the 19th century and exposes the collapse of a merchant family: unrecognized sons, disillusioned daughters and the loss of middle-class ideals.",
       "url": "https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 08:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany news: Left-leaning Berlin coalition talks break down",
+      "description": "The SPD and Greens in Berlin have halted coalition talks with the socialist Left Party amid a dispute over policy on Israel. And there's good news for Germany's economy but a meager outlook for winegrowers. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 06:38:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
