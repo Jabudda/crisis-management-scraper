@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T08:18:05.735887Z",
+  "last_updated": "2026-10-14T08:44:21.843532Z",
   "event_count": 224,
   "events": [
     {
@@ -38,16 +38,6 @@
       "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
       "published": "Fri, 09 Oct 2026 09:59:06 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack",
-      "description": "The Saudi Ministry of Energy says a limited fire broke out in an administrative building in Aramco, one of the world’s largest oil facilities, that was targeted in the country's Eastern Province",
-      "url": "https://abcnews.com/International/wireStory/saudi-ministry-energy-reports-limited-fire-building-aramco-137224745",
-      "published": "Wed, 14 Oct 2026 02:02:15 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical"
@@ -154,7 +144,7 @@
     },
     {
       "title": "China is bringing its car production to the EU",
-      "description": "China has moved from exporting cars to bringing entire auto industry ecosystems, building up production capacity in Europe and boosting partnerships with local companies. Arthur D. Little's automotive expert Philipp Seidel tells FRANCE 24 that while tariffs and quotas can buy time, EU carmakers must improve their own competitiveness and not become too dependent on Chinese suppliers. But first, we look at the latest IMF global growth forecast and warning about rising debt.",
+      "description": "China has moved from exporting cars to bringing entire auto industry ecosystems, building up production capacity in Europe and boosting partnerships with local companies. Arthur D. Little's automotive expert Philipp Seidel tells FRANCE 24 that while tariffs and quotas can buy time, EU carmakers must improve their own competitiveness and not become too dependent on Chinese suppliers. But first, we look at the latest IMF global growth forecasts and warning about rising debt.",
       "url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
       "published": "Tue, 13 Oct 2026 21:23:38 GMT",
       "source": "France24",
@@ -253,21 +243,21 @@
       "severity_level": "High"
     },
     {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
-      "description": "Volodymyr Zelenskyy says Russian attacks on Kyiv came without Ukraine receiving advance warning from allies.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-      "published": "Wed, 14 Oct 2026 07:08:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
       "description": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her. Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
       "published": "Wed, 14 Oct 2026 00:53:36 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "FIFPRO report highlights growing pains in women's football",
+      "description": "Expected global revenue of over $1 billion and new faces at the U17 World Cup show women's football is booming, but a recent report also highlights need for greater structure globally.",
+      "url": "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 14 Oct 2026 08:21:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -383,6 +373,16 @@
       "severity_level": "High"
     },
     {
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+      "description": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 07:08:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
       "description": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected systems, with no group publicly claiming responsibility. FRANCE 24's Sharon Gaffney speaks with Marta Rybczynska, cybersecurity expert at Ygreky. She says that basic measures like regularly updating software or passwords are essential to prevent hacking attacks.",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
@@ -428,6 +428,16 @@
       "url": "https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691",
       "published": "Tue, 13 Oct 2026 10:25:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Drones hit ships in Black Sea, sinking 1, prompting rescue operations, Bulgaria says",
+      "description": "Bulgarian Prime Minister Rumen Radev says drones struck two ships in the Black Sea, sinking one and prompting emergency rescue operations",
+      "url": "https://abcnews.com/International/wireStory/drones-hit-ships-black-sea-sinking-1-prompting-137216478",
+      "published": "Tue, 13 Oct 2026 07:30:25 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -498,16 +508,6 @@
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "India: Can 'cockroaches' threaten Modi's political grip?",
-      "description": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say toppling it is another matter.",
-      "url": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 15:20:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -653,20 +653,20 @@
       "severity_level": "High"
     },
     {
-      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines",
-      "description": "A former Ukrainian army officer is going on trial in Germany over undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany four years ago",
-      "url": "https://abcnews.com/International/wireStory/former-ukrainian-officer-trial-sabotage-nord-stream-pipelines-137247789",
-      "published": "Wed, 14 Oct 2026 01:22:45 -0400",
+      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
+      "description": "The first flight carrying third-country nationals from the U.S. has arrived in Jamaica",
+      "url": "https://abcnews.com/International/wireStory/jamaica-begins-receiving-country-deportees-controversial-us-agreement-137242759",
+      "published": "Tue, 13 Oct 2026 19:52:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
-      "description": "The first flight carrying third-country nationals from the U.S. has arrived in Jamaica",
-      "url": "https://abcnews.com/International/wireStory/jamaica-begins-receiving-country-deportees-controversial-us-agreement-137242759",
-      "published": "Tue, 13 Oct 2026 19:52:00 -0400",
+      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines",
+      "description": "A former Ukrainian army officer is going on trial in Germany over undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany four years ago",
+      "url": "https://abcnews.com/International/wireStory/former-ukrainian-officer-trial-sabotage-nord-stream-pipelines-137247789",
+      "published": "Wed, 14 Oct 2026 01:22:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -893,6 +893,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Child safety officer incorrectly assessed Elizabeth Struhs as ‘safe’ day after she was admitted to hospital in coma",
+      "description": "Inquest into the death of eight-year-old Queensland girl who was denied insulin by her religious parents is told her case was complex A child safety officer incorrectly assessed Elizabeth Struhs as “safe” one day after she arrived at hospital in a coma and nearly died due to the neglect of her parents, a coroner’s court has heard. A Queensland coronial inquest heard evidence on Tuesday from one of the two child safety officers who ultimately decided to return the then six-year-old type 1 diabetic to the care of her parents at their home in Toowoomba. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb",
+      "published": "Wed, 14 Oct 2026 08:08:10 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
       "description": "Defence announcement comes after Jacqui Lambie tells parliament a camera had been found concealed in a women’s shower on board Get our breaking news email , free app or daily news podcast A “video recording device” was found in the cabin of a Royal Australian Navy ship in Cairns, the defence department has revealed, just hours after senator Jacqui Lambie alleged in parliament that a camera had been found concealed in a women’s shower on the vessel. The department confirmed on Wednesday afternoon that a device had been found aboard the HMAS Leeuwin three days earlier. In a statement after Guardian Australia had contacted the department for response to Lambie’s allegations, a spokesperson said police were investigating, but did not reveal further details about where the device was located. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
@@ -973,30 +983,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Colombia's peace tribunal says former rebel leaders committed war crimes against Indigenous groups",
-      "description": "Colombia’s transitional justice system has charged 10 former members of the rebel Revolutionary Armed Forces of Colombia with war crimes and crimes against humanity",
-      "url": "https://abcnews.com/International/wireStory/colombias-peace-tribunal-former-rebel-leaders-committed-war-137237901",
-      "published": "Tue, 13 Oct 2026 17:18:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Spy chief says Iran targeting military sites, suspected plot at RAF base 'not unique’",
-      "description": "The head of MI5 says Iran is trying to hit military sites in the U.K. and the suspected plot to attack a U.S.-run military air base in September is not unique",
-      "url": "https://abcnews.com/International/wireStory/mi5-chief-iran-targeting-military-sites-suspected-plot-137221223",
-      "published": "Tue, 13 Oct 2026 09:06:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Germany briefly shuts Nuremberg airport, scrambles jets to escort flight from Corfu",
-      "description": "Authorities in Germany briefly shut down an airport and scrambled fighter jets to escort a passenger plane from Greece after an emergency call raised fears of a possible hijacking",
-      "url": "https://abcnews.com/International/wireStory/germany-briefly-shuts-nuremberg-airport-scrambles-jets-escort-137220901",
-      "published": "Tue, 13 Oct 2026 23:30:21 -0400",
+      "title": "Poland blames Starlink sabotage on Russia",
+      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
+      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
+      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1013,10 +1003,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Poland blames Starlink sabotage on Russia",
-      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
-      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
-      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
+      "title": "Germany briefly shuts Nuremberg airport, scrambles jets to escort flight from Corfu",
+      "description": "Authorities in Germany briefly shut down an airport and scrambled fighter jets to escort a passenger plane from Greece after an emergency call raised fears of a possible hijacking",
+      "url": "https://abcnews.com/International/wireStory/germany-briefly-shuts-nuremberg-airport-scrambles-jets-escort-137220901",
+      "published": "Tue, 13 Oct 2026 23:30:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1154,7 +1144,7 @@
     },
     {
       "title": "Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out",
-      "description": "Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal Get our breaking news email , free app or daily news podcast Labor’s bid to cut the private health insurance rebate for over-65s has been blocked in parliament, with the Greens insisting they will withhold support unless pensioners receive a carve-out from the new rules. The proposed changes, which were due to take effect from April 2027, would save the federal budget $3bn. Continue reading...",
+      "description": "Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal Get our breaking news email , free app or daily news podcast Labor’s bid to cut the private health insurance rebate for over-65s has been blocked in parliament, with the Greens insisting they will withhold support unless pensioners receive a carve-out from the new rules. The proposed changes, which would take effect from April 2027, would save the federal budget $3bn. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out",
       "published": "Wed, 14 Oct 2026 07:59:53 GMT",
       "source": "The Guardian World",
@@ -1164,7 +1154,7 @@
     },
     {
       "title": "Australian industry reliant on gas for ‘foreseeable future’, resources minister tells press club",
-      "description": "Madeleine King says national gas reservation scheme, expected to come into effect from 2028, will reduce power prices Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast The resources minister, Madeleine King, says Australian industry will be reliant on gas for the “foreseeable future”, and that the national gas reservation scheme will push down power prices. But the Western Australian MP did not put a price tag on the cost of gas under the proposal– as the former opposition leader, Peter Dutton, once did – nor predict when households and businesses would start to see that financial relief. Continue reading...",
+      "description": "Madeleine King says national gas reservation scheme, expected to come into effect from 2028, will reduce power prices Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast The resources minister, Madeleine King, says Australian industry will be reliant on gas for the “foreseeable future”, and that the national gas reservation scheme will push down power prices. But the Western Australian MP did not put a price tag on the cost of gas under the proposal – as the former opposition leader Peter Dutton once did – nor predict when households and businesses would start to see that financial relief. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/14/australia-reliant-on-gas-for-foreseeable-future-madeleine-king-press-club",
       "published": "Wed, 14 Oct 2026 05:52:22 GMT",
       "source": "The Guardian World",
@@ -1184,7 +1174,7 @@
     },
     {
       "title": "US judge extends media outlets' White House access",
-      "description": "A federal judge extended the order that blocks the Trump administration from banning three media outlets from the White House. The outlets have reasonable grounds to think they'll win the case, the judge said.",
+      "description": "A federal judge extended an order that blocks the Trump administration from banning media outlets from the White House. The outlets have reasonable grounds to think they'll win the case, the judge said.",
       "url": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 14 Oct 2026 03:46:00 GMT",
       "source": "Deutsche Welle",
@@ -1323,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "A generation of angry young Indians takes to the streets to challenge Modi",
+      "description": "Protests erupted in New Delhi on Saturday as young Indians rallied against a voter list purge they say favors Prime Minister Narendra Modi’s party",
+      "url": "https://abcnews.com/International/wireStory/generation-angry-young-indians-takes-streets-challenge-modi-137214686",
+      "published": "Tue, 13 Oct 2026 01:12:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Woman accused of deadly revenge crash faces jury as boyfriend’s hospital account stays out of trial",
       "description": "Leigha Mumby's trial opened with prosecutors alleging she turned sharply into woods at nearly 100 mph after a fight over another girl's texts.",
       "url": "https://www.foxnews.com/us/woman-accused-deadly-revenge-crash-faces-jury-boyfriend-hospital-account-stays-out-trial",
@@ -1340,6 +1340,16 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How do Iranians move money abroad to avoid US sanctions?",
+      "description": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 08:24:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1403,8 +1413,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over allegations",
-      "description": "President Donald Trump asked US ambassador to Greece Kimberly Guilfoyle to resign on Tuesday after reports alleged she sought $100,000 from a Trump supporter to pay personal credit card debt and accepted luxury trips and hotel stays from wealthy Greek businessmen. Guilfoyle denied wrongdoing and vowed to defend her reputation.",
+      "title": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over bribery allegations",
+      "description": "US President Donald Trump asked his ambassador to Greece Kimberly Guilfoyle to resign on Tuesday after reports alleged she sought $100,000 from a Trump supporter to pay personal credit card debt and accepted luxury trips and hotel stays from wealthy Greek businessmen. Guilfoyle denied wrongdoing and vowed to defend her reputation.",
       "url": "https://www.france24.com/en/americas/20261014-trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-allegations",
       "published": "Wed, 14 Oct 2026 03:23:40 GMT",
       "source": "France24",
@@ -1483,10 +1493,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkey police raid opposition TV station, halting live broadcasts",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "description": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
       "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 06:32:02 GMT",
+      "published": "Wed, 14 Oct 2026 08:17:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1558,6 +1568,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 00:59:16 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+      "description": "The US president also praises the security advantages of last month's deal with Denmark and Greenland.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 08:08:42 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1667,26 +1687,6 @@
       "description": "The cultural exchange comes amid strengthening ties between the two countries.",
       "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
       "published": "Wed, 14 Oct 2026 03:23:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-      "description": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-      "published": "Wed, 14 Oct 2026 03:09:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-      "description": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
-      "published": "Wed, 14 Oct 2026 03:06:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1807,16 +1807,6 @@
       "description": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3% Business live – latest updates VW boss backs EU plan to bolster domestic industry The EU is to limit the number of hybrid electric vehicles imported from China to 350,000 cars a year, the European Commission has confirmed. Imports have been soaring in the past two years; about 800,000 battery and plug-in hybrids are likely to be sold this year. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
       "published": "Mon, 12 Oct 2026 11:23:55 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Beau Lamarre-Condon previously visited farm where he later allegedly tried to sink bodies, court told",
-      "description": "Jury also shown 3D reconstruction of Paddington terrace outlining prosecution version of alleged murders of Jesse Baird and Luke Davies Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Beau Lamarre-Condon previously visited a farm where he later tried to sink the bodies of Jesse Baird and Luke Davies, the prosecution has told a Sydney court. The rural property belonged to the family of a man the police officer had met on a dating app and the two visited the farm together months before the alleged murders. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
-      "published": "Wed, 14 Oct 2026 04:45:06 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2043,8 +2033,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Kabila launches new coalition with M23",
-      "description": "In tonight's edition, Joseph Kabila has been named leader of a new rebel coalition, vowing to topple the government. Also, Africa's largest ever IPO has been extended. And Formula ⁠1 ⁠will return to ⁠Africa in ​the early 2030s, once a new circuit is built in Rwanda.",
+      "title": "DR Congo's Kabila launches new coalition with M23",
+      "description": "In tonight's edition: DR Congo's former president Joseph Kabila has been named leader of a new rebel coalition, vowing to topple the Congolese government. Also, Africa's largest ever IPO has been extended. Plus Formula ⁠1 ⁠will return to ⁠Africa in ​the early 2030s, once a new circuit is built in Rwanda.",
       "url": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
       "published": "Tue, 13 Oct 2026 20:21:31 GMT",
       "source": "France24",
@@ -2073,10 +2063,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
-      "description": "Taiwan planned to buy liquefied natural gas from a U.S. project after extraction and could invest up to $4.4 billion in it",
-      "url": "https://abcnews.com/International/wireStory/taiwan-plans-buy-liquefied-natural-gas-alaska-pipeline-137249105",
-      "published": "Wed, 14 Oct 2026 03:25:59 -0400",
+      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
+      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
+      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
+      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Passenger train derails in central Pakistan, killing at least 5 and injuring 35",
+      "description": "Officials in Pakistan say a passenger train has derailed, killing five people and injuring 35 others",
+      "url": "https://abcnews.com/International/wireStory/passenger-train-derails-central-pakistan-killing-5-people-137215537",
+      "published": "Tue, 13 Oct 2026 11:18:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
-      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
-      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
-      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
+      "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
+      "description": "Taiwan planned to buy liquefied natural gas from a U.S. project after extraction and could invest up to $4.4 billion in it",
+      "url": "https://abcnews.com/International/wireStory/taiwan-plans-buy-liquefied-natural-gas-alaska-pipeline-137249105",
+      "published": "Wed, 14 Oct 2026 03:25:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
