@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:12:38.689610Z",
+  "last_updated": "2026-10-14T11:39:17.306067Z",
   "event_count": 225,
   "events": [
     {
@@ -18,6 +18,16 @@
       "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
       "published": "Fri, 09 Oct 2026 09:59:06 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack",
+      "description": "The Saudi Ministry of Energy says a limited fire broke out in an administrative building in Aramco, one of the world’s largest oil facilities, that was targeted in the country's Eastern Province",
+      "url": "https://abcnews.com/International/wireStory/saudi-ministry-energy-reports-limited-fire-building-aramco-137224745",
+      "published": "Wed, 14 Oct 2026 02:02:15 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical"
@@ -233,6 +243,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "description": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 11:16:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "China’s exports surge amid AI-driven demand",
       "description": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
       "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
@@ -383,31 +403,11 @@
       "severity_level": "High"
     },
     {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
-      "description": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-      "published": "Wed, 14 Oct 2026 07:08:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Adult victims of arson attack which also killed two children are named",
       "description": "Two adults who died alongside two children following an arson attack at a home in Ireland have been named as Philip and Kim English.",
       "url": "https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691",
       "published": "Tue, 13 Oct 2026 10:25:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Drones hit ships in Black Sea, sinking 1, prompting rescue operations, Bulgaria says",
-      "description": "Bulgarian Prime Minister Rumen Radev says drones struck two ships in the Black Sea, sinking one and prompting emergency rescue operations",
-      "url": "https://abcnews.com/International/wireStory/drones-hit-ships-black-sea-sinking-1-prompting-137216478",
-      "published": "Tue, 13 Oct 2026 07:30:25 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -523,9 +523,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-      "description": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany news: Merz to set out EU priorities after urging reforms",
+      "description": "Chancellor Merz is giving a major policy statement. Meanwhile, a Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-merz-to-set-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 14 Oct 2026 06:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -560,6 +560,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+      "description": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:33:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -663,20 +673,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
-      "description": "The first flight carrying third-country nationals from the U.S. has arrived in Jamaica",
-      "url": "https://abcnews.com/International/wireStory/jamaica-begins-receiving-country-deportees-controversial-us-agreement-137242759",
-      "published": "Tue, 13 Oct 2026 19:52:00 -0400",
+      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines",
+      "description": "A former Ukrainian army officer is going on trial in Germany over undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany four years ago",
+      "url": "https://abcnews.com/International/wireStory/former-ukrainian-officer-trial-sabotage-nord-stream-pipelines-137247789",
+      "published": "Wed, 14 Oct 2026 01:22:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines",
-      "description": "A former Ukrainian army officer is going on trial in Germany over undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany four years ago",
-      "url": "https://abcnews.com/International/wireStory/former-ukrainian-officer-trial-sabotage-nord-stream-pipelines-137247789",
-      "published": "Wed, 14 Oct 2026 01:22:45 -0400",
+      "title": "Jamaica begins receiving third-country deportees under controversial US agreement",
+      "description": "The first flight carrying third-country nationals from the U.S. has arrived in Jamaica",
+      "url": "https://abcnews.com/International/wireStory/jamaica-begins-receiving-country-deportees-controversial-us-agreement-137242759",
+      "published": "Tue, 13 Oct 2026 19:52:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1023,10 +1033,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Poland blames Starlink sabotage on Russia",
-      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
-      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
-      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
+      "title": "Colombia's peace tribunal says former rebel leaders committed war crimes against Indigenous groups",
+      "description": "Colombia’s transitional justice system has charged 10 former members of the rebel Revolutionary Armed Forces of Colombia with war crimes and crimes against humanity",
+      "url": "https://abcnews.com/International/wireStory/colombias-peace-tribunal-former-rebel-leaders-committed-war-137237901",
+      "published": "Tue, 13 Oct 2026 17:18:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Spy chief says Iran targeting military sites, suspected plot at RAF base 'not unique’",
+      "description": "The head of MI5 says Iran is trying to hit military sites in the U.K. and the suspected plot to attack a U.S.-run military air base in September is not unique",
+      "url": "https://abcnews.com/International/wireStory/mi5-chief-iran-targeting-military-sites-suspected-plot-137221223",
+      "published": "Tue, 13 Oct 2026 09:06:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1047,6 +1067,16 @@
       "description": "Spain's King Felipe VI and Queen Letizia have visited Ceuta to show solidarity with residents facing a migration crisis",
       "url": "https://abcnews.com/International/wireStory/spains-king-queen-visit-ceuta-territory-grapples-protracted-137218149",
       "published": "Wed, 14 Oct 2026 03:22:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Poland blames Starlink sabotage on Russia",
+      "description": "Poland blames Russia for an arson attack on a Starlink satellite station in September and two Turkish citizens have been arrested in connection with the sabotage",
+      "url": "https://abcnews.com/International/wireStory/poland-blames-starlink-sabotage-russia-137218051",
+      "published": "Tue, 13 Oct 2026 07:38:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1150,16 +1180,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 04:20:17 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1293,16 +1313,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "description": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 10:04:28 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
       "description": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
       "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
@@ -1407,16 +1417,6 @@
       "description": "Greta Thunberg has thrown her support behind high school protesters in France",
       "url": "https://abcnews.com/International/wireStory/greta-thunberg-backs-french-high-school-protests-run-137228898",
       "published": "Wed, 14 Oct 2026 02:19:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A generation of angry young Indians takes to the streets to challenge Modi",
-      "description": "Protests erupted in New Delhi on Saturday as young Indians rallied against a voter list purge they say favors Prime Minister Narendra Modi’s party",
-      "url": "https://abcnews.com/International/wireStory/generation-angry-young-indians-takes-streets-challenge-modi-137214686",
-      "published": "Tue, 13 Oct 2026 01:12:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1543,10 +1543,20 @@
       "severity_level": "Low"
     },
     {
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:32:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "description": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 08:53:40 GMT",
+      "published": "Wed, 14 Oct 2026 11:17:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1633,6 +1643,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "description": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 11:05:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
       "description": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
       "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
@@ -1707,16 +1727,6 @@
       "description": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
       "url": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
       "published": "Wed, 14 Oct 2026 07:31:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
-      "description": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
-      "url": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
-      "published": "Wed, 14 Oct 2026 07:05:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1906,7 +1916,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-14T10:44:36.372Z",
+      "published": "2026-10-14T11:26:36.945Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2073,20 +2083,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
-      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
-      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
-      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Passenger train derails in central Pakistan, killing at least 5 and injuring 35",
-      "description": "Officials in Pakistan say a passenger train has derailed, killing five people and injuring 35 others",
-      "url": "https://abcnews.com/International/wireStory/passenger-train-derails-central-pakistan-killing-5-people-137215537",
-      "published": "Tue, 13 Oct 2026 11:18:48 -0400",
+      "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
+      "description": "Taiwan planned to buy liquefied natural gas from a U.S. project after extraction and could invest up to $4.4 billion in it",
+      "url": "https://abcnews.com/International/wireStory/taiwan-plans-buy-liquefied-natural-gas-alaska-pipeline-137249105",
+      "published": "Wed, 14 Oct 2026 03:25:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2103,10 +2103,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
-      "description": "Taiwan planned to buy liquefied natural gas from a U.S. project after extraction and could invest up to $4.4 billion in it",
-      "url": "https://abcnews.com/International/wireStory/taiwan-plans-buy-liquefied-natural-gas-alaska-pipeline-137249105",
-      "published": "Wed, 14 Oct 2026 03:25:59 -0400",
+      "title": "20 green sea turtles returned to the ocean after Bali smuggling raid",
+      "description": "Indonesian authorities on the tourist island of Bali have released 20 protected green sea turtles back into the ocean Tuesday",
+      "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772",
+      "published": "Tue, 13 Oct 2026 05:38:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
