@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T00:32:14.120329Z",
+  "last_updated": "2026-10-14T01:22:00.899457Z",
   "event_count": 224,
   "events": [
     {
@@ -80,6 +80,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Kyiv power plant hit by Russian missile without warning from allies",
+      "description": "Ukraine's President Volodymyr Zelensky said Tuesday that a Russian ballistic missile struck a Kyiv power plant without advance warning from Western allies, killing at least two people and wounding around 20. The attack came days after US President Donald Trump announced an energy ceasefire between Moscow and Kyiv, raising questions over efforts to halt strikes on critical infrastructure.",
+      "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
+      "published": "Wed, 14 Oct 2026 00:41:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -193,16 +203,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Transit worker allegedly killed by felon on electronic monitoring despite repeated probation violations",
-      "description": "The suspect in the fatal CTA stabbing allegedly robbed the victim and had four probation violations with an ankle monitor at the time of the attack.",
-      "url": "https://www.foxnews.com/us/transit-worker-allegedly-killed-felon-electronic-monitoring-despite-repeated-probation-violations",
-      "published": "Mon, 12 Oct 2026 17:53:25 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
       "description": "At least 23 protesters have been arrested in demonstrations in the capital.",
       "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
@@ -263,20 +263,20 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran seeking 'harder targets' for attacks abroad, UK warns",
-      "description": "The warning from the head of the UK's domestic security agency comes after PM Burnham said an attempted plot at an air force base hosting US bombers was \"almost certainly\" coordinated in Tehran.",
-      "url": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 17:23:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "description": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her. Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+      "published": "Wed, 14 Oct 2026 00:53:36 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
     },
     {
-      "title": "Formula 1: Rwanda to bring sport back to Africa",
-      "description": "The last time Formula 1 hosted a race in Africa was way back in 1993. But a new track in Rwanda is set to host a Grand Prix in \"the early 2030s,\" continuing the country’s investment in international sport.",
-      "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 13 Oct 2026 11:20:00 GMT",
+      "title": "Iran seeking 'harder targets' for attacks abroad, UK warns",
+      "description": "The warning from the head of the UK's domestic security agency comes after PM Burnham said an attempted plot at an air force base hosting US bombers was \"almost certainly\" coordinated in Tehran.",
+      "url": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 17:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
@@ -448,6 +448,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 20:33:10 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia detains Japanese journalist, accusing him of alleged spying",
+      "description": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of espionage, Moscow said on Tuesday. Russia regards Japan as an “unfriendly” country because it has joined western sanctions over its war ⁠in Ukraine. Russia has arrested several citizens of “unfriendly” countries in recent years, accusing them of working for western intelligence services. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "published": "Wed, 14 Oct 2026 01:05:25 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -663,11 +673,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "description": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 00:45:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
       "description": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
       "published": "Wed, 14 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+      "description": "Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of intercepted missiles in Riyadh. DW has the latest.",
+      "url": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 14 Oct 2026 00:50:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -688,6 +718,16 @@
       "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
       "published": "Mon, 12 Oct 2026 16:56:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Attorney says fatal Six Flags roller coaster accident could raise broader safety questions as 9 rides close",
+      "description": "A personal injury attorney outlines potential liability as investigators examine the fatal roller coaster accident at Six Flags Over Georgia.",
+      "url": "https://www.foxnews.com/us/attorney-says-fatal-six-flags-roller-coaster-accident-could-raise-broader-safety-questions-9-rides-close",
+      "published": "Tue, 13 Oct 2026 20:47:21 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -793,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
-      "description": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promised by Nato members for defence because “the climate issue is the security issue”, the host of the next UN summit has said. But, in comments that are likely to prove contentious, the Cop31 president-designate, Murat Kurum, hedged on whether countries should try to repeat a previous agreement to “transition away from fossil fuels” – the primary cause of the climate crisis – when they meet in Turkey next month. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
-      "published": "Fri, 09 Oct 2026 12:00:28 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Digital distrust and polarisation: 'We need to get back to engaging with one another as a society'",
       "description": "François Picard is pleased to welcome Valdemar Osted, partner and head of technology at Danish digital consultancy Common Consultancy. Can the fear of disinformation become as dangerous to democracy as disinformation itself? Osted challenges widely circulated claims that attacks on Russian data centres have triggered a sudden collapse in online engagement among supporters of Donald Trump and Germany's far-right Alternative for Germany (AfD). Drawing on social media monitoring and research into inauthentic behaviour, Osted reports finding no unusual decline in Facebook interactions following the attacks.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261013-digital-distrust-and-polarisation-we-need-to-get-back-to-engaging-with-one-another-as-a-society",
@@ -823,10 +853,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-      "description": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 20:00:32 +0000",
+      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "description": "Foot-and-mouth disease threatens livestock farmers’ livelihoods and disrupts meat supplies as authorities impose curbs.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 01:07:46 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -993,20 +1023,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
-      "description": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair dismissal case, but failed to be awarded compensation. The Fair Work Commission ruled on Wednesday that Charles Graham had been unfairly dismissed by HIFX Australia, trading as Xe, in December last year. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
-      "published": "Fri, 09 Oct 2026 05:55:27 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark; PM and king of Jordan shake hands on defence and security",
       "description": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource. We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare. Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard. The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-      "published": "Wed, 14 Oct 2026 00:23:48 GMT",
+      "published": "Wed, 14 Oct 2026 01:08:41 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1213,16 +1233,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Student protesters tell police to join them in Paris demonstrations",
-      "description": "As student-led protests in Paris came to a close on Tuesday, demonstrators chanted \"join us, join us\" to police officers, who took off their helmets to cheers of the crowd. \"When police take off their helmets, it's a sign that things are getting calmer,\" said FRANCE 24 reporter Claire Paccalin. Broader demonstrations are set to take place across France on Saturday over the cost of living, as well as further student protests, with the two potentially merging into a substantial movement. \"But many of the young people I have spoken to today say they will not participate on Saturday,\" Paccalin said.",
-      "url": "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
-      "published": "Tue, 13 Oct 2026 17:04:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Lawyers for Charlie Kirk's accused assassin Tyler Robinson want cameras banned after report on taxpayer burden",
       "description": "Tyler Robinson's defense lawyers argue that cameras at the upcoming hearing could threaten his right to a fair trial in the Charlie Kirk case.",
       "url": "https://www.foxnews.com/us/lawyers-charlie-kirk-accused-assassin-tyler-robinson-want-cameras-banned-report-taxpayer-burden",
@@ -1327,16 +1337,6 @@
       "description": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 21:03:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-      "description": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 19:39:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1463,16 +1463,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "The island where locals say data centres are taking their water",
-      "description": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 22:30:55 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
       "description": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
       "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
@@ -1573,6 +1563,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 00:59:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How podcasts became political powerhouses",
+      "description": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 00:27:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Manchester United’s Martinez blasts board’s lack of investment",
       "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.",
       "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
@@ -1657,16 +1667,6 @@
       "description": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 20:46:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-      "description": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 19:40:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
