@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T10:12:37.763762Z",
+  "last_updated": "2026-10-15T10:40:27.478797Z",
   "event_count": 223,
   "events": [
     {
@@ -103,13 +103,23 @@
       "severity_level": "Critical"
     },
     {
-      "title": "School roof collapse in Pakistan's Peshawar kills at least 27 students, one teacher",
-      "description": "Local authorities said more than three dozen other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
-      "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-27-students-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 15 Oct 2026 07:47:00 GMT",
+      "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
+      "description": "Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
+      "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Oct 2026 10:20:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Dozens of children killed after roof collapses in Pakistani school",
+      "description": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+      "published": "Thu, 15 Oct 2026 10:21:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -254,9 +264,9 @@
     },
     {
       "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-      "description": "Chip makers and tech investors such as Samsung and SoftBank plunge as global investors fret over potential interest rate hikes Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming An accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector. South Korea’s benchmark Kospi 200 index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points. Continue reading...",
+      "description": "Chip makers and tech investors such as Samsung and SoftBank plunge as traders fret over potential interest rate hikes Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming An accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector. South Korea’s benchmark Kospi 200 index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-      "published": "Thu, 15 Oct 2026 08:39:54 GMT",
+      "published": "Thu, 15 Oct 2026 10:24:34 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 20,
@@ -304,7 +314,7 @@
     },
     {
       "title": "School owner arrested after dozens of children killed in roof collapse",
-      "description": "At least 28 children and their teacher have died after a school roof collapsed in Pakistan.",
+      "description": "At least 32 children and their teacher have died after the roof of a private school collapsed in Pakistan.",
       "url": "https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466",
       "published": "Thu, 15 Oct 2026 07:21:00 +0100",
       "source": "Sky News World",
@@ -333,20 +343,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Brazil's elections matter for the planet. This is why.",
+      "title": "Brazil's elections matter for the planet. This is why",
       "description": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
       "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 15 Oct 2026 09:52:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-      "description": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
-      "url": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Oct 2026 14:15:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 17,
@@ -370,6 +370,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "description": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "published": "Thu, 15 Oct 2026 10:02:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -673,16 +683,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Heavy rain causes mass pileup in Brazil tunnel",
-      "description": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 04:19:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -813,16 +813,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Thousands of Colombians march against new right-wing president's policies",
-      "description": "Thousands of Colombians protested peacefully across the country on Wednesday against right-wing President Abelardo de la Espriella, in the opposition’s first major demonstrations since he took office in August. Former leftist president Gustavo Petro led a rally in Bogota joined by trade unionists, Indigenous groups, students and feminist activists.",
-      "url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
-      "published": "Thu, 15 Oct 2026 01:57:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Riots erupt in Albania's capital as students join anti-government movement",
       "description": "Riots have broken out during a student demonstration in Albania’s capital Tirana",
       "url": "https://abcnews.com/International/wireStory/clashes-erupt-albania-protesting-students-join-anti-government-137261398",
@@ -848,6 +838,16 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+      "description": "Yemen's Houthis denied carrying out an attack on Saudi Arabia on Thursday, shortly after Riyadh said it had intercepted a missile targeting the region around the holy city of Medina.",
+      "url": "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile",
+      "published": "Thu, 15 Oct 2026 10:24:35 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1053,16 +1053,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "EU leaders head into high-stakes budget battle as elections loom",
-      "description": "EU leaders on Thursday are holding talks seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming elections, particularly in France, could strengthen eurosceptic forces. German Chancellor Friedrich Merz warned that EU leaders were still \"very far apart\" as he arrived at the summit.",
-      "url": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget",
-      "published": "Thu, 15 Oct 2026 01:59:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "School roof collapse kills at least 28 people in Pakistan",
       "description": "Death toll in Pakistan school roof collapse increases to 28, official says",
       "url": "https://abcnews.com/International/wireStory/school-roof-collapse-kills-10-children-injures-2-137278356",
@@ -1176,7 +1166,7 @@
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 09:10:10 GMT",
+      "published": "Thu, 15 Oct 2026 10:14:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1353,41 +1343,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lula's party to file complaint against Meta over Brazil election interference",
-      "description": "Brazilian President Luiz Inacio Lula da Silva’s party plans to file a complaint against Meta with the Organisation of American States alleging election interference, his campaign said Wednesday. The party accuses Meta of restricting Lula’s online content ahead of the October 25 presidential runoff against far-right Senator Flavio Bolsonaro. Meta denies the allegations.",
-      "url": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
-      "published": "Wed, 14 Oct 2026 23:52:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
       "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 07:20:45 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
-      "description": "At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 04:43:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-      "description": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 04:15:55 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1608,6 +1568,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 23:26:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "description": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "published": "Thu, 15 Oct 2026 10:00:58 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1943,6 +1913,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Germany news: Train station alcohol ban comes into force",
+      "description": "Consuming alcohol is no longer permitted at train stations in Germany, to improve the lot of travelers and staff alike. Coalition talks are restarting in Berlin, and an inmate is loose in Essen. Follow DW for more.",
+      "url": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Oct 2026 10:14:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "EU summit to focus on China, Ukraine and bloc budget",
       "description": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
       "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-xml-mrss",
@@ -1983,10 +1963,30 @@
       "severity_level": "Low"
     },
     {
+      "title": "A cultural stroll through Paris with photographer Nikos Aliagas and writer Jean-Paul Enthoven",
+      "description": "This week in Paris des Arts, Valérie Fayolle hosts Nikos Aliagas, a TV presenter and photographer. He takes us to his exhibit on old age at the Musée de l’Homme.",
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20261015-a-cultural-stroll-through-paris-with-photographer-nikos-aliagas-and-writer-jean-paul-enthoven",
+      "published": "Thu, 15 Oct 2026 10:16:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "🔴Ukraine live: Zelensky calls for US not to stand 'with the aggressor', asks for 'honesty'",
       "description": "No description available.",
       "url": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
       "published": "Thu, 15 Oct 2026 09:21:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "EU leaders head into high-stakes budget battle as elections loom",
+      "description": "EU leaders head to a summit on Thursday seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming elections, particularly in France, could strengthen eurosceptic forces.",
+      "url": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom",
+      "published": "Thu, 15 Oct 2026 06:03:27 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
