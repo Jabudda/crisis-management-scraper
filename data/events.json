@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T02:17:15.541740Z",
+  "last_updated": "2026-10-16T02:43:40.000358Z",
   "event_count": 225,
   "events": [
     {
@@ -208,6 +208,16 @@
       "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
       "published": "Thu, 15 Oct 2026 21:58:33 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
+      "description": "A transgender 19-year-old alleged neo-Nazi plotted an attack on a Hindu temple, but the firearm malfunctioned and a coworker's tip led to an arrest.",
+      "url": "https://www.foxnews.com/us/trans-neo-nazi-accused-plotting-hindu-temple-massacre-receive-hormone-treatment-jail-officials",
+      "published": "Thu, 15 Oct 2026 22:27:48 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -423,6 +433,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+      "description": "US President Donald Trump called Ukraine's renewed strikes on Russian oil refineries a \"disgrace\" after Ukrainian President Volodymyr Zelensky rejected his calls for an \"energy ceasefire.\" Zelensky sought support from European allies earlier that day in Brussels on the sidelines of an EU summit. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
+      "published": "Fri, 16 Oct 2026 01:50:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "19 injured as minibus crashes into train at Channel Tunnel entrance",
       "description": "Nineteen people were injured Thursday when a minibus carrying truck drivers crashed into a vehicle shuttle train at the French entrance to the Channel Tunnel near Calais, forcing a 90-minute suspension of shuttle services. Two people were hospitalised with serious but non-life-threatening injuries, French authorities said.",
       "url": "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance",
@@ -470,6 +490,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Peshawar mourns children killed in school roof collapse",
+      "description": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 02:01:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -610,16 +640,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "description": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 19:44:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -768,16 +788,6 @@
       "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
       "published": "Thu, 15 Oct 2026 23:06:00 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Heavy rain and flooding in Istanbul forces closure of schools",
-      "description": "The Istanbul governor’s office has declared schools closed and placed some public sector workers on leave after heavy rainfalls caused flooding across the city",
-      "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-istanbul-forces-closure-schools-137267243",
-      "published": "Wed, 14 Oct 2026 15:49:37 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -973,11 +983,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "description": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 02:32:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "The not-so-secret vulnerability in Ukraine's drone arsenal? Chinese technology",
+      "description": "Since Russia invaded more than four years ago, Ukraine has become a global leader in military drone innovation",
+      "url": "https://abcnews.com/International/wireStory/secret-vulnerability-ukraines-drone-arsenal-chinese-technology-137247698",
+      "published": "Wed, 14 Oct 2026 03:22:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1030,16 +1060,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Three children and a teacher killed by 16-year-old at Oregon primary school",
-      "description": "A teen assailant was pursued into the school by an armed community member, who shot him dead, said police.",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 01:29:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1097,16 +1117,6 @@
       "description": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
       "published": "Thu, 15 Oct 2026 21:05:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Somalia says it will hold elections in 2027",
-      "description": "Critics say unilateral decision to call polls is a recipe for more conflict.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 20:04:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1263,16 +1273,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Wisconsin plane crash kills 5 adults, child as authorities probe final communications with air traffic control",
-      "description": "A Piper PA-46 crashed in a wooded area in Sauk County, Wisconsin Tuesday night, killing all six people aboard including a child. The FAA is investigating.",
-      "url": "https://www.foxnews.com/us/wisconsin-plane-crash-kills-5-adults-child-authorities-probe-final-communications-air-traffic-control",
-      "published": "Wed, 14 Oct 2026 11:57:52 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Cartels use drones to scout border agents and map smuggling routes, expert warns",
       "description": "The U.S. military detected 378 cartel drone incursions along the Mexico border in 30 days, and experts warn cartels will continue to innovate.",
       "url": "https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns",
@@ -1383,6 +1383,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Argentine students protest on campus over Milei’s austerity",
+      "description": "Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 02:11:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Clashes erupt at protest over university funding law in Argentina",
       "description": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
@@ -1403,20 +1413,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
-      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
-      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
-      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
+      "title": "An increase in killings of women in Cameroon spurs protests",
+      "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
+      "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
+      "published": "Thu, 15 Oct 2026 01:38:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "An increase in killings of women in Cameroon spurs protests",
-      "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
-      "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
-      "published": "Thu, 15 Oct 2026 01:38:30 -0400",
+      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
+      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
+      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
+      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1663,6 +1673,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Progressives, AIPAC and the future of the Democratic Party",
+      "description": "Mehdi Hasan goes Head to Head with ex-Biden official Neera Tanden on the Democratic Party’s chances in the US midterms.",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 02:01:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "description": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
       "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
@@ -1707,16 +1727,6 @@
       "description": "Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions.",
       "url": "https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss",
       "published": "Thu, 15 Oct 2026 20:12:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-      "description": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 20:07:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2063,50 +2073,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why have US-Ukraine relations soured ahead of the midterms?",
-      "description": "Ukraine's President Volodymyr Zelensky said he felt “betrayed” on Wednesday after access was seemingly restricted to US intelligence and Space X satellite services, raising new questions about US commitment to Ukraine. With Trump under pressure over rising fuel prices, is the White House hoping criticism of Kyiv can help shift the blame?",
-      "url": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms",
-      "published": "Thu, 15 Oct 2026 17:54:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
-      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
-      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
-      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
-      "description": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
-      "url": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
-      "published": "Thu, 15 Oct 2026 07:36:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
-      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
-      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
-      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "New China-North Korea bridge opens after more than a decade of delay",
-      "description": "A new bridge linking China and North Korea has opened after more than a decade of delay It's being touted as a symbol of the neighbors' traditional friendship and it signals deeper ties between the countries",
-      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
-      "published": "Thu, 15 Oct 2026 07:06:14 -0400",
+      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
+      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2123,10 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
-      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
-      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
-      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
+      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
+      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
+      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
+      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2143,10 +2113,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
-      "description": "Zimbabwean author Simbarashe Kundizeza denies using AI to write his short story, \"The Blue Fighter,\" which won the $10,000 Caine Prize for African Writing",
-      "url": "https://abcnews.com/International/wireStory/zimbabwes-caine-prize-winner-rejects-claim-ai-write-137269798",
-      "published": "Wed, 14 Oct 2026 16:53:26 -0400",
+      "title": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
+      "description": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
+      "url": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
+      "published": "Thu, 15 Oct 2026 07:36:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
+      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
+      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
+      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "New China-North Korea bridge opens after more than a decade of delay",
+      "description": "A new bridge linking China and North Korea has opened after more than a decade of delay It's being touted as a symbol of the neighbors' traditional friendship and it signals deeper ties between the countries",
+      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
+      "published": "Thu, 15 Oct 2026 07:06:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Building housing London's oldest restaurant is donated to a conservation charity",
+      "description": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
+      "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
+      "published": "Wed, 14 Oct 2026 10:38:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
