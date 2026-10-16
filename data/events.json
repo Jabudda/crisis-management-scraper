@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T01:20:06.141426Z",
+  "last_updated": "2026-10-16T01:45:24.415227Z",
   "event_count": 225,
   "events": [
     {
@@ -110,16 +110,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 4, including 3 children, killed in US elementary school shooting",
-      "description": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 22:51:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -463,6 +453,16 @@
       "severity_level": "High"
     },
     {
+      "title": "At least 4, including 3 children, killed in US elementary school shooting",
+      "description": "The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+      "published": "Thu, 15 Oct 2026 22:51:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
       "description": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.",
       "url": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
@@ -743,6 +743,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Heavy rain and flooding in Istanbul forces closure of schools",
+      "description": "The Istanbul governor’s office has declared schools closed and placed some public sector workers on leave after heavy rainfalls caused flooding across the city",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-istanbul-forces-closure-schools-137267243",
+      "published": "Wed, 14 Oct 2026 15:49:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Zelenskyy accuses Putin of defying Trump's ceasefire push, sends pointed message to White House",
       "description": "Volodymyr Zelenskyy accuses Vladimir Putin of attacking Ukraine's gas infrastructure hours after Trump announced an immediate energy ceasefire.",
       "url": "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
@@ -958,16 +968,6 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The not-so-secret vulnerability in Ukraine's drone arsenal? Chinese technology",
-      "description": "Since Russia invaded more than four years ago, Ukraine has become a global leader in military drone innovation",
-      "url": "https://abcnews.com/International/wireStory/secret-vulnerability-ukraines-drone-arsenal-chinese-technology-137247698",
-      "published": "Wed, 14 Oct 2026 03:22:21 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1373,6 +1373,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Clashes erupt at protest over university funding law in Argentina",
+      "description": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 01:19:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
       "description": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, two of them severely. Authorities launched an inquiry into what caused the accident.",
       "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
@@ -1383,20 +1393,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "An increase in killings of women in Cameroon spurs protests",
-      "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
-      "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
-      "published": "Thu, 15 Oct 2026 01:38:30 -0400",
+      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
+      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
+      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
+      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
-      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
-      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
-      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
+      "title": "An increase in killings of women in Cameroon spurs protests",
+      "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
+      "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
+      "published": "Thu, 15 Oct 2026 01:38:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1707,16 +1717,6 @@
       "description": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.",
       "url": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
       "published": "Thu, 15 Oct 2026 18:57:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "description": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 18:41:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2073,30 +2073,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
-      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
-      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
-      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "China opens joint airfield in Laos with eyes on its military role",
-      "description": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
-      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
-      "published": "Thu, 15 Oct 2026 02:55:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
-      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
-      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
-      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
+      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
+      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
+      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
+      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2113,20 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Costa Rica opens a Bukele-style mega-prison. Here's how it got here",
-      "description": "Costa Rica has made fighting drug trafficking a main goal, inspired by El Salvador's hardline approach",
-      "url": "https://abcnews.com/International/wireStory/costa-rica-opens-bukele-style-mega-prison-137275010",
-      "published": "Thu, 15 Oct 2026 02:57:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
-      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
-      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
-      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
+      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
+      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
+      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
+      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2143,10 +2113,40 @@
       "severity_level": "Low"
     },
     {
-      "title": "Building housing London's oldest restaurant is donated to a conservation charity",
-      "description": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
-      "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
-      "published": "Wed, 14 Oct 2026 10:38:17 -0400",
+      "title": "China opens joint airfield in Laos with eyes on its military role",
+      "description": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
+      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+      "published": "Thu, 15 Oct 2026 02:55:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
+      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Costa Rica opens a Bukele-style mega-prison. Here's how it got here",
+      "description": "Costa Rica has made fighting drug trafficking a main goal, inspired by El Salvador's hardline approach",
+      "url": "https://abcnews.com/International/wireStory/costa-rica-opens-bukele-style-mega-prison-137275010",
+      "published": "Thu, 15 Oct 2026 02:57:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
+      "description": "Zimbabwean author Simbarashe Kundizeza denies using AI to write his short story, \"The Blue Fighter,\" which won the $10,000 Caine Prize for African Writing",
+      "url": "https://abcnews.com/International/wireStory/zimbabwes-caine-prize-winner-rejects-claim-ai-write-137269798",
+      "published": "Wed, 14 Oct 2026 16:53:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
