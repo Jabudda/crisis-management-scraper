@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T10:11:12.994935Z",
-  "event_count": 224,
+  "last_updated": "2026-10-17T10:35:59.994946Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
@@ -50,16 +50,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Wildfire traps firefighters and volunteers in Indonesia national park, killing 4",
-      "description": "Four people have died and two others have suffered severe burns while battling a wildfire in Bromo Tengger Semeru National Park in Indonesia's East Java after becoming trapped by thick smoke and fast-moving flames",
-      "url": "https://abcnews.com/International/wireStory/wildfire-traps-firefighters-volunteers-indonesias-mount-bromo-national-137310678",
-      "published": "Fri, 16 Oct 2026 02:21:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -373,21 +363,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Pope Leo denounces death penalty as 'inadmissible' ahead of Pentagon's planned livestreamed execution",
-      "description": "Pope Leo XIV called the death penalty \"inadmissible\" on World Day Against the Death Penalty after the Pentagon announced plans to livestream an execution.",
-      "url": "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution",
-      "published": "Mon, 12 Oct 2026 00:06:59 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 14:31:04 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "description": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 09:44:47 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -450,6 +440,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "LIVE: India vs West Indies – fifth T20 International",
+      "description": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 09:54:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -753,16 +753,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Italy's air traffic cut 50% after network problems as delays spread nationwide",
-      "description": "Italy has halved the number of aircraft in its airspace after overnight issues hit the data transmission network for air traffic control",
-      "url": "https://abcnews.com/International/wireStory/italys-air-traffic-cut-50-after-network-problems-137312084",
-      "published": "Fri, 16 Oct 2026 05:19:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
       "description": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
@@ -771,6 +761,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "description": "With Southeast Asia's largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 10:12:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
@@ -903,30 +903,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Sudan’s army claims killing of dozens of RSF fighters in Nyala attack",
-      "description": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 09:44:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
       "description": "Low-income countries spend up to 14 percent of their revenue on debt repayments, IMF chief says.",
       "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
       "published": "Sat, 17 Oct 2026 09:31:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "description": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 05:00:58 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1013,6 +993,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "UK advises against all but essential travel to Saudi Arabia",
+      "description": "The UK has advised against all but essential travel to Saudi Arabia after attacks by Yemen's Houthis in the region.",
+      "url": "https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096",
+      "published": "Sat, 17 Oct 2026 11:21:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Madeleine McCann prime suspect could face new rape trial",
       "description": "The prime suspect in the Madeleine McCann case could face a new rape trial after German prosecutors launched a legal bid to overturn his acquittal on a string of sex charges, unrelated to the missing British girl.",
       "url": "https://news.sky.com/story/christian-b-madeleine-mccann-prime-suspect-could-face-new-rape-trial-as-prosecutors-fight-to-overturn-acquittal-13599922",
@@ -1087,16 +1077,6 @@
       "description": "A barrel containing human remains surfaced at Lake Mead in 2022, and Las Vegas authorities now say they've identified the suspected murder victim.",
       "url": "https://www.foxnews.com/us/las-vegas-investigators-identified-shooting-victim-body-found-lake-mead-barrel",
       "published": "Thu, 15 Oct 2026 14:26:26 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Woman dies after older boyfriend hunted her down at bar, charge upgraded to murder",
-      "description": "A Florida man faces first-degree murder and child abuse charges after allegedly shooting his girlfriend, running her over and fleeing with a child in his vehicle.",
-      "url": "https://www.foxnews.com/us/watch-bodycam-shows-arrest-man-allegedly-hunted-younger-girlfriend-down-bar-shot-ran-her-over",
-      "published": "Thu, 15 Oct 2026 11:45:28 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1293,6 +1273,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Protesters across France rally over rising living costs, joining students' grievances",
+      "description": "Protesters across France have called for demonstrations against rising living costs, joining high school students demanding better education conditions",
+      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
+      "published": "Sat, 17 Oct 2026 06:08:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Fire guts a Bangladeshi beach resort, killing 10 people",
+      "description": "A fire has gutted a beach resort in southeastern Bangladesh, killing 10 people and injuring four",
+      "url": "https://abcnews.com/International/wireStory/fire-guts-bangladeshi-beach-resort-killing-10-people-137342617",
+      "published": "Sat, 17 Oct 2026 06:06:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Lebanon opens investigation into Syrian militia leader's abduction and transfer to Syria",
       "description": "Lebanese authorities are investigating how a former Syrian militia commander was kidnapped in Lebanon and taken to Syria",
       "url": "https://abcnews.com/International/wireStory/lebanon-opens-investigation-syrian-militia-leaders-abduction-transfer-137331427",
@@ -1438,6 +1438,16 @@
       "url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
       "published": "Fri, 16 Oct 2026 15:40:54 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers",
+      "description": "ChinaAid founder Bob Fu says reports of Pastor Wang Yi's advanced liver cancer in a Chinese prison are credible but cannot be independently verified.",
+      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+      "published": "Sat, 17 Oct 2026 06:00:44 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1603,6 +1613,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+      "description": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 09:47:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
       "description": "101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.",
       "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
@@ -1677,26 +1697,6 @@
       "description": "A Mexican judge sentenced the three men for the 2024 murders a week after they were found guilty.",
       "url": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
       "published": "Sat, 17 Oct 2026 05:01:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "description": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 04:58:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump puts on hold new Russia sanctions he signed into law",
-      "description": "US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 04:45:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1933,6 +1933,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Germany news: Merz faces conservative youth wing in Bonn",
+      "description": "Friedrich Merz, who has struggled for support within his party, on Saturday meets with the CDU/CSU's 90,000-strong Young Union. In Schleswig-Holstein, 3,000 people are expected at an AfD youth rally. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Oct 2026 10:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
       "description": "CJP's Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi on Friday. DW has more.",
       "url": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
@@ -1997,16 +2007,6 @@
       "description": "The Vatican has said that Pope Leo XIV is recovering from lung surgery. Photos released on Friday showed the pontiff celebrating Mass at Rome's Gemelli Hospital unaided.",
       "url": "https://www.dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Oct 2026 15:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The EU wants an AI revolution. But on whose terms?",
-      "description": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
-      "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 13:12:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2094,9 +2094,9 @@
     },
     {
       "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
-      "description": "Three Mexican men have been sentenced to more than 158 years in prison each for the 2024 murders of two Australian brothers and their American friend in a case that tarnished Mexico’s image by exposing the risks foreigners face when visiting the touris...",
+      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
       "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
-      "published": "Sat, 17 Oct 2026 01:10:08 -0400",
+      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2158,6 +2158,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
       "published": "Fri, 16 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Alex Murdaugh's defense makes 'high risk' move to show DNA proves he didn't kill family, prosecutor says",
+      "description": "Alex Murdaugh's defense team is betting on a Y-STR DNA test by Othram that prosecutors call \"high risk\" ahead of his April 2027 murder retrial.",
+      "url": "https://www.foxnews.com/us/alex-murdaugh-defense-high-risk-move-show-dna-proves-didnt-kill-family-prosecutor-says",
+      "published": "Sat, 17 Oct 2026 06:00:28 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
