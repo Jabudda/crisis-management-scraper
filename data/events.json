@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T05:38:07.662968Z",
-  "event_count": 224,
+  "last_updated": "2026-10-17T06:19:04.080466Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
@@ -120,6 +120,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "description": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
+      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Oct 2026 06:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+      "description": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Yemenia Airways flight bound for Cairo had been preparing for takeoff when the attack took place.",
+      "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
+      "published": "Sat, 17 Oct 2026 06:00:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -313,16 +333,6 @@
       "severity_level": "High"
     },
     {
-      "title": "School owner arrested after dozens of children killed in roof collapse",
-      "description": "At least 34 children and a teacher have died after the roof of a private school collapsed in Pakistan.",
-      "url": "https://news.sky.com/story/at-least-34-children-killed-in-pakistan-school-collapse-13599466",
-      "published": "Thu, 15 Oct 2026 07:21:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Femicide in Iran: When 'honor' becomes a death sentence",
       "description": "The murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women and the lack of protection for people vulnerable to gender-based violence.",
       "url": "https://www.dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977?maca=en-rss-en-all-1573-xml-mrss",
@@ -438,6 +448,16 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
       "published": "Fri, 16 Oct 2026 22:38:04 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "US: Homes burned in California as wildfires rage",
+      "description": "Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze.",
+      "url": "https://www.dw.com/en/us-homes-burned-in-california-as-wildfires-rage/a-79685480?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Oct 2026 06:08:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -588,6 +608,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 15:26:16 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+      "description": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine's power grid.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 05:19:19 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -773,6 +803,16 @@
       "severity_level": "High"
     },
     {
+      "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
+      "description": "Experts say balancing the need to govern AI for public safety with user privacy is 'extraordinarily difficult'.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 05:50:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Albania’s PM blames ‘foreign hands’ for protests",
       "description": "Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
@@ -807,16 +847,6 @@
       "description": "The first two confirmed Ebola cases in Kenya have raised urgent questions about the country's public health preparedness and border controls. But the Health Ministry says there is no need for panic.",
       "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Oct 2026 10:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Clashes erupt at Argentine student protests against President Milei's austerity policies",
-      "description": "Demonstrators clashed with police as President Javier Milei's decision not to release funding for universities brought students and employees to the streets. Protesters say the country's future is at stake.",
-      "url": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 09:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
@@ -1027,16 +1057,6 @@
       "description": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
       "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
       "published": "Sat, 17 Oct 2026 00:25:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-      "description": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
-      "published": "Fri, 16 Oct 2026 21:08:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1263,16 +1283,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Ibrahim Mahama's abundant artistic harvest",
-      "description": "His monumental installations excavate Ghana's past and build firm foundations for the country’s artistic future. Ibrahim Mahama has represented his country at the Venice Biennale and established three cultural hubs in northern Ghana, nurturing creative communities for generations to come.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261016-ibrahim-mahama-s-abundant-artistic-harvest",
-      "published": "Fri, 16 Oct 2026 14:55:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
       "description": "Two missiles have struck the airport in Yemen’s port city of Aden, according to police",
       "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824",
@@ -1347,16 +1357,6 @@
       "description": "Empty lecture halls, burning buildings and demands for change: Albanian students are spearheading a protest movement that has become the biggest challenge to Prime Minister Edi Rama in years.",
       "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Oct 2026 14:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Italy cuts air traffic in half amid data transmission issue",
-      "description": "Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.",
-      "url": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 10:37:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1450,16 +1450,6 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "description": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-      "published": "Fri, 16 Oct 2026 21:08:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low"
     },
     {
