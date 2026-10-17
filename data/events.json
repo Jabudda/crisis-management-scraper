@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T08:14:53.918874Z",
+  "last_updated": "2026-10-17T08:39:50.928374Z",
   "event_count": 223,
   "events": [
     {
@@ -180,6 +180,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Wildfire prompts thousands of evacuation orders in Orange County",
+      "description": "Firefighters are battling fast-moving wildfires in Orange County as Santa Ana winds fan the flames.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 08:03:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -428,16 +438,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 14:31:04 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
-      "description": "Eleven people are believed to be still missing, with rescue operations under way.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 01:33:37 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -903,6 +903,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
+      "description": "Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were from.",
+      "url": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Oct 2026 08:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
       "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
       "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
@@ -977,16 +987,6 @@
       "description": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
       "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
       "published": "Sat, 17 Oct 2026 05:00:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Oregon school shooter was former special needs student, police say",
-      "description": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 00:25:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1613,6 +1613,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Oregon school shooter was former special-needs student, police say",
+      "description": "Oregon school shooter was former special-needs student, police say",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+      "published": "Sat, 17 Oct 2026 08:04:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
       "description": "Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.",
       "url": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
@@ -2007,16 +2017,6 @@
       "description": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
       "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Oct 2026 13:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "India's young workers have a new colleague: AI",
-      "description": "Artificial intelligence is changing the way Indian workplaces operate — raising questions about productivity, skills and entry-level jobs.",
-      "url": "https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 11:22:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
