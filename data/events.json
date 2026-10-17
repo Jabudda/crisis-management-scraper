@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T06:19:04.080466Z",
+  "last_updated": "2026-10-17T06:47:54.115307Z",
   "event_count": 223,
   "events": [
     {
@@ -553,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 05:02:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
       "description": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
       "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
@@ -843,16 +833,6 @@
       "severity_level": "High"
     },
     {
-      "title": "How prepared is Kenya for an Ebola outbreak?",
-      "description": "The first two confirmed Ebola cases in Kenya have raised urgent questions about the country's public health preparedness and border controls. But the Health Ministry says there is no need for panic.",
-      "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 10:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Live: France's Yellow Vests throw their weight behind mounting student protests",
       "description": "Hundreds of thousands of ⁠people are expected to ​demonstrate across France on Saturday as students, trade union members and remnants of the Yellow Vest movement join forces to protest rising cost of living and ​the country's fraying social model. Follow our liveblog for the latest developments.",
       "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
@@ -888,6 +868,16 @@
       "url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
       "published": "Fri, 16 Oct 2026 15:36:16 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+      "description": "Yemen's Iran-backed Houthi rebels have showcased their growing military capabilities, repeatedly striking the airport in Saudi Arabia's capital and seizing territory near a key shipping chokepoint",
+      "url": "https://abcnews.com/International/wireStory/houthi-strikes-saudi-arabia-show-yemeni-rebels-growing-137341692",
+      "published": "Sat, 17 Oct 2026 02:38:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -956,7 +946,7 @@
       "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
       "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
       "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
-      "published": "Sat, 17 Oct 2026 01:13:27 -0400",
+      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -980,6 +970,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 06:39:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1387,16 +1387,6 @@
       "description": "Indian authorities have increased security in New Delhi and closed a central park ahead of a flag-waving protest by the youth \"Cockroach\" movement",
       "url": "https://abcnews.com/International/wireStory/indian-authorities-tighten-security-new-delhi-ahead-cockroach-137313289",
       "published": "Fri, 16 Oct 2026 07:08:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Policing of France's school protests clouds Macron's final months and sparks uproar",
-      "description": "In France, teenagers are protesting for better-resourced schools, leading to clashes with one of Europe's largest internal security forces",
-      "url": "https://abcnews.com/International/wireStory/policing-frances-school-protests-clouds-macrons-final-months-137310490",
-      "published": "Fri, 16 Oct 2026 03:12:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1866,7 +1856,7 @@
       "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - V Time 2026-10-17 05:06:57 UTC 2026-10-17 05:06:57 UTC at epicenter Location 28.018°N 66.171°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-      "published": "2026-10-17T05:32:51.025Z",
+      "published": "2026-10-17T06:34:03.417Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1938,6 +1928,16 @@
       "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
       "published": "Thu, 15 Oct 2026 07:31:25 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
+      "description": "CJP's Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi on Friday. DW has more.",
+      "url": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Oct 2026 06:21:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
