@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T04:40:59.251963Z",
+  "last_updated": "2026-10-18T05:11:34.657306Z",
   "event_count": 220,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "description": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 04:51:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -303,6 +313,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Deaths confirmed in major fire at Canada military base",
+      "description": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 04:00:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Man and woman charged with assault and criminal damage after fatal house fire",
       "description": "A man and a woman have been charged with assault and criminal damage after a fatal house fire in Waterford, Ireland, that killed four members of the same family.",
       "url": "https://news.sky.com/story/man-and-woman-charged-with-assault-and-criminal-damage-after-fatal-house-fire-13600228",
@@ -380,16 +400,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "description": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 19:48:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -583,6 +593,16 @@
       "severity_level": "High"
     },
     {
+      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "description": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 04:21:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
       "description": "Joblessness, failing services and rising costs deepen hardship across the country.",
       "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
@@ -620,16 +640,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "Deadly fire breaks out at Canada military base",
-      "description": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 04:00:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -847,16 +857,6 @@
       "description": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
       "published": "Sat, 17 Oct 2026 20:40:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "description": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 19:26:13 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1363,16 +1363,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "description": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 19:04:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Museum releases historical photos of island where Amelia Earhart may have crashed",
       "description": "Images from New Zealand aerial survey of Nikumaroro in 1938 offer new clues over aviator’s disappearance A New Zealand museum has released nearly 50 photos from a 1938 aerial survey of the island where Amelia Earhart is believed to have crash-landed, offering amateur sleuths new evidence to scour for traces of the pioneering aviator and her plane. The black-and-white images were published by the Air Force Museum of New Zealand after renewed interest in one of the biggest mysteries of the 20th century, spurred by a US expedition to the Pacific atoll of Nikumaroro in search of new clues. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
@@ -1383,20 +1373,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
-      "description": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.",
-      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 18 Oct 2026 00:51:00 GMT",
+      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
+      "description": "Authorities have detained several people over a deadly stampede in India's eastern city of Kolkata, after the state vowed strict action. Meanwhile, 'Cockroach' leader Dipke is out of detention. DW has more.",
+      "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Oct 2026 04:45:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
-      "description": "Authorities have detained several people over a deadly stampede in India's eastern city of Kolkata, after the state vowed strict action. Meanwhile, 'Cockroach' leader Dipke is out of detention.",
-      "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
+      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "description": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.",
+      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Oct 2026 00:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1708,6 +1698,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 18:11:29 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+      "description": "Met Police determine X post by Sarah Helm, seen to endorse Palestine Action, does 'not meet the criminal threshold'.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 04:46:17 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2083,20 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
-      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
-      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
-      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
