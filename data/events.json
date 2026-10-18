@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T01:23:49.787103Z",
+  "last_updated": "2026-10-18T01:47:38.636965Z",
   "event_count": 221,
   "events": [
     {
@@ -170,16 +170,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "description": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 17:18:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -793,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Buildings burn as French protests go into the night",
+      "description": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 01:30:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "description": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. This article was amended on 13 October 2026. A previous version said CIDRAP first reported news that the research trial was approved by the Denmark ethics committee. Rolling Stone had actually reported the news first. Continue reading...",
       "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
@@ -1200,6 +1200,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+      "description": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 01:12:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1703,16 +1713,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "description": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 17:24:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2083,20 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
-      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
-      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
-      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
