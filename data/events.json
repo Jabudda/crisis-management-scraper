@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T08:15:21.714580Z",
+  "last_updated": "2026-10-18T08:40:06.219770Z",
   "event_count": 220,
   "events": [
     {
@@ -218,16 +218,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 01:18:08 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
-      "description": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-      "published": "Sun, 18 Oct 2026 00:00:11 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -684,7 +674,7 @@
     },
     {
       "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
-      "description": "US Secretary of State Marco Rubio said Saturday that President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
+      "description": "US Secretary of State Marco Rubio said Saturday that US President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
       "url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
       "published": "Sun, 18 Oct 2026 02:39:29 GMT",
       "source": "France24",
@@ -943,20 +933,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
-      "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
-      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
-      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
+      "title": "Clashes, fires and looting break out as protesters rally across France",
+      "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
+      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
+      "published": "Sat, 17 Oct 2026 22:50:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Clashes, fires and looting break out as protesters rally across France",
-      "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
-      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
-      "published": "Sat, 17 Oct 2026 22:50:56 -0400",
+      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
+      "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
+      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
+      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1103,11 +1093,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
-      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
-      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
-      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
-      "source": "ABC News International",
+      "title": "UK advises against all but essential travel to Saudi Arabia",
+      "description": "The UK has advised against all but essential travel to Saudi Arabia after attacks by Yemen's Houthis in the region.",
+      "url": "https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096",
+      "published": "Sat, 17 Oct 2026 11:21:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1117,6 +1107,16 @@
       "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
       "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
       "published": "Sat, 17 Oct 2026 13:38:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
+      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
+      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
+      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1663,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "There is no split in MAGA",
+      "description": "But there is an attempt to redefine who the movement includes and what it stands for.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 08:14:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Why Iran-US negotiations keep failing",
       "description": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
       "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
@@ -2013,11 +2023,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pope Leo leaves hospital after lung cancer surgery, the Vatican says",
-      "description": "Pope Leo has left hospital, four days after his lung cancer surgery.",
-      "url": "https://news.sky.com/story/pope-leo-to-leave-hospital-today-after-lung-cancer-surgery-the-vatican-says-13600129",
-      "published": "Sat, 17 Oct 2026 10:40:00 +0100",
-      "source": "Sky News World",
+      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
+      "description": "Equatorial Guinea has tackled malaria with a successful strategy on Bioko Island",
+      "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434",
+      "published": "Sun, 18 Oct 2026 03:00:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel-Lebanon agreement shines light on long-lost Jewish community",
+      "description": "Rabbi Elie Abadie, who left Lebanon over 50 years ago, remains deeply connected to his Lebanese roots",
+      "url": "https://abcnews.com/International/wireStory/israel-lebanon-agreement-shines-light-long-lost-jewish-137357254",
+      "published": "Sun, 18 Oct 2026 03:00:03 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2033,10 +2053,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
-      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
-      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
-      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How Alberta separatism went from fringe cause to referendum",
+      "description": "For decades, Alberta separatism was a fringe cause",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
+      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2057,46 +2097,6 @@
       "description": "North Korea says it has tested a new torpedo system that uses artificial intelligence for target detection and guidance",
       "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062",
       "published": "Sat, 17 Oct 2026 01:11:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How Alberta separatism went from fringe cause to referendum",
-      "description": "For decades, Alberta separatism was a fringe cause",
-      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
-      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
-      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
-      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
-      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
-      "description": "Equatorial Guinea has tackled malaria with a successful strategy on Bioko Island",
-      "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434",
-      "published": "Sun, 18 Oct 2026 03:00:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
