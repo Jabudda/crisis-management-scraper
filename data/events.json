@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T22:10:41.495979Z",
+  "last_updated": "2026-10-18T22:35:30.055632Z",
   "event_count": 223,
   "events": [
     {
@@ -73,16 +73,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Hurricane Trudy approaches Mexico coast as Typhoon Champi threatens Guam",
-      "description": "Hurricane Trudy moved toward Mexico’s southwestern and west-central Pacific coast and could strengthen through Saturday, the U.S. National Hurricane Center said",
-      "url": "https://abcnews.com/International/wireStory/hurricane-trudy-makes-mexico-typhoon-champi-threatens-guam-137342807",
-      "published": "Sat, 17 Oct 2026 13:38:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Haiti sanctions renewed: Starving the gangs of bullets",
       "description": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
@@ -130,16 +120,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
-      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 21:00:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 23,
       "severity_level": "Critical"
     },
     {
@@ -283,11 +263,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
-      "description": "A large-scale Ukrainian drone attack on Russia's second-largest city Saint Petersburg killed at least one person and hospitalised another five on Sunday. The attack – which also sparked fires at an oil refinery and depot – comes as Kyiv accused Russia of violating Washington's \"energy ceasefire\" dozens of times.",
-      "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
-      "published": "Sun, 18 Oct 2026 12:03:23 GMT",
-      "source": "France24",
+      "title": "Rioters loot stores, set fires in central Milan during cost-of-living protest",
+      "description": "The march against wars and rising living costs began peacefully.",
+      "url": "https://abcnews.com/International/wireStory/rioters-loot-stores-set-fires-central-milan-cost-137352156",
+      "published": "Sat, 17 Oct 2026 17:45:58 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -306,7 +286,7 @@
       "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
       "description": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday. Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "published": "Sun, 18 Oct 2026 17:34:53 GMT",
+      "published": "Sun, 18 Oct 2026 22:26:15 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 19,
@@ -438,6 +418,26 @@
       "url": "https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419",
       "published": "Sat, 17 Oct 2026 18:38:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Macron to address nation after riots and looting lead to 1,800 arrests across France",
+      "description": "French President Emmanuel Macron plans to address the nation after violence erupted across France during protests against rising living costs and poor school conditions",
+      "url": "https://abcnews.com/International/wireStory/macron-address-nation-after-riots-looting-lead-1800-137358854",
+      "published": "Sun, 18 Oct 2026 14:10:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
+      "description": "Hurricane Trudy has lashed Mexico’s Pacific coast with heavy rain and strong winds, according to the U.S. National Hurricane Center",
+      "url": "https://abcnews.com/International/wireStory/hurricane-trudy-brings-heavy-rain-strong-winds-mexicos-137357719",
+      "published": "Sun, 18 Oct 2026 14:10:22 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -603,6 +603,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
       "description": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
       "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
@@ -668,6 +678,16 @@
       "url": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 18 Oct 2026 16:34:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Canadian military base fire kills at least four, injures dozens",
+      "description": "Four Canadian service members were killed and 39 people hospitalised after a fire broke out during military training at a base in Alberta on Saturday, officials said. Premier Danielle Smith said Sunday that at least 19 patients were in critical condition, with some suffering severe burns requiring prolonged intensive treatment.",
+      "url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
+      "published": "Sun, 18 Oct 2026 22:16:51 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -893,16 +913,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-      "description": "Yemen's Iran-backed Houthi rebels have showcased their growing military capabilities, repeatedly striking the airport in Saudi Arabia's capital and seizing territory near a key shipping chokepoint",
-      "url": "https://abcnews.com/International/wireStory/houthi-strikes-saudi-arabia-show-yemeni-rebels-growing-137341692",
-      "published": "Sat, 17 Oct 2026 02:38:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
       "description": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
@@ -1033,26 +1043,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
-      "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
-      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
-      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Clashes, fires and looting break out as protesters rally across France",
-      "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
-      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
-      "published": "Sat, 17 Oct 2026 22:50:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Where's Macron? French leader blasted for attending concert as riots escalated",
       "description": "Violent protests across France led to nearly 1,800 arrests as President Emmanuel Macron faced questions over his response and prepared to address the nation.",
       "url": "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated",
@@ -1087,16 +1077,6 @@
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 09:58:17 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 03:11:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1193,10 +1173,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
-      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
-      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
-      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
+      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "description": "Egypt's top security body says it has agreed to support Saudi Arabia in its fight against Iranian-backed Houthi rebels in Yemen",
+      "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
+      "published": "Sun, 18 Oct 2026 15:08:09 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Catholic priest killed by falling cross during livestreamed Mass in Ecuador",
+      "description": "A Roman Catholic priest officiating an evening mass in southwestern Ecuador died after being struck by a cross while the ceremony was being broadcast live",
+      "url": "https://abcnews.com/International/wireStory/catholic-priest-killed-falling-cross-livestreamed-mass-ecuador-137362694",
+      "published": "Sun, 18 Oct 2026 14:09:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
+      "published": "Sun, 18 Oct 2026 14:10:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1213,16 +1213,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "description": "Egypt's top security body says it has agreed to support Saudi Arabia in its fight against Iranian-backed Houthi rebels in Yemen",
-      "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
-      "published": "Sun, 18 Oct 2026 15:08:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Masked settlers attack European diplomats in the occupied West Bank",
       "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
       "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
@@ -1233,10 +1223,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
-      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
-      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
-      "published": "Sun, 18 Oct 2026 14:10:28 -0400",
+      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
+      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
+      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
+      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1320,6 +1310,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Paris police report 855 arrests after violent clashes and looting during protests",
+      "description": "Paris police have arrested 855 people after violent clashes during a protest against rising living costs",
+      "url": "https://abcnews.com/International/wireStory/paris-police-report-855-arrests-after-violent-clashes-137358853",
+      "published": "Sun, 18 Oct 2026 18:25:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium"
     },
     {
@@ -1417,6 +1417,16 @@
       "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
       "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 13:47:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 00:41:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1543,16 +1553,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Fire guts a Bangladeshi beach resort, killing 10 people",
-      "description": "A fire has gutted a beach resort in southeastern Bangladesh, killing 10 people and injuring four",
-      "url": "https://abcnews.com/International/wireStory/fire-guts-bangladeshi-beach-resort-killing-10-people-137342617",
-      "published": "Sat, 17 Oct 2026 07:06:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Ivy League-educated pediatrician allegedly murdered by husband who then set home on fire: police",
       "description": "Julia Pederson, a Stanford-educated pediatrician at UPMC, was allegedly strangled by husband Jonathan Gatto before he set their Harrisburg home ablaze.",
       "url": "https://www.foxnews.com/us/ivy-league-educated-pediatrician-allegedly-murdered-husband-set-home-fire-police",
@@ -1673,6 +1673,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 22:10:45 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
       "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
       "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
@@ -1707,16 +1717,6 @@
       "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 09:14:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2083,6 +2083,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "German authorities investigate a hole cut into a fence at Leipzig airport",
+      "description": "German authorities are investigating a large hole cut into a fence at Leipzig airport",
+      "url": "https://abcnews.com/International/wireStory/german-authorities-investigate-hole-cut-fence-leipzig-airport-137360840",
+      "published": "Sun, 18 Oct 2026 14:10:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
+      "description": "Equatorial Guinea has tackled malaria with a successful strategy on Bioko Island",
+      "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434",
+      "published": "Sun, 18 Oct 2026 03:00:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel-Lebanon agreement shines light on long-lost Jewish community",
+      "description": "Rabbi Elie Abadie, who left Lebanon over 50 years ago, remains deeply connected to his Lebanese roots",
+      "url": "https://abcnews.com/International/wireStory/israel-lebanon-agreement-shines-light-long-lost-jewish-137357254",
+      "published": "Sun, 18 Oct 2026 03:00:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Alberta separatists say they'll keep fighting after independence vote",
       "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
       "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
@@ -2093,40 +2123,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
-      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
-      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
-      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope Leo returns to the Vatican 4 days after lung cancer surgery",
-      "description": "Pope Leo has left Rome’s Gemelli hospital after undergoing surgery for lung cancer",
-      "url": "https://abcnews.com/International/wireStory/vatican-pope-leo-released-hospital-saturday-4-days-137342717",
-      "published": "Sat, 17 Oct 2026 10:35:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "North Korea says it tested new torpedo system with AI capabilities",
-      "description": "North Korea says it has tested a new torpedo system that uses artificial intelligence for target detection and guidance",
-      "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062",
-      "published": "Sat, 17 Oct 2026 01:11:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "German authorities investigate a hole cut into a fence at Leipzig airport",
-      "description": "German authorities are investigating a large hole cut into a fence at Leipzig airport",
-      "url": "https://abcnews.com/International/wireStory/german-authorities-investigate-hole-cut-fence-leipzig-airport-137360840",
-      "published": "Sun, 18 Oct 2026 14:10:35 -0400",
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
