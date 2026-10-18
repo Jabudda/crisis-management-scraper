@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T07:37:57.871968Z",
+  "last_updated": "2026-10-18T08:15:21.714580Z",
   "event_count": 220,
   "events": [
     {
@@ -93,8 +93,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
-      "description": "Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.",
+      "title": "‘Serious incident’ at Canada military base causes deaths, injuries",
+      "description": "Defence Minister David McGuinty says people were killed and injured after an incident caused a major fire in Alberta.",
       "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
       "published": "Sun, 18 Oct 2026 04:59:29 +0000",
       "source": "Al Jazeera",
@@ -336,8 +336,18 @@
       "title": "Several dead or injured in major fire at Canada military base",
       "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
       "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 07:09:23 GMT",
+      "published": "Sun, 18 Oct 2026 08:05:49 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "description": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "published": "Sun, 18 Oct 2026 03:56:08 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -383,21 +393,21 @@
       "severity_level": "High"
     },
     {
-      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-      "description": "US Secretary of State Rubio separately urges Israel to ‘crack down’ on settler violence after attack on photographer.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-      "published": "Sat, 17 Oct 2026 23:40:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
       "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
       "description": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California. The ‌defendants were declared guilty a week ​ago of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
       "published": "Sat, 17 Oct 2026 02:52:59 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Live: A demonstrator died from 'cardiorespiratory arrest' during Paris protests, police say",
+      "description": "A demonstrator died from cardiorespiratory arrest during Saturday's protests in Paris, police said Sunday, stressing that the death was not connected to police action or to the clashes that broke out on the margins of the mass demonstrations across the capital. The city's police prefecture said they had detained a \"record figure\" of 855 people in the capital during the demonstrations. Follow our liveblog for all the latest developments.",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "published": "Sun, 18 Oct 2026 03:09:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -410,16 +420,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Live: A 'record' 855 people detained in Paris during protests, police say",
-      "description": "Police in Paris said Sunday they had detained a \"record figure\" of 855 people in the capital during the demonstrations that swept France the day before. The police prefecture added that 13 police officers and gendarmes had been injured during the clashes that broke out on the margins of the mass demonstrations. Follow our liveblog for all the latest developments.",
-      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
-      "published": "Sun, 18 Oct 2026 03:09:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -448,6 +448,16 @@
       "url": "https://abcnews.com/International/wireStory/hurricane-trudy-brings-heavy-rain-strong-winds-mexicos-137357719",
       "published": "Sun, 18 Oct 2026 02:59:52 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "COP17: The world has a plan to save nature. Is it working?",
+      "description": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
+      "published": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -753,16 +763,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Health workers tackle taboos over drinking with new AI tool",
-      "description": "A new AI-powered hub for health professionals aims to help identify alcohol-related risks and launch discussions with patients, including the link between drinking and cancer, the World Health Organization (WHO) announced on Wednesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168594",
-      "published": "Wed, 14 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Child among 2 killed after vehicle drives onto soccer field at Kansas sports complex",
       "description": "A child and an adult were killed after a vehicle drove onto a soccer field at a Wichita sports complex. Police said the driver was taken into custody",
       "url": "https://www.foxnews.com/us/child-among-2-killed-after-vehicle-drives-onto-soccer-field-kansas-sports-complex",
@@ -793,7 +793,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
       "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
       "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 05:56:20 GMT",
@@ -943,11 +943,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Will Paramount’s creation of Skydance test France’s cultural exception?",
-      "description": "Skydance’s $110 billion creation tests whether France’s cultural exception can still compel a leveraged global media giant to fund, protect and prioritise French creativity, or merely treat it as a compliance cost.",
-      "url": "https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception",
-      "published": "Sat, 17 Oct 2026 13:43:00 GMT",
-      "source": "France24",
+      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
+      "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
+      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
+      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -957,16 +957,6 @@
       "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
       "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
       "published": "Sat, 17 Oct 2026 22:50:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
-      "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
-      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
-      "published": "Sat, 17 Oct 2026 02:34:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1113,20 +1103,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Masked settlers attack European diplomats in the occupied West Bank",
-      "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
-      "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
-      "published": "Sat, 17 Oct 2026 13:38:26 -0400",
+      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
+      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
+      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
+      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
-      "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
-      "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
-      "published": "Sat, 17 Oct 2026 11:46:39 -0400",
+      "title": "Masked settlers attack European diplomats in the occupied West Bank",
+      "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
+      "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
+      "published": "Sat, 17 Oct 2026 13:38:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1348,6 +1338,16 @@
       "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 18 Oct 2026 00:51:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "🔴 A demonstrator died from 'cardiorespiratory arrest' during Paris protests, police say",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "published": "Sun, 18 Oct 2026 08:06:22 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1663,6 +1663,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Why Iran-US negotiations keep failing",
+      "description": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 07:32:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Israel’s ties with Europe are fraying. Can its election change that?",
       "description": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
       "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
@@ -1913,16 +1923,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group",
-      "description": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-      "published": "Fri, 16 Oct 2026 07:30:31 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
       "description": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
       "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-xml-mrss",
@@ -1953,9 +1953,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
-      "description": "Berlin's left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.",
-      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
+      "description": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.",
+      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 17 Oct 2026 10:34:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2023,26 +2023,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
-      "description": "Equatorial Guinea has tackled malaria with a successful strategy on Bioko Island",
-      "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434",
-      "published": "Sun, 18 Oct 2026 03:00:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel-Lebanon agreement shines light on long-lost Jewish community",
-      "description": "Rabbi Elie Abadie, who left Lebanon over 50 years ago, remains deeply connected to his Lebanese roots",
-      "url": "https://abcnews.com/International/wireStory/israel-lebanon-agreement-shines-light-long-lost-jewish-137357254",
-      "published": "Sun, 18 Oct 2026 03:00:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Alberta separatists say they'll keep fighting after independence vote",
       "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
       "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
@@ -2053,30 +2033,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
-      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
-      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How Alberta separatism went from fringe cause to referendum",
-      "description": "For decades, Alberta separatism was a fringe cause",
-      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
-      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
-      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
+      "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
+      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
+      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
+      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2097,6 +2057,46 @@
       "description": "North Korea says it has tested a new torpedo system that uses artificial intelligence for target detection and guidance",
       "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062",
       "published": "Sat, 17 Oct 2026 01:11:47 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How Alberta separatism went from fringe cause to referendum",
+      "description": "For decades, Alberta separatism was a fringe cause",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
+      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
+      "description": "Equatorial Guinea has tackled malaria with a successful strategy on Bioko Island",
+      "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434",
+      "published": "Sun, 18 Oct 2026 03:00:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
