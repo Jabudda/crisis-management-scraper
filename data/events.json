@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T18:16:18.078805Z",
+  "last_updated": "2026-10-20T18:42:32.843362Z",
   "event_count": 223,
   "events": [
     {
@@ -60,16 +60,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 35,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Sudan drone attacks kill 3 children in Khartoum, dozens of civilians in Kordofan",
-      "description": "A drone attack killed three children in Sudan's capital, Khartoum, on Monday, according to Emergency Lawyers, a group that tracks violence against civilians",
-      "url": "https://abcnews.com/International/wireStory/sudan-drone-attacks-kill-3-children-khartoum-dozens-137387829",
-      "published": "Mon, 19 Oct 2026 14:42:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -598,6 +588,16 @@
       "url": "https://www.foxnews.com/us/marthas-vineyard-police-barracks-rocked-woman-ran-life-found-naked-outside-prosecutor",
       "published": "Tue, 20 Oct 2026 06:00:50 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
+      "description": "Iran claims two oil tankers struck sea mines in the Strait of Hormuz as the IMO warns the critical shipping lane remains too unsafe to transit.",
+      "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
+      "published": "Tue, 20 Oct 2026 14:26:18 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -1303,16 +1303,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
-      "description": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
-      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 20 Oct 2026 14:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Macron secures 200,000 tonnes of extra diesel per month from UAE, Bahrain",
       "description": "French President Emmanuel Macron has secured the delivery of an additional 200,000 tonnes of diesel per month from the United Arab Emirates and Bahrain, the French presidency said on Tuesday. Macron is undertaking a tour of key energy suppliers in the Gulf in an effort to secure oil and diesel and bring down prices in France, after a weekend of violent protests over soaring living costs. FRANCE 24'S Tarek Kaï reports from Doha, Qatar.",
       "url": "https://www.france24.com/en/video/20261020-macron-secures-200-000-tonnes-of-extra-diesel-per-month-from-uae-bahrain",
@@ -1403,6 +1393,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+      "description": "Nigeria has confirmed its first Ebola case in the capital, Abuja",
+      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-ebola-case-abuja-woman-arrived-uganda-137420211",
+      "published": "Tue, 20 Oct 2026 14:16:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Driver charged with intentionally injuring Australian federal lawmaker",
       "description": "Police have charged a driver with intentionally causing serious injury to Australian lawmaker Helen Haines",
       "url": "https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404",
@@ -1458,16 +1458,6 @@
       "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
       "published": "Tue, 20 Oct 2026 13:38:02 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak",
-      "description": "Africa’s top public health agency and Congolese officials say $700 million in Ebola aid is unaccounted for",
-      "url": "https://abcnews.com/International/wireStory/millions-dollars-unaccounted-ebola-response-officials-137386655",
-      "published": "Mon, 19 Oct 2026 23:30:15 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1983,6 +1973,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "description": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
+      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 20 Oct 2026 18:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
       "description": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
       "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-xml-mrss",
@@ -2068,6 +2068,16 @@
       "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026",
       "published": "Mon, 19 Oct 2026 15:53:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pakistani authorities arrest man accused in $126 million US postage fraud scheme",
+      "description": "Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service",
+      "url": "https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213",
+      "published": "Tue, 20 Oct 2026 14:16:10 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2217,16 +2227,6 @@
       "description": "The European Parliament voted 'historic' 381-167 to condemn Islamist entryism and Muslim Brotherhood influence as critics say the hard part will be converting the resolution into legislation.",
       "url": "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote",
       "published": "Sun, 18 Oct 2026 06:30:59 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
-      "description": "Three men were sentenced to 158 years each in Ensenada, Baja California, for the murders of surfers Callum and Jake Robinson and Carter Redd Rhoad.",
-      "url": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
-      "published": "Sat, 17 Oct 2026 13:38:52 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
