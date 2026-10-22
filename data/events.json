@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T07:19:25.591302Z",
+  "last_updated": "2026-10-22T07:43:53.864755Z",
   "event_count": 223,
   "events": [
     {
@@ -153,16 +153,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Burkina Faso's parliament unanimously votes to reinstate the death penalty",
-      "description": "Burkina Faso's parliament has reinstated the death penalty for crimes like terrorism, espionage, and treason",
-      "url": "https://abcnews.com/International/wireStory/burkina-fasos-parliament-unanimously-votes-reinstate-death-penalty-137442050",
-      "published": "Wed, 21 Oct 2026 08:34:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "French newspaper rips Macron after riots erupt across France: ‘Indelible stain’",
       "description": "The scathing critique in newspaper Le Figaro took aim at Macron, France’s justice system and immigration policies after nationwide protests erupted into violence.",
       "url": "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
@@ -188,6 +178,16 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
       "published": "Thu, 22 Oct 2026 03:56:46 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "A second female lawmaker in Australia is threatened days after alleged car attack",
+      "description": "A man has been charged with threatening an Australian lawmaker’s staff with nunchucks days after another legislator was critically injured when a man repeatedly hit her with a car",
+      "url": "https://abcnews.com/International/wireStory/female-lawmaker-australia-threatened-days-after-alleged-car-137467537",
+      "published": "Thu, 22 Oct 2026 03:35:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -783,6 +783,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'Backbone of the web': What is PHP and how has it raised AI hacking fears?",
+      "description": "As governments and corporations alike scramble to install a patch to fix fundamental security flaws in a programming language that helps run roughly 70 percent of the world's websites, here's what you need to know about how AI has helped bring these critical vulnerabilities to light.",
+      "url": "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears",
+      "published": "Thu, 22 Oct 2026 04:17:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
       "description": "Pope Leo's doctors say final tissue and molecular tests have confirmed his lung cancer was localised, and no further treatment is needed, the Vatican said in a statement.",
       "url": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
@@ -1173,7 +1183,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'.",
       "description": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
       "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Oct 2026 14:17:00 GMT",
@@ -1207,16 +1217,6 @@
       "description": "Construction projects are putting at risk a mangrove forest that stands between Vietnam's Ho Chi Minh City and rising seas",
       "url": "https://abcnews.com/International/wireStory/coastal-construction-projects-threaten-mangrove-forest-protects-vietnams-137466689",
       "published": "Thu, 22 Oct 2026 00:44:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "North Korean leader's sister inspects fortifications as tensions rise with the South",
-      "description": "North Korean leader Kim Jong Un’s sister says the country will resume broadcasting propaganda across the heavily armed border with South Korea this month",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leaders-sister-inspects-border-fortifications-tensions-137438558",
-      "published": "Wed, 21 Oct 2026 22:58:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1313,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Women are protesting around Poland for free access to legal abortions",
+      "description": "Women are protesting around Poland for access to free and legal abortion services",
+      "url": "https://abcnews.com/International/wireStory/women-protesting-poland-free-access-legal-abortions-137467815",
+      "published": "Thu, 22 Oct 2026 03:34:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Tropical Storm Vance has formed in the Pacific Ocean",
       "description": "Tropical Storm Vance has formed in the Pacific Ocean",
       "url": "https://abcnews.com/International/wireStory/tropical-storm-vance-formed-pacific-ocean-137458754",
@@ -1337,16 +1347,6 @@
       "description": "Over 500 people in South Africa have fallen ill from a gastrointestinal illness linked to poor water quality in two cities",
       "url": "https://abcnews.com/International/wireStory/500-south-africa-sickened-outbreak-linked-poor-water-137448244",
       "published": "Wed, 21 Oct 2026 13:04:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Fighter jet crashes in eastern France, killing at least 1 person",
-      "description": "The French armed forces say that a fighter jet has crashed in eastern France, killing at least one person",
-      "url": "https://abcnews.com/International/wireStory/fighter-jet-crashes-eastern-france-killing-1-person-137438012",
-      "published": "Wed, 21 Oct 2026 03:30:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1538,6 +1538,16 @@
       "url": "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer",
       "published": "Wed, 21 Oct 2026 21:41:19 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South Korea seeks new ways to free a huge gray shark after it slips back into canal",
+      "description": "A city in South Korea is again trying to free a huge dusky shark from a narrow canal",
+      "url": "https://abcnews.com/International/wireStory/city-south-korea-seeks-new-ways-free-huge-137467512",
+      "published": "Thu, 22 Oct 2026 03:37:34 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -2037,16 +2047,6 @@
       "description": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappé and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappé has scored in all three European matches this season, taking his tally to 12 goals.",
       "url": "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win",
       "published": "Thu, 22 Oct 2026 00:11:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
-      "description": "The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.",
-      "url": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel",
-      "published": "Wed, 21 Oct 2026 17:32:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
