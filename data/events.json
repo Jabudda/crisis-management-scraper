@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T04:42:03.176157Z",
+  "last_updated": "2026-10-22T05:13:09.689236Z",
   "event_count": 223,
   "events": [
     {
@@ -118,16 +118,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
       "published": "Thu, 22 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "'Wider wave of attacks' feared as 'critical' flaw hits websites worldwide",
-      "description": "Disruption from a \"critical\" flaw that led to websites around the world being taken down could become \"more widespread\", an expert had told Sky News.",
-      "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102",
-      "published": "Thu, 22 Oct 2026 03:00:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -320,6 +310,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Ukraine, Russia trade strikes after Witkoff talks",
+      "description": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals.",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Oct 2026 04:57:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -633,16 +633,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
-      "description": "The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump's US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.",
-      "url": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 21 Oct 2026 05:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
       "title": "Yemen war continues to force families from homes amid hunger and disease",
       "description": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
@@ -688,6 +678,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 18:10:42 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Australian TV reporter rescues man from sinking car",
+      "description": "Australian TV reporter rescues man from sinking car",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 04:19:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -788,6 +788,16 @@
       "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Oct 2026 16:56:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "'Millions' of exploitation attempts as 'critical' flaw hits websites",
+      "description": "There have been \"millions\" of exploitation attempts since a \"critical\" security flaw affecting websites around the world emerged, according to a major tech company.",
+      "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102",
+      "published": "Thu, 22 Oct 2026 03:00:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1013,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Africa CDC calls an Ebola crisis summit as Nigeria records its first case",
+      "description": "Africa Centres for Disease Control and Prevention has invited health ministers to an “extraordinary virtual meeting” as Ebola spreads across the continent",
+      "url": "https://abcnews.com/International/wireStory/africa-cdc-calls-ebola-crisis-summit-nigeria-records-137440881",
+      "published": "Thu, 22 Oct 2026 00:42:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "South Korean officials free a shark trapped for a month in Busan canal",
       "description": "South Korean officials have freed a large gray shark trapped for over a month in a canal in Busan",
       "url": "https://abcnews.com/International/wireStory/south-korean-officials-struggle-free-shark-trapped-busan-137439368",
@@ -1204,10 +1224,20 @@
     },
     {
       "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
-      "description": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
+      "description": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech\".",
       "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
       "published": "Wed, 21 Oct 2026 21:21:41 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Coastal construction threaten mangrove forest that protects Vietnam's biggest city",
+      "description": "Construction projects are putting at risk a mangrove forest that stands between Vietnam's Ho Chi Minh City and rising seas",
+      "url": "https://abcnews.com/International/wireStory/coastal-construction-projects-threaten-mangrove-forest-protects-vietnams-137466689",
+      "published": "Thu, 22 Oct 2026 00:44:13 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1653,6 +1683,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+      "description": "Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 04:36:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Can Trump deport Congresswoman Ilhan Omar?",
       "description": "Can Trump deport Congresswoman Ilhan Omar?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
@@ -1707,26 +1747,6 @@
       "description": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
       "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
       "published": "Wed, 21 Oct 2026 23:20:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
-      "description": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
-      "url": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss",
-      "published": "Wed, 21 Oct 2026 21:50:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Tehran displays mock installation of Trump behind bars",
-      "description": "An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-      "published": "Wed, 21 Oct 2026 21:43:06 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2013,8 +2033,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win",
-      "description": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European matches this season, taking his tally to 12 goals.",
+      "title": "Real Madrid thrash RB Leipzig as Mbappé scores in Champions League win",
+      "description": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappé and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappé has scored in all three European matches this season, taking his tally to 12 goals.",
       "url": "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win",
       "published": "Thu, 22 Oct 2026 00:11:37 GMT",
       "source": "France24",
@@ -2087,26 +2107,6 @@
       "description": "Meta says it has complied with an order from Brazil’s electoral court to treat Brazil's presidential candidates equally before Sunday's runoff",
       "url": "https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225",
       "published": "Tue, 20 Oct 2026 22:50:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pompeii's grandest house gets a $1.6 million restoration funded by private sponsor",
-      "description": "A private home in Pompeii, believed to be the grandest, is being restored with 1.4 million euros ($1.6 million) from a private sponsor",
-      "url": "https://abcnews.com/International/wireStory/pompeiis-grandest-house-gets-16-million-restoration-funded-137422838",
-      "published": "Wed, 21 Oct 2026 02:02:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pakistani authorities arrest man accused in $126 million US postage fraud scheme",
-      "description": "Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service",
-      "url": "https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213",
-      "published": "Wed, 21 Oct 2026 07:06:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
