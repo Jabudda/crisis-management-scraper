@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T00:34:45.476489Z",
+  "last_updated": "2026-10-23T01:25:24.841624Z",
   "event_count": 224,
   "events": [
     {
@@ -190,6 +190,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
+      "description": "Protests in several cities ​coincide with a deepening economic, social and political crisis in Tunisia.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 00:51:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical"
     },
     {
@@ -443,21 +453,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 00:25:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
       "description": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.” Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "published": "Wed, 21 Oct 2026 17:18:56 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+      "description": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it's the strongest quake to hit the remote Himalayan region in five years.",
+      "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Oct 2026 23:24:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -653,16 +663,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Africa CDC calls crisis meeting as Ebola spreads",
-      "description": "African health officials will hold a crisis meeting as the Ebola outbreak spreads from Congo to neighboring countries and beyond. The \"extraordinary virtual meeting\" will convene on October 28.",
-      "url": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 08:16:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
       "description": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.",
       "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
@@ -690,6 +690,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Tibet rocked by 7.0-magnitude earthquake",
+      "description": "Tibet rocked by 7.0-magnitude earthquake",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 00:33:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -1313,6 +1323,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Thousands protest across Poland for access to free and legal abortions",
+      "description": "Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland's highest court.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 00:54:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "UK Conservative Party leader responds to Al Jazeera investigation",
       "description": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss",
@@ -1503,16 +1523,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-      "description": "Some of the core issues that drove Trump's US supporters and the MAGA movement are no longer Republican talking points.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 20:05:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1693,20 +1703,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 00:10:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 00:10:46 GMT",
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:12:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1753,6 +1763,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "description": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:16:35 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
       "description": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
       "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
@@ -1787,26 +1807,6 @@
       "description": "Some countries in the region say it infringes on their rights.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
       "published": "Thu, 22 Oct 2026 20:13:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-      "description": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 19:35:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "White evangelical support for Trump slips but still strong as midterms near",
-      "description": "Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 19:31:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1956,7 +1956,7 @@
       "title": "M 7.0 - 191 km ENE of Nagqu, China",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VII Time 2026-10-22 14:33:40 UTC 2026-10-22 14:33:40 UTC at epicenter Location 32.381°N 93.780°E Depth 18.00 km (11.18 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-      "published": "2026-10-23T00:01:37.671Z",
+      "published": "2026-10-23T00:51:51.955Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
