@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T12:47:17.537622Z",
+  "last_updated": "2026-10-23T13:11:59.228292Z",
   "event_count": 223,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 54,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "War in the Middle East: Israel launches West Bank operations",
+      "description": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+      "published": "Fri, 23 Oct 2026 12:57:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 42,
       "severity_level": "Critical"
     },
     {
@@ -63,6 +73,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "description": "French Prime Minister Sébastien Lecornu describes the gun attack in Trappes as \"very serious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:47:01 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical"
+    },
+    {
       "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
       "description": "On the 43rd anniversary of the Beirut barracks terror attack that killed 241 Americans, a rabbi recalls how he and two Christian chaplains rushed to aid the wounded and comfort the survivors.",
       "url": "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
@@ -80,26 +100,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:26:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least one dead and four injured in Paris suburb shooting",
-      "description": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:06:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -243,9 +243,9 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
+      "title": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
       "description": "Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.",
-      "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
+      "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting",
       "published": "Fri, 23 Oct 2026 04:05:06 -0400",
       "source": "Fox News World",
       "type": "rss",
@@ -268,6 +268,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
       "published": "Fri, 23 Oct 2026 06:22:10 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least seven dead after shooting at church in Jordan - reports",
+      "description": "At least seven people have been killed after gunmen opened fire during a funeral a church in Jordan, reports say.",
+      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "published": "Fri, 23 Oct 2026 13:57:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -433,6 +443,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Jordan: Karak church shooting leaves 7 dead",
+      "description": "The shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire on the procession.",
+      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 23 Oct 2026 13:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
       "description": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it's the strongest quake to hit the remote Himalayan region in five years.",
       "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
@@ -450,6 +470,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:48:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -703,6 +733,26 @@
       "severity_level": "High"
     },
     {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+      "description": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:55:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "The fight to protect India’s 600-year-old mosque in Ujjain",
+      "description": "The minaret of Shahi mosque collapsed during demolition work to widen a road for a Hindu pilgrimage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/ujjain-shahi-imosque-demolition-original?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:43:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -750,16 +800,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:11:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -827,16 +867,6 @@
       "description": "Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.",
       "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 11:05:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-      "description": "Kane, who scored 73 goals last season, is among the favourites for award with Lamine Yamal and Kylian Mbappe.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 07:56:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1153,16 +1183,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
-      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:30:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1183,9 +1203,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1193,9 +1213,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1227,6 +1247,16 @@
       "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 10:14:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 11:30:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1267,26 +1297,6 @@
       "description": "Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.",
       "url": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 12:16:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Macron to meet student groups: Where are France’s protests heading?",
-      "description": "President to meet for first time with student representatives on Friday before further protests.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:50:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Israeli forces accused of killing disabled man in Syria raid",
-      "description": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:35:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1433,16 +1443,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-      "description": "Israel's election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:03:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1463,30 +1463,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
-      "description": "Lina Attalah, who is accused of managing a website without a license, will go to court next week. Mada Masr has published reporting critical of Egyptian President Abdel-Fattah el-Sissi's government.",
-      "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 19:17:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
       "description": "Insults traded on social media and a combative debate have intensified the pressure ahead of a fiercely contested presidential run-off on Sunday, with only a few points separating leftist pro-union President Luiz Inacio Lula da Silva and far-right challenger Flavio Bolsonaro, the son of former president and Trump ally Jair Bolsonaro.",
       "url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
       "published": "Fri, 23 Oct 2026 12:45:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ivory Coast: Children face serious health risks from lead in paint",
-      "description": "Report by Jean Barrère & Guillaume Gougeon.",
-      "url": "https://www.france24.com/en/ivory-coast-children-face-serious-health-risks-from-lead-in-paint",
-      "published": "Fri, 23 Oct 2026 08:37:33 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 3,
@@ -1613,20 +1593,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 10:14:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:14:33 GMT",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 08:45:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1668,6 +1648,46 @@
       "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 22:27:53 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Greece joins push to ban social media for minors",
+      "description": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:55:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+      "description": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:54:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "description": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
+      "description": "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:34:10 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1757,16 +1777,6 @@
       "description": "Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.",
       "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 09:12:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
-      "description": "LeBron James enjoys 114-106 NBA victory over Cleveland Cavaliers, hours after US president calls him a 'disgrace'.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:42:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2077,16 +2087,6 @@
       "description": "North Korea says it plans to resume propaganda broadcasts targeting South Korea within days along the heavily-armed border between the two countries.",
       "url": "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125",
       "published": "Thu, 22 Oct 2026 06:44:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Hugging grandparents consent advert taken down after backlash",
-      "description": "An Irish advert promoting consent has been withdrawn after complaints about its depictions of grandparents hugging and kissing their grandkids.",
-      "url": "https://news.sky.com/story/advert-from-dublin-rape-crisis-centre-on-grandparents-hugging-and-kissing-children-withdrawn-13602472",
-      "published": "Thu, 22 Oct 2026 20:08:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
