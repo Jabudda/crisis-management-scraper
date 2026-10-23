@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T20:12:50.620820Z",
+  "last_updated": "2026-10-23T20:39:49.713127Z",
   "event_count": 219,
   "events": [
     {
@@ -10,16 +10,6 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 56,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
-      "description": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 16:08:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 52,
       "severity_level": "Critical"
     },
     {
@@ -403,16 +393,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 16:15:25 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
       "description": "An escalation would 'create nothing but losers', French foreign minister says as US official warns of possible strike.",
       "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
@@ -510,16 +490,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-      "description": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 15:51:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -853,7 +823,7 @@
       "severity_level": "High"
     },
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 19:30:19 GMT",
@@ -968,6 +938,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 14:18:41 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Trump’s broken promises: economy, war and ICE",
+      "description": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 20:01:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -1273,6 +1253,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "description": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 20:02:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+      "description": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 19:55:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1293,9 +1293,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1303,9 +1303,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1653,6 +1653,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "description": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 20:18:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
       "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
@@ -1787,16 +1797,6 @@
       "description": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.",
       "url": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 16:41:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
-      "description": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 15:04:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1963,10 +1963,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "description": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
-      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-      "published": "Thu, 22 Oct 2026 09:50:55 -0400",
+      "title": "Europe's Ukraine dilemma",
+      "description": "European leaders are grappling with how best to support Ukraine, balancing their fraught relationships with the Trump administration and the imperatives of European security.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6005799/europes-ukraine-dilemma",
+      "published": "Fri, 23 Oct 2026 16:26:17 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
