@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-10-23T11:40:10.638976Z",
+  "last_updated": "2026-10-23T12:17:37.979709Z",
   "event_count": 223,
   "events": [
     {
-      "title": "French prosecutors investigate Paris shooting as suspected terror attack",
-      "description": "French prosecutors on Friday said that they were investigating a shooting in Trappes, west of Paris, as a suspected terrorist attack. At least one person was killed, and four more were wounded, earlier in the day when a man opened fire from a vehicle.",
+      "title": "One killed, four injured in drive-by shooting in Paris suburb",
+      "description": "One person was killed and four were injured on Friday when a man opened fire from a vehicle in the town of Trappes, west of Paris, police said. French prosecutors on Friday said that they were investigating the shooting as a suspected terrorist attack.",
       "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
       "published": "Fri, 23 Oct 2026 11:08:26 GMT",
       "source": "France24",
       "type": "rss",
-      "severity_score": 53,
+      "severity_score": 54,
       "severity_level": "Critical"
     },
     {
@@ -53,8 +53,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Terror probe after one killed and several injured in Paris drive-by shooting",
-      "description": "A terror investigation is under way after one person was shot dead and four others injured on the outskirts of Paris.",
+      "title": "Terror probe after fatal shooting in Paris suburb",
+      "description": "A terror investigation is under way after one person was shot dead and four others injured in an outer suburb of Paris.",
       "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320",
       "published": "Fri, 23 Oct 2026 00:01:00 +0100",
       "source": "Sky News World",
@@ -94,7 +94,7 @@
     },
     {
       "title": "France: 1 killed, 4 wounded after shooting near Paris",
-      "description": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. One person was killed and four others were wounded in the shooting. The motive was not immediately clear.",
+      "description": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. Police are investigating a possible racist motivation.",
       "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 23 Oct 2026 11:22:00 GMT",
       "source": "Deutsche Welle",
@@ -107,6 +107,16 @@
       "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 10:26:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "description": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:06:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 29,
@@ -483,16 +493,6 @@
       "severity_level": "High"
     },
     {
-      "title": "At least one dead and four injured in Paris suburb shooting",
-      "description": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:09:36 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -524,9 +524,9 @@
     },
     {
       "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-      "description": "Meghan also reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the Sun newspaper published claims that her half-brother Thomas Markle Jr alleged he had found a stash of images belonging to their father at his former home in the Philippines. Continue reading...",
+      "description": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the Sun newspaper published claims that her half-brother Thomas Markle Jr alleged he had found a stash of images belonging to their father at his former home in the Philippines. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-      "published": "Fri, 23 Oct 2026 10:50:57 GMT",
+      "published": "Fri, 23 Oct 2026 11:28:44 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -673,10 +673,20 @@
       "severity_level": "High"
     },
     {
-      "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
-      "description": "French President Emmanuel Macron vowed to ban unauthorized protests after France was rocked by violence and looting. As anger over public services and the cost of living grows, authorities are bracing for more protests.",
-      "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 16:28:00 GMT",
+      "title": "US-Iran war, then and now: How the landscape has changed since February",
+      "description": "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 11:43:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "description": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -983,16 +993,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Maradona death: Verdict in trial to be delivered on December 22",
-      "description": "The trial of seven healthcare professionals accused of negligence in Maradona's death concludes, December verdict set.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 06:55:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1048,6 +1048,16 @@
       "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
       "published": "Thu, 22 Oct 2026 07:28:24 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "description": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 23 Oct 2026 12:11:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1673,6 +1683,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+      "description": "Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year's tournament as scheduled.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 11:34:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+      "description": "Health workers in Gaza are participating in a breast cancer campaign called ‘pink blooms from among the rubble’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 11:27:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "South Korea invites North for military talks over border",
       "description": "The proposal comes days after Pyongyang says it moved new military units into 'firing positions' along the border.",
       "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
@@ -1757,26 +1787,6 @@
       "description": "From France to India, young people are in the streets over inequality, failing public services and bleak prospects.",
       "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 07:51:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "How the midterms could change Trump’s presidency",
-      "description": "Donald Trump isn't on the ballot this November, but the midterms could change the final two years of his presidency.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 06:28:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-      "description": "Support crucial from 47-nation AFC's president, who was critic of Gianni Infantino over failed private investment plan.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 06:11:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2017,16 +2027,6 @@
       "description": "Under new rules, guests will no longer have to do tasks that cleaners would normally handle. Hosts can now only make \"reasonable\" requests, such as leaving dirty dishes in the sink and sorting trash from recycling.",
       "url": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 23 Oct 2026 02:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
-      "description": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US.",
-      "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 17:07:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
