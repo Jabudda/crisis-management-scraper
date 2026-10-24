@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T19:35:12.077627Z",
-  "event_count": 221,
+  "last_updated": "2026-10-24T20:10:56.037548Z",
+  "event_count": 222,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -153,8 +153,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
-      "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 may also be forced to leave.",
+      "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+      "description": "The Palestinian Authority called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. Israeli defence minister Israel Katz later confirmed in an interview that the displacements had reached the 2,000 mark.",
       "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
       "published": "Sat, 24 Oct 2026 13:50:12 GMT",
       "source": "France24",
@@ -418,6 +418,16 @@
       "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
       "published": "Sat, 24 Oct 2026 17:10:42 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Seven dead and 34 injured after shooting at church in Jordan",
+      "description": "Seven people have died and 34 have been injured after gunmen opened fire on a funeral at a church in Jordan.",
+      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "published": "Fri, 23 Oct 2026 13:57:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -883,16 +893,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "description": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
-      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 23 Oct 2026 14:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "France: Anti-far-right protest in Orleans",
       "description": "Far-right candidate Marine Le Pen is officially launching her presidential campaign this weekend at the National Rally’s two-day party congress in Orléans, where thousands of supporters are expected to attend. Local authorities have put exceptional security measures in place as anti-far-right demonstrations take place in the city.",
       "url": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
@@ -1017,16 +1017,6 @@
       "description": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.",
       "url": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 13:52:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
-      "description": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 13:16:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1263,6 +1253,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
+      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
+      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
+      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
       "description": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168647",
@@ -1418,6 +1418,26 @@
       "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 20:59:39 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "description": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 19:11:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "description": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 19:01:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1593,6 +1613,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ukraine: Starlink satellite speeds restored to normal",
+      "description": "The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.",
+      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 24 Oct 2026 19:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "First human case of Shamonda virus reported in France as patient dies",
       "description": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168652",
@@ -1620,16 +1650,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 17:21:42 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1727,6 +1747,16 @@
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 17:21:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1837,16 +1867,6 @@
       "description": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
       "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 13:58:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "description": "Netanyahu floats Crypto to bypass sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 13:27:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2097,16 +2117,6 @@
       "description": "The head of the Bulgarian Taekwondo Federation, Slavi Binev, has been shot dead at his home in Sofia",
       "url": "https://abcnews.com/International/wireStory/bulgarian-sports-official-former-member-european-parliament-shot-137534575",
       "published": "Sat, 24 Oct 2026 08:29:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
-      "description": "Taiwan has shut down schools and offices and grounded hundreds of flights as Typhoon Champi brushes by the island",
-      "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371",
-      "published": "Fri, 23 Oct 2026 20:54:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
