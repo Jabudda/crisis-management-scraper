@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T01:47:10.597994Z",
+  "last_updated": "2026-10-24T02:16:34.188138Z",
   "event_count": 219,
   "events": [
     {
@@ -160,16 +160,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
-      "description": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -763,7 +753,7 @@
       "severity_level": "High"
     },
     {
-      "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+      "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
       "description": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
       "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 23:10:54 +0000",
@@ -1078,6 +1068,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 23:55:39 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+      "description": "Saudi-led coalition says air defences downed a Houthi ballistic missile targeting Riyadh.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
