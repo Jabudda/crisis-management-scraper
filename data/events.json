@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T05:12:06.721427Z",
+  "last_updated": "2026-10-25T05:39:34.658128Z",
   "event_count": 224,
   "events": [
     {
@@ -240,16 +240,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
-      "description": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to authorities. Two unidentified men opened fire on the procession, with Jordan's king vowing \"the harshest retaliation.\"",
-      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 23 Oct 2026 18:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -978,6 +968,16 @@
       "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 21:08:51 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+      "description": "After two years of student-led, anti-corruption protests, Serbia is holding an early parliamentary election that could break long-time populist leader Aleksandar Vucic's grip on the Balkan country.",
+      "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Oct 2026 05:32:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
