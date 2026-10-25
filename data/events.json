@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T13:10:23.831205Z",
+  "last_updated": "2026-10-25T13:36:51.855176Z",
   "event_count": 224,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
+      "description": "A shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation, anti-terror prosecutors said Sunday. The 39-year-old man is believed to have had racist motivations behind the gun attack as most of the victims had foreign origins.",
+      "url": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
+      "published": "Sun, 25 Oct 2026 10:36:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical"
     },
     {
@@ -293,16 +303,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Suspect in racist gun attack near Paris transferred to psychiatric unit",
-      "description": "A shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation, anti-terror prosecutors said Sunday. The 39-year-old man is believed to have had racist motivations behind the gun attack as most of the victims had foreign origins.",
-      "url": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-      "published": "Sun, 25 Oct 2026 10:36:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
       "description": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, which led to the war in Gaza.",
       "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
@@ -358,16 +358,6 @@
       "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
       "published": "Sun, 25 Oct 2026 03:15:00 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
-      "description": "After killing one person and causing major disruptions in Taiwan, Typhoon Champi is now headed towards China.",
-      "url": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 24 Oct 2026 05:26:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -543,6 +533,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israel to close all West Bank land crossings on election day",
+      "description": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election.",
+      "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Oct 2026 13:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "France: Hundreds arrested after nationwide protests",
       "description": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out.",
       "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
@@ -664,7 +664,7 @@
     },
     {
       "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-      "description": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British man whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government intervention to clear the path for a full investigation to begin almost 10 months after his death, which has been ruled a homicide by a pathologist. Continue reading...",
+      "description": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government intervention to clear the path for a full investigation to begin almost 10 months after his death, which has been ruled a homicide by a pathologist. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
       "published": "Sun, 25 Oct 2026 11:00:01 GMT",
       "source": "The Guardian World",
@@ -823,6 +823,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "description": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Oct 2026 13:20:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "France: Some clashes erupted at end of protests",
       "description": "There were some clashes on Saturday, mainly in major cities and as demonstrations came to an end. French authorities say police made nearly 1,000 arrests nationwide. Here’s a report from our sister channel, France 2.",
       "url": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
@@ -968,6 +978,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168650",
       "published": "Thu, 22 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Man admits beating dad to death in picturesque town decades ago after bragging to cops about 'first body'",
+      "description": "Douglas Herlihy admitted to killing his father in a New Hampshire home in 2003. A closet door message and a 2020 boast to police helped crack the case.",
+      "url": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body",
+      "published": "Sun, 25 Oct 2026 09:00:10 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1173,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Gabby Petito court battle could decide whether Charlie Kirk family can prevail in Utah wrongful death lawsuit",
-      "description": "A Utah Supreme Court appeal in the Gabby Petito wrongful death case could clear the way for Charlie Kirk's family to sue over security failures.",
-      "url": "https://www.foxnews.com/us/gabby-petito-court-battle-decide-charlie-kirk-family-prevail-utah-wrongful-death-lawsuit",
-      "published": "Fri, 23 Oct 2026 06:00:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Brazil’s rapid election count puts spotlight on voting security ahead of US midterms",
       "description": "Sen. Flávio Bolsonaro leads Luiz Inácio Lula da Silva heading into Brazil's runoff as the voting system his father attacked may hand him victory.",
       "url": "https://www.foxnews.com/world/brazils-rapid-election-count-puts-spotlight-voting-security-ahead-us-midterms",
@@ -1303,6 +1313,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+      "description": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Oct 2026 12:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
       "description": "India's opposition leader Rahul Gandhi has accused the ruling BJP of \"vote theft\" and urged people to join a rally in Delhi on November 1. The call comes amid protests over revision of electoral rolls. DW has more.",
       "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
@@ -1317,16 +1337,6 @@
       "description": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians are voting in a closely fought election that could end Aleksandar Vucic's grip on power.",
       "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 25 Oct 2026 10:42:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
-      "description": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 25 Oct 2026 10:36:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1353,7 +1363,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Student protesters aim for electoral victory over Serbia's long serving leader",
+      "title": "Student protesters aim for electoral victory over Serbia's long-serving leader",
       "description": "People in Serbia are voting in a parliamentary election that is being viewed as a showdown between former president Aleksandar Vucic and a university student protest movement.",
       "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462",
       "published": "Sun, 25 Oct 2026 07:46:00 +0000",
@@ -1364,9 +1374,9 @@
     },
     {
       "title": "UK endures second big storm of the weekend, with the north bearing the brunt this time",
-      "description": "The second storm to hit the U.K. this weekend has caused widespread travel disruptions and power outages in Scotland, Northern Ireland, and northern England",
+      "description": "The second storm to hit the U.K. this weekend has caused widespread travel disruption and power outages in Scotland, Northern Ireland, and northern England",
       "url": "https://abcnews.com/International/wireStory/uk-endures-big-storm-weekend-north-bearing-brunt-137549903",
-      "published": "Sun, 25 Oct 2026 07:00:52 -0400",
+      "published": "Sun, 25 Oct 2026 09:14:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -2037,16 +2047,6 @@
       "description": "The European Union wants to relax rules for pesticides, saying it will be easier for farmers to adopt more environmentally friendly options. But health and environmental experts say the risks are far too great.",
       "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 24 Oct 2026 10:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-      "description": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-      "url": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 24 Oct 2026 05:29:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
