@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T16:10:54.675033Z",
-  "event_count": 201,
+  "last_updated": "2026-10-28T16:35:14.795583Z",
+  "event_count": 202,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -130,6 +130,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "One year on, families seek justice after election violence",
+      "description": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces.",
+      "url": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 28 Oct 2026 16:30:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -333,6 +343,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "description": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 16:06:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
       "description": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after deposing its president. At a campaign rally in Corpus Christ, Texas, Trump touted a US oil deal with Venezuela, which the US attacked in January, capturing its long-serving leader Nicolás Maduro . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
@@ -388,16 +408,6 @@
       "url": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
       "published": "Wed, 28 Oct 2026 10:00:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Yemen appeals for help for civilians as Houthis tighten the siege of Taiz, and other Mideast news",
-      "description": "Yemeni officials have appealed for international support to protect civilians in Taiz as Iran-backed Houthi rebels tightened their siege of the city",
-      "url": "https://abcnews.com/International/wireStory/yemen-appeals-civilians-houthis-tighten-siege-taiz-mideast-137634512",
-      "published": "Wed, 28 Oct 2026 08:42:29 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -493,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Victims of Jordan’s air strikes in Syria",
-      "description": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 12:35:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Spain: High-speed train crash kills dozens, rescue operations ongoing",
       "description": "Two high-speed trains carrying hundreds of passengers collided south of Madrid. Spain's transport minister said one of the trains was told to continue its journey despite a \"red signal\" being in effect. Follow DW.",
       "url": "https://www.dw.com/en/spain-high-speed-train-crash-kills-dozens-rescue-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
@@ -528,6 +528,16 @@
       "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 27 Oct 2026 22:18:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Houthis say Saudi-led airstrikes killed 14 at a market in northern Yemen, and other Mideast news",
+      "description": "Iran-backed Houthi rebels say Saudi-led airstrikes have killed 14 people in a busy market in northern Yemen",
+      "url": "https://abcnews.com/International/wireStory/yemen-appeals-civilians-houthis-tighten-siege-taiz-mideast-137634512",
+      "published": "Wed, 28 Oct 2026 12:10:22 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -638,16 +648,6 @@
       "url": "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 28 Oct 2026 04:30:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Hundreds of troops sent to deal with anti-immigration protests",
-      "description": "More than 500 soldiers have been sent to deal with anti-migrant protests in South Africa, the country's government has said.",
-      "url": "https://news.sky.com/story/south-africa-more-than-500-troops-sent-to-deal-with-anti-immigration-protests-in-kwazulu-natal-13604332",
-      "published": "Tue, 27 Oct 2026 11:09:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -883,9 +883,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain high-speed train crash kills at least 68 after train stopped on tracks",
-      "description": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 64 people on Wednesday.",
-      "url": "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
+      "title": "Spain high-speed railway crash kills at least 68 after train stopped on tracks",
+      "description": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 68 people on Wednesday.",
+      "url": "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
       "published": "Wed, 28 Oct 2026 07:08:48 -0400",
       "source": "Fox News World",
       "type": "rss",
@@ -1006,7 +1006,7 @@
       "title": "Ceasefire in Russian-occupied Ukrainian city holds for first 30 hours, officials say",
       "description": "Officials say that a six-day ceasefire in the Russian-occupied city of Oleshky in southern Ukraine has held for its first day and night",
       "url": "https://abcnews.com/International/wireStory/ceasefire-russian-occupied-ukrainian-city-holds-30-hours-137632288",
-      "published": "Wed, 28 Oct 2026 07:57:36 -0400",
+      "published": "Wed, 28 Oct 2026 12:26:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1193,16 +1193,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
-      "description": "French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state television has suspended Spanish league broadcasts.",
-      "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 27 Oct 2026 16:49:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Luxury real estate brothers sentenced to 30 years in prison for yearslong sex-trafficking scheme",
       "description": "Luxury real estate brokers Tal and Oren Alexander and their brother Alon were sentenced after convictions in a sex-trafficking scheme prosecutors say involved dozens of women.",
       "url": "https://www.foxnews.com/us/luxury-real-estate-brothers-sentenced-30-years-prison-yearslong-sex-trafficking-scheme",
@@ -1270,6 +1260,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 14:30:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low"
     },
     {
@@ -1383,6 +1383,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Kremlin says European countries not included in next Ukraine talks",
+      "description": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 16:12:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
       "description": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
@@ -1467,16 +1477,6 @@
       "description": "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.",
       "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 12:44:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
-      "description": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 12:22:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1763,6 +1763,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Israel's 'AI election'",
+      "description": "👉Listen to This Is Why on your podcast app👈",
+      "url": "https://news.sky.com/story/israels-ai-election-13604883",
+      "published": "Wed, 28 Oct 2026 14:39:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Mbappe apologises for 'ill-judged' Mao remark after being dropped by Chinese brands",
       "description": "French footballer Kylian Mbappe has apologised for an \"ill-judged\" remark about Mao Zedong after being dropped by Chinese brands.",
       "url": "https://news.sky.com/story/french-football-star-kylian-mbappe-dropped-by-chinese-brands-after-dictator-remark-13604279",
@@ -1786,7 +1796,7 @@
       "title": "Chileans push to protect oceans that have been hurt by intensive salmon farming",
       "description": "The remote Guaitecas Archipelago has more than 40 small islands and is a gateway to Chile’s Patagonia region",
       "url": "https://abcnews.com/International/wireStory/southern-chile-locals-push-protect-oceans-hurt-intensive-137639233",
-      "published": "Wed, 28 Oct 2026 11:11:31 -0400",
+      "published": "Wed, 28 Oct 2026 11:54:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1816,7 +1826,7 @@
       "title": "China takes Mbappé apology 'seriously' after backlash over 'Chinese dictator' remark",
       "description": "China has acknowledged soccer star Kylian Mbappé's apology for comments seen as disrespectful to Mao Zedong, the founding leader of Communist China",
       "url": "https://abcnews.com/International/wireStory/china-takes-mbapps-apology-after-backlash-chinese-dictator-137633422",
-      "published": "Wed, 28 Oct 2026 08:43:13 -0400",
+      "published": "Wed, 28 Oct 2026 10:26:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1858,6 +1868,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
       "published": "Tue, 27 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Dolores Huerta, United Farm Workers co-founder who accused César Chavez of sex abuse, dead at 96",
+      "description": "No description available.",
+      "url": "https://www.foxnews.com/us/united-farmworkers-co-founder-dolores-huerta-dead-96",
+      "published": "Wed, 28 Oct 2026 12:20:33 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1917,16 +1937,6 @@
       "description": "DNA evidence has linked Ted Bundy to the 1974 murder of 17-year-old Melissa Ann Smith, months after DNA tied him to Laura Ann Aime's killing.",
       "url": "https://www.foxnews.com/us/ted-bundy-expected-linked-another-decades-old-homicide-nearly-40-years-after-execution",
       "published": "Tue, 27 Oct 2026 13:51:25 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump takes campaign blitz to Texas with one week until midterms and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/trump-takes-campaign-blitz-texas-one-week-until-midterms-more-top-headlines",
-      "published": "Tue, 27 Oct 2026 07:20:23 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
