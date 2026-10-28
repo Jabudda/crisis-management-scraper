@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T14:10:26.004390Z",
-  "event_count": 220,
+  "last_updated": "2026-10-28T14:35:08.419912Z",
+  "event_count": 221,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -60,6 +60,16 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "description": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country. Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "published": "Wed, 28 Oct 2026 14:16:24 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -143,16 +153,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Death toll in Spain train crash rises to at least 64, with rescue and recovery operations ongoing",
-      "description": "Two high-speed trains carrying hundreds of passengers collided in central Spain south of Madrid. Officials warn that the death toll is likely to increase. Follow DW.",
-      "url": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-64-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 28 Oct 2026 13:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Experts urge 'global health emergency' as climate harms accelerate",
       "description": "A new Lancet report reveals the growing toll of climate change on human health, from rising heat deaths and drought to food insecurity and lost livelihoods.",
       "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
@@ -190,16 +190,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-      "description": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of 2027. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-      "published": "Mon, 26 Oct 2026 06:59:36 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -247,6 +237,16 @@
       "description": "Young people in Germany will take to the streets this weekend to demand education and action on climate change. Politicians warn that the protests could become violent, as in France, but the situations are different.",
       "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 28 Oct 2026 13:43:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Death toll in Spain train crash rises to at least 64, with rescue and recovery operations ongoing",
+      "description": "Two high-speed trains carrying hundreds of passengers collided south of Madrid. Spain's transport minister said one of the trains was told to continue its journey despite a \"red signal\" being in effect. Follow DW.",
+      "url": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-64-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 28 Oct 2026 13:12:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
@@ -593,6 +593,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+      "description": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran.",
+      "url": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 28 Oct 2026 14:20:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Flavio Bolsonaro flees Brazil for US amid investigation",
       "description": "Flavio Bolsonaro, who lost to incumbent Lula in Sunday's presidential election, has reportedly fled the country. Bolsonaro, who is facing multiple corruption probes, has refused to concede.",
       "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
@@ -628,6 +638,16 @@
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 10:17:36 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+      "description": "The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 13:56:41 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -728,6 +748,16 @@
       "url": "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 28 Oct 2026 04:30:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Hundreds of troops sent to deal with anti-immigration protests",
+      "description": "More than 500 soldiers have been sent to deal with anti-migrant protests in South Africa, the country's government has said.",
+      "url": "https://news.sky.com/story/south-africa-more-than-500-troops-sent-to-deal-with-anti-immigration-protests-in-kwazulu-natal-13604332",
+      "published": "Tue, 27 Oct 2026 11:09:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -903,16 +933,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
-      "description": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
-      "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 27 Oct 2026 12:54:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Brazil: Flavio Bolsonaro leaves Argentina for alleged US asylum after defeat",
       "description": "Flavio Bolsonaro, who lost Brazil's runoff election to incumbent Luiz Inacio Lula da Silva on Sunday, boarded a flight to Ecuador after arriving in Argentina on Tuesday night, October 27. He is expected to land in Miami, as the US State Department said it would issue visas to him and his family. France 24's correspondent in Rio de Janeiro Tim Vickery reports the latest.",
       "url": "https://www.france24.com/en/video/20261028-brazil-flavio-bolsonaro-leaves-argentina-for-alleged-us-asylum-after-defeat",
@@ -938,6 +958,16 @@
       "url": "https://abcnews.com/International/wireStory/islamic-militants-kill-20-somali-soldiers-ambush-officer-137631631",
       "published": "Wed, 28 Oct 2026 04:09:54 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nightmare at Halloween attraction sparks hunt for more victims, 1 arrested",
+      "description": "Edward Eisenhard allegedly strangled and assaulted a woman at Valley of Fear haunted hayride in Bucks County on the attraction's opening night.",
+      "url": "https://www.foxnews.com/us/nightmare-halloween-attraction-sparks-hunt-more-victims-1-arrested",
+      "published": "Wed, 28 Oct 2026 10:15:59 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1050,6 +1080,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israel's election result is messy - here's why",
+      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 14:26:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1173,8 +1213,18 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Espionage threats blur lines between security and dissent in Iran",
+      "description": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 14:03:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Spanish football postpones 24 Copa del Rey games after train crash",
-      "description": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement.",
+      "description": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement .",
       "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 13:48:09 +0000",
       "source": "Al Jazeera",
@@ -1493,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 04:22:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Watch: The Mbappé-Chairman Mao controversy explained",
       "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
       "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
@@ -1643,26 +1683,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
-      "description": "Pro-Palestinian activist Mahmoud Khalil returned to Columbia University for the first time since his US detention.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 11:00:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Burnham’s government unveils its first UK budget: What to expect",
-      "description": "UK chancellor to present an autumn budget amid rising living costs and energy bills.",
-      "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 10:42:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1774,7 +1794,7 @@
     },
     {
       "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-      "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election runoff is expected to hold a press conference. The Gulfstream IV, registered as LV-JQW, left Guayaquil in Ecuador earlier in the day. Continue reading...",
+      "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election runoff left the airport under police escort without speaking to the press. The Gulfstream IV, registered as LV-JQW, left Guayaquil in Ecuador earlier in the day. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
       "published": "Wed, 28 Oct 2026 13:39:01 GMT",
       "source": "The Guardian World",
@@ -1944,7 +1964,7 @@
     },
     {
       "title": "Flavio Bolsonaro lands in US after fleeing Brazil following election defeat",
-      "description": "Flavio Bolsonaro and his family have arrived in the US after fleeing Brazil following Sunday's presidential election runoff defeat.",
+      "description": "Flavio Bolsonaro and his family have arrived in the US after fleeing Brazil following Sunday's presidential election run-off defeat.",
       "url": "https://news.sky.com/story/flavio-bolsonaro-flies-from-us-after-brazil-election-defeat-reports-he-fled-to-miami-13604558",
       "published": "Tue, 27 Oct 2026 21:35:00 +0000",
       "source": "Sky News World",
@@ -2107,16 +2127,6 @@
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/trump-takes-campaign-blitz-texas-one-week-until-midterms-more-top-headlines",
       "published": "Tue, 27 Oct 2026 07:20:23 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Feds crack down on stolen car pipeline to Mexican cartels as 13 charged in border scheme",
-      "description": "Operation Southbound Takedown recovered 29 stolen cars worth $1.14 million allegedly funneled through El Paso to Mexican cartels for daily operations.",
-      "url": "https://www.foxnews.com/us/mexican-cartels-stolen-vehicles-el-paso",
-      "published": "Tue, 27 Oct 2026 03:27:58 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
