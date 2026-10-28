@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T04:11:02.155564Z",
+  "last_updated": "2026-10-28T04:35:38.908352Z",
   "event_count": 220,
   "events": [
     {
@@ -28,6 +28,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
       "published": "Tue, 27 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US military kills five in eastern Pacific strike on suspected drug-trafficking vessel",
+      "description": "Video shows a go-fast vessel erupt into a massive fireball as SOUTHCOM confirms five narco-terrorists were killed in the eastern Pacific strike.",
+      "url": "https://www.foxnews.com/us/us-military-kills-five-eastern-pacific-strike-suspected-drug-trafficking-vessel",
+      "published": "Wed, 28 Oct 2026 00:05:35 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 36,
       "severity_level": "Critical"
@@ -103,10 +113,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Liberal MP ejected from question time for swearing",
+      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Coalition MP ejected from question time for swearing",
       "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence. We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture. This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "published": "Wed, 28 Oct 2026 04:00:31 GMT",
+      "published": "Wed, 28 Oct 2026 04:26:35 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
@@ -338,16 +348,6 @@
       "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
       "published": "Tue, 27 Oct 2026 00:54:30 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-      "description": "The England captain ends his country's 25-year wait for the prestigious award after scoring 73 goals for club and country last season, beating competition from Lamine Yamal and Kylian Mbappe.",
-      "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 26 Oct 2026 23:06:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -1083,6 +1083,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "India news: Cyclone Arnab brings heavy rain, disruption",
+      "description": "Cyclone Arnab is making a slow-motion landfall at India's east coast with states evacuating thousands of residents. Also, a new report says India is among nations with highest heatwave exposure for infants. Follow live",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 28 Oct 2026 04:30:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Serbia’s victorious student movement faces tough challenges as it prepares to take power",
       "description": "Serbia’s youth movement pulled out a stunning election victory at the weekend against the country’s long-time strongman ruler Aleksandar Vucic",
       "url": "https://abcnews.com/International/wireStory/serbias-victorious-student-movement-faces-tough-challenges-prepares-137607522",
@@ -1516,8 +1526,18 @@
       "title": "Watch: What happens now after close vote in Israeli election?",
       "description": "Polls have closed in the Israeli election, but there is no clear winner.",
       "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:04:29 GMT",
+      "published": "Wed, 28 Oct 2026 04:22:59 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+      "description": "Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 03:49:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1617,16 +1637,6 @@
       "description": "News comes one day after Brazil's Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe.",
       "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
       "published": "Tue, 27 Oct 2026 21:47:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Will players in the Gulf establish a new security framework?",
-      "description": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
-      "published": "Tue, 27 Oct 2026 21:14:12 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2117,16 +2127,6 @@
       "description": "Body camera video shows deputies arresting Irene Miller at the airport after her four children were found home alone while she was in Las Vegas.",
       "url": "https://www.foxnews.com/us/florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies",
       "published": "Tue, 27 Oct 2026 00:03:11 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "West Virginia couple charged after kids found in alleged 'house of horrors'",
-      "description": "Authorities said the three children were removed from the home after investigators uncovered disturbing allegations of yearslong abuse and neglect.",
-      "url": "https://www.foxnews.com/us/west-virginia-couple-charged-kids-found-alleged-house-horrors",
-      "published": "Mon, 26 Oct 2026 20:16:48 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
