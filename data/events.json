@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T03:11:57.171953Z",
+  "last_updated": "2026-10-29T03:36:28.778765Z",
   "event_count": 222,
   "events": [
     {
@@ -63,16 +63,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 62 killed and thousands displaced in gunmen attack in Nigeria",
-      "description": "At least 62 people have been killed after an attack in northeastern Nigeria, the country's emergency agency said.",
-      "url": "https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353",
-      "published": "Tue, 27 Oct 2026 12:02:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Watch: At the scene of Spain's deadly train crash",
       "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
       "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
@@ -110,6 +100,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Higher Ground: How New York is raising a park to hold back the sea",
+      "description": "On 29 October 2012, Hurricane Sandy slammed into New York City, unleashing a devastating storm surge that flooded homes, subways and tunnels, knocked out power and sparked deadly fires.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -173,30 +173,10 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Spain demands answers after deadliest train disaster in over a decade",
-      "description": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 19:32:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "One year on, families seek justice after election violence",
       "description": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces.",
       "url": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 28 Oct 2026 16:30:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Experts urge 'global health emergency' as climate harms accelerate",
-      "description": "A new Lancet report reveals the growing toll of climate change on human health, from rising heat deaths and drought to food insecurity and lost livelihoods.",
-      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 28 Oct 2026 00:05:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 25,
@@ -313,6 +293,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Thousands in Kosovo demand state action after 8 women die this year in domestic violence",
+      "description": "Angry protesters have splashed red paint on government buildings in Kosovo during a protest demanding state action over widespread violence against women in the staunchly patriarchal Balkan country",
+      "url": "https://abcnews.com/International/wireStory/thousands-kosovo-demand-state-action-after-8-women-137650643",
+      "published": "Wed, 28 Oct 2026 14:48:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Spain’s 4 deadly train crashes this year, at a glance",
       "description": "Wednesday’s collision between two high-speed trains in central Spain was the second fatal crash in nine months on a network long held up as a national success story",
       "url": "https://abcnews.com/International/wireStory/spains-4-deadly-train-crashes-year-glance-137642086",
@@ -343,7 +333,17 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Strikes on Darfur market in Sudan kill more than 100, rights group says",
+      "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
+      "description": "Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 03:00:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
       "description": "Women and children killed as witnesses say attack struck civilian shopkeepers, RSF fighters.",
       "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
       "published": "Thu, 29 Oct 2026 02:48:38 +0000",
@@ -396,7 +396,7 @@
       "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
       "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "published": "Thu, 29 Oct 2026 03:05:11 GMT",
+      "published": "Thu, 29 Oct 2026 03:18:51 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
@@ -438,16 +438,6 @@
       "url": "https://www.france24.com/en/amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
       "published": "Wed, 28 Oct 2026 19:54:38 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High"
-    },
-    {
-      "title": "Ebola cases in DRC surpass 10,000 as nurse treating patients is killed by machete-wielding mob",
-      "description": "The number of Ebola cases in the Democratic Republic of Congo (DRC) has surpassed 10,000, government data showed, as fears that the epidemic could spread to more African countries grow.",
-      "url": "https://news.sky.com/story/ebola-cases-in-democratic-republic-of-congo-surpass-10000-as-nurse-treating-patients-is-killed-by-machete-wielding-mob-13604219",
-      "published": "Tue, 27 Oct 2026 02:56:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -553,21 +543,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Knife attacker shot dead by police outside Israeli embassy",
-      "description": "A man carrying knives has been killed by police after attacking an officer outside the Israeli embassy in Belgrade.",
-      "url": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
-      "published": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "description": "An eight-year-old girl has been seriously injured in a wolf attack at a wildlife park in Germany.",
+      "url": "https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151",
+      "published": "Thu, 29 Oct 2026 02:03:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
     },
     {
-      "title": "Police say assailant killed after attacking guard outside Israeli Embassy in Belgrade",
-      "description": "Serbian police say an unidentified assailant attacked a guard with knives outside the Israeli Embassy in Belgrade and was killed just after midnight Wednesday",
-      "url": "https://abcnews.com/International/wireStory/serbian-police-assailant-killed-after-attacking-guard-israeli-137630865",
-      "published": "Wed, 28 Oct 2026 02:46:04 -0400",
-      "source": "ABC News International",
+      "title": "Knife attacker shot dead by police outside Israeli embassy",
+      "description": "A man carrying knives has been killed by police after attacking an officer outside the Israeli embassy in Belgrade.",
+      "url": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
+      "published": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -766,16 +756,6 @@
       "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
       "description": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-      "published": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "In Egypt, Guterres warns against Iran-US escalation",
-      "description": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
       "published": "Mon, 26 Oct 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
@@ -1123,16 +1103,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cyclone Arnab hits India's Andhra Pradesh state as tens of thousands evacuate",
-      "description": "Officials say Cyclone Arnab crossed India’s Andhra Pradesh coast early Wednesday, a day after tens of thousands of people were forced to evacuate from vulnerable coastal areas in the eastern state",
-      "url": "https://abcnews.com/International/wireStory/cyclone-arnab-hits-indias-andhra-pradesh-state-tens-137629755",
-      "published": "Wed, 28 Oct 2026 02:55:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Florida girlfriend allegedly tracks cheating boyfriend, shoots woman in his car: reports",
       "description": "Katherine Dale Kelly allegedly used an Uber to track her boyfriend to a late-night meeting before opening fire on the woman inside the vehicle.",
       "url": "https://www.foxnews.com/us/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-his-car",
@@ -1213,10 +1183,30 @@
       "severity_level": "Medium"
     },
     {
+      "title": "US holds interest rates - ahead of possible Bank of England hike",
+      "description": "The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs.",
+      "url": "https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142",
+      "published": "Wed, 28 Oct 2026 23:51:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "After years under fire, a rare quiet settles over Ukrainian city as truce holds",
       "description": "A planned six-day ceasefire brokered by U.S. first lady Melania Trump has brought rare quiet to the Ukrainian-held city of Kherson",
       "url": "https://abcnews.com/International/wireStory/after-years-fire-rare-quiet-settles-ukrainian-city-137648390",
       "published": "Wed, 28 Oct 2026 14:49:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ceasefire in Russian-occupied Ukrainian city holds for first 30 hours, officials say",
+      "description": "Officials say that a six-day ceasefire in the Russian-occupied city of Oleshky in southern Ukraine has held for its first day and night",
+      "url": "https://abcnews.com/International/wireStory/ceasefire-russian-occupied-ukrainian-city-holds-30-hours-137632288",
+      "published": "Wed, 28 Oct 2026 12:26:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1463,6 +1453,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
+      "description": "The leaked information reportedly includes names, phone numbers and email addresses of personnel across several US security agencies. This follows recent data breaches involving the FBI and the Defense Department.",
+      "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 29 Oct 2026 03:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Which way will Israel break? Netanyahu still in it after election night surprises",
       "description": "In Israel, the surprises only start with election night: they're still counting ballots in a vote that featured the highest turnout in decades, historic inroads by Arab parties, Benjamin Netanyahu’s worst result since 1999 and yet Israel’s longest-serving prime minister still has a path to staying in power. As we await the definitive makeup of the next parliament, our panel breaks out the calculators and pie charts: in what scenario does Netanyahu survive? Is the issue with the right-wing Likud leader or his policies?",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
@@ -1623,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+      "description": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 03:12:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Israelis rally for Jewish-Arab government after election gains",
       "description": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
@@ -1697,16 +1707,6 @@
       "description": "US envoy reads anti-Castro book during Cuban FM’s UN address",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 20:02:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-      "description": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 19:13:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1983,20 +1983,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Chileans push to protect oceans that have been hurt by intensive salmon farming",
-      "description": "The remote Guaitecas Archipelago has more than 40 small islands and is a gateway to Chile’s Patagonia region",
-      "url": "https://abcnews.com/International/wireStory/southern-chile-locals-push-protect-oceans-hurt-intensive-137639233",
-      "published": "Wed, 28 Oct 2026 11:54:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Russell Brand denies all charges as he takes the stand at rape and sex assault trial",
-      "description": "Russell Brand says allegations of sexual misconduct have had a “devastating” impact on his life",
-      "url": "https://abcnews.com/International/wireStory/russell-brand-denies-charges-takes-stand-rape-sex-137634483",
-      "published": "Wed, 28 Oct 2026 08:42:19 -0400",
+      "title": "Popemobile exhibition at the Vatican features the vehicle popes have used since 1930",
+      "description": "The Vatican is opening a celebration of the popemobile",
+      "url": "https://abcnews.com/International/wireStory/popemobile-exhibition-unveiled-vatican-featuring-vehicle-popes-1930-137650644",
+      "published": "Wed, 28 Oct 2026 16:11:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2013,20 +2003,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "China takes Mbappé apology 'seriously' after backlash over 'Chinese dictator' remark",
-      "description": "China has acknowledged soccer star Kylian Mbappé's apology for comments seen as disrespectful to Mao Zedong, the founding leader of Communist China",
-      "url": "https://abcnews.com/International/wireStory/china-takes-mbapps-apology-after-backlash-chinese-dictator-137633422",
-      "published": "Wed, 28 Oct 2026 10:26:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Popemobile exhibition at the Vatican features the vehicle popes have used since 1930",
-      "description": "The Vatican is opening a celebration of the popemobile",
-      "url": "https://abcnews.com/International/wireStory/popemobile-exhibition-unveiled-vatican-featuring-vehicle-popes-1930-137650644",
-      "published": "Wed, 28 Oct 2026 16:11:58 -0400",
+      "title": "Chileans push to protect oceans that have been hurt by intensive salmon farming",
+      "description": "The remote Guaitecas Archipelago has more than 40 small islands and is a gateway to Chile’s Patagonia region",
+      "url": "https://abcnews.com/International/wireStory/southern-chile-locals-push-protect-oceans-hurt-intensive-137639233",
+      "published": "Wed, 28 Oct 2026 11:54:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2037,6 +2017,26 @@
       "description": "The Philippines' foreign secretary has arrived in Myanmar to oversee humanitarian aid distribution",
       "url": "https://abcnews.com/International/wireStory/philippines-top-diplomat-leads-humanitarian-mission-myanmar-137638992",
       "published": "Wed, 28 Oct 2026 11:05:49 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russell Brand denies all charges as he takes the stand at rape and sex assault trial",
+      "description": "Russell Brand says allegations of sexual misconduct have had a “devastating” impact on his life",
+      "url": "https://abcnews.com/International/wireStory/russell-brand-denies-charges-takes-stand-rape-sex-137634483",
+      "published": "Wed, 28 Oct 2026 08:42:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "China takes Mbappé apology 'seriously' after backlash over 'Chinese dictator' remark",
+      "description": "China has acknowledged soccer star Kylian Mbappé's apology for comments seen as disrespectful to Mao Zedong, the founding leader of Communist China",
+      "url": "https://abcnews.com/International/wireStory/china-takes-mbapps-apology-after-backlash-chinese-dictator-137633422",
+      "published": "Wed, 28 Oct 2026 10:26:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
