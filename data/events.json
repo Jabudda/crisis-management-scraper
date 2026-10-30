@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T18:34:32.192965Z",
+  "last_updated": "2026-10-30T19:07:21.081953Z",
   "event_count": 222,
   "events": [
     {
@@ -78,16 +78,6 @@
       "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
       "published": "Wed, 28 Oct 2026 14:16:24 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Spanish transport minister faces calls to quit after deadly train crash",
-      "description": "Spanish Transport Minister Oscar Puente faced calls to resign but ruled out stepping down on Friday. This follows Wednesday’s train crash in Toledo province, which killed 69 people. It is the country’s second high-speed rail disaster this year. FRANCE 24 correspondent Sarah Morris reports.",
-      "url": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
-      "published": "Fri, 30 Oct 2026 14:21:39 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical"
@@ -823,6 +813,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
+      "description": "Several social media accounts associated with sharing anti-immigrant views claim French Muslims were responsible for burning five churches on October 17 – the day the nation was rocked by en masse protests. But both this number and story are fictitious. The French government agency that monitors religious heritage sites confirmed only one fire in a church occured in recent days; its cause unknown.",
+      "url": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
+      "published": "Fri, 30 Oct 2026 18:37:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "FIFA to double Women's World Cup prize money - but it doesn't match men's tournament",
       "description": "FIFA plans to double Women's World Cup prize money next year but will not deliver on Gianni Infantino's ambition to match the cash paid out at the men's tournament, Sky News has learnt.",
       "url": "https://news.sky.com/story/fifa-to-double-womens-world-cup-prize-money-but-it-doesnt-match-mens-tournament-13605433",
@@ -898,6 +898,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 06:02:23 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+      "description": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+      "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 18:35:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+      "description": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 18:33:29 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1228,16 +1248,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 17:25:20 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-      "description": "Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.",
-      "url": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
-      "published": "Fri, 30 Oct 2026 13:29:57 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1663,16 +1673,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Palestinian child survives Israeli gunshot to the head",
-      "description": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-      "published": "Fri, 30 Oct 2026 13:32:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2013,7 +2013,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Bugatti CEO chases chases down car thief - then offers him lift home",
+      "title": "Bugatti CEO chases down car thief - then offers him lift home",
       "description": "The head of the luxury car-maker Bugatti has promised to stop leaving his keys in his own car after his £2m model was stolen from a company site in Zagreb.",
       "url": "https://news.sky.com/story/bugattis-ceo-mate-rimac-chases-down-car-thief-then-offers-him-lift-home-13605756",
       "published": "Fri, 30 Oct 2026 14:52:00 +0000",
