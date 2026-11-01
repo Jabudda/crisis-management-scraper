@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T12:10:32.195145Z",
+  "last_updated": "2026-11-01T12:34:06.527110Z",
   "event_count": 220,
   "events": [
     {
@@ -30,6 +30,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 45,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "description": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that. The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "published": "Sun, 01 Nov 2026 12:00:12 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 41,
       "severity_level": "Critical"
     },
     {
@@ -88,16 +98,6 @@
       "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 1 Nov 2026 06:19:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Greenland opens new international airport to lure tourists",
-      "description": "Greenland has opened a new international airport, seeking to lure visitors from around the world as the Arctic island looks toward eventual independence from Denmark",
-      "url": "https://abcnews.com/International/wireStory/greenland-opens-new-international-airport-lure-tourists-eyes-137708492",
-      "published": "Fri, 30 Oct 2026 11:00:44 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical"
@@ -226,7 +226,7 @@
       "title": "Germany news: Gen Z group calls for new protests",
       "description": "The group behind German demonstrations this weekend has called for more protests to keep pressure on the government to act. Meanwhile, the IG Metall union has begun warning strikes after pay talks collapse. DW has more.",
       "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 1 Nov 2026 10:46:00 GMT",
+      "published": "Sun, 1 Nov 2026 12:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 20,
@@ -323,16 +323,6 @@
       "severity_level": "High"
     },
     {
-      "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
-      "description": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions and business groups has said the Pacific nation is in the midst of a “national crisis”, but there appears to be “no coordinated plan to protect vulnerable communities from the worsening impacts of El Niño.” Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
-      "published": "Fri, 30 Oct 2026 01:45:56 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
       "title": "France seethes again as youth-led protests sweep Europe",
       "description": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
       "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
@@ -363,6 +353,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Biological weapons: The weaponization of disease",
+      "description": "Biological weapons are prohibited under international law. But new developments in biotech and AI are a cause for concern. DW addresses some of the most important questions about their history, risks, and control.",
+      "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 1 Nov 2026 12:25:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
       "title": "Germany's search for a nuclear waste site",
       "description": "Finland has become the first country with a final storage facility for nuclear waste. Germany is still searching for a site, while some countries have yet to start. Costs are expected to total many billions of euros.",
       "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-xml-mrss",
@@ -378,6 +378,16 @@
       "url": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
       "published": "Sat, 31 Oct 2026 12:45:49 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Sporadic gunfire sends Ethiopians fleeing into Kenya as trucks remain stuck at border",
+      "description": "Gunfire was heard from the Ethiopian border town of Moyale as civilians continue to flee into Kenya to escape violence from a regional dispute",
+      "url": "https://abcnews.com/International/wireStory/sporadic-gunfire-sends-ethiopians-fleeing-kenya-trucks-remain-137699895",
+      "published": "Fri, 30 Oct 2026 08:29:02 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -567,6 +577,16 @@
       "description": "Iran's supreme leader has threatened an immediate response to any potential attack from the U.S. or Israel",
       "url": "https://abcnews.com/International/wireStory/iranian-leader-threatens-immediate-response-potential-attack-mideast-137731097",
       "published": "Sat, 31 Oct 2026 12:11:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
+      "description": "South Korea says North Korea has launched a barrage of ballistic missiles toward the sea",
+      "url": "https://abcnews.com/International/wireStory/north-korea-fires-missile-barrage-sea-tensions-south-137662901",
+      "published": "Thu, 29 Oct 2026 02:44:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -813,6 +833,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Brief truce agreed by Russia and Ukraine allows aid operation in Oleshky",
+      "description": "Russian and Ukrainian officials have entered the devastated city of Oleshky following a rare ceasefire brokered by U.S. first lady Melania Trump",
+      "url": "https://abcnews.com/International/wireStory/brief-truce-agreed-russia-ukraine-allows-aid-operation-137698142",
+      "published": "Fri, 30 Oct 2026 10:18:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Nature is making a comeback – now restoration funding must quadruple",
       "description": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
@@ -1053,6 +1083,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Polish opposition leader floats EU exit talks to force reforms",
+      "description": "Poland's main opposition leader, Jarosław Kaczyński, suggests that countries led by nationalist parties could negotiate leaving the European Union",
+      "url": "https://abcnews.com/International/wireStory/polish-opposition-leader-floats-eu-exit-talks-force-137678181",
+      "published": "Thu, 29 Oct 2026 11:45:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Somalia looks to the future as the UN's political mission closes",
       "description": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end on 31 October.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168714",
@@ -1087,16 +1127,6 @@
       "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 11:57:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 07:00:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1253,16 +1283,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
-      "description": "Shankar Temple Grace allegedly stabbed two people at The Buzz Mill before fleeing in a pickup truck and crashing into an unoccupied vehicle.",
-      "url": "https://www.foxnews.com/us/man-dressed-zombie-allegedly-stabs-two-coffee-shop-flees-hits-robotaxi",
-      "published": "Thu, 29 Oct 2026 21:04:29 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
       "description": "Emmanuel Macron's government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
       "url": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
@@ -1294,7 +1314,7 @@
     },
     {
       "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "description": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea. The remaining 10% of tokens are less liquid, meaning they ⁠may take ​longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the ⁠remaining 10%” and that “users will not bear the financial impact of this incident”. Continue reading...",
+      "description": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
       "published": "Sun, 01 Nov 2026 11:54:23 GMT",
       "source": "The Guardian World",
@@ -1318,16 +1338,6 @@
       "url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
       "published": "Sat, 31 Oct 2026 17:14:34 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Cuba welcomes home diplomat expelled from US after unusual altercation at the UN",
-      "description": "Cuba has welcomed home a diplomat expelled by the United States after a heated confrontation at the United Nations this week",
-      "url": "https://abcnews.com/International/wireStory/cuba-welcomes-home-diplomat-expelled-us-after-unusual-137714206",
-      "published": "Fri, 30 Oct 2026 13:37:00 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1403,6 +1413,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Former Pentagon UFO chief disputes FBI black triangle sighting, says reports lack evidence",
+      "description": "The former Pentagon UFO office chief says the FBI's triangular object sighting lacks evidence, calling witness credibility a \"classic authority bias.\"",
+      "url": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence",
+      "published": "Sun, 01 Nov 2026 07:00:24 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Netanyahu's bloc falls short as longtime allies reportedly weigh move that could end his rule",
       "description": "Netanyahu's bloc secured only 53 Knesset seats as ultra-Orthodox allies reportedly explore breaking ranks to back Gadi Eisenkot's opposition.",
       "url": "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
@@ -1457,6 +1477,16 @@
       "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
       "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:41:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 07:00:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1903,16 +1933,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-      "description": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
-      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Oct 2026 20:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A day of celebration in Senegal as the Youth Olympic Games get underway",
       "description": "It is a historic day for Africa and Senegal. For the first time ever, an Olympic competition is being held on African soil. The Youth Olympic Games officially got underway in Senegal in the Dakar region on Saturday, with an opening ceremony attended by 30,000 people. The competition, which brings together 2,700 athletes aged between 14 and 17, will take place across three Senegalese cities, with 25 sports on the programme.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway",
@@ -1937,6 +1957,16 @@
       "description": "Former European 1,500m champion Ciara Mageean has died at the age of 34.",
       "url": "https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579",
       "published": "Sun, 01 Nov 2026 08:15:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Suspected far-right activists from Britain 'with tear gas bombs' detained in France",
+      "description": "Five suspected far-right activists from Britain were detained in northern France last Thursday, according to authorities.",
+      "url": "https://news.sky.com/story/suspected-far-right-activists-from-britain-with-tear-gas-bombs-detained-in-france-say-authorities-13606604",
+      "published": "Sun, 01 Nov 2026 12:09:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -1983,11 +2013,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Crypto industry suffers 'largest bank heist in human history'",
-      "description": "Cryptocurrency worth more than $6.3bn (£4.7bn) has been stolen from a major exchange - with one industry insider telling Sky News it is \"the largest bank heist in human history\".",
-      "url": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
-      "published": "Thu, 29 Oct 2026 23:40:00 +0000",
-      "source": "Sky News World",
+      "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+      "description": "Evacuees from Russian-occupied Oleshky have crossed into Ukrainian-held territory",
+      "url": "https://abcnews.com/International/wireStory/evacuees-reunite-family-ukrainian-belarusian-border-after-fleeing-137730820",
+      "published": "Sat, 31 Oct 2026 13:00:19 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1996,27 +2026,7 @@
       "title": "Filipino families keep their loved ones close on All Saints' Day",
       "description": "Lorita Santos cherishes memories of her father as she joins thousands in Manila to honor loved ones on All Saints’ Day",
       "url": "https://abcnews.com/International/wireStory/filipino-families-loved-close-saints-day-137745285",
-      "published": "Sun, 01 Nov 2026 06:38:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Turkey moves Kurdish militant leader to new part of an island prison under peace push",
-      "description": "Turkey has moved Kurdish militant leader Abdullah Ocalan to a new section of his island prison",
-      "url": "https://abcnews.com/International/wireStory/turkey-moves-kurdish-militant-leader-ocalan-new-part-137745191",
-      "published": "Sun, 01 Nov 2026 06:06:31 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Mexico comes alive during annual Day of the Dead celebrations",
-      "description": "Bright orange marigolds, glowing candles, and painted faces fill Mexico's streets during the Day of the Dead celebrations",
-      "url": "https://abcnews.com/International/wireStory/mexico-alive-annual-day-dead-celebrations-137733002",
-      "published": "Sun, 01 Nov 2026 02:38:15 -0500",
+      "published": "Sun, 01 Nov 2026 07:18:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2033,10 +2043,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
-      "description": "Evacuees from Russian-occupied Oleshky have crossed into Ukrainian-held territory",
-      "url": "https://abcnews.com/International/wireStory/evacuees-reunite-family-ukrainian-belarusian-border-after-fleeing-137730820",
-      "published": "Sat, 31 Oct 2026 13:00:19 -0400",
+      "title": "Mexico comes alive during annual Day of the Dead celebrations",
+      "description": "Bright orange marigolds, glowing candles, and painted faces fill Mexico's streets during the Day of the Dead celebrations",
+      "url": "https://abcnews.com/International/wireStory/mexico-alive-annual-day-dead-celebrations-137733002",
+      "published": "Sun, 01 Nov 2026 02:38:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,20 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Russia's top independent newspaper shuts down, blaming pressure from authorities",
-      "description": "Russia's renowned independent newspaper, Novaya Gazeta, has announced its closure after over three decades, citing relentless official pressure",
-      "url": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-shuts-blaming-pressure-authorities-137706820",
-      "published": "Fri, 30 Oct 2026 10:16:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope Leo XIV has become the first pope in history to vote in a US election",
-      "description": "Pope Leo XIV has become the first pope in history to vote in a U.S. general election",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-become-pope-history-vote-us-137704157",
-      "published": "Fri, 30 Oct 2026 09:43:07 -0400",
+      "title": "Turkey moves Kurdish militant leader to new part of an island prison under peace push",
+      "description": "Turkey has moved Kurdish militant leader Abdullah Ocalan to a new section of his island prison",
+      "url": "https://abcnews.com/International/wireStory/turkey-moves-kurdish-militant-leader-ocalan-new-part-137745191",
+      "published": "Sun, 01 Nov 2026 06:06:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
