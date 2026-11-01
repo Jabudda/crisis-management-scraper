@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T08:09:51.315743Z",
+  "last_updated": "2026-11-01T08:34:38.649759Z",
   "event_count": 219,
   "events": [
     {
@@ -150,16 +150,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-      "description": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with 'terrorists'.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
-      "published": "Sun, 01 Nov 2026 02:05:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -360,6 +350,16 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+      "description": "New York City mayor says US president 'has agreed to grant her visa immediately'.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+      "published": "Sun, 01 Nov 2026 08:18:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -773,7 +773,7 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Police storm Portugal housing protest camps",
+      "title": "Police storm Portugal housing protest camp",
       "description": "Dozens of officers, some accompanied by police dogs, moved into Rossio Square in Lisbon early on Sunday.",
       "url": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
       "published": "Sun, 01 Nov 2026 07:06:21 +0000",
@@ -927,16 +927,6 @@
       "description": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
       "published": "Sun, 01 Nov 2026 03:24:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
-      "description": "Thousands of people have held vigils for a 15-year-old Ghanaian boy who was chased down and killed in New York.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
-      "published": "Sun, 01 Nov 2026 03:18:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1273,6 +1263,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Bangladesh forms wage board as garment workers protest",
+      "description": "Demonstrations held in industrial cities as workers demand wage increase as cost of living rises.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
+      "published": "Sun, 01 Nov 2026 08:13:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "No, France is not ‘burning’",
       "description": "It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.",
       "url": "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss",
@@ -1450,6 +1450,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Iran security chief says US letter signals ‘positive’ shift",
+      "description": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+      "published": "Sun, 01 Nov 2026 08:14:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1683,16 +1693,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
-      "description": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-      "published": "Sun, 01 Nov 2026 02:28:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1863,6 +1863,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Donald Trump loses allies after elections in Serbia and Brazil",
+      "description": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
+      "url": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 1 Nov 2026 08:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "FBI says North Korea behind $6 billion Binance crypto theft",
       "description": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
       "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss",
@@ -1937,16 +1947,6 @@
       "description": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
       "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 30 Oct 2026 20:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
-      "description": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
-      "url": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Oct 2026 18:06:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
