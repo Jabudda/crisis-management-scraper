@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T17:34:44.300994Z",
+  "last_updated": "2026-11-02T18:10:16.666743Z",
   "event_count": 220,
   "events": [
     {
@@ -50,16 +50,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
-      "description": "King tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.",
-      "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
-      "published": "Mon, 02 Nov 2026 12:36:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 39,
       "severity_level": "Critical"
     },
     {
@@ -173,13 +163,13 @@
       "severity_level": "Critical"
     },
     {
-      "title": "France opens attempted murder probe after protest attack",
-      "description": "Paris prosecutors have opened an attempted murder investigation after a Molotov attack on police. France reported 779 arrests during nationwide protests and Halloween night, fewer than on previous weekends.",
-      "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 1 Nov 2026 14:50:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Iran engages US in 'intensive' negotiations to avert fresh war outbreak",
+      "description": "Tehran on Monday said that the country was holding \"intensive\" indirect talks with Washington to avoid a fresh round of US attacks on Iran ahead of the US midterm elections this week. Foreign ministry spokesperson Esmaeil Baghaei shared Iranian plans to reopen blockaded energy corridor, the Strait of Hormuz, if the US were to meet its demands.",
+      "url": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
+      "published": "Mon, 02 Nov 2026 17:42:22 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 23,
+      "severity_score": 24,
       "severity_level": "Critical"
     },
     {
@@ -230,6 +220,16 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+      "description": "Local officials say 27 people are missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 18:01:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -423,16 +423,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Serbia marks the second anniversary of a train station tragedy that fueled student protests",
-      "description": "Thousands of students and supporters in Serbia have marked two years since a deadly train station disaster",
-      "url": "https://abcnews.com/International/wireStory/serbia-marks-anniversary-train-station-tragedy-fueled-student-137746051",
-      "published": "Sun, 01 Nov 2026 08:56:02 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
       "description": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
       "url": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
@@ -553,10 +543,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:33:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -673,6 +663,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Drone attacks extend campaign targeting Sudan’s power system",
+      "description": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+      "published": "Mon, 02 Nov 2026 17:26:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
       "description": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
       "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
@@ -726,7 +726,7 @@
       "title": "Shop freezers in seven European countries hit by cyber-attack",
       "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 15:12:22 GMT",
+      "published": "Mon, 02 Nov 2026 17:38:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 10,
@@ -748,6 +748,16 @@
       "url": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
       "published": "Mon, 02 Nov 2026 15:09:49 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "France: Petition to ban TV channel gets 500,000 signatures",
+      "description": "Support for the petition has surged since last month's shooting of a Black man by a reported avid viewer of CNews. Critics say the channel, often compared to Fox News, is a platform for anti-immigrant sentiments.",
+      "url": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 2 Nov 2026 18:05:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -893,16 +903,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Karl Bushby completes 28-year, 31,000-mile walk around world, returns to mom's house",
-      "description": "Karl Bushby has completed his 28-year journey to walk around the world by returning to his mother's home in northern England",
-      "url": "https://abcnews.com/International/wireStory/karl-bushby-completes-28-year-31000-mile-walk-137765943",
-      "published": "Mon, 02 Nov 2026 09:39:53 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Nature is making a comeback – now restoration funding must quadruple",
       "description": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
@@ -940,6 +940,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:29:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1273,16 +1283,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:27:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
       "description": "At least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
@@ -1317,16 +1317,6 @@
       "description": "French high school student protests resumed on Monday on a ​much smaller scale than in past weeks as pupils returned from a two-week break, with youngsters trying to blockade a few high schools in Paris, Marseille and Rennes.",
       "url": "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break",
       "published": "Mon, 02 Nov 2026 14:15:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "'No political solution' to anger in France, expert says amid ongoing protests",
-      "description": "With the vast majority of French high schools reopening despite calls for new blockades, and the number of people attending weekend demonstrations down for the third week in a row, are the protests in France beginning to die out? We spoke to one political expert who says he believes they will, saying it is difficult to see who people are protesting against, given that the government has no majority in parliament.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261102-no-political-solution-to-the-anger-in-france-expert-says-amid-ongoing-protests",
-      "published": "Mon, 02 Nov 2026 12:41:04 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
@@ -1403,7 +1393,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Trump, Vance and candidates make final push before US midterms",
+      "title": "Trump, Vance and candidates campaign on last day before US midterms",
       "description": "Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race.",
       "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
       "published": "Mon, 02 Nov 2026 17:07:14 +0000",
@@ -1627,16 +1617,6 @@
       "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
       "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:41:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:46:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2033,10 +2013,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Filipino families keep their loved ones close on All Saints' Day",
-      "description": "Lorita Santos cherishes memories of her father as she joins thousands in Manila to honor loved ones on All Saints’ Day",
-      "url": "https://abcnews.com/International/wireStory/filipino-families-loved-close-saints-day-137745285",
-      "published": "Sun, 01 Nov 2026 07:18:26 -0500",
+      "title": "Britain says many migrants will have to wait longer to win the right to stay",
+      "description": "The British government says it will double the wait time for many immigrants to settle permanently, although key workers and higher earners will be exempted",
+      "url": "https://abcnews.com/International/wireStory/britain-migrants-wait-longer-win-stay-137776184",
+      "published": "Mon, 02 Nov 2026 12:45:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South African police arrest 5 after farmer is shot, ears cut off in violent robbery",
+      "description": "Police in South Africa have arrested five suspects connected to a violent farm robbery",
+      "url": "https://abcnews.com/International/wireStory/south-african-police-arrest-5-after-farmer-shot-137774786",
+      "published": "Mon, 02 Nov 2026 12:45:55 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2047,6 +2037,16 @@
       "description": "Surveys by several polling organizations give Yotova about 52% of the vote.",
       "url": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
       "published": "Sun, 01 Nov 2026 15:10:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Filipino families keep their loved ones close on All Saints' Day",
+      "description": "Lorita Santos cherishes memories of her father as she joins thousands in Manila to honor loved ones on All Saints’ Day",
+      "url": "https://abcnews.com/International/wireStory/filipino-families-loved-close-saints-day-137745285",
+      "published": "Sun, 01 Nov 2026 07:18:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
