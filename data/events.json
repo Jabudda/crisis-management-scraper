@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T08:10:56.031996Z",
+  "last_updated": "2026-11-03T08:34:35.425008Z",
   "event_count": 220,
   "events": [
     {
@@ -473,16 +473,6 @@
       "severity_level": "High"
     },
     {
-      "title": "US: 9 killed in Florida jet crash",
-      "description": "A Learjet plane crashed near a busy road in a residential neighborhood in Palm Beach County, leaving all nine people on board dead and a large crater on ground.",
-      "url": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 2 Nov 2026 07:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Canada and EU announce new alliance open to like-minded countries",
       "description": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join. Speaking to reporters on Friday from Montreal, the prime minister, Mark Carney, and the European Commission president, Ursula von der Leyen, called the new partnership the Alliance for the Future and said the “deepest possible partnership between Canada and the 27-member bloc had the potential to offer unprecedented stability and opportunity”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
@@ -883,11 +873,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Australia's social media ban 'ill thought out', High Court told in legal challenge",
-      "description": "Lawyers for Reddit and a digital rights group argued the world-leading policy robbed children of their right to free communication.",
+      "title": "Major test for Australia's social media ban begins in High Court",
+      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
       "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 07:53:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "FIFA to share documents related to World Cup sell-off plan",
+      "description": "FIFA Council members may view documents related to Gianni Infantino's doomed plan, but only in person in Zurich",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
+      "published": "Tue, 03 Nov 2026 08:27:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1076,7 +1076,7 @@
       "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
       "description": "Thousands of European troops are set to participate in a military exercise in Poland later this month",
       "url": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
-      "published": "Tue, 03 Nov 2026 01:49:32 -0500",
+      "published": "Tue, 03 Nov 2026 03:16:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1546,7 +1546,7 @@
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 06:22:29 GMT",
+      "published": "Tue, 03 Nov 2026 08:33:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1717,16 +1717,6 @@
       "description": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
       "published": "Tue, 03 Nov 2026 03:53:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US urges Venezuela to follow phased plan for democratic transition",
-      "description": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
-      "published": "Tue, 03 Nov 2026 02:27:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1943,6 +1933,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Ukrainian President Zelenskyy to make surprise Berlin visit this Tuesday, Merz says",
+      "description": "Chancellor Friedrich Merz said the Ukrainian president is due to arrive in Germany around midday amid a renewed push for peace talks with Moscow.",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-to-make-surprise-berlin-visit-this-tuesday-merz-says/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 3 Nov 2026 08:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "North Korea denies role in record Binance hack, calls US charge 'provocation'",
       "description": "Kim Yo Jong dismissed FBI claims that North Korean hackers stole more than $6 billion from Binance, as the exchange began reopening withdrawals on more networks.",
       "url": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-xml-mrss",
@@ -1993,8 +1993,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Midterms live: US voters head to polls to determine control of Congress for Trump’s remaining term",
-      "description": "US voters head to the polls Tuesday to vote in the US midterm elections with Democrats widely projected to retake control of the House, though control of the Senate remains up in the air. They will need to gain three seats in the House and four in the Senate to overtake the Republican majority. Losing either will affect President Donald Trump's ability to pass legislation and act as a referendum on his second term. Follow our liveblog for the latest updates.",
+      "title": "US midterms live: More than 58 million ballots cast in record early vote turnout",
+      "description": "US voters head to the polls Tuesday for Midterm Election Day. Democrats widely projected to retake control of the House, though control of the Senate remains up in the air. They will need to gain three seats in the House and four in the Senate to overtake the Republican majority. Losing either will affect President Donald Trump's ability to pass legislation and serve as a referendum on his second term. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
       "published": "Tue, 03 Nov 2026 05:45:33 GMT",
       "source": "France24",
@@ -2066,7 +2066,7 @@
       "title": "Australia's highest court hears challenges to social media ban for children",
       "description": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media",
       "url": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
-      "published": "Tue, 03 Nov 2026 02:59:35 -0500",
+      "published": "Tue, 03 Nov 2026 03:14:29 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2076,7 +2076,7 @@
       "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
       "description": "Two helicopters have collided while trying to land just below Mount Everest’s base camp",
       "url": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
-      "published": "Tue, 03 Nov 2026 01:49:45 -0500",
+      "published": "Tue, 03 Nov 2026 03:19:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
