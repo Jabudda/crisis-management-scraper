@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:07:51.924251Z",
+  "last_updated": "2026-11-04T01:36:05.040842Z",
   "event_count": 219,
   "events": [
     {
@@ -118,16 +118,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 22:45:59 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Severe weather disrupts election day across several US states",
-      "description": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
-      "published": "Tue, 03 Nov 2026 19:13:19 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical"
@@ -300,6 +290,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+      "description": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+      "published": "Wed, 04 Nov 2026 00:44:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
       "severity_level": "High"
     },
     {
@@ -490,6 +490,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "description": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "published": "Wed, 04 Nov 2026 01:03:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -937,16 +947,6 @@
       "description": "Tenerife forward Jesus de Miguel has died following a collision with the opposing goalkeeper. The Spanish second-division club has said it is \"heartbroken\" by the loss.",
       "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 3 Nov 2026 11:52:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "India news: Cyclone Murasu wreaks havoc after landfall",
-      "description": "Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. Follow DW for more.",
-      "url": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 3 Nov 2026 06:12:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
@@ -1623,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Democrat Jon Ossoff wins Georgia US Senate race",
+      "description": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+      "published": "Wed, 04 Nov 2026 00:59:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
       "description": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
       "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
@@ -1643,8 +1653,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "US midterm election results live: First results roll in as polls close",
-      "description": "Early results are coming in from across the US as polls close in the midterm elections and control of Congress at stake.",
+      "title": "US midterm election results live: Democrats up early as results roll in",
+      "description": "Early results come in from across the US as polls close in the midterm elections and control of Congress is at stake.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
       "published": "Tue, 03 Nov 2026 22:30:00 +0000",
       "source": "Al Jazeera",
@@ -1687,26 +1697,6 @@
       "description": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
       "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
       "published": "Tue, 03 Nov 2026 19:13:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "description": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-      "published": "Tue, 03 Nov 2026 19:09:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Palestinian Americans turn to US flags to protect West Bank homes",
-      "description": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
-      "published": "Tue, 03 Nov 2026 18:38:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1878,6 +1868,16 @@
       "url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
       "published": "Sun, 01 Nov 2026 17:30:00 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US midterm election results: How Americans voted and what the data tells us",
+      "description": "Results are starting to come in from across the US, where people voted on their next Congress. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Nov 2026 01:10:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
