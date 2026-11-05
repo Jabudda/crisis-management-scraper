@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T14:35:07.777850Z",
+  "last_updated": "2026-11-05T15:08:07.036525Z",
   "event_count": 218,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+      "description": "An assailant has attacked and killed a security officer near the Sri Lankan Embassy in Amman, Jordan, in what authorities describe as a terrorist act",
+      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "published": "Thu, 05 Nov 2026 07:27:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -50,6 +60,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
+      "description": "DW has found that three-quarters of Russia's weightlifting team had no independent out-of-competition testing before this year's world championships, despite the country's doping history.",
+      "url": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 14:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical"
     },
     {
@@ -183,16 +203,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
-      "description": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
-      "published": "Wed, 04 Nov 2026 08:09:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
       "description": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
@@ -268,16 +278,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 13:04:52 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Football legend Cristiano Ronaldo announces international retirement",
-      "description": "Cristiano Ronaldo announced Thursday that he is retiring from international football at the age of 41, bringing to an end a record-breaking 23-year career with Portugal. The five-time Ballon d'Or winner made 234 appearances for his country, scoring 146 goals. His retirement from the international stage follows that of his long-time rival, Argentine's Lionel Messi, last month.",
-      "url": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement",
-      "published": "Thu, 05 Nov 2026 10:45:21 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -378,6 +378,16 @@
       "url": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
       "published": "Tue, 03 Nov 2026 01:55:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home",
+      "description": "In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave",
+      "url": "https://abcnews.com/International/wireStory/lured-online-scam-network-african-man-spent-year-137867333",
+      "published": "Thu, 05 Nov 2026 02:54:20 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -526,7 +536,17 @@
       "title": "France holds new strikes and protests as unions demand immediate answers",
       "description": "Five of France's unions join a wave of strikes and protests in a national day of action.",
       "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:04:04 GMT",
+      "published": "Thu, 05 Nov 2026 14:42:29 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 14:29:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -537,16 +557,6 @@
       "description": "Cristiano Ronaldo has announced his retirement from international football.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 12:32:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Cristiano Ronaldo announces retirement from international football",
-      "description": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 10:57:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 14,
@@ -613,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
+      "description": "Hundreds of thousands of trade union members have joined nationwide strikes and demonstrations in France to demand higher wages and support the high school protest movement",
+      "url": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
+      "published": "Thu, 05 Nov 2026 09:02:22 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
       "description": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
@@ -623,16 +643,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
-      "description": "Haiti’s National Police agency has found the charred remains of a vehicle used by four missing Salvadoran aviation technicians",
-      "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
-      "published": "Wed, 04 Nov 2026 14:01:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Teen previously convicted in shooting accused of killing pregnant mom of 4 inside Spirit Halloween",
       "description": "Monte Smith, 17, allegedly opened fire inside a Spirit Halloween store at Solano Town Center, killing pregnant mother Constance Hages and wounding six.",
       "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
@@ -640,16 +650,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:24:25 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -758,6 +758,16 @@
       "url": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million",
       "published": "Thu, 05 Nov 2026 14:09:56 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
+      "description": "Authorities in British Columbia say more than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead along the province’s central coast",
+      "url": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
+      "published": "Wed, 04 Nov 2026 20:13:21 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -943,21 +953,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-      "description": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 10:24:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Iran signals satisfaction, skepticism after US midterm vote",
+      "description": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
+      "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 15:04:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -983,30 +993,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "French blood banks targeted by refrigerator cyberattack",
-      "description": "A cyberattack had attempted to destroy blood plasma by raising the temperatures in cold storage facilities past the boiling point.",
-      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 17:57:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
-      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
-      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
+      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
+      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
+      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
+      "published": "Thu, 05 Nov 2026 07:53:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
-      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
-      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
-      "published": "Thu, 05 Nov 2026 07:53:15 -0500",
+      "title": "Bank of England welcomes energy price falls since US midterms after first hike in nearly 3 years",
+      "description": "The Bank of England is raising interest rates for the first time in more than three years in an effort to tackle an inflation shock stoked by the Iran war",
+      "url": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
+      "published": "Thu, 05 Nov 2026 09:18:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1133,16 +1133,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "South Africans vote in local elections that could continue decline of ANC",
-      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
-      "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
-      "published": "Wed, 04 Nov 2026 07:02:15 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
       "description": "A State Department spokesperson called the Turkey-Libya maritime accord \"unhelpful and provocative\" as diplomatic tensions escalate in the region.",
       "url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
@@ -1150,6 +1140,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+      "description": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
+      "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:17:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1213,10 +1213,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
-      "description": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-      "published": "Thu, 05 Nov 2026 07:26:43 -0500",
+      "title": "Gas deposits off Cyprus are an opportunity for the EU, president says",
+      "description": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply",
+      "url": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
+      "published": "Thu, 05 Nov 2026 08:09:00 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1243,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+      "description": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+      "published": "Thu, 05 Nov 2026 07:26:43 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Polish president turns plane around after 'coup' at nation’s top court",
       "description": "Tensions between Poland’s president and prime minister intensified as demonstrators rally outside the country’s top court.",
       "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
@@ -1250,16 +1260,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
-      "description": "Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 10:34:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1298,16 +1298,6 @@
       "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
       "published": "Thu, 05 Nov 2026 07:02:24 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bangladesh garment factories close as workers clash with police in pay protests",
-      "description": "Police have clashed with garment workers demanding higher minimum wages in Bangladesh, where days of protests have disrupted an industry that employs about 4 million people",
-      "url": "https://abcnews.com/International/wireStory/bangladesh-garment-factories-close-workers-clash-police-pay-137843912",
-      "published": "Wed, 04 Nov 2026 09:24:24 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1403,6 +1393,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "EU court says CBD foods need approval for sale before they can be certified organic",
+      "description": "The EU's top court says CBD foods cannot be certified organic without approval for sale. The ruling concerns a cannabis compound whose use in food requires authorization, including before organic certification.",
+      "url": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 14:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "What the Democrats' midterms win means for the US economy and Trump",
       "description": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
       "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-xml-mrss",
@@ -1413,20 +1413,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "36 years later: Hungary opens Communist-era secret service files",
-      "description": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
-      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 19:30:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Japan's Sony reports a hefty profit on the back of its blockbuster 'Spider-Man' movie",
+      "description": "Japanese electronics and entertainment company Sony has reported a 44% surge in its profit in July-September, largely on the box office success of its movie, “Spider-Man: Brand New Day.”",
+      "url": "https://abcnews.com/International/wireStory/japans-sony-reports-hefty-profit-back-blockbuster-spider-137869766",
+      "published": "Thu, 05 Nov 2026 05:44:16 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
     },
     {
-      "title": "Japan's Sony reports a hefty profit on the back of its blockbuster 'Spider-Man' movie",
-      "description": "Japanese electronics and entertainment company Sony has reported a 44% surge in its profit in July-September, largely on the box office success of its movie, “Spider-Man: Brand New Day.”",
-      "url": "https://abcnews.com/International/wireStory/japans-sony-reports-hefty-profit-back-blockbuster-spider-137869766",
-      "published": "Thu, 05 Nov 2026 05:44:16 -0500",
+      "title": "Toyota raises profit projection for the year as sales hold up",
+      "description": "Toyota has reported a 19% drop in fiscal second-quarter profit but raises its full-year forecast",
+      "url": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
+      "published": "Thu, 05 Nov 2026 06:22:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1463,16 +1463,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-      "description": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 10:04:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1483,30 +1473,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Ethiopia expels 6 Sudanese consular staff and orders consulate closed, officials say",
-      "description": "Ethiopia has expelled six staff members of Sudan’s consulate in Assosa, a western city near the Sudanese border, and ordered the mission closed, Ethiopian and Sudanese officials said",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-expels-6-sudanese-consular-staff-orders-consulate-137852985",
-      "published": "Wed, 04 Nov 2026 13:59:52 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "What Democrats can and can't do with their new power after taking Congress",
       "description": "Democrats can vote legislation through. But Trump still has veto power.",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 18:01:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ronaldo retires from Portugal duty",
-      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:28:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1527,6 +1497,16 @@
       "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
       "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 09:04:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "description": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 14:28:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1593,6 +1573,56 @@
       "severity_level": "Low"
     },
     {
+      "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+      "description": "Mojtaba Khamenei’s consultations suggest a new system of decision-making is taking shape.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:45:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+      "description": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:43:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "description": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:30:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "description": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:19:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "description": "Arab-led parties won a record 19 seats in Israel's 120-seat parliament in last week's general election.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 14:15:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "What can Democrats do in Congress under President Trump?",
       "description": "What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss",
@@ -1637,26 +1667,6 @@
       "description": "Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate.",
       "url": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 11:33:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Visualising how the US midterms turned the map blue",
-      "description": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 11:09:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
-      "description": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
-      "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 10:25:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1904,7 +1914,7 @@
     },
     {
       "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years",
-      "description": "Joshua Wong, once a teen activist and one of the faces of the \"Umbrella Movement,\" is spending most of his adult life so far in prison.",
+      "description": "Joshua Wong, once a teen activist and one of the faces of the \"Umbrella Movement,\" is spending years of his adult life in prison.",
       "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 5 Nov 2026 05:32:00 GMT",
       "source": "Deutsche Welle",
@@ -1923,11 +1933,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Fact check: Examining viral narratives after the US midterm elections",
-      "description": "As Democrats celebrate major gains, false claims about election fraud have spread. Viral posts alleging illegal voting and election rigging are intended to fuel doubt about the integrity of the vote. DW checks the facts.",
-      "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 18:45:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Israel's main Arab list backs Eisenkot to form government after election",
+      "description": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election.",
+      "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
+      "published": "Thu, 05 Nov 2026 14:43:59 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2003,6 +2013,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "UN's peacekeeping mission in Western Sahara enters liquidation phase after mandate expires",
+      "description": "The U.N. peacekeeping mission in Western Sahara has entered a “liquidation phase” and is beginning to vacate positions and dispose of equipment following a U.S.-Russia standoff at the Security Council last week",
+      "url": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-enters-liquidation-phase-137876785",
+      "published": "Thu, 05 Nov 2026 09:10:29 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "British man being treated for Ebola in Congo is being evacuated to the UK",
+      "description": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday",
+      "url": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
+      "published": "Thu, 05 Nov 2026 07:52:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
+      "description": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year",
+      "url": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
+      "published": "Thu, 05 Nov 2026 08:08:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "The leader of a German conservative party is found dead at a Berlin hotel",
       "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
       "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
@@ -2013,50 +2053,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
-      "description": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election",
-      "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
-      "published": "Wed, 04 Nov 2026 16:06:15 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
-      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
-      "description": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons",
-      "url": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
-      "published": "Wed, 04 Nov 2026 14:01:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US contractor admits passing US top-secret information to Ethiopia",
-      "description": "A former U.S. government contractor has admitted to passing classified intelligence to Ethiopia, which officials used in military operations",
-      "url": "https://abcnews.com/International/wireStory/us-contractor-admits-passing-us-top-secret-information-137841130",
-      "published": "Wed, 04 Nov 2026 08:00:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
-      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
+      "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
+      "description": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery",
+      "url": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
+      "published": "Thu, 05 Nov 2026 03:18:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
