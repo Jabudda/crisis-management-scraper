@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T13:34:56.570785Z",
+  "last_updated": "2026-11-05T14:08:54.688998Z",
   "event_count": 218,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+      "description": "An assailant has attacked and killed a security officer near the Sri Lankan Embassy in Amman, Jordan, in what authorities describe as a terrorist act",
+      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "published": "Thu, 05 Nov 2026 07:27:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 40,
       "severity_level": "Critical"
     },
     {
@@ -88,16 +98,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 22:48:43 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "The 2011 discovery of neo-Nazi killers aired biases in German policing",
-      "description": "Many questions still surround the National Socialist Underground whose existence was revealed by neo-Nazi terrorist Beate Zschäpe on November 4, 2011. How has German society reacted to NSU crimes? Has justice been done?",
-      "url": "https://www.dw.com/en/the-2011-discovery-of-neo-nazi-killers-aired-biases-in-german-policing/a-79857781?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 17:16:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical"
@@ -233,16 +233,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
-      "description": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
-      "published": "Wed, 04 Nov 2026 08:09:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
       "description": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
@@ -318,6 +308,16 @@
       "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 13:04:52 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Football legend Cristiano Ronaldo announces international retirement",
+      "description": "Cristiano Ronaldo announced Thursday that he is retiring from international football at the age of 41, bringing to an end a record-breaking 23-year career with Portugal. The five-time Ballon d'Or winner made 234 appearances for his country, scoring 146 goals. His retirement from the international stage follows that of his long-time rival, Argentine's Lionel Messi, last month.",
+      "url": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement",
+      "published": "Thu, 05 Nov 2026 10:45:21 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -408,6 +408,16 @@
       "url": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
       "published": "Tue, 03 Nov 2026 01:55:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home",
+      "description": "In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave",
+      "url": "https://abcnews.com/International/wireStory/lured-online-scam-network-african-man-spent-year-137867333",
+      "published": "Thu, 05 Nov 2026 02:54:20 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
@@ -633,21 +643,21 @@
       "severity_level": "High"
     },
     {
-      "title": "Football legend Cristiano Ronaldo announces international retirement",
-      "description": "Portuguese football legend Cristiano Ronaldo announced on Thursday that he was retiring from international football. This is a breaking news story, more details to come.",
-      "url": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement",
-      "published": "Thu, 05 Nov 2026 10:45:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Cristiano Ronaldo retires from international football",
       "description": "Cristiano Ronaldo has announced his retirement from international football.",
       "url": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
       "published": "Thu, 05 Nov 2026 10:30:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
+      "description": "French trade unions are joining forces for more nationwide strikes and demonstrations for higher wages and in support of the high school protest movement",
+      "url": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
+      "published": "Thu, 05 Nov 2026 06:14:18 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -660,16 +670,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
-      "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
-      "description": "Haiti’s National Police agency has found the charred remains of a vehicle used by four missing Salvadoran aviation technicians",
-      "url": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
-      "published": "Wed, 04 Nov 2026 14:01:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
       "severity_level": "High"
     },
     {
@@ -688,16 +688,6 @@
       "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 14:24:25 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "New bomb threats bring more disruption to flights across Europe",
-      "description": "Flights make emergency landings in France, Italy and Bulgaria days after bomb threats disrupted air traffic.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 09:50:08 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -813,11 +803,31 @@
       "severity_level": "High"
     },
     {
+      "title": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
+      "description": "Authorities in British Columbia say more than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead along the province’s central coast",
+      "url": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
+      "published": "Wed, 04 Nov 2026 20:13:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
       "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 08:07:22 GMT",
+      "published": "Thu, 05 Nov 2026 13:51:03 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+      "description": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 13:28:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -831,6 +841,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Padel’s Olympic ambition",
+      "description": "Padel is the fastest growing racket sport in the world, and is pushing to make its Olympic debut.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/padels-olympic-ambition?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 13:25:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "Workers strike across France, hundreds of thousands expected to protest",
@@ -858,6 +878,16 @@
       "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 4 Nov 2026 20:27:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
+      "description": "From the global success of \"Waka Waka\" to her forthcoming second solo album \"People Power\", South Africa's Zolani Mahola has built a career around the power of music to bring people together.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20261105-south-african-star-zolani-mahola-from-waka-waka-with-shakira-to-people-power",
+      "published": "Thu, 05 Nov 2026 13:34:12 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1023,20 +1053,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
-      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
-      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
+      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
+      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
+      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
+      "published": "Thu, 05 Nov 2026 07:53:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
-      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
-      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
-      "published": "Thu, 05 Nov 2026 07:53:15 -0500",
+      "title": "Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation",
+      "description": "The Bank of England is raising interest rates for the first time in more than three years in an effort to tackle an inflation shock stoked by the Iran war",
+      "url": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
+      "published": "Thu, 05 Nov 2026 07:26:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1144,7 +1174,7 @@
     },
     {
       "title": "Several European flights receive bomb threats, some divert",
-      "description": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed.",
+      "description": "At least a dozen flights were either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris and more soon followed.",
       "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 5 Nov 2026 10:10:00 GMT",
       "source": "Deutsche Welle",
@@ -1158,16 +1188,6 @@
       "url": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
       "published": "Tue, 03 Nov 2026 12:37:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "South Africans vote in local elections that could continue decline of ANC",
-      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
-      "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
-      "published": "Wed, 04 Nov 2026 07:02:15 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium"
@@ -1243,10 +1263,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
-      "description": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-      "published": "Thu, 05 Nov 2026 07:26:43 -0500",
+      "title": "Gas deposits off Cyprus are an opportunity for the EU, president says",
+      "description": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply",
+      "url": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
+      "published": "Thu, 05 Nov 2026 08:09:00 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1267,6 +1287,16 @@
       "description": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law",
       "url": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
       "published": "Wed, 04 Nov 2026 23:26:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+      "description": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+      "published": "Thu, 05 Nov 2026 07:26:43 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1308,16 +1338,6 @@
       "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
       "published": "Thu, 05 Nov 2026 07:02:24 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Bangladesh garment factories close as workers clash with police in pay protests",
-      "description": "Police have clashed with garment workers demanding higher minimum wages in Bangladesh, where days of protests have disrupted an industry that employs about 4 million people",
-      "url": "https://abcnews.com/International/wireStory/bangladesh-garment-factories-close-workers-clash-police-pay-137843912",
-      "published": "Wed, 04 Nov 2026 09:24:24 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1453,6 +1473,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Toyota raises profit projection for the year as sales hold up",
+      "description": "Toyota has reported a 19% drop in fiscal second-quarter profit but raises its full-year forecast",
+      "url": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
+      "published": "Thu, 05 Nov 2026 06:22:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1498,16 +1528,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ethiopia expels 6 Sudanese consular staff and orders consulate closed, officials say",
-      "description": "Ethiopia has expelled six staff members of Sudan’s consulate in Assosa, a western city near the Sudanese border, and ordered the mission closed, Ethiopian and Sudanese officials said",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-expels-6-sudanese-consular-staff-orders-consulate-137852985",
-      "published": "Wed, 04 Nov 2026 13:59:52 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1613,6 +1633,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+      "description": "Indonesia is deploying thousands of troops in Jakarta amid an alleged wiretapping scandal targeting the president.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 13:41:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
       "description": "In a peculiar failed smuggling attempt, 3,000 tarantulas were seized at a Peruvian airport.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
@@ -1657,26 +1687,6 @@
       "description": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
       "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 10:25:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-      "description": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 09:57:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-      "description": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 09:52:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1863,6 +1873,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+      "description": "Donald Trump's electoral setback might give New Delhi and Washington space to reset relations, but there is no guarantee that the US will actually change its approach to India.",
+      "url": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 13:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "North Korea tells EU to 'mind its own business' on human rights",
       "description": "North Korea's UN mission has lashed out at the European Union over a draft UN resolution. Pyongyang has said the West does not have a monopoly on human rights.",
       "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-xml-mrss",
@@ -1983,16 +2003,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Israel president urges compromise after divisive election",
-      "description": "Israeli President Isaac Herzog on Wednesday accepted the certified results of last week’s parliamentary elections as legally binding and began consultations with party representatives on forming a new government. Herzog began consultations with party leaders on Wednesday night to determine whom to designate to form a government — a process that could bring Netanyahu’s opponents to power.",
-      "url": "https://www.france24.com/en/video/20261105-israel-president-urges-compromise-after-divisive-election",
-      "published": "Thu, 05 Nov 2026 10:30:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Spanish footballer dies after on-field collision",
       "description": "Tenerife football player Jesus de Miguel has died after suffering a cardiac arrest following an on-field collision in a match on Monday.",
       "url": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
@@ -2003,10 +2013,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
-      "description": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election",
-      "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
-      "published": "Wed, 04 Nov 2026 16:06:15 -0500",
+      "title": "British man being treated for Ebola in Congo is being evacuated to the UK",
+      "description": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday",
+      "url": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
+      "published": "Thu, 05 Nov 2026 07:52:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
+      "description": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year",
+      "url": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
+      "published": "Thu, 05 Nov 2026 08:08:12 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2023,40 +2043,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
-      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "US contractor admits passing US top-secret information to Ethiopia",
-      "description": "A former U.S. government contractor has admitted to passing classified intelligence to Ethiopia, which officials used in military operations",
-      "url": "https://abcnews.com/International/wireStory/us-contractor-admits-passing-us-top-secret-information-137841130",
-      "published": "Wed, 04 Nov 2026 08:00:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
-      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
-      "description": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons",
-      "url": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
-      "published": "Wed, 04 Nov 2026 14:01:27 -0500",
+      "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
+      "description": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery",
+      "url": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
+      "published": "Thu, 05 Nov 2026 03:18:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2067,6 +2057,16 @@
       "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
       "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
       "published": "Wed, 04 Nov 2026 15:34:30 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
+      "description": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election",
+      "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
+      "published": "Wed, 04 Nov 2026 16:06:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
