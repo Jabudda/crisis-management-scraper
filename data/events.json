@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:34:46.376565Z",
+  "last_updated": "2026-11-05T10:08:29.953157Z",
   "event_count": 220,
   "events": [
     {
@@ -198,6 +198,16 @@
       "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
       "published": "Wed, 04 Nov 2026 07:34:35 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
+      "description": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
+      "published": "Wed, 04 Nov 2026 08:09:25 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -533,16 +543,6 @@
       "severity_level": "High"
     },
     {
-      "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
-      "description": "French trade unions are joining forces for more nationwide strikes and demonstrations for higher wages and in support of the high school protest movement",
-      "url": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
-      "published": "Thu, 05 Nov 2026 03:50:18 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
       "description": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
@@ -623,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "It’s Gaza, stupid",
+      "description": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:44:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Paraguay bank collapses with half of population’s savings",
       "description": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
@@ -643,18 +653,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Dublin-Rome flight lands in France amid bomb threat",
-      "description": "An Airbus A320 bound for Rome has made an emergency landing in Evreux, France. The prime minister's office said it was diverted after receiving a bomb threat. It's the latest of several similar cases in recent days.",
-      "url": "https://www.dw.com/en/dublin-rome-flight-lands-in-france-amid-bomb-threat/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Nov 2026 09:10:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "South Africans vote in key municipal elections",
-      "description": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. And a deepening humanitarian crisis in Ethiopia, where renewed fighting has displaced thousands.",
+      "description": "In tonight's edition: South Africa's ruling ANC party faces a crucial test as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. Plus an ongoing humanitarian crisis deepens in Ethiopia, where renewed fighting has displaced thousands.",
       "url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
       "published": "Wed, 04 Nov 2026 21:26:13 GMT",
       "source": "France24",
@@ -993,10 +993,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
-      "description": "The Bank of England is expected to raise interest rates for the first time in over three years in order to tackle the inflation shock caused by the Iran war",
-      "url": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
-      "published": "Thu, 05 Nov 2026 00:38:20 -0500",
+      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
+      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
+      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1113,11 +1113,31 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Several European flights receive bomb threats, some divert",
+      "description": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed.",
+      "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 09:10:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Bomb threats reported on multiple flights, including two from UK airports",
       "description": "At least seven flights, including two from the UK, have been affected by bomb threats, which caused unplanned landings and temporary airport closures.",
       "url": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
       "published": "Tue, 03 Nov 2026 12:37:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "South Africans vote in local elections that could continue decline of ANC",
+      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
+      "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
+      "published": "Wed, 04 Nov 2026 07:02:15 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium"
@@ -1213,10 +1233,20 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+      "description": "Prominent Hong Kong activist Joshua Wong has been sentenced to 10 more years in prison under a Beijing-imposed national security law",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+      "published": "Thu, 05 Nov 2026 02:22:14 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
       "description": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers",
       "url": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
-      "published": "Thu, 05 Nov 2026 03:10:14 -0500",
+      "published": "Thu, 05 Nov 2026 04:38:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1227,16 +1257,6 @@
       "description": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law",
       "url": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
       "published": "Wed, 04 Nov 2026 23:26:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
-      "description": "Prominent Hong Kong activist Joshua Wong has been sentenced to 10 more years in prison under a Beijing-imposed national security law",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-      "published": "Thu, 05 Nov 2026 02:22:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1274,7 +1294,7 @@
     },
     {
       "title": "Dublin-Rome flight diverted to French military base over bomb threat",
-      "description": "An Airbus A320 ​flying from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat, ⁠the French prime minister's office said Thursday, in the latest in a series ‌of threats targeting flights in Europe.",
+      "description": "An Airbus A320 ​flying from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat, ⁠the French prime minister's office said Thursday, in the latest in a series ‌of threats targeting flights across Europe.",
       "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
       "published": "Thu, 05 Nov 2026 09:08:19 GMT",
       "source": "France24",
@@ -1413,18 +1433,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
-      "description": "Ice hockey's governing body says the impact of a court decision forcing it to reinstate Russia presents \"significant practical and sporting challenges.\" Several leading nations say they won't play against Russian teams.",
-      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 13:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Blue wave across America: do US midterms signal beginning of the end for Trump?",
-      "description": "He asked voters to pretend he was on the ballot and they did. Voters across the United States chasing Donald Trump's Republican majorities from both houses of Congress. How big a landslide for the Democrats?",
+      "description": "He asked voters to pretend he was on the ballot and they did. Voters across the United States have chased US President Donald Trump's Republican majorities from both houses of Congress. How big a landslide is this for the Democrats?",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261104-blue-wave-across-america-do-us-midterms-signal-beginning-of-the-end-for-trump",
       "published": "Wed, 04 Nov 2026 19:49:21 GMT",
       "source": "France24",
@@ -1528,16 +1538,6 @@
       "url": "https://news.sky.com/story/reddit-and-rights-group-challenge-australias-under-16s-social-media-ban-in-court-13607383",
       "published": "Tue, 03 Nov 2026 13:40:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Toyota raises profit projection for the year as sales hold up",
-      "description": "Japan’s top automaker Toyota is reporting that its fiscal second quarter profit fell 19% from a year ago but raised its full year profit forecast",
-      "url": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
-      "published": "Thu, 05 Nov 2026 03:50:25 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1733,16 +1733,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Former Israeli generals help Palestinian olive farmers",
-      "description": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 02:52:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1913,6 +1903,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "description": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
+      "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 09:45:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Germany news: Deportations on the decline",
       "description": "Despite a decrease in overall deportations, more people were sent back to Turkey. Volkswagen is facing a fresh 'Dieselgate' trial. And Germany's leading DAX stock index hit a new high. DW has more.",
       "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-xml-mrss",
@@ -1953,7 +1953,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Champions League : Lens suffer historic 9-1 defeat against Como",
+      "title": "Champions League: Lens suffer historic 9-1 defeat against Como",
       "description": "RC Lens suffered the heaviest defeat in the history of French football in European competition, losing 9-1 at home to Como in the Champions League. Having already been beaten by Club Brugge (3-0) and Sporting CP (2-0), Lens have now suffered three consecutive defeats in Europe.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como",
       "published": "Thu, 05 Nov 2026 08:45:02 GMT",
@@ -1963,8 +1963,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "Musk-backed candidates lose midterms despite financial backing",
-      "description": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election cycle. But his investment fell flat, as his preferred candidates lost races in Texas, where he has put down roots.",
+      "title": "Musk-backed candidates lose US midterms despite financial backing",
+      "description": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election cycle. But his investment fell flat, as his preferred candidates lost races in Texas, where he has put down roots. We take a closer look.",
       "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
       "published": "Wed, 04 Nov 2026 21:06:09 GMT",
       "source": "France24",
@@ -2013,30 +2013,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
-      "description": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery",
-      "url": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
-      "published": "Thu, 05 Nov 2026 03:18:17 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-      "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
-      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
-      "published": "Wed, 04 Nov 2026 15:34:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
       "description": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election",
       "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
       "published": "Wed, 04 Nov 2026 16:06:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
+      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
+      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
+      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2053,16 +2043,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
-      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "US contractor admits passing US top-secret information to Ethiopia",
       "description": "A former U.S. government contractor has admitted to passing classified intelligence to Ethiopia, which officials used in military operations",
       "url": "https://abcnews.com/International/wireStory/us-contractor-admits-passing-us-top-secret-information-137841130",
@@ -2073,10 +2053,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
-      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
+      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
+      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
+      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
+      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
+      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
+      "published": "Wed, 04 Nov 2026 15:34:30 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
+      "description": "Indonesia's military is deploying over 20,000 troops to Jakarta amid a wiretapping scandal suspected of targeting President Prabowo Subianto",
+      "url": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
+      "published": "Wed, 04 Nov 2026 07:26:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
