@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T10:07:20.505168Z",
+  "last_updated": "2026-11-08T10:34:04.874677Z",
   "event_count": 217,
   "events": [
     {
@@ -243,16 +243,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-      "description": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 07:40:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
       "description": "Drone and missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States",
       "url": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
@@ -288,16 +278,6 @@
       "url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
       "published": "Sat, 07 Nov 2026 13:29:28 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
-      "description": "A British national is among the six people killed in a mass shooting in Krakow, according to Polish police.",
-      "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
-      "published": "Sun, 08 Nov 2026 02:19:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -340,6 +320,16 @@
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
+      "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+      "description": "Saudi Arabia's energy ministry says building in the capital was damaged by falling shrapnel, state media reported.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 07:40:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High"
     },
     {
@@ -438,6 +428,16 @@
       "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
       "published": "Sat, 07 Nov 2026 15:26:49 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
+      "description": "A 32-year-old British man is among the six people killed in a mass shooting in Krakow, Polish officials have said.",
+      "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
+      "published": "Sun, 08 Nov 2026 02:19:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -583,9 +583,9 @@
       "severity_level": "High"
     },
     {
-      "title": "Poland: Gunman kills 6 in Krakow main square",
+      "title": "Poland: Gunman kills 6 in Krakow main square, police say",
       "description": "A suspect who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the man was fascinated with \"radical\" and \"far-right\" ideologies.",
-      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 21:34:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -731,6 +731,16 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
+    },
+    {
+      "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
+      "description": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 10:03:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1597,16 +1607,6 @@
       "description": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance — they better not blow it.",
       "url": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss",
       "published": "Sun, 08 Nov 2026 06:39:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Trump asks UFC chief Dana White to be White House press secretary",
-      "description": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 03:12:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
