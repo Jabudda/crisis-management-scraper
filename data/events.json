@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T02:34:26.844804Z",
+  "last_updated": "2026-11-09T03:11:27.922576Z",
   "event_count": 215,
   "events": [
     {
@@ -50,6 +50,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
+      "description": "Trump says Iran land blockade is now in effect as Tehran threatens to 'rain down hell' if US resumes attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 00:00:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical"
     },
     {
@@ -104,7 +114,7 @@
     },
     {
       "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
-      "description": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird nor realise there was a “massive” gunshot wound to the 26-year-old’s face. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "description": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird as he acted out the way he allegedly shot the 26-year-old. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
       "published": "Mon, 09 Nov 2026 01:44:14 GMT",
       "source": "The Guardian World",
@@ -208,16 +218,6 @@
       "url": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
       "published": "Sun, 08 Nov 2026 12:09:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
-      "description": "A drone attack on a military base in northern Colombia killed three soldiers and injured at least 8, Colombia’s army said",
-      "url": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
-      "published": "Sat, 07 Nov 2026 16:41:43 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -477,16 +477,6 @@
       "description": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway",
       "url": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
       "published": "Sun, 08 Nov 2026 04:45:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
-      "description": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan",
-      "url": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
-      "published": "Sat, 07 Nov 2026 19:00:54 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -913,10 +903,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
-      "description": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 00:00:34 +0000",
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "description": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 02:23:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1163,6 +1153,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+      "description": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence",
+      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+      "published": "Sun, 08 Nov 2026 08:54:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
       "description": "Saudi Arabia has intercepted missiles targeting its capital and other regions",
       "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
@@ -1173,10 +1173,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
-      "description": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence",
-      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
-      "published": "Sun, 08 Nov 2026 08:54:16 -0500",
+      "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
+      "description": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station",
+      "url": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
+      "published": "Sat, 07 Nov 2026 00:03:50 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1463,6 +1463,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
+      "description": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely",
+      "url": "https://abcnews.com/International/wireStory/diwali-celebrations-coincide-worsening-air-heres-stay-safer-137933383",
+      "published": "Fri, 06 Nov 2026 22:05:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1518,6 +1528,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 15:19:35 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "description": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 02:35:15 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1617,26 +1637,6 @@
       "description": "Al Jazeera tries Baseball5 at Youth Olympics",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
       "published": "Sun, 08 Nov 2026 19:26:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-      "description": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 19:15:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "After the midterms, where does the Republican Party stand?",
-      "description": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 19:09:18 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1953,16 +1953,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
-      "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
-      "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
-      "published": "Sun, 08 Nov 2026 13:57:19 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
       "description": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza",
       "url": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
@@ -1973,10 +1963,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Israel’s president gives Eisenkot the first chance to form the next government",
-      "description": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government",
-      "url": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
-      "published": "Sun, 08 Nov 2026 19:30:37 -0500",
+      "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
+      "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
+      "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
+      "published": "Sun, 08 Nov 2026 13:57:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1997,6 +1987,16 @@
       "description": "New Zealanders face weeks of uncertainty after Saturday's election, with no clear winner emerging",
       "url": "https://abcnews.com/International/wireStory/new-zealanders-weeks-won-election-side-secures-clear-137950485",
       "published": "Sun, 08 Nov 2026 02:01:48 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel’s president gives Eisenkot the first chance to form the next government",
+      "description": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government",
+      "url": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
+      "published": "Sun, 08 Nov 2026 19:30:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
