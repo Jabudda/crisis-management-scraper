@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T03:11:27.922576Z",
+  "last_updated": "2026-11-09T03:34:53.837144Z",
   "event_count": 215,
   "events": [
     {
@@ -53,8 +53,8 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
-      "description": "Trump says Iran land blockade is now in effect as Tehran threatens to 'rain down hell' if US resumes attacks.",
+      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "description": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
       "published": "Mon, 09 Nov 2026 00:00:34 +0000",
       "source": "Al Jazeera",
@@ -193,16 +193,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
       "description": "A 32-year-old British man is among six people killed in a mass shooting in Krakow, in which another Briton was wounded, Polish officials have said.",
       "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
@@ -218,6 +208,16 @@
       "url": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
       "published": "Sun, 08 Nov 2026 12:09:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
+      "description": "A drone attack on a military base in northern Colombia killed three soldiers and injured at least 8, Colombia’s army said",
+      "url": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
+      "published": "Sat, 07 Nov 2026 16:41:43 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -393,16 +393,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "description": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 20:13:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
       "description": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning. On Friday night, HungryPanda delivery rider Feng Jianming, 47, and another rider confronted a man allegedly tampering with their bikes in Melbourne’s city centre. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
@@ -477,6 +467,16 @@
       "description": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway",
       "url": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
       "published": "Sun, 08 Nov 2026 04:45:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
+      "description": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan",
+      "url": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
+      "published": "Sat, 07 Nov 2026 19:00:54 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -814,7 +814,7 @@
     },
     {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "description": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 22:05:12 GMT",
       "source": "BBC News",
@@ -867,6 +867,16 @@
       "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 02:50:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1153,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
-      "description": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence",
-      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
-      "published": "Sun, 08 Nov 2026 08:54:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
       "description": "Saudi Arabia has intercepted missiles targeting its capital and other regions",
       "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
@@ -1173,10 +1173,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
-      "description": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station",
-      "url": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
-      "published": "Sat, 07 Nov 2026 00:03:50 -0500",
+      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+      "description": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence",
+      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+      "published": "Sun, 08 Nov 2026 08:54:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1463,16 +1463,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
-      "description": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely",
-      "url": "https://abcnews.com/International/wireStory/diwali-celebrations-coincide-worsening-air-heres-stay-safer-137933383",
-      "published": "Fri, 06 Nov 2026 22:05:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1480,6 +1470,16 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "South Africa’s ANC suffers worst-ever local elections result",
+      "description": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 03:09:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low"
     },
     {
@@ -1528,6 +1528,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 15:19:35 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "description": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 03:26:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1627,16 +1637,6 @@
       "description": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
       "published": "Sun, 08 Nov 2026 20:26:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Al Jazeera tries Baseball5 at Youth Olympics",
-      "description": "Al Jazeera tries Baseball5 at Youth Olympics",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 19:26:38 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1953,6 +1953,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
+      "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
+      "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
+      "published": "Sun, 08 Nov 2026 13:57:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
       "description": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza",
       "url": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
@@ -1963,10 +1973,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
-      "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
-      "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
-      "published": "Sun, 08 Nov 2026 13:57:19 -0500",
+      "title": "Israel’s president gives Eisenkot the first chance to form the next government",
+      "description": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government",
+      "url": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
+      "published": "Sun, 08 Nov 2026 19:30:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1987,16 +1997,6 @@
       "description": "New Zealanders face weeks of uncertainty after Saturday's election, with no clear winner emerging",
       "url": "https://abcnews.com/International/wireStory/new-zealanders-weeks-won-election-side-secures-clear-137950485",
       "published": "Sun, 08 Nov 2026 02:01:48 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel’s president gives Eisenkot the first chance to form the next government",
-      "description": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government",
-      "url": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
-      "published": "Sun, 08 Nov 2026 19:30:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
