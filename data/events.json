@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T06:18:51.121424Z",
-  "event_count": 217,
+  "last_updated": "2026-11-09T06:46:03.122213Z",
+  "event_count": 218,
   "events": [
     {
       "title": "Poland in shock after 6 killed in Krakow far-right shooting",
@@ -114,7 +114,7 @@
     },
     {
       "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
-      "description": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird as he acted out the way he allegedly shot the 26-year-old. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "description": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied he was “homicidal”, not “suicidal”, as prosecutors in his double murder trial alleged he used claims of workplace bullying for sympathy. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
       "published": "Mon, 09 Nov 2026 01:44:14 GMT",
       "source": "The Guardian World",
@@ -433,6 +433,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+      "description": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris on Monday. Washington has kept the option of new strikes open since Republicans lost the midterm elections. US Secretary of State Marco Rubio is due to attend both days, unlike the March meeting where he only came for one.",
+      "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+      "published": "Mon, 09 Nov 2026 02:05:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
       "description": "A boat carrying migrants along the hazardous Atlantic Ocean route from West Africa to Europe sank off the coast of Senegal, killed at least 34 people, authorities said Sunday. Only one survivor has so far been found, and \"an indeterminate number\" are still missing.",
       "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
@@ -618,16 +628,6 @@
       "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 21:34:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
-      "description": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one in March.",
-      "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-      "published": "Mon, 09 Nov 2026 02:05:00 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1124,9 +1124,19 @@
     },
     {
       "title": "AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'",
-      "description": "Tech giant Nvidia is investigating reports that chief executive Jensen ⁠Huang was targeted by a foreign intelligence effort.",
+      "description": "The chief executive of tech giant Nvidia has admitted having an affair, with the company investigating reports that he was targeted by a foreign intelligence effort.",
       "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
       "published": "Sun, 08 Nov 2026 20:41:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Gunman suspected of killing six people in Polish city of Krakow has died, police say",
+      "description": "A gunman suspected of killing six people including a British national in Krakow on Saturday has died in hospital.",
+      "url": "https://news.sky.com/story/gunman-suspected-of-killing-six-people-in-polish-city-of-krakow-has-died-police-say-13608464",
+      "published": "Thu, 05 Nov 2026 15:39:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 7,
@@ -1473,16 +1483,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
-      "description": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely",
-      "url": "https://abcnews.com/International/wireStory/diwali-celebrations-coincide-worsening-air-heres-stay-safer-137933383",
-      "published": "Fri, 06 Nov 2026 22:05:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1783,6 +1783,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+      "description": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+      "published": "Mon, 09 Nov 2026 01:20:44 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
       "description": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
       "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
@@ -1837,16 +1847,6 @@
       "description": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
       "published": "Sat, 07 Nov 2026 17:12:09 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-      "description": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-      "published": "Sat, 07 Nov 2026 15:18:18 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -1924,7 +1924,7 @@
     },
     {
       "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
-      "description": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’ homeland in nearly four decades.",
+      "description": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his Latin America tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’s homeland in nearly four decades.",
       "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
       "published": "Sun, 08 Nov 2026 22:23:19 GMT",
       "source": "France24",
@@ -2037,6 +2037,16 @@
       "description": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government",
       "url": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
       "published": "Sun, 08 Nov 2026 19:30:37 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
+      "description": "Paraguay's former President Santiago Peña has been taken to the attorney general’s office for questioning",
+      "url": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
+      "published": "Sat, 07 Nov 2026 11:51:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
