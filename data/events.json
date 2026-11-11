@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T00:45:40.050956Z",
+  "last_updated": "2026-11-11T01:08:06.671627Z",
   "event_count": 221,
   "events": [
     {
@@ -10,6 +10,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 41,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "IRGC operative lands on FBI’s Most Wanted Terrorists list over alleged plot to kill former Trump adviser",
+      "description": "Shahram Poursafi allegedly sought to pay $300,000 to have John Bolton killed in a plot authorities linked to retaliation for Qasem Soleimani’s death.",
+      "url": "https://www.foxnews.com/us/irgc-operative-lands-fbis-most-wanted-terrorists-list-alleged-plot-kill-former-trump-adviser",
+      "published": "Tue, 10 Nov 2026 19:58:39 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical"
     },
     {
@@ -423,16 +433,6 @@
       "severity_level": "High"
     },
     {
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 08:39:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
       "title": "US poll shows death penalty lost majority support for first time since 1971",
       "description": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
       "url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
@@ -447,6 +447,16 @@
       "description": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event. High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are already affecting production, according to the Fairtrade Foundation ethical trade body. In the Dominican Republic, farmers are expected to face drought conditions, with forecasts of drier and warmer than usual conditions. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
       "published": "Sun, 08 Nov 2026 07:00:34 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+      "description": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme court Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied making a fake dating app account of Jesse Baird after their breakup, a court has heard. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+      "published": "Wed, 11 Nov 2026 01:00:28 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -507,16 +517,6 @@
       "description": "Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.",
       "url": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
       "published": "Wed, 04 Nov 2026 17:14:59 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Bukele warns Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
-      "description": "Video shows Salvadoran attack helicopters repelling gang fighters in Croix-des-Bouquets as Nayib Bukele escalates military operations in Haiti.",
-      "url": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
-      "published": "Wed, 04 Nov 2026 14:06:46 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
@@ -763,20 +763,20 @@
       "severity_level": "High"
     },
     {
-      "title": "G7 attention turns to Ukraine while US-mediated talks get underway in Abu Dhabi",
-      "description": "U.S. Secretary of State Marco Rubio and his counterparts from the Group of 7 developed democracies are turning their attention toward Ukraine and how to support it in its struggle to defend itself from Russia",
-      "url": "https://abcnews.com/International/wireStory/g7-attention-paris-turns-ukraine-us-mediated-talks-138001993",
-      "published": "Tue, 10 Nov 2026 01:57:41 -0500",
+      "title": "US soldier arrested in Britain on suspicion of espionage linked to Russia",
+      "description": "Counterterror police in England have arrested a U.S. Army soldier on suspicion of espionage related to Russia",
+      "url": "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230",
+      "published": "Tue, 10 Nov 2026 14:52:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
     },
     {
-      "title": "US soldier arrested in Britain on suspicion of espionage linked to Russia",
-      "description": "Counterterror police in England have arrested a U.S. Army soldier on suspicion of espionage related to Russia",
-      "url": "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230",
-      "published": "Tue, 10 Nov 2026 14:52:37 -0500",
+      "title": "G7 attention turns to Ukraine while US-mediated talks get underway in Abu Dhabi",
+      "description": "U.S. Secretary of State Marco Rubio and his counterparts from the Group of 7 developed democracies are turning their attention toward Ukraine and how to support it in its struggle to defend itself from Russia",
+      "url": "https://abcnews.com/International/wireStory/g7-attention-paris-turns-ukraine-us-mediated-talks-138001993",
+      "published": "Tue, 10 Nov 2026 01:57:41 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -788,6 +788,16 @@
       "url": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge",
       "published": "Mon, 09 Nov 2026 11:36:23 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
+      "description": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
+      "url": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
+      "published": "Tue, 10 Nov 2026 19:53:31 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -833,16 +843,6 @@
       "severity_level": "High"
     },
     {
-      "title": "'Cruise for life' ship seized in Singapore",
-      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 01:49:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
       "description": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
       "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
@@ -873,20 +873,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "How North Korean defectors view Kim Jong Un's daughter as his possible successor",
-      "description": "Kim Jong Un’s teenage daughter is at the center of global media speculation that she is being groomed to be her father’s heir",
-      "url": "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
-      "published": "Tue, 10 Nov 2026 01:18:07 -0500",
+      "title": "Myanmar army seizes key resistance HQ and bases held by opposition, state media says",
+      "description": "Myanmar’s military has seized a key resistance command headquarters and 10 other bases in the country’s southern region",
+      "url": "https://abcnews.com/International/wireStory/myanmar-army-seizes-key-resistance-headquarters-10-bases-138003361",
+      "published": "Tue, 10 Nov 2026 04:29:41 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Myanmar army seizes key resistance HQ and bases held by opposition, state media says",
-      "description": "Myanmar’s military has seized a key resistance command headquarters and 10 other bases in the country’s southern region",
-      "url": "https://abcnews.com/International/wireStory/myanmar-army-seizes-key-resistance-headquarters-10-bases-138003361",
-      "published": "Tue, 10 Nov 2026 04:29:41 -0500",
+      "title": "How North Korean defectors view Kim Jong Un's daughter as his possible successor",
+      "description": "Kim Jong Un’s teenage daughter is at the center of global media speculation that she is being groomed to be her father’s heir",
+      "url": "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
+      "published": "Tue, 10 Nov 2026 01:18:07 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -910,6 +910,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "description": "The US Department of Justice said one of the men continued to communicate with contacts from prison in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium"
     },
     {
@@ -1093,20 +1103,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
-      "description": "Negotiators from Moscow, Kyiv and Washington are scheduled to meet in Abu Dhabi, United Arab Emirates, on Tuesday and Wednesday for talks aimed at trying to end Russia's 4 1/2-year-old full-scale invasion of Ukraine",
-      "url": "https://abcnews.com/International/wireStory/past-talks-involving-russia-ukraine-yielded-progress-peace-138002084",
-      "published": "Tue, 10 Nov 2026 01:16:04 -0500",
+      "title": "5 Cambodian schoolgirls killed as a bus skids off a road into a pond",
+      "description": "Five girls died Tuesday morning in Cambodia when a school bus veered off the road and plunged into a pond",
+      "url": "https://abcnews.com/International/wireStory/5-cambodian-schoolgirls-killed-bus-skids-off-road-138005484",
+      "published": "Tue, 10 Nov 2026 07:17:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "5 Cambodian schoolgirls killed as a bus skids off a road into a pond",
-      "description": "Five girls died Tuesday morning in Cambodia when a school bus veered off the road and plunged into a pond",
-      "url": "https://abcnews.com/International/wireStory/5-cambodian-schoolgirls-killed-bus-skids-off-road-138005484",
-      "published": "Tue, 10 Nov 2026 07:17:20 -0500",
+      "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
+      "description": "Negotiators from Moscow, Kyiv and Washington are scheduled to meet in Abu Dhabi, United Arab Emirates, on Tuesday and Wednesday for talks aimed at trying to end Russia's 4 1/2-year-old full-scale invasion of Ukraine",
+      "url": "https://abcnews.com/International/wireStory/past-talks-involving-russia-ukraine-yielded-progress-peace-138002084",
+      "published": "Tue, 10 Nov 2026 01:16:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1200,6 +1210,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1333,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Fake federal agents push seniors to turn savings into gold bars for couriers to collect",
-      "description": "Scammers posing as FTC agents convinced retirees to buy gold bars and hand them to couriers using secret passwords like \"tulip\" at restaurants.",
-      "url": "https://www.foxnews.com/us/fake-federal-agents-push-seniors-turn-savings-gold-bars-couriers-collect",
-      "published": "Mon, 09 Nov 2026 06:00:12 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
@@ -1388,16 +1398,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
       "published": "Tue, 10 Nov 2026 22:03:50 +0000",
       "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
-      "description": "Westpac survey results signal growing sense of ‘helplessness’ while Jim Chalmers faces growing pressure to rein in spending Get our breaking news email , free app or daily news podcast Confidence among mortgaged households has crashed to its lowest level in more than three decades amid a growing sense of “helplessness” about the economy, even as a dramatic shift in financial markets suggests there is now a strong chance of a Reserve Bank rate cut by this time next year. The latest Westpac survey showed its consumer sentiment index sinking again in November to reach a four-year low, amid deepening pessimism about the near-term prospects for the economy . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
-      "published": "Tue, 10 Nov 2026 05:17:31 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1683,10 +1683,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:04:18 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1703,10 +1703,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:04:18 GMT",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2063,20 +2063,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
-      "description": "Indonesia’s Vice President Gibran Rakabuming Raka has offered to resign amid mounting pressure over his academic credentials, officials say",
-      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
-      "published": "Tue, 10 Nov 2026 07:10:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Malaysian high court clears final hurdle for former Prime Minister Najib's transfer to house arrest",
-      "description": "A high court in Malaysia has cleared all legal hurdles for former Prime Minister Najib Razak to serve the rest of his graft sentence under house arrest",
-      "url": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
-      "published": "Tue, 10 Nov 2026 07:10:31 -0500",
+      "title": "Street boxing matches gain popularity in Bogota",
+      "description": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits",
+      "url": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
+      "published": "Tue, 10 Nov 2026 14:52:32 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2093,10 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Street boxing matches gain popularity in Bogota",
-      "description": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits",
-      "url": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
-      "published": "Tue, 10 Nov 2026 14:52:32 -0500",
+      "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
+      "description": "Indonesia’s Vice President Gibran Rakabuming Raka has offered to resign amid mounting pressure over his academic credentials, officials say",
+      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
+      "published": "Tue, 10 Nov 2026 07:10:30 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Malaysian high court clears final hurdle for former Prime Minister Najib's transfer to house arrest",
+      "description": "A high court in Malaysia has cleared all legal hurdles for former Prime Minister Najib Razak to serve the rest of his graft sentence under house arrest",
+      "url": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
+      "published": "Tue, 10 Nov 2026 07:10:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
