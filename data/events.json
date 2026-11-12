@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T16:09:46.106437Z",
+  "last_updated": "2026-11-12T16:34:07.411469Z",
   "event_count": 216,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+      "description": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
+      "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+      "published": "Thu, 12 Nov 2026 16:18:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -173,16 +183,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least five people shot, one killed, in central Washington, DC",
-      "description": "Authorities have issued a shelter-in-place order near scene of attack in US capital.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 14:19:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
       "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
       "description": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
       "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
@@ -198,16 +198,6 @@
       "url": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
       "published": "Thu, 12 Nov 2026 07:26:19 -0500",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "2 dead, including suspect, 4 injured after shooting near Washington, DC gym: Sources",
-      "description": "An armed assailant opened fire outside a Vida Fitness location near 15th and P Street Northwest in Washington, D.C., injuring at least five people. Law enforcement contained the suspect in a barricade, D.C. police confirmed.",
-      "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
-      "published": "Thu, 12 Nov 2026 08:58:06 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -743,6 +733,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Hate strikes out in Philly",
+      "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly",
+      "published": "Thu, 12 Nov 2026 11:06:18 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
       "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
@@ -823,10 +823,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Multiple dead after vehicle crashes into food stand near North Hollywood Metro station",
-      "description": "A car crashed into a food stand near a North Hollywood Metro bus stop on Tuesday, killing three and leaving multiple others critically injured.",
-      "url": "https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station",
-      "published": "Wed, 11 Nov 2026 00:08:45 -0500",
+      "title": "DC gym shooting kills 1, injures 4; gunman dead, sources say",
+      "description": "An armed assailant opened fire outside a Vida Fitness location near 15th and P Street Northwest in Washington, D.C., injuring at least five people. Law enforcement contained the suspect in a barricade, D.C. police confirmed.",
+      "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
+      "published": "Thu, 12 Nov 2026 08:58:06 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 12,
@@ -1013,16 +1013,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Midterms: Democrat Colom claims historic win in Mississippi",
-      "description": "Scott Colom has become the first Black person to win a Senate race in Mississippi since 1874 and the first Democrat to do so since 1982 after being declared the victor in a razor-edge election on Wednesday. The win is a stunning upset in one of the country’s most reliably red states, adding to what were already sweeping gains by the Democrats at the midterms.",
-      "url": "https://www.france24.com/en/video/20261112-midterms-democrat-colom-claims-historic-win-in-mississippi",
-      "published": "Thu, 12 Nov 2026 13:37:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
       "description": "The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
@@ -1083,20 +1073,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Family of killed teen Javits Frimpong calls for justice",
-      "description": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 13:27:32 +0000",
+      "title": "At least five people shot, one killed, in central Washington, DC",
+      "description": "Authorities say the suspected shooter has been apprehended, after he shot himself.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 14:19:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Missing teenager found in bushland during aerial search in Australia",
-      "description": "A 17-year-old teenager has been found in dense bushland during an aerial search after being missing for six days.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/missing-teenager-found-in-bushland-during-aerial-search-in-australia?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 12:26:09 +0000",
+      "title": "Family of killed teen Javits Frimpong calls for justice",
+      "description": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 13:27:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1118,6 +1108,16 @@
       "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
       "published": "Wed, 11 Nov 2026 19:00:33 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Hungary eases abortion rules",
+      "description": "The reforms mark a break the the conservative policies of former PM Viktor Orban. The controversial \"heartbeat regulation\" is to be scrapped and women are to be better protected against violence.",
+      "url": "https://www.dw.com/en/hungary-eases-abortion-rules/a-79931614?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 12 Nov 2026 16:13:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1593,16 +1593,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
-      "description": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading on Thursday.",
-      "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 12 Nov 2026 14:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
       "description": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
       "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
@@ -1656,7 +1646,7 @@
       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
       "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
       "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:16:39 GMT",
+      "published": "Thu, 12 Nov 2026 16:31:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1668,6 +1658,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 08:46:57 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+      "description": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 16:07:16 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -2093,6 +2093,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory",
+      "description": "Near-Earth asteroid 1998 KY26 shows nongravitational acceleration, and Harvard researchers say it closely matches lost Soviet spacecraft Phobos 1.",
+      "url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
+      "published": "Thu, 12 Nov 2026 11:13:44 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Jim Jordan predicts who Dems will quickly go after in Trump admin once they take power and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/jim-jordan-predicts-who-dems-quickly-go-after-trump-admin-once-take-power-more-top-headlines",
@@ -2127,16 +2137,6 @@
       "description": "Investigators removed a headboard, hamper and possible comforter marked with evidence tape from the Chester, New Jersey, home where Brooke Hanlon died.",
       "url": "https://www.foxnews.com/us/slain-new-jersey-moms-bedroom-furniture-removed-investigators-months-unsolved-stabbing",
       "published": "Wed, 11 Nov 2026 07:00:55 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Former West Point cadet sued over alleged drugging, forced abortion of ex-girlfriend: 'Horrifying'",
-      "description": "A former West Point cadet drugged his girlfriend and forced abortion pills into her mouth and vagina, according to a lawsuit filed by the victim.",
-      "url": "https://www.foxnews.com/us/former-west-point-cadet-sued-alleged-drugging-forced-abortion-ex-girlfriend-horrifying",
-      "published": "Tue, 10 Nov 2026 22:32:40 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
