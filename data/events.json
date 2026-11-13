@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:34:21.008343Z",
+  "last_updated": "2026-11-13T12:11:53.980101Z",
   "event_count": 217,
   "events": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "title": "Live: Microsoft struggles to restore services as outage hits global users",
-      "description": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+      "description": "As disruption affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
       "published": "Fri, 13 Nov 2026 11:18:01 +0000",
       "source": "Al Jazeera",
@@ -314,7 +314,7 @@
     },
     {
       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "description": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. In its latest update, the tech company said it was seeing “early signs of stabilisation” in its efforts to improve capacity to enable more users to get back on its systems, after a global outage affected millions of users for more than 12 hours on Thursday and Friday. Continue reading...",
+      "description": "Tech firm sees ‘early signs of stabilisation’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. In its latest update, the tech company said it was seeing “early signs of stabilisation” in its efforts to improve capacity to enable more users to get back on its systems, after a global outage affected millions of users for more than 12 hours on Thursday and Friday. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "published": "Fri, 13 Nov 2026 10:15:13 GMT",
       "source": "The Guardian World",
@@ -488,6 +488,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 00:20:24 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "What’s behind Australia’s surge in teen extremism?",
+      "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+      "published": "Fri, 13 Nov 2026 11:33:57 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -876,7 +886,7 @@
       "title": "What we know about the global Microsoft outage",
       "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 10:53:40 GMT",
+      "published": "Fri, 13 Nov 2026 12:09:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
@@ -1058,6 +1068,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "New York City building collapse probe raises questions about neighboring property owner’s violation history",
+      "description": "N Tech Design of America defied a New York City stop-work order months before the deadly Brooklyn building collapse that killed eight people.",
+      "url": "https://www.foxnews.com/us/new-york-city-building-collapse-probe-raises-questions-about-neighboring-property-owners-violation-history",
+      "published": "Fri, 13 Nov 2026 07:00:26 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1603,16 +1623,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "MICHAEL RUIZ: JonBenét Ramsey's father challenges DA after report says family shouldn't have been cleared",
-      "description": "Boulder County DA Michael Dougherty's remarks on the JonBenét Ramsey cold case sparked a fierce response from her father over DNA evidence use.",
-      "url": "https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-father-challenges-da-report-says-family-shouldnt-cleared",
-      "published": "Wed, 11 Nov 2026 17:03:35 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1838,16 +1848,6 @@
       "url": "https://www.cnn.com/specials/travel-newsletter",
       "published": "Fri, 10 Dec 2021 18:58:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-      "description": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he never planned to murder anybody and if he did, he reiterated he would use stolen vehicles and a gun not linked to him. But the prosecutor responded: “No one’s saying it was a good plan, that’s why you’re sitting here.” Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-      "published": "Fri, 13 Nov 2026 05:33:48 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
