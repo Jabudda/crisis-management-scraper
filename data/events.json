@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T17:07:13.130294Z",
+  "last_updated": "2026-11-13T17:34:28.817567Z",
   "event_count": 216,
   "events": [
     {
@@ -218,6 +218,16 @@
       "url": "https://www.france24.com/en/tv-shows/focus/20261113-the-scourge-of-femicide-in-mexico-impunity-reigns-in-state-of-morelos",
       "published": "Fri, 13 Nov 2026 12:38:35 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
+      "description": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people",
+      "url": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
+      "published": "Thu, 12 Nov 2026 07:26:19 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical"
@@ -453,16 +463,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:20:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "What’s behind Australia’s surge in teen extremism?",
       "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
@@ -510,16 +510,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
       "severity_level": "High"
     },
     {
@@ -583,6 +573,16 @@
       "severity_level": "High"
     },
     {
+      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+      "description": "The Tabbara family has been making falafel in Lebanon for over a century",
+      "url": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
+      "published": "Thu, 12 Nov 2026 01:45:24 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
       "title": "New platform aims to get money moving before disaster strikes",
       "description": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
@@ -630,6 +630,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:16:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High"
     },
     {
@@ -833,16 +843,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news",
-      "description": "Iran's Revolutionary Guard says it destroyed a U.S. early warning radar in Bahrain, marking the first such claim in months",
-      "url": "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
-      "published": "Fri, 13 Nov 2026 04:44:52 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
       "description": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
@@ -933,20 +933,20 @@
       "severity_level": "High"
     },
     {
-      "title": "Why is the Microsoft outage lasting so long?",
-      "description": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 14:21:26 GMT",
+      "published": "Fri, 13 Nov 2026 17:12:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
     },
     {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:09:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1023,9 +1023,9 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Czechia braces for massive protest against cuts to public media",
+      "title": "Czechia braces for massive protest against public media reform plans",
       "description": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
-      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 13 Nov 2026 08:35:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1113,6 +1113,26 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:40:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:38:54 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
@@ -1183,21 +1203,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
-      "description": "Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem \"Comfortably Numb\" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become \"Comfortably Numb\" with the violence and suffering in Gaza.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
-      "published": "Fri, 13 Nov 2026 14:45:00 GMT",
-      "source": "France24",
+      "title": "The dangers of revising Europe's security architecture",
+      "description": "Experts warn against revising Europe's security framework because they say it would mean granting Moscow its longstanding wish of renegotiating postwar security on the continent.",
+      "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 13 Nov 2026 17:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
-      "description": "Hundreds of people line up each night outside a charity-run food pantry in Havana, hoping for their only meal of the day",
-      "url": "https://abcnews.com/International/wireStory/charity-run-kitchens-havana-feed-growing-number-cubans-138103260",
-      "published": "Fri, 13 Nov 2026 08:08:30 -0500",
-      "source": "ABC News International",
+      "title": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
+      "description": "Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem \"Comfortably Numb\" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become \"Comfortably Numb\" with the violence and suffering in Gaza.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
+      "published": "Fri, 13 Nov 2026 14:45:00 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1223,10 +1243,30 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain approves housing measures after huge protests. Duration may depend on election",
-      "description": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation",
-      "url": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
-      "published": "Thu, 12 Nov 2026 07:58:26 -0500",
+      "title": "For Ethiopian mothers sheltering in Kenya, safety brings a struggle to feed children",
+      "description": "Ethiopian mothers fleeing violence into Kenya have found safety but struggle to feed their children",
+      "url": "https://abcnews.com/International/wireStory/ethiopian-mothers-sheltering-kenya-safety-brings-struggle-feed-138072189",
+      "published": "Thu, 12 Nov 2026 05:01:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "description": "A cargo ship is set to leave Ireland for Russia with alumina, a white powder that experts say is likely used to make weapons",
+      "url": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+      "published": "Thu, 12 Nov 2026 03:58:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter",
+      "description": "Ukrainians are preparing for a challenging winter as the war continues",
+      "url": "https://abcnews.com/International/wireStory/stay-leave-ukrainians-face-hard-choice-ahead-wars-138069659",
+      "published": "Thu, 12 Nov 2026 05:58:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1313,16 +1353,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "India news: Sonam Wangchuk says he is under house arrest in Ladakh",
-      "description": "Wangchuk is among activists in Ladakh who have raised concerns about upcoming regional elections, which they say are designed to diminish voter participation as they will be held in the harsh winter period. DW has more.",
-      "url": "https://www.dw.com/en/india-news-sonam-wangchuk-says-he-is-under-house-arrest-in-ladakh/live-79936475?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 13 Nov 2026 07:05:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
       "description": "Jensen Huang’s departure from Nvidia exposes the vulnerabilities behind the AI boom. As equities reel in response to his resignation following extramarital affairs, alleged Chinese espionage and a summons to testify before US lawmakers, questions mount over who is really in charge of tech and whether the immense capital riding on it can survive the turmoil.",
       "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
@@ -1363,16 +1393,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:02:54 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
       "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
       "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
@@ -1403,20 +1423,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Spain's Sánchez faces political test as train crash casts shadow over election",
-      "description": "Spain's Prime Minister Pedro Sánchez had hoped to leverage widespread discontent over unaffordable housing when he called snap elections",
-      "url": "https://abcnews.com/International/wireStory/spains-snchez-faces-political-test-deadly-train-crash-138100812",
-      "published": "Fri, 13 Nov 2026 03:15:08 -0500",
+      "title": "Mongolia protests Malaysia’s handling of a 20-year-old murder case",
+      "description": "Mongolia has lodged a diplomatic protest with Malaysia over the handling of a murder case involving a Mongolian woman",
+      "url": "https://abcnews.com/International/wireStory/mongolia-protests-malaysias-handling-20-year-murder-case-138071482",
+      "published": "Thu, 12 Nov 2026 04:38:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Military helicopter crashes in southern Turkey, killing 4",
-      "description": "The Turkish Defense Ministry says a military helicopter has crashed in southern Turkey, killing four personnel",
-      "url": "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
-      "published": "Thu, 12 Nov 2026 12:42:19 -0500",
+      "title": "UK appoints climate security envoy as Thunberg criticizes COP31 leaders",
+      "description": "The United Kingdom has appointed a special envoy to address climate change security threats",
+      "url": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
+      "published": "Thu, 12 Nov 2026 07:18:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1453,16 +1473,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:35:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1477,16 +1487,6 @@
       "description": "A bus has collided with a container truck in Assam, India, killing at least 24 people and injuring 11 others",
       "url": "https://abcnews.com/International/wireStory/bus-truck-collision-indias-assam-state-kills-24-138107488",
       "published": "Fri, 13 Nov 2026 08:39:08 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Armed robbers flee Paris jewelry store on motorcycles",
-      "description": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles",
-      "url": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
-      "published": "Thu, 12 Nov 2026 07:42:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1520,6 +1520,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1583,20 +1593,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 07:01:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 07:01:43 GMT",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:48:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1813,9 +1823,9 @@
       "severity_level": "Low"
     },
     {
-      "title": "Jensen Huang is out. An AI expert explains what his exit could mean for the AI boom",
+      "title": "Jensen Huang is out. An AI expert explains what his exit means for the AI boom",
       "description": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-scandal-colette-kress-ai-future",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-investigation-lutnick-ai-boom",
       "published": "Fri, 13 Nov 2026 06:47:00 -0500",
       "source": "NPR World News",
       "type": "rss",
@@ -1973,20 +1983,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
-      "description": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years",
-      "url": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487",
-      "published": "Fri, 13 Nov 2026 08:39:14 -0500",
+      "title": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
+      "description": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead",
+      "url": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
+      "published": "Thu, 12 Nov 2026 08:52:05 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Nauru's president has no political opponents after all lawmakers joined the government side",
-      "description": "Nauru’s president, David Adeang, has announced that all opposition lawmakers in parliament have joined his government",
-      "url": "https://abcnews.com/International/wireStory/naurus-president-political-opponents-after-lawmakers-joined-government-138102578",
-      "published": "Fri, 13 Nov 2026 04:44:59 -0500",
+      "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
+      "description": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
+      "url": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
+      "published": "Thu, 12 Nov 2026 07:58:14 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "London court finds 2 Iranian men guilty of spying for Tehran",
+      "description": "Two Iranian men have been found guilty of spying on journalists in London for Tehran",
+      "url": "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
+      "published": "Thu, 12 Nov 2026 07:58:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2003,30 +2023,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025",
-      "description": "Mexican President Claudia Sheinbaum says no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025",
-      "url": "https://abcnews.com/International/wireStory/sheinbaum-rebuts-trump-migrant-caravans-reached-us-border-138083469",
-      "published": "Thu, 12 Nov 2026 11:26:59 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
-      "description": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead",
-      "url": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
-      "published": "Thu, 12 Nov 2026 08:52:05 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "London court finds 2 Iranian men guilty of spying for Tehran",
-      "description": "Two Iranian men have been found guilty of spying on journalists in London for Tehran",
-      "url": "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
-      "published": "Thu, 12 Nov 2026 07:58:15 -0500",
+      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
+      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
+      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
