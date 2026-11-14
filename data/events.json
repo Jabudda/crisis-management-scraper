@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T21:34:07.303404Z",
+  "last_updated": "2026-11-14T22:06:53.718832Z",
   "event_count": 218,
   "events": [
     {
@@ -278,6 +278,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168782",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Illegal immigrant trucker charged in crash that killed mom, 2 young sons heading to airport",
+      "description": "A tablet with YouTube open was found in the semi-truck driven by Eldar Skander, who allegedly caused the fatal Kansas City crash at high speed.",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-trucker-charged-crash-killed-mom-2-young-sons-heading-airport",
+      "published": "Fri, 13 Nov 2026 11:26:44 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
@@ -623,6 +633,36 @@
       "severity_level": "High"
     },
     {
+      "title": "Video from inside Brooklyn apartment captures moment New York City building collapsed, killing 8",
+      "description": "Video from inside a third-floor Brooklyn apartment captures the walls crumbling as a family scrambles to escape the deadly Flatbush collapse.",
+      "url": "https://www.foxnews.com/us/video-inside-brooklyn-apartment-captures-moment-new-york-city-building-collapsed-killing-8",
+      "published": "Fri, 13 Nov 2026 13:12:38 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Mom who plowed into soccer field and killed 2 will not face charges, DA says",
+      "description": "Sedgwick County DA Marc Bennett says negligence alone cannot support vehicular manslaughter charges under Kansas law after the Stryker Complex crash.",
+      "url": "https://www.foxnews.com/us/mom-plowed-soccer-field-killed-2-will-not-face-charges-da-says",
+      "published": "Fri, 13 Nov 2026 12:46:57 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "SEE IT: Door-kicking pranksters target California homes as police warn trend can end badly",
+      "description": "Irvine Police Department shared surveillance videos of the door kick challenge, warning the viral prank is vandalism that can lead to criminal charges.",
+      "url": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly",
+      "published": "Fri, 13 Nov 2026 10:53:18 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Senior US Army soldier arrested in UK on suspicion of spying for Russia",
       "description": "U.K. police arrested a senior U.S. Army soldier in a Russia-linked espionage probe, drawing a sharp warning from FBI Director Kash Patel.",
       "url": "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
@@ -853,6 +893,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "New York City building collapse probe raises questions about neighboring property owner’s violation history",
+      "description": "N Tech Design of America defied a New York City stop-work order months before the deadly Brooklyn building collapse that killed eight people.",
+      "url": "https://www.foxnews.com/us/new-york-city-building-collapse-probe-raises-questions-about-neighboring-property-owners-violation-history",
+      "published": "Fri, 13 Nov 2026 07:00:26 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
       "description": "Inside Dubai's Crossroads of Civilizations Museum, founder Ahmed Obaid Al Mansoori reveals how a temporary Holocaust tribute became a permanent gallery.",
       "url": "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
@@ -913,16 +963,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "When tech founders leave, what happens to their companies?",
-      "description": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
-      "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-      "published": "Sat, 14 Nov 2026 14:24:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -948,16 +988,6 @@
       "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
       "published": "Fri, 13 Nov 2026 19:51:28 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Senegal Youth Olympics in Dakar end on high note",
-      "description": "Enthusiastic crowds attended the games in Senegal, with China taking home the most gold medals. It's the first Olympic Games since Russia's war on Ukraine where Russian athletes can compete under their own flag.",
-      "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 14 Nov 2026 04:25:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1173,6 +1203,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 23:11:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Tens of thousands march in latest Portugal housing protests",
       "description": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
       "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
@@ -1258,26 +1298,6 @@
       "url": "https://abcnews.com/International/wireStory/spains-snchez-faces-political-test-deadly-train-crash-138100812",
       "published": "Fri, 13 Nov 2026 03:15:08 -0500",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "FN4220DTITLE \"><svg onload=alert(21) data-x=\"",
-      "description": "FN4220DDEK <img src=x onerror=alert(25)>",
-      "url": "https://www.foxnews.com/us/fn4220-render-d-3f39e4a2",
-      "published": "Sat, 14 Nov 2026 16:20:55 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "FN4220BTITLE <svg onload=alert(1)>",
-      "description": "FN4220BDEK <img src=x onerror=alert(5)>",
-      "url": "https://www.foxnews.com/us/fn4220-render-b-16cd43ed",
-      "published": "Sat, 14 Nov 2026 16:19:59 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1378,6 +1398,26 @@
       "url": "https://abcnews.com/International/wireStory/bus-truck-collision-indias-assam-state-kills-24-138107488",
       "published": "Fri, 13 Nov 2026 08:39:08 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Empire State Building climbers face deportation fears after attorney claims plea deal fell apart",
+      "description": "Angela Nikolau and Ivan Kuznetsov might face deportation and jail time after their viral Empire State Building climb, with a plea deal now in dispute.",
+      "url": "https://www.foxnews.com/us/empire-state-building-climbers-face-deportation-fears-attorney-claims-plea-deal-fell-apart",
+      "published": "Fri, 13 Nov 2026 08:00:45 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Couple accused of killing registered sex offender in pre-planned stabbing in Arizona desert",
+      "description": "A couple allegedly planned the stabbing of a registered sex offender in a desert area in Arizona and now face first-degree homicide charges, police say.",
+      "url": "https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert",
+      "published": "Fri, 13 Nov 2026 02:43:08 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1493,16 +1533,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 21:05:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
       "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
       "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
@@ -1518,6 +1548,16 @@
       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 10:42:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "description": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 21:10:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1823,6 +1863,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "SpaceX carries out first-ever spaceship capture",
+      "description": "The successful recovery of the SpaceX Starship marks the first recovery of a spaceship.",
+      "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 14 Nov 2026 21:35:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Nigeria's upcoming election marred by rising AI disinformation",
       "description": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
       "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
@@ -1903,8 +1953,8 @@
       "severity_level": "Low"
     },
     {
-      "title": "SpaceX's Starship set for return to Earth after failed booster catch",
-      "description": "SpaceX's Starship spacecraft was on track to return to its Texas launch site for a planned mid-air catch, after an aborted recovery attempt.",
+      "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
+      "description": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
       "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
       "published": "Sat, 14 Nov 2026 20:51:24 GMT",
       "source": "France24",
@@ -2043,96 +2093,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "FN4220H8 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h8-41a178ae",
-      "published": "Sat, 14 Nov 2026 16:21:56 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H7 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h7-ce2cd6ed",
-      "published": "Sat, 14 Nov 2026 16:21:21 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H6 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h6-76a775b4",
-      "published": "Sat, 14 Nov 2026 16:21:20 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H4 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h4-49125a24",
-      "published": "Sat, 14 Nov 2026 16:21:19 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H5 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h5-d8a6d703",
-      "published": "Sat, 14 Nov 2026 16:21:19 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H2 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h2-c8235805",
-      "published": "Sat, 14 Nov 2026 16:21:18 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H3 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h3-2e2b36c4",
-      "published": "Sat, 14 Nov 2026 16:21:18 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220H1 title",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-c-h1-6d8ef2ff",
-      "published": "Sat, 14 Nov 2026 16:21:17 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "FN4220CTITLE marker",
-      "description": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-      "url": "https://www.foxnews.com/us/fn4220-render-c-92907007",
-      "published": "Sat, 14 Nov 2026 16:20:19 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
       "description": "Video near Joint Base Elmendorf-Richardson captures a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests kite.",
       "url": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
@@ -2167,6 +2127,46 @@
       "description": "Viral video shows a male student repeatedly punching, kicking and choking a 10th grade girl on an Ohio school bus as other students laughed.",
       "url": "https://www.foxnews.com/us/school-investigating-viral-video-10th-grade-girl-punched-chokehold-ohio-school-bus",
       "published": "Fri, 13 Nov 2026 13:35:28 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "MICHAEL RUIZ: Cold case DNA unmasks 'Montauk Mary' as cops probe link to Jersey Shore 'Thrill Killer'",
+      "description": "Sofia Margherita Marrone, known as \"Montauk Mary\" for decades, was identified via DNA and linked to Jersey Shore \"Thrill Killer\" Richard Biegenwald.",
+      "url": "https://www.foxnews.com/us/michael-ruiz-cold-case-dna-unmasks-montauk-mary-cops-probe-link-jersey-shore-thrill-killer",
+      "published": "Fri, 13 Nov 2026 11:56:47 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Schumer's Senate leadership fight intensifies as key progressive backs challenger and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/schumers-senate-leadership-fight-intensifies-progressive-backs-challenger-more-top-headlines",
+      "published": "Fri, 13 Nov 2026 07:41:25 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "MICHAEL RUIZ: JonBenet Ramsey investigators are retesting evidence with newer technology, police chief says",
+      "description": "Boulder investigators are retesting decades-old DNA evidence in the JonBenet Ramsey cold case using advanced technology that didn't exist in 1997.",
+      "url": "https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-investigators-retesting-evidence-newer-technology-police-chief-says",
+      "published": "Fri, 13 Nov 2026 06:00:37 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "DHS touts highest ICE deportations in history, as Mullin says agency has been ‘unleashed’",
+      "description": "DHS Secretary Markwayne Mullin announced record ICE arrests and deportations in fiscal 2026, with arrests exceeding three Biden fiscal years combined.",
+      "url": "https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed",
+      "published": "Thu, 12 Nov 2026 21:54:59 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
