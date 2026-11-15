@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T07:08:00.926892Z",
+  "last_updated": "2026-11-15T07:34:22.538035Z",
   "event_count": 217,
   "events": [
     {
@@ -100,6 +100,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Germany news: Germany holds national day of remembrance",
+      "description": "Events are being held for Volkstrauertag, a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 15 Nov 2026 07:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical"
     },
     {
@@ -543,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Germany news: Solar power production approaches record high",
-      "description": "Solar power output in Germany in 2026 has already surpassed last year's total. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 14 Nov 2026 11:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
       "description": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United States pushes ahead with efforts to negotiate between Ukraine and Moscow.",
       "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
@@ -780,6 +780,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "description": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 07:11:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -1020,16 +1030,6 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 19:12:25 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium"
     },
     {
@@ -1433,6 +1433,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 07:10:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "description": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -1607,16 +1617,6 @@
       "description": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
       "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
       "published": "Sun, 15 Nov 2026 00:14:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "description": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "published": "Sat, 14 Nov 2026 23:34:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2043,20 +2043,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
-      "description": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
-      "url": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
-      "published": "Sat, 14 Nov 2026 05:31:42 -0500",
+      "title": "Pope denounces ‘suffering and humiliation’ of African enslaved people during Peru visit",
+      "description": "Pope Leo XIV has denounced the “suffering and humiliation” endured by African enslaved people as he made a tangible show of remorse in Peru following his historic apology for the Holy See’s own role in legitimizing the African slave trade in the Americas",
+      "url": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
+      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pope denounces ‘suffering and humiliation’ of African enslaved people during Peru visit",
-      "description": "Pope Leo XIV has denounced the “suffering and humiliation” endured by African enslaved people as he made a tangible show of remorse in Peru following his historic apology for the Holy See’s own role in legitimizing the African slave trade in the Americas",
-      "url": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
-      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
+      "title": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
+      "description": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
+      "url": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
+      "published": "Sat, 14 Nov 2026 05:31:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
