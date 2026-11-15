@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T14:07:10.506045Z",
+  "last_updated": "2026-11-15T14:34:08.187331Z",
   "event_count": 218,
   "events": [
     {
@@ -8,16 +8,6 @@
       "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
       "published": "Sat, 14 Nov 2026 13:00:44 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 54,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Three sentenced to death over Jordan church attack",
-      "description": "A Jordanian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
-      "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
-      "published": "Sun, 15 Nov 2026 08:53:39 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 54,
       "severity_level": "Critical"
@@ -60,6 +50,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 40,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "US probes nationwide flights stoppage as travel disruptions persist",
+      "description": "US air travel is expected to return to normal this Sunday, following a nationwide ground stop Friday night that stranded hundreds of thousands of passengers and disrupted travel worldwide. The Trump administration blamed the incident on a botched replacement of old copper wire communication lines and said there was no evidence this was a cyberattack. The ground stop now raises questions about the country's aging infrastructure and lawmakers are calling for an investigation. Analysis by Philip Mann, aviation expert at Vector Strategic Consulting.",
+      "url": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
+      "published": "Sun, 15 Nov 2026 14:09:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "title": "Germany news: Germany holds national day of remembrance",
-      "description": "Events are being held for Volkstrauertag, a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+      "description": "Events are being held for 'Volkstrauertag,' a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
       "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 15 Nov 2026 07:23:00 GMT",
       "source": "Deutsche Welle",
@@ -343,16 +343,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Illegal immigrant trucker charged in crash that killed mom, 2 young sons heading to airport",
-      "description": "A tablet with YouTube open was found in the semi-truck driven by Eldar Skander, who allegedly caused the fatal Kansas City crash at high speed.",
-      "url": "https://www.foxnews.com/us/illegal-immigrant-trucker-charged-crash-killed-mom-2-young-sons-heading-airport",
-      "published": "Fri, 13 Nov 2026 11:26:44 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical"
-    },
-    {
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
       "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
       "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
@@ -388,16 +378,6 @@
       "url": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
       "published": "Thu, 12 Nov 2026 11:32:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
-      "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
-      "description": "Comedian Huang Yi-hao was involved in a car accident in September, but it turned out to be a deliberate attack",
-      "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
-      "published": "Sat, 14 Nov 2026 00:32:26 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
@@ -653,6 +633,16 @@
       "severity_level": "High"
     },
     {
+      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
+      "description": "Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.",
+      "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
+      "published": "Sun, 15 Nov 2026 09:00:44 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
@@ -717,16 +707,6 @@
       "description": "Sedgwick County DA Marc Bennett says negligence alone cannot support vehicular manslaughter charges under Kansas law after the Stryker Complex crash.",
       "url": "https://www.foxnews.com/us/mom-plowed-soccer-field-killed-2-will-not-face-charges-da-says",
       "published": "Fri, 13 Nov 2026 12:46:57 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "SEE IT: Door-kicking pranksters target California homes as police warn trend can end badly",
-      "description": "Irvine Police Department shared surveillance videos of the door kick challenge, warning the viral prank is vandalism that can lead to criminal charges.",
-      "url": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly",
-      "published": "Fri, 13 Nov 2026 10:53:18 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 12,
@@ -933,16 +913,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-      "description": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-      "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 09:59:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1043,20 +1013,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-      "description": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
-      "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
-      "published": "Wed, 11 Nov 2026 20:04:45 -0500",
+      "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
+      "description": "Two African governments signed deals with Russia's Alabuga drone factory zone as a Ukrainian probe alleges deceptive recruitment of young African women.",
+      "url": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
+      "published": "Sun, 15 Nov 2026 09:00:46 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
-      "description": "President Donald Trump says a Russia deal could involve \"all of Europe\" as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
-      "url": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
-      "published": "Sun, 08 Nov 2026 18:48:13 -0500",
+      "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+      "description": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
+      "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
+      "published": "Wed, 11 Nov 2026 20:04:45 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
@@ -1088,16 +1058,6 @@
       "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 14 Nov 2026 21:09:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Cape Verde could make election history with first female president",
-      "description": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent Jose Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.",
-      "url": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
-      "published": "Sun, 15 Nov 2026 07:56:14 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1258,6 +1218,16 @@
       "url": "https://abcnews.com/International/wireStory/pope-leo-helps-argentines-embrace-francis-pontiff-divided-138153510",
       "published": "Sun, 15 Nov 2026 01:38:34 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking",
+      "description": "Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons' small backyard party spiraled into a massive gathering with fireworks and crowds.",
+      "url": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
+      "published": "Sun, 15 Nov 2026 09:01:57 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1553,6 +1523,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+      "description": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 14:02:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+      "description": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 13:54:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
       "description": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
       "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
@@ -1637,16 +1627,6 @@
       "description": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
       "published": "Sun, 15 Nov 2026 10:28:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Polls open in Cape Verde in race with first female presidential candidate",
-      "description": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 10:03:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1953,6 +1933,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Why the Nvidia scandal is bad news for Europe’s AI ambitions",
+      "description": "Nvidia's Jensen Huang poured money into open-source AI, from French-founded Hugging Face to chips for Mistral's data centres, and fought Washington's attempts to restrict it. With Huang gone and China hawks emboldened, Tech 24 asks whether Europe's AI ambitions have lost their most powerful ally, and whether he was ever the champion Europe needed.",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
+      "published": "Sun, 15 Nov 2026 14:16:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "France's presidential race heats up",
       "description": "In approximately six months time, French voters will head to the polls for the first round of the presidential election. Due to term limits, current president Emmanuel Macron is barred from running again. But that hasn't stopped a whole host of candidates from tossing their hat in the ring.",
       "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
@@ -2057,6 +2047,16 @@
       "description": "Nobel Peace Prize laureate Rigoberta Menchú Tum attended the ritual.",
       "url": "https://abcnews.com/International/wireStory/mayan-ceremony-guatemala-honors-nobel-winner-miguel-ngel-138148663",
       "published": "Sat, 14 Nov 2026 18:46:05 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pope denounces ‘suffering and humiliation’ of African enslaved people during Peru visit",
+      "description": "Pope Leo XIV has denounced the “suffering and humiliation” endured by African enslaved people as he made a tangible show of remorse in Peru following his historic apology for the Holy See’s own role in legitimizing the African slave trade in the Americas",
+      "url": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
+      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
