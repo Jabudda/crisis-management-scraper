@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T08:34:20.938013Z",
+  "last_updated": "2026-11-15T09:08:01.625401Z",
   "event_count": 218,
   "events": [
     {
@@ -8,6 +8,16 @@
       "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
       "published": "Sat, 14 Nov 2026 13:00:44 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 54,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Three sentenced to death over Jordan church attack",
+      "description": "A Jordian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
+      "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+      "published": "Sun, 15 Nov 2026 08:53:39 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 54,
       "severity_level": "Critical"
@@ -30,16 +40,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 41,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "China rules out hosting Cop33 climate summit in 2028",
-      "description": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands. The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international cooperation on the climate . Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-      "published": "Thu, 12 Nov 2026 22:00:15 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical"
     },
     {
@@ -153,6 +153,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "description": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 08:15:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
       "description": "Spain's first general strike in 14 years turned violent in Barcelona as protesters set fires and launched fireworks at riot police on Paseo de Gracia.",
       "url": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
@@ -263,20 +273,20 @@
       "severity_level": "Critical"
     },
     {
-      "title": "At least 6 killed and 11 injured when bus overturns in southwestern Colombia",
-      "description": "Police report that at least six people are dead and 11 injured after a bus overturned on a highway in southwestern Colombia",
-      "url": "https://abcnews.com/International/wireStory/6-killed-11-injured-bus-overturns-southwestern-colombia-138145996",
-      "published": "Sat, 14 Nov 2026 14:22:19 -0500",
+      "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
+      "description": "Authorities in Panama are investigating a bombing attack on the home of an investigative journalist",
+      "url": "https://abcnews.com/International/wireStory/panamanian-authorities-investigate-bombing-attack-investigative-reporters-home-138147790",
+      "published": "Sat, 14 Nov 2026 17:06:12 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
     },
     {
-      "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
-      "description": "Authorities in Panama are investigating a bombing attack on the home of an investigative journalist",
-      "url": "https://abcnews.com/International/wireStory/panamanian-authorities-investigate-bombing-attack-investigative-reporters-home-138147790",
-      "published": "Sat, 14 Nov 2026 17:06:12 -0500",
+      "title": "At least 6 killed and 11 injured when bus overturns in southwestern Colombia",
+      "description": "Police report that at least six people are dead and 11 injured after a bus overturned on a highway in southwestern Colombia",
+      "url": "https://abcnews.com/International/wireStory/6-killed-11-injured-bus-overturns-southwestern-colombia-138145996",
+      "published": "Sat, 14 Nov 2026 14:22:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 20,
@@ -311,16 +321,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical"
-    },
-    {
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
-      "description": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 01:00:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
     },
     {
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
@@ -413,20 +413,20 @@
       "severity_level": "High"
     },
     {
-      "title": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift",
-      "description": "France's President Emmanuel Macron and other leaders are attending a biennial meeting of French-speaking countries and territories in Cambodia's capital, Phnom Penh",
-      "url": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244",
-      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
+      "title": "Hundreds of men lead protest to urge other men to help reduce violence against women",
+      "description": "Hundreds of men have led a demonstration in the Swiss capital to denounce violence against women",
+      "url": "https://abcnews.com/International/wireStory/hundreds-men-lead-protest-urge-men-reduce-violence-138146280",
+      "published": "Sat, 14 Nov 2026 14:35:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High"
     },
     {
-      "title": "Hundreds of men lead protest to urge other men to help reduce violence against women",
-      "description": "Hundreds of men have led a demonstration in the Swiss capital to denounce violence against women",
-      "url": "https://abcnews.com/International/wireStory/hundreds-men-lead-protest-urge-men-reduce-violence-138146280",
-      "published": "Sat, 14 Nov 2026 14:35:19 -0500",
+      "title": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift",
+      "description": "France's President Emmanuel Macron and other leaders are attending a biennial meeting of French-speaking countries and territories in Cambodia's capital, Phnom Penh",
+      "url": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244",
+      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -573,16 +573,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Who are the 'street medics' showing up at protests around the world?",
-      "description": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did they start showing up at demonstrations? Story by Daniel Quinlan.",
-      "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
-      "published": "Sat, 14 Nov 2026 12:19:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
       "description": "Southeast Asian leaders have opened their annual summit in the Philippine capital Manila for three days of talks",
       "url": "https://abcnews.com/International/wireStory/southeast-asian-leaders-open-annual-summit-major-conflicts-138153824",
@@ -613,10 +603,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 00:27:14 +0000",
+      "title": "Thousands in Portugal protest against surging rental prices",
+      "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 08:40:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -818,6 +808,16 @@
       "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 15:09:40 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "description": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 08:49:47 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium"
@@ -1053,6 +1053,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+      "description": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "published": "Sun, 15 Nov 2026 08:56:11 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
       "description": "The 2027 federal budget proposal has finally been hammered out and is set for a vote in parliament. What are the government's policy priorities in defense, infrastructure, the economy and social spending?",
       "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-xml-mrss",
@@ -1203,20 +1213,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
-      "description": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest with a fiery performance of “Sobra-Sobra,” beating 10 other acts in the grand final in Bangkok",
-      "url": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506",
-      "published": "Sat, 14 Nov 2026 17:10:14 -0500",
+      "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them",
+      "description": "Millions of Argentines have turned out to see Pope Leo XIV — and the words that moved them most often belonged to his predecessor, and their compatriot, Francis",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-helps-argentines-embrace-francis-pontiff-divided-138153510",
+      "published": "Sun, 15 Nov 2026 01:38:34 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
     },
     {
-      "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them",
-      "description": "Millions of Argentines have turned out to see Pope Leo XIV — and the words that moved them most often belonged to his predecessor, and their compatriot, Francis",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-helps-argentines-embrace-francis-pontiff-divided-138153510",
-      "published": "Sun, 15 Nov 2026 01:38:34 -0500",
+      "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+      "description": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest with a fiery performance of “Sobra-Sobra,” beating 10 other acts in the grand final in Bangkok",
+      "url": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506",
+      "published": "Sat, 14 Nov 2026 17:10:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1353,6 +1363,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+      "description": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 08:29:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
       "title": "Netanyahu sends plea to Eisenkot for unity government",
       "description": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
@@ -1444,7 +1464,7 @@
     },
     {
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "description": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "description": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 03:21:04 GMT",
       "source": "BBC News",
@@ -1617,26 +1637,6 @@
       "description": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
       "published": "Sun, 15 Nov 2026 01:32:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "description": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 01:22:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "description": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 00:14:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2053,20 +2053,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
-      "description": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
-      "url": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
-      "published": "Sat, 14 Nov 2026 05:31:42 -0500",
+      "title": "Pope denounces ‘suffering and humiliation’ of African enslaved people during Peru visit",
+      "description": "Pope Leo XIV has denounced the “suffering and humiliation” endured by African enslaved people as he made a tangible show of remorse in Peru following his historic apology for the Holy See’s own role in legitimizing the African slave trade in the Americas",
+      "url": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
+      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Pope denounces ‘suffering and humiliation’ of African enslaved people during Peru visit",
-      "description": "Pope Leo XIV has denounced the “suffering and humiliation” endured by African enslaved people as he made a tangible show of remorse in Peru following his historic apology for the Holy See’s own role in legitimizing the African slave trade in the Americas",
-      "url": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
-      "published": "Sat, 14 Nov 2026 18:30:13 -0500",
+      "title": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
+      "description": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
+      "url": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
+      "published": "Sat, 14 Nov 2026 05:31:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
