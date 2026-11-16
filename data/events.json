@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T02:12:52.955564Z",
+  "last_updated": "2026-11-16T02:35:58.603387Z",
   "event_count": 218,
   "events": [
     {
@@ -260,6 +260,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "description": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:00:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -543,16 +553,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High"
-    },
-    {
       "title": "Pope urges end to Amazon deforestation",
       "description": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
@@ -628,6 +628,16 @@
       "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
       "published": "Thu, 12 Nov 2026 07:15:48 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+      "description": "Hundreds of thousands of Czechs rallied in Prague on Sunday against government plans to replace public media fees with direct state funding, which critics say threatens broadcasters’ independence. Organisers said turnout exceeded a March protest of more than 200,000, potentially making it the largest demonstration since the 1989 Velvet Revolution.",
+      "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+      "published": "Mon, 16 Nov 2026 02:28:13 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -873,16 +883,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "French Ciryl Gane retains MMA heavyweaight title agianst Josh Hokit",
-      "description": "Ciryl Gane remains the world's MMA heavyweight champion. Overnight, the French athlete beat Josh Hokit in the main event of UFC 334 at Madison Square Garden in ​New York. The 5-round fight was rough, as Shirli Sitbon explains.",
-      "url": "https://www.france24.com/en/french-cyril-gane-retains-mma-heavyweaight-title-agianst-josh-hokit",
-      "published": "Sun, 15 Nov 2026 13:58:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Microsoft confirms all services are restored after global outage",
       "description": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK.",
       "url": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
@@ -907,6 +907,16 @@
       "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "description": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 01:53:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1103,16 +1113,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-      "description": "Ukrainian President Volodymyr Zelenskyy says the U.S. has raised the idea of a new postwar security framework for Europe",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
-      "published": "Sat, 14 Nov 2026 11:26:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Pakistan's army says it killed 74 militants in raids on their hideouts",
       "description": "Pakistani security forces have killed 74 militants in raids on hideouts in regions bordering Afghanistan over the past 10 days, according to the military",
       "url": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
@@ -1127,6 +1127,16 @@
       "description": "European nations are looking for an envoy to represent them in talks to end the Russia-Ukraine war",
       "url": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
       "published": "Fri, 13 Nov 2026 04:55:08 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+      "description": "Ukrainian President Volodymyr Zelenskyy says the U.S. has raised the idea of a new postwar security framework for Europe",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
+      "published": "Sat, 14 Nov 2026 11:26:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1177,16 +1187,6 @@
       "description": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
       "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 22:57:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "description": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 00:03:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1333,6 +1333,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "description": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "published": "Mon, 16 Nov 2026 02:22:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
       "description": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
       "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
@@ -1461,16 +1471,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
-    },
-    {
-      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-      "description": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-      "published": "Sun, 15 Nov 2026 19:02:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
