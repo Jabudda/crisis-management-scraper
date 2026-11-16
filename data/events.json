@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T20:08:35.855740Z",
+  "last_updated": "2026-11-16T20:34:06.804893Z",
   "event_count": 219,
   "events": [
     {
@@ -210,16 +210,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "At least 17 killed in two South Africa mass shootings",
-      "description": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-      "published": "Mon, 16 Nov 2026 15:26:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
       "severity_level": "Critical"
     },
     {
@@ -593,16 +583,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-      "description": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-      "published": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "Person of interest being questioned by FBI in Illinois ethanol plant bomb investigation",
       "description": "FBI Springfield, Illinois, is leading the manhunt after a credible explosive device was found at BioUrja Renewables in Peoria, sparking evacuations.",
       "url": "https://www.foxnews.com/us/fbi-investigates-who-placed-bomb-near-illinois-ethanol-plant",
@@ -768,6 +748,16 @@
       "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 14:22:36 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "What will Europe do next in Ukraine?",
+      "description": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+      "published": "Mon, 16 Nov 2026 20:12:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -943,6 +933,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Spain says nearly 2,200 migrants reached Canary Islands in 2 days",
+      "description": "Spain's maritime rescue service says nearly 2,200 migrants have arrived in the Canary Islands over the past two days",
+      "url": "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239",
+      "published": "Sun, 15 Nov 2026 06:46:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Empowering faith and Indigenous leaders to combat hate",
       "description": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
@@ -993,11 +993,31 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+      "description": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+      "published": "Mon, 16 Nov 2026 20:00:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
       "description": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
       "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 12:42:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+      "description": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+      "published": "Mon, 16 Nov 2026 20:05:06 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1157,16 +1177,6 @@
       "description": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
       "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
       "published": "Mon, 16 Nov 2026 19:18:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Students protest as air pollution chokes New Delhi",
-      "description": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
-      "published": "Mon, 16 Nov 2026 15:27:07 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1358,6 +1368,16 @@
       "url": "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
       "published": "Mon, 16 Nov 2026 14:22:15 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low"
+    },
+    {
+      "title": "AI gets climate science right – until users push back",
+      "description": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+      "published": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low"
@@ -1613,16 +1633,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-      "description": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-      "published": "Mon, 16 Nov 2026 14:58:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1823,6 +1833,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "France's Philippe Diallo to challenge Infantino for FIFA presidency",
+      "description": "Philippe Diallo is the second candidate to stand against incumbent Gianni Infantino. He is backed by European football's governing body UEFA, known to be critical of Infantino.",
+      "url": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 16 Nov 2026 20:24:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pakistan: Former leader Khan pleads for medical care",
       "description": "Imran Khan appealed to judges to be treated \"before it's too late.\" His wife was also included in the request.",
       "url": "https://www.dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-all-1573-xml-mrss",
@@ -1867,16 +1887,6 @@
       "description": "Germany coach Jürgen Klopp has joined the chorus of football figures critical of FIFA President Gianni Infantino. But with time running out, there are few who seem willing to run against him.",
       "url": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 16 Nov 2026 11:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Can a 'coalition of the willing' create momentum for a fossil fuel phaseout?",
-      "description": "In April, about 60 countries held an unprecedented meeting in Colombia to work out a plan to slowly quit oil, coal and gas. How influential is this coalition at the COP31 climate summit?",
-      "url": "https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 16 Nov 2026 08:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2067,16 +2077,6 @@
       "description": "Brazilian President Luiz Inácio Lula da Silva has won a surprise reelection victory but faces significant challenges",
       "url": "https://abcnews.com/International/wireStory/lula-govern-brazil-fourth-term-faces-range-challenges-138170781",
       "published": "Mon, 16 Nov 2026 02:55:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Africa is charting a different road to electric mobility with motorbikes and versatile 3-wheelers",
-      "description": "In Africa, the electric vehicle transition is taking a different route from wealthier markets, with motorcycles and three-wheelers emerging as practical alternatives to passenger cars",
-      "url": "https://abcnews.com/International/wireStory/africa-charting-road-electric-mobility-motorbikes-versatile-3-138153368",
-      "published": "Sun, 15 Nov 2026 01:29:41 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
