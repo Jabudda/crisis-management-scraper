@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T15:35:01.281875Z",
+  "last_updated": "2026-11-18T16:08:25.564385Z",
   "event_count": 219,
   "events": [
     {
@@ -20,6 +20,16 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 33,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+      "description": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government. Amid territorial ambitions, regional rivalries, and divisions within government forces, the potential fall of this stronghold could permanently alter the balance of power in the country.",
+      "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+      "published": "Wed, 18 Nov 2026 15:55:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical"
     },
     {
@@ -183,6 +193,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Russian attacks on Ukraine kill at least five people",
+      "description": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 15:32:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High"
+    },
+    {
       "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
       "description": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city. The 44-member Waterfall troop (named after the area they mainly inhabit) was captured in the southern seaside suburb of Simon’s Town on Friday and Saturday. A second, smaller Seaforth troop is also due to be moved. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
@@ -343,26 +363,6 @@
       "severity_level": "High"
     },
     {
-      "title": "TikToker arrested after big cat mauls teen to death during video shoot at private farm",
-      "description": "A TikToker and farm owner were arrested after a big cat fatally mauled a teenage worker during a video shoot in Pakistan, Lahore officials said.",
-      "url": "https://www.foxnews.com/world/tiktoker-arrested-big-cat-mauls-teen-death-video-shoot-private-farm",
-      "published": "Sun, 15 Nov 2026 19:14:22 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 15:54:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -453,6 +453,16 @@
       "severity_level": "High"
     },
     {
+      "title": "German Chancellor warns Islamic immigrants, others to honor nation's Holocaust legacy or leave",
+      "description": "Chancellor Friedrich Merz told Jewish athletes that immigrants from Islamic countries and elsewhere must honor Germany's Holocaust responsibility or leave the country.",
+      "url": "https://www.foxnews.com/world/german-chancellor-warns-islamic-immigrants-others-honor-nations-holocaust-legacy-leave",
+      "published": "Wed, 18 Nov 2026 10:51:03 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
@@ -497,16 +507,6 @@
       "description": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 12:27:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-      "description": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 11:57:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -713,16 +713,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-      "published": "Tue, 17 Nov 2026 13:34:31 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
       "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
       "description": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
       "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-xml-mrss",
@@ -803,20 +793,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
+      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 15:39:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:20:36 GMT",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -863,20 +853,20 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Robert Pattinson is the new James Bond: The surprise casting choice explained",
-      "description": "Robert Pattinson will be the new James Bond, taking over from Daniel Craig in one of cinema’s most iconic roles. Film critic Emma Jones joins Eve Jackson on the arts24 weekly film show to discuss the surprise choice, Pattinson's star power and what he could bring to 007. Plus, they review the latest \"Hunger Games\" prequel \"Sunrise on the Reaping\", Lukas Dhont's Cannes prize winner \"Coward\" and Germany's Oscar entry \"Everytime\".",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
-      "published": "Wed, 18 Nov 2026 14:32:34 GMT",
-      "source": "France24",
+      "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+      "description": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+      "published": "Wed, 18 Nov 2026 04:43:44 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
     },
     {
-      "title": "Chinese cars shake up Ivory Coast's auto industry",
-      "description": "In the space of just a few years, more than a dozen Chinese carmakers have established themselves in Ivory Coast and are becoming increasingly visible on the country's streets. How have they managed to win over a growing number of customers? FRANCE 24's Jean Barrère and Eunice Stolz-Masson report.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261118-chinese-cars-shake-up-ivory-coast-s-auto-industry",
-      "published": "Wed, 18 Nov 2026 12:25:36 GMT",
+      "title": "Robert Pattinson is the new James Bond: The surprise casting choice explained",
+      "description": "Robert Pattinson will be the new James Bond, taking over from Daniel Craig in one of cinema’s most iconic roles. Film critic Emma Jones joins Eve Jackson on the arts24 weekly film show to discuss the surprise choice, Pattinson's star power and what he could bring to 007. Plus, they review the latest \"Hunger Games\" prequel \"Sunrise on the Reaping\", Lukas Dhont's Cannes prize winner \"Coward\" and Germany's Oscar entry \"Everytime\".",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
+      "published": "Wed, 18 Nov 2026 14:32:34 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1113,11 +1103,11 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-      "description": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
-      "url": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 11:51:26 +0000",
-      "source": "Al Jazeera",
+      "title": "Borussia Dortmund bows to fan pressure and end Rheinmetall deal",
+      "description": "Borussia Dortmund has reluctantly ended its association with a major sponsor after long-term fan protests. They are not the first Bundesliga club to u-turn, as commercial interests clash with politics and fan culture.",
+      "url": "https://www.dw.com/en/borussia-dortmund-bows-to-fan-pressure-and-end-rheinmetall-deal/a-79980121?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Nov 2026 15:39:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1128,26 +1118,6 @@
       "url": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Nov 2026 14:28:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Deutsche Bank under fire after internal documents made public",
-      "description": "A cache of internal records outlines the bank's dealings with Jeffrey Epstein, Donald Trump and Russian oligarchs. The German lender has sought to deflect criticism by claiming its bad behavior is a thing of the past.",
-      "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 17 Nov 2026 18:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Pineapple pizza debate reignites after Italian chef sacked in Australia",
-      "description": "An Italian chef in Australia has lost his job after refusing to put pineapple on a pizza - calling it \"an insult\" to his culture. He then took his case to an employment tribunal, but his claim was dismissed. The case has reignited one the debate over what many, particularly in Italy consider to be culinary heresy. Our colleagues from France 2 report on the fallout from Rome.",
-      "url": "https://www.france24.com/en/video/20261118-pineapple-pizza-debate-reignites-after-italian-chef-sacked-in-australia",
-      "published": "Wed, 18 Nov 2026 12:03:26 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
@@ -1207,16 +1177,6 @@
       "description": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
       "url": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 12:04:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Who would gain from carving up Pakistan’s provinces?",
-      "description": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 11:47:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
@@ -1403,6 +1363,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:05:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 14:57:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
       "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
       "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
@@ -1417,16 +1397,6 @@
       "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:12:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 14:57:56 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1448,6 +1418,26 @@
       "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 02:29:52 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+      "description": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 15:37:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+      "description": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 15:00:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1666,7 +1656,7 @@
       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
       "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "published": "Wed, 18 Nov 2026 15:10:26 GMT",
+      "published": "Wed, 18 Nov 2026 15:40:40 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1686,7 +1676,7 @@
       "title": "M 5.3 - 16 km ESE of Comandău, Romania",
       "description": "DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.686°N 26.452°E Depth 130.27 km (80.94 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-      "published": "2026-11-18T14:55:00.476Z",
+      "published": "2026-11-18T16:01:22.505Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1738,6 +1728,16 @@
       "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
       "published": "Wed, 18 Nov 2026 05:00:00 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US House Democrats nominate Hakeem Jeffries for speaker",
+      "description": "Jeffries is set to be the first Black speaker of the US House of Representatives when Democrats take control of the chamber next year.",
+      "url": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Nov 2026 15:46:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1813,11 +1813,21 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
-      "description": "2027 could be a landmark year for EU–Southeast Asia trade, with several deals nearing completion. But the harder task will be to ensure that businesses actually use them.",
-      "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 17 Nov 2026 18:39:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "🔴 US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
+      "published": "Wed, 18 Nov 2026 15:45:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
+      "description": "Democrats nominated Hakeem Jeffries on Wednesday to be the next speaker of the House of Representatives, putting him on track to make history as the nation’s first Black American with the gavel.",
+      "url": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
+      "published": "Wed, 18 Nov 2026 15:44:18 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1827,16 +1837,6 @@
       "description": "If you've ever visited the south of France, you may have come across a calisson. These traditional yellow and white almond-shaped candies are everywhere in the region. We tell you all about them with our guest Alexis Bertucat, head of communication and tourism for renowned calisson maker Confiserie du Roy René.",
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20261118-the-calisson-a-sweet-taste-of-france-s-provence-region",
       "published": "Wed, 18 Nov 2026 14:08:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "'A masterpiece of the gaming industry': GTA 'most expensive' entertainment production in history",
-      "description": "François Picard is pleased to welcome Olivier Mauco, President of the European Video Game Observatory and Lecturer at Paris Dauphine University. For Spotlight, he discusses the extraordinary anticipation surrounding \"GTA VI\", the game's enduring popularity and the economics of blockbuster video game production. \"It's kind of the masterpiece of the game industry,\" says Mauco of Grand Theft Auto, whose next instalment has generated considerable anticipation following a 13-year hiatus.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261118-a-masterpiece-of-the-gaming-industry-gta-most-expensive-entertainment-production-in-history",
-      "published": "Wed, 18 Nov 2026 12:06:50 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -1983,10 +1983,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "EU-backed court convicts Kosovo ex-President of attempting to obstruct justice",
-      "description": "A European Union-backed court has convicted Kosovo's former president, Hashim Thaci, of trying to obstruct justice and contempt of court",
-      "url": "https://abcnews.com/International/wireStory/eu-backed-court-convicts-kosovo-president-hashim-thaci-138204660",
-      "published": "Tue, 17 Nov 2026 07:50:16 -0500",
+      "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says",
+      "description": "A joint rare earths mining and processing venture between Malaysia and France is expected to begin operations in early 2027",
+      "url": "https://abcnews.com/International/wireStory/malaysia-france-rare-earths-project-begin-operations-early-138201779",
+      "published": "Tue, 17 Nov 2026 05:14:11 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
