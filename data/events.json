@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T17:34:28.208387Z",
+  "last_updated": "2026-11-18T18:09:32.978162Z",
   "event_count": 219,
   "events": [
     {
@@ -40,16 +40,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "North Korea completes external works on enrichment facility extension, says IAEA",
-      "description": "A new extension to North Korea's Yongbyon enrichment facility has been \"externally complete\" since mid-October, according to the International Atomic Energy Agency (IAEA), which relies on satellite imagery and open sources to monitor the country's nuclear programme. IAEA chief Rafael Grossi on Wednesday said expansion of Pyongyang's enrichment programme remains \"cause for serious concern\".",
-      "url": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
-      "published": "Wed, 18 Nov 2026 13:46:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
       "severity_level": "Critical"
     },
     {
@@ -413,6 +403,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Some Afghan women quietly defy Taliban bans",
+      "description": "In the shadows of the Afghan capital’s bustling streets, many women live in a hidden world, secretly defying the laws imposed on them when the Taliban seized power in August 2021",
+      "url": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
+      "published": "Tue, 17 Nov 2026 04:38:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
       "description": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
@@ -493,6 +493,16 @@
       "severity_level": "High"
     },
     {
+      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "description": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 17:45:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
       "description": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
       "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
@@ -503,8 +513,8 @@
       "severity_level": "High"
     },
     {
-      "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-      "description": "At least three Palestinians were killed as Israeli forces launched strikes near a refugee camp.",
+      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+      "description": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
       "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 14:39:09 +0000",
       "source": "Al Jazeera",
@@ -533,11 +543,41 @@
       "severity_level": "High"
     },
     {
+      "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
+      "description": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's two largest economies, China's growing diplomatic influence and the competition over artificial intelligence.“China is the diplomatic center of the world,” says Brown, pointing to Beijing's ability to bring together leaders from Russia, the United States, Europe and elsewhere. He argues that China now has “extraordinary convening power\" and significant influence over Russia.",
+      "url": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
+      "published": "Wed, 18 Nov 2026 17:48:38 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+      "description": "Palestinians fled their tents and shelters in central Gaza on Wednesday after Israel launched a rare ground operation in an area it withdrew ​from under a ‌2025 ceasefire. The Israeli army said it crossed the Yellow Line separating Israeli and Hamas-controlled areas \"to remove a threat posed to IDF troops operating in the Gaza Strip\".",
+      "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+      "published": "Wed, 18 Nov 2026 16:03:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Prague train crash leaves 46 people injured",
       "description": "Two trains have collided into each other near the main railway station in Prague, injuring 46 people.",
       "url": "https://news.sky.com/story/prague-train-crash-leaves-46-people-injured-13613217",
       "published": "Tue, 17 Nov 2026 12:46:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Military jet crashes in Serbia and the pilot is killed, authorities say",
+      "description": "Serbia's defense ministry says that a military jet crashed northwest of Belgrade, killing the pilot",
+      "url": "https://abcnews.com/International/wireStory/military-jet-crashes-serbia-pilot-killed-authorities-138203005",
+      "published": "Tue, 17 Nov 2026 05:17:36 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -663,9 +703,9 @@
       "severity_level": "High"
     },
     {
-      "title": "'Coalition of the Willing' meets in Berlin: In an era of waning support, Europe remains committed to Ukraine",
+      "title": "'Coalition of the Willing' meets in Berlin: Europe remains committed to Ukraine",
       "description": "The \"Coalition of the Willing\" supporting Ukraine is gathering in Berlin. One of the key issues under discussion is whether Europe will be able to play a role in future negotiations over the country's future.",
-      "url": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-in-an-era-of-waning-support-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/coalition-of-the-willing-meets-in-berlin-europe-remains-committed-to-ukraine/a-79974996?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Nov 2026 15:03:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -678,6 +718,16 @@
       "url": "https://www.france24.com/en/video/20261118-xi-embraces-trump-in-china-diplomacy-playing-out-in-real-time",
       "published": "Wed, 18 Nov 2026 14:54:17 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
+      "description": "Japan has protested to Moscow after two suspected Russian aircraft entered Japanese airspace off the country’s southwestern coast",
+      "url": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
+      "published": "Tue, 17 Nov 2026 06:06:14 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High"
@@ -893,16 +943,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
-      "description": "The remains of José Caguana, one of two Ecuadorian construction workers killed in a New York building collapse, have arrived in Ecuador",
-      "url": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
-      "published": "Wed, 18 Nov 2026 11:25:54 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "El Salvador's president confirms and celebrates attack on home of key Haitian gang leader",
       "description": "El Salvador’s president says that his troops have demolished the lavish home of a prominent gang leader in Haiti known as Jeff",
       "url": "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
@@ -913,10 +953,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "EU proposes fresh $49 billion loan for Ukraine as war costs mount",
-      "description": "The European Commission wants to raise a 45 billion euro loan for Ukraine to support its economy and war effort in 2027",
-      "url": "https://abcnews.com/International/wireStory/eu-proposes-fresh-49-billion-loan-ukraine-war-138249084",
-      "published": "Wed, 18 Nov 2026 11:26:13 -0500",
+      "title": "Japan urges creation of an Asian energy framework to counter oil crises",
+      "description": "Japanese Prime Minister Sanae Takaichi has proposed the creation of an Asian energy agency to help countries in the region cope with oil crises, such as the shocks from the Iran war",
+      "url": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916",
+      "published": "Tue, 17 Nov 2026 05:07:59 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -948,6 +988,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
       "published": "Sun, 15 Nov 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Mother and son use video game to help feds find missing girl allegedly held captive by older man",
+      "description": "A Colorado mom and son playing \"Among Us\" helped the FBI find Utah teen Kylie Arellano in Oregon 18 months later, leading to Adam Hunter Harmel's arrest.",
+      "url": "https://www.foxnews.com/us/mother-son-video-game-help-feds-find-missing-girl-allegedly-held-captive-older-man",
+      "published": "Wed, 18 Nov 2026 12:30:45 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -1023,26 +1073,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Migrants face severe health tolls amid South Africa's anti-illegal migration tensions",
-      "description": "Aid groups in South Africa report that anti-illegal migration protests have severely impacted the health of migrants",
-      "url": "https://abcnews.com/International/wireStory/migrants-face-severe-health-tolls-amid-south-africas-138247843",
-      "published": "Wed, 18 Nov 2026 11:26:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Rare encounter with isolated Indigenous people in Brazil raises concerns over safety",
-      "description": "A rare encounter with isolated Awa Indigenous people in Brazil’s Amazon has raised concerns about their safety and the growing threats to their forest territory",
-      "url": "https://abcnews.com/International/wireStory/rare-encounter-isolated-indigenous-people-brazil-raises-concerns-138230528",
-      "published": "Tue, 17 Nov 2026 19:24:18 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Criminal past of Illinois ethanol plant bomb scare suspect includes multiple felonies, 2 prison stints",
       "description": "Andrew Kozak, the BioUrja worker accused in the Peoria bomb threat, has a criminal past spanning four Nebraska counties, Fox News Digital reports.",
       "url": "https://www.foxnews.com/us/criminal-past-illinois-ethanol-plant-bomb-scare-suspect-includes-multiple-felonies-2-prison-stints",
@@ -1103,16 +1133,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
-      "description": "The AI chipmaker said it doubled its third-quarter revenue and confirmed that Jensen Huang would not be reinstated as CEO after a Chinese spy scandal.",
-      "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Nov 2026 00:34:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "French presidential elections 2027: More candidates, more confusion (Episode 2)",
       "description": "France will head to the polls to vote for its next president in the spring of 2027. Thirty-eight candidates are currently vying to make it onto the final ballot and have until March 12 to gather backing from 500 elected officials. One figure currently stands out: Marine Le Pen. The far-right National Rally leader has a significant lead in the latest polls.",
       "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261118-french-presidential-elections-2027-more-candidates-more-confusion-episode-2",
@@ -1123,10 +1143,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Philippine president has Jollibee fried chicken sent to Trump for a late-night snack",
-      "description": "Philippine President Ferdinand Marcos Jr. says he sent a delivery of Jollibee fried chicken to President Donald Trump so he could have a “taste of Manila” since the Republican president was staying in the capital for a short amount of time",
-      "url": "https://abcnews.com/International/wireStory/philippine-president-jollibee-fried-chicken-delivered-trump-late-138241588",
-      "published": "Wed, 18 Nov 2026 08:54:19 -0500",
+      "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
+      "description": "Nabeel Rajab, a prominent democracy activist who advocated for the rights of Bahrain’s Shiite majority and spent years in prison for challenging the country’s monarchy, has died",
+      "url": "https://abcnews.com/International/wireStory/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-138231196",
+      "published": "Tue, 17 Nov 2026 19:45:40 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1253,16 +1273,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "'A not so veiled criticism of the US' as Xi blasts protectionism at APEC summit",
-      "description": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism and said regional economies needed to stand up to rising unilateralism in what France 24's Kethevane Gorjestani says was a \"a not so veiled criticism of the US\". Xi's comments came APEC summit in Shenzhen, China, where a highly anticipated trilateral meeting between Xi, Donald Trump and Vladimir Putin is set to take place on Thursday.",
-      "url": "https://www.france24.com/en/video/20261118-a-not-so-veiled-criticism-of-the-us-as-xi-blasts-protectionism-at-apec-summit",
-      "published": "Wed, 18 Nov 2026 13:55:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
       "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
       "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
@@ -1323,16 +1333,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds",
-      "description": "A passenger reportedly assaulted another traveler aboard Qatar Airways flight QR725 from Doha to Chicago, prompting an FBI and police response.",
-      "url": "https://www.foxnews.com/us/fight-reportedly-breaks-passengers-chicago-bound-flight-fbi-responds",
-      "published": "Mon, 16 Nov 2026 19:50:29 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low"
-    },
-    {
       "title": "Ecuador's president denies US operates military base despite reports of troop buildup",
       "description": "Ecuadorian President Daniel Noboa denies the U.S. operates a military base at Taura Air Base, describing American personnel's activities as temporary.",
       "url": "https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup",
@@ -1386,7 +1386,7 @@
       "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
       "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 16:44:23 GMT",
+      "published": "Wed, 18 Nov 2026 17:51:47 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1396,7 +1396,7 @@
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
       "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
       "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 14:57:56 GMT",
+      "published": "Wed, 18 Nov 2026 17:34:25 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1416,7 +1416,7 @@
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:09:02 GMT",
+      "published": "Wed, 18 Nov 2026 17:34:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1543,16 +1543,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
-      "description": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 14:11:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -1666,7 +1656,7 @@
       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
       "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "published": "Wed, 18 Nov 2026 16:58:02 GMT",
+      "published": "Wed, 18 Nov 2026 17:48:24 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1738,6 +1728,16 @@
       "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
       "published": "Wed, 18 Nov 2026 05:00:00 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Muslims to outnumber Christians by 2035, research shows",
+      "description": "Pew Research Center projections show that there will be 2.57 billion Muslims and 2.52 billion Christians by 2035. Researchers say differences in fertility rates account for the change.",
+      "url": "https://www.dw.com/en/muslims-to-outnumber-christians-by-2035-research-shows/a-79984307?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Nov 2026 17:52:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1913,16 +1913,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism",
-      "description": "St. Peter’s Basilica, the spiritual heart of Roman Catholicism, marks the 400th anniversary of its dedication",
-      "url": "https://abcnews.com/International/wireStory/st-peters-basilica-marks-400-years-heart-roman-138252856",
-      "published": "Wed, 18 Nov 2026 11:31:35 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "A Chinese executive is convicted in a case linked to a Bangkok building collapse",
       "description": "A Thai court has found a Chinese executive and Thai shareholders guilty of illegally operating a business in Thailand",
       "url": "https://abcnews.com/International/wireStory/chinese-executive-convicted-case-linked-bangkok-building-collapse-138252346",
@@ -1933,40 +1923,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Top UN court to deliver judgment alleging Myanmar committed genocide against Rohingya",
-      "description": "The United Nations' top court is set to deliver a judgment Thursday in a case accusing Myanmar of committing genocide against the Rohingya",
-      "url": "https://abcnews.com/International/wireStory/top-court-deliver-judgment-case-alleging-myanmar-committed-138247041",
-      "published": "Wed, 18 Nov 2026 09:21:03 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
-      "description": "Police in Bangladesh have clashed with garment workers demanding higher wages",
-      "url": "https://abcnews.com/International/wireStory/police-bangladesh-clash-garment-workers-demanding-higher-minimum-138243349",
-      "published": "Wed, 18 Nov 2026 07:42:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
-      "description": "Inflation in the U.K. has risen to its highest level in a year, reaching 3.6% in October",
-      "url": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
-      "published": "Wed, 18 Nov 2026 08:54:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
-      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
-      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
+      "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
+      "description": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye",
+      "url": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
+      "published": "Tue, 17 Nov 2026 07:37:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -1983,10 +1943,50 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
+      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
+      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
+      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism",
+      "description": "St. Peter’s Basilica, the spiritual heart of Roman Catholicism, marks the 400th anniversary of its dedication",
+      "url": "https://abcnews.com/International/wireStory/st-peters-basilica-marks-400-years-heart-roman-138252856",
+      "published": "Wed, 18 Nov 2026 11:31:35 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "David Beckham sues after his fragrance is sold in gas stations and discount stores",
       "description": "David Beckham’s company is suing beauty group Coty for at least $41 million, alleging that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand",
       "url": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
       "published": "Tue, 17 Nov 2026 08:42:06 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "How Europe decided on 'return hubs' for migrants",
+      "description": "A group of European countries has announced plans to establish a \"migrant hub\" in Rwanda for rejected asylum-seekers",
+      "url": "https://abcnews.com/International/wireStory/europe-decided-return-hubs-migrants-138205386",
+      "published": "Tue, 17 Nov 2026 07:34:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
+      "description": "Pope Leo XIV says his recent lung cancer surgery hasn't changed his agenda or outlook",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
+      "published": "Tue, 17 Nov 2026 05:14:10 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
