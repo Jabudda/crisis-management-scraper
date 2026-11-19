@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T15:34:48.730111Z",
+  "last_updated": "2026-11-19T16:09:04.113907Z",
   "event_count": 219,
   "events": [
     {
@@ -20,6 +20,26 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Syria's Christian leaders warn of 'grave' threat to community's future amid wave of attacks",
+      "description": "Syria's top Christian leaders warn that escalating attacks, kidnappings and violence threaten their community's future, as the State Department voices concern over religious persecution.",
+      "url": "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks",
+      "published": "Thu, 19 Nov 2026 10:55:51 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "description": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country’s ethnic Rohingya, the first such ruling against a State.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -183,16 +203,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-      "description": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Economic Cooperation summit is a dream showcase for one of China’s most advanced cities, and the country’s leader, Xi Jinping, is basking in its neon glow. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-      "published": "Tue, 17 Nov 2026 11:18:26 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
       "title": "APEC summit: Trump, Xi, Putin talks end with 'peace declaration'",
       "description": "The three world leaders discussed the Russian invasion of Ukraine as well as nuclear arms controls. Following the trilateral talks, President Trump reportedly headed to the airport. Follow DW live.",
       "url": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-xml-mrss",
@@ -208,16 +218,6 @@
       "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 19 Nov 2026 11:39:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Ex-hostage recounts captivity in Iran-backed militia stronghold now targeted by Iraqi prime minister",
-      "description": "Israeli-Russian researcher Elizabeth Tsurkov describes where Iran-backed Iraqi terrorists held her captive for months as Iraq's Trump-backed prime minister orders a crackdown on the militia.",
-      "url": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-      "published": "Tue, 17 Nov 2026 13:04:00 -0500",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical"
@@ -303,6 +303,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
+      "description": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast",
+      "url": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
+      "published": "Thu, 19 Nov 2026 08:38:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
       "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
       "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
       "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
@@ -318,6 +328,16 @@
       "url": "https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice",
       "published": "Thu, 19 Nov 2026 13:21:41 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High"
+    },
+    {
+      "title": "Migrant boat capsizes off Senegal's coast, leaving 1 person dead and several missing",
+      "description": "A migrant boat capsized off Senegal's coast, resulting in one death and several missing people, according to local officials",
+      "url": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
+      "published": "Thu, 19 Nov 2026 09:03:39 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High"
@@ -397,16 +417,6 @@
       "description": "An official in Brussels says a cyberattack using software powered by artificial intelligence targeted the European Union in October",
       "url": "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
       "published": "Thu, 19 Nov 2026 08:30:35 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
-      "description": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events",
-      "url": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
-      "published": "Wed, 18 Nov 2026 01:41:32 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -493,16 +503,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine criticizes IAEA plan to appoint sanctioned Russian official to senior post",
-      "description": "Ukraine has criticized the proposal by the International Atomic Energy Agency to appoint a Russian official, sanctioned by Kyiv, to a senior position",
-      "url": "https://abcnews.com/International/wireStory/ukraine-criticizes-iaea-plan-appoint-sanctioned-russian-official-138252932",
-      "published": "Wed, 18 Nov 2026 11:25:50 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
-    },
-    {
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
       "description": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
@@ -538,6 +538,16 @@
       "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
       "published": "Thu, 19 Nov 2026 13:13:53 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "description": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran triggered by two of the participants. The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "published": "Thu, 19 Nov 2026 15:50:03 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High"
@@ -580,6 +590,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "description": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:07:35 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
       "severity_level": "High"
     },
     {
@@ -653,6 +673,26 @@
       "severity_level": "High"
     },
     {
+      "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
+      "description": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
+      "published": "Thu, 19 Nov 2026 09:02:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
+      "description": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offered a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China",
+      "url": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
+      "published": "Thu, 19 Nov 2026 09:02:14 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
       "description": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
@@ -660,16 +700,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-      "description": "Some local media report that at least four bodies have been recovered.",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 09:02:52 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -703,6 +733,16 @@
       "severity_level": "High"
     },
     {
+      "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
+      "description": "The U.N. nuclear watchdog says that North Korea has been expanding its original uranium enrichment facility at its Yongbyon nuclear complex",
+      "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+      "published": "Thu, 19 Nov 2026 02:29:33 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
       "description": "United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
       "url": "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane",
@@ -710,6 +750,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "description": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 15:52:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -733,20 +783,10 @@
       "severity_level": "High"
     },
     {
-      "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
-      "description": "Ukraine says it has carried out new strikes on two oil refineries in southern Russia",
-      "url": "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
-      "published": "Wed, 18 Nov 2026 11:26:07 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Putin says US-China-Russia can strengthen global stability",
-      "description": "Putin says US-China-Russia can strengthen global stability",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 11:22:43 +0000",
+      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+      "description": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 15:16:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -883,6 +923,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+      "description": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 15:24:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
       "description": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
       "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
@@ -903,21 +953,21 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Will laser weapons change warfare?",
-      "description": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 11:20:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
+      "description": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda Apec summit – latest updates It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed had been written, and will instead be consigned to a smallish footnote in any future volume of the 21 st century. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+      "published": "Thu, 19 Nov 2026 15:35:01 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium"
@@ -973,6 +1023,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "EU reveals it suffered 'AI-powered' cyber attack",
+      "description": "The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline as a result.",
+      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+      "published": "Thu, 19 Nov 2026 15:38:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Israeli troops launch ground operation in central Gaza",
       "description": "Dozens of displaced Palestinians have fled their tents and shelters in central ‌Gaza after Israel launched a rare ground operation in an area it had left under a ceasefire last year.",
       "url": "https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724",
@@ -983,10 +1043,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "El Salvador's president confirms and celebrates attack on home of key Haitian gang leader",
-      "description": "El Salvador’s president says that his troops have demolished the lavish home of a prominent gang leader in Haiti known as Jeff",
-      "url": "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
-      "published": "Wed, 18 Nov 2026 11:26:03 -0500",
+      "title": "A van Gogh with a complex past sells for a record $190 million at auction",
+      "description": "A vibrant landscape painted by Vincent van Gogh weeks before his death has sold for $190.4 million at auction",
+      "url": "https://abcnews.com/International/wireStory/van-gogh-complex-past-sells-record-190-million-138284157",
+      "published": "Thu, 19 Nov 2026 08:54:40 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1003,30 +1063,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UK's Prince Harry sees 'big separation' between US administration, public on support for Ukraine",
-      "description": "Britain’s Prince Harry offered a veiled criticism of the U.S. government’s policy toward Ukraine, saying in an interview released late Wednesday that he believes there is a “big separation” between the U.S. administration’s stance and that of the Ameri...",
-      "url": "https://abcnews.com/International/wireStory/uks-prince-harry-sees-big-separation-us-administration-138263585",
-      "published": "Wed, 18 Nov 2026 17:40:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
       "description": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
       "published": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Empowering faith and Indigenous leaders to combat hate",
-      "description": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
-      "published": "Sun, 15 Nov 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 8,
@@ -1123,16 +1163,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Migrants face severe health tolls amid South Africa's anti-illegal migration tensions",
-      "description": "Aid groups in South Africa report that anti-illegal migration protests have severely impacted the health of migrants",
-      "url": "https://abcnews.com/International/wireStory/migrants-face-severe-health-tolls-amid-south-africas-138247843",
-      "published": "Wed, 18 Nov 2026 11:26:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1163,16 +1193,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-      "description": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-      "published": "Tue, 17 Nov 2026 17:58:05 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
       "title": "China summit ends with little new, Europe backs Ukraine in Berlin",
       "description": "The leaders of China, the United States and Russia met in Shenzhen for a historic first, but the summit brought little new: non-binding statements on peace and no plan to meet regularly. In Berlin, Europeans gathered to show their support for Ukraine, a pointed answer to a summit where Europe had no seat, as FRANCE 24's Kethevane Gorjestani explains.",
       "url": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
@@ -1188,6 +1208,16 @@
       "url": "https://news.sky.com/story/prince-william-and-kate-meet-indias-pm-narendra-modi-as-they-wrap-up-royal-visit-13613699",
       "published": "Wed, 18 Nov 2026 18:54:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates",
+      "description": "Somalia’s government has ordered the United Arab Emirates ambassador to leave the country within 72 hours",
+      "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436",
+      "published": "Thu, 19 Nov 2026 09:51:20 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium"
@@ -1220,16 +1250,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "description": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 13:07:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1478,6 +1498,16 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low"
+    },
+    {
+      "title": "In the land that gave us 'cinema,' activist archivists are bringing back old home movies",
+      "description": "Archiving activists who roam from town to town in France are making people's forgotten home movies great again by preserving them digitally",
+      "url": "https://abcnews.com/International/wireStory/land-gave-us-cinema-activist-archivists-bringing-back-138278144",
+      "published": "Thu, 19 Nov 2026 04:22:15 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low"
@@ -1873,6 +1903,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Anthropic trading tests investors' appetite for AI",
+      "description": "Shares in Anthropic start trading on the Nasdaq after its record $81 billion IPO. Its performance will put investor confidence in AI and the Claude maker's $1.5 trillion valuation to the test.",
+      "url": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 19 Nov 2026 15:52:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Pakistan minister to visit India, but no breakthrough expected",
       "description": "A Pakistani minister's visit to India for a Shanghai Cooperation Organization forum marks a rare high-level contact between the two archrivals, but analysts say it does not signal a resumption of bilateral engagement.",
       "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-all-1573-xml-mrss",
@@ -1933,16 +1973,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
-      "description": "On a visit to Caracas, Pete Hegseth signed a deal that signifies the \"reestablishment of our defense partnership.\" US-Venezuela ties were strained for years until US troops ousted ex-President Nicolas Maduro in January.",
-      "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Nov 2026 20:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "'GTA VI': A masterpiece? Fans react to gaming's biggest release",
       "description": "Critics are calling the new \"Grand Theft Auto VI\" a masterpiece. In this edition of arts24, we hear what fans make of one of the biggest video game releases in history. We also look at U2's new album and tour marking 50 years of the band, discover the French comic book that Pope Leo is reading and meet the women redefining Mexico's Mariachi tradition.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20261119-gta-vi-a-masterpiece-fans-react-to-gaming-s-biggest-release",
@@ -1993,46 +2023,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Democrat defeats Republican in Alaska in final midterms Senate race",
-      "description": "Democrat Mary Peltola has defeated incumbent Republican Dan Sullivan to complete a sweeping victory for the party in the Senate in the US midterm elections.",
-      "url": "https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-senate-race-13613459",
-      "published": "Wed, 18 Nov 2026 06:46:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "A Chinese executive is convicted in a case linked to a Bangkok building collapse",
-      "description": "A Thai court has found a Chinese executive and Thai shareholders guilty of illegally operating a business in Thailand",
-      "url": "https://abcnews.com/International/wireStory/chinese-executive-convicted-case-linked-bangkok-building-collapse-138252346",
-      "published": "Wed, 18 Nov 2026 11:25:58 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
-      "description": "Brazil’s Senate approved on Wednesday a plan by President Luiz Inácio Lula da Silva to control his government’s spending and increase revenues after his reelection late October",
-      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-lulas-10-billion-fiscal-package-138265187",
-      "published": "Wed, 18 Nov 2026 18:04:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism",
-      "description": "St. Peter’s Basilica, the spiritual heart of Roman Catholicism, marks the 400th anniversary of its dedication",
-      "url": "https://abcnews.com/International/wireStory/st-peters-basilica-marks-400-years-heart-roman-138252856",
-      "published": "Wed, 18 Nov 2026 11:31:35 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
       "description": "A university lecturer from Serbia's student-led movement has become Parliament speaker",
       "url": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
@@ -2043,20 +2033,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
-      "description": "Prime Minister Andy Burnham is meeting EU officials in Brussels on Friday to discuss closer ties between the UK and the bloc that it left in 2020",
-      "url": "https://abcnews.com/International/wireStory/uk-eu-holding-summit-patch-ties-after-bitter-138278421",
-      "published": "Thu, 19 Nov 2026 02:54:28 -0500",
+      "title": "Mongolia's lawmakers accept president's resignation following corruption accusations",
+      "description": "Mongolia’s parliament has accepted President Khurelsukh Ukhnaa's resignation after he was accused of benefiting from a government railway project seven years ago, when he served as prime minister",
+      "url": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
+      "published": "Thu, 19 Nov 2026 06:22:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party",
-      "description": "A mix of street DJs and Catholic devotees are taking to the streets in one of Mexico's most important pilgrimages",
-      "url": "https://abcnews.com/International/wireStory/mexicos-catholic-street-djs-turn-annual-pilgrimage-party-138262111",
-      "published": "Wed, 18 Nov 2026 22:30:14 -0500",
+      "title": "South Korea’s top court overturns charges against ex-PM for his role in martial law",
+      "description": "South Korea’s Supreme Court has overturned the conviction of former Prime Minister Han Duck-soo",
+      "url": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
+      "published": "Thu, 19 Nov 2026 07:58:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
+      "description": "Brazil’s Senate approved on Wednesday a plan by President Luiz Inácio Lula da Silva to control his government’s spending and increase revenues after his reelection late October",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-lulas-10-billion-fiscal-package-138265187",
+      "published": "Wed, 18 Nov 2026 18:04:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
