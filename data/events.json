@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T09:08:38.030392Z",
+  "last_updated": "2026-11-22T09:34:38.525015Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 31,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says",
+      "description": "Ukrainian President Volodymyr Zelensky said at least 14 people were missing after a Russian drone struck a five-story residential building in Dymer, in the Kyiv region, injuring two others. Meanwhile, Finland warned the war was \"spilling over\" after a drone set fire to a Russian cargo ship in the eastern Baltic Sea on Saturday. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+      "published": "Sun, 22 Nov 2026 06:15:38 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical"
     },
     {
@@ -138,6 +148,16 @@
       "url": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 21 Nov 2026 06:58:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
+      "description": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts",
+      "url": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
+      "published": "Thu, 19 Nov 2026 09:02:15 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical"
@@ -503,16 +523,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Workers and students protest across Europe as a strike in Italy disrupts services",
-      "description": "Workers and students are protesting across Europe on Friday as a nationwide strike disrupted transport and school services in Italy and demonstrators gathered in several countries to press demands on issues ranging from wages and living costs to educat...",
-      "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
-      "published": "Fri, 20 Nov 2026 10:43:51 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
       "description": "Alexander Florentino faced five open cases before the fatal Chinatown attack, arriving as Zohran Mamdani unveiled a plan to close Rikers Island by 2032.",
       "url": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers",
@@ -608,6 +618,26 @@
       "url": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
       "published": "Sat, 21 Nov 2026 16:00:03 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+      "description": "An official in Brussels says a cyberattack using software powered by artificial intelligence targeted the European Union in October",
+      "url": "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
+      "published": "Thu, 19 Nov 2026 08:30:35 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High"
+    },
+    {
+      "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate",
+      "description": "Italy's only hedgehog rescue center is overwhelmed with underweight hoglets due to climate change",
+      "url": "https://abcnews.com/International/wireStory/italian-hedgehog-hospital-tiny-patients-face-strain-warming-138312300",
+      "published": "Fri, 20 Nov 2026 02:38:28 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -723,16 +753,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Live: Finland says Ukraine war 'spilling over' after Baltic Sea drone strike on Russian ship",
-      "description": "Finland warned the war in Ukraine was \"spilling over\" after a drone set ablaze a Russian cargo ship on the eastern Baltic Sea on Saturday. Helsinki stressed that Kyiv had the right to defend itself against Moscow's aggression. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
-      "published": "Sun, 22 Nov 2026 06:15:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
       "title": "China could exploit US technology to threaten American forces, congressional watchdog leaders warn",
       "description": "China could gain access to American chips and AI infrastructure without companies’ knowledge, congressional watchdog leaders warn, potentially advancing weapons that threaten U.S. forces.",
       "url": "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn",
@@ -773,6 +793,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+      "description": "Armed forces in Haiti have launched an aggressive operation to remove powerful gangs long entrenched in a key corridor that connects the country’s capital to its western and southern regions",
+      "url": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
+      "published": "Thu, 19 Nov 2026 13:58:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "MICHAEL RUIZ: Half of California's DAs sue Newsom over death row clemency",
       "description": "Gavin Newsom faces a lawsuit from 29 district attorneys and victims' families who say his mass clemency for 548 death row inmates skipped victim notice.",
       "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency",
@@ -790,26 +820,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-      "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-      "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 18:48:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
-      "title": "Clashes erupt across France in another night of protest",
-      "description": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-      "published": "Sun, 22 Nov 2026 00:37:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High"
     },
     {
@@ -973,6 +983,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "description": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "published": "Sun, 22 Nov 2026 09:06:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
       "description": "Sudan's displacement crisis could worsen with winter approaching.",
       "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
@@ -1073,30 +1093,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
-      "description": "After nearly five years of fighting in Ukraine, the Kremlin is eagerly embracing a U.S. offer to discuss postwar European security",
-      "url": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
-      "published": "Sat, 21 Nov 2026 01:39:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
-      "description": "Authorities thwarted the attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services",
-      "url": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-      "published": "Fri, 20 Nov 2026 12:59:38 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
-      "description": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-      "published": "Fri, 20 Nov 2026 03:51:45 -0500",
+      "title": "Troops from 11 countries drill in Poland for potential postwar Ukraine mission",
+      "description": "Thousands of European troops are taking part in a major military exercise in southeastern Poland",
+      "url": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
+      "published": "Fri, 20 Nov 2026 02:48:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1243,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1257,16 +1267,6 @@
       "description": "Authorities haven't said how many passengers were believed to be on board.",
       "url": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
       "published": "Sat, 21 Nov 2026 18:06:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
-      "description": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally",
-      "url": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
-      "published": "Fri, 20 Nov 2026 08:45:29 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1373,30 +1373,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
-      "description": "Haiti announces an agreement with El Salvador for the construction of a new prison",
-      "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
-      "published": "Fri, 20 Nov 2026 19:17:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
-      "description": "Russian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says",
-      "url": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-      "published": "Fri, 20 Nov 2026 07:16:46 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
-      "description": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-      "published": "Fri, 20 Nov 2026 08:46:20 -0500",
+      "title": "Japan, India agree to enhance military and defense industry cooperation",
+      "description": "Japan and India have agreed to enhance their military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges in future joint drills",
+      "url": "https://abcnews.com/International/wireStory/japan-india-agree-enhance-military-defense-industry-cooperation-138288577",
+      "published": "Thu, 19 Nov 2026 09:51:10 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1653,6 +1633,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
@@ -1663,20 +1653,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 10:26:36 GMT",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 09:40:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 09:40:55 GMT",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 10:26:36 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1717,16 +1707,6 @@
       "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
       "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 23:15:20 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-      "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 21:43:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2103,10 +2083,30 @@
       "severity_level": "Low"
     },
     {
-      "title": "Bolivian festival seeks to return guinea pig to nations' rituals",
-      "description": "Guinea pigs, known as cuy in the Andes region, have enjoyed a day in their honor in Bolivia with races, and beauty and weight contests, organized by students promoting the rodent’s nutritional and economic value to Bolivian households",
-      "url": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
-      "published": "Fri, 20 Nov 2026 19:17:04 -0500",
+      "title": "A long-buried ancient library in Rome opens to the public after restoration",
+      "description": "The ancient Ulpia Library in Rome has been restored and is reopening to the public this week",
+      "url": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336",
+      "published": "Fri, 20 Nov 2026 02:41:51 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
+      "description": "A university lecturer from Serbia's student-led movement has become Parliament speaker",
+      "url": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
+      "published": "Thu, 19 Nov 2026 09:51:38 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brazil's Lula moves to protect Chief Raoni’s birthplace in the Amazon rainforest",
+      "description": "The Brazilian government has advanced legal protection for the territory of Raoni Metuktire, a prominent Indigenous leader in the Amazon",
+      "url": "https://abcnews.com/International/wireStory/brazils-lula-moves-protect-chief-raonis-birthplace-amazon-138301684",
+      "published": "Thu, 19 Nov 2026 16:23:34 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
