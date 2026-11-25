@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:09:59.183391Z",
+  "last_updated": "2026-11-25T07:34:39.762472Z",
   "event_count": 227,
   "events": [
     {
@@ -223,16 +223,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 11:45:52 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
       "description": "Angela Diffley is pleased to welcome Bernard Benhamou, Secretary General of the Institute of Digital Sovereignty and Senior Lecturer in Internet Governance at Paris 1 Panthéon-Sorbonne University. What does Jensen Huang's return to Nvidia mean for Trump, Lutnick, the US, the AI industry and China? Describing Huang as “the global banker of the AI industry”, Benhamou explains: “He is the visionary, he is the banker. He's not only the chip maker.” He also warns of the repercussions of Donald Trump's decision to reinstate the Nvidia CEO, with congressional and judicial scrutiny looming. “It's far from over. It's just the beginning.”",
       "url": "https://www.france24.com/en/quid-pro-quo-nvidia-too-big-to-fail-or-too-close-to-personal-interest-of-people-around-trump",
@@ -294,7 +284,7 @@
     },
     {
       "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
-      "description": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injures. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
+      "description": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injuries. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
       "url": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 25 Nov 2026 04:41:00 GMT",
       "source": "Deutsche Welle",
@@ -308,6 +298,16 @@
       "url": "https://www.dw.com/en/colombia-car-bomb-attack-injures-at-least-23/a-80033956?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 24 Nov 2026 14:20:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "Colombia president says 'all hostages rescued' from supermarket siege",
+      "description": "Colombia's President President Abelardo de la Espriella said on Wednesday that around 20 hostages being held by gunmen in a supermarket in Cartagena had been rescued. Security forces earlier entered the scene of the hours-long siege after several explosions were heard.",
+      "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+      "published": "Tue, 24 Nov 2026 17:35:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -403,16 +403,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Security forces storm supermarket hostage siege in Colombia's Cartagena",
-      "description": "Security forces entered the scene of an hours-long supermarket siege early Wednesday where around 20 people were being held hostage by armed gunmen in the Colombian city of Cartagena. Several explosions were heard before the security intervention.",
-      "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-      "published": "Tue, 24 Nov 2026 17:35:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High"
-    },
-    {
       "title": "China 'sentences official to death for spying'",
       "description": "China has sentenced to death an official who was said to have leaked state secrets to a foreign country.",
       "url": "https://news.sky.com/story/china-reportedly-sentences-official-to-death-for-leaking-state-secrets-13615962",
@@ -488,16 +478,6 @@
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
       "published": "Tue, 24 Nov 2026 21:20:31 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High"
-    },
-    {
-      "title": "Car bomb in central Colombian city injures 23 as violence spreads to urban areas",
-      "description": "A bomb exploded outside regional government offices in Villavicencio, Colombia, injuring 23 people",
-      "url": "https://abcnews.com/International/wireStory/car-bomb-central-colombian-city-injures-23-violence-138412492",
-      "published": "Tue, 24 Nov 2026 11:16:58 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High"
@@ -663,20 +643,20 @@
       "severity_level": "High"
     },
     {
-      "title": "British officials warn UK firms aiding Ukraine to brace for Russian sabotage threats",
-      "description": "British security officials have warned U.K. companies supporting Ukraine's military to brace for potential sabotage attempts by Russia",
-      "url": "https://abcnews.com/International/wireStory/british-officials-warn-uk-firms-aiding-ukraine-brace-138406967",
-      "published": "Tue, 24 Nov 2026 09:50:28 -0500",
+      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+      "description": "North Korea has threatened to close a Swiss diplomatic office that opened in Pyongyang last month",
+      "url": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+      "published": "Tue, 24 Nov 2026 09:26:24 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
     },
     {
-      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-      "description": "North Korea has threatened to close a Swiss diplomatic office that opened in Pyongyang last month",
-      "url": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-      "published": "Tue, 24 Nov 2026 09:26:24 -0500",
+      "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
+      "description": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons",
+      "url": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
+      "published": "Tue, 24 Nov 2026 05:26:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -723,6 +703,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+      "description": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+      "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+      "published": "Wed, 25 Nov 2026 07:05:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -738,16 +728,6 @@
       "url": "https://www.dw.com/en/hiv-infections-could-rise-amid-aid-cuts-un-warns/a-80036263?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 24 Nov 2026 16:09:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High"
-    },
-    {
-      "title": "Russia backs tax rises as 2027 budget sees military spending soar",
-      "description": "Russia’s lower house of parliament has approved a 2027-2029 state budget and passed tax increases to fund the war in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749",
-      "published": "Tue, 24 Nov 2026 11:34:32 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High"
@@ -777,6 +757,16 @@
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 03:44:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 19:27:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 10,
@@ -837,16 +827,6 @@
       "description": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has declared “a very serious moment for our economy”, after inflation surged to 4.9% in the year to October, from 4.3%, amid fears Australia could tip into recession next year. As cost-of-living pressures peak in the lead-up to Christmas and unemployment reaches five-year highs , the Australian Bureau of Statistics on Wednesday said the “temporary shocks” of surging fuel costs and the end of electricity rebates drove the larger-than-expected rise in consumer prices. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
       "published": "Wed, 25 Nov 2026 03:55:50 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-      "description": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia his country’s primary security partner and limit ties with China. Matthew Wale signed the new treaty with Australia’s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-      "published": "Wed, 25 Nov 2026 01:51:02 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1037,6 +1017,16 @@
       "description": "A Zimbabwean man has been convicted in South Africa of trying to travel to Russia to fight in its war against Ukraine",
       "url": "https://abcnews.com/International/wireStory/south-africa-convicts-zimbabwean-travel-russia-fight-ukraine-138414152",
       "published": "Tue, 24 Nov 2026 11:16:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+      "description": "The Vatican has released excerpts of Pope Francis' private diary",
+      "url": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+      "published": "Tue, 24 Nov 2026 15:37:53 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1253,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+      "description": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+      "published": "Wed, 25 Nov 2026 06:58:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Protesters clash with police over Venezuela’s poor minimum wage",
       "description": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
@@ -1293,30 +1293,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Serbian police arrest a 17-year-old after shots fired at a high school",
-      "description": "Police in central Serbia have arrested a teenager after he fired a small-caliber rifle in a high school hallway",
-      "url": "https://abcnews.com/International/wireStory/serbian-police-arrest-17-year-after-shots-fired-138403980",
-      "published": "Tue, 24 Nov 2026 09:50:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Hero veteran Virginia trooper rushes to help after car plows into women in crosswalk, and it's caught on video",
       "description": "Surveillance video shows a sedan plow into a court clerk and attorney in a downtown Richmond crosswalk, and a Virginia state trooper rushed to help.",
       "url": "https://www.foxnews.com/us/hero-veteran-virginia-trooper-rushes-help-car-plows-women-crosswalk-caught-video",
       "published": "Tue, 24 Nov 2026 21:38:03 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium"
-    },
-    {
-      "title": "Coast Guard searching for 2 children, 4 adults after plane crashes off Mississippi coast",
-      "description": "A Cessna 210 Centurion with six people aboard went down roughly 2 miles northeast of Horn Island Tuesday, according to the U.S. Coast Guard.",
-      "url": "https://www.foxnews.com/us/coast-guard-searching-2-children-4-adults-after-plane-crashes-off-mississippi-coast",
-      "published": "Tue, 24 Nov 2026 19:45:06 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
@@ -1331,6 +1311,16 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
+    },
+    {
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 12:45:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low"
     },
     {
       "title": "Senegal fans celebrate AFCON legal victory over Morocco",
@@ -1503,10 +1493,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+      "title": "Australian politics live: ‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
       "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "published": "Wed, 25 Nov 2026 06:37:35 GMT",
+      "published": "Wed, 25 Nov 2026 07:20:21 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
@@ -1573,30 +1563,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Armed men take hostages in Cartagena, one of Colombia's top tourist destinations",
-      "description": "Colombian police say that a group of armed men have seized a super market in the city of Cartagena and taken an unknown number of people hostage",
-      "url": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
-      "published": "Tue, 24 Nov 2026 13:08:41 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 18:07:46 GMT",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 02:59:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 02:59:27 GMT",
+      "title": "The rising cost of putting food on the table in India",
+      "description": "India's food inflation is broadening, squeezing household budgets.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 01:02:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1613,10 +1593,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "The rising cost of putting food on the table in India",
-      "description": "India's food inflation is broadening, squeezing household budgets.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 18:07:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1667,16 +1647,6 @@
       "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
       "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 21:24:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 17:04:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1757,26 +1727,6 @@
       "description": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
       "published": "Wed, 25 Nov 2026 00:49:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "description": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-      "published": "Tue, 24 Nov 2026 23:29:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-      "description": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
-      "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-      "published": "Tue, 24 Nov 2026 22:50:16 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1893,10 +1843,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-      "description": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 How a Sydney police officer’s obsession led to a double murder Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-      "published": "Wed, 25 Nov 2026 03:05:42 GMT",
+      "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
+      "description": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Private jet owners will no longer receive fuel tax subsidies after the Albanese government secured the Greens’ agreement to undo the sweetheart deal in exchange for supporting a controversial minimum tax rate on discretionary trusts . The government is eager to pass four key pieces of legislation before parliament finishes for the year, including laws to create a gas reservation scheme. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
+      "published": "Wed, 25 Nov 2026 07:16:33 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
+      "description": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins Get our breaking news email , free app or daily news podcast A self-taught birth keeper who failed to recognise a woman was carrying twins says she doubted her psychic abilities after two babies died in free-birth tragedies. Sita Kali was present in 2022 when a New South Wales northern rivers baby was born at home three weeks after his hospital-appointed due date – and a week past the point of typical medical intervention. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
+      "published": "Wed, 25 Nov 2026 06:38:51 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -1906,7 +1866,7 @@
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-24 16:37:31 UTC 2026-11-24 16:37:31 UTC at epicenter Location 61.320°N 150.154°W Depth 44.60 km (27.71 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
-      "published": "2026-11-25T07:04:12.665Z",
+      "published": "2026-11-25T07:32:15.754Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2143,10 +2103,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Malaysia Airlines’ parent to buy 10 Boeing Dreamliners, with options for 6 more",
-      "description": "Malaysia Airlines' parent company has announced plans to buy 10 Boeing 787 Dreamliners, with options for six more, as part of its fleet modernization strategy",
-      "url": "https://abcnews.com/International/wireStory/malaysia-airlines-parent-buy-10-boeing-dreamliners-options-138432544",
-      "published": "Wed, 25 Nov 2026 00:59:11 -0500",
+      "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
+      "description": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in Aden",
+      "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+      "published": "Tue, 24 Nov 2026 13:15:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Bangladesh's ousted leader Hasina plans to return home from exile on Dec 16",
+      "description": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
+      "url": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
+      "published": "Tue, 24 Nov 2026 05:42:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2163,6 +2133,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed",
+      "description": "Turkish officials say a lioness that was subject to a 24-hour search and sparked panic among Istanbul residents does not actually exist",
+      "url": "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359",
+      "published": "Tue, 24 Nov 2026 05:42:24 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Malaysia Airlines’ parent to buy 10 Boeing Dreamliners, with options for 6 more",
+      "description": "Malaysia Airlines' parent company has announced plans to buy 10 Boeing 787 Dreamliners, with options for six more, as part of its fleet modernization strategy",
+      "url": "https://abcnews.com/International/wireStory/malaysia-airlines-parent-buy-10-boeing-dreamliners-options-138432544",
+      "published": "Wed, 25 Nov 2026 00:59:11 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Gisèle Pelicot condemns publisher for using nude images from her rape case in book promo",
       "description": "Gisèle Pelicot says she is shocked that a Paris publisher used nude images taken by her rapist ex-husband to promote a book about her case",
       "url": "https://abcnews.com/International/wireStory/gisle-pelicot-condemns-publisher-nude-images-rape-case-138414559",
@@ -2173,10 +2163,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
-      "description": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in Aden",
-      "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
-      "published": "Tue, 24 Nov 2026 13:15:23 -0500",
+      "title": "Meet the major players in Spain's general election",
+      "description": "Spaniards will vote in a general election Sunday, when Prime Minister Pedro Sánchez will try to defy the polls that point to a combined victory for conservative and far-right challengers",
+      "url": "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692",
+      "published": "Tue, 24 Nov 2026 01:20:52 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2217,6 +2207,16 @@
       "description": "Florida's attorney general is pushing to revoke a North Miami Beach doctor's medical license, citing suspected violations of the Heartbeat Protection Act.",
       "url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions",
       "published": "Tue, 24 Nov 2026 21:21:58 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "All 6 passengers found dead inside wreckage of plane off Mississippi coast",
+      "description": "All six passengers aboard the Cessna 210 Centurion that went down roughly 2 miles northeast of Horn Island, Mississippi, have been found dead, according to the U.S. Coast Guard.",
+      "url": "https://www.foxnews.com/us/coast-guard-searching-2-children-4-adults-after-plane-crashes-off-mississippi-coast",
+      "published": "Tue, 24 Nov 2026 19:45:06 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
