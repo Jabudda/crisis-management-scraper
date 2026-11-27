@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:34:51.158141Z",
+  "last_updated": "2026-11-27T08:11:30.930114Z",
   "event_count": 226,
   "events": [
     {
@@ -170,16 +170,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-      "description": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 01:07:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
       "severity_level": "Critical"
     },
     {
@@ -693,6 +683,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Apple AirTag leads firefighters to cat stuck in narrow gap between cement walls",
+      "description": "Firefighters drilled through concrete to free a missing cat tracked by an Apple AirTag in California, reuniting the feline with its owner.",
+      "url": "https://www.foxnews.com/us/apple-airtag-leads-firefighters-cat-stuck-narrow-gap-cement-walls",
+      "published": "Fri, 27 Nov 2026 02:45:26 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
       "description": "Turning Point USA's student program is mourning Hunter Stokes, 16, who led its Fort Myers chapter, after the Cessna 210 he rode in crashed off Horn Island, Mississippi.",
       "url": "https://www.foxnews.com/us/tpusa-mourns-florida-high-school-chapter-president-killed-family-devastating-plane-crash",
@@ -1103,16 +1103,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Invasive Burmese pythons push farther north into Florida as hunters race to stop ecological devastation",
-      "description": "Burmese pythons have been wreaking havoc on the Florida Everglades ecosystem for more than 25 years, and now, experts warn they've been spotted further north.",
-      "url": "https://www.foxnews.com/us/invasive-burmese-pythons-expanding-north-florida-everglades",
-      "published": "Wed, 25 Nov 2026 04:37:01 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs",
       "description": "Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded.",
       "url": "https://www.foxnews.com/world/norse-atlantic-airlines-suspends-all-flights-brink-bankruptcy-amid-rising-fuel-costs",
@@ -1300,6 +1290,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Brazilian footballer arrested in drug trafficking investigation",
+      "description": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama training session in Rio de Janeiro.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 07:32:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium"
     },
     {
@@ -1623,6 +1623,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+      "description": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 07:24:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
       "description": "The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
       "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
@@ -1687,16 +1697,6 @@
       "description": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
       "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
       "published": "Fri, 27 Nov 2026 03:42:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-      "description": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 01:36:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1814,7 +1814,7 @@
     },
     {
       "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
-      "description": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an event, after the former Australian of the year overheard the comment and confronted him. Tame, a child sexual assault victim survivor who was Australian of the year in 2021 for her advocacy work, revealed in an opinion piece for Crikey that she heard Matt Handbury make the comment at a function last week. Continue reading...",
+      "description": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an event, after the former Australian of the year overheard the comment and confronted him. Tame, a child sexual assault victim survivor who was Australian of the year in 2021 for her advocacy work, revealed in an opinion piece for Crikey that she heard Matt Handbury make the comment to another man at a function last week. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
       "published": "Fri, 27 Nov 2026 06:54:59 GMT",
       "source": "The Guardian World",
@@ -1934,7 +1934,7 @@
     },
     {
       "title": "India's Modi government calls special sitting of parliament",
-      "description": "The sitting of the Indian parliament comes after its monsoon session was adjourned sine die in August. Follow DW.",
+      "description": "The sitting of the Indian parliament comes after its monsoon session was adjourned indefinitely in August. Follow DW.",
       "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 27 Nov 2026 07:23:00 GMT",
       "source": "Deutsche Welle",
@@ -2083,20 +2083,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
-      "description": "Serbia's Parliament speaker has set an early presidential election for December 27",
-      "url": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
-      "published": "Thu, 26 Nov 2026 08:30:30 -0500",
+      "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
+      "description": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train",
+      "url": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+      "published": "Thu, 26 Nov 2026 16:30:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
-      "description": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train",
-      "url": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
-      "published": "Thu, 26 Nov 2026 16:30:30 -0500",
+      "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
+      "description": "Serbia's Parliament speaker has set an early presidential election for December 27",
+      "url": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
+      "published": "Thu, 26 Nov 2026 08:30:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
