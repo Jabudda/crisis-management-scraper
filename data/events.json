@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T11:34:38.990439Z",
+  "last_updated": "2026-11-28T12:11:13.984370Z",
   "event_count": 222,
   "events": [
     {
@@ -40,6 +40,16 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 36,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "UK charity honoring WWII veteran who raised millions during pandemic to be disbanded",
+      "description": "A charity set up by the family of a British World War II veteran who raised millions by walking laps of his garden during the pandemic has applied to be disbanded",
+      "url": "https://abcnews.com/International/wireStory/uk-charity-honoring-wwii-veteran-raised-millions-pandemic-138495081",
+      "published": "Sat, 28 Nov 2026 06:47:09 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 34,
       "severity_level": "Critical"
     },
     {
@@ -153,16 +163,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
-      "description": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Nov 2026 11:18:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Several students killed in blast beside Afghan school",
       "description": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
@@ -183,31 +183,11 @@
       "severity_level": "Critical"
     },
     {
-      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-      "description": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 04:57:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
       "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
       "description": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port city of Cartagena to follow the final hours of negotiations and the tactical assault, in which special forces officers broke through blocked entrances and detonated stun grenades. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
       "published": "Wed, 25 Nov 2026 20:20:23 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Seven students killed and up to 99 injured in explosion near Afghan school",
-      "description": "Seven students have been killed and up to 99 others injured in an explosion believed to be near a school in Afghanistan, said a Taliban interior ministry spokesperson.",
-      "url": "https://news.sky.com/story/seven-students-killed-and-up-to-99-injured-in-explosion-near-afghan-school-13617431",
-      "published": "Sat, 28 Nov 2026 09:57:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical"
@@ -343,16 +323,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-      "description": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-      "published": "Wed, 25 Nov 2026 06:50:05 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High"
-    },
-    {
       "title": "Driver suspected of causing tanker crash in Egypt that killed 31 detained",
       "description": "The driver of a car suspected to have caused a fuel tanker to overturn in Egypt, causing the deaths of 31 people, has been detained.",
       "url": "https://news.sky.com/story/driver-of-car-suspected-of-causing-fuel-tanker-to-overturn-in-egypt-detained-13616933",
@@ -398,6 +368,16 @@
       "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 16:46:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High"
+    },
+    {
+      "title": "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests",
+      "description": "Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children",
+      "url": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
+      "published": "Thu, 26 Nov 2026 03:26:13 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High"
@@ -450,6 +430,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High"
+    },
+    {
+      "title": "The perfect storm behind Congo’s deadliest Ebola outbreak",
+      "description": "Patients and health workers pay a staggering cost as war and a failing health system collide with a deadly virus.",
+      "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 11:27:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -646,7 +636,7 @@
       "title": "Victorian election 2026 live results: Jess Wilson vows to ‘bring back hope’ to Victoria after historic victory over Labor",
       "description": "Follow live updates and results tonight as Jess Wilson becomes state’s 51st premier, with Labor leader Ben Carroll projected to lose seat Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-      "published": "Sat, 28 Nov 2026 11:17:36 GMT",
+      "published": "Sat, 28 Nov 2026 12:03:18 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
@@ -708,6 +698,16 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
       "published": "Fri, 27 Nov 2026 14:00:14 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+      "description": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "published": "Sat, 28 Nov 2026 06:32:37 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -780,6 +780,16 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "description": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 11:18:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High"
     },
     {
@@ -893,16 +903,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 18:42:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
       "description": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
@@ -1003,16 +1003,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Mexico files formal complaint to US over DEA tip line",
-      "description": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
-      "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
-      "published": "Fri, 27 Nov 2026 14:00:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "UN warns hunger will deepen in the Middle East",
       "description": "The United Nations warns that hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen facing the gravest risks",
       "url": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
@@ -1023,10 +1013,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
-      "description": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three",
-      "url": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
-      "published": "Fri, 27 Nov 2026 04:06:58 -0500",
+      "title": "Mexico files formal complaint to US over DEA tip line",
+      "description": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
+      "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
+      "published": "Fri, 27 Nov 2026 14:00:27 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1043,10 +1033,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
-      "description": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
-      "url": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
-      "published": "Fri, 27 Nov 2026 00:10:38 -0500",
+      "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+      "description": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three",
+      "url": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
+      "published": "Fri, 27 Nov 2026 04:06:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1253,6 +1243,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+      "description": "Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 11:30:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
       "description": "In litter-strewn Khartoum, disease and rubble threaten health.",
       "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
@@ -1353,10 +1353,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
-      "description": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian Labor has suffered a historic defeat, ending 12 years of government, with the Coalition winning majority government and the Greens securing a record number of seats. At 36, Wilson will become Victoria’s youngest leader since federation and the first woman to be popularly elected as the state’s premier – a feat neither Jacinta Allan nor Joan Kirner achieved. Continue reading...",
+      "title": "Victorian election 2026: Labor suffers historic defeat as Coalition wins majority government",
+      "description": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll projected to lose seat in 2026 state election Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian Labor has suffered a historic defeat, ending 12 years of government, with the Coalition winning majority government and the Greens securing a record number of seats. At 36, Wilson will become Victoria’s youngest leader since federation and the first woman to be popularly elected as the state’s premier – a feat neither Jacinta Allan nor Joan Kirner achieved. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
-      "published": "Sat, 28 Nov 2026 11:13:23 GMT",
+      "published": "Sat, 28 Nov 2026 12:03:09 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
@@ -1374,7 +1374,7 @@
     },
     {
       "title": "Polls close in Taiwan's closely watched local elections",
-      "description": "While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing is putting pressure on the progressive candidate for Taipei mayor.",
+      "description": "Campaigners have stayed away from the topic of China and focused on issues like transport and childcare. Still, Beijing had put pressure on the progressive candidate for Taipei mayor, who ended up losing the race.",
       "url": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 28 Nov 2026 02:37:00 GMT",
       "source": "Deutsche Welle",
@@ -1513,16 +1513,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
-      "description": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 04:30:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1593,10 +1583,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-      "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Nov 2026 04:13:45 GMT",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "description": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 11:35:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1607,6 +1597,16 @@
       "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
       "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 28 Nov 2026 00:56:55 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 04:13:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1668,6 +1668,26 @@
       "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 05:00:27 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "India fumble chances as New Zealand finish day two on top in Christchurch",
+      "description": "India limp to 116-6 at stumps on day two of the second Test, in reply to the Black Caps' first innings 356.",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 11:54:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Israel unity government talks stall: What happens now?",
+      "description": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 11:29:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
@@ -1747,26 +1767,6 @@
       "description": "Rishikesh Kumar made it to IIT, but died months later in a suspected suicide, reviving questions about student support.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
       "published": "Sat, 28 Nov 2026 04:59:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "UN chief frontrunner urged to speak out over Albanese detention",
-      "description": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 04:46:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "The split-second teamwork behind an F1 pit stop",
-      "description": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 04:01:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2063,6 +2063,16 @@
       "severity_level": "Low"
     },
     {
+      "title": "Court rejects Argentina's bid to block Falklands oil drilling project",
+      "description": "Argentina's bid to temporarily block oil drilling off the Falkland Islands has been rejected by a UN-backed court.",
+      "url": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
+      "published": "Sat, 28 Nov 2026 00:01:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Airline suspends all flights - as carrier faces bankruptcy",
       "description": "Norse Atlantic Airways has suspended all flights, with the company saying it could file for bankruptcy unless an urgent solution to its finances is found.",
       "url": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
@@ -2073,20 +2083,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
-      "description": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves",
-      "url": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
-      "published": "Fri, 27 Nov 2026 17:26:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
-      "description": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
-      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
-      "published": "Fri, 27 Nov 2026 12:30:27 -0500",
+      "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+      "description": "Ukrainian President Volodymyr Zelenskyy has expressed frustration with the U.S. approach to Russian leader Vladimir Putin",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
+      "published": "Fri, 27 Nov 2026 10:46:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2103,20 +2103,20 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
-      "description": "Ukrainian President Volodymyr Zelenskyy has expressed frustration with the U.S. approach to Russian leader Vladimir Putin",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
-      "published": "Fri, 27 Nov 2026 10:46:16 -0500",
+      "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
+      "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
+      "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
+      "published": "Fri, 27 Nov 2026 11:10:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
     },
     {
-      "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
-      "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
-      "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
-      "published": "Fri, 27 Nov 2026 11:10:23 -0500",
+      "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
+      "description": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves",
+      "url": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
+      "published": "Fri, 27 Nov 2026 17:26:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2133,10 +2133,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Argentina bans its central bank from printing money for the government",
-      "description": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending",
-      "url": "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
-      "published": "Thu, 26 Nov 2026 20:22:18 -0500",
+      "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+      "description": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
+      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+      "published": "Fri, 27 Nov 2026 12:30:27 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
