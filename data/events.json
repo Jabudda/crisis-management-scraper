@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T17:06:39.161215Z",
+  "last_updated": "2026-11-28T17:34:21.093427Z",
   "event_count": 223,
   "events": [
     {
@@ -113,6 +113,16 @@
       "severity_level": "Critical"
     },
     {
+      "title": "Afghanistan: Several killed in blast near middle school",
+      "description": "An explosion near a school in eastern Afghanistan has killed at least 10 students and injured 110 people. Officials say explosives at a nearby mining depot ignited due to negligence. An investigation is ongoing.",
+      "url": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 28 Nov 2026 10:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical"
+    },
+    {
       "title": "Protesters against gender-based violence denounce 149 femicides in France",
       "description": "Protesters against gender-based violence took to the streets of Paris on Saturday, flooding the capital with banners that denounced, among other things, the 149 reported femicides that took place in France this year. FRANCE 24 journalist Caroline Baum brings us more from the site ofthe demonstration.",
       "url": "https://www.france24.com/en/protesters-blame-french-government-for-structural-issues-fueling-gender-based-violence",
@@ -134,7 +144,7 @@
     },
     {
       "title": "France holds nationwide protests against violence towards women",
-      "description": "Demonstrations condemning violence against women are drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists taking part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
+      "description": "Demonstrations condemning violence against women drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists joining in. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
       "url": "https://www.france24.com/en/bill-at-the-heart-of-gender-based-violence-protests",
       "published": "Sat, 28 Nov 2026 14:00:25 GMT",
       "source": "France24",
@@ -144,7 +154,7 @@
     },
     {
       "title": "France holds nationwide protests against violence towards women",
-      "description": "Demonstrations condemning violence against women are drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists taking part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
+      "description": "Demonstrations condemning violence against women drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists joining in. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.",
       "url": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
       "published": "Sat, 28 Nov 2026 10:59:52 GMT",
       "source": "France24",
@@ -158,16 +168,6 @@
       "url": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
       "published": "Sat, 28 Nov 2026 10:01:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical"
-    },
-    {
-      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
-      "description": "An explosion at a school in eastern Afghanistan's Kunar province Saturday killed seven people and wounded over 90",
-      "url": "https://abcnews.com/International/wireStory/explosion-middle-school-eastern-afghanistan-kills-wounds-students-138493977",
-      "published": "Sat, 28 Nov 2026 05:33:23 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical"
@@ -333,20 +333,20 @@
       "severity_level": "High"
     },
     {
-      "title": "UK charity honoring WWII veteran who raised millions during pandemic to be disbanded",
-      "description": "Capt. Tom Moore was knighted by Queen Elizabeth II in July 2020.",
-      "url": "https://abcnews.com/International/wireStory/uk-charity-honoring-wwii-veteran-raised-millions-pandemic-138495081",
-      "published": "Sat, 28 Nov 2026 08:46:30 -0500",
+      "title": "Zapatistas begin a 'Tour for Life' from Chiapas to Mexico City to meet with families of disappeared",
+      "description": "More than 1,500 members of Mexico’s Zapatista movement will travel from the southern state of Chiapas to Mexico City to meet with families of the disappeared and join forces to address the issue of the more than 130,000 people missing across the country",
+      "url": "https://abcnews.com/International/wireStory/zapatistas-begin-tour-life-chiapas-mexico-city-meet-138493688",
+      "published": "Sat, 28 Nov 2026 01:44:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High"
     },
     {
-      "title": "Zapatistas begin a 'Tour for Life' from Chiapas to Mexico City to meet with families of disappeared",
-      "description": "More than 1,500 members of Mexico’s Zapatista movement will travel from the southern state of Chiapas to Mexico City to meet with families of the disappeared and join forces to address the issue of the more than 130,000 people missing across the country",
-      "url": "https://abcnews.com/International/wireStory/zapatistas-begin-tour-life-chiapas-mexico-city-meet-138493688",
-      "published": "Sat, 28 Nov 2026 01:44:14 -0500",
+      "title": "UK charity honoring WWII veteran who raised millions during pandemic to be disbanded",
+      "description": "Capt. Tom Moore was knighted by Queen Elizabeth II in July 2020.",
+      "url": "https://abcnews.com/International/wireStory/uk-charity-honoring-wwii-veteran-raised-millions-pandemic-138495081",
+      "published": "Sat, 28 Nov 2026 08:46:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -450,16 +450,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High"
-    },
-    {
-      "title": "The perfect storm behind Congo’s deadliest Ebola outbreak",
-      "description": "Patients and health workers pay a staggering cost as war and a failing health system collide with a deadly virus.",
-      "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 11:27:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High"
     },
     {
@@ -633,6 +623,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Argentina loses bid to stop Falklands oil project, vows to continue",
+      "description": "Argentina vowed to continue its efforts to stop the British-Israeli oil project off the coast of the Falkland Islands after an international court rejected its request for a temporary block.",
+      "url": "https://www.dw.com/en/argentina-loses-bid-to-stop-falklands-oil-project-vows-to-continue/a-80086936?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 28 Nov 2026 17:28:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
       "title": "Ukraine's expertise comes in handy for international drone alliances",
       "description": "Ukrainian expertise merged with Europe's financial and industrial clout: Germany and other countries are expanding drone partnerships with Ukraine and reshaping Europe's defense industry in the process.",
       "url": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472?maca=en-rss-en-all-1573-xml-mrss",
@@ -658,6 +658,16 @@
       "url": "https://abcnews.com/International/wireStory/argentina-loses-bid-halt-oil-drilling-off-nearby-138495184",
       "published": "Sat, 28 Nov 2026 10:47:45 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High"
+    },
+    {
+      "title": "Tribunal rejects Argentina’s bid to halt oil drilling off Falkland Islands (Malvinas)",
+      "description": "The International Tribunal for the Law of the Sea on Saturday rejected Argentina’s request to halt the Sea Lion oil project north of the Falkland Islands (Malvinas), saying the case could not be separated from the dispute over who owns the islands.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168895",
+      "published": "Sat, 28 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High"
@@ -773,6 +783,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "description": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 16:53:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High"
+    },
+    {
       "title": "Video shows aftermath of deadly air strike at Myanmar wedding venue",
       "description": "A rights group says that at least 21 people have been killed after Myanmar’s military struck a wedding venue.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/video-shows-aftermath-of-deadly-air-strike-at-myanmar-wedding-venue?traffic_source=rss",
@@ -808,16 +828,6 @@
       "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
       "published": "Sat, 28 Nov 2026 06:32:37 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Afghanistan: Several killed in blast near middle school",
-      "description": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing.",
-      "url": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 28 Nov 2026 10:21:00 GMT",
-      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -933,16 +943,6 @@
       "severity_level": "High"
     },
     {
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 19:26:16 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High"
-    },
-    {
       "title": "Albania: Clashes erupt at anti-government protest in Tirana",
       "description": "Thousands of people have protested in Albania's capital, Tirana, demanding Prime Minister Edi Rama's resignation. Clashes broke out as police used tear gas and water cannons against demonstrators.",
       "url": "https://www.dw.com/en/albania-clashes-erupt-at-anti-government-protest-in-tirana/a-80086581?maca=en-rss-en-all-1573-xml-mrss",
@@ -1043,16 +1043,6 @@
       "severity_level": "Medium"
     },
     {
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 18:42:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1103,6 +1093,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "UN warns hunger will deepen in the Middle East",
+      "description": "The United Nations warns that hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen facing the gravest risks",
+      "url": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
+      "published": "Fri, 27 Nov 2026 08:22:28 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Mexico files formal complaint to US over DEA tip line",
       "description": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
       "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
@@ -1113,10 +1113,10 @@
       "severity_level": "Medium"
     },
     {
-      "title": "UN warns hunger will deepen in the Middle East",
-      "description": "The United Nations warns that hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen facing the gravest risks",
-      "url": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
-      "published": "Fri, 27 Nov 2026 08:22:28 -0500",
+      "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
+      "description": "Seoul says that one of seven North Koreans rescued off a fishing boat drifting near a South Korean island earlier this month chose to resettle in the South",
+      "url": "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
+      "published": "Fri, 27 Nov 2026 02:20:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1433,31 +1433,11 @@
       "severity_level": "Low"
     },
     {
-      "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
-      "description": "After ousting strongman Aleksandar Vucic, Serbia's student movement has now nominated academic Radomir Saicic for the upcoming presidential vote. Saicic accused the \"outgoing regime\" of trying to collapse the state.",
-      "url": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 27 Nov 2026 16:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
       "title": "Taiwan awaits local election results as China watches",
       "description": "Taipei Mayor ​Chiang Wan-an ​is leading in the vote count in ​an ‌election ⁠against his opponent Puma ‌Shen, Taiwan media outlets ⁠reported on Saturday.",
       "url": "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
       "published": "Sat, 28 Nov 2026 10:49:21 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Canada’s Supreme Court largely upholds Quebec ban on religious symbols for public servants",
-      "description": "Canada’s Supreme Court upheld most of a Quebec law banning schoolteachers, police officers and other public employees in positions of authority from wearing religious symbols at work, affirming the province’s use of a constitutional power to override c...",
-      "url": "https://abcnews.com/International/wireStory/canadas-supreme-court-largely-upholds-quebec-ban-religious-138482310",
-      "published": "Fri, 27 Nov 2026 12:30:22 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low"
@@ -1490,6 +1470,16 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Two American Airlines planes clip wings before takeoff at Reagan airport",
+      "description": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 01:31:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low"
     },
     {
@@ -1646,17 +1636,7 @@
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Nov 2026 16:45:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 21:55:53 GMT",
+      "published": "Sat, 28 Nov 2026 17:11:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1667,6 +1647,16 @@
       "description": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
       "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 28 Nov 2026 11:35:34 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 21:55:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1743,6 +1733,36 @@
       "severity_level": "Low"
     },
     {
+      "title": "Pakistan vs Sri Lanka: ACC Men’s Asia Cup Rising Stars 2026 – teams, start time",
+      "description": "Holders and record three-time winners Pakistan face two-time winners Sri Lanka in the ACC Asia Cup Rising Stars final.",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 17:07:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Spurs-Lakers: Doncic shoved by fan, security intervenes as wristband tossed",
+      "description": "Luka Doncic shoved by fan, security intervenes following wristband toss after San Antonio Spurs game with LA Lakers.",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 17:05:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Brentford thrash Manchester United 4-0 as Pochettino has horror home debut",
+      "description": "Mauricio Pochettino endures a nightmare Old Trafford debut as Brentford leave United in Premier League relegation zone.",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
+      "published": "Sat, 28 Nov 2026 17:00:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "Tarantulas, scorpions and more found in luggage at Peru airport",
       "description": "Tarantulas, scorpions and more found in luggage at Peru airport",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
@@ -1753,7 +1773,7 @@
       "severity_level": "Low"
     },
     {
-      "title": "Manchester United vs Brentford LIVE: Premier League",
+      "title": "Manchester United 4-0 Brentford LIVE: Premier League",
       "description": "Follow updates with build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
       "published": "Sat, 28 Nov 2026 12:06:46 +0000",
@@ -1767,26 +1787,6 @@
       "description": "India limp to 116-6 at stumps on day two of the second Test, in reply to the Black Caps' first innings 356.",
       "url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
       "published": "Sat, 28 Nov 2026 11:54:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Israel unity government talks stall: What happens now?",
-      "description": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 11:29:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
-      "description": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
-      "published": "Sat, 28 Nov 2026 10:36:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -1914,9 +1914,9 @@
     },
     {
       "title": "M 6.7 - 62 km NNW of Yelizovo, Russia",
-      "description": "PAGER - GREEN ShakeMap - IV Time 2026-11-28 13:15:06 UTC 2026-11-28 13:15:06 UTC at epicenter Location 53.719°N 158.079°E Depth 188.42 km (117.08 mi)",
+      "description": "PAGER - GREEN ShakeMap - IV Time 2026-11-28 13:15:07 UTC 2026-11-28 13:15:07 UTC at epicenter Location 53.705°N 157.993°E Depth 191.00 km (118.68 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3p",
-      "published": "2026-11-28T15:23:37.816Z",
+      "published": "2026-11-28T17:21:56.715Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -1926,7 +1926,7 @@
       "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
       "description": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-28 06:11:42 UTC 2026-11-28 06:11:42 UTC at epicenter Location 61.333°N 150.163°W Depth 39.50 km (24.54 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnvqjt",
-      "published": "2026-11-28T17:03:57.862Z",
+      "published": "2026-11-28T17:26:51.348Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2093,20 +2093,10 @@
       "severity_level": "Low"
     },
     {
-      "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
-      "description": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves",
-      "url": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
-      "published": "Fri, 27 Nov 2026 17:26:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
-      "description": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
-      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
-      "published": "Fri, 27 Nov 2026 12:30:27 -0500",
+      "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+      "description": "Ukrainian President Volodymyr Zelenskyy has expressed frustration with the U.S. approach to Russian leader Vladimir Putin",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
+      "published": "Fri, 27 Nov 2026 10:46:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2123,16 +2113,6 @@
       "severity_level": "Low"
     },
     {
-      "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
-      "description": "Ukrainian President Volodymyr Zelenskyy has expressed frustration with the U.S. approach to Russian leader Vladimir Putin",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
-      "published": "Fri, 27 Nov 2026 10:46:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
       "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
       "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
       "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
@@ -2143,11 +2123,31 @@
       "severity_level": "Low"
     },
     {
-      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
-      "description": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
-      "published": "Tue, 24 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
+      "description": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves",
+      "url": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
+      "published": "Fri, 27 Nov 2026 17:26:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "What to know about North Korean move to shut down Swiss diplomatic office",
+      "description": "North Korea has shut down a Swiss diplomatic office in Pyongyang and expelled its head, signaling a more assertive foreign policy",
+      "url": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+      "published": "Fri, 27 Nov 2026 02:23:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+      "description": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
+      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+      "published": "Fri, 27 Nov 2026 12:30:27 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
